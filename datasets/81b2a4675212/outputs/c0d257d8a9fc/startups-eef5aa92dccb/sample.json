@@ -1,0 +1,1835 @@
+[
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:42:37.257401+00:00",
+    "checked_urls": [
+      "https://www.mariabike.com/en"
+    ],
+    "name": "Grupo MHS",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/9/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24991",
+    "tagline": "An electric vehicle",
+    "website": "https://www.mariabike.com/en",
+    "website_name": "Maria Bike",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:53:48.903149+00:00",
+    "checked_urls": [
+      "https://www.mixrift.com/about"
+    ],
+    "name": "Mixrift",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/14/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-25002",
+    "tagline": "XR Gaming Studio - Dublin & Bucharest",
+    "website": "https://www.mixrift.com/about",
+    "website_name": "MIXRIFT",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:42:15.159977+00:00",
+    "checked_urls": [
+      "https://www.grafema.xyz/"
+    ],
+    "name": "Grafema",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/9/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24736",
+    "tagline": "AI that executes your B2B prospecting",
+    "website": "https://www.grafema.xyz/",
+    "website_name": "Grafema",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:18:09.178421+00:00",
+    "checked_urls": [
+      "http://www.annea.ai"
+    ],
+    "name": "ANNEA",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/2/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20120",
+    "tagline": "The brain for RENEWABLES",
+    "website": "http://www.annea.ai",
+    "website_name": "ANNEA",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:42:24.602582+00:00",
+    "checked_urls": [
+      "https://www.grenaagames.com"
+    ],
+    "name": "Grenaa Games",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/9/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24990",
+    "tagline": null,
+    "website": "https://www.grenaagames.com",
+    "website_name": "Grenaa Games",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:20:44.025475+00:00",
+    "checked_urls": [
+      "https://simplifyer.io"
+    ],
+    "name": "Simplifyer",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/20/",
+    "pricing_information": "Core features are free; optional paid plans will offer more advanced insights and tools.",
+    "pricing_source_urls": [
+      "https://simplifyer.io"
+    ],
+    "pricing_status": "free_offer",
+    "startup_id": "m-22918",
+    "tagline": "Your money & your wellbeing, finally in sync.",
+    "website": "https://simplifyer.io",
+    "website_name": "Simplifyer",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:37:46.098553+00:00",
+    "checked_urls": [
+      "http://frontfiles.com"
+    ],
+    "name": "Frontfiles",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/8/",
+    "pricing_information": "Creators can use all tools free of charge, with no subscription, listing fee or feature paywall; Frontfiles deducts a 20% creator fee when work is licensed. Buyers pay the creator-set price plus a 20% buyer service fee and applicable taxes.",
+    "pricing_source_urls": [
+      "http://frontfiles.com"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-24730",
+    "tagline": "The source for real journalism content and the people who make it.",
+    "website": "http://frontfiles.com",
+    "website_name": "Frontfiles",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:24:57.857864+00:00",
+    "checked_urls": [
+      "https://comudel.com/"
+    ],
+    "name": "Comudel",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/5/",
+    "pricing_information": "A partir de 42,42 €/mês. Mensalidade dinâmica calculada em tempo real; o preço acompanha a atividade e a carga de trabalho da empresa.",
+    "pricing_source_urls": [
+      "https://comudel.com/"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-22760",
+    "tagline": "Nunca mais geres a empresa no escuro",
+    "website": "https://comudel.com/",
+    "website_name": "Comudel",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:10:40.250241+00:00",
+    "checked_urls": [],
+    "name": "Red Pine Studios",
+    "notes": "No website link provided by the portfolio",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/18/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-25031",
+    "tagline": null,
+    "website": null,
+    "website_name": null,
+    "website_status": "missing_website"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:29:26.740272+00:00",
+    "checked_urls": [
+      "https://dori.finance/",
+      "https://dori.finance/en/pricing/"
+    ],
+    "name": "Dori Finance",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/6/",
+    "pricing_information": "Starter: €20/month; Business: €39/month; Growth: €59/month. Custom pricing is available for larger organizations with specific needs; contact sales.",
+    "pricing_source_urls": [
+      "https://dori.finance/en/pricing/"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-22791",
+    "tagline": "Run finance in an hour, not three days.",
+    "website": "https://dori.finance/",
+    "website_name": "Dori Finance",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:03:57.995753+00:00",
+    "checked_urls": [
+      "http://pubmatic.com/products/openwrap/"
+    ],
+    "name": "OpenWrap",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/16/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20314",
+    "tagline": "MOBILE MONETIZATION. DELIVERED.",
+    "website": "http://pubmatic.com/products/openwrap/",
+    "website_name": "PubMatic",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:43:24.450271+00:00",
+    "checked_urls": [
+      "https://hints.so"
+    ],
+    "name": "Hints",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/10/",
+    "pricing_information": "Monthly: $10/month. Yearly: $84, save 30%.",
+    "pricing_source_urls": [
+      "https://hints.so"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-20227",
+    "tagline": "Update your CRM with Voice and Text",
+    "website": "https://hints.so",
+    "website_name": "Hints",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:35:44.616976+00:00",
+    "checked_urls": [],
+    "name": "Fantasme",
+    "notes": "No website link provided by the portfolio",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/8/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-22803",
+    "tagline": null,
+    "website": null,
+    "website_name": null,
+    "website_status": "missing_website"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:29:03.208208+00:00",
+    "checked_urls": [
+      "https://www.thegang.io/"
+    ],
+    "name": "The Gang",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/22/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-25053",
+    "tagline": "WE TAKE FUN VERY SERIOUSLY",
+    "website": "https://www.thegang.io/",
+    "website_name": "The Gang",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:34:18.460471+00:00",
+    "checked_urls": [
+      "https://www.vaulthaus.health/",
+      "https://www.vaulthaus.health/pricing"
+    ],
+    "name": "VaultHaus",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/24/",
+    "pricing_information": "Contact Sales is offered for all subscription plans. Additional features are available with cost per study.",
+    "pricing_source_urls": [
+      "https://www.vaulthaus.health/pricing"
+    ],
+    "pricing_status": "contact_sales",
+    "startup_id": "m-24927",
+    "tagline": "Faster Research from data you trust",
+    "website": "https://www.vaulthaus.health/",
+    "website_name": "VAULTHAUS",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:29:26.740106+00:00",
+    "checked_urls": [
+      "https://app.domicile0.com/services"
+    ],
+    "name": "Domicile0",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/6/",
+    "pricing_information": "Tax filing in Portugal LITE: 119.00 EUR; STANDARD: 199.00 EUR; PRO: 299.00 EUR. Get NIF: 99.00 EUR. Open company (LDA) in Portugal: 1,050.00 EUR. Open self-employment with Portugal address: 149.00 EUR. Open self-employment for non-residents: 199.00 EUR. Change address in NIF: 99.00 EUR. Manifestacao de interesse in Portugal: 99.00 EUR. Open bank account in Portugal: 249.00 EUR. Get NISS: 99.00 EUR. Obter o NIF: 99.00 EUR. FREE 15-min consultation in Portugal.",
+    "pricing_source_urls": [
+      "https://app.domicile0.com/services"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-20179",
+    "tagline": "enabling tax compliance in a borderless world",
+    "website": "https://app.domicile0.com/services",
+    "website_name": "Domicile0",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:30:19.717250+00:00",
+    "checked_urls": [],
+    "name": "EI (DWP)",
+    "notes": "No website link provided by the portfolio",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/7/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-24984",
+    "tagline": null,
+    "website": null,
+    "website_name": null,
+    "website_status": "missing_website"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:56:42.612380+00:00",
+    "checked_urls": [
+      "https://mobrand.com"
+    ],
+    "name": "Motobrand",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/14/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24805",
+    "tagline": "Built for apps that want real user actions",
+    "website": "https://mobrand.com",
+    "website_name": "Mobrand",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:01:21.164096+00:00",
+    "checked_urls": [
+      "https://www.nixar.ai",
+      "https://www.nixar.ai/pricing"
+    ],
+    "name": "Nixar",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/15/",
+    "pricing_information": "Free: $0/month; Basic: $300/month; Pro: $600/month; Enterprise: $3,600/month. Usage Rights add-on: $120/month for 5 assets. Enterprise includes 10 assets per month. | USD. Free: $0/month. Basic: $300/month. Pro: $600/month. Enterprise: $3,600/month. Usage Rights add-on: $120/month for 5 assets/month. Paid tiers have a 90-day minimum, then can be canceled anytime. Performance commission applies to all tiers.",
+    "pricing_source_urls": [
+      "https://www.nixar.ai",
+      "https://www.nixar.ai/pricing"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-24812",
+    "tagline": "Creator Marketing Platform",
+    "website": "https://www.nixar.ai",
+    "website_name": "Nixar",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:43:43.762962+00:00",
+    "checked_urls": [
+      "https://www.holywally.com"
+    ],
+    "name": "HolyWally",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/10/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20230",
+    "tagline": "With the HolyWally Digital Wallet Platform, anyone can build their own Digital Wallet in a matter of minutes",
+    "website": "https://www.holywally.com",
+    "website_name": "HolyWally",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:49:58.702132+00:00",
+    "checked_urls": [],
+    "name": "Kosmo",
+    "notes": "Homepage could not be read; tagline and pricing could not be verified",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/12/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-20259",
+    "tagline": null,
+    "website": "https://kosmoworld.io",
+    "website_name": null,
+    "website_status": "unavailable"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:17:04.342393+00:00",
+    "checked_urls": [
+      "https://loveadsup.com/"
+    ],
+    "name": "AdsUp",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24962",
+    "tagline": "Boost Your Brand's Love",
+    "website": "https://loveadsup.com/",
+    "website_name": "Love Ads Up",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:41:09.656785+00:00",
+    "checked_urls": [],
+    "name": "GamifYou",
+    "notes": "Homepage could not be read; tagline and pricing could not be verified",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/9/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-20207",
+    "tagline": null,
+    "website": "https://gamifyou.com/",
+    "website_name": null,
+    "website_status": "unavailable"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:43:11.936486+00:00",
+    "checked_urls": [
+      "https://hely.care"
+    ],
+    "name": "Hely",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/10/",
+    "pricing_information": "Published service prices range from 18.00€ to 160.00€ per consultation or service.",
+    "pricing_source_urls": [
+      "https://hely.care"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-24744",
+    "tagline": "HELY Care, Anytime, Anywhere!",
+    "website": "https://hely.care",
+    "website_name": "HELY Care",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:47:14.468442+00:00",
+    "checked_urls": [
+      "https://intriq.ai/"
+    ],
+    "name": "Intriq",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/11/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24761",
+    "tagline": "Autonomous AI Agents Empowering Advisors with Deal-Ready Corporate Finance Insights",
+    "website": "https://intriq.ai/",
+    "website_name": "Intriq AI",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:17:49.176326+00:00",
+    "checked_urls": [
+      "https://www.aivis.nl"
+    ],
+    "name": "Aivis",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24637",
+    "tagline": "Intelligent AI Agents for Enterprise Solutions",
+    "website": "https://www.aivis.nl",
+    "website_name": "AIVIS",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:44:27.695548+00:00",
+    "checked_urls": [],
+    "name": "Hubseed",
+    "notes": "No website link provided by the portfolio",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/11/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-25074",
+    "tagline": null,
+    "website": null,
+    "website_name": null,
+    "website_status": "missing_website"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:47:55.938629+00:00",
+    "checked_urls": [
+      "https://www.kauschlau.de"
+    ],
+    "name": "KauSchlau",
+    "notes": "Website identity could not be verified against the portfolio startup",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/12/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-24766",
+    "tagline": null,
+    "website": "https://www.kauschlau.de",
+    "website_name": null,
+    "website_status": "identity_unverified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:16:12.134027+00:00",
+    "checked_urls": [],
+    "name": "Shar App",
+    "notes": "Homepage could not be read; tagline and pricing could not be verified",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/19/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-25039",
+    "tagline": null,
+    "website": "https://shar-app.com",
+    "website_name": null,
+    "website_status": "unavailable"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:28:17.404471+00:00",
+    "checked_urls": [
+      "https://daisee.io/"
+    ],
+    "name": "DAISEE",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/6/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-22771",
+    "tagline": "Agentes Inteligentes para transformar documentos em conhecimento estratégico",
+    "website": "https://daisee.io/",
+    "website_name": "Daisee",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:23:15.366800+00:00",
+    "checked_urls": [
+      "https://chaptly.app/"
+    ],
+    "name": "Chaptlyu",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/4/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24680",
+    "tagline": "Healing Made Easier",
+    "website": "https://chaptly.app/",
+    "website_name": "Chaptly",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:11:16.462723+00:00",
+    "checked_urls": [
+      "https://www.butler.expert"
+    ],
+    "name": "Remote Butler",
+    "notes": "Website identity could not be verified against the portfolio startup",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/19/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-24862",
+    "tagline": null,
+    "website": "https://www.butler.expert",
+    "website_name": null,
+    "website_status": "identity_unverified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:34:25.966542+00:00",
+    "checked_urls": [
+      "http://www.verbowise.pt"
+    ],
+    "name": "Verbo",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/24/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24926",
+    "tagline": "Push-to-talk platform for logistics, hotels and residences",
+    "website": "http://www.verbowise.pt",
+    "website_name": "Verbo",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:35:37.315086+00:00",
+    "checked_urls": [
+      "https://esg.exo-team.com/",
+      "https://esg.exo-team.com/pricing"
+    ],
+    "name": "EXO",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/7/",
+    "pricing_information": "Manage data collection, stakeholder input and reporting for free. Comply for free with CSRD and future ESG regulations at no cost. | Yearly billed: Free plan €0/year; Starter €864/year; Enterprise starting from €3,000/year; Consultancy custom pricing. Starter plan offers a 7-day free trial.",
+    "pricing_source_urls": [
+      "https://esg.exo-team.com/",
+      "https://esg.exo-team.com/pricing"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-24988",
+    "tagline": "ESG reporting and performance made easy.",
+    "website": "https://esg.exo-team.com/",
+    "website_name": "EXO.G",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:43:11.936534+00:00",
+    "checked_urls": [
+      "https://hermesprotocol.io"
+    ],
+    "name": "Hermes Protocol",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/10/",
+    "pricing_information": "100% free for users.",
+    "pricing_source_urls": [
+      "https://hermesprotocol.io"
+    ],
+    "pricing_status": "free_offer",
+    "startup_id": "m-20226",
+    "tagline": "Connecting everything and everyone in Web3.",
+    "website": "https://hermesprotocol.io",
+    "website_name": "Hermes Protocol",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:01:34.714329+00:00",
+    "checked_urls": [
+      "https://gonuclei.com/"
+    ],
+    "name": "Nuclei",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/16/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20306",
+    "tagline": "Lead with Purpose-driven Ecosystems",
+    "website": "https://gonuclei.com/",
+    "website_name": "Nuclei",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:08:59.798090+00:00",
+    "checked_urls": [
+      "https://promofy.ai"
+    ],
+    "name": "Promofy",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/18/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24844",
+    "tagline": "AI-Driven Gamification & Loyalty Suite",
+    "website": "https://promofy.ai",
+    "website_name": "Promofy",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:42:15.159902+00:00",
+    "checked_urls": [
+      "https://www.gowizi.com"
+    ],
+    "name": "GoWizi",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/9/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20216",
+    "tagline": "Transforming Last-Mile Delivery with AI",
+    "website": "https://www.gowizi.com",
+    "website_name": "GoWizi",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:23:40.951525+00:00",
+    "checked_urls": [
+      "https://www.strategyscout.ai"
+    ],
+    "name": "StrategyScout",
+    "notes": "Website identity could not be verified against the portfolio startup",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/21/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-20377",
+    "tagline": null,
+    "website": "https://www.strategyscout.ai",
+    "website_name": null,
+    "website_status": "identity_unverified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:35:57.614983+00:00",
+    "checked_urls": [
+      "https://www.wiseclean.eu/en/home",
+      "https://www.wiseclean.eu/en/prices",
+      "https://www.wiseclean.eu/en/prices/all"
+    ],
+    "name": "WiseClean",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/25/",
+    "pricing_information": "Maintenance Cleaning from €39; Move-in / Move-out Cleaning from €95; Window Cleaning from €39; Add-ons from €4. Premium no-deductible damage insurance: €7 per cleaning; bring-vacuum-cleaner extra: €19. Subscription discounts: up to 10% weekly, 5% bi-weekly, and 3% every three weeks. | Maintenance Cleaning: from €39; Move-in / Move-out Cleaning: from €95; Window Cleaning: from €39. Recurring cleaning discounts: 10% off weekly, 5% off bi-weekly, and 3% off every-3-weeks bookings. | Maintenance cleaning: Studio <25m² €39; 1-room apartment €44; 2-room apartment €55; 3-room apartment €66; 4-room apartment €85; 5-room apartment €95; house ≤80m² €79; house 80–140m² €99; house 140–220m² €139; house 220–300m² €169. Optional extras are also priced, including ironing (1 hour) €18, bed linen change €3, closet organising €12, walls & cabinets €39, washing machine inside €8, sofa dry cleaning €60, corner sofa dry cleaning €70, kitchen cabinets inside €16, kitchen hood €10, fridge inside €9, oven inside €7, microwave inside €5, dishwasher inside €10, dishwashing (1 hour) €15, window cleaning per window €10, balcony cleaning per balcony €8, clean 2 balconies €16, balcony glazing €20, balcony clean + deck scrub €22, balcony glazing XL €32, window spot cleaning (inside, up to 5 windows) €15, bring vacuum cleaner €19, pet litter tray per tray €4, trash removal €3, shower drain cleaning €3, top rated cleaner €13, and premium damage insurance €7. Subscription discounts: weekly 10% off, bi-weekly 5% off, every 3 weeks 3% off.",
+    "pricing_source_urls": [
+      "https://www.wiseclean.eu/en/home",
+      "https://www.wiseclean.eu/en/prices",
+      "https://www.wiseclean.eu/en/prices/all"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-24942",
+    "tagline": "Professional Home Cleaning. Book in 60 Seconds.",
+    "website": "https://www.wiseclean.eu/en/home",
+    "website_name": "WiseClean",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:05:09.835074+00:00",
+    "checked_urls": [],
+    "name": "Pet Friend",
+    "notes": "Homepage could not be read; tagline and pricing could not be verified",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/17/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-20322",
+    "tagline": null,
+    "website": "https://petfriend.pt",
+    "website_name": null,
+    "website_status": "unavailable"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:41:11.225742+00:00",
+    "checked_urls": [
+      "http://yooddle.com"
+    ],
+    "name": "Yooddle",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/25/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24954",
+    "tagline": "The easy, intuitive brand amplifier for teams, partners and consumers.",
+    "website": "http://yooddle.com",
+    "website_name": "Yooddle",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:29:58.838189+00:00",
+    "checked_urls": [
+      "https://tilect.ai",
+      "https://tilect.ai/platform/pricing-optimization"
+    ],
+    "name": "Tilect",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/22/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24914",
+    "tagline": "The pricing platform that predicts demand .",
+    "website": "https://tilect.ai",
+    "website_name": "Tilect",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:27:44.353457+00:00",
+    "checked_urls": [
+      "https://susplus.tech/"
+    ],
+    "name": "Susplus",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/21/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24899",
+    "tagline": "Making decarbonisation possible for every company, no matter its size.",
+    "website": "https://susplus.tech/",
+    "website_name": "Susplus",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:32:17.086754+00:00",
+    "checked_urls": [
+      "http://www.trueodysseys.com/"
+    ],
+    "name": "TrueOdysseys",
+    "notes": "Website identity could not be verified against the portfolio startup",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/23/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-20401",
+    "tagline": null,
+    "website": "http://www.trueodysseys.com/",
+    "website_name": null,
+    "website_status": "identity_unverified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:20:26.018329+00:00",
+    "checked_urls": [
+      "https://evblocshare.com"
+    ],
+    "name": "BLOCSHARE",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/3/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24661",
+    "tagline": "For Every One, Every Business, Every Electric Vehicle",
+    "website": "https://evblocshare.com",
+    "website_name": "EV BlocShare",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:14:51.655789+00:00",
+    "checked_urls": [
+      "https://sentrion.ai",
+      "https://sentrion.ai/pricing/sentrion",
+      "https://sentrion.ai/pricing/jobs-api",
+      "https://sentrion.ai/pricing"
+    ],
+    "name": "Sentrion",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/19/",
+    "pricing_information": "Monthly subscription in USD: $40/month for 1,500 credits per month ($26.67 per 1,000 credits). Starts with 500 free credits. Unused credits roll over and remain valid for 12 months from purchase; top-ups are charged at the plan’s per-credit rate.",
+    "pricing_source_urls": [
+      "https://sentrion.ai/pricing/jobs-api"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-24871",
+    "tagline": "Know your market. Win more of it.",
+    "website": "https://sentrion.ai",
+    "website_name": "Sentrion",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:10:28.085636+00:00",
+    "checked_urls": [
+      "https://www.reach-velocity.ai"
+    ],
+    "name": "Reach Velocity",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/18/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24855",
+    "tagline": "Recruitment Experts in emerging tech",
+    "website": "https://www.reach-velocity.ai",
+    "website_name": "Reach Velocity",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:33:50.208854+00:00",
+    "checked_urls": [
+      "https://enidog.com/"
+    ],
+    "name": "EniDog",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/7/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24987",
+    "tagline": "AI Coach for Sports. Performance. Readiness. Risk.",
+    "website": "https://enidog.com/",
+    "website_name": "Enidog",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:28:22.104417+00:00",
+    "checked_urls": [],
+    "name": "Tandm",
+    "notes": "Homepage could not be read; tagline and pricing could not be verified",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/22/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-25048",
+    "tagline": null,
+    "website": "https://www.notion.sotandm.bid",
+    "website_name": null,
+    "website_status": "unavailable"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:40:48.652781+00:00",
+    "checked_urls": [
+      "https://xeo360.com/"
+    ],
+    "name": "XEON360",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/25/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24946",
+    "tagline": "We make AI Search profitable.",
+    "website": "https://xeo360.com/",
+    "website_name": "XEO360",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:22:10.174356+00:00",
+    "checked_urls": [
+      "https://www.somnic.pt"
+    ],
+    "name": "Somnic",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/20/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-25079",
+    "tagline": "News should talk to you",
+    "website": "https://www.somnic.pt",
+    "website_name": "Somnic",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:51:41.938077+00:00",
+    "checked_urls": [
+      "https://www.manie.pt/"
+    ],
+    "name": "Manie",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/13/",
+    "pricing_information": "O serviço é totalmente gratuito para os utilizadores.",
+    "pricing_source_urls": [
+      "https://www.manie.pt/"
+    ],
+    "pricing_status": "free_offer",
+    "startup_id": "m-22855",
+    "tagline": "O melhor preço para a tua energia",
+    "website": "https://www.manie.pt/",
+    "website_name": "Manie",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:57:50.157881+00:00",
+    "checked_urls": [
+      "https://www.mycareforce.co/"
+    ],
+    "name": "MyCareforce",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/14/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20291",
+    "tagline": "O marketplace da enfermagem em Portugal",
+    "website": "https://www.mycareforce.co/",
+    "website_name": "MyCareforce",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:51:41.938154+00:00",
+    "checked_urls": [
+      "https://mantis-ai.com/"
+    ],
+    "name": "Mantis-AI",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/13/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20249",
+    "tagline": "The Data Intelligence Layer for Media Workflows. Automated by your Logic.",
+    "website": "https://mantis-ai.com/",
+    "website_name": "Mantis AI",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:47:38.715346+00:00",
+    "checked_urls": [
+      "https://getjoiner.com"
+    ],
+    "name": "Joiner",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/12/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24769",
+    "tagline": "Find your crowd for whatever you want to do",
+    "website": "https://getjoiner.com",
+    "website_name": "Joiner",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:24:36.442021+00:00",
+    "checked_urls": [
+      "https://coalex.ai"
+    ],
+    "name": "Coalex.ai",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/5/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24691",
+    "tagline": "AI You Can Put Your Name On",
+    "website": "https://coalex.ai",
+    "website_name": "Coalex.ai",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:08:59.798147+00:00",
+    "checked_urls": [
+      "https://proofmarked.com/",
+      "https://proofmarked.com/pricing"
+    ],
+    "name": "Proofmarket",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/18/",
+    "pricing_information": "Starter: €300 one-time set-up fee to validate trademark ownership rights. Brand: €199/month. Growth: €999/month. Enterprise: custom pricing. Brand, Growth, and Enterprise plans: first email domain/subdomain + €100/month; each additional email domain/subdomain + €50/month.",
+    "pricing_source_urls": [
+      "https://proofmarked.com/pricing"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-25028",
+    "tagline": "Proof of Legitimacy - in the browser and the inbox",
+    "website": "https://proofmarked.com/",
+    "website_name": "Proofmarked",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:14:51.655748+00:00",
+    "checked_urls": [
+      "https://www.sentivue.com/"
+    ],
+    "name": "SentiVue",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/19/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20351",
+    "tagline": "Every conversation, multilingual at every stage.",
+    "website": "https://www.sentivue.com/",
+    "website_name": "SentiVue",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:44:53.760137+00:00",
+    "checked_urls": [
+      "https://www.ili-ad.com/"
+    ],
+    "name": "iliAD",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/11/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24759",
+    "tagline": "iliAD ad serving is creating a positive future for advertising in Spatial Computing & Mixed Reality",
+    "website": "https://www.ili-ad.com/",
+    "website_name": "iliAD",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:04:30.991536+00:00",
+    "checked_urls": [
+      "https://palko.ai"
+    ],
+    "name": "Palko",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/16/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20317",
+    "tagline": "Sell out your concerts with Palko.",
+    "website": "https://palko.ai",
+    "website_name": "Palko",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:43:43.762909+00:00",
+    "checked_urls": [
+      "https://laiwastesolutions.com/"
+    ],
+    "name": "Holistic Waste Management",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/10/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-25073",
+    "tagline": "Your waste data, all in one system.",
+    "website": "https://laiwastesolutions.com/",
+    "website_name": "L.ai — Holistic Waste Management",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:44:53.760190+00:00",
+    "checked_urls": [
+      "https://ilyas.ai",
+      "https://ilyas.ai/pricing"
+    ],
+    "name": "Ilyas",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/11/",
+    "pricing_information": "Starter and Enterprise plans are listed as Custom pricing.",
+    "pricing_source_urls": [
+      "https://ilyas.ai/pricing"
+    ],
+    "pricing_status": "contact_sales",
+    "startup_id": "m-24758",
+    "tagline": "AI-native decision-making for enterprise architecture and IT portfolios",
+    "website": "https://ilyas.ai",
+    "website_name": "Ilyas",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:18:09.178171+00:00",
+    "checked_urls": [
+      "https://www.ambula.pt/"
+    ],
+    "name": "Ambula",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/2/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24642",
+    "tagline": "A sua saúde, a nossa prioridade.",
+    "website": "https://www.ambula.pt/",
+    "website_name": "Ambula",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:02:11.518720+00:00",
+    "checked_urls": [],
+    "name": "OceanKraft",
+    "notes": "No website link provided by the portfolio",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/16/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-25017",
+    "tagline": null,
+    "website": null,
+    "website_name": null,
+    "website_status": "missing_website"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:00:07.533797+00:00",
+    "checked_urls": [
+      "https://www.neuraspace.com/"
+    ],
+    "name": "Neuraspace",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/15/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20300",
+    "tagline": "Smart Autonomy for Space",
+    "website": "https://www.neuraspace.com/",
+    "website_name": "Neuraspace",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:28:17.404346+00:00",
+    "checked_urls": [
+      "https://www.dagama.world"
+    ],
+    "name": "daGama",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/6/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-22769",
+    "tagline": "reDiscovery of your world",
+    "website": "https://www.dagama.world",
+    "website_name": "daGama",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:06:51.263529+00:00",
+    "checked_urls": [
+      "https://plantz.pt/"
+    ],
+    "name": "Plantz",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/17/",
+    "pricing_information": "Pratos em destaque: €6,90 e €7,90.",
+    "pricing_source_urls": [
+      "https://plantz.pt/"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-20326",
+    "tagline": "Refeições Prontas que Tornarão a Sua Vida Mais Fácil",
+    "website": "https://plantz.pt/",
+    "website_name": "PLANTZ",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:22:10.174418+00:00",
+    "checked_urls": [
+      "https://www.soulution.ai/"
+    ],
+    "name": "Soulution.AI",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/20/",
+    "pricing_information": "Pulse: $490 starting price, no subscription. Digaso: €0 to start, 20 conversations a month. RevealWhy: 1,000 sessions a month free. Rosto: $10 to own an avatar for life; $0 per view, minute or message. Penguins: no pricing stated.",
+    "pricing_source_urls": [
+      "https://www.soulution.ai/"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-20366",
+    "tagline": "Understand first. Build second.",
+    "website": "https://www.soulution.ai/",
+    "website_name": "Soulution",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:13:37.818544+00:00",
+    "checked_urls": [
+      "https://www.safetyscope.eu"
+    ],
+    "name": "SafetyScope",
+    "notes": "Website identity could not be verified against the portfolio startup",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/19/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-24869",
+    "tagline": null,
+    "website": "https://www.safetyscope.eu",
+    "website_name": null,
+    "website_status": "identity_unverified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:23:25.121804+00:00",
+    "checked_urls": [
+      "https://www.cleanup.pt/"
+    ],
+    "name": "CleanUP",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/5/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20155",
+    "tagline": "Shaking up Laundry. Elevating Businesses.",
+    "website": "https://www.cleanup.pt/",
+    "website_name": "cleanup",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:42:15.160006+00:00",
+    "checked_urls": [
+      "https://granter.ai/"
+    ],
+    "name": "Granter.ai",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/9/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20217",
+    "tagline": "The AI agent that gets more grants into your organisation",
+    "website": "https://granter.ai/",
+    "website_name": "Granter",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:19:50.235813+00:00",
+    "checked_urls": [
+      "https://www.balviaecosystems.com"
+    ],
+    "name": "Balvia Ecosystems",
+    "notes": "Website identity could not be verified against the portfolio startup",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/3/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-22726",
+    "tagline": null,
+    "website": "https://www.balviaecosystems.com",
+    "website_name": null,
+    "website_status": "identity_unverified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:23:55.923699+00:00",
+    "checked_urls": [],
+    "name": "SupaDupa",
+    "notes": "Homepage could not be read; tagline and pricing could not be verified",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/21/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-20380",
+    "tagline": null,
+    "website": "https://www.supadupa.gg",
+    "website_name": null,
+    "website_status": "unavailable"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:40:48.652863+00:00",
+    "checked_urls": [
+      "https://yaizy.io/"
+    ],
+    "name": "Yaizy",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/25/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20429",
+    "tagline": "Empowering K‑12 Students for Future Digital Careers",
+    "website": "https://yaizy.io/",
+    "website_name": "YaizY",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:35:37.315055+00:00",
+    "checked_urls": [
+      "https://unleashyourgrowthpotential.kit.com/newsletter"
+    ],
+    "name": "Executive Career Coaching",
+    "notes": "Website identity could not be verified against the portfolio startup",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/7/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-22801",
+    "tagline": null,
+    "website": "https://unleashyourgrowthpotential.kit.com/newsletter",
+    "website_name": null,
+    "website_status": "identity_unverified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:35:46.029889+00:00",
+    "checked_urls": [
+      "https://windcredible.com/"
+    ],
+    "name": "Windcredible",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/24/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20423",
+    "tagline": "Revolutionary Urban Wind Turbine",
+    "website": "https://windcredible.com/",
+    "website_name": "Windcredible",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:50:07.131723+00:00",
+    "checked_urls": [
+      "http://www.layacycle.com"
+    ],
+    "name": "Layla Cycle",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/13/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24787",
+    "tagline": "Finally, Natural Relief That Works",
+    "website": "http://www.layacycle.com",
+    "website_name": "LayaCycle",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:35:37.315115+00:00",
+    "checked_urls": [
+      "https://www.extratime.io/"
+    ],
+    "name": "Extratime",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/7/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24713",
+    "tagline": "Adaptive dynamic advertising for live streaming",
+    "website": "https://www.extratime.io/",
+    "website_name": "Extratime",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:34:08.935448+00:00",
+    "checked_urls": [
+      "http://www.useflow.tech",
+      "http://www.useflow.tech/2024_precos"
+    ],
+    "name": "Useflow",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/23/",
+    "pricing_information": "Teste seis meses de graça.",
+    "pricing_source_urls": [
+      "http://www.useflow.tech"
+    ],
+    "pricing_status": "free_offer",
+    "startup_id": "m-20409",
+    "tagline": "Teste seis meses de graça, a melhor plataforma de comunicação interna do mercado. Sim, existe.",
+    "website": "http://www.useflow.tech",
+    "website_name": "USEFLOW",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:17:49.176402+00:00",
+    "checked_urls": [
+      "https://alfalupo.com/"
+    ],
+    "name": "Alfa Lupo",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-22710",
+    "tagline": "Smart wayfinding and content for all visitors to heritage destinations",
+    "website": "https://alfalupo.com/",
+    "website_name": "Alfa Lupo",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:08:44.852266+00:00",
+    "checked_urls": [
+      "https://portalbunny.com"
+    ],
+    "name": "PortalBunny",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/17/",
+    "pricing_information": "Published deal prices include $250 starting price during the pilot; example offers range from $50 to $10,000. Creators pay nothing to join, list offers or sell. Buyers pay a fee on top: 10% on the first $10,000, 8% on the next $15,000, and 6% above $25,000.",
+    "pricing_source_urls": [
+      "https://portalbunny.com"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-22895",
+    "tagline": "Creator deals, on the record",
+    "website": "https://portalbunny.com",
+    "website_name": "PortalBunny",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:10:40.251544+00:00",
+    "checked_urls": [
+      "https://rederua.pt"
+    ],
+    "name": "Rede Rua",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/18/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-25033",
+    "tagline": "Notícias geolocalizadas em tempo real para saberes tudo o que se passa à tua volta.",
+    "website": "https://rederua.pt",
+    "website_name": "RUA",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:11:16.462642+00:00",
+    "checked_urls": [
+      "https://www.relocatenow.io"
+    ],
+    "name": "Relocate Now",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/19/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24861",
+    "tagline": "Making your move & life abroad simpler",
+    "website": "https://www.relocatenow.io",
+    "website_name": "Relocate Now",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:10:28.085748+00:00",
+    "checked_urls": [
+      "https://recru-landing.webflow.io/"
+    ],
+    "name": "RECRU",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/18/",
+    "pricing_information": "Custom-built for every company and every need. Freelancer: 1 user included; PRO: up to 25 users; ENTERPRISE: more than 25 users. Contact us for pricing.",
+    "pricing_source_urls": [
+      "https://recru-landing.webflow.io/"
+    ],
+    "pricing_status": "contact_sales",
+    "startup_id": "m-24857",
+    "tagline": "Automate recruitment. Gain Time, Gain Control, Gain Quality, Gain Profit.",
+    "website": "https://recru-landing.webflow.io/",
+    "website_name": "RECRU",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:28:53.350896+00:00",
+    "checked_urls": [
+      "https://www.espacoaocubo.pt/tejoOne"
+    ],
+    "name": "TejoOne",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/22/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-25049",
+    "tagline": "The first Portuguese satellite developed exclusively by students.",
+    "website": "https://www.espacoaocubo.pt/tejoOne",
+    "website_name": "TejoOne",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:21:29.201657+00:00",
+    "checked_urls": [
+      "https://www.getsnippets.ai/"
+    ],
+    "name": "Snippets AI",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/20/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-22920",
+    "tagline": "Know what an LLM actually costs.",
+    "website": "https://www.getsnippets.ai/",
+    "website_name": "Snippets AI",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:19:44.111926+00:00",
+    "checked_urls": [],
+    "name": "AwesomeArt",
+    "notes": "No website link provided by the portfolio",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/3/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-25083",
+    "tagline": null,
+    "website": null,
+    "website_name": null,
+    "website_status": "missing_website"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:20:44.025426+00:00",
+    "checked_urls": [
+      "https://www.silentreturns.com/"
+    ],
+    "name": "Silent Returns",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/20/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24876",
+    "tagline": "Building Technologies to Gather Priceless Data from Ultra Remote Natural Systems",
+    "website": "https://www.silentreturns.com/",
+    "website_name": "Silent Returns",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:18:09.178337+00:00",
+    "checked_urls": [
+      "https://www.amp-assist.com"
+    ],
+    "name": "Amp Assist",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/2/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24644",
+    "tagline": "Transform Your EV Charging Operations",
+    "website": "https://www.amp-assist.com",
+    "website_name": "Amp Assist",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:31:42.968639+00:00",
+    "checked_urls": [
+      "https://tokenwised.com/"
+    ],
+    "name": "Tokenwised",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/22/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-20395",
+    "tagline": "Web3 Studio",
+    "website": "https://tokenwised.com/",
+    "website_name": "TOKENWised",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:37:26.810972+00:00",
+    "checked_urls": [
+      "https://www.farmlyclub.com/"
+    ],
+    "name": "Farmly",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/8/",
+    "pricing_information": "Featured coffees: €16.14, €12.30, €11.29, €10.56, and €11.53 per listed lot.",
+    "pricing_source_urls": [
+      "https://www.farmlyclub.com/"
+    ],
+    "pricing_status": "published_prices",
+    "startup_id": "m-20196",
+    "tagline": "The digital bridge between specialty coffee producers and global roasters",
+    "website": "https://www.farmlyclub.com/",
+    "website_name": "Farmly",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:22:45.650366+00:00",
+    "checked_urls": [
+      "https://bythelaw.com/en/"
+    ],
+    "name": "ByTheLaw",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/4/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24676",
+    "tagline": "The legal AI that simplifies law.",
+    "website": "https://bythelaw.com/en/",
+    "website_name": "ByTheLaw",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:06:51.263443+00:00",
+    "checked_urls": [
+      "https://www.pinchlab.co/"
+    ],
+    "name": "Pinch labs",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/17/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-25024",
+    "tagline": "Building products for Startups & Enterprises .",
+    "website": "https://www.pinchlab.co/",
+    "website_name": "PinchLabs",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:16:12.133979+00:00",
+    "checked_urls": [],
+    "name": "Shake",
+    "notes": "Homepage could not be read; tagline and pricing could not be verified",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/19/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-20357",
+    "tagline": null,
+    "website": "https://shake.io/",
+    "website_name": null,
+    "website_status": "unavailable"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:51:18.021539+00:00",
+    "checked_urls": [
+      "https://luminera.we-lovedigi.com/"
+    ],
+    "name": "Luminera",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/13/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24786",
+    "tagline": "Personalised, AI-powered patient education pages — ready in under 3 minutes.",
+    "website": "https://luminera.we-lovedigi.com/",
+    "website_name": "Luminera",
+    "website_status": "verified"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T15:34:56.740853+00:00",
+    "checked_urls": [
+      "https://wedeglobal.com/"
+    ],
+    "name": "Wede",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/24/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24932",
+    "tagline": "Operational continuity for critical services",
+    "website": "https://wedeglobal.com/",
+    "website_name": "wede",
+    "website_status": "verified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T15:08:32.270487+00:00",
+    "checked_urls": [
+      "https://platma.com/"
+    ],
+    "name": "PLATMA",
+    "notes": "Website identity could not be verified against the portfolio startup",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/17/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-20327",
+    "tagline": null,
+    "website": "https://platma.com/",
+    "website_name": null,
+    "website_status": "identity_unverified"
+  },
+  {
+    "alive": false,
+    "checked_at": "2026-10-12T14:47:26.870965+00:00",
+    "checked_urls": [],
+    "name": "James Lea-Baran",
+    "notes": "No website link provided by the portfolio",
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/12/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "unavailable",
+    "startup_id": "m-24999",
+    "tagline": null,
+    "website": null,
+    "website_name": null,
+    "website_status": "missing_website"
+  },
+  {
+    "alive": true,
+    "checked_at": "2026-10-12T14:22:38.324566+00:00",
+    "checked_urls": [
+      "https://getbud.co/"
+    ],
+    "name": "Bud",
+    "notes": null,
+    "portfolio_url": "https://unicornfactorylisboa.com/portfolio/4/",
+    "pricing_information": null,
+    "pricing_source_urls": [],
+    "pricing_status": "not_found_on_checked_pages",
+    "startup_id": "m-24670",
+    "tagline": "The operating system for performance.",
+    "website": "https://getbud.co/",
+    "website_name": "Bud",
+    "website_status": "verified"
+  }
+]

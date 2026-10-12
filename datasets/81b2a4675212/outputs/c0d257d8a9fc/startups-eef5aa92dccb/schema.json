@@ -1,0 +1,58 @@
+[
+  {
+    "name": "startup_id",
+    "type": "text"
+  },
+  {
+    "name": "name",
+    "type": "text"
+  },
+  {
+    "name": "website",
+    "type": "text"
+  },
+  {
+    "name": "portfolio_url",
+    "type": "text"
+  },
+  {
+    "name": "alive",
+    "type": "boolean"
+  },
+  {
+    "name": "website_name",
+    "type": "text"
+  },
+  {
+    "name": "tagline",
+    "type": "text"
+  },
+  {
+    "name": "pricing_information",
+    "type": "text"
+  },
+  {
+    "name": "pricing_status",
+    "type": "text"
+  },
+  {
+    "name": "website_status",
+    "type": "text"
+  },
+  {
+    "name": "checked_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "pricing_source_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  }
+]

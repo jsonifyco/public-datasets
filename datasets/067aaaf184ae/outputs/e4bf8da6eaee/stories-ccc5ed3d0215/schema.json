@@ -1,0 +1,66 @@
+[
+  {
+    "name": "ai_tag",
+    "type": "text"
+  },
+  {
+    "name": "author",
+    "type": "text"
+  },
+  {
+    "name": "classification_basis",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "comment_count",
+    "type": "integer"
+  },
+  {
+    "name": "feed",
+    "type": "text"
+  },
+  {
+    "name": "hn_url",
+    "type": "text"
+  },
+  {
+    "name": "is_ai",
+    "type": "boolean"
+  },
+  {
+    "name": "needs_review",
+    "type": "boolean"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "integer"
+  },
+  {
+    "name": "score",
+    "type": "integer"
+  },
+  {
+    "name": "story_id",
+    "type": "jsonb"
+  },
+  {
+    "name": "text",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

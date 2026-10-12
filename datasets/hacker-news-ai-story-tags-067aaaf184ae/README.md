@@ -12,7 +12,7 @@ Read a configurable Hacker News feed \(top 30 by default\) and tag each live sto
 
 ## The brief
 
-> make a pipeline that reads hackernews and tags each story whether it&\#x27;s ai or not\.
+> make a pipeline that reads hackernews and tags each story whether it's ai or not\.
 
 Original request to Jason.
 
@@ -70,7 +70,7 @@ flowchart LR
 ```
 
 - **read\_feed**: Read a fresh ranked snapshot of the selected Hacker News feed\.
-- **read\_story**: Read each story&\#x27;s title, URL, post text, score, author and comment count from Hacker News\.
+- **read\_story**: Read each story's title, URL, post text, score, author and comment count from Hacker News\.
 - **tag\_ai**: Tag each story AI or not AI using its Hacker News title, URL and post text; flag uncertain decisions\.
 - **validate**: Check story identities and tags, then preserve the source feed ranking in the saved snapshot\.
 - **stories**: Latest Hacker News stories with AI tags and source links\.

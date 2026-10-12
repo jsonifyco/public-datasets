@@ -67,7 +67,7 @@ flowchart LR
   n3 --> n4
 ```
 
-- **pages**: Read the portfolio&\#x27;s current pagination and enumerate every directory page\.
+- **pages**: Read the portfolio's current pagination and enumerate every directory page\.
 - **directory**: Parse every startup card on each portfolio page and preserve the listed company website\.
 - **validate\_directory**: Validate unique portfolio identities before visiting websites; never silently discard repeated pages\.
 - **website\_details**: Visit each official homepage and relevant linked pricing pages; extract evidence\-backed taglines and prices, retaining unavailable sites with explicit status\.

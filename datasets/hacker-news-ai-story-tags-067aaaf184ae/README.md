@@ -25,11 +25,11 @@ Published: 2026-10-12T19:02:52.473323Z · Producing pipeline version: 1
 
 | ai\_tag | author | classification\_basis | collected\_at | comment\_count | feed | hn\_url | is\_ai |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Not AI | PaulHoule | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:01:18\.396139\+00:00 | 0 | top | https://news\.ycombinator\.com/item?id=50060674 | False |
-| AI | ilreb | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:57\.764414\+00:00 | 146 | top | https://news\.ycombinator\.com/item?id=50058507 | True |
-| AI | vishnukool | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:50\.248563\+00:00 | 29 | top | https://news\.ycombinator\.com/item?id=50059096 | True |
-| AI | DeepLogin | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:57\.479640\+00:00 | 37 | top | https://news\.ycombinator\.com/item?id=50060500 | True |
-| Not AI | djfergus | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:01:10\.884088\+00:00 | 40 | top | https://news\.ycombinator\.com/item?id=50055593 | False |
+| Not AI | PaulHoule | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:01:18\.396139\+00:00 | 0 | top | [https://news\.ycombinator\.com/item?id=50060674](<https://news.ycombinator.com/item?id=50060674>) | False |
+| AI | ilreb | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:57\.764414\+00:00 | 146 | top | [https://news\.ycombinator\.com/item?id=50058507](<https://news.ycombinator.com/item?id=50058507>) | True |
+| AI | vishnukool | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:50\.248563\+00:00 | 29 | top | [https://news\.ycombinator\.com/item?id=50059096](<https://news.ycombinator.com/item?id=50059096>) | True |
+| AI | DeepLogin | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:57\.479640\+00:00 | 37 | top | [https://news\.ycombinator\.com/item?id=50060500](<https://news.ycombinator.com/item?id=50060500>) | True |
+| Not AI | djfergus | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:01:10\.884088\+00:00 | 40 | top | [https://news\.ycombinator\.com/item?id=50055593](<https://news.ycombinator.com/item?id=50055593>) | False |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
 

@@ -12,7 +12,7 @@ All startups listed in the Unicorn Factory Lisboa portfolio, with names, officia
 
 ## The brief
 
-> I want to build a pipeline: A list of all startups on https://unicornfactorylisboa\.com/portfolio/ \-\- go to each website and find name, tagline, pricing information too\.
+> I want to build a pipeline: A list of all startups on [https://unicornfactorylisboa\.com/portfolio/](<https://unicornfactorylisboa.com/portfolio/>) \-\- go to each website and find name, tagline, pricing information too\.
 
 Original request to Jason.
 
@@ -25,11 +25,11 @@ Published: 2026-10-12T15:41:47.150674Z · Producing pipeline version: 2
 
 | startup\_id | name | website | portfolio\_url | alive | website\_name | tagline | pricing\_information |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| m\-24991 | Grupo MHS | https://www\.mariabike\.com/en | https://unicornfactorylisboa\.com/portfolio/9/ | True | Maria Bike | An electric vehicle | None |
-| m\-25002 | Mixrift | https://www\.mixrift\.com/about | https://unicornfactorylisboa\.com/portfolio/14/ | True | MIXRIFT | XR Gaming Studio \- Dublin &amp; Bucharest | None |
-| m\-24736 | Grafema | https://www\.grafema\.xyz/ | https://unicornfactorylisboa\.com/portfolio/9/ | True | Grafema | AI that executes your B2B prospecting | None |
-| m\-20120 | ANNEA | http://www\.annea\.ai | https://unicornfactorylisboa\.com/portfolio/2/ | True | ANNEA | The brain for RENEWABLES | None |
-| m\-24990 | Grenaa Games | https://www\.grenaagames\.com | https://unicornfactorylisboa\.com/portfolio/9/ | True | Grenaa Games | None | None |
+| m\-24991 | Grupo MHS | [https://www\.mariabike\.com/en](<https://www.mariabike.com/en>) | [https://unicornfactorylisboa\.com/portfolio/9/](<https://unicornfactorylisboa.com/portfolio/9/>) | True | Maria Bike | An electric vehicle | None |
+| m\-25002 | Mixrift | [https://www\.mixrift\.com/about](<https://www.mixrift.com/about>) | [https://unicornfactorylisboa\.com/portfolio/14/](<https://unicornfactorylisboa.com/portfolio/14/>) | True | MIXRIFT | XR Gaming Studio \- Dublin &amp; Bucharest | None |
+| m\-24736 | Grafema | [https://www\.grafema\.xyz/](<https://www.grafema.xyz/>) | [https://unicornfactorylisboa\.com/portfolio/9/](<https://unicornfactorylisboa.com/portfolio/9/>) | True | Grafema | AI that executes your B2B prospecting | None |
+| m\-20120 | ANNEA | [http://www\.annea\.ai](<http://www.annea.ai>) | [https://unicornfactorylisboa\.com/portfolio/2/](<https://unicornfactorylisboa.com/portfolio/2/>) | True | ANNEA | The brain for RENEWABLES | None |
+| m\-24990 | Grenaa Games | [https://www\.grenaagames\.com](<https://www.grenaagames.com>) | [https://unicornfactorylisboa\.com/portfolio/9/](<https://unicornfactorylisboa.com/portfolio/9/>) | True | Grenaa Games | None | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
 

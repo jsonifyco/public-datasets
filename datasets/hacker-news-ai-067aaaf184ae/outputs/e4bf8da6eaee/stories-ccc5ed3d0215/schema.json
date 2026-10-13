@@ -1,14 +1,6 @@
 [
   {
-    "name": "ai_tag",
-    "type": "text"
-  },
-  {
     "name": "author",
-    "type": "text"
-  },
-  {
-    "name": "classification_basis",
     "type": "text"
   },
   {
@@ -32,10 +24,6 @@
     "type": "boolean"
   },
   {
-    "name": "needs_review",
-    "type": "boolean"
-  },
-  {
     "name": "published_at",
     "type": "text"
   },
@@ -50,10 +38,6 @@
   {
     "name": "story_id",
     "type": "jsonb"
-  },
-  {
-    "name": "text",
-    "type": "text"
   },
   {
     "name": "title",

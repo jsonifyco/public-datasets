@@ -8,7 +8,7 @@ Read a configurable Hacker News feed \(top 30 by default\) and tag each live sto
 
 - Refresh: hourly
 - Active pipeline version: 1
-- Last published: 2026-10-12T19:02:52.473323Z
+- Last published: 2026-10-13T00:00:59.625256Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Original request to Jason.
 
 ## Hacker News AI Story Tags / stories
 
-30 total rows · 30 sampled · Output revision 2
-Published: 2026-10-12T19:02:52.473323Z · Producing pipeline version: 1
+30 total rows · 30 sampled · Output revision 3
+Published: 2026-10-13T00:00:59.625256Z · Producing pipeline version: 1
 
 [CSV sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.csv) · [JSON sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.json) · [Schema](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/schema.json)
 
 | ai\_tag | author | classification\_basis | collected\_at | comment\_count | feed | hn\_url | is\_ai |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Not AI | PaulHoule | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:01:18\.396139\+00:00 | 0 | top | [https://news\.ycombinator\.com/item?id=50060674](<https://news.ycombinator.com/item?id=50060674>) | False |
-| AI | ilreb | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:57\.764414\+00:00 | 146 | top | [https://news\.ycombinator\.com/item?id=50058507](<https://news.ycombinator.com/item?id=50058507>) | True |
-| AI | vishnukool | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:50\.248563\+00:00 | 29 | top | [https://news\.ycombinator\.com/item?id=50059096](<https://news.ycombinator.com/item?id=50059096>) | True |
-| AI | DeepLogin | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:00:57\.479640\+00:00 | 37 | top | [https://news\.ycombinator\.com/item?id=50060500](<https://news.ycombinator.com/item?id=50060500>) | True |
-| Not AI | djfergus | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T19:01:10\.884088\+00:00 | 40 | top | [https://news\.ycombinator\.com/item?id=50055593](<https://news.ycombinator.com/item?id=50055593>) | False |
+| AI | svieira | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T23:01:00\.992015\+00:00 | 71 | top | [https://news\.ycombinator\.com/item?id=50060269](<https://news.ycombinator.com/item?id=50060269>) | True |
+| Not AI | rickcarlino | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T22:02:22\.620567\+00:00 | 0 | top | [https://news\.ycombinator\.com/item?id=50063417](<https://news.ycombinator.com/item?id=50063417>) | False |
+| Not AI | pranitha\_m | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T23:01:42\.235375\+00:00 | 254 | top | [https://news\.ycombinator\.com/item?id=50059204](<https://news.ycombinator.com/item?id=50059204>) | False |
+| AI | gumby | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T23:01:13\.012357\+00:00 | 239 | top | [https://news\.ycombinator\.com/item?id=50059523](<https://news.ycombinator.com/item?id=50059523>) | True |
+| Not AI | prophittcorey | Hacker News title, URL and post text; linked article not read | 2026\-10\-12T22:02:10\.570021\+00:00 | 130 | top | [https://news\.ycombinator\.com/item?id=50058528](<https://news.ycombinator.com/item?id=50058528>) | False |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
 

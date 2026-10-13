@@ -10,7 +10,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 
 | Dataset | Rows across tables | Refresh | Last published |
 | --- | --- | --- | --- |
-| [Hacker News AI Story Tags](datasets/hacker-news-ai-story-tags-067aaaf184ae/) | 30 | hourly | 2026-10-13T00:00:59.625256Z |
+| [Hacker News AI Story Tags](datasets/hacker-news-ai-story-tags-067aaaf184ae/) | 30 | hourly | 2026-10-13T07:02:22.171940Z |
 | [Unicorn Factory Lisboa startup portfolio](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 
 Each worksheet includes up to 100 sample rows. Samples are refreshed regularly and may change over time. Consult each dataset’s source terms before reuse; this collection does not grant a blanket license to third-party data.

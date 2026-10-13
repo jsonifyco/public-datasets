@@ -1,0 +1,46 @@
+[
+  {
+    "name": "application_url",
+    "type": "text"
+  },
+  {
+    "name": "company",
+    "type": "text"
+  },
+  {
+    "name": "company_open_roles",
+    "type": "integer"
+  },
+  {
+    "name": "first_published_at",
+    "type": "text"
+  },
+  {
+    "name": "job_key",
+    "type": "text"
+  },
+  {
+    "name": "job_title",
+    "type": "text"
+  },
+  {
+    "name": "location",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "source_updated_at",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "work_type",
+    "type": "text"
+  }
+]

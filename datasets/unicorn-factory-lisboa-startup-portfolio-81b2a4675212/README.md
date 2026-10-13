@@ -4,7 +4,7 @@
 
 All startups listed in the Unicorn Factory Lisboa portfolio, with names, official website taglines, published pricing or quote information, source links and availability statuses\. Refreshes replace the saved snapshot; no schedule is enabled\. Includes an alive true/false homepage accessibility check, separate from company identity or operating status\.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 2
@@ -82,7 +82,7 @@ flowchart LR
 
 No published records.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212?action=get) — CSV or JSON · Email required
 
 [Build your own dataset](https://factory.jsonify.com/setup)
 

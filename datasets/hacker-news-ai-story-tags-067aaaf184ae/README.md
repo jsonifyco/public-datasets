@@ -4,7 +4,7 @@
 
 Read a configurable Hacker News feed \(top 30 by default\) and tag each live story AI or Not AI from its title, URL and post text\. Each update replaces the current snapshot\. Uncertain tags are flagged; linked article bodies and comments are not read\.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/hacker-news-ai-story-tags-067aaaf184ae) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/hacker-news-ai-story-tags-067aaaf184ae?action=get) — CSV or JSON · Email required
 
 - Refresh: hourly
 - Active pipeline version: 1
@@ -83,7 +83,7 @@ flowchart LR
 
 No published records.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/hacker-news-ai-story-tags-067aaaf184ae) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/hacker-news-ai-story-tags-067aaaf184ae?action=get) — CSV or JSON · Email required
 
 [Build your own dataset](https://factory.jsonify.com/setup)
 

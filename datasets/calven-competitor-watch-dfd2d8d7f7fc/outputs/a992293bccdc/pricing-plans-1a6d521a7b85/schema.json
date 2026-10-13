@@ -1,0 +1,50 @@
+[
+  {
+    "name": "billing_period",
+    "type": "text"
+  },
+  {
+    "name": "competitor",
+    "type": "text"
+  },
+  {
+    "name": "confidence",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "fetched_at",
+    "type": "text"
+  },
+  {
+    "name": "included",
+    "type": "text"
+  },
+  {
+    "name": "plan",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "text"
+  },
+  {
+    "name": "price_fences",
+    "type": "text"
+  },
+  {
+    "name": "price_metric",
+    "type": "text"
+  },
+  {
+    "name": "price_structure",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

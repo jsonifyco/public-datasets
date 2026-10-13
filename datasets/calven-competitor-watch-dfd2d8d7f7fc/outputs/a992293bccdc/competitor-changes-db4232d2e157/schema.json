@@ -1,0 +1,34 @@
+[
+  {
+    "name": "changed",
+    "type": "text"
+  },
+  {
+    "name": "checked",
+    "type": "text"
+  },
+  {
+    "name": "competitor",
+    "type": "text"
+  },
+  {
+    "name": "hash",
+    "type": "text"
+  },
+  {
+    "name": "page",
+    "type": "text"
+  },
+  {
+    "name": "previous",
+    "type": "text"
+  },
+  {
+    "name": "summary",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

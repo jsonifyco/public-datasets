@@ -1,0 +1,58 @@
+[
+  {
+    "name": "article_url",
+    "type": "text"
+  },
+  {
+    "name": "comments",
+    "type": "integer"
+  },
+  {
+    "name": "discussion_url",
+    "type": "text"
+  },
+  {
+    "name": "evidence_scope",
+    "type": "text"
+  },
+  {
+    "name": "hn_rank",
+    "type": "integer"
+  },
+  {
+    "name": "matched_term",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "points",
+    "type": "integer"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "research_prompt",
+    "type": "text"
+  },
+  {
+    "name": "story_id",
+    "type": "text"
+  },
+  {
+    "name": "submission_excerpt",
+    "type": "text"
+  },
+  {
+    "name": "theme",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  }
+]

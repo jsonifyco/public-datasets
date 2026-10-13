@@ -1,0 +1,54 @@
+[
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "release_age_days",
+    "type": "integer"
+  },
+  {
+    "name": "release_id",
+    "type": "text"
+  },
+  {
+    "name": "release_name",
+    "type": "text"
+  },
+  {
+    "name": "release_notes",
+    "type": "text"
+  },
+  {
+    "name": "release_url",
+    "type": "text"
+  },
+  {
+    "name": "repository",
+    "type": "text"
+  },
+  {
+    "name": "repository_url",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "tool",
+    "type": "text"
+  },
+  {
+    "name": "use_case",
+    "type": "text"
+  },
+  {
+    "name": "version",
+    "type": "text"
+  }
+]

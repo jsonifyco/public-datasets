@@ -1,0 +1,85 @@
+checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
+2026-10-13T11:18:25.398796+00:00,2026-10-09T15:59:16Z,3,400884069,Release v2.5.0 🌈,"## 🗑️ Feature Removal Reminder - September 30, 2026 - EOL
+
+**Appsmith AI reached end of life on September 30, 2026.**
+
+You can no longer add new Appsmith AI datasource connections or queries. Existing queries have stopped working, whether or not you have upgraded.
+
+Migrate remaining Appsmith AI queries to a direct provider datasource, such as OpenAI, Anthropic, or Google AI.
+
+## ⚠️ Important Upgrade Notes
+
+- Git-connected applications update to server schema 13 when they are next opened. This can create a one-time system commit. Applications exported from this release cannot be imported into an older server that supports only schema 12. ([#42322](https://github.com/appsmithorg/appsmith/pull/42322))
+- When you change a datasource connection setting, you must enter the credentials again for the active authentication, TLS, and SSH settings. Unchanged connections can continue to use saved credentials. ([#42339](https://github.com/appsmithorg/appsmith/pull/42339))
+- Elasticsearch body bindings now use typed JSON substitution. Review queries that insert serialized JSON, build part of a JSON string, or construct dynamic paths. Invalid bindings now return a query error. ([#42342](https://github.com/appsmithorg/appsmith/pull/42342))
+
+## 🔐 Security
+
+- Updated bundled dependencies to address reported vulnerabilities. ([#42314](https://github.com/appsmithorg/appsmith/pull/42314), [#42324](https://github.com/appsmithorg/appsmith/pull/42324), [#42331](https://github.com/appsmithorg/appsmith/pull/42331))
+- Datasource credential reuse is now tied to the saved connection configuration, and datasource test, structure, and trigger requests use stricter permission checks. ([#42339](https://github.com/appsmithorg/appsmith/pull/42339))
+- Requests from the evaluation environment now keep the credential-omission guard even if the global request constructor changes. ([#42355](https://github.com/appsmithorg/appsmith/pull/42355))
+- Login rate limits now use the same normalized account identity as authentication. ([#42337](https://github.com/appsmithorg/appsmith/pull/42337))
+- Datasource updates now preserve the identity of the datasource selected by the request. ([#42356](https://github.com/appsmithorg/appsmith/pull/42356))
+- Elasticsearch queries now validate substituted JSON and dynamic path values before execution. ([#42342](https://github.com/appsmithorg/appsmith/pull/42342))
+
+## 🛠️ Reliability
+
+- Prepared MySQL stored procedure calls can now run with a trailing query and keep bound values as data. ([#42329](https://github.com/appsmithorg/appsmith/pull/42329))
+- Failed OAuth2 and SSO logins now return users to the instance login page. ([#42330](https://github.com/appsmithorg/appsmith/pull/42330))
+- Zones in cards, tabs, sheets, and list items now use the full available width instead of collapsing into a narrow column. ([#42364](https://github.com/appsmithorg/appsmith/pull/42364))
+- MCP datasource creation now lets the server select the correct environment. ([#42341](https://github.com/appsmithorg/appsmith/pull/42341))
+
+## ✨ New Features & Enhancements
+
+- Applications can now have an optional description that appears on application cards. ([#42312](https://github.com/appsmithorg/appsmith/pull/42312))
+- List widgets now have a **Disable selection** option for apps that do not need row selection or item-click behavior. ([#42261](https://github.com/appsmithorg/appsmith/pull/42261))
+- MCP can now create and update structured JS objects, use more MongoDB filter types, patch more widget settings, wire JS function calls, and detect common layout issues. ([#42311](https://github.com/appsmithorg/appsmith/pull/42311))
+
+## 🎨 UI & Widget Improvements
+
+- Table columns now have an optional **Header wrapping** setting for long column titles. ([#42354](https://github.com/appsmithorg/appsmith/pull/42354))
+- Table headers now support configurable font weight, italic text, and underlining. ([#42323](https://github.com/appsmithorg/appsmith/pull/42323))
+- The Applications page now stays below the missing base URL banner, so workspace controls remain visible. ([#42319](https://github.com/appsmithorg/appsmith/pull/42319))
+
+## 🔧 Git, Deployment & Configuration
+
+- MCP logs now record the actual result of each tool call and keep the correct request ID on related backend calls. ([#42350](https://github.com/appsmithorg/appsmith/pull/42350))",https://github.com/appsmithorg/appsmith/releases/tag/v2.5.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.5.0
+2026-10-13T11:18:25.440576+00:00,2026-10-12T07:58:29Z,1,410342314,v3.49.0,"## What's Changed
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19755
+* Bump scim-patch from 0.9.1 to 0.9.2 in the all-non-major-security group across 1 directory by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19760
+* fix: authenticated pulls in CI self hosted images by @calexiou in https://github.com/Budibase/budibase/pull/19752
+* fix: bump litellm model by @Dakuan in https://github.com/Budibase/budibase/pull/19759
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19767
+* Fix/ Minio public refs by @calexiou in https://github.com/Budibase/budibase/pull/19765
+* Handle UI versions gracefully by @calexiou in https://github.com/Budibase/budibase/pull/19764
+* Bump joi from 18.2.5 to 18.2.6 in /packages/backend-core by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19768
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19772
+* fix build dependencies before license generation by @ConorWebb96 in https://github.com/Budibase/budibase/pull/19773
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19774
+* Bump undici from 8.10.0 to 8.10.2 in the all-non-major-security group across 1 directory by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19761
+* fix: consistent delivery of teams source urls by @Dakuan in https://github.com/Budibase/budibase/pull/19769
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19792
+* Bump fast-uri from 3.1.7 to 3.1.8 by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19800
+* Bump the all-non-major-security group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19798
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19801
+* Bump form-data from 2.5.5 to 2.5.6 by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19803
+* Bump the all-non-major-security group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19802
+* Escalation expiration by @deanhannigan in https://github.com/Budibase/budibase/pull/19718
+* fix: handle gemini rate limit by @Dakuan in https://github.com/Budibase/budibase/pull/19728
+* Merge pull request #19819 from Budibase/fix/unresolve-passages by @Dakuan in https://github.com/Budibase/budibase/pull/19840
+
+
+**Full Changelog**: https://github.com/Budibase/budibase/compare/v3.48.0...v3.49.0",https://github.com/Budibase/budibase/releases/tag/v3.49.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v3.49.0
+2026-10-13T11:18:25.492948+00:00,2026-10-12T07:23:05Z,1,410308403,n8n@2.43.4,"## [2.43.4](https://github.com/n8n-io/n8n/compare/n8n@2.43.3...n8n@2.43.4) (2026-10-12)
+
+
+### Bug Fixes
+
+* **core:** Handle each Chat Hub segment once in queue mode ([#40816](https://github.com/n8n-io/n8n/issues/40816)) ([dc77062](https://github.com/n8n-io/n8n/commit/dc770620e5e3830e7e41b5b840028f937dedad8d))
+* **core:** Resume tool calls for deferred tools that a skill loaded ([#40746](https://github.com/n8n-io/n8n/issues/40746)) ([ea448c6](https://github.com/n8n-io/n8n/commit/ea448c6f61fb7cae06cfbeccbd32713a70d112ca))
+
+<!-- This is an auto-generated description by cubic. -->
+<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/40855?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/40855?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F40855&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
+<!-- End of auto-generated description by cubic. -->
+
+",https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.4,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.43.4

@@ -8,7 +8,7 @@ Read a configurable Hacker News feed \(top 30 by default\) and tag each live sto
 
 - Refresh: hourly
 - Active pipeline version: 2
-- Last published: 2026-10-13T17:02:32.373965Z
+- Last published: 2026-10-13T22:02:23.201578Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Original request to Jason.
 
 ## Hacker News AI Story Tags / stories
 
-30 total rows · 30 sampled · Output revision 15
-Published: 2026-10-13T17:02:32.373965Z · Producing pipeline version: 2
+29 total rows · 29 sampled · Output revision 20
+Published: 2026-10-13T22:02:23.201578Z · Producing pipeline version: 2
 
 [CSV sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.csv) · [JSON sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.json) · [Schema](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/schema.json)
 
 | author | collected\_at | comment\_count | feed | hn\_url | is\_ai | published\_at | rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| sammy0910 | 2026\-10\-13T17:01:02\.345289\+00:00 | 35 | top | [https://news\.ycombinator\.com/item?id=50073221](<https://news.ycombinator.com/item?id=50073221>) | True | 2026\-10\-13T15:25:50\+00:00 | 5 |
-| ritzaco | 2026\-10\-13T17:02:26\.611402\+00:00 | 7 | top | [https://news\.ycombinator\.com/item?id=50068443](<https://news.ycombinator.com/item?id=50068443>) | True | 2026\-10\-13T08:24:51\+00:00 | 28 |
-| ericmags | 2026\-10\-13T17:01:29\.992554\+00:00 | 4 | top | [https://news\.ycombinator\.com/item?id=50073471](<https://news.ycombinator.com/item?id=50073471>) | True | 2026\-10\-13T15:41:00\+00:00 | 12 |
-| ilreb | 2026\-10\-13T17:01:46\.366018\+00:00 | 352 | top | [https://news\.ycombinator\.com/item?id=50058507](<https://news.ycombinator.com/item?id=50058507>) | True | 2026\-10\-12T16:11:45\+00:00 | 22 |
-| karakoram | 2026\-10\-13T17:02:02\.425652\+00:00 | 15 | top | [https://news\.ycombinator\.com/item?id=50072994](<https://news.ycombinator.com/item?id=50072994>) | False | 2026\-10\-13T15:12:57\+00:00 | 24 |
+| formerly\_proven | 2026\-10\-13T22:01:29\.921942\+00:00 | 361 | top | [https://news\.ycombinator\.com/item?id=50069499](<https://news.ycombinator.com/item?id=50069499>) | False | 2026\-10\-13T10:27:00\+00:00 | 9 |
+| list | 2026\-10\-13T22:02:07\.712931\+00:00 | 14 | top | [https://news\.ycombinator\.com/item?id=50077096](<https://news.ycombinator.com/item?id=50077096>) | False | 2026\-10\-13T19:17:19\+00:00 | 25 |
+| Philpax | 2026\-10\-13T22:01:02\.537282\+00:00 | 398 | top | [https://news\.ycombinator\.com/item?id=50073633](<https://news.ycombinator.com/item?id=50073633>) | False | 2026\-10\-13T15:49:56\+00:00 | 5 |
+| mjorgers | 2026\-10\-13T22:01:02\.565293\+00:00 | 108 | top | [https://news\.ycombinator\.com/item?id=50072913](<https://news.ycombinator.com/item?id=50072913>) | False | 2026\-10\-13T15:07:37\+00:00 | 8 |
+| cainxinth | 2026\-10\-13T22:02:18\.322032\+00:00 | 133 | top | [https://news\.ycombinator\.com/item?id=50070554](<https://news.ycombinator.com/item?id=50070554>) | False | 2026\-10\-13T12:23:34\+00:00 | 28 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
 

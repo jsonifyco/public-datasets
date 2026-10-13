@@ -1,0 +1,62 @@
+[
+  {
+    "name": "availability",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "course_holes",
+    "type": "integer"
+  },
+  {
+    "name": "course_id",
+    "type": "jsonb"
+  },
+  {
+    "name": "course_name",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "displayed_price",
+    "type": "double precision"
+  },
+  {
+    "name": "holes",
+    "type": "integer"
+  },
+  {
+    "name": "max_players",
+    "type": "integer"
+  },
+  {
+    "name": "min_players",
+    "type": "integer"
+  },
+  {
+    "name": "search_date",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "tee_time",
+    "type": "text"
+  },
+  {
+    "name": "tee_time_id",
+    "type": "jsonb"
+  },
+  {
+    "name": "timezone",
+    "type": "text"
+  }
+]

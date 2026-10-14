@@ -11,7 +11,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | Dataset | Rows across tables | Refresh | Last published |
 | --- | --- | --- | --- |
 | [Quiet Signal — Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 16 | daily | 2026-10-13T11:30:18.502095Z |
-| [Hacker News AI](datasets/hacker-news-ai-067aaaf184ae/) | 29 | hourly | 2026-10-13T22:02:23.201578Z |
+| [Hacker News AI](datasets/hacker-news-ai-067aaaf184ae/) | 29 | hourly | 2026-10-14T01:02:21.354910Z |
 | [Low\-Code Release Radar](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-10-13T11:18:28.309643Z |
 | [Unicorn Factory Lisboa startup portfolio](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Golf Vancouver Courses &amp; Available Tee Times](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 341 | daily | 2026-10-13T16:39:22.862084Z |

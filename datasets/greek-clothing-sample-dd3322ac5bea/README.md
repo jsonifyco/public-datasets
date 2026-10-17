@@ -1,8 +1,8 @@
-# Greek clothing sample
+# Greek Clothing Product Sample from Zara, Bershka and Mango
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A testable sample from Zara, Bershka and Mango Greek storefronts\. Defaults to three womens product\-colour records per brand with euro prices, photos, product links, and source\-exposed sizes/materials\. Saves a latest snapshot and CSV; not a full catalogue\.
+A small sample of clothing product\-colour records from Greek Zara, Bershka and Mango storefronts, with euro prices, product links, photos and source\-exposed details\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/greek-clothing-sample-dd3322ac5bea?action=get) — CSV or JSON · Email required
 
@@ -31,7 +31,7 @@ Published: 2026-10-13T11:41:41.082620Z · Producing pipeline version: 1
 | Zara | 2026\-10\-13T11:41:26\.464264\+00:00 | Black | EUR | Model height: 177 cm High\-neck dress with wide long sleeve\. Belt detail\. | [https://static\.zara\.net/assets/public/3cc4/bd0d/878d47718ede/0c44ac604e87/05536013800\-p/05536013800\-p\.jpg?ts=1790863057695&amp;w=596](<https://static.zara.net/assets/public/3cc4/bd0d/878d47718ede/0c44ac604e87/05536013800-p/05536013800-p.jpg?ts=1790863057695&amp;w=596>) | \["[https://static\.zara\.net/assets/public/3cc4/bd0d/878d47718ede/0c44ac604e87/05536013800\-p/05536013800\-p\.jpg?ts=1790863057695&amp;w=596](<https://static.zara.net/assets/public/3cc4/bd0d/878d47718ede/0c44ac604e87/05536013800-p/05536013800-p.jpg?ts=1790863057695&amp;w=596>)", "[https://static\.zara\.net/assets/public/2934/1768/9b2844f9856b/be259](<https://static.zara.net/assets/public/2934/1768/9b2844f9856b/be259>) | Greece |
 | Mango | 2026\-10\-13T11:41:28\.300101\+00:00 | Grey | EUR | Suit style\. Straight design\. V\-neck with lapel\. Lapel with notch\. Long sleeves with buttoned cuffs\. Two side pockets with flaps\. Chest welt pocket\. Front button fastening\. Inner lining\. Total look\. Pl | [https://media\.mango\.com/is/image/punto/37074111\-92\-002?wid=2048](<https://media.mango.com/is/image/punto/37074111-92-002?wid=2048>) | \["[https://media\.mango\.com/is/image/punto/37074111\-92\-002?wid=2048](<https://media.mango.com/is/image/punto/37074111-92-002?wid=2048>)", "[https://media\.mango\.com/is/image/punto/37074111\-92\-001?wid=2048](<https://media.mango.com/is/image/punto/37074111-92-001?wid=2048>)", "[https://media\.mango\.com/is/image/punto/37074111\-92\-003?wid=2048](<https://media.mango.com/is/image/punto/37074111-92-003?wid=2048>)" | Greece |
 
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
 ### Schema
 

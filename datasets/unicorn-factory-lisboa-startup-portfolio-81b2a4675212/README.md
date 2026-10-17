@@ -1,8 +1,8 @@
-# Unicorn Factory Lisboa startup portfolio
+# Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-All startups listed in the Unicorn Factory Lisboa portfolio, with names, official website taglines, published pricing or quote information, source links and availability statuses\. Refreshes replace the saved snapshot; no schedule is enabled\. Includes an alive true/false homepage accessibility check, separate from company identity or operating status\.
+Portfolio directory of Unicorn Factory Lisboa startups, with listed websites, homepage taglines, pricing evidence and website availability statuses\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212?action=get) — CSV or JSON · Email required
 
@@ -31,7 +31,7 @@ Published: 2026-10-12T15:41:47.150674Z · Producing pipeline version: 2
 | m\-20120 | ANNEA | [http://www\.annea\.ai](<http://www.annea.ai>) | [https://unicornfactorylisboa\.com/portfolio/2/](<https://unicornfactorylisboa.com/portfolio/2/>) | True | ANNEA | The brain for RENEWABLES | None |
 | m\-24990 | Grenaa Games | [https://www\.grenaagames\.com](<https://www.grenaagames.com>) | [https://unicornfactorylisboa\.com/portfolio/9/](<https://unicornfactorylisboa.com/portfolio/9/>) | True | Grenaa Games | None | None |
 
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
 ### Schema
 

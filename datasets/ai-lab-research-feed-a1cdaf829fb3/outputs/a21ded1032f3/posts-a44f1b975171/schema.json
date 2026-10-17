@@ -1,0 +1,26 @@
+[
+  {
+    "name": "lab",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "snippet",
+    "type": "text"
+  },
+  {
+    "name": "published_date",
+    "type": "text"
+  },
+  {
+    "name": "checked",
+    "type": "text"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "cached_input_price_per_1m",
+    "type": "double precision"
+  },
+  {
+    "name": "checked",
+    "type": "text"
+  },
+  {
+    "name": "context_window",
+    "type": "integer"
+  },
+  {
+    "name": "input_price_per_1m",
+    "type": "double precision"
+  },
+  {
+    "name": "model",
+    "type": "text"
+  },
+  {
+    "name": "output_price_per_1m",
+    "type": "double precision"
+  },
+  {
+    "name": "pricing_notes",
+    "type": "text"
+  },
+  {
+    "name": "provider",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

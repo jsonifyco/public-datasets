@@ -11,14 +11,16 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | Dataset | Rows across tables | Refresh | Last published |
 | --- | --- | --- | --- |
 | [Quiet Signal — Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 16 | daily | 2026-10-17T09:06:43.921317Z |
-| [Hacker News AI Story Tags: Ranked Feed Snapshot](datasets/hacker-news-ai-067aaaf184ae/) | 29 | hourly | 2026-10-17T13:02:28.769497Z |
+| [Hacker News AI Story Tags: Ranked Feed Snapshot](datasets/hacker-news-ai-067aaaf184ae/) | 30 | hourly | 2026-10-17T17:02:36.154021Z |
+| [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 151 | On demand | 2026-10-17T17:06:44.301411Z |
 | [LlamaIndex reader demo: docs pages](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Workflow automation pricing &amp; changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
+| [Streaming Subscription Prices by Country: Official Monthly Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 1,015 | weekly | 2026-10-17T17:10:45.044322Z |
 | [Low\-Code Release Radar: Latest n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-10-17T08:00:38.701559Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Agent builder pricing &amp; changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
 | [LLM API pricing](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |
-| [Golf Vancouver Tee Times and Course Availability](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,977 | daily | 2026-10-16T14:33:22.351344Z |
+| [Golf Vancouver Tee Times and Course Availability](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,810 | daily | 2026-10-17T14:33:37.728979Z |
 | [AI lab research feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |
 | [Calven competitor watch](datasets/calven-competitor-watch-dfd2d8d7f7fc/) | 27 | On demand | 2026-10-14T14:39:43.933603Z |

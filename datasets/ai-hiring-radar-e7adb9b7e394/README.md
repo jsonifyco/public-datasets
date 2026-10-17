@@ -2,36 +2,30 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A daily recruiting\-intelligence dataset: the newest\-listed open roles at Anthropic, Figure, and Together AI, with locations, source dates, application links, and total open\-role context\. Demo watchlist, not asserted Cedar customers\.
+
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-hiring-radar-e7adb9b7e394?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-13T11:16:26.316979Z
-
-## The brief
-
-> I need this data: A daily recruiting\-intelligence dataset: the newest\-listed open roles at Anthropic, Figure, and Together AI, with locations, source dates, application links, and total open\-role context\. Demo watchlist, not asserted Cedar customers\.
-
-Summary from the public dataset description.
+- Last published: 2026-10-17T09:00:46.820048Z
 
 ## Cedar AI hiring radar / roles
 
-75 total rows · 75 sampled · Output revision 1
-Published: 2026-10-13T11:16:26.316979Z · Producing pipeline version: 1
+75 total rows · 75 sampled · Output revision 5
+Published: 2026-10-17T09:00:46.820048Z · Producing pipeline version: 1
 
 [CSV sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.csv) · [JSON sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.json) · [Schema](outputs/0642c473c8e3/roles-66cf5513b374/schema.json)
 
 | application\_url | company | company\_open\_roles | first\_published\_at | job\_key | job\_title | location | observed\_at |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4717486006](<https://job-boards.greenhouse.io/figureai/jobs/4717486006>) | Figure | 96 | 2026\-09\-29T15:13:33\+00:00 | figureai:4717486006 | AV Operations Specialist | San Jose, CA | 2026\-10\-13T11:16:23\.373176\+00:00 |
-| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5446052008](<https://job-boards.greenhouse.io/anthropic/jobs/5446052008>) | Anthropic | 642 | 2026\-10\-08T02:16:56\+00:00 | anthropic:5446052008 | Director, Technical Accounting – Investments | San Francisco, CA \| Seattle, WA | 2026\-10\-13T11:16:23\.510096\+00:00 |
-| [https://job\-boards\.greenhouse\.io/togetherai/jobs/5233669007](<https://job-boards.greenhouse.io/togetherai/jobs/5233669007>) | Together AI | 75 | 2026\-09\-10T22:30:49\+00:00 | togetherai:5233669007 | Senior Software Engineer — Infra Agent Systems | San Francisco | 2026\-10\-13T11:16:23\.417402\+00:00 |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4719591006](<https://job-boards.greenhouse.io/figureai/jobs/4719591006>) | Figure | 96 | 2026\-10\-06T22:53:50\+00:00 | figureai:4719591006 | Commercial Operations Intern \[Winter 2027\] | San Jose, CA | 2026\-10\-13T11:16:23\.373176\+00:00 |
-| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5448360008](<https://job-boards.greenhouse.io/anthropic/jobs/5448360008>) | Anthropic | 642 | 2026\-10\-09T15:23:26\+00:00 | anthropic:5448360008 | Head of Digital Natives &amp; Startups, ANZ | Sydney, Australia | 2026\-10\-13T11:16:23\.510096\+00:00 |
+| [https://job\-boards\.greenhouse\.io/togetherai/jobs/5267198007](<https://job-boards.greenhouse.io/togetherai/jobs/5267198007>) | Together AI | 78 | 2026\-10\-16T22:48:51\+00:00 | togetherai:5267198007 | Research Intern, Frontier Speculative Decoding \(Summer 2027\) | San Francisco | 2026\-10\-17T09:00:37\.854760\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4722086006](<https://job-boards.greenhouse.io/figureai/jobs/4722086006>) | Figure | 100 | 2026\-10\-14T19:54:00\+00:00 | figureai:4722086006 | Embedded Software Engineering Intern \[Winter 2027\] | San Jose, CA | 2026\-10\-17T09:00:37\.776747\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4711258006](<https://job-boards.greenhouse.io/figureai/jobs/4711258006>) | Figure | 100 | 2026\-09\-04T16:23:18\+00:00 | figureai:4711258006 | Senior Engineering Technician | San Jose, CA | 2026\-10\-17T09:00:37\.776747\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4717759006](<https://job-boards.greenhouse.io/figureai/jobs/4717759006>) | Figure | 100 | 2026\-09\-29T23:55:31\+00:00 | figureai:4717759006 | Data Operations Coordinator \(Night Shift\) | San Jose, CA | 2026\-10\-17T09:00:37\.776747\+00:00 |
+| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5449229008](<https://job-boards.greenhouse.io/anthropic/jobs/5449229008>) | Anthropic | 656 | 2026\-10\-14T16:34:30\+00:00 | anthropic:5449229008 | Staff Forward Deployed Engineer | New York City, NY; San Francisco, CA; Seattle, WA | 2026\-10\-17T09:00:37\.718850\+00:00 |
 
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
 ### Schema
 

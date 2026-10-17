@@ -1,0 +1,30 @@
+[
+  {
+    "name": "crawled_at",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "section",
+    "type": "text"
+  },
+  {
+    "name": "text",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "word_count",
+    "type": "integer"
+  }
+]

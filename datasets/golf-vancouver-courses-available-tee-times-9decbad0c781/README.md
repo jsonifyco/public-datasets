@@ -8,7 +8,7 @@ Daily snapshots of public 18\-hole tee\-time availability across Golf Vancouver 
 
 - Refresh: daily
 - Active pipeline version: 7
-- Last published: 2026-10-16T14:33:22.351344Z
+- Last published: 2026-10-17T14:33:37.728979Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Golf Vancouver Courses and Tee Times / availability
 
-2,977 total rows · 100 sampled · Output revision 9
-Published: 2026-10-16T14:33:22.351344Z · Producing pipeline version: 7
+2,810 total rows · 100 sampled · Output revision 10
+Published: 2026-10-17T14:33:37.728979Z · Producing pipeline version: 7
 
 [CSV sample](outputs/b58ceed3e9d3/availability-f95dac581e9b/sample.csv) · [JSON sample](outputs/b58ceed3e9d3/availability-f95dac581e9b/sample.json) · [Schema](outputs/b58ceed3e9d3/availability-f95dac581e9b/schema.json)
 
 | availability | checked\_at | course\_holes | course\_id | course\_name | currency | displayed\_price | holes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| available | 2026\-10\-16T14:33:18\.698434\+00:00 | 18 | \-3366992185274287 | Swaneset Resort Course | CAD | 75 | 18 |
-| available | 2026\-10\-16T14:25:11\.178619\+00:00 | 18 | \-911948331026585 | Royalwood Golf Course | CAD | 52 | 18 |
-| available | 2026\-10\-16T14:13:40\.015371\+00:00 | 18 | \-3366992185274287 | Swaneset Resort Course | CAD | 105 | 18 |
-| available | 2026\-10\-16T14:17:29\.910574\+00:00 | 18 | \-911948331026585 | Royalwood Golf Course | CAD | 42 | 18 |
-| available | 2026\-10\-16T14:27:04\.244816\+00:00 | 18 | \-2122859699495798 | Belmont Golf Course | CAD | 35 | 18 |
+| available | 2026\-10\-17T14:10:37\.992773\+00:00 | 18 | \-2122859699495798 | Belmont Golf Course | CAD | 35 | 18 |
+| available | 2026\-10\-17T14:24:05\.428963\+00:00 | 18 | \-1943332020739902 | Chilliwack Golf Club | CAD | 69 | 18 |
+| available | 2026\-10\-17T14:28:30\.628319\+00:00 | 18 | \-3317204933973836 | Mylora Executive Golf Club | CAD | 37\.5 | 18 |
+| available | 2026\-10\-17T14:20:26\.470655\+00:00 | 18 | \-3366992185274287 | Swaneset Resort Course | CAD | 71 | 18 |
+| available | 2026\-10\-17T14:23:40\.435880\+00:00 | 18 | 1 | Langara Golf Course | CAD | 28\.5 | 18 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

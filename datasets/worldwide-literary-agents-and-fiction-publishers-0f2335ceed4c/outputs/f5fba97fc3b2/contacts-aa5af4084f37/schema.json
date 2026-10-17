@@ -1,0 +1,86 @@
+[
+  {
+    "name": "contact_url",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "email",
+    "type": "text"
+  },
+  {
+    "name": "email_evidence",
+    "type": "text"
+  },
+  {
+    "name": "email_owner",
+    "type": "text"
+  },
+  {
+    "name": "email_source_url",
+    "type": "text"
+  },
+  {
+    "name": "entity_type",
+    "type": "text"
+  },
+  {
+    "name": "evidence",
+    "type": "text"
+  },
+  {
+    "name": "fiction_evidence",
+    "type": "text"
+  },
+  {
+    "name": "fiction_source_url",
+    "type": "text"
+  },
+  {
+    "name": "genres",
+    "type": "jsonb"
+  },
+  {
+    "name": "languages_evidence",
+    "type": "text"
+  },
+  {
+    "name": "name",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "organization",
+    "type": "text"
+  },
+  {
+    "name": "search_language",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "submission_guidelines",
+    "type": "text"
+  },
+  {
+    "name": "website",
+    "type": "text"
+  },
+  {
+    "name": "working_languages",
+    "type": "jsonb"
+  }
+]

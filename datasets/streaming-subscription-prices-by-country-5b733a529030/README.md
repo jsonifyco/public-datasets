@@ -7,8 +7,8 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 6
-- Last published: 2026-10-17T17:10:45.044322Z
+- Active pipeline version: 7
+- Last published: 2026-10-17T17:21:43.105460Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-1,015 total rows · 100 sampled · Output revision 6
-Published: 2026-10-17T17:10:45.044322Z · Producing pipeline version: 6
+1,015 total rows · 100 sampled · Output revision 7
+Published: 2026-10-17T17:21:43.105460Z · Producing pipeline version: 7
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
 | billing\_period | country | country\_evidence | country\_name | currency | features | monthly\_price | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| month | PA | Official monthly pricing product cr\_fan\_pack\.1\_month; country\-specific benefit package fan\_pack\_non\_english\_intl | Panama | PAB | No ads; complete library access; new episodes shortly after airing in Japan; stream on 4 devices at a time; offline viewing; access to Crunchyroll Game Vault\. | 5\.99 | Observed price retained, but its market evidence is insufficient; do not use as a verified country comparison\. Original observation timestamp retained\. |
-| None | PE | None | Peru | None | None | None | Official pricing page could not be read for this market |
-| month | SA | Requested country route SA; official page locale en\. Source pricing market is not independently confirmed\. | Saudi Arabia | SAR | No ads; complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 4 devices at a time; offline viewing; access to Crunchyroll Game Vault\. | 23\.99 | Regular base monthly subscription; no currency conversion\. Price observed but country is not independently confirmed; do not use as a verified country comparison\. |
-| month | PT | Currently viewing information for: Portugal | Portugal | EUR | Ad\-free; 1080p Full HD; 2 supported devices at a time; downloads on 2 supported devices at a time; option to add 1 extra member\. | 12\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
-| month | BG | Currently viewing information for: Bulgaria | Bulgaria | EUR | Ad\-free; 720p \(HD\); 1 supported device at a time; downloads on 1 supported device at a time\. | 5\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
+| month | RO | Official country\-specific pricing URL: [https://www\.disneyplus\.com/en\-ro](<https://www.disneyplus.com/en-ro>) | Romania | RON | Up to 1080p Full HD video quality, 2 simultaneous streams, ad\-free movies and series\. | 34\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
+| month | PK | Requested country route PK; official page locale en\. Source pricing market is not independently confirmed\. | Pakistan | PKR | No ads; complete library access; new episodes shortly after airing in Japan; stream on 6 devices at a time; offline viewing; access to Crunchyroll Game Vault and Crunchyroll Manga\. | 880 | Regular base monthly subscription; no currency conversion\. Price observed but country is not independently confirmed; do not use as a verified country comparison\. |
+| month | IS | Currently viewing information for: Iceland | Iceland | EUR | Ad\-free movies, TV shows, and games; 2 supported devices at a time; 1080p Full HD; downloads on 2 supported devices at a time; option to add 1 extra member\. | 16\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
+| month | NO | Official country\-specific pricing URL: [https://www\.hbomax\.com/no/en](<https://www.hbomax.com/no/en>) | Norway | NOK | Full HD video resolution; stream on 2 devices at once; 30 downloads\. | 149 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
+| None | PT | None | Portugal | None | None | None | No official pricing page discovered; availability is unknown\. |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -83,6 +83,7 @@ flowchart LR
 - 2026-10-17T16:48:28.801836Z: v4: Use Brazil's current Prime membership offer instead of obsolete corporate copy, and Sweden's own Apple TV pricing page\. Preserve the rest of the saved country panel during targeted corrections\.
 - 2026-10-17T16:54:18.087813Z: v5: Use current Prime subscription pages in the US, UK and India, and stop treating currency\-only Netflix headings as verified country evidence\.
 - 2026-10-17T17:10:21.818626Z: v6: Reject mismatched Max country routes and promotional terms as regular pricing sources\. Revalidate saved country\-specific URL claims and refresh Finnish Max from its subscription page\.
+- 2026-10-17T17:20:25.785824Z: v7: Respect country restrictions on subscription benefits and stop treating bare country labels as verified pricing evidence\. Refresh affected Apple observations while preserving the rest of the country panel\.
 
 ## Recorded repairs
 

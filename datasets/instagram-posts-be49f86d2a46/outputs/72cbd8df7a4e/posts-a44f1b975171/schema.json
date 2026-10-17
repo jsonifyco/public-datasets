@@ -1,0 +1,58 @@
+[
+  {
+    "name": "caption",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "comments",
+    "type": "integer"
+  },
+  {
+    "name": "image_description",
+    "type": "text"
+  },
+  {
+    "name": "image_scope",
+    "type": "text"
+  },
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "likes",
+    "type": "integer"
+  },
+  {
+    "name": "media_type",
+    "type": "text"
+  },
+  {
+    "name": "post_id",
+    "type": "text"
+  },
+  {
+    "name": "post_url",
+    "type": "text"
+  },
+  {
+    "name": "posted_at",
+    "type": "text"
+  },
+  {
+    "name": "posted_date",
+    "type": "text"
+  },
+  {
+    "name": "profile_position",
+    "type": "integer"
+  },
+  {
+    "name": "username",
+    "type": "text"
+  }
+]

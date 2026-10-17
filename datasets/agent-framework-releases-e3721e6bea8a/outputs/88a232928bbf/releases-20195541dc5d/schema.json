@@ -1,0 +1,26 @@
+[
+  {
+    "name": "checked",
+    "type": "text"
+  },
+  {
+    "name": "framework",
+    "type": "text"
+  },
+  {
+    "name": "headline_changes",
+    "type": "text"
+  },
+  {
+    "name": "release_date",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "version",
+    "type": "text"
+  }
+]

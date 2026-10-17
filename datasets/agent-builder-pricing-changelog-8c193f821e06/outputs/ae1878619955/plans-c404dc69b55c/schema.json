@@ -1,0 +1,34 @@
+[
+  {
+    "name": "billing_unit",
+    "type": "text"
+  },
+  {
+    "name": "checked",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "included_units",
+    "type": "text"
+  },
+  {
+    "name": "plan",
+    "type": "text"
+  },
+  {
+    "name": "price_monthly",
+    "type": "integer"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "tool",
+    "type": "text"
+  }
+]

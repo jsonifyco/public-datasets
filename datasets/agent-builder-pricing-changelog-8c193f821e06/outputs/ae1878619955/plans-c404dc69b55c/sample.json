@@ -1,0 +1,182 @@
+[
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "200 message credits",
+    "plan": "Sandbox",
+    "price_monthly": 0,
+    "source_url": "https://dify.ai/pricing",
+    "tool": "Dify"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "EUR",
+    "included_units": "40K workflow executions",
+    "plan": "Business",
+    "price_monthly": 800,
+    "source_url": "https://n8n.io/pricing/",
+    "tool": "n8n"
+  },
+  {
+    "billing_unit": "per seat / month",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "10k base traces / mo",
+    "plan": "Plus",
+    "price_monthly": 39,
+    "source_url": "https://www.langchain.com/pricing",
+    "tool": "LangSmith"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "EUR",
+    "included_units": "2.5K workflow executions",
+    "plan": "Starter",
+    "price_monthly": 24,
+    "source_url": "https://n8n.io/pricing/",
+    "tool": "n8n"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "EUR",
+    "included_units": "10K workflow executions",
+    "plan": "Pro",
+    "price_monthly": 60,
+    "source_url": "https://n8n.io/pricing/",
+    "tool": "n8n"
+  },
+  {
+    "billing_unit": null,
+    "checked": "2026-10-14",
+    "currency": "EUR",
+    "included_units": "self-hosted; no price published on this pricing page",
+    "plan": "Community Edition",
+    "price_monthly": null,
+    "source_url": "https://n8n.io/pricing/",
+    "tool": "n8n"
+  },
+  {
+    "billing_unit": null,
+    "checked": "2026-10-14",
+    "currency": "EUR",
+    "included_units": "no standalone price published on this pricing page; 50% off Business for qualifying start-ups",
+    "plan": "Start-up Plan",
+    "price_monthly": null,
+    "source_url": "https://n8n.io/pricing/",
+    "tool": "n8n"
+  },
+  {
+    "billing_unit": "per seat / month",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "5k base traces / mo",
+    "plan": "Developer",
+    "price_monthly": 0,
+    "source_url": "https://www.langchain.com/pricing",
+    "tool": "LangSmith"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "100 Predictions / month",
+    "plan": "Free",
+    "price_monthly": 0,
+    "source_url": "https://flowiseai.com/",
+    "tool": "Flowise"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "500 runs per month",
+    "plan": "Free plan",
+    "price_monthly": 0,
+    "source_url": "https://www.stackai.com/pricing",
+    "tool": "Stack AI"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "10,000 Predictions / month",
+    "plan": "Starter",
+    "price_monthly": 35,
+    "source_url": "https://flowiseai.com/",
+    "tool": "Flowise"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "10,000 message credits / month",
+    "plan": "Team",
+    "price_monthly": 159,
+    "source_url": "https://dify.ai/pricing",
+    "tool": "Dify"
+  },
+  {
+    "billing_unit": "custom",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "Custom Actions",
+    "plan": "Enterprise",
+    "price_monthly": null,
+    "source_url": "https://relevanceai.com/pricing",
+    "tool": "Relevance AI"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "50,000 Predictions / month",
+    "plan": "Pro",
+    "price_monthly": 65,
+    "source_url": "https://flowiseai.com/",
+    "tool": "Flowise"
+  },
+  {
+    "billing_unit": "custom",
+    "checked": "2026-10-14",
+    "currency": "EUR",
+    "included_units": "custom quote",
+    "plan": "Enterprise",
+    "price_monthly": null,
+    "source_url": "https://n8n.io/pricing/",
+    "tool": "n8n"
+  },
+  {
+    "billing_unit": "custom",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "Custom number of runs",
+    "plan": "Enterprise",
+    "price_monthly": null,
+    "source_url": "https://www.stackai.com/pricing",
+    "tool": "Stack AI"
+  },
+  {
+    "billing_unit": "custom",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": null,
+    "plan": "Enterprise",
+    "price_monthly": null,
+    "source_url": "https://www.langchain.com/pricing",
+    "tool": "LangSmith"
+  },
+  {
+    "billing_unit": "monthly",
+    "checked": "2026-10-14",
+    "currency": "USD",
+    "included_units": "5,000 message credits / month",
+    "plan": "Professional",
+    "price_monthly": 59,
+    "source_url": "https://dify.ai/pricing",
+    "tool": "Dify"
+  }
+]

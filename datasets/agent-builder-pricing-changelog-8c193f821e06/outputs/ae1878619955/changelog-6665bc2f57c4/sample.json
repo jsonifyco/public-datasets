@@ -1,0 +1,482 @@
+[
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-01",
+    "summary": "Introduced Confluence Knowledge Sync, allowing users to connect a Confluence workspace and automatically sync page changes to knowledge tables. This keeps AI agents up to date without manual documentation updates.",
+    "title": "Confluence Knowledge Sync: Keep your AI agents updated with real-time documentation",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-16",
+    "summary": "StackAI introduced Knowledge Base API v2 and new integrations and actions for billing, e-signatures, support, and other services. The update also added quality-of-life improvements and fixed issues with scheduled runs, bulk invites, editors, integrations, and workflow publishing.",
+    "title": "Mid-July Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/mid-july-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-10",
+    "summary": "This release adds dataset-scoped knowledge-base API keys, keyboard movement for workflow nodes and comments, marketplace creator profiles and a redesigned homepage, and configurable Markdown field-name limits. It also fixes numerous knowledge-base extraction and storage bugs, model-provider upgrade and credential issues, and workflow and Human Input behavior; self-hosted deployments using bundled Weaviate must complete a staged manual upgrade before starting 1.17.1.",
+    "title": "v1.17.1 - Bug Fixes and Improvements",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.17.1"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2025-10-08",
+    "summary": "This release adds Gemini built-in tools, a Teradata MCP server, Loop Agentflow updates, OpenAPI spec loading and tool selection, HTTP URL variables, text-to-speech, and other node and core enhancements. It also includes fixes for Gemini content handling, JSON parsing, URL paths, Google Calendar parameters, and migrations.",
+    "title": "flowise@3.0.8",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.8"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-29",
+    "summary": "Flowise 3.1.4 includes fixes for session ID type validation, workspace authorization and tenant validation, MCP command allowlisting, deny-list checks, and other security and workflow issues, along with package version updates.",
+    "title": "flowise@3.1.4",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.4"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-06",
+    "summary": "n8n 2.43 makes Browser Use available to all users and includes 13 other features.",
+    "title": "n8n 2.43 Browser Use now available to all users, plus 13 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n243"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-01",
+    "summary": "StackAI introduced personal account connections in embedded chats, a fullscreen editor for JSON schemas, and new integrations and actions across web, finance, productivity, and other services. The update also added workflow configuration and evaluation improvements, along with fixes for chat, runs, imports, and integrations.",
+    "title": "October Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/october-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-06-25",
+    "summary": "This release adds major Agentflow capabilities, including node execution visualization with HITL support, iteration nodes, scheduling, version detection and upgrades, and improved UI and validation. It also introduces MCP server and Observe features, expands model and integration support, and includes numerous security, stability, and bug fixes.",
+    "title": "flowise@3.1.3",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.3"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-22",
+    "summary": "Concurrency monitoring now shows queued runs above the limit, live slot and waiting-task counts, and running-slot capacity by project. Project admins see other projects’ names and task details anonymized; the charts are available on Analytics for project admins and on Analytics and Plan & Billing for organization admins.",
+    "title": "Concurrency visibility for project and organization admins",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog#concurrency-visibility-for-project-and-organization-admins"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-21",
+    "summary": "Microsoft Teams triggers now offer an outreach-only mode that routes only direct replies to an Agent’s outbound messages, excluding channel chatter. Configure it in Agent → Triggers → Microsoft Teams.",
+    "title": "Outreach-only reply mode for Microsoft Teams agents",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog#outreach-only-reply-mode-for-microsoft-teams-agents"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-25",
+    "summary": "This release adds E2B agent sandboxes, build-time home snapshots, workspace skill management, context-aware history compaction, reusable workflow LLM configurations, human input in loops, unified tracing, and new security, retrieval, and multimodal capabilities. It also improves accessibility and workflow stability, raises execution-time defaults, and includes authentication, access-control, and runtime fixes.",
+    "title": "v1.17.0",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.17.0"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-24",
+    "summary": "This release adds major LLM Gateway capabilities, including xAI and Grok support, configurable cross-provider model fallback chains, per-header spend and rate-limit buckets, and clearer credential attribution and error reporting. It also improves Engine issue triage and GitHub workflows, tracing and Insights, sandbox file access and pagination, administration controls, and deployment and monitoring interfaces.",
+    "title": "August 17-24, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#august-17-24-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-05",
+    "summary": "This release adds MCP tools for querying runs, managing prompts, accessing deployments, and working with sandboxes, while expanding model availability across LangSmith Chat, Playground, and model configurations. It also improves tracing, evaluator and dataset workflows, deployment logs, administration, and LLM Gateway compatibility, and updates Engine pricing displays to LangChain Standard Units without changing dollar amounts.",
+    "title": "September 28-October 5, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#september-28-october-5-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-25",
+    "summary": "n8n 2.37 adds streaming responses for Message an Agent, along with 15 other features.",
+    "title": "n8n 2.37 Streaming responses for Message an Agent, plus 15 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n237"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-17",
+    "summary": "Dify Agent enters beta with a UI builder, Linux sandbox, Skills and tool integrations, workflow support, and a publishable web app; Agent App is also open beta and enabled by default. The release adds workflow, MCP, and web app improvements, reliability and performance enhancements, extensive bug fixes, and security hardening, including an OpenAI API compatibility notice recommending Responses for GPT-5.6 and later.",
+    "title": "v1.16.0",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.16.0"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-03-18",
+    "summary": "Version 1.13.2 fixes critical regressions and stability issues from v1.13.1, including prompt-message transformation failures, Knowledge Retrieval execution errors, and Weaviate client cleanup. It also fixes hardcoded max retries and improves compatibility with both end-user role spellings.",
+    "title": "v1.13.2",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.13.2"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-22",
+    "summary": "n8n 2.41 adds the ability to mention people in Microsoft Teams messages, along with seven other features.",
+    "title": "n8n 2.41 Add mentions to Microsoft Teams messages, plus 7 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n241"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-19",
+    "summary": "n8n 2.35.4 shows scopes for managed OAuth credentials.",
+    "title": "n8n 2.35.4 Show scopes for managed OAuth credentials",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n2354"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-13",
+    "summary": "The Relevance MCP is now available to Members in RBAC-enabled organizations; the role requirement for connecting an MCP client has been lowered from Editor to Member. Requests use the user’s own authorization, so Members can access only Agents they already have permission to use.",
+    "title": "MCP access for the Member role",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog#mcp-access-for-the-member-role"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-19",
+    "summary": "v1.14.2 is a patch release that hardens tenant security and improves workflow, knowledge/RAG, tracing, and UI reliability, alongside deployment and dependency updates. Upgrading requires a database migration for configurable Explore app categories and review of the reorganized Docker environment files.",
+    "title": "v1.14.2 - Security fixes, agent groundwork, workflow reliability, and deployment updates",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.14.2"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-04-29",
+    "summary": "Version 1.14.0 adds collaborative workflow editing and a service API for human-in-the-loop flows, alongside broad improvements to plugins, the UI, billing, data handling, and infrastructure. It also includes security and performance fixes, Graphon 0.2.2, and extensive API, testing, and platform refactoring.",
+    "title": "v1.14.0",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.14.0"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-06-01",
+    "summary": "StackAI introduced Claude Code as an Anthropic workflow action, along with new integrations and actions for Microsoft, Salesforce, Zendesk, and other services. The update also added configurable knowledge-base search settings and usability improvements, plus fixes across integrations, knowledge bases, and the dashboard.",
+    "title": "June Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/june-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-03-16",
+    "summary": "Flowise 3.1.0 enables HTTP security checks by default, blocking unsafe and internal domains, with environment variables to configure the checks and additional deny-list entries. The release also adds AgentFlow SDK and editor features, core integrations and upgrades, and extensive security hardening and bug fixes.",
+    "title": "flowise@3.1.0",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.0"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-11",
+    "summary": "n8n 2.35 enhances human-in-the-loop approval for Slack and Telegram and includes 15 other features. Released on 2026-08-11.",
+    "title": "n8n 2.35 Enhanced HITL approval for Slack and Telegram, plus 15 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n235"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2025-11-06",
+    "summary": "This release adds Teradata vector-store support, Gemini thinking-budget configuration, Qdrant collection-name variables, improved node search, multilingual instruction generation, and Northflank deployment support. It also includes security, authentication, workflow, UI, and parsing bug fixes, plus telemetry and general maintenance updates.",
+    "title": "flowise@3.0.10",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.10"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-06-16",
+    "summary": "The update introduces Monday.com board triggers and actions, revision-aware parsing of Word tracked changes, and a redesigned usage dashboard showing token credit spending. It also adds integrations and workflow improvements, including retryable knowledge base nodes, GPT-5.4 defaults, Power BI file support, and numerous reliability fixes.",
+    "title": "Mid-June Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/mid-june-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-06-12",
+    "summary": "Gemini 3.5 Flash is now available in production for all users and can be selected anywhere a language model is configured. It offers a 1M-token context window, up to 64K output tokens, function calling, image and file inputs, and four configurable reasoning levels.",
+    "title": "Gemini 3.5 Flash now available",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog#gemini-3-5-flash-now-available"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-01",
+    "summary": "StackAI introduced reusable Skills, custom Python and TypeScript actions, a unified workflow Start Node, and permission-aware federated search. The update also added integrations and product improvements, including dark mode enhancements, SharePoint and Outlook features, large Snowflake query exports, and numerous bug fixes.",
+    "title": "July Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/july-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-02-03",
+    "summary": "Flowise 3.0.13 adds integrations and capabilities for chat models, rerankers, and image uploads, alongside core validation, API-key permissions, and authentication improvements. It also fixes security vulnerabilities, database and vector-store compatibility issues, and several routing and integration bugs.",
+    "title": "flowise@3.0.13",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.13"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-06-29",
+    "summary": "Completed Eval runs now include a per-component breakdown of credit and action consumption, with checks counted consistently so totals reconcile. Workforce evaluations also record and evaluate sub-agent and tool interactions, as individual Agent runs do.",
+    "title": "Eval cost breakdowns and Workforce evaluations",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog#eval-cost-breakdowns-and-workforce-evaluations"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-15",
+    "summary": "n8n 2.40 adds a Microsoft Dataverse core node and 32 other features. Released on 2026-09-15.",
+    "title": "n8n 2.40 Add Microsoft Dataverse core node, plus 32 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n240"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-21",
+    "summary": "This release adds dataset import from annotation queues, improves evaluator validation and trajectory handling, and enhances tracing, Insights, Engine, automation, and alerting workflows. It also expands deployment and sandbox capabilities, adds administration controls, and introduces TypeSafe support and provider-based usage grouping in LLM Gateway.",
+    "title": "September 14-21, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#september-14-21-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-17",
+    "summary": "This release improves dataset exports and labeling, automation permissions and thread handling, Engine and tracing workflows, deployment reliability, sandbox diagnostics, administration, and LLM Gateway compatibility and metadata. It also deprecates the Tracing Turns view, with removal scheduled for October 31, 2026 in Cloud and v17 for self-hosted.",
+    "title": "August 10-17, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#august-10-17-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-28",
+    "summary": "This release adds workflow multi-select inputs, node locating and selector improvements, agent DSL export, and knowledge-processing traces. It also delivers extensive workflow, agent, web app, and backend fixes, performance improvements, and security hardening, including sandbox network isolation and token-based API-to-agent authentication; deployments must configure matching agent API tokens.",
+    "title": "v1.16.1 - Bug Fixes and Security Enhancements",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.16.1"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-18",
+    "summary": "n8n 2.36 adds member moderation actions to the Discord node, along with 17 other features.",
+    "title": "n8n 2.36 Discord node adds member moderation actions, plus 17 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n236"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-01",
+    "summary": "The Relevance AI Android app is now available on the Google Play Store, letting users run agents, monitor activity, manage configurations, and stay connected to workflows from their phones.",
+    "title": "Relevance AI Android App: Access your AI workforce anywhere",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-12",
+    "summary": "v1.14.1 is a patch release focused on security hardening, workflow and knowledge-base stability, deployment improvements, and continued migration to the Dify UI platform. It also includes fixes and enhancements across tracing, accessibility, audio, and app runtime behavior.",
+    "title": "v1.14.1 - Security hardening, workflow stability, and cleaner self-hosted deployments",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.14.1"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-16",
+    "summary": "StackAI’s mid-May update adds a full DocuSign integration, ClickHouse support, per-action connector controls, and partial-success handling with fallback branches for the Files node. It also introduces new integrations and workflow improvements, including day-of-month scheduling, email attachments, and expanded MCP server capabilities, alongside numerous bug fixes.",
+    "title": "Mid-May Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/mid-may-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-01",
+    "summary": "StackAI added API support for pausing workflows for human approval and resuming them from a saved checkpoint. The update also introduced new integrations and triggers, expanded scheduling and knowledge base features, and included numerous bug fixes.",
+    "title": "August Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/august-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-01",
+    "summary": "n8n 2.38.1 adds MongoDB bulkWrite batching for writes, along with nine other features.",
+    "title": "n8n 2.38.1 MongoDB node batches writes with bulkWrite, plus 9 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n2381"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-16",
+    "summary": "StackAI introduced WhatsApp Business workflows, scoped API keys, and custom actions written in Python or TypeScript, alongside more than 50 new integrations and actions. The update also added quality-of-life improvements and fixes across integrations, workflows, and other product features.",
+    "title": "Mid-August Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/mid-august-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-04-14",
+    "summary": "Release 3.1.2 includes extensive security fixes, including protections against mass assignment, credential leaks, IDOR, and cross-workspace disclosure. It also adds MCP integrations, Agentflow and UI improvements, and fixes across streaming, models, evaluations, and other components.",
+    "title": "flowise@3.1.2",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.2"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-28",
+    "summary": "The release expands tracing, evaluation, and chat capabilities, including broader onboarding, higher trace limits, image support, and improved Gemini and Claude model handling. It also adds deployment, sandbox, administration, and LLM Gateway improvements while fixing reliability and usability issues across the platform.",
+    "title": "September 21-28, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#september-21-28-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-07",
+    "summary": "This release adds thread and trace statistics, progressive thread queries, dataset and annotation-queue actions, and improvements to evaluator, dataset, prompt, and Gateway workflows. It also strengthens validation and permissions, improves deployment and OAuth diagnostics, and adds model, sandbox, and self-hosted administration options.",
+    "title": "August 31-September 7, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#august-31-september-7-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-01",
+    "summary": "StackAI introduced workflow experiments with repeatable test cases and clearer workflow node summaries. The update also added integrations and actions for numerous services, expanded existing capabilities, and included improvements and bug fixes across the platform.",
+    "title": "September Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/september-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-16",
+    "summary": "StackAI introduced production quality monitoring and tools for inspecting evaluation scores on production runs. The update also added integrations and actions, workflow improvements, and bug fixes.",
+    "title": "Mid-September Product Update",
+    "tool": "Stack AI",
+    "url": "https://www.stackai.com/changelog/mid-september-product-update"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-10",
+    "summary": "This release improves authorization, dataset and experiment workflows, monitoring, Engine, feedback and evaluation, tracing, prompts, automations, deployments, sandboxes, administration, and LLM Gateway behavior. Highlights include more reliable access-control updates, corrected API errors and validation, better trace and evaluator cost reporting, expanded automation triggers, and clearer deployment and gateway controls.",
+    "title": "August 3-10, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#august-3-10-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-01",
+    "summary": "Project-Level Public Agent Controls let admins centrally disable public cloning and embeddability for all agents, workforces, and tools, preventing users from re-enabling those features. The controls are available in Project Settings under Manage Access.",
+    "title": "Project-level public agent controls: Centralize security settings across your workspace",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2025-11-16",
+    "summary": "The Read/Write File Tools functionality was permanently removed, with Google Drive and Google Docs tools suggested as alternatives. Other changes include enhanced file-path validation and non-root Docker support, plus fixes for AzureChatOpenAI supervisor nodes and custom function libraries.",
+    "title": "flowise@3.0.11",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.11"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-05-29",
+    "summary": "Added timeline charts showing daily task counts to the Approvals, Escalated, and Errors tabs on the Tasks page. Charts use sentiment-matched colors, local-time day buckets, and respect the page’s date range and Agent filters; anyone who can view a tab can also view its chart.",
+    "title": "Timeline view added to Tasks page",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog#timeline-view-added-to-tasks-page"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2025-12-05",
+    "summary": "Flowise 3.0.12 adds node capabilities including image uploads, structured JSON output, and Gemini integrations, alongside core improvements to post-processing, rate-limit handling, and sorting. It also fixes issues across agents, tools, vector stores, credentials, and other components, and updates dependencies.",
+    "title": "flowise@3.0.12",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.12"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-31",
+    "summary": "This release improves tracing, evaluations, datasets, and Engine workflows, including clearer trace filtering, Linear and pull-request integrations, and 40% lower Engine Usage Credit costs. It also expands Gateway routing and configuration support, strengthens deployment and self-hosted features, and adds Fleet support for external OIDC, local Excel workbooks, and Outlook availability checks.",
+    "title": "August 24-31, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#august-24-31-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-06-25",
+    "summary": "Dify 1.15.0 adds difyctl, live chain-of-thought visibility, richer human-input forms, support for long-running models, spreadsheet image extraction, and expanded observability, alongside UX, workflow, and plugin-install improvements. It also fixes a plugin-daemon path traversal vulnerability and numerous bugs, and includes database migrations and environment changes requiring upgrade steps.",
+    "title": "1.15.0",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.15.0"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-31",
+    "summary": "This release adds annotation queue APIs and deprecates legacy endpoints, improves dataset uploads, experiment views, tracing, Engine issue handling, and sandbox execution, and fixes deployment and administration workflows. LLM Gateway updates include expanded Gateway Credits onboarding and purchasing, clearer usage and policy interfaces, improved model connections, and Anthropic prompt-cache support.",
+    "title": "July 27-31, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#july-27-31-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-03-23",
+    "summary": "Flowise 3.1.1 adds AgentFlow capabilities including a rich-text editor, additional input and load methods, flow listing, API-client deduplication, and Start/HTTP node updates. It also includes compatibility and bug fixes, new OpenAI models, and testing and documentation updates.",
+    "title": "flowise@3.1.1",
+    "tool": "Flowise",
+    "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.1"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-14",
+    "summary": "This release improves feedback attribution and ingestion, trace replay validation, chat and tracing behavior, model configuration support, trajectory evaluations, deployment and sandbox reliability, and administration controls. It also adds LLM Gateway policy, model visibility, fallback, and pricing metadata improvements, and caps extended-retention SaaS traces at 180 days for new traces starting September 14, 2026.",
+    "title": "September 7-14, 2026",
+    "tool": "LangSmith",
+    "url": "https://docs.langchain.com/langsmith/changelog#september-7-14-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-03-27",
+    "summary": "v1.13.3 adds variable-reference support for model parameters in workflow nodes and fixes streaming reliability, workflow editor behavior, runtime execution, and knowledge retrieval issues. The release also includes targeted stability improvements and an upgrade guide for Docker Compose and source deployments.",
+    "title": "v1.13.3",
+    "tool": "Dify",
+    "url": "https://github.com/langgenius/dify/releases/tag/1.13.3"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-29",
+    "summary": "n8n 2.42 adds prompt caching support to the Anthropic node, along with 26 other features.",
+    "title": "n8n 2.42 Anthropic node gains prompt caching support, plus 26 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n242"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-08",
+    "summary": "n8n 2.39 adds online meeting support to the Microsoft Teams node, along with 16 other features.",
+    "title": "n8n 2.39 Microsoft Teams node adds online meeting support, plus 16 other features",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/changelog/release-notes#n8n239"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-03",
+    "summary": "The newest version of Invent is available, with capabilities to create and edit project resources, run tasks, and access analytics. Invent can be opened from several locations and must be enabled per project by an organization admin.",
+    "title": "Meet the new Invent",
+    "tool": "Relevance AI",
+    "url": "https://relevanceai.com/docs/changelog#meet-the-new-invent"
+  }
+]

@@ -1,0 +1,19 @@
+billing_unit,checked,currency,included_units,plan,price_monthly,source_url,tool
+monthly,2026-10-14,USD,200 message credits,Sandbox,0,https://dify.ai/pricing,Dify
+monthly,2026-10-14,EUR,40K workflow executions,Business,800,https://n8n.io/pricing/,n8n
+per seat / month,2026-10-14,USD,10k base traces / mo,Plus,39,https://www.langchain.com/pricing,LangSmith
+monthly,2026-10-14,EUR,2.5K workflow executions,Starter,24,https://n8n.io/pricing/,n8n
+monthly,2026-10-14,EUR,10K workflow executions,Pro,60,https://n8n.io/pricing/,n8n
+,2026-10-14,EUR,self-hosted; no price published on this pricing page,Community Edition,,https://n8n.io/pricing/,n8n
+,2026-10-14,EUR,no standalone price published on this pricing page; 50% off Business for qualifying start-ups,Start-up Plan,,https://n8n.io/pricing/,n8n
+per seat / month,2026-10-14,USD,5k base traces / mo,Developer,0,https://www.langchain.com/pricing,LangSmith
+monthly,2026-10-14,USD,100 Predictions / month,Free,0,https://flowiseai.com/,Flowise
+monthly,2026-10-14,USD,500 runs per month,Free plan,0,https://www.stackai.com/pricing,Stack AI
+monthly,2026-10-14,USD,"10,000 Predictions / month",Starter,35,https://flowiseai.com/,Flowise
+monthly,2026-10-14,USD,"10,000 message credits / month",Team,159,https://dify.ai/pricing,Dify
+custom,2026-10-14,USD,Custom Actions,Enterprise,,https://relevanceai.com/pricing,Relevance AI
+monthly,2026-10-14,USD,"50,000 Predictions / month",Pro,65,https://flowiseai.com/,Flowise
+custom,2026-10-14,EUR,custom quote,Enterprise,,https://n8n.io/pricing/,n8n
+custom,2026-10-14,USD,Custom number of runs,Enterprise,,https://www.stackai.com/pricing,Stack AI
+custom,2026-10-14,USD,,Enterprise,,https://www.langchain.com/pricing,LangSmith
+monthly,2026-10-14,USD,"5,000 message credits / month",Professional,59,https://dify.ai/pricing,Dify

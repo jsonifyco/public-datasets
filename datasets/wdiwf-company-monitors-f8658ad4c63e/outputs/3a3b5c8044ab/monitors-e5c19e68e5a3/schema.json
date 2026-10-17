@@ -1,0 +1,46 @@
+[
+  {
+    "name": "company_name",
+    "type": "text"
+  },
+  {
+    "name": "company_slug",
+    "type": "text"
+  },
+  {
+    "name": "content_hash",
+    "type": "text"
+  },
+  {
+    "name": "content_summary",
+    "type": "text"
+  },
+  {
+    "name": "error_message",
+    "type": "text"
+  },
+  {
+    "name": "key_facts",
+    "type": "text"
+  },
+  {
+    "name": "last_checked_at",
+    "type": "text"
+  },
+  {
+    "name": "page_title",
+    "type": "text"
+  },
+  {
+    "name": "page_type",
+    "type": "text"
+  },
+  {
+    "name": "page_url",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  }
+]

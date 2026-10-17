@@ -1,0 +1,26 @@
+[
+  {
+    "name": "checked",
+    "type": "text"
+  },
+  {
+    "name": "date",
+    "type": "text"
+  },
+  {
+    "name": "summary",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "tool",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

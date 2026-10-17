@@ -1,0 +1,25 @@
+billing_unit,checked,currency,included_units,plan,price_annual_monthly,price_monthly,price_note,source_url,tool
+credits,2026-10-14,USD,1000,Free,0,0,,https://www.make.com/en/pricing,Make
+tasks,2026-10-14,USD,,Enterprise,,,Contact sales,https://zapier.com/pricing,Zapier
+executions,2026-10-14,EUR,40000,Business,667,800,,https://n8n.io/pricing/,n8n
+credits,2026-10-14,USD,,Ultimate,,,Contact sales,https://www.activepieces.com/pricing,Activepieces
+tasks,2026-10-14,USD,100,Free,0,0,,https://zapier.com/pricing,Zapier
+executions,2026-10-14,EUR,,Community Edition,,,Self-hosted Community Edition; price and monthly quota not stated on the pricing page,https://n8n.io/pricing/,n8n
+credits,2026-10-14,USD,10000,Teams,38,51,starting tier of slider (default 10000 credits/mo),https://www.make.com/en/pricing,Make
+credits,2026-10-14,USD,,Enterprise,,,Contact sales,https://www.make.com/en/pricing,Make
+credits,2026-10-14,USD,10000,Plus,16,20,,https://www.activepieces.com/pricing,Activepieces
+tasks,2026-10-14,USD,2000,Team,69,103.5,starting tier of slider,https://zapier.com/pricing,Zapier
+credits,2026-10-14,USD,50000,Team,166,200,,https://www.activepieces.com/pricing,Activepieces
+executions,2026-10-14,EUR,2500,Starter,20,24,,https://n8n.io/pricing/,n8n
+executions,2026-10-14,EUR,,Enterprise,,,Contact sales,https://n8n.io/pricing/,n8n
+credits,2026-10-14,USD,,Free,0,0,Development-only usage; no numeric monthly credit quota published.,https://pipedream.com/pricing,Pipedream
+credits,2026-10-14,USD,,Embed,3000,,From $36k a year,https://www.activepieces.com/pricing,Activepieces
+credits,2026-10-14,USD,10000,Startup,99,150,,https://pipedream.com/pricing,Pipedream
+credits,2026-10-14,USD,1000,Free,0,0,,https://www.activepieces.com/pricing,Activepieces
+credits,2026-10-14,USD,10000,Core,12,16,starting tier of slider (default 10000 credits/mo),https://www.make.com/en/pricing,Make
+credits,2026-10-14,USD,,Business,,,Contact sales,https://pipedream.com/pricing,Pipedream
+credits,2026-10-14,USD,10000,Pro,21,28,starting tier of slider (default 10000 credits/mo),https://www.make.com/en/pricing,Make
+credits,2026-10-14,USD,,Enterprise control,,,Contact sales,https://www.activepieces.com/pricing,Activepieces
+executions,2026-10-14,EUR,,Start-up Plan,,,Eligibility-dependent 50% off Business; explicit price and monthly quota not published for this option,https://n8n.io/pricing/,n8n
+executions,2026-10-14,EUR,10000,Pro,50,60,,https://n8n.io/pricing/,n8n
+tasks,2026-10-14,USD,750,Professional,19.99,29.99,starting tier of slider,https://zapier.com/pricing,Zapier

@@ -1,0 +1,322 @@
+[
+  {
+    "checked": "2026-10-14",
+    "date": "2025-06-13",
+    "summary": "Pipedream released a developer playground for Connect that demonstrates the server API/SDK and the connect-react package. Updates include a Debug tab showing calls, payloads, and responses in real time; bug fixes and connect-react support for SQL and object prop types, plus improved string[] input UX; and a redesigned interface.",
+    "title": "New Developer Playground for Pipedream Connect",
+    "tool": "Pipedream",
+    "url": "https://pipedream.com/docs/changelog#new-developer-playground-for-pipedream-connect"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-25",
+    "summary": "The September 25, 2026 update covers an Alegra resource ID format change now in effect, support for Claude Opus 5.5 and Gemini Omni 1.1 Flash, an upcoming Gemini deprecation, and other app updates.",
+    "title": "Alegra resource ID format change, Google Gemini AI model, and more app updates",
+    "tool": "Make",
+    "url": "https://help.make.com/alegra-resource-id-format-change-google-gemini-ai-model-and-more-app-updates"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-08",
+    "summary": "ZapConnect is a free, one-day virtual event on September 23 at 9 AM PT / 12 PM ET, featuring 30+ sessions and 50 speakers on AI automation, including keynotes, live build-alongs, governance playbooks, and discussions. Zappy Award nominations close July 24, 2026, and winners will be announced live at the event.",
+    "title": "ZapConnect 2026 registration is open 🎉",
+    "tool": "Zapier",
+    "url": "https://community.zapier.com/product-updates/zapconnect-2026-registration-is-open-53579"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-21",
+    "summary": "Version 0.91.1 includes fixes for subflow retries and connection references. The build fix moves MinIO off Docker Hub and removes source maps that the image build deletes.",
+    "title": "0.91.1",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.91.1"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-01",
+    "summary": "n8n 2.38.1 was released on 2026-09-01. Its MongoDB node batches writes with bulkWrite, and the release includes nine other features.",
+    "title": "n8n@2.38.1",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n2381"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-23",
+    "summary": "Zapier unveiled Next Gen Zaps, which can be built through AI tools or directly in Zapier using natural language, code, or a visual canvas. They add uncapped list processing, branching and nested loops, error handling, pauses and automatic resumption, and monitoring agents that can diagnose failures and apply or suggest fixes; early access is available to paid-plan users by request.",
+    "title": "The next generation of Zaps is here",
+    "tool": "Zapier",
+    "url": "https://community.zapier.com/product-updates/the-next-generation-of-zaps-is-here-53832"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-09",
+    "summary": "The October 9, 2026 entry covers Make AI Agent fallback connections and prompt caching, new AI models Maia, Claude Sonnet 5.5, and GPT-6.1 Sol, SSO login routing, and MCP tools for audit logs.",
+    "title": "Make AI Agent improvements, new AI models, SSO login routing, and MCP tools for audit logs",
+    "tool": "Make",
+    "url": "https://help.make.com/make-ai-agent-improvements-new-ai-models-sso-login-routing-and-mcp-tools-for-audit-logs"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-08",
+    "summary": "n8n 2.39 was released on 2026-09-08. It adds online meeting support to the Microsoft Teams node and includes 16 other features.",
+    "title": "n8n@2.39",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n239"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-29",
+    "summary": "n8n 2.42 was released on 2026-09-29. It adds prompt caching support to the Anthropic node and includes 26 other features.",
+    "title": "n8n@2.42",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n242"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-23",
+    "summary": "Fixed template imports failing when a v23 upgrade has no stored flow.",
+    "title": "0.91.2",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.91.2"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-18",
+    "summary": "Make is retiring its OpenAI video modules ahead of the Videos API and Sora shutdown on September 24, 2026. Users must update their workflows before that date.",
+    "title": "OpenAI: Sora and Video Modules Deprecation by September 24, 2026",
+    "tool": "Make",
+    "url": "https://help.make.com/openai-sora-and-video-modules-deprecation-by-september-24-2026"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2025-08-01",
+    "summary": "MCP Chat lets users interact with tools through prompts, using Pipedream Connect and Vercel’s AI SDK. It offers access to more than 10,000 tools across more than 2,800 APIs, includes built-in authentication, and is open-sourced under the MIT license.",
+    "title": "MCP Chat - Talk directly with all your tools",
+    "tool": "Pipedream",
+    "url": "https://pipedream.com/docs/changelog#mcp-chat-talk-directly-with-all-your-tools"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-30",
+    "summary": "Removed the per-sandbox piece LRU, restoring the piece-loading fix from version 0.91.3 that was missing in 0.92.0. Self-hosted users are advised to review the Breaking Changes page before upgrading.",
+    "title": "0.92.1",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.92.1"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-25",
+    "summary": "The September 25, 2026 entry covers OpenAI’s GPT-6 Sol and Luna and GPT Image 2.5 Sunburst and Flare, Grok 4.7 in the xAI app, and new MCP tools for managing webhook queues in Make.",
+    "title": "GPT-6 Sol and Luna, GPT Image 2.5 Sunburst and Flare, Grok 4.7, and MCP tools for webhook queues",
+    "tool": "Make",
+    "url": "https://help.make.com/gpt-6-sol-and-luna-gpt-image-25-sunburst-and-flare-grok-47-and-mcp-tools-for-webhook-queues"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-08",
+    "summary": "This hotfix is based on version 0.88.4 and reverts the change intended to prevent OAuth2 connections from failing to save when the code contains special characters.",
+    "title": "0.88.4-hotfix.2",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.88.4-hotfix.2"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-18",
+    "summary": "n8n 2.36 was released on 2026-08-18. Its Discord node adds member moderation actions, alongside 17 other features.",
+    "title": "n8n@2.36",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n236"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-24",
+    "summary": "This release adds AI-agent actions and output schemas across many integrations, new authentication options for Shopify, Amazon Bedrock, Azure SQL, and Zendesk, and improvements to step forms, agent run visibility, and platform administration. Fixes address table data loss, webhook authentication handling, Helm upgrades and setup, flow connection updates, and other integration and agent issues.",
+    "title": "0.92.0",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.92.0"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2025-09-09",
+    "summary": "Pipedream Connect now offers Python and Java SDKs and a rewritten TypeScript SDK with improved type definitions and namespaced methods; the TypeScript 1.x SDK is not being deprecated, and users should consult the migration guide before upgrading to 2.x. The new interactive documentation includes a Connect API reference with code snippets and guidance for using Pipedream docs with AI tools, including plain-text or Markdown access and an MCP server.",
+    "title": "Python, TypeScript, and Java SDKs + Interactive AI-Friendly Docs",
+    "tool": "Pipedream",
+    "url": "https://pipedream.com/docs/changelog#python-typescript-and-java-sdks-+-interactive-ai-friendly-docs"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-22",
+    "summary": "n8n 2.41 was released on 2026-09-22. It adds the ability to mention people in Microsoft Teams messages, along with seven other features.",
+    "title": "n8n@2.41",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n241"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-25",
+    "summary": "n8n 2.37 was released on 2026-08-25 and adds streaming responses for Message an Agent, along with 15 other features.",
+    "title": "n8n@2.37",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n237"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-28",
+    "summary": "The September integration updates added new triggers, actions, and searches across services including Cobot, Databricks, eSignatures, Exact Online, and Zendesk. The post also lists fixes for reported issues, including search failures, trigger errors, authentication problems, and incorrect field handling.",
+    "title": "What's New: 39 updated integrations for September 2026",
+    "tool": "Zapier",
+    "url": "https://community.zapier.com/product-updates/what-s-new-39-updated-integrations-for-september-2026-53860"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2025-10-01",
+    "summary": "Pipedream upgraded its MCP server with OAuth authentication at a static URL, tool annotations describing whether tools are read, write, or destructive, and automatic account connection prompts without pre-setup. Developers can use Pipedream MCP, powered by Connect, to connect agents to more than 10,000 tools across 3,000+ APIs, and the service is now available in ChatGPT.",
+    "title": "OAuth for Pipedream MCP + ChatGPT Support",
+    "tool": "Pipedream",
+    "url": "https://pipedream.com/docs/changelog#oauth-for-pipedream-mcp-+-chatgpt-support"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-05",
+    "summary": "On October 5, 2026, Metricool’s Get Network Metrics API will stop returning 30 deprecated metrics. Users will need to update affected scenarios.",
+    "title": "Deprecated metrics removed from Metricool's Get network metrics module",
+    "tool": "Make",
+    "url": "https://help.make.com/deprecated-metrics-removed-from-metricools-get-network-metrics-module"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-11",
+    "summary": "n8n 2.35 was released on 2026-08-11. The release title highlights enhanced human-in-the-loop approval for Slack and Telegram, along with 15 other features.",
+    "title": "n8n@2.35",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n235"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-02",
+    "summary": "The October 2, 2026 entry covers changes to Google Gemini’s AI video model, a new TypeSafe app, WhatsApp Business Cloud pricing, and Claude Sonnet 5.5 support.",
+    "title": "Google Gemini AI video module update, TypeSafe, and more app updates",
+    "tool": "Make",
+    "url": "https://help.make.com/google-gemini-ai-video-module-update-typesafe-and-more-app-updates"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-07-28",
+    "summary": "The July integration updates added new triggers, actions, and searches across services including Exact Online, Pipeline CRM, Zapier Tables, and Zoom. Fixes addressed issues such as failed triggers, authentication errors, missing fields, and incorrect search or attachment behavior.",
+    "title": "What's New: 52 updated integrations for July 2026",
+    "tool": "Zapier",
+    "url": "https://community.zapier.com/product-updates/what-s-new-52-updated-integrations-for-july-2026-53650"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-07",
+    "summary": "On October 7, 2026, the scenario toolbar was redesigned to make testing and version control easier.",
+    "title": "Improved scenario toolbar and version control",
+    "tool": "Make",
+    "url": "https://help.make.com/improved-scenario-toolbar-and-version-control"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-12",
+    "summary": "The October 12, 2026 update covers Wealthbox’s OAuth 2.0 transition, Google Ads API v22 deprecation, and other app updates. It also mentions new support for Claude Haiku 5.5 and GPT-6.1 Sol.",
+    "title": "Wealthbox OAuth 2.0 transition, Google Ads API v22 deprecation, and more app updates",
+    "tool": "Make",
+    "url": "https://help.make.com/wealthbox-oauth-20-transition-google-ads-api-v22-deprecation-and-more-app-updates"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-15",
+    "summary": "n8n 2.40 was released on 2026-09-15. It adds a Microsoft Dataverse core node and 32 other features.",
+    "title": "n8n@2.40",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n240"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-28",
+    "summary": "The August integration updates added triggers, actions, searches, and find-or-create options across many apps, including new media tools in Bannerbear, newsletter features in beehiiv, and event tools in Zoom Events. The post also lists fixes for reported bugs and feature improvements, such as authentication and trigger issues, search errors, and new filtering or data fields.",
+    "title": "What's New: 78 updated integrations for August 2026",
+    "tool": "Zapier",
+    "url": "https://community.zapier.com/product-updates/what-s-new-78-updated-integrations-for-august-2026-53759"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-12",
+    "summary": "The engine now forces a piece reinstall when requiring it fails. Piece installation no longer depends on the worker being able to reach the public URL.",
+    "title": "0.92.3",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.92.3"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-24",
+    "summary": "Version 0.91.1 includes fixes for subflow retries and connection references. The build fix moves MinIO off Docker Hub and removes source maps that the image build deletes.",
+    "title": "0.91.3",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.91.3"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-14",
+    "summary": "Added agent capabilities, including running saved agents from flow steps, configuring agents alongside their workflows, and recording agent actions in audit logs. Updates also add and improve integrations such as Gmail, Sage Accounting, WhatsScale, and Ninety, while fixing issues across agents, flows, workers, and integrations—including GET request handling, OAuth connections, and Stripe customer search.",
+    "title": "0.91.0",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.91.0"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-07",
+    "summary": "Template-expression evaluation and the shared script session now use the legacy sandbox instead of spawning a Deno process for each token. This reduces memory pressure and slowdowns when flows map many expressions over large step outputs.",
+    "title": "0.92.2",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.92.2"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-08-19",
+    "summary": "n8n 2.35.4 was released on 2026-08-19 and shows scopes for managed OAuth credentials.",
+    "title": "n8n@2.35.4",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n2354"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2025-09-02",
+    "summary": "Existing workflows can now be edited with natural-language instructions using AI in the workflow builder, including whole-workflow changes, code-step updates, and help debugging execution errors. Changes can be made in String.com and deployed back to Pipedream; some workflows have limitations, including those with control flow, GitHub sync, Python steps, or Pipedream Connect features.",
+    "title": "Edit Existing Workflows with AI",
+    "tool": "Pipedream",
+    "url": "https://pipedream.com/docs/changelog#edit-existing-workflows-with-ai"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-08",
+    "summary": "On October 8, 2026, event subscriptions were introduced. They let users receive signed real-time platform notifications, monitor activity, and troubleshoot deliveries using detailed logs.",
+    "title": "Introducing event subscriptions",
+    "tool": "Make",
+    "url": "https://help.make.com/introducing-event-subscriptions"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-09",
+    "summary": "This hotfix combines 0.88.4-hotfix.1 and 0.88.4-hotfix.2 and disables piece cache prewarming. It also reverts the fix for OAuth2 connections failing to save when the code contains special characters.",
+    "title": "0.88.4-hotfix.3",
+    "tool": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces/releases/tag/0.88.4-hotfix.3"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-10-06",
+    "summary": "n8n 2.43 was released on 2026-10-06. Browser Use is now available to all users, along with 13 other features.",
+    "title": "n8n@2.43",
+    "tool": "n8n",
+    "url": "https://docs.n8n.io/release-notes/#n8n243"
+  },
+  {
+    "checked": "2026-10-14",
+    "date": "2026-09-18",
+    "summary": "OpenAI announced that legacy models will be deprecated by September 28, 2026. The entry is dated September 18, 2026.",
+    "title": "OpenAI: Deprecation of legacy models by September 28, 2026",
+    "tool": "Make",
+    "url": "https://help.make.com/openai-deprecation-of-legacy-models-by-september-28-2026"
+  }
+]

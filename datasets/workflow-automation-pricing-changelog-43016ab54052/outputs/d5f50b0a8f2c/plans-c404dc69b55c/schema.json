@@ -1,0 +1,42 @@
+[
+  {
+    "name": "billing_unit",
+    "type": "text"
+  },
+  {
+    "name": "checked",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "included_units",
+    "type": "double precision"
+  },
+  {
+    "name": "plan",
+    "type": "text"
+  },
+  {
+    "name": "price_annual_monthly",
+    "type": "double precision"
+  },
+  {
+    "name": "price_monthly",
+    "type": "double precision"
+  },
+  {
+    "name": "price_note",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "tool",
+    "type": "text"
+  }
+]

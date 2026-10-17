@@ -1,14 +1,14 @@
-# Hacker News AI
+# Hacker News AI Story Tags: Ranked Feed Snapshot
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Read a configurable Hacker News feed \(top 30 by default\) and tag each live story AI or Not AI from its title, URL and post text\. Each update replaces the current snapshot\. The is\_ai and title columns appear first\. Linked article bodies and comments are not read\.
+A configurable Hacker News feed snapshot with story details and AI or Not AI tags based on each story’s title, URL, and post text\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/hacker-news-ai-067aaaf184ae?action=get) — CSV or JSON · Email required
 
 - Refresh: hourly
-- Active pipeline version: 2
-- Last published: 2026-10-14T07:02:13.239925Z
+- Active pipeline version: 5
+- Last published: 2026-10-17T11:02:26.327776Z
 
 ## The brief
 
@@ -18,20 +18,20 @@ Original request to Jason.
 
 ## Hacker News AI Story Tags / stories
 
-29 total rows · 29 sampled · Output revision 29
-Published: 2026-10-14T07:02:13.239925Z · Producing pipeline version: 2
+29 total rows · 29 sampled · Output revision 109
+Published: 2026-10-17T11:02:26.327776Z · Producing pipeline version: 5
 
 [CSV sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.csv) · [JSON sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.json) · [Schema](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/schema.json)
 
 | author | collected\_at | comment\_count | feed | hn\_url | is\_ai | published\_at | rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Philpax | 2026\-10\-14T07:00:59\.358819\+00:00 | 678 | top | [https://news\.ycombinator\.com/item?id=50073633](<https://news.ycombinator.com/item?id=50073633>) | False | 2026\-10\-13T15:49:56\+00:00 | 7 |
-| tosh | 2026\-10\-14T07:02:07\.262354\+00:00 | 23 | top | [https://news\.ycombinator\.com/item?id=50059542](<https://news.ycombinator.com/item?id=50059542>) | False | 2026\-10\-12T17:15:13\+00:00 | 29 |
-| etothet | 2026\-10\-14T07:02:02\.484207\+00:00 | 842 | top | [https://news\.ycombinator\.com/item?id=50071017](<https://news.ycombinator.com/item?id=50071017>) | False | 2026\-10\-13T13:02:12\+00:00 | 25 |
-| ivell | 2026\-10\-14T07:01:23\.323478\+00:00 | 406 | top | [https://news\.ycombinator\.com/item?id=50072286](<https://news.ycombinator.com/item?id=50072286>) | False | 2026\-10\-13T14:26:08\+00:00 | 16 |
-| mooreds | 2026\-10\-14T07:01:15\.178799\+00:00 | 43 | top | [https://news\.ycombinator\.com/item?id=50080007](<https://news.ycombinator.com/item?id=50080007>) | False | 2026\-10\-13T22:46:49\+00:00 | 9 |
+| \_\_cayenne\_\_ | 2026\-10\-17T11:02:20\.620005\+00:00 | 101 | top | [https://news\.ycombinator\.com/item?id=50118688](<https://news.ycombinator.com/item?id=50118688>) | True | 2026\-10\-16T14:18:44\+00:00 | 29 |
+| yu3zhou4 | 2026\-10\-17T11:01:35\.291392\+00:00 | 2 | top | [https://news\.ycombinator\.com/item?id=50088767](<https://news.ycombinator.com/item?id=50088767>) | False | 2026\-10\-14T15:04:33\+00:00 | 16 |
+| nikanj | 2026\-10\-17T11:01:09\.707919\+00:00 | 25 | top | [https://news\.ycombinator\.com/item?id=50089577](<https://news.ycombinator.com/item?id=50089577>) | False | 2026\-10\-14T15:49:31\+00:00 | 7 |
+| mpweiher | 2026\-10\-17T11:01:09\.838533\+00:00 | 11 | top | [https://news\.ycombinator\.com/item?id=50103255](<https://news.ycombinator.com/item?id=50103255>) | False | 2026\-10\-15T13:18:44\+00:00 | 6 |
+| gx | 2026\-10\-17T11:02:00\.589107\+00:00 | 0 | top | [https://news\.ycombinator\.com/item?id=50100440](<https://news.ycombinator.com/item?id=50100440>) | False | 2026\-10\-15T07:27:55\+00:00 | 20 |
 
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
 ### Schema
 
@@ -75,10 +75,13 @@ flowchart LR
 
 - 2026-10-12T18:17:39.593635Z: v1: Added Hacker News story collection with AI/Not AI tags, uncertainty flags, story links and live engagement details\.
 - 2026-10-13T11:39:47.049116Z: v2: Removed ai\_tag, text, classification\_basis and needs\_review\. is\_ai is now the first column and title the second\.
+- 2026-10-16T20:05:12.946828Z: v3: Correct AI tagging for discoveries made using AI models, including Claude research in non\-AI disciplines\. Keep the existing metadata\-only scope and saved columns\.
+- 2026-10-16T22:06:11.875731Z: v4: Improved AI tagging for agent harnesses and token\-efficiency infrastructure while distinguishing unrelated uses such as Token Ring networking\.
+- 2026-10-17T10:08:11.370834Z: v5: Correct Ultramarine 1 Flash's AI tag when its model name appears with its maker's product or technical\-report URL\. Keep the metadata\-only classification scope and other behavior unchanged\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-10-17T03:07:22.757514Z: repair failed
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/hacker-news-ai-067aaaf184ae?action=get) — CSV or JSON · Email required
 

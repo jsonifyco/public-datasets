@@ -2,36 +2,30 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A quiet daily product\-research radar for adaptive AI teams: up to 20 fresh Hacker News signals about adaptive assistants, workflow friction, and AI trust\. Keyword\-screened top 100 stories; prompts are hypotheses, not verified needs\. Current snapshot replaces on refresh\.
+
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-13T11:30:18.502095Z
-
-## The brief
-
-> I need this data: A quiet daily product\-research radar for adaptive AI teams: up to 20 fresh Hacker News signals about adaptive assistants, workflow friction, and AI trust\. Keyword\-screened top 100 stories; prompts are hypotheses, not verified needs\. Current snapshot replaces on refresh\.
-
-Summary from the public dataset description.
+- Last published: 2026-10-17T09:06:43.921317Z
 
 ## Quiet Signals / signals
 
-16 total rows · 16 sampled · Output revision 1
-Published: 2026-10-13T11:30:18.502095Z · Producing pipeline version: 1
+16 total rows · 16 sampled · Output revision 5
+Published: 2026-10-17T09:06:43.921317Z · Producing pipeline version: 1
 
 [CSV sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/50c345b0be12/signals-c1d2c1df9eab/schema.json)
 
 | article\_url | comments | discussion\_url | evidence\_scope | hn\_rank | matched\_term | observed\_at | points |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://arxiv\.org/abs/2610\.13928](<https://arxiv.org/abs/2610.13928>) | 112 | [https://news\.ycombinator\.com/item?id=50065692](<https://news.ycombinator.com/item?id=50065692>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 24 | AI | 2026\-10\-13T11:26:18\.401300\+00:00 | 219 |
-| [https://www\.reuters\.com/business/ai\-models\-may\-soon\-self\-replicate\-without\-access\-data\-centers\-anthropic\-warns\-2026\-10\-13/](<https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/>) | 16 | [https://news\.ycombinator\.com/item?id=50069333](<https://news.ycombinator.com/item?id=50069333>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 25 | AI | 2026\-10\-13T11:26:18\.644662\+00:00 | 15 |
-| [https://arstechnica\.com/ai/2026/10/ai\-coding\-agents\-generate\-more\-code\-but\-not\-more\-software/](<https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/>) | 286 | [https://news\.ycombinator\.com/item?id=50059523](<https://news.ycombinator.com/item?id=50059523>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 51 | agents | 2026\-10\-13T11:27:43\.891177\+00:00 | 340 |
-| [https://vcresearch\.berkeley\.edu/news/using\-ai\-just\-10\-minutes\-erodes\-your\-ability\-persist\-hard\-things](<https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things>) | 143 | [https://news\.ycombinator\.com/item?id=50041765](<https://news.ycombinator.com/item?id=50041765>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 83 | AI | 2026\-10\-13T11:29:36\.534270\+00:00 | 178 |
-| [https://news\.ycombinator\.com/item?id=50039291](<https://news.ycombinator.com/item?id=50039291>) | 142 | [https://news\.ycombinator\.com/item?id=50039291](<https://news.ycombinator.com/item?id=50039291>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 50 | AI | 2026\-10\-13T11:27:30\.258915\+00:00 | 143 |
+| [https://starskirmish\.com/bench/v0\-2/](<https://starskirmish.com/bench/v0-2/>) | 99 | [https://news\.ycombinator\.com/item?id=50118688](<https://news.ycombinator.com/item?id=50118688>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 28 | LLMs | 2026\-10\-17T09:02:40\.927150\+00:00 | 221 |
+| [https://fakeipedia\.org](<https://fakeipedia.org>) | 10 | [https://news\.ycombinator\.com/item?id=50126334](<https://news.ycombinator.com/item?id=50126334>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 43 | AI | 2026\-10\-17T09:03:49\.434370\+00:00 | 26 |
+| [https://www\.anthropic\.com/research/designing\-efficient\-quantum\-circuits](<https://www.anthropic.com/research/designing-efficient-quantum-circuits>) | 32 | [https://news\.ycombinator\.com/item?id=50121939](<https://news.ycombinator.com/item?id=50121939>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 16 | Claude | 2026\-10\-17T09:01:57\.527476\+00:00 | 138 |
+| [https://rstation\.ai/](<https://rstation.ai/>) | 19 | [https://news\.ycombinator\.com/item?id=50118876](<https://news.ycombinator.com/item?id=50118876>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 65 | agents | 2026\-10\-17T09:04:56\.506093\+00:00 | 52 |
+| [https://llmspeed\.dev/](<https://llmspeed.dev/>) | 23 | [https://news\.ycombinator\.com/item?id=50127979](<https://news.ycombinator.com/item?id=50127979>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 3 | LLM | 2026\-10\-17T09:01:22\.372845\+00:00 | 57 |
 
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns.
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
 ### Schema
 

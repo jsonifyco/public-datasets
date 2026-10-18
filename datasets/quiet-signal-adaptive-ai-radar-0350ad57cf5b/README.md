@@ -8,22 +8,22 @@
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-17T09:06:43.921317Z
+- Last published: 2026-10-18T09:06:51.433144Z
 
 ## Quiet Signals / signals
 
-16 total rows · 16 sampled · Output revision 5
-Published: 2026-10-17T09:06:43.921317Z · Producing pipeline version: 1
+13 total rows · 13 sampled · Output revision 6
+Published: 2026-10-18T09:06:51.433144Z · Producing pipeline version: 1
 
 [CSV sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/50c345b0be12/signals-c1d2c1df9eab/schema.json)
 
 | article\_url | comments | discussion\_url | evidence\_scope | hn\_rank | matched\_term | observed\_at | points |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://starskirmish\.com/bench/v0\-2/](<https://starskirmish.com/bench/v0-2/>) | 99 | [https://news\.ycombinator\.com/item?id=50118688](<https://news.ycombinator.com/item?id=50118688>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 28 | LLMs | 2026\-10\-17T09:02:40\.927150\+00:00 | 221 |
-| [https://fakeipedia\.org](<https://fakeipedia.org>) | 10 | [https://news\.ycombinator\.com/item?id=50126334](<https://news.ycombinator.com/item?id=50126334>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 43 | AI | 2026\-10\-17T09:03:49\.434370\+00:00 | 26 |
-| [https://www\.anthropic\.com/research/designing\-efficient\-quantum\-circuits](<https://www.anthropic.com/research/designing-efficient-quantum-circuits>) | 32 | [https://news\.ycombinator\.com/item?id=50121939](<https://news.ycombinator.com/item?id=50121939>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 16 | Claude | 2026\-10\-17T09:01:57\.527476\+00:00 | 138 |
-| [https://rstation\.ai/](<https://rstation.ai/>) | 19 | [https://news\.ycombinator\.com/item?id=50118876](<https://news.ycombinator.com/item?id=50118876>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 65 | agents | 2026\-10\-17T09:04:56\.506093\+00:00 | 52 |
-| [https://llmspeed\.dev/](<https://llmspeed.dev/>) | 23 | [https://news\.ycombinator\.com/item?id=50127979](<https://news.ycombinator.com/item?id=50127979>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 3 | LLM | 2026\-10\-17T09:01:22\.372845\+00:00 | 57 |
+| [https://wonderhop\.io/en/](<https://wonderhop.io/en/>) | 92 | [https://news\.ycombinator\.com/item?id=50080246](<https://news.ycombinator.com/item?id=50080246>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 80 | AI | 2026\-10\-18T09:05:41\.891621\+00:00 | 116 |
+| [https://research\.meta\.ai/blog/muse\-spark\-open](<https://research.meta.ai/blog/muse-spark-open>) | 477 | [https://news\.ycombinator\.com/item?id=50107379](<https://news.ycombinator.com/item?id=50107379>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 94 | ai | 2026\-10\-18T09:06:43\.484880\+00:00 | 914 |
+| [https://github\.com/mixelpixx/Konnect](<https://github.com/mixelpixx/Konnect>) | 52 | [https://news\.ycombinator\.com/item?id=50085553](<https://news.ycombinator.com/item?id=50085553>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 97 | AI | 2026\-10\-18T09:06:31\.110249\+00:00 | 144 |
+| [https://www\.anthropic\.com/research/ecdsa\-curve\-origins](<https://www.anthropic.com/research/ecdsa-curve-origins>) | 380 | [https://news\.ycombinator\.com/item?id=50122800](<https://news.ycombinator.com/item?id=50122800>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 48 | Claude | 2026\-10\-18T09:03:40\.839897\+00:00 | 1035 |
+| [https://starskirmish\.com/bench/v0\-2/](<https://starskirmish.com/bench/v0-2/>) | 110 | [https://news\.ycombinator\.com/item?id=50118688](<https://news.ycombinator.com/item?id=50118688>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 79 | LLMs | 2026\-10\-18T09:05:40\.125763\+00:00 | 243 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

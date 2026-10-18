@@ -7,7 +7,7 @@ Meeting\-level records of Fulton County Board of Registration and Elections meet
 [Get the full dataset for free](https://www.jsonify.com/datasets/georgia-elections-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 5
+- Active pipeline version: 16
 - Last published: 2026-10-18T17:14:44.466328Z
 
 ## The brief
@@ -98,10 +98,21 @@ flowchart LR
 - 2026-10-18T17:14:15.103409Z: v3: Corrected recognition of explicitly recorded abstentions so valid named votes no longer stop collection\.
 - 2026-10-18T17:54:13.606104Z: v4: Expands 2026 meeting records to Georgia’s ten largest counties, with approved minutes, drafts, summaries and missing\-minute status clearly distinguished\. Corrects the Fulton narrative agreement that was previously counted as a motion\.
 - 2026-10-18T18:02:31.485010Z: v5: Read Gwinnett’s voting charts correctly, preserving every recorded decision and each member’s explicitly recorded vote\.
+- 2026-10-18T18:10:38.290702Z: v6: Handle both Gwinnett voting\-chart layouts without duplicating group decisions, and include ballot decisions in meeting summaries\.
+- 2026-10-18T18:18:04.447793Z: v7: Read merged voting\-chart cells correctly while avoiding duplicate rows for grouped ballot decisions\.
+- 2026-10-18T18:20:28.736279Z: v8: Recognize explicitly recorded votes described as “voted in opposition\.”
+- 2026-10-18T18:23:40.490376Z: v9: Preserve corroborated source\-date discrepancies and include the entire selected final day for Cobb meetings\.
+- 2026-10-18T18:28:20.153353Z: v10: Recognize corroborating primary\-election wording in Cobb’s minutes while preserving source\-date discrepancy notes\.
+- 2026-10-18T20:01:42.406796Z: v11: Process fewer meeting documents at once to reduce processing interruptions without reducing coverage\.
+- 2026-10-18T20:08:31.905910Z: v12: Reads board\-identifying headers in Word minutes so valid DeKalb records are retained without weakening source checks\.
+- 2026-10-18T20:12:24.776077Z: v13: Preserves brief official\-summary approvals as notes when no formal motion or member vote is recorded, while retaining explicit motions\.
+- 2026-10-18T20:17:02.845796Z: v14: Corrects reading order for Chatham’s scanned minutes so sidebar labels no longer interrupt verified motion quotations\.
+- 2026-10-18T20:28:56.289467Z: v15: Corrects scanned Chatham motions split by page footers or sidebar headings, while retaining exact\-source and named\-vote checks\.
+- 2026-10-18T20:35:50.055440Z: v16: Reads scanned motions continuously across page breaks without treating generated page markers as source text\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-10-18T18:32:22.830483Z: temporary blocker
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/georgia-elections-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
 

@@ -7,8 +7,8 @@ Meeting\-level records of Fulton County Board of Registration and Elections meet
 [Get the full dataset for free](https://www.jsonify.com/datasets/georgia-elections-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 16
-- Last published: 2026-10-18T17:14:44.466328Z
+- Active pipeline version: 19
+- Last published: 2026-10-18T21:14:33.754956Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Georgia Elections Board Meetings and Votes / meeting\_actions
 
-116 total rows · 100 sampled · Output revision 1
-Published: 2026-10-18T17:14:44.466328Z · Producing pipeline version: 3
+1,257 total rows · 100 sampled · Output revision 2
+Published: 2026-10-18T21:14:33.754956Z · Producing pipeline version: 19
 
 [CSV sample](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/sample.csv) · [JSON sample](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/sample.json) · [Schema](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/schema.json)
 
 | agenda\_item | board | checked\_at | county | evidence\_quote | meeting\_date | meeting\_location | meeting\_summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Executive session | Board of Registration and Elections | 2026\-10\-18T17:14:39\.750267\+00:00 | Fulton | After the executive session, Chair Allen entertained a motion to reconvene from the executive session\. The motion was made by Mr\. Selby, seconded by Mrs\. Crawford, and carried by a unanimous vote of 3 | 2026\-08\-03 | None | The board approved the agenda, called a TSPLOST election for the listed municipalities, convened and reconvened from executive session to discuss litigation matters, and adjourned\. The recorded votes  |
-| CHALLENGE HEARING | Board of Registration and Elections | 2026\-10\-18T17:14:32\.890723\+00:00 | Fulton | Chair Allen entertained a motion to continue the hearing to give adequate notice to the Challenger listed\. The motion was made by Ms\. Adams, seconded by Mrs\. Crawford, and carried by a unanimous vote  | 2026\-04\-09 | None | The Board reviewed election operations, legislation, voter communications, absentee ballot return procedures, emergency polling place changes, and voter list maintenance\. It approved the agenda, amend |
-| 1– APPROVAL OF AGENDA | Board of Registration and Elections | 2026\-10\-18T17:14:39\.750267\+00:00 | Fulton | Chair Allen entertained a motion to approve the agenda\. The motion was made by Mrs\. Crawford, seconded by Mr\. Selby and carried by a unanimous vote of 3\-0\. | 2026\-08\-03 | None | The board approved the agenda, called a TSPLOST election for the listed municipalities, convened and reconvened from executive session to discuss litigation matters, and adjourned\. The recorded votes  |
-| Adjournment | Board of Registration and Elections | 2026\-10\-18T17:14:37\.717667\+00:00 | Fulton | There being no further business, Chair Allen entertained a motion to adjourn\. Mrs\. Crawford moved to adjourn the meeting; Ms\. Adams seconded the motion\. There being no further business on the agenda,  | 2026\-06\-16 | None | The Board approved the agenda as amended, discussed ballot rescanning and chain of custody, changed the June 22 meeting time from 11 a\.m\. to 1 p\.m\., discussed financial disclosure requirements, and re |
-| \#9 – REVIEW AND AMENDMENT OF 2026 BRE MEETING SCHEDULE | Board of Registration and Elections | 2026\-10\-18T17:14:34\.713714\+00:00 | Fulton | Chair Allen entertained a motion to approve the edits to the BRE meeting schedule as listed\. The motion was made by Ms\. Adams, seconded by Mrs\. Crawford, and carried by a unanimous vote of 4\-0\. | 2026\-05\-14 | None | The Board reviewed April operations and election preparations, discontinued the absentee\-ballot drop\-off pilot at advance\-voting locations, approved an emergency polling\-place change, adopted a public |
+| Executive session | Board of Registration and Elections | 2026\-10\-18T21:07:24\.393700\+00:00 | Fulton | After the executive session, Chair Allen entertained a motion to reconvene from the executive session\. The motion was made by Mrs\. Crawford, seconded by Mrs\. Crawford, and carried by a unanimous vote  | 2026\-02\-12 | None | The board amended its agenda, approved prior minutes, adopted a resolution seeking to delay implementation of Senate Bill 189, approved polling place relocations and advance voting arrangements, enter |
+| \#1 – Approval of Agenda | Board of Registration and Elections | 2026\-10\-18T21:07:36\.197770\+00:00 | Fulton | Chair Allen entertained a motion to amend the agenda to hold the Call of Election for TSPLOST on item \#5 and Discussion of Reconciliation Report as item\#10\. The motion was made by Ms\. Adams, seconded  | 2026\-07\-16 | None | The board amended its agenda, approved four sets of prior minutes, called the November 3 ESPLOST election, authorized drafting TSPLOST call language and scheduled a special meeting\. It discussed opera |
+| 1\) Discussion of Policy for Pre\-Certification Review of Precinct Returns | Board of Elections and Registration | 2026\-10\-18T21:07:58\.213952\+00:00 | Cobb | Motion by Ms\. Efrat to adopt the policy for Procedures for Preparing for Certification of Election Returns with the proposed amendments\. Second by Chairwoman Mosbacher\. Motion Passed 2\-0\-1\. Ms\. Fisher | 2026\-07\-13 | 100 Cherokee Street | The board approved the agenda and four sets of June meeting minutes, received election office updates, adopted an amended policy for preparing to certify election returns, and called a November 3, 202 |
+| Approval of Previous Meeting Minutes — Regular Monthly Board Meeting, December 1, 2025 | Board of Elections and Voter Registration | 2026\-10\-18T21:08:12\.919767\+00:00 | Cherokee | Member Hand made a motion to approve the minutes of the December 1, 2025, meeting; Second by Member Little\.  Motion carries 5\-0\. | 2026\-01\-05 | Northside Cherokee/Bluffs Conference Center, 1130 Bluffs Parkway, Canton, GA 30114 | The board approved its agenda, minutes from three previous meetings, and 10\-year intergovernmental agreements to conduct municipal elections for five cities\. The director reported a communications awa |
+| 8\. Business — Gainesville City Special Election Council Member Ward 1 | Board of Elections and Registration | 2026\-10\-18T21:13:17\.255358\+00:00 | Hall | MEMBER COCHRAN MADE A MOTION TO APPROVE THE RESOLUTION\. MEMBER SHEATS MADE A SECOND\. UNANIMOUSLY APPROVED\. | 2026\-02\-10 | None | The board approved the agenda and January 13 minutes; resolutions, calls, and notices for the Gainesville City Ward 1 special election and Hall County Schools ESPLOST; updated bylaws; and the March 17 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -109,6 +109,9 @@ flowchart LR
 - 2026-10-18T20:17:02.845796Z: v14: Corrects reading order for Chatham’s scanned minutes so sidebar labels no longer interrupt verified motion quotations\.
 - 2026-10-18T20:28:56.289467Z: v15: Corrects scanned Chatham motions split by page footers or sidebar headings, while retaining exact\-source and named\-vote checks\.
 - 2026-10-18T20:35:50.055440Z: v16: Reads scanned motions continuously across page breaks without treating generated page markers as source text\.
+- 2026-10-18T20:47:58.313542Z: v17: Keeps Forsyth motions intact across scanned page breaks while preserving named votes and source checks\.
+- 2026-10-18T20:54:14.623966Z: v18: Verifies Forsyth canvassing minutes that omit the county name using the official board name, office address and named officers\.
+- 2026-10-18T21:05:00.914289Z: v19: Handles misread page numbers and reads longer scanned minutes in full, preserving motions and named votes across every page\.
 
 ## Recorded repairs
 

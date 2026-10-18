@@ -11,16 +11,17 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | Dataset | Rows across tables | Refresh | Last published |
 | --- | --- | --- | --- |
 | [Quiet Signal — Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 13 | daily | 2026-10-18T09:06:51.433144Z |
-| [Hacker News AI Story Tags: Ranked Feed Snapshot](datasets/hacker-news-ai-067aaaf184ae/) | 30 | hourly | 2026-10-18T14:02:46.017030Z |
+| [Hacker News AI Story Tags: Ranked Feed Snapshot](datasets/hacker-news-ai-067aaaf184ae/) | 30 | hourly | 2026-10-18T18:02:51.500133Z |
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
 | [LlamaIndex reader demo: docs pages](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Workflow automation pricing &amp; changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
 | [Streaming Subscription Prices by Country: Official Monthly Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 1,015 | weekly | 2026-10-17T17:21:43.105460Z |
 | [Low\-Code Release Radar: Latest n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-10-18T08:00:42.784672Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
+| [Fulton County, Georgia Elections Board Meetings and Votes](datasets/georgia-elections-board-meetings-and-votes-886d693cbdab/) | 116 | On demand | 2026-10-18T17:14:44.466328Z |
 | [Agent builder pricing &amp; changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
 | [LLM API pricing](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |
-| [Golf Vancouver Tee Times and Course Availability](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,810 | daily | 2026-10-17T14:33:37.728979Z |
+| [Golf Vancouver Tee Times and Course Availability](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,519 | daily | 2026-10-18T14:40:14.951380Z |
 | [AI lab research feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |
 | [Public Instagram Posts from paul\_hunkin](datasets/instagram-posts-be49f86d2a46/) | 12 | On demand | 2026-10-17T18:08:01.916600Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |

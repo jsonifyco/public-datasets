@@ -1,0 +1,130 @@
+[
+  {
+    "name": "agenda_item",
+    "type": "text"
+  },
+  {
+    "name": "board",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "county",
+    "type": "text"
+  },
+  {
+    "name": "evidence_quote",
+    "type": "text"
+  },
+  {
+    "name": "meeting_date",
+    "type": "text"
+  },
+  {
+    "name": "meeting_location",
+    "type": "text"
+  },
+  {
+    "name": "meeting_summary",
+    "type": "text"
+  },
+  {
+    "name": "meeting_time",
+    "type": "text"
+  },
+  {
+    "name": "meeting_type",
+    "type": "text"
+  },
+  {
+    "name": "members_present",
+    "type": "jsonb"
+  },
+  {
+    "name": "minutes_status",
+    "type": "text"
+  },
+  {
+    "name": "minutes_url",
+    "type": "text"
+  },
+  {
+    "name": "motion",
+    "type": "text"
+  },
+  {
+    "name": "motion_number",
+    "type": "integer"
+  },
+  {
+    "name": "named_votes",
+    "type": "jsonb"
+  },
+  {
+    "name": "outcome",
+    "type": "text"
+  },
+  {
+    "name": "proposed_by",
+    "type": "text"
+  },
+  {
+    "name": "record_id",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "schedule_url",
+    "type": "text"
+  },
+  {
+    "name": "seconded_by",
+    "type": "text"
+  },
+  {
+    "name": "source_index_url",
+    "type": "text"
+  },
+  {
+    "name": "source_notes",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  },
+  {
+    "name": "video_timestamp",
+    "type": "text"
+  },
+  {
+    "name": "video_url",
+    "type": "text"
+  },
+  {
+    "name": "vote_tally_text",
+    "type": "text"
+  },
+  {
+    "name": "votes_abstained",
+    "type": "integer"
+  },
+  {
+    "name": "votes_against",
+    "type": "integer"
+  },
+  {
+    "name": "votes_for",
+    "type": "integer"
+  },
+  {
+    "name": "voting_record_status",
+    "type": "text"
+  }
+]

@@ -8,7 +8,7 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 
 - Refresh: weekly
 - Active pipeline version: 7
-- Last published: 2026-10-17T17:21:43.105460Z
+- Last published: 2026-10-19T13:30:45.861816Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-1,015 total rows · 100 sampled · Output revision 7
-Published: 2026-10-17T17:21:43.105460Z · Producing pipeline version: 7
+859 total rows · 100 sampled · Output revision 8
+Published: 2026-10-19T13:30:45.861816Z · Producing pipeline version: 7
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
 | billing\_period | country | country\_evidence | country\_name | currency | features | monthly\_price | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| month | RO | Official country\-specific pricing URL: [https://www\.disneyplus\.com/en\-ro](<https://www.disneyplus.com/en-ro>) | Romania | RON | Up to 1080p Full HD video quality, 2 simultaneous streams, ad\-free movies and series\. | 34\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
-| month | PK | Requested country route PK; official page locale en\. Source pricing market is not independently confirmed\. | Pakistan | PKR | No ads; complete library access; new episodes shortly after airing in Japan; stream on 6 devices at a time; offline viewing; access to Crunchyroll Game Vault and Crunchyroll Manga\. | 880 | Regular base monthly subscription; no currency conversion\. Price observed but country is not independently confirmed; do not use as a verified country comparison\. |
-| month | IS | Currently viewing information for: Iceland | Iceland | EUR | Ad\-free movies, TV shows, and games; 2 supported devices at a time; 1080p Full HD; downloads on 2 supported devices at a time; option to add 1 extra member\. | 16\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
-| month | NO | Official country\-specific pricing URL: [https://www\.hbomax\.com/no/en](<https://www.hbomax.com/no/en>) | Norway | NOK | Full HD video resolution; stream on 2 devices at once; 30 downloads\. | 149 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
-| None | PT | None | Portugal | None | None | None | No official pricing page discovered; availability is unknown\. |
+| month | UY | Requested country route UY; official page locale en\. Source pricing market is not independently confirmed\. | Uruguay | UYU | No ads; complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. | 99 | Regular base monthly subscription; no currency conversion\. Price observed but country is not independently confirmed; do not use as a verified country comparison\. |
+| month | RO | Official country\-specific pricing URL: [https://www\.skyshowtime\.com/ro/plans](<https://www.skyshowtime.com/ro/plans>) | Romania | EUR | Ad\-free; Full HD; 2 simultaneous screens; up to 30 downloads per month\. May include promotional trailers\. | 6\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
+| month | CA | Requested country route CA; official page locale en\. Source pricing market is not independently confirmed\. | Canada | CAD | No ads; complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 4 devices at a time; offline viewing; access to Crunchyroll Game Vault and Crunchyroll Store\. | 13\.49 | Regular base monthly subscription; no currency conversion\. Price observed but country is not independently confirmed; do not use as a verified country comparison\. |
+| month | PT | Official country\-specific pricing URL: [https://www\.disneyplus\.com/en\-pt](<https://www.disneyplus.com/en-pt>) | Portugal | EUR | Up to 1080p Full HD and 2 concurrent streams\. All plans include Disney promotions and sponsorship and may include ads before or after playback and in certain content\. | 6\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
+| None | BR | None | Brazil | None | None | None | No verifiable normal monthly base plans on this page; No verifiable normal monthly base plans on this page |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

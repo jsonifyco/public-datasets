@@ -8,7 +8,7 @@ A configurable Hacker News feed snapshot with story details and AI or Not AI tag
 
 - Refresh: hourly
 - Active pipeline version: 5
-- Last published: 2026-10-19T15:02:44.900715Z
+- Last published: 2026-10-19T21:02:43.045341Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Original request to Jason.
 
 ## Hacker News AI Story Tags / stories
 
-30 total rows · 30 sampled · Output revision 161
-Published: 2026-10-19T15:02:44.900715Z · Producing pipeline version: 5
+29 total rows · 29 sampled · Output revision 167
+Published: 2026-10-19T21:02:43.045341Z · Producing pipeline version: 5
 
 [CSV sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.csv) · [JSON sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.json) · [Schema](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/schema.json)
 
 | author | collected\_at | comment\_count | feed | hn\_url | is\_ai | published\_at | rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| groar | 2026\-10\-19T15:01:10\.880004\+00:00 | 45 | top | [https://news\.ycombinator\.com/item?id=50150434](<https://news.ycombinator.com/item?id=50150434>) | True | 2026\-10\-19T09:59:32\+00:00 | 3 |
-| gslin | 2026\-10\-19T15:01:18\.296728\+00:00 | 35 | top | [https://news\.ycombinator\.com/item?id=50150809](<https://news.ycombinator.com/item?id=50150809>) | False | 2026\-10\-19T10:53:39\+00:00 | 5 |
-| Petiver | 2026\-10\-19T15:01:36\.190719\+00:00 | 1 | top | [https://news\.ycombinator\.com/item?id=50114766](<https://news.ycombinator.com/item?id=50114766>) | False | 2026\-10\-16T06:17:01\+00:00 | 15 |
-| iamnothere | 2026\-10\-19T15:01:38\.210660\+00:00 | 13 | top | [https://news\.ycombinator\.com/item?id=50152970](<https://news.ycombinator.com/item?id=50152970>) | False | 2026\-10\-19T14:31:11\+00:00 | 10 |
-| lermontov | 2026\-10\-19T15:01:18\.186121\+00:00 | 13 | top | [https://news\.ycombinator\.com/item?id=50124811](<https://news.ycombinator.com/item?id=50124811>) | False | 2026\-10\-16T21:13:08\+00:00 | 8 |
+| phoronixrly | 2026\-10\-19T21:02:37\.089293\+00:00 | 307 | top | [https://news\.ycombinator\.com/item?id=50154518](<https://news.ycombinator.com/item?id=50154518>) | False | 2026\-10\-19T16:37:10\+00:00 | 27 |
+| cmrdporcupine | 2026\-10\-19T21:01:45\.979340\+00:00 | 71 | top | [https://news\.ycombinator\.com/item?id=50155245](<https://news.ycombinator.com/item?id=50155245>) | True | 2026\-10\-19T17:27:11\+00:00 | 12 |
+| rzk | 2026\-10\-19T21:01:42\.026823\+00:00 | 188 | top | [https://news\.ycombinator\.com/item?id=50151036](<https://news.ycombinator.com/item?id=50151036>) | True | 2026\-10\-19T11:24:34\+00:00 | 14 |
+| evakhoury | 2026\-10\-19T21:01:46\.137629\+00:00 | 13 | top | [https://news\.ycombinator\.com/item?id=50121834](<https://news.ycombinator.com/item?id=50121834>) | False | 2026\-10\-16T17:53:05\+00:00 | 15 |
+| skull8888888 | 2026\-10\-19T21:02:15\.573210\+00:00 | 15 | top | [https://news\.ycombinator\.com/item?id=50154029](<https://news.ycombinator.com/item?id=50154029>) | True | 2026\-10\-19T16:00:18\+00:00 | 18 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

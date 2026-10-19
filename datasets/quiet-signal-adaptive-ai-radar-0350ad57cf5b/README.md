@@ -8,22 +8,22 @@
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-18T09:06:51.433144Z
+- Last published: 2026-10-19T09:07:22.687104Z
 
 ## Quiet Signals / signals
 
-13 total rows · 13 sampled · Output revision 6
-Published: 2026-10-18T09:06:51.433144Z · Producing pipeline version: 1
+12 total rows · 12 sampled · Output revision 7
+Published: 2026-10-19T09:07:22.687104Z · Producing pipeline version: 1
 
 [CSV sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/50c345b0be12/signals-c1d2c1df9eab/schema.json)
 
 | article\_url | comments | discussion\_url | evidence\_scope | hn\_rank | matched\_term | observed\_at | points |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://wonderhop\.io/en/](<https://wonderhop.io/en/>) | 92 | [https://news\.ycombinator\.com/item?id=50080246](<https://news.ycombinator.com/item?id=50080246>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 80 | AI | 2026\-10\-18T09:05:41\.891621\+00:00 | 116 |
-| [https://research\.meta\.ai/blog/muse\-spark\-open](<https://research.meta.ai/blog/muse-spark-open>) | 477 | [https://news\.ycombinator\.com/item?id=50107379](<https://news.ycombinator.com/item?id=50107379>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 94 | ai | 2026\-10\-18T09:06:43\.484880\+00:00 | 914 |
-| [https://github\.com/mixelpixx/Konnect](<https://github.com/mixelpixx/Konnect>) | 52 | [https://news\.ycombinator\.com/item?id=50085553](<https://news.ycombinator.com/item?id=50085553>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 97 | AI | 2026\-10\-18T09:06:31\.110249\+00:00 | 144 |
-| [https://www\.anthropic\.com/research/ecdsa\-curve\-origins](<https://www.anthropic.com/research/ecdsa-curve-origins>) | 380 | [https://news\.ycombinator\.com/item?id=50122800](<https://news.ycombinator.com/item?id=50122800>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 48 | Claude | 2026\-10\-18T09:03:40\.839897\+00:00 | 1035 |
-| [https://starskirmish\.com/bench/v0\-2/](<https://starskirmish.com/bench/v0-2/>) | 110 | [https://news\.ycombinator\.com/item?id=50118688](<https://news.ycombinator.com/item?id=50118688>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 79 | LLMs | 2026\-10\-18T09:05:40\.125763\+00:00 | 243 |
+| [https://huggingface\.co/deepseek\-ai/DeepSeek\-V4\.1\-Flash\-1017](<https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017>) | 707 | [https://news\.ycombinator\.com/item?id=50129045](<https://news.ycombinator.com/item?id=50129045>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 72 | ai | 2026\-10\-19T09:05:52\.725962\+00:00 | 944 |
+| [https://crystl\.dev/guides/tmux\-for\-ai\-agents/](<https://crystl.dev/guides/tmux-for-ai-agents/>) | 7 | [https://news\.ycombinator\.com/item?id=50148855](<https://news.ycombinator.com/item?id=50148855>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 9 | Claude | 2026\-10\-19T09:01:56\.953843\+00:00 | 16 |
+| [https://sphinx\-six\-theta\.vercel\.app/](<https://sphinx-six-theta.vercel.app/>) | 86 | [https://news\.ycombinator\.com/item?id=50137950](<https://news.ycombinator.com/item?id=50137950>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 78 | workflow | 2026\-10\-19T09:06:06\.285186\+00:00 | 246 |
+| [https://legendofhyrule\.com/](<https://legendofhyrule.com/>) | 109 | [https://news\.ycombinator\.com/item?id=50140769](<https://news.ycombinator.com/item?id=50140769>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 32 | Claude | 2026\-10\-19T09:03:47\.787067\+00:00 | 181 |
+| [https://www\.vals\.ai/blogs/impossible\-refund](<https://www.vals.ai/blogs/impossible-refund>) | 103 | [https://news\.ycombinator\.com/item?id=50140462](<https://news.ycombinator.com/item?id=50140462>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 47 | Assistants | 2026\-10\-19T09:04:08\.509676\+00:00 | 83 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -8,22 +8,22 @@
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-18T09:00:49.370254Z
+- Last published: 2026-10-19T09:01:07.099200Z
 
 ## Cedar AI hiring radar / roles
 
-75 total rows · 75 sampled · Output revision 6
-Published: 2026-10-18T09:00:49.370254Z · Producing pipeline version: 1
+75 total rows · 75 sampled · Output revision 7
+Published: 2026-10-19T09:01:07.099200Z · Producing pipeline version: 1
 
 [CSV sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.csv) · [JSON sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.json) · [Schema](outputs/0642c473c8e3/roles-66cf5513b374/schema.json)
 
 | application\_url | company | company\_open\_roles | first\_published\_at | job\_key | job\_title | location | observed\_at |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4714390006](<https://job-boards.greenhouse.io/figureai/jobs/4714390006>) | Figure | 100 | 2026\-09\-17T23:22:11\+00:00 | figureai:4714390006 | Security Engineer, Enterprise Security | San Jose, CA | 2026\-10\-18T09:00:41\.511973\+00:00 |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4720675006](<https://job-boards.greenhouse.io/figureai/jobs/4720675006>) | Figure | 100 | 2026\-10\-09T17:52:49\+00:00 | figureai:4720675006 | Security Engineer, Detection and Response | San Jose, CA | 2026\-10\-18T09:00:41\.511973\+00:00 |
-| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5445806008](<https://job-boards.greenhouse.io/anthropic/jobs/5445806008>) | Anthropic | 655 | 2026\-10\-16T15:55:07\+00:00 | anthropic:5445806008 | Applied AI Architect, Security Specialist | San Francisco, CA \| New York City, NY | 2026\-10\-18T09:00:41\.612440\+00:00 |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4711258006](<https://job-boards.greenhouse.io/figureai/jobs/4711258006>) | Figure | 100 | 2026\-09\-04T16:23:18\+00:00 | figureai:4711258006 | Senior Engineering Technician | San Jose, CA | 2026\-10\-18T09:00:41\.511973\+00:00 |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4717759006](<https://job-boards.greenhouse.io/figureai/jobs/4717759006>) | Figure | 100 | 2026\-09\-29T23:55:31\+00:00 | figureai:4717759006 | Data Operations Coordinator \(Night Shift\) | San Jose, CA | 2026\-10\-18T09:00:41\.511973\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4722786006](<https://job-boards.greenhouse.io/figureai/jobs/4722786006>) | Figure | 100 | 2026\-10\-16T21:26:36\+00:00 | figureai:4722786006 | Mobile Service Technician | San Jose, CA | 2026\-10\-19T09:00:53\.774701\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4710288006](<https://job-boards.greenhouse.io/figureai/jobs/4710288006>) | Figure | 100 | 2026\-09\-01T19:44:54\+00:00 | figureai:4710288006 | IT Client Engineer | San Jose, CA | 2026\-10\-19T09:00:53\.774701\+00:00 |
+| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5424305008](<https://job-boards.greenhouse.io/anthropic/jobs/5424305008>) | Anthropic | 657 | 2026\-10\-16T09:34:58\+00:00 | anthropic:5424305008 | Manager, Applied AI Architects \- Digital Natives, EMEA | London, UK | 2026\-10\-19T09:00:53\.895599\+00:00 |
+| [https://job\-boards\.greenhouse\.io/togetherai/jobs/5238654007](<https://job-boards.greenhouse.io/togetherai/jobs/5238654007>) | Together AI | 78 | 2026\-09\-15T20:56:31\+00:00 | togetherai:5238654007 | Director of Brand | San Francisco | 2026\-10\-19T09:00:53\.673791\+00:00 |
+| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5432425008](<https://job-boards.greenhouse.io/anthropic/jobs/5432425008>) | Anthropic | 657 | 2026\-10\-15T21:32:39\+00:00 | anthropic:5432425008 | Risk &amp; Insurance Specialist | San Francisco, CA | 2026\-10\-19T09:00:53\.895599\+00:00 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

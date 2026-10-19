@@ -1,4 +1,4 @@
-# Fulton County, Georgia Elections Board Meetings and Votes
+# Georgia Elections Board Meetings and Votes
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 

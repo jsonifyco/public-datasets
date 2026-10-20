@@ -10,13 +10,13 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 
 | Dataset | Rows across tables | Refresh | Last published |
 | --- | --- | --- | --- |
-| [Quiet Signal — Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 12 | daily | 2026-10-19T09:07:22.687104Z |
-| [Hacker News AI Story Tags: Ranked Feed Snapshot](datasets/hacker-news-ai-067aaaf184ae/) | 29 | hourly | 2026-10-20T05:02:35.433309Z |
+| [Quiet Signal — Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 19 | daily | 2026-10-20T09:07:23.235910Z |
+| [Hacker News AI Story Tags: Ranked Feed Snapshot](datasets/hacker-news-ai-067aaaf184ae/) | 30 | hourly | 2026-10-20T11:02:49.190360Z |
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
 | [LlamaIndex reader demo: docs pages](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Workflow automation pricing &amp; changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
 | [Streaming Subscription Prices by Country: Official Monthly Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 859 | weekly | 2026-10-19T13:30:45.861816Z |
-| [Low\-Code Release Radar: Latest n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-10-19T08:00:48.286541Z |
+| [Low\-Code Release Radar: Latest n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-10-20T08:00:49.277060Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Georgia Elections Board Meetings and Votes](datasets/georgia-elections-board-meetings-and-votes-886d693cbdab/) | 1,257 | On demand | 2026-10-18T21:14:33.754956Z |
 | [Agent builder pricing &amp; changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
@@ -27,7 +27,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |
 | [Calven competitor watch](datasets/calven-competitor-watch-dfd2d8d7f7fc/) | 27 | On demand | 2026-10-14T14:39:43.933603Z |
 | [Agent framework releases](datasets/agent-framework-releases-e3721e6bea8a/) | 30 | On demand | 2026-10-14T12:00:31.586928Z |
-| [AI hiring radar](datasets/ai-hiring-radar-e7adb9b7e394/) | 75 | daily | 2026-10-19T09:01:07.099200Z |
+| [AI hiring radar](datasets/ai-hiring-radar-e7adb9b7e394/) | 75 | daily | 2026-10-20T09:00:59.353190Z |
 | [WDIWF company monitors](datasets/wdiwf-company-monitors-f8658ad4c63e/) | 54 | On demand | 2026-10-14T13:14:12.125029Z |
 
 Each worksheet samples its first 100 rows; rows too large for the preview API are omitted and counted in the worksheet README. Samples are refreshed regularly and may change over time. Consult each dataset’s source terms before reuse; this collection does not grant a blanket license to third-party data.

@@ -8,7 +8,7 @@ A daily snapshot of the latest stable GitHub releases for n8n, Appsmith and Budi
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-19T08:00:48.286541Z
+- Last published: 2026-10-20T08:00:49.277060Z
 
 ## The brief
 
@@ -18,16 +18,16 @@ Summary from the public dataset description.
 
 ## TechWB Low\-Code Releases / releases
 
-3 total rows · 3 sampled · Output revision 7
-Published: 2026-10-19T08:00:48.286541Z · Producing pipeline version: 1
+3 total rows · 3 sampled · Output revision 8
+Published: 2026-10-20T08:00:49.277060Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a4973f437b80/releases-20195541dc5d/sample.csv) · [JSON sample](outputs/a4973f437b80/releases-20195541dc5d/sample.json) · [Schema](outputs/a4973f437b80/releases-20195541dc5d/schema.json)
 
 | checked\_at | published\_at | release\_age\_days | release\_id | release\_name | release\_notes | release\_url | repository |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-10\-19T08:00:45\.568566\+00:00 | 2026\-10\-09T15:59:16Z | 9 | 400884069 | Release v2\.5\.0 🌈 | \#\# 🗑️ Feature Removal Reminder \- September 30, 2026 \- EOL    \*\*Appsmith AI reached end of life on September 30, 2026\.\*\*    You can no longer add new Appsmith AI datasource connections or queries\. Exis | [https://github\.com/appsmithorg/appsmith/releases/tag/v2\.5\.0](<https://github.com/appsmithorg/appsmith/releases/tag/v2.5.0>) | appsmithorg/appsmith |
-| 2026\-10\-19T08:00:45\.619711\+00:00 | 2026\-10\-12T07:58:29Z | 7 | 410342314 | v3\.49\.0 | \#\# What's Changed \* Merge Cloud changes back to master by @budibase\-release\-automation\[bot\] in [https://github\.com/Budibase/budibase/pull/19755](<https://github.com/Budibase/budibase/pull/19755>) \* Bump scim\-patch from 0\.9\.1 to 0\.9\.2 in the all\-non\-majo | [https://github\.com/Budibase/budibase/releases/tag/v3\.49\.0](<https://github.com/Budibase/budibase/releases/tag/v3.49.0>) | Budibase/budibase |
-| 2026\-10\-19T08:00:45\.540998\+00:00 | 2026\-10\-19T07:23:26Z | 0 | 417010683 | n8n@2\.43\.8 | \#\# \[2\.43\.8\]\([https://github\.com/n8n\-io/n8n/compare/n8n@2\.43\.7\.\.\.n8n@2\.43\.8](<https://github.com/n8n-io/n8n/compare/n8n@2.43.7...n8n@2.43.8>)\) \(2026\-10\-19\)   \#\#\# Bug Fixes  \* \*\*core:\*\* Turn off expression spans by default \(\[\#41310\]\([https://github\.com/n8n\-io/n8n/issues](<https://github.com/n8n-io/n8n/issues>) | [https://github\.com/n8n\-io/n8n/releases/tag/n8n%402\.43\.8](<https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.8>) | n8n\-io/n8n |
+| 2026\-10\-20T08:00:45\.704097\+00:00 | 2026\-10\-19T08:09:46Z | 0 | 417045683 | v3\.50\.0 | \#\# What's Changed \* Bump uuid from 8\.3\.2 to 14\.0\.0 by @dependabot\[bot\] in [https://github\.com/Budibase/budibase/pull/19799](<https://github.com/Budibase/budibase/pull/19799>) \* Bump the all\-non\-major\-security group across 1 directory with 5 updates by @ | [https://github\.com/Budibase/budibase/releases/tag/v3\.50\.0](<https://github.com/Budibase/budibase/releases/tag/v3.50.0>) | Budibase/budibase |
+| 2026\-10\-20T08:00:45\.797438\+00:00 | 2026\-10\-09T15:59:16Z | 10 | 400884069 | Release v2\.5\.0 🌈 | \#\# 🗑️ Feature Removal Reminder \- September 30, 2026 \- EOL    \*\*Appsmith AI reached end of life on September 30, 2026\.\*\*    You can no longer add new Appsmith AI datasource connections or queries\. Exis | [https://github\.com/appsmithorg/appsmith/releases/tag/v2\.5\.0](<https://github.com/appsmithorg/appsmith/releases/tag/v2.5.0>) | appsmithorg/appsmith |
+| 2026\-10\-20T08:00:45\.733748\+00:00 | 2026\-10\-19T07:23:26Z | 1 | 417010683 | n8n@2\.43\.8 | \#\# \[2\.43\.8\]\([https://github\.com/n8n\-io/n8n/compare/n8n@2\.43\.7\.\.\.n8n@2\.43\.8](<https://github.com/n8n-io/n8n/compare/n8n@2.43.7...n8n@2.43.8>)\) \(2026\-10\-19\)   \#\#\# Bug Fixes  \* \*\*core:\*\* Turn off expression spans by default \(\[\#41310\]\([https://github\.com/n8n\-io/n8n/issues](<https://github.com/n8n-io/n8n/issues>) | [https://github\.com/n8n\-io/n8n/releases/tag/n8n%402\.43\.8](<https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.8>) | n8n\-io/n8n |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

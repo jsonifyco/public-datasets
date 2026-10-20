@@ -8,22 +8,22 @@
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-19T09:01:07.099200Z
+- Last published: 2026-10-20T09:00:59.353190Z
 
 ## Cedar AI hiring radar / roles
 
-75 total rows · 75 sampled · Output revision 7
-Published: 2026-10-19T09:01:07.099200Z · Producing pipeline version: 1
+75 total rows · 75 sampled · Output revision 8
+Published: 2026-10-20T09:00:59.353190Z · Producing pipeline version: 1
 
 [CSV sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.csv) · [JSON sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.json) · [Schema](outputs/0642c473c8e3/roles-66cf5513b374/schema.json)
 
 | application\_url | company | company\_open\_roles | first\_published\_at | job\_key | job\_title | location | observed\_at |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4722786006](<https://job-boards.greenhouse.io/figureai/jobs/4722786006>) | Figure | 100 | 2026\-10\-16T21:26:36\+00:00 | figureai:4722786006 | Mobile Service Technician | San Jose, CA | 2026\-10\-19T09:00:53\.774701\+00:00 |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4710288006](<https://job-boards.greenhouse.io/figureai/jobs/4710288006>) | Figure | 100 | 2026\-09\-01T19:44:54\+00:00 | figureai:4710288006 | IT Client Engineer | San Jose, CA | 2026\-10\-19T09:00:53\.774701\+00:00 |
-| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5424305008](<https://job-boards.greenhouse.io/anthropic/jobs/5424305008>) | Anthropic | 657 | 2026\-10\-16T09:34:58\+00:00 | anthropic:5424305008 | Manager, Applied AI Architects \- Digital Natives, EMEA | London, UK | 2026\-10\-19T09:00:53\.895599\+00:00 |
-| [https://job\-boards\.greenhouse\.io/togetherai/jobs/5238654007](<https://job-boards.greenhouse.io/togetherai/jobs/5238654007>) | Together AI | 78 | 2026\-09\-15T20:56:31\+00:00 | togetherai:5238654007 | Director of Brand | San Francisco | 2026\-10\-19T09:00:53\.673791\+00:00 |
-| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5432425008](<https://job-boards.greenhouse.io/anthropic/jobs/5432425008>) | Anthropic | 657 | 2026\-10\-15T21:32:39\+00:00 | anthropic:5432425008 | Risk &amp; Insurance Specialist | San Francisco, CA | 2026\-10\-19T09:00:53\.895599\+00:00 |
+| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5456481008](<https://job-boards.greenhouse.io/anthropic/jobs/5456481008>) | Anthropic | 666 | 2026\-10\-19T17:12:58\+00:00 | anthropic:5456481008 | Sales Manager, Enterprise Industries | Paris, France | 2026\-10\-20T09:00:49\.579533\+00:00 |
+| [https://job\-boards\.greenhouse\.io/togetherai/jobs/5266277007](<https://job-boards.greenhouse.io/togetherai/jobs/5266277007>) | Together AI | 78 | 2026\-10\-15T21:58:10\+00:00 | togetherai:5266277007 | Director of Investor Relations | San Francisco | 2026\-10\-20T09:00:49\.489078\+00:00 |
+| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5454315008](<https://job-boards.greenhouse.io/anthropic/jobs/5454315008>) | Anthropic | 666 | 2026\-10\-16T16:51:51\+00:00 | anthropic:5454315008 | Community Engagement Manager, Data Centers \(Montana &amp; Utah\) | Remote\-Friendly, United States | 2026\-10\-20T09:00:49\.579533\+00:00 |
+| [https://job\-boards\.greenhouse\.io/togetherai/jobs/5267198007](<https://job-boards.greenhouse.io/togetherai/jobs/5267198007>) | Together AI | 78 | 2026\-10\-16T22:48:51\+00:00 | togetherai:5267198007 | Research Intern, Frontier Speculative Decoding \(Summer 2027\) | San Francisco | 2026\-10\-20T09:00:49\.489078\+00:00 |
+| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5454800008](<https://job-boards.greenhouse.io/anthropic/jobs/5454800008>) | Anthropic | 666 | 2026\-10\-17T01:12:59\+00:00 | anthropic:5454800008 | Customer Success Manager, Enterprise Tech | San Francisco, CA \| New York City, NY | 2026\-10\-20T09:00:49\.579533\+00:00 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

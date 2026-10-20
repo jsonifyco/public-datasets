@@ -1,81 +1,10 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
 2026-10-20T08:00:45.704097+00:00,2026-10-19T08:09:46Z,0,417045683,v3.50.0,"## What's Changed
-* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19799
-* Bump the all-non-major-security group across 1 directory with 5 updates by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19810
-* Bump fast-copy from 3.0.2 to 3.1.0 by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19811
-* Bump snowflake-sdk from 2.4.0 to 3.3.0 by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19812
-* [#19793] Fix agent request boundaries within chat threads by @Tobertet in https://github.com/Budibase/budibase/pull/19804
-* [BUDI-9339] Fix App Scripts for public users by @melohagan in https://github.com/Budibase/budibase/pull/19822
-* Preserve escalation state when reloading chat preview by @adrinr in https://github.com/Budibase/budibase/pull/19732
-* fix: unresolve packages by @Dakuan in https://github.com/Budibase/budibase/pull/19819
-* Validate schema before submitting write tools by @adrinr in https://github.com/Budibase/budibase/pull/19726
-* fix: handle large Redis scans by @calexiou in https://github.com/Budibase/budibase/pull/19807
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19827
-* Bump ip-address from 10.1.0 to 10.7.1 in the all-non-major-security group across 1 directory by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19829
-* Require builder authorization for automation tests by @Dakuan in https://github.com/Budibase/budibase/pull/19831
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19841
-* Fix/session redis db and user sync backlog by @calexiou in https://github.com/Budibase/budibase/pull/19826
-* Fix/publish off main loop by @calexiou in https://github.com/Budibase/budibase/pull/19843
-* Fix/queue init on publish by @calexiou in https://github.com/Budibase/budibase/pull/19853
-
-## New Contributors
-* @Tobertet made their first contribution in https://github.com/Budibase/budibase/pull/19804
-
-**Full Changelog**: https://github.com/Budibase/budibase/compare/v3.49.0...v3.50.0",https://github.com/Budibase/budibase/releases/tag/v3.50.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v3.50.0
+* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",https://github.com/Budibase/budibase/releases/tag/v3.50.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v3.50.0
 2026-10-20T08:00:45.797438+00:00,2026-10-09T15:59:16Z,10,400884069,Release v2.5.0 🌈,"## 🗑️ Feature Removal Reminder - September 30, 2026 - EOL
 
-**Appsmith AI reached end of life on September 30, 2026.**
-
-You can no longer add new Appsmith AI datasource connections or queries. Existing queries have stopped working, whether or not you have upgraded.
-
-Migrate remaining Appsmith AI queries to a direct provider datasource, such as OpenAI, Anthropic, or Google AI.
-
-## ⚠️ Important Upgrade Notes
-
-- Git-connected applications update to server schema 13 when they are next opened. This can create a one-time system commit. Applications exported from this release cannot be imported into an older server that supports only schema 12. ([#42322](https://github.com/appsmithorg/appsmith/pull/42322))
-- When you change a datasource connection setting, you must enter the credentials again for the active authentication, TLS, and SSH settings. Unchanged connections can continue to use saved credentials. ([#42339](https://github.com/appsmithorg/appsmith/pull/42339))
-- Elasticsearch body bindings now use typed JSON substitution. Review queries that insert serialized JSON, build part of a JSON string, or construct dynamic paths. Invalid bindings now return a query error. ([#42342](https://github.com/appsmithorg/appsmith/pull/42342))
-
-## 🔐 Security
-
-- Updated bundled dependencies to address reported vulnerabilities. ([#42314](https://github.com/appsmithorg/appsmith/pull/42314), [#42324](https://github.com/appsmithorg/appsmith/pull/42324), [#42331](https://github.com/appsmithorg/appsmith/pull/42331))
-- Datasource credential reuse is now tied to the saved connection configuration, and datasource test, structure, and trigger requests use stricter permission checks. ([#42339](https://github.com/appsmithorg/appsmith/pull/42339))
-- Requests from the evaluation environment now keep the credential-omission guard even if the global request constructor changes. ([#42355](https://github.com/appsmithorg/appsmith/pull/42355))
-- Login rate limits now use the same normalized account identity as authentication. ([#42337](https://github.com/appsmithorg/appsmith/pull/42337))
-- Datasource updates now preserve the identity of the datasource selected by the request. ([#42356](https://github.com/appsmithorg/appsmith/pull/42356))
-- Elasticsearch queries now validate substituted JSON and dynamic path values before execution. ([#42342](https://github.com/appsmithorg/appsmith/pull/42342))
-
-## 🛠️ Reliability
-
-- Prepared MySQL stored procedure calls can now run with a trailing query and keep bound values as data. ([#42329](https://github.com/appsmithorg/appsmith/pull/42329))
-- Failed OAuth2 and SSO logins now return users to the instance login page. ([#42330](https://github.com/appsmithorg/appsmith/pull/42330))
-- Zones in cards, tabs, sheets, and list items now use the full available width instead of collapsing into a narrow column. ([#42364](https://github.com/appsmithorg/appsmith/pull/42364))
-- MCP datasource creation now lets the server select the correct environment. ([#42341](https://github.com/appsmithorg/appsmith/pull/42341))
-
-## ✨ New Features & Enhancements
-
-- Applications can now have an optional description that appears on application cards. ([#42312](https://github.com/appsmithorg/appsmith/pull/42312))
-- List widgets now have a **Disable selection** option for apps that do not need row selection or item-click behavior. ([#42261](https://github.com/appsmithorg/appsmith/pull/42261))
-- MCP can now create and update structured JS objects, use more MongoDB filter types, patch more widget settings, wire JS function calls, and detect common layout issues. ([#42311](https://github.com/appsmithorg/appsmith/pull/42311))
-
-## 🎨 UI & Widget Improvements
-
-- Table columns now have an optional **Header wrapping** setting for long column titles. ([#42354](https://github.com/appsmithorg/appsmith/pull/42354))
-- Table headers now support configurable font weight, italic text, and underlining. ([#42323](https://github.com/appsmithorg/appsmith/pull/42323))
-- The Applications page now stays below the missing base URL banner, so workspace controls remain visible. ([#42319](https://github.com/appsmithorg/appsmith/pull/42319))
-
-## 🔧 Git, Deployment & Configuration
-
-- MCP logs now record the actual result of each tool call and keep the correct request ID on related backend calls. ([#42350](https://github.com/appsmithorg/appsmith/pull/42350))",https://github.com/appsmithorg/appsmith/releases/tag/v2.5.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.5.0
+**Appsmith AI reached end of life on Sep…",https://github.com/appsmithorg/appsmith/releases/tag/v2.5.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.5.0
 2026-10-20T08:00:45.733748+00:00,2026-10-19T07:23:26Z,1,417010683,n8n@2.43.8,"## [2.43.8](https://github.com/n8n-io/n8n/compare/n8n@2.43.7...n8n@2.43.8) (2026-10-19)
 
 
-### Bug Fixes
-
-* **core:** Turn off expression spans by default ([#41310](https://github.com/n8n-io/n8n/issues/41310)) ([e88162a](https://github.com/n8n-io/n8n/commit/e88162ae6a6486fe53091bec213a4f71a81b71f7))
-
-<!-- This is an auto-generated description by cubic. -->
-<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/41363?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/41363?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F41363&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
-<!-- End of auto-generated description by cubic. -->
-
-",https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.8,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.43.8
+### Bug Fix…",https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.8,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.43.8

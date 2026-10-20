@@ -49,9 +49,9 @@ Published: 2026-10-14T14:39:43.933603Z · Producing pipeline version: 6
 
 | billing\_period | competitor | confidence | currency | fetched\_at | included | plan | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| year | Kompyte | ? | None | 2026\-10\-14T14:39:20\.375393Z | 100 User Licenses; 20 Companies Tracked; AI Insight Curation; App Tracking: Google Play, App Store; Automated Company Profiles; Automation Workflows &amp; Alerts; Battlecard Adoption Analytics; CRM: Sales | Professional | None |
-| year | Kompyte | ? | None | 2026\-10\-14T14:39:20\.375393Z | 10 Companies Tracked; 25 User Licenses; AI Insight Curation; App Tracking: Google Play, App Store; Automated Company Profiles; Automation Workflows &amp; Alerts; Battlecard Adoption Analytics; CRM: Salesf | Essentials | None |
-| year | Kompyte | ? | None | 2026\-10\-14T14:39:20\.375393Z | Advanced User Permission Mgmt; AI Insight Curation; App Tracking: Google Play, App Store; Automated Company Profiles; Automation Workflows &amp; Alerts; Battlecard Adoption Analytics; CRM: Salesforce, Hub | Unlimited | None |
+| year | Kompyte | ? | None | 2026\-10\-14T14:39:20\.375393Z | 100 User Licenses; 20 Companies Tracked; AI Insight Curation; App Tracking: Google Play, App Store; Automated … | Professional | None |
+| year | Kompyte | ? | None | 2026\-10\-14T14:39:20\.375393Z | 10 Companies Tracked; 25 User Licenses; AI Insight Curation; App Tracking: Google Play, App Store; Automated C… | Essentials | None |
+| year | Kompyte | ? | None | 2026\-10\-14T14:39:20\.375393Z | Advanced User Permission Mgmt; AI Insight Curation; App Tracking: Google Play, App Store; Automated Company Pr… | Unlimited | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

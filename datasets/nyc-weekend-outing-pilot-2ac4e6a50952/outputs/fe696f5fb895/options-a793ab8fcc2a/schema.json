@@ -1,0 +1,94 @@
+[
+  {
+    "name": "activity",
+    "type": "text"
+  },
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "booking",
+    "type": "text"
+  },
+  {
+    "name": "cautions",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "event_date",
+    "type": "text"
+  },
+  {
+    "name": "evidence",
+    "type": "text"
+  },
+  {
+    "name": "family_detail",
+    "type": "text"
+  },
+  {
+    "name": "hours",
+    "type": "text"
+  },
+  {
+    "name": "kids_menu",
+    "type": "text"
+  },
+  {
+    "name": "kind",
+    "type": "text"
+  },
+  {
+    "name": "menu_highlight",
+    "type": "text"
+  },
+  {
+    "name": "outdoor_seating",
+    "type": "text"
+  },
+  {
+    "name": "outing",
+    "type": "text"
+  },
+  {
+    "name": "pairing_note",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "text"
+  },
+  {
+    "name": "record_id",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "source_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "unknowns",
+    "type": "text"
+  },
+  {
+    "name": "venue_name",
+    "type": "text"
+  },
+  {
+    "name": "weekend_end",
+    "type": "text"
+  },
+  {
+    "name": "weekend_start",
+    "type": "text"
+  }
+]

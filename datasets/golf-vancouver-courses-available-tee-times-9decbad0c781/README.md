@@ -8,7 +8,7 @@ Daily snapshots of public 18\-hole tee\-time availability across Golf Vancouver 
 
 - Refresh: daily
 - Active pipeline version: 7
-- Last published: 2026-10-19T14:39:23.842576Z
+- Last published: 2026-10-20T14:38:41.575892Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Golf Vancouver Courses and Tee Times / availability
 
-2,382 total rows · 100 sampled · Output revision 12
-Published: 2026-10-19T14:39:23.842576Z · Producing pipeline version: 7
+2,458 total rows · 100 sampled · Output revision 13
+Published: 2026-10-20T14:38:41.575892Z · Producing pipeline version: 7
 
 [CSV sample](outputs/b58ceed3e9d3/availability-f95dac581e9b/sample.csv) · [JSON sample](outputs/b58ceed3e9d3/availability-f95dac581e9b/sample.json) · [Schema](outputs/b58ceed3e9d3/availability-f95dac581e9b/schema.json)
 
 | availability | checked\_at | course\_holes | course\_id | course\_name | currency | displayed\_price | holes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| available | 2026\-10\-19T14:14:17\.860560\+00:00 | 18 | \-4091002743352041 | Northview \- CANAL COURSE | CAD | 75 | 18 |
-| available | 2026\-10\-19T14:16:32\.164670\+00:00 | 18 | \-2122859699495798 | Belmont Golf Course | CAD | 35 | 18 |
-| available | 2026\-10\-19T14:34:56\.626359\+00:00 | 18 | \-4091002743352041 | Northview \- CANAL COURSE | CAD | 100 | 18 |
-| available | 2026\-10\-19T14:28:31\.342965\+00:00 | 18 | \-3002716816583376 | Newlands Golf &amp; Country Club | CAD | 42\.86 | 18 |
-| available | 2026\-10\-19T14:20:59\.808511\+00:00 | 18 | \-1349120261732586 | Northview \- RIDGE COURSE | CAD | 120 | 18 |
+| available | 2026\-10\-20T14:22:22\.988722\+00:00 | 18 | \-4091002743352041 | Northview \- CANAL COURSE | CAD | 100 | 18 |
+| available | 2026\-10\-20T14:28:25\.266712\+00:00 | 18 | \-3002716816583376 | Newlands Golf &amp; Country Club | CAD | 47\.62 | 18 |
+| available | 2026\-10\-20T14:20:52\.856892\+00:00 | 18 | \-911948331026585 | Royalwood Golf Course | CAD | 42 | 18 |
+| available | 2026\-10\-20T14:32:49\.259624\+00:00 | 18 | \-3317204933973836 | Mylora Executive Golf Club | CAD | 37\.5 | 18 |
+| available | 2026\-10\-20T14:16:38\.497738\+00:00 | 18 | \-4091002743352041 | Northview \- CANAL COURSE | CAD | 65 | 18 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

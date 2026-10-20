@@ -43,7 +43,7 @@
     "published_at": "2026-10-19T13:47:56+00:00",
     "research_prompt": "What does this suggest testing about reliability, privacy, or usefulness before putting AI beside a person's daily work?",
     "story_id": "50152466",
-    "submission_excerpt": "Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model. It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line. Maxwell sees programs from the inside: traces, profiling information, and the data flowing through them. It adapts dynamically to the environment, including the hardware, what else is running, and what the inputs look like. Code execution models change the way we approach coding. Today, Claude/Codex (and humans) keep re-optimising code for every different use-case hardware and data flow (think of LLM inference engines, like vLLM!). Our bet is that this is unnecessary, suboptimal, and that it does not scale. Instead, we think the right answer is to make code a living, thinking, thing. Early access is open at heymaxwell.ai. Happy to answer questions here.",
+    "submission_excerpt": "Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Cod…",
     "theme": "AI capabilities and trust",
     "title": "Maxwell: A new kind of model that sits between code and hardware"
   },
@@ -59,7 +59,7 @@
     "published_at": "2026-10-19T13:07:07+00:00",
     "research_prompt": "What repetitive or attention-draining task here could an ambient assistant remove without adding another notification?",
     "story_id": "50151980",
-    "submission_excerpt": "I'm a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called 3 & Done.  It's the place you trust to store everything you need to do.  It accepts voice input for rapid entry, as well as text (it stores the audio locally so you can listen to jog your memory) and emails you every morning with the three most important things for you to do that day, and why, based on what you've said about the task: deadlines, urgency, sitting too long. I've been at software engineering for about 44 years now... Grew up with it, which was unusual when I started, and I was always good about getting into the zone and doing things.  The career started small, small company, then back office, the dot com startups, then smaller companies again after the bust, a non-profit, and eventually YouTube (Google at the time, but just barely) and Meta (just Facebook when I was there). When I hit the startups, and later big tech, it was no longer enough to just be an engineer, to have drive, to be good, you had to be organized, you had to follow through, get stuff done, and that's where the task systems started. Twenty-five over the years (and yes, I've actually counted), from Moleskine notebooks with Getting Things Done, evernote (remember evernote?), bug trackers, todoist, asana, google keep, among others. When I managed on the Facebook News Feed, I got into gantt charts (for me and my team), spreadsheets, OmniPlan... I remember apologizing",
+    "submission_excerpt": "I'm a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, F…",
     "theme": "Attention and workflow friction",
     "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks"
   },
@@ -155,7 +155,7 @@
     "published_at": "2026-10-20T04:37:43+00:00",
     "research_prompt": "What does this suggest testing about reliability, privacy, or usefulness before putting AI beside a person's daily work?",
     "story_id": "50161408",
-    "submission_excerpt": "Hi HN, I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs. I've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients. There's a backstory to this project, I was hospitalised in 2012 and lost my business back then and I couldn't get the data to my technical 2IC in time without frustrating my clients. Death Plan Switch solves this problem, it's free to download and use or study under the MIT license. I've been using it for the last few weeks. It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests. I hope you get some use out of it, or it inspires your own succession plans. My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts. Happy to answer any questions. Kind regards,\nPeter Bishop.",
+    "submission_excerpt": "Hi HN, I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs. I've r…",
     "theme": "AI capabilities and trust",
     "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs"
   },
@@ -203,7 +203,7 @@
     "published_at": "2026-10-19T11:24:34+00:00",
     "research_prompt": "What does this suggest testing about reliability, privacy, or usefulness before putting AI beside a person's daily work?",
     "story_id": "50151036",
-    "submission_excerpt": "I saw this LinkedIn post from a Meta engineer and it resonated with me:  https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...  > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too? How are you handling this?",
+    "submission_excerpt": "I saw this LinkedIn post from a Meta engineer and it resonated with me:  https://www.linkedin…",
     "theme": "AI capabilities and trust",
     "title": "Ask HN: How to deal with shipping AI-written code you don't understand?"
   },
@@ -235,7 +235,7 @@
     "published_at": "2026-10-19T16:00:18+00:00",
     "research_prompt": "What repetitive or attention-draining task here could an ambient assistant remove without adding another notification?",
     "story_id": "50154029",
-    "submission_excerpt": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark ( https://laminar.sh/blog/flow-1 ), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling. Here’s a one-minute walkthrough:  https://youtu.be/KJa3h6ZJNLQ  We also put together a post with example traces and analyses from flow-1 and other models:  https://laminar.sh/blog/flow-1-in-action  Agent observability is crowded, so instead of a bullet list of how Laminar differs from X, we’ll explain how we’re solving agent observability from first principles. Agents now run for many steps and fail implicitly. An agent can click the wrong button or cite the wrong document while every call completes successfully. These errors are the most useful ones to catch and understand. To find them, you need to understand what the agent was trying to do and inspect its LLM calls and tool results. Simply looking at the final agent output is not enough. Collecting traces alone doesn’t solve this. A lot of agent observability platforms are still data collectors at their core. You can end up paying to store traces that nobody has time to read or extract value from. Using another LLM to inspect traces is THE solution, but capable models are expensive at scale and cheaper o",
+    "submission_excerpt": "Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-sou…",
     "theme": "Attention and workflow friction",
     "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces"
   },
@@ -267,7 +267,7 @@
     "published_at": "2026-10-18T13:06:54+00:00",
     "research_prompt": "What does this suggest testing about reliability, privacy, or usefulness before putting AI beside a person's daily work?",
     "story_id": "50140769",
-    "submission_excerpt": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before the Door of Time reopens. Nintendo’s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth. The threads meet again much later with Breath of the Wild. I had a lot of help from Claude. I’d often thought about building things like this but never found the time between the day job and the rest of life.",
+    "submission_excerpt": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the fe…",
     "theme": "AI capabilities and trust",
     "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake"
   },
@@ -283,7 +283,7 @@
     "published_at": "2026-10-19T17:58:54+00:00",
     "research_prompt": "What does this suggest testing about reliability, privacy, or usefulness before putting AI beside a person's daily work?",
     "story_id": "50155647",
-    "submission_excerpt": "My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitting and reading by herself. So I built this book reader app to allow her to click on the words, sound out the phonemes, and read by herself. My 12 year old son wrote the first story, there's a cliffhanger at the end and he's working on the next section. We're going to release more chapters and more stories in the near future. And there's one other thing - The reader has an MCP connection, so you can connect your Claude or ChatGPT or Grok, give them a PDF of a book you like (or even a set of scans done quickly with a phone camera) and have them import your favorite books into the app (private to your account, for your own kid, if you own the book of course). The reader is free to use on its website and open source if you want to tinker and create your own version. The included stories are under Creative Commons.",
+    "submission_excerpt": "My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach…",
     "theme": "AI capabilities and trust",
     "title": "Show HN: Open-source early-reading reader with phonics help"
   },

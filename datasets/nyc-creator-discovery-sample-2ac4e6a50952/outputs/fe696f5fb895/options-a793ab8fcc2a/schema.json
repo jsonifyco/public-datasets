@@ -1,0 +1,126 @@
+[
+  {
+    "name": "area",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "context_note",
+    "type": "text"
+  },
+  {
+    "name": "creator",
+    "type": "text"
+  },
+  {
+    "name": "creator_handle",
+    "type": "text"
+  },
+  {
+    "name": "creator_take",
+    "type": "text"
+  },
+  {
+    "name": "creator_url",
+    "type": "text"
+  },
+  {
+    "name": "evidence_type",
+    "type": "text"
+  },
+  {
+    "name": "evidence_url",
+    "type": "text"
+  },
+  {
+    "name": "fact_status",
+    "type": "text"
+  },
+  {
+    "name": "location_evidence_type",
+    "type": "text"
+  },
+  {
+    "name": "location_quote",
+    "type": "text"
+  },
+  {
+    "name": "place_name",
+    "type": "text"
+  },
+  {
+    "name": "platform",
+    "type": "text"
+  },
+  {
+    "name": "post_comments",
+    "type": "integer"
+  },
+  {
+    "name": "post_likes",
+    "type": "integer"
+  },
+  {
+    "name": "post_saves",
+    "type": "integer"
+  },
+  {
+    "name": "post_shares",
+    "type": "integer"
+  },
+  {
+    "name": "post_title",
+    "type": "text"
+  },
+  {
+    "name": "post_views",
+    "type": "integer"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "quote",
+    "type": "text"
+  },
+  {
+    "name": "quote_timestamp",
+    "type": "text"
+  },
+  {
+    "name": "record_id",
+    "type": "text"
+  },
+  {
+    "name": "scope_note",
+    "type": "text"
+  },
+  {
+    "name": "sentiment",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "sponsorship_disclosure",
+    "type": "text"
+  },
+  {
+    "name": "transcript_status",
+    "type": "text"
+  },
+  {
+    "name": "why_it_matters",
+    "type": "text"
+  }
+]

@@ -11,7 +11,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | Dataset | Rows across tables | Refresh | Last published |
 | --- | --- | --- | --- |
 | [Quiet Signal — Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 12 | daily | 2026-10-19T09:07:22.687104Z |
-| [Hacker News AI Story Tags: Ranked Feed Snapshot](datasets/hacker-news-ai-067aaaf184ae/) | 29 | hourly | 2026-10-20T00:02:44.039766Z |
+| [Hacker News AI Story Tags: Ranked Feed Snapshot](datasets/hacker-news-ai-067aaaf184ae/) | 29 | hourly | 2026-10-20T05:02:35.433309Z |
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
 | [LlamaIndex reader demo: docs pages](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Workflow automation pricing &amp; changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |

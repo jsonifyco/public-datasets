@@ -6,7 +6,7 @@
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
+- Refresh: weekly
 - Active pipeline version: 1
 - Last published: 2026-10-21T09:06:58.660055Z
 

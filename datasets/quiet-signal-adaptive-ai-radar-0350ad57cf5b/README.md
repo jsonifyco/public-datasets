@@ -8,22 +8,22 @@
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-20T09:07:23.235910Z
+- Last published: 2026-10-21T09:06:58.660055Z
 
 ## Quiet Signals / signals
 
-19 total rows · 19 sampled · Output revision 8
-Published: 2026-10-20T09:07:23.235910Z · Producing pipeline version: 1
+16 total rows · 16 sampled · Output revision 9
+Published: 2026-10-21T09:06:58.660055Z · Producing pipeline version: 1
 
 [CSV sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/50c345b0be12/signals-c1d2c1df9eab/schema.json)
 
 | article\_url | comments | discussion\_url | evidence\_scope | hn\_rank | matched\_term | observed\_at | points |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://arxiv\.org/abs/2610\.18861](<https://arxiv.org/abs/2610.18861>) | 236 | [https://news\.ycombinator\.com/item?id=50145337](<https://news.ycombinator.com/item?id=50145337>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 79 | Agents | 2026\-10\-20T09:06:08\.739878\+00:00 | 506 |
-| [https://github\.com/gojko/lights\-on\-software\-factory](<https://github.com/gojko/lights-on-software-factory>) | 5 | [https://news\.ycombinator\.com/item?id=50160198](<https://news.ycombinator.com/item?id=50160198>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 49 | workflow | 2026\-10\-20T09:04:21\.293935\+00:00 | 13 |
-| [https://heymaxwell\.ai/](<https://heymaxwell.ai/>) | 35 | [https://news\.ycombinator\.com/item?id=50152466](<https://news.ycombinator.com/item?id=50152466>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 19 | Claude | 2026\-10\-20T09:02:26\.812717\+00:00 | 61 |
-| [https://3anddoneapp\.com/try](<https://3anddoneapp.com/try>) | 49 | [https://news\.ycombinator\.com/item?id=50151980](<https://news.ycombinator.com/item?id=50151980>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 53 | focus | 2026\-10\-20T09:04:50\.932542\+00:00 | 55 |
-| [https://www\.quantamagazine\.org/ai\-proved\-the\-quasi\-riemann\-hypothesis\-what\-happens\-now\-20261019/](<https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/>) | 7 | [https://news\.ycombinator\.com/item?id=50154982](<https://news.ycombinator.com/item?id=50154982>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 74 | AI | 2026\-10\-20T09:06:03\.745066\+00:00 | 34 |
+| [https://github\.com/xamrayev/nexus\-cli](<https://github.com/xamrayev/nexus-cli>) | 2 | [https://news\.ycombinator\.com/item?id=50176129](<https://news.ycombinator.com/item?id=50176129>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 40 | Claude | 2026\-10\-21T09:03:37\.515121\+00:00 | 12 |
+| [https://jevcards\.com](<https://jevcards.com>) | 50 | [https://news\.ycombinator\.com/item?id=50167617](<https://news.ycombinator.com/item?id=50167617>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 90 | Claude | 2026\-10\-21T09:06:29\.718979\+00:00 | 60 |
+| [https://www\.bolkunov\.com/p/on\-ai\-writing](<https://www.bolkunov.com/p/on-ai-writing>) | 57 | [https://news\.ycombinator\.com/item?id=50171771](<https://news.ycombinator.com/item?id=50171771>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 56 | AI | 2026\-10\-21T09:04:28\.633075\+00:00 | 85 |
+| [https://redact\.dev/blog/whatsapp\-help\-pages\-hidden\-ai\-instructions](<https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions>) | 208 | [https://news\.ycombinator\.com/item?id=50159341](<https://news.ycombinator.com/item?id=50159341>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 68 | LLM | 2026\-10\-21T09:05:08\.290828\+00:00 | 727 |
+| [https://www\.anthropic\.com/research/claude\-scorpion\-toxin\-binder\-design](<https://www.anthropic.com/research/claude-scorpion-toxin-binder-design>) | 68 | [https://news\.ycombinator\.com/item?id=50170021](<https://news.ycombinator.com/item?id=50170021>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 53 | Claude | 2026\-10\-21T09:04:30\.424673\+00:00 | 106 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -1,8 +1,23 @@
 [
   {
-    "checked_at": "2026-10-20T08:00:45.704097+00:00",
-    "published_at": "2026-10-19T08:09:46Z",
+    "checked_at": "2026-10-21T08:00:49.666739+00:00",
+    "published_at": "2026-10-21T07:26:46Z",
     "release_age_days": 0,
+    "release_id": "419267727",
+    "release_name": "n8n@2.44.5",
+    "release_notes": "## [2.44.5](https://github.com/n8n-io/n8n/compare/n8n@2.44.4...n8n@2.44.5) (2026-10-21)\n\n\n### Bug Fix…",
+    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.5",
+    "repository": "n8n-io/n8n",
+    "repository_url": "https://github.com/n8n-io/n8n",
+    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
+    "tool": "n8n",
+    "use_case": "Workflow automation and integrations",
+    "version": "n8n@2.44.5"
+  },
+  {
+    "checked_at": "2026-10-21T08:00:49.754841+00:00",
+    "published_at": "2026-10-19T08:09:46Z",
+    "release_age_days": 1,
     "release_id": "417045683",
     "release_name": "v3.50.0",
     "release_notes": "## What's Changed\n* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",
@@ -15,33 +30,18 @@
     "version": "v3.50.0"
   },
   {
-    "checked_at": "2026-10-20T08:00:45.797438+00:00",
-    "published_at": "2026-10-09T15:59:16Z",
-    "release_age_days": 10,
-    "release_id": "400884069",
-    "release_name": "Release v2.5.0 🌈",
-    "release_notes": "## 🗑️ Feature Removal Reminder - September 30, 2026 - EOL\r\n\r\n**Appsmith AI reached end of life on Sep…",
-    "release_url": "https://github.com/appsmithorg/appsmith/releases/tag/v2.5.0",
+    "checked_at": "2026-10-21T08:00:49.701393+00:00",
+    "published_at": "2026-10-21T02:29:46Z",
+    "release_age_days": 0,
+    "release_id": "410599153",
+    "release_name": "Release v2.5.1 🌈",
+    "release_notes": "## 🗑️ Feature Removal Reminder\r\n\r\n**Appsmith AI reached end of life on September 30, 2026.**\r\n\r\nYou c…",
+    "release_url": "https://github.com/appsmithorg/appsmith/releases/tag/v2.5.1",
     "repository": "appsmithorg/appsmith",
     "repository_url": "https://github.com/appsmithorg/appsmith",
     "source_url": "https://api.github.com/repos/appsmithorg/appsmith/releases/latest",
     "tool": "Appsmith",
     "use_case": "Internal tools, admin panels and database frontends",
-    "version": "v2.5.0"
-  },
-  {
-    "checked_at": "2026-10-20T08:00:45.733748+00:00",
-    "published_at": "2026-10-19T07:23:26Z",
-    "release_age_days": 1,
-    "release_id": "417010683",
-    "release_name": "n8n@2.43.8",
-    "release_notes": "## [2.43.8](https://github.com/n8n-io/n8n/compare/n8n@2.43.7...n8n@2.43.8) (2026-10-19)\n\n\n### Bug Fix…",
-    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.8",
-    "repository": "n8n-io/n8n",
-    "repository_url": "https://github.com/n8n-io/n8n",
-    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
-    "tool": "n8n",
-    "use_case": "Workflow automation and integrations",
-    "version": "n8n@2.43.8"
+    "version": "v2.5.1"
   }
 ]

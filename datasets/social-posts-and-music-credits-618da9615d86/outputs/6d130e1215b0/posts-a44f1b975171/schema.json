@@ -1,0 +1,90 @@
+[
+  {
+    "name": "artist",
+    "type": "text"
+  },
+  {
+    "name": "audio_id",
+    "type": "text"
+  },
+  {
+    "name": "audio_label",
+    "type": "text"
+  },
+  {
+    "name": "audio_media_url",
+    "type": "text"
+  },
+  {
+    "name": "audio_owner",
+    "type": "text"
+  },
+  {
+    "name": "audio_page_url",
+    "type": "text"
+  },
+  {
+    "name": "audio_status",
+    "type": "text"
+  },
+  {
+    "name": "caption",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "creator",
+    "type": "text"
+  },
+  {
+    "name": "creator_name",
+    "type": "text"
+  },
+  {
+    "name": "discovery_query",
+    "type": "text"
+  },
+  {
+    "name": "duration_seconds",
+    "type": "integer"
+  },
+  {
+    "name": "evidence_method",
+    "type": "text"
+  },
+  {
+    "name": "media_note",
+    "type": "text"
+  },
+  {
+    "name": "platform",
+    "type": "text"
+  },
+  {
+    "name": "post_id",
+    "type": "text"
+  },
+  {
+    "name": "post_media_url",
+    "type": "text"
+  },
+  {
+    "name": "post_url",
+    "type": "text"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "song_title",
+    "type": "text"
+  },
+  {
+    "name": "thumbnail_url",
+    "type": "text"
+  }
+]

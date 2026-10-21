@@ -6,7 +6,7 @@
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-hiring-radar-e7adb9b7e394?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
+- Refresh: weekly
 - Active pipeline version: 1
 - Last published: 2026-10-21T09:01:02.731018Z
 

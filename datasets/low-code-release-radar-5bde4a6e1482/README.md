@@ -8,7 +8,7 @@ A daily snapshot of the latest stable GitHub releases for n8n, Appsmith and Budi
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-10-21T08:00:53.216997Z
+- Last published: 2026-10-22T08:00:52.083504Z
 
 ## The brief
 
@@ -18,16 +18,16 @@ Summary from the public dataset description.
 
 ## TechWB Low\-Code Releases / releases
 
-3 total rows · 3 sampled · Output revision 9
-Published: 2026-10-21T08:00:53.216997Z · Producing pipeline version: 1
+3 total rows · 3 sampled · Output revision 10
+Published: 2026-10-22T08:00:52.083504Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a4973f437b80/releases-20195541dc5d/sample.csv) · [JSON sample](outputs/a4973f437b80/releases-20195541dc5d/sample.json) · [Schema](outputs/a4973f437b80/releases-20195541dc5d/schema.json)
 
 | checked\_at | published\_at | release\_age\_days | release\_id | release\_name | release\_notes | release\_url | repository |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-10\-21T08:00:49\.666739\+00:00 | 2026\-10\-21T07:26:46Z | 0 | 419267727 | n8n@2\.44\.5 | \#\# \[2\.44\.5\]\([https://github\.com/n8n\-io/n8n/compare/n8n@2\.44\.4\.\.\.n8n@2\.44\.5](<https://github.com/n8n-io/n8n/compare/n8n@2.44.4...n8n@2.44.5>)\) \(2026\-10\-21\)   \#\#\# Bug Fix… | [https://github\.com/n8n\-io/n8n/releases/tag/n8n%402\.44\.5](<https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.5>) | n8n\-io/n8n |
-| 2026\-10\-21T08:00:49\.754841\+00:00 | 2026\-10\-19T08:09:46Z | 1 | 417045683 | v3\.50\.0 | \#\# What's Changed \* Bump uuid from 8\.3\.2 to 14\.0\.0 by @dependabot\[bot\] in [https://github\.com/Budibase…](<https://github.com/Budibase%E2%80%A6>) | [https://github\.com/Budibase/budibase/releases/tag/v3\.50\.0](<https://github.com/Budibase/budibase/releases/tag/v3.50.0>) | Budibase/budibase |
-| 2026\-10\-21T08:00:49\.701393\+00:00 | 2026\-10\-21T02:29:46Z | 0 | 410599153 | Release v2\.5\.1 🌈 | \#\# 🗑️ Feature Removal Reminder    \*\*Appsmith AI reached end of life on September 30, 2026\.\*\*    You c… | [https://github\.com/appsmithorg/appsmith/releases/tag/v2\.5\.1](<https://github.com/appsmithorg/appsmith/releases/tag/v2.5.1>) | appsmithorg/appsmith |
+| 2026\-10\-22T08:00:49\.507958\+00:00 | 2026\-10\-19T08:09:46Z | 2 | 417045683 | v3\.50\.0 | \#\# What's Changed \* Bump uuid from 8\.3\.2 to 14\.0\.0 by @dependabot\[bot\] in [https://github\.com/Budibase…](<https://github.com/Budibase%E2%80%A6>) | [https://github\.com/Budibase/budibase/releases/tag/v3\.50\.0](<https://github.com/Budibase/budibase/releases/tag/v3.50.0>) | Budibase/budibase |
+| 2026\-10\-22T08:00:49\.456573\+00:00 | 2026\-10\-21T02:29:46Z | 1 | 410599153 | Release v2\.5\.1 🌈 | \#\# 🗑️ Feature Removal Reminder    \*\*Appsmith AI reached end of life on September 30, 2026\.\*\*    You c… | [https://github\.com/appsmithorg/appsmith/releases/tag/v2\.5\.1](<https://github.com/appsmithorg/appsmith/releases/tag/v2.5.1>) | appsmithorg/appsmith |
+| 2026\-10\-22T08:00:49\.420550\+00:00 | 2026\-10\-21T07:26:46Z | 1 | 419267727 | n8n@2\.44\.5 | \#\# \[2\.44\.5\]\([https://github\.com/n8n\-io/n8n/compare/n8n@2\.44\.4\.\.\.n8n@2\.44\.5](<https://github.com/n8n-io/n8n/compare/n8n@2.44.4...n8n@2.44.5>)\) \(2026\-10\-21\)   \#\#\# Bug Fix… | [https://github\.com/n8n\-io/n8n/releases/tag/n8n%402\.44\.5](<https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.5>) | n8n\-io/n8n |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

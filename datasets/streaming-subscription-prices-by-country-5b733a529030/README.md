@@ -7,7 +7,7 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 7
+- Active pipeline version: 10
 - Last published: 2026-10-19T13:30:45.861816Z
 
 ## The brief
@@ -57,20 +57,24 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 ```mermaid
 flowchart LR
   n0["previous#95;prices"]
-  n1["panel"]
-  n2["prices"]
-  n3["validate"]
-  n4["prices"]
-  n1 --> n2
+  n1["coverage"]
+  n2["panel"]
+  n3["prices"]
+  n4["validate"]
+  n5["prices"]
   n2 --> n3
   n3 --> n4
-  n0 --> n1
-  n0 --> n1
-  n0 --> n3
+  n4 --> n5
+  n0 --> n2
+  n1 --> n2
+  n1 --> n2
+  n0 --> n2
+  n0 --> n4
 ```
 
 - **previous\_prices**: Saved price snapshot used only when preserve\_previous is enabled; unchanged observations keep their original timestamps\.
-- **panel**: Expand the selected ISO countries and eleven supported services into an explicit coverage panel\.
+- **coverage**: Supplied country, service and distributor targets with original checked\-price and redirect evidence\.
+- **panel**: Combine every supplied service and distributor target with the existing major\-service country panel, preserving the original checking notes\.
 - **prices**: Find official pricing pages, request the selected country, and collect only source\-supported monthly plans\. Keep unresolved coverage explicit\.
 - **validate**: Deduplicate service/country/plan observations and reject a run that found no verified monthly prices\.
 - **prices**: Current official country/plan monthly prices, plus explicit unresolved coverage records\.
@@ -84,6 +88,9 @@ flowchart LR
 - 2026-10-17T16:54:18.087813Z: v5: Use current Prime subscription pages in the US, UK and India, and stop treating currency\-only Netflix headings as verified country evidence\.
 - 2026-10-17T17:10:21.818626Z: v6: Reject mismatched Max country routes and promotional terms as regular pricing sources\. Revalidate saved country\-specific URL claims and refresh Finnish Max from its subscription page\.
 - 2026-10-17T17:20:25.785824Z: v7: Respect country restrictions on subscription benefits and stop treating bare country labels as verified pricing evidence\. Refresh affected Apple observations while preserving the rest of the country panel\.
+- 2026-10-22T16:13:52.075007Z: v8: Expanded coverage to the supplied countries, services and distributor channels\. Ad\-supported and ad\-free plans now have separate rows, with original checking notes preserved alongside current observations\.
+- 2026-10-22T17:41:14.745186Z: v9: Fix handling of long official\-site search results so they do not stop the streaming price refresh\.
+- 2026-10-22T17:49:43.489269Z: v10: Fix official\-site search parsing and strengthen rejection of coupon and review sites\.
 
 ## Recorded repairs
 

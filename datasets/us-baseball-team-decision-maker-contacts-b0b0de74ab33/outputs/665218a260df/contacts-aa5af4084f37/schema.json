@@ -1,0 +1,30 @@
+[
+  {
+    "name": "First Name",
+    "type": "text"
+  },
+  {
+    "name": "Last Name",
+    "type": "text"
+  },
+  {
+    "name": "Job Title",
+    "type": "text"
+  },
+  {
+    "name": "Team / Organization Name",
+    "type": "text"
+  },
+  {
+    "name": "Direct Email Address",
+    "type": "text"
+  },
+  {
+    "name": "US State",
+    "type": "text"
+  },
+  {
+    "name": "Source URL",
+    "type": "text"
+  }
+]

@@ -17,7 +17,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [LlamaIndex reader demo: docs pages](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Workflow automation pricing &amp; changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
 | [Streaming Subscription Prices by Country: Official Monthly Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 859 | weekly | 2026-10-19T13:30:45.861816Z |
-| [Low\-Code Release Radar: Latest n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-10-21T08:00:53.216997Z |
+| [Low\-Code Release Radar: Latest n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-10-22T08:00:52.083504Z |
 | [TikTok, Instagram, and YouTube Shorts Posts with Music Credits](datasets/social-posts-and-music-credits-618da9615d86/) | 25 | On demand | 2026-10-21T14:32:02.901284Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Georgia Elections Board Meetings and Votes](datasets/georgia-elections-board-meetings-and-votes-886d693cbdab/) | 1,257 | On demand | 2026-10-18T21:14:33.754956Z |

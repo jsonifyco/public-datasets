@@ -15,6 +15,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
 | [NYC Family Weekend Activities and Food Pairings — October 24–25, 2026](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
 | [LlamaIndex reader demo: docs pages](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
+| [Meta and TikTok Ad Intelligence Demo: Ads, Products, and Creative Signals](datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7/) | 12 | On demand | 2026-10-22T13:09:28.137275Z |
 | [Workflow automation pricing &amp; changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
 | [Streaming Subscription Prices by Country: Official Monthly Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 859 | weekly | 2026-10-19T13:30:45.861816Z |
 | [Low\-Code Release Radar: Latest n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-10-22T08:00:52.083504Z |
@@ -23,13 +24,16 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Georgia Elections Board Meetings and Votes](datasets/georgia-elections-board-meetings-and-votes-886d693cbdab/) | 1,257 | On demand | 2026-10-18T21:14:33.754956Z |
 | [Agent builder pricing &amp; changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
 | [LLM API pricing](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |
+| [Wellness Practitioners in Lisbon, Porto, Barcelona and London](datasets/wellness-practitioners-across-cities-8fedaa1baebd/) | 200 | On demand | 2026-10-22T14:20:21.555858Z |
 | [Golf Vancouver Tee Times and Course Availability](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,508 | weekly | 2026-10-21T14:34:45.709786Z |
 | [AI lab research feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |
+| [US Baseball Team Decision\-Maker Contacts: School, Youth and Minor\-League Teams](datasets/us-baseball-team-decision-maker-contacts-b0b0de74ab33/) | 1,000 | On demand | 2026-10-22T14:59:13.945962Z |
 | [Public Instagram Posts from paul\_hunkin](datasets/instagram-posts-be49f86d2a46/) | 12 | On demand | 2026-10-17T18:08:01.916600Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |
 | [Calven competitor watch](datasets/calven-competitor-watch-dfd2d8d7f7fc/) | 27 | On demand | 2026-10-14T14:39:43.933603Z |
 | [Agent framework releases](datasets/agent-framework-releases-e3721e6bea8a/) | 30 | On demand | 2026-10-14T12:00:31.586928Z |
 | [AI hiring radar](datasets/ai-hiring-radar-e7adb9b7e394/) | 75 | weekly | 2026-10-21T09:01:02.731018Z |
+| [Amazon Product Reviews and Ratings Sample Dataset](datasets/amazon-reviews-and-ratings-demo-f31687d4dfcd/) | 12 | On demand | 2026-10-22T14:05:00.788201Z |
 | [WDIWF company monitors](datasets/wdiwf-company-monitors-f8658ad4c63e/) | 54 | On demand | 2026-10-14T13:14:12.125029Z |
 
 Each worksheet samples its first 100 rows; rows too large for the preview API are omitted and counted in the worksheet README. Samples are refreshed regularly and may change over time. Consult each dataset’s source terms before reuse; this collection does not grant a blanket license to third-party data.

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "asin",
+    "type": "text"
+  },
+  {
+    "name": "body",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "overall_rating",
+    "type": "double precision"
+  },
+  {
+    "name": "product_title",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "review_date",
+    "type": "text"
+  },
+  {
+    "name": "review_id",
+    "type": "text"
+  },
+  {
+    "name": "review_url",
+    "type": "text"
+  },
+  {
+    "name": "reviewed_variant",
+    "type": "text"
+  },
+  {
+    "name": "reviewed_variant_asin",
+    "type": "text"
+  },
+  {
+    "name": "reviewer_email",
+    "type": "text"
+  },
+  {
+    "name": "reviewer_name",
+    "type": "text"
+  },
+  {
+    "name": "shopify_product_handle",
+    "type": "text"
+  },
+  {
+    "name": "shopify_product_id",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "total_ratings",
+    "type": "integer"
+  },
+  {
+    "name": "variant_match_status",
+    "type": "text"
+  },
+  {
+    "name": "verified_purchase",
+    "type": "boolean"
+  }
+]

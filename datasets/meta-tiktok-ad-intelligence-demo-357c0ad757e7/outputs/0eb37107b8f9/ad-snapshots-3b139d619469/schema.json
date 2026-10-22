@@ -1,0 +1,206 @@
+[
+  {
+    "name": "ad_id",
+    "type": "text"
+  },
+  {
+    "name": "ad_key",
+    "type": "text"
+  },
+  {
+    "name": "ad_url",
+    "type": "text"
+  },
+  {
+    "name": "advertiser",
+    "type": "text"
+  },
+  {
+    "name": "advertising_objective",
+    "type": "text"
+  },
+  {
+    "name": "ai_analysis",
+    "type": "text"
+  },
+  {
+    "name": "ai_angle",
+    "type": "text"
+  },
+  {
+    "name": "ai_hook",
+    "type": "text"
+  },
+  {
+    "name": "ai_language",
+    "type": "text"
+  },
+  {
+    "name": "apps_detected",
+    "type": "jsonb"
+  },
+  {
+    "name": "availability",
+    "type": "text"
+  },
+  {
+    "name": "available_variants",
+    "type": "integer"
+  },
+  {
+    "name": "catalogue_products",
+    "type": "jsonb"
+  },
+  {
+    "name": "cluster_title_key",
+    "type": "text"
+  },
+  {
+    "name": "coverage",
+    "type": "text"
+  },
+  {
+    "name": "creative_format",
+    "type": "text"
+  },
+  {
+    "name": "creative_image_url",
+    "type": "text"
+  },
+  {
+    "name": "creative_text",
+    "type": "text"
+  },
+  {
+    "name": "creative_video_url",
+    "type": "text"
+  },
+  {
+    "name": "cta",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "first_shown",
+    "type": "text"
+  },
+  {
+    "name": "image_phash",
+    "type": "text"
+  },
+  {
+    "name": "landing_url",
+    "type": "text"
+  },
+  {
+    "name": "last_shown",
+    "type": "text"
+  },
+  {
+    "name": "market",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "pixels_detected",
+    "type": "jsonb"
+  },
+  {
+    "name": "platform",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "product_id",
+    "type": "text"
+  },
+  {
+    "name": "product_image_url",
+    "type": "text"
+  },
+  {
+    "name": "product_title",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "reach_range",
+    "type": "text"
+  },
+  {
+    "name": "refresh_tier",
+    "type": "text"
+  },
+  {
+    "name": "resolution_note",
+    "type": "text"
+  },
+  {
+    "name": "resolution_status",
+    "type": "text"
+  },
+  {
+    "name": "resolved_url",
+    "type": "text"
+  },
+  {
+    "name": "run_span_days",
+    "type": "integer"
+  },
+  {
+    "name": "sample_size",
+    "type": "integer"
+  },
+  {
+    "name": "score_basis",
+    "type": "text"
+  },
+  {
+    "name": "search_keyword",
+    "type": "text"
+  },
+  {
+    "name": "shop_domain",
+    "type": "text"
+  },
+  {
+    "name": "shopify_detected",
+    "type": "boolean"
+  },
+  {
+    "name": "shortlist_score",
+    "type": "double precision"
+  },
+  {
+    "name": "snapshot_date",
+    "type": "text"
+  },
+  {
+    "name": "snapshot_key",
+    "type": "text"
+  },
+  {
+    "name": "source_status",
+    "type": "text"
+  },
+  {
+    "name": "theme",
+    "type": "text"
+  },
+  {
+    "name": "variant_count",
+    "type": "integer"
+  }
+]

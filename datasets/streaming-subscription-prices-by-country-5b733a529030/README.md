@@ -8,7 +8,7 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 
 - Refresh: weekly
 - Active pipeline version: 10
-- Last published: 2026-10-19T13:30:45.861816Z
+- Last published: 2026-10-23T06:15:04.556089Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-859 total rows · 100 sampled · Output revision 8
-Published: 2026-10-19T13:30:45.861816Z · Producing pipeline version: 7
+6,825 total rows · 100 sampled · Output revision 9
+Published: 2026-10-23T06:15:04.556089Z · Producing pipeline version: 10
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
-| billing\_period | country | country\_evidence | country\_name | currency | features | monthly\_price | notes |
+| ad\_evidence | ad\_tier | billing\_period | country | country\_evidence | country\_name | currency | features |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| month | UY | Requested country route UY; official page locale en\. Source pricing market is not independently confirmed\. | Uruguay | UYU | No ads; complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. | 99 | Regular base monthly subscription; no currency conversion\. Price observed but country is not independently confirmed; do not use as a verified country comparison\. |
-| month | RO | Official country\-specific pricing URL: [https://www\.skyshowtime\.com/ro/plans](<https://www.skyshowtime.com/ro/plans>) | Romania | EUR | Ad\-free; Full HD; 2 simultaneous screens; up to 30 downloads per month\. May include promotional trailers\. | 6\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
-| month | CA | Requested country route CA; official page locale en\. Source pricing market is not independently confirmed\. | Canada | CAD | No ads; complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 4 devices at a time; offline viewing; access to Crunchyroll Game Vault and Crunchyroll Store\. | 13\.49 | Regular base monthly subscription; no currency conversion\. Price observed but country is not independently confirmed; do not use as a verified country comparison\. |
-| month | PT | Official country\-specific pricing URL: [https://www\.disneyplus\.com/en\-pt](<https://www.disneyplus.com/en-pt>) | Portugal | EUR | Up to 1080p Full HD and 2 concurrent streams\. All plans include Disney promotions and sponsorship and may include ads before or after playback and in certain content\. | 6\.99 | Regular base monthly subscription; no currency conversion\. Country established by source\. |
-| None | BR | None | Brazil | None | None | None | No verifiable normal monthly base plans on this page; No verifiable normal monthly base plans on this page |
+| None | unknown | None | MA | None | Morocco | None | None |
+| None | unknown | None | AT | None | Austria | None | None |
+| None | unknown | None | JO | None | Jordan | None | None |
+| None | unknown | None | CV | None | Cape Verde | None | None |
+| None | unknown | None | CI | None | Côte d’Ivoire | None | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -37,20 +37,26 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
+| ad\_evidence | text |
+| ad\_tier | text |
 | billing\_period | text |
 | country | text |
 | country\_evidence | text |
 | country\_name | text |
 | currency | text |
 | features | text |
+| kind | text |
 | monthly\_price | double precision |
 | notes | text |
 | observed\_at | text |
 | plan | text |
 | price\_evidence | text |
 | service | text |
+| sold\_via | text |
 | source\_url | text |
 | status | text |
+| type | text |
+| user\_evidence | jsonb |
 
 ## How the pipeline works
 

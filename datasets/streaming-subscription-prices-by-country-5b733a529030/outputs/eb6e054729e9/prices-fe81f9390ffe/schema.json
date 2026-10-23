@@ -1,5 +1,13 @@
 [
   {
+    "name": "ad_evidence",
+    "type": "text"
+  },
+  {
+    "name": "ad_tier",
+    "type": "text"
+  },
+  {
     "name": "billing_period",
     "type": "text"
   },
@@ -21,6 +29,10 @@
   },
   {
     "name": "features",
+    "type": "text"
+  },
+  {
+    "name": "kind",
     "type": "text"
   },
   {
@@ -48,11 +60,23 @@
     "type": "text"
   },
   {
+    "name": "sold_via",
+    "type": "text"
+  },
+  {
     "name": "source_url",
     "type": "text"
   },
   {
     "name": "status",
     "type": "text"
+  },
+  {
+    "name": "type",
+    "type": "text"
+  },
+  {
+    "name": "user_evidence",
+    "type": "jsonb"
   }
 ]

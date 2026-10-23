@@ -7,7 +7,7 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 10
+- Active pipeline version: 11
 - Last published: 2026-10-23T06:15:04.556089Z
 
 ## The brief
@@ -97,6 +97,7 @@ flowchart LR
 - 2026-10-22T16:13:52.075007Z: v8: Expanded coverage to the supplied countries, services and distributor channels\. Ad\-supported and ad\-free plans now have separate rows, with original checking notes preserved alongside current observations\.
 - 2026-10-22T17:41:14.745186Z: v9: Fix handling of long official\-site search results so they do not stop the streaming price refresh\.
 - 2026-10-22T17:49:43.489269Z: v10: Fix official\-site search parsing and strengthen rejection of coupon and review sites\.
+- 2026-10-23T12:18:56.452520Z: v11: Corrects Netflix country verification, adds Paramount\+ plan and ad tiers, fills supported ad labels, prioritizes standalone Prime Video offers, and excludes Qatar’s iCloud\+ bundle from Apple TV prices\.
 
 ## Recorded repairs
 

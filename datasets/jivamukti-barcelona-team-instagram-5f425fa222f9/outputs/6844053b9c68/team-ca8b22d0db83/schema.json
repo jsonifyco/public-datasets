@@ -1,0 +1,46 @@
+[
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "evidence_url",
+    "type": "text"
+  },
+  {
+    "name": "full_name",
+    "type": "text"
+  },
+  {
+    "name": "instagram_handle",
+    "type": "text"
+  },
+  {
+    "name": "instagram_source",
+    "type": "text"
+  },
+  {
+    "name": "instagram_url",
+    "type": "text"
+  },
+  {
+    "name": "match_note",
+    "type": "text"
+  },
+  {
+    "name": "name",
+    "type": "text"
+  },
+  {
+    "name": "profile_url",
+    "type": "text"
+  },
+  {
+    "name": "qualification",
+    "type": "text"
+  },
+  {
+    "name": "team_url",
+    "type": "text"
+  }
+]

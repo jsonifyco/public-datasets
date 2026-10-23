@@ -8,7 +8,7 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 
 - Refresh: weekly
 - Active pipeline version: 11
-- Last published: 2026-10-23T06:15:04.556089Z
+- Last published: 2026-10-23T19:07:16.411187Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-6,825 total rows · 100 sampled · Output revision 9
-Published: 2026-10-23T06:15:04.556089Z · Producing pipeline version: 10
+6,862 total rows · 100 sampled · Output revision 10
+Published: 2026-10-23T19:07:16.411187Z · Producing pipeline version: 11
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
 | ad\_evidence | ad\_tier | billing\_period | country | country\_evidence | country\_name | currency | features |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | unknown | None | MA | None | Morocco | None | None |
-| None | unknown | None | AT | None | Austria | None | None |
-| None | unknown | None | JO | None | Jordan | None | None |
-| None | unknown | None | CV | None | Cape Verde | None | None |
-| None | unknown | None | CI | None | Côte d’Ivoire | None | None |
+| None | unknown | None | JM | None | Jamaica | None | None |
+| None | unknown | None | VA | None | Vatican City | None | None |
+| None | unknown | None | PG | None | Papua New Guinea | None | None |
+| None | unknown | None | ES | None | Spain | None | None |
+| No ads | ad\_free | month | BS | Requested country route BS; official page locale en\. Source pricing market is not independently confirmed\. | Bahamas | BSD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing; 7\-day free trial for eligible subscribers, then automatically renew |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

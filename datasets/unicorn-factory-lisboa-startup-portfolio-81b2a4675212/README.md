@@ -18,7 +18,7 @@ Original request to Jason.
 
 ## Unicorn Factory Lisboa startups / startups
 
-502 total rows · 100 sampled · Output revision 2
+502 total rows · 500 sampled · Output revision 2
 Published: 2026-10-12T15:41:47.150674Z · Producing pipeline version: 2
 
 [CSV sample](outputs/c0d257d8a9fc/startups-eef5aa92dccb/sample.csv) · [JSON sample](outputs/c0d257d8a9fc/startups-eef5aa92dccb/sample.json) · [Schema](outputs/c0d257d8a9fc/startups-eef5aa92dccb/schema.json)

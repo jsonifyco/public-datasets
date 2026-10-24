@@ -12,13 +12,13 @@ A source\-backed directory of literary agents and agencies across ten configurab
 
 ## The brief
 
-> build &lt;[https://www\.reddit\.com/r/webscraping/comments/1x78b0s/scraping\_streaming\_subscription\_prices\_per/?share\_id=Y0pFrx3EXo3RlwIoYK6Br&amp;amp;utm\_content=2&amp;amp;utm\_medium=ios\_app&amp;amp;utm\_name=iossmf&amp;amp;utm\_source=share&amp;amp;utm\_term=2\|reddit\.com/r/webscraping/…/scraping\_streaming\_subscription\_prices\_per?share\_id=…&amp;amp;…](<https://www.reddit.com/r/webscraping/comments/1x78b0s/scraping_streaming_subscription_prices_per/?share_id=Y0pFrx3EXo3RlwIoYK6Br&amp;amp;utm_content=2&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;utm_source=share&amp;amp;utm_term=2%7Creddit.com/r/webscraping/%E2%80%A6/scraping_streaming_subscription_prices_per?share_id=%E2%80%A6&amp;amp;%E2%80%A6>)&gt; and &lt;[https://www\.reddit\.com/r/webscraping/comments/1x7d07k/literary\_agents\_scraping/?share\_id=Q9c6L](<https://www.reddit.com/r/webscraping/comments/1x7d07k/literary_agents_scraping/?share_id=Q9c6L>) … (excerpt)
+> build &lt;[https://www\.reddit\.com/r/webscraping/comments/1x78b0s/scraping\_streaming\_subscription\_prices\_per/?share\_id=Y0pFrx3EXo3RlwIoYK6Br&amp;amp;utm\_content=2&amp;amp;utm\_medium=ios\_app&amp;amp;utm\_name=iossmf&amp;amp;utm\_source=share&amp;amp;utm\_term=2\|reddit\.com/r/webscraping/…/scraping\_streaming\_subscription\_prices\_per?share\_id=…&amp;amp;…](<https://www.reddit.com/r/webscraping/comments/1x78b0s/scraping_streaming_subscription_prices_per/?share_id=Y0pFrx3EXo3RlwIoYK6Br&amp;amp;utm_content=2&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;utm_source=share&amp;amp;utm_term=2%7Creddit.com/r/webscraping/%E2%80%A6/scraping_streaming_subscription_prices_per?share_id=%E2%80%A6&amp;amp;%E2%80%A6>)&gt; and &lt;[https://www\.reddit\.com/r/webscraping/comments/1x7d07k/literary\_agents\_scraping/?share\_id=Q9c6L81codmtDrbKpmu26&amp;amp;utm\_content=2&amp;amp;utm\_medium=ios\_app&amp;amp;utm\_name=iossmf&amp;amp;utm\_source=share&amp;amp;utm\_term=2\|reddit\.com/r/webscraping/…/literary\_agents\_scraping?share\_id=…&amp;amp;…](<https://www.reddit.com/r/webscraping/comments/1x7d07k/literary_agents_scraping/?share_id=Q9c6L81codmtDrbKpmu26&amp;amp;utm_content=2&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf&amp;amp;utm_source=share&amp;amp;utm_term=2%7Creddit.com/r/webscraping/%E2%80%A6/literary_agents_scraping?share_id=%E2%80%A6&amp;amp;%E2%80%A6>)&gt; and link me directory unlisted links for both
 
 Original request to Jason.
 
 ## Worldwide literary contacts / contacts
 
-145 total rows · 100 sampled · Output revision 6
+145 total rows · 145 sampled · Output revision 6
 Published: 2026-10-17T17:35:55.531140Z · Producing pipeline version: 6
 
 [CSV sample](outputs/f5fba97fc3b2/contacts-aa5af4084f37/sample.csv) · [JSON sample](outputs/f5fba97fc3b2/contacts-aa5af4084f37/sample.json) · [Schema](outputs/f5fba97fc3b2/contacts-aa5af4084f37/schema.json)

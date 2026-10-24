@@ -18,14 +18,14 @@ Summary from the public dataset description.
 
 ## Georgia Elections Board Meetings and Votes / meeting\_actions
 
-1,257 total rows · 100 sampled · Output revision 2
+1,257 total rows · 500 sampled · Output revision 2
 Published: 2026-10-18T21:14:33.754956Z · Producing pipeline version: 19
 
 [CSV sample](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/sample.csv) · [JSON sample](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/sample.json) · [Schema](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/schema.json)
 
 | agenda\_item | board | checked\_at | county | evidence\_quote | meeting\_date | meeting\_location | meeting\_summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Executive session | Board of Registration and Elections | 2026\-10\-18T21:07:24\.393700\+00:00 | Fulton | After the executive session, Chair Allen entertained a motion to reconvene from the executive session\. The motion was made by Mrs\. Crawford, seconded by Mrs\. Crawford, and carried by a unanimous vote  | 2026\-02\-12 | None | The board amended its agenda, approved… |
+| Executive session | Board of Registration and Elections | 2026\-10\-18T21:07:24\.393700\+00:00 | Fulton | After the executive session, Chair Allen entertained a motion to reconvene from the executive session\. The motion was made by Mrs\. Crawford, seconded by Mrs\. Crawford, and carried by a unanimous vote of 4\-0\. | 2026\-02\-12 | None | The board amended its agenda, approved… |
 | \#1 – Approval of Agenda | Board of Registration and Elections | 2026\-10\-18T21:07:36\.197770\+00:00 | Fulton | Chair Allen entertained a motion to am… | 2026\-07\-16 | None | The board amended its agenda, approved… |
 | 1\) Discussion of Policy for Pre\-Certification Review of Precinct Returns | Board of Elections and Registration | 2026\-10\-18T21:07:58\.213952\+00:00 | Cobb | Motion by Ms\. Efrat to adopt the polic… | 2026\-07\-13 | 100 Cherokee Street | The board approved the agenda and four… |
 | Approval of Previous Meeting Minutes — Regular Monthly Board Meeting, December 1, 2025 | Board of Elections and Voter Registration | 2026\-10\-18T21:08:12\.919767\+00:00 | Cherokee | Member Hand made a motion to approve the minutes of the December 1, 2025, meeting; Second by Member Little\.  Motion carries 5\-0\. | 2026\-01\-05 | Northside Cherokee/Bluffs Conference Center, 1130 Bluffs Parkway, Canton, GA 30114 | The board approved its agenda, minutes… |

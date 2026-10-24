@@ -7,8 +7,8 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 17
-- Last published: 2026-10-24T10:42:41.348744Z
+- Active pipeline version: 26
+- Last published: 2026-10-24T12:32:05.963104Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-6,990 total rows · 500 sampled · Output revision 15
-Published: 2026-10-24T10:42:41.348744Z · Producing pipeline version: 17
+6,987 total rows · 500 sampled · Output revision 28
+Published: 2026-10-24T12:32:05.963104Z · Producing pipeline version: 26
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
 | ad\_evidence | ad\_tier | billing\_period | country | country\_evidence | country\_name | currency | features |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | None | unknown | month | US | Official price observed; source did not independently establish the requested offer market\. | United States | USD | 7\-day free trial; $0\.99/month after trial |
+| No ads | ad\_free | month | SN | Requested country route SN; official page locale en\. Source pricing market is not independently confirmed\. | Senegal | USD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
+| No ads | ad\_free | month | LY | Requested country route LY; official page locale en\. Source pricing market is not independently confirmed\. | Libya | USD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
 | None | unknown | month | US | recordTerritory":"US" | United States | USD | 7\-day free trial; $1\.99/month after trial |
 | No ads | ad\_free | month | CM | Requested country route CM; official page locale en\. Source pricing market is not independently confirmed\. | Cameroon | USD | No ads; complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
-| No ads | ad\_free | month | LY | Requested country route LY; official page locale en\. Source pricing market is not independently confirmed\. | Libya | USD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
-| No ads | ad\_free | month | SN | Requested country route SN; official page locale en\. Source pricing market is not independently confirmed\. | Senegal | USD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -105,6 +105,15 @@ flowchart LR
 - 2026-10-24T10:27:48.243929Z: v15: Adds named Paramount\+ Standard and Premium tiers for Latin American markets using the published country table, including advertising evidence\.
 - 2026-10-24T10:38:33.105310Z: v16: Recover Disney\+ monthly plans in Finland from local official information and Belgium from corroborated public reports, with explicit ad tiers\.
 - 2026-10-24T10:41:39.191427Z: v17: Consolidate duplicated plan observations whose only ad\-label difference is an unknown label, preserving customer evidence and distinct offers\.
+- 2026-10-24T11:12:16.473210Z: v18: Restores Disney prices for Hong Kong, Croatia and Slovenia with separately labelled public corroboration, and confirms official ad\-free monthly plans in Peru, Ecuador and Uruguay\. Removes the ended Prime Video offer for Paramount\+ Japan\.
+- 2026-10-24T11:21:42.389730Z: v19: Restores Israel’s Disney\+ Premium monthly price from its official local help page\. Confirms Brazil’s Standard and Premium Paramount\+ monthly prices and their ad\-free classification\.
+- 2026-10-24T11:34:25.188298Z: v20: Confirms official ad\-free Disney plans in Panama, Croatia and Slovenia, and HBO Max tiers in Chile and Costa Rica\. Improves recovery of Brazil’s Paramount monthly prices when its help page loads incompletely\.
+- 2026-10-24T11:50:26.906204Z: v21: Corrects unsupported country verification for KableOne and Bolivia Prime Video\. Excludes the e&amp;\-only STARZPLAY offer from direct\-subscription pricing\.
+- 2026-10-24T11:59:41.936468Z: v22: Recover direct UAE STARZPLAY PLUS and MAX monthly prices using corroborated public evidence and direct cancellation terms\. Keep them separate from telecom offers and leave advertising status unknown\.
+- 2026-10-24T12:07:24.639597Z: v23: Preserve Videoland advertising exceptions and confirm its plan\-specific policy\. Correct currency\-only market claims and Danish Viaplay advertising labels supported only by another tier\.
+- 2026-10-24T12:10:50.202190Z: v24: Recover all eight Danish Viaplay monthly plans with explicit advertising variants and official policy evidence\. Keep live and promotional advertising caveats\.
+- 2026-10-24T12:25:09.129124Z: v25: Replaced Bahrain OSN\+ operator prices with verified direct monthly subscriptions and explicit ad\-free labels\. Flagged conflicting official YouTube TV Sports Plan rates instead of choosing an unsupported price\.
+- 2026-10-24T12:31:40.858462Z: v26: Removed contradictory unresolved coverage placeholders where verified plans were retained\. Unsuccessful refresh notes and original checking evidence remain on the retained plans\.
 
 ## Recorded repairs
 

@@ -3821,5 +3821,3838 @@
     ],
     "specialties": "Individual psychotherapy with adults and adolescents; psychodynamic psychotherapy; Intensive Short-Term Dynamic Psychotherapy (ISTDP); psychological assessment and counseling.",
     "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "German",
+      "Austrian-German"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "HANNA",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Cognitive Behavioural Therapy (CBT), Trauma-Focused therapy, Acceptance and Commitment Therapy (ACT), and Solution Focused Therapy (SFT)."
+    ],
+    "practitioner_key": "5428924283913a26d3b5129d",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/therapists/hanna-collaborating-therapist-at-therapy-in-barcelona-in-her-own-words"
+    ],
+    "qualifications": "MSc Psychology., PhD, Psychological Psychotherapist, EuroPsy",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "CBT, trauma-focused therapy, ACT and solution-focused therapy.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:19:16.355380+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "46 Theobalds Road, Holborn, London WC1X 8NW"
+    ],
+    "name": "Melissa Tran",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Melissa Tran · Physiotherapy, Acupuncture"
+    ],
+    "practitioner_key": "e8339ab53b58dd74dbb8c863",
+    "profile_urls": [
+      "https://londonnatural.co.uk/practitioners/melissa-tran"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London Natural Health Centre · Holborn Holistic Therapies"
+    ],
+    "source_urls": [
+      "https://londonnatural.co.uk/"
+    ],
+    "specialties": "Physiotherapy, Acupuncture",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:56.810076+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English"
+    ],
+    "location_evidence": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "name": "Cristiana Gonçalves",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "In her classes, Cristiana prioritizes alignment, fluid movement, strength, and flexibility. Regardless of your background or experience level in yoga, her classes offer a welcoming and supportive environment for all."
+    ],
+    "practitioner_key": "81167f93d1b467619ea41e70",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "source_urls": [
+      "https://hotpodyoga.com/studios/porto"
+    ],
+    "specialties": "Yoga classes focused on alignment, fluid movement, strength and flexibility",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:56.810076+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "location_evidence": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "name": "Filipa Branco",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "In her classes, Filipa guides students through conscious movement, connecting breath, focus and body awareness, creating space to develop a body that moves with more freedom, strength and capacity."
+    ],
+    "practitioner_key": "ce6b6dcdf00e24c4b7d10200",
+    "profile_urls": [],
+    "qualifications": "A nurse by training, Functional Medicine Health Coach and Yoga and Pranayama teacher",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "source_urls": [
+      "https://hotpodyoga.com/studios/porto"
+    ],
+    "specialties": "Yoga, pranayama and conscious movement",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:52.903895+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Billy is a certified Senior Iyengar Yoga Instructor based in Lisbon, Portugal."
+    ],
+    "name": "Billy Konrad",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "He brings more than 20 years of practice to his regular public classes in Lisbon, and to the workshops he teaches in a variety of locations in Europe."
+    ],
+    "practitioner_key": "55b93c8300ab57f4cf46e412",
+    "profile_urls": [],
+    "qualifications": "Certified Senior Iyengar Yoga Instructor",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Our Instructors – Lisboa Yoga Loft"
+    ],
+    "source_urls": [
+      "https://www.lisboayogaloft.com/our-teachers"
+    ],
+    "specialties": "Iyengar Yoga classes and workshops",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga",
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:17:04.780710+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": "francisca.sotto@gmail.com",
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Rooftop Yoga Lisboa (rooftopyogalisboa.com) / Our yoga teachers"
+    ],
+    "name": "francisca sottomayor",
+    "observations_merged": 1,
+    "phone": "(00351) 918 874 841",
+    "possible_duplicate": false,
+    "practice_evidence": "[\"The classes that Francisca offers are for all levels of …",
+    "practitioner_key": "c6a6801060b84aad3f450a4c",
+    "profile_urls": [],
+    "qualifications": "Certified Yoga Teacher; two-year yoga teacher training at Casa Ganapati",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Rooftop Yoga Lisboa teachers"
+    ],
+    "source_urls": [
+      "https://www.rooftopyogalisboa.com/our-teachers.html"
+    ],
+    "specialties": "Hatha yoga classes for all levels, including meditation, asana, relaxation and pranayama",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:14.296270+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Located close to Casa Vicens in the neighbourhood of Gracia, Hot Yoga Barcelona is a studio that supports and fosters a sense of mindfulness and peace."
+    ],
+    "name": "ELENA",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "ELENA Warm Yin, Bikram"
+    ],
+    "practitioner_key": "31fd91a3b09371454b40c83e",
+    "profile_urls": [],
+    "qualifications": "Trained in Vinyasa and Yin yoga in 2021",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga Barcelona teachers"
+    ],
+    "source_urls": [
+      "https://www.hotyogabarcelona.com/your-team"
+    ],
+    "specialties": "Warm Yin yoga, Bikram yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:13.724472+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "The Shala School of Yoga West Norwood, London"
+    ],
+    "name": "Daniel Simpson",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Portrait of the teacher trainer for Yoga Philosophy Club course at the Shala School of Yoga"
+    ],
+    "practitioner_key": "6e3e24a7d0f520d1c8258b5f",
+    "profile_urls": [
+      "https://theshalalondon.com/yoga-teacher/daniel-simpson"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "The Best Yoga Teachers in London | The Shala"
+    ],
+    "source_urls": [
+      "https://www.theshalalondon.com/yoga-teachers-london"
+    ],
+    "specialties": "Yoga philosophy",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:35.333609+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Team - Jivamukti Yoga Barcelona"
+    ],
+    "name": "Karina",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Get to know our teachers, they are the heart and soul of the studio."
+    ],
+    "practitioner_key": "2846629518e4db64166a66a7",
+    "profile_urls": [
+      "https://jivamuktiyogabarcelona.com/team/karina"
+    ],
+    "qualifications": "Jivamukti Advanced Cert.",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Jivamukti Yoga Barcelona team"
+    ],
+    "source_urls": [
+      "https://jivamuktiyogabarcelona.com/teams"
+    ],
+    "specialties": "Jivamukti Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "briana",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Holistic and Integrative Approach Combining Narrative therapy, CBT elements, Art Therapy, Existential and Somatic IFS elements, Mindfulness and Breath Work."
+    ],
+    "practitioner_key": "8da50359c23861991e717e38",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/bri-therapy-in-barcelona-collaborating-therapist-in-her-own-words"
+    ],
+    "qualifications": "MA Social Work, BSc Psychology Art Therapy Minor, Integrative Somatic Parts Work Certified",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "Narrative therapy, CBT elements, art therapy, existential and somatic IFS elements, mindfulness and breath work.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:35.333609+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Team - Jivamukti Yoga Barcelona"
+    ],
+    "name": "Carlota",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Get to know our teachers, they are the heart and soul of the studio."
+    ],
+    "practitioner_key": "358feb132baa0de12f9afa6e",
+    "profile_urls": [
+      "https://jivamuktiyogabarcelona.com/team/carlota"
+    ],
+    "qualifications": "Jivamukti Advanced Cert.",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Jivamukti Yoga Barcelona team"
+    ],
+    "source_urls": [
+      "https://jivamuktiyogabarcelona.com/teams"
+    ],
+    "specialties": "Jivamukti Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:02.712304+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Turkish"
+    ],
+    "location_evidence": [
+      "I offer individual and group therapy in Barcelona and online, in English and Turkish."
+    ],
+    "name": "Nilgun Türkcan Ataoğlu",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "I offer individual and group therapy in Barcelona and online, in English and Turkish."
+    ],
+    "practitioner_key": "18206a11476ad65bffa90ee1",
+    "profile_urls": [
+      "https://www.therapyroute.com/therapist/nilgn-trkcan-ataolu-ankara-tr"
+    ],
+    "qualifications": "Psychotherapist (Registered); Creative Arts Therapist; Registered Drama Therapist (RDT); Board-Certified Trainer (BCT)",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "TherapyRoute Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyroute.com/therapists/spain/barcelona"
+    ],
+    "specialties": "Individual and group therapy; creative arts therapy; drama therapy; relationship counseling",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:29.136002+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Clínica de Saúde Mental do Porto - Equipa - Psicólogos"
+    ],
+    "name": "Dr.ª Maria João Gouveia",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Centra a sua atividade na PHDA em adultos, nas perturbações do humor, da ansiedade, do comportamento alimentar e na POC. Integra intervenção cognitivo-comportamental, terapias de 3.ª geração e parentalidade mindful."
+    ],
+    "practitioner_key": "4f55ec1ea47903f86d5f93bf",
+    "profile_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos/dr-maria-joao-gouveia"
+    ],
+    "qualifications": "Psicóloga Clínica; OP 019090",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Clínica de Saúde Mental do Porto psychologists"
+    ],
+    "source_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos"
+    ],
+    "specialties": "Intervenção cognitivo-comportamental e terapias de 3.ª geração; PHDA em adultos, perturbações do humor, ansiedade, comportamento alimentar e POC; parentalidade mindful.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:02.712304+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "Catalan",
+      "English",
+      "Spanish"
+    ],
+    "location_evidence": [
+      "In-person therapy in English for the international community in Barcelona, offered at Celobert - Teràpia i Meditació, in the city centre, a place to explore and understand your experience, and to find what helps you through it."
+    ],
+    "name": "Clara Solà Niubó",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "In-person therapy in English for the international community in Barcelona, offered at Celobert - Teràpia i Meditació, in the city centre, a place to explore and understand your experience, and to find what helps you through it."
+    ],
+    "practitioner_key": "92c5f60aea693a8ecc310a88",
+    "profile_urls": [
+      "https://www.therapyroute.com/therapist/clara-sol-niub-barcelona-spain"
+    ],
+    "qualifications": "Certified Counselor",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "TherapyRoute Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyroute.com/therapists/spain/barcelona"
+    ],
+    "specialties": "In-person therapy, counselling, couples therapy",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "jennifer",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Problem-Solving Therapy (PST), Cognitive Behavioural Therapy (CBT) and Third Wave Cognitive Therapy."
+    ],
+    "practitioner_key": "21bd539b82dbb8d2ff60ae53",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/therapists/jennifer-therapy-in-barcelona-collaborating-therapist-in-her-own-words"
+    ],
+    "qualifications": "B.A Psychology, B.Sc Foods and Nutrition, P.Grad Dip. Problem-Solving Brief Therapy, Cert. ADHD Professional (ADHD-CCSP)",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "Problem-solving therapy, CBT and third-wave cognitive therapy.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:37.848121+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "Portuguese",
+      "French"
+    ],
+    "location_evidence": [
+      "Áshrama Porto | Áshrama Santa Maria da Feira - Aulas do Yoga Tradicional da Índia"
+    ],
+    "name": "Catarina Ferreira",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "## Mestra Sitá Deví\n\n### Catarina Ferreira"
+    ],
+    "practitioner_key": "10e51f86da5d4e5b81632e11",
+    "profile_urls": [],
+    "qualifications": "Mestra",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Áshrama Porto yoga teachers"
+    ],
+    "source_urls": [
+      "https://www.yogaporto.com/"
+    ],
+    "specialties": "Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:17:04.780710+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Rooftop Yoga Lisboa (rooftopyogalisboa.com) / Our yoga teachers"
+    ],
+    "name": "martina anguelova",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Martina is a certified Family Yoga Teacher, a Yoga Nidra and EFT (Tapping) Facilitator, a Second Degree Usui Reiki Practitioner and an Astrologer."
+    ],
+    "practitioner_key": "b668bdac54c7b4453336f930",
+    "profile_urls": [],
+    "qualifications": "Certified Family Yoga Teacher; Yoga Nidra and EFT (Tapping) Facilitator; Second Degree Usui Reiki Practitioner; accredited by The International Practitioners of Holistic Medicine",
+    "roles": [
+      "teacher",
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Rooftop Yoga Lisboa teachers"
+    ],
+    "source_urls": [
+      "https://www.rooftopyogalisboa.com/our-teachers.html"
+    ],
+    "specialties": "Family Yoga, Yoga Nidra, EFT (Tapping), Usui Reiki",
+    "website": "https://yogatimeyay.com/"
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Romanian",
+      "Spanish",
+      "Catalan"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "Carolina",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Contemporary Psychoanalysis, Early Trauma and Attachment Specialisation, Mentalization-Based Treatment, Emotional Systemic Psychotherapy, Acceptance and Commitment Therapy (ACT)"
+    ],
+    "practitioner_key": "125a986f17fe09d71a57ae1c",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/therapists/carolina-collaborating-therapist-at-therapy-in-barcelona-in-her-own-words"
+    ],
+    "qualifications": "BA Psychology; MA Contemporary Psychoanalytic Psychotherapy, and Mentalization-Based Treatment (in progress)",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "Contemporary psychoanalysis, early trauma and attachment, mentalization-based treatment, emotional systemic psychotherapy and acceptance and commitment therapy.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:29.136002+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Clínica de Saúde Mental do Porto - Equipa - Psicólogos"
+    ],
+    "name": "Dr.ª Ana Luísa Monteiro",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Centra a sua atividade com crianças, adolescentes e adultos, integrando psicologia e neurociência. Tem especialização em Psicologia Organizacional e ReAttach e mais de 20 anos de experiência clínica."
+    ],
+    "practitioner_key": "e6535bda3952a6d1f3e7d614",
+    "profile_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos/ana-luisa-monteiro"
+    ],
+    "qualifications": "Psicóloga Clínica e Coaching executivo de liderança; especialização em Psicologia Organizacional e ReAttach; OP 002098",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Clínica de Saúde Mental do Porto psychologists"
+    ],
+    "source_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos"
+    ],
+    "specialties": "Psicologia clínica com crianças, adolescentes e adultos; coaching executivo de liderança.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:17:46.546979+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Avenida 5 de Outubro 16, Lisboa"
+    ],
+    "name": "Adrian Peña",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Therapeutic & Rehabilitation Massage Specialist"
+    ],
+    "practitioner_key": "f49514102e0645ae5da165bc",
+    "profile_urls": [],
+    "qualifications": "Graduated in Physical Culture and Sports in Cuba with a specialisation in Sports Rehabilitation; completed a professional course in Therapeutic and Rehabilitation Massage in Portugal.",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massoterapia Spa Lisbon massage team"
+    ],
+    "source_urls": [
+      "https://www.massoterapiaspa.com/massage-team-lisbon"
+    ],
+    "specialties": "Therapeutic and rehabilitation massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:03.094903+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English"
+    ],
+    "location_evidence": [
+      "Our English-speaking therapists in Lisbon are here to support you on your path toward growth and emotional well-being."
+    ],
+    "name": "Sylwia Latacz",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": true,
+    "practice_evidence": [
+      "My name is Sylwia Latacz, and I am a psychologist and psychotherapist. I provide individual and [couples therapy](https://psychotherapylisbon.com/couples-therapy-lisbon/)."
+    ],
+    "practitioner_key": "69810800bf1655d2baf2a97d",
+    "profile_urls": [
+      "https://psychotherapylisbon.com/about"
+    ],
+    "qualifications": "Psychologist and psychotherapist",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Psychotherapy Lisbon | ISTDP Therapy | EFT Couples Therapy"
+    ],
+    "source_urls": [
+      "https://psychotherapylisbon.com/"
+    ],
+    "specialties": "Individual therapy, couples therapy, EFT couples therapy, integrative psychotherapy",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation",
+      "Massage",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:16:59.745897+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Charlotte is a Reiki Master, International Artist and Children's Mindfulness Teacher in Colindale, North West London, specialising in Reiki Massage for trauma release."
+    ],
+    "name": "Charlotte",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Charlotte is a Reiki Master, International Artist and Children's Mindfulness Teacher in Colindale, North West London, specialising in Reiki Massage for trauma release."
+    ],
+    "practitioner_key": "d656c34812fd42e4246afdb9",
+    "profile_urls": [],
+    "qualifications": "Reiki Master",
+    "roles": [
+      "teacher",
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Soul Collaboration London"
+    ],
+    "source_urls": [
+      "https://www.soulcollaboration.co.uk/united-kingdom/london"
+    ],
+    "specialties": "Children's mindfulness teaching and Reiki Massage for trauma release.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:03.192587+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Meditation House Porto"
+    ],
+    "name": "Inês",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": true,
+    "practice_evidence": [
+      "Inês teaches body movement meditation and therapeutic dance practices, being co-founder of the Meditation House Porto project."
+    ],
+    "practitioner_key": "fc3683bc26363f28a1d54509",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Meditation House Porto | Meditation House Porto"
+    ],
+    "source_urls": [
+      "https://meditationhouseporto.com/oldhome"
+    ],
+    "specialties": "Body movement meditation and therapeutic dance practices",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:29.136002+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Clínica de Saúde Mental do Porto - Equipa - Psicólogos"
+    ],
+    "name": "Dr.ª Rita Ferreira",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Centra a sua atividade com crianças, adolescentes e famílias, segundo o modelo Internal Family Systems (IFS), com particular interesse na saúde mental da mulher, regulação emocional e ansiedade."
+    ],
+    "practitioner_key": "12ee81d382c81dcdc4e89cb3",
+    "profile_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos/dr-rita-ferreira"
+    ],
+    "qualifications": "Psicóloga Clínica e Forense; OP 029067",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Clínica de Saúde Mental do Porto psychologists"
+    ],
+    "source_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos"
+    ],
+    "specialties": "Intervenção com crianças, adolescentes e famílias segundo o modelo Internal Family Systems (IFS); saúde mental da mulher, regulação emocional e ansiedade.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:16:59.745897+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, England, N2, United Kingdom"
+    ],
+    "name": "Donna Simon",
+    "observations_merged": 1,
+    "phone": "07932674215",
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Donna Simon Rebalance Acupuncture by Donna"
+    ],
+    "practitioner_key": "7ad579266674f163cd79b242",
+    "profile_urls": [
+      "https://www.soulcollaboration.co.uk/united-kingdom/london/all-members/donna-simon"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Soul Collaboration London"
+    ],
+    "source_urls": [
+      "https://www.soulcollaboration.co.uk/united-kingdom/london"
+    ],
+    "specialties": "Acupuncture and Traditional Chinese Medicine for pain, anxiety and insomnia.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:14.296270+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Located close to Casa Vicens in the neighbourhood of Gracia, Hot Yoga Barcelona is a studio that supports and fosters a sense of mindfulness and peace."
+    ],
+    "name": "FEDERICA",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "“Being in a flow is a state of mind” is what I believe in and what I carry out as a certified hatha vinyasa, yin and bikram teacher."
+    ],
+    "practitioner_key": "4789edbaf889f73c1def2e17",
+    "profile_urls": [],
+    "qualifications": "Certified Hatha Vinyasa, Yin and Bikram teacher",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga Barcelona teachers"
+    ],
+    "source_urls": [
+      "https://www.hotyogabarcelona.com/your-team"
+    ],
+    "specialties": "Bikram yoga, Vinyasa yoga, Yin yoga, Hatha yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:19:16.355380+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "46 Theobalds Road, Holborn, London WC1X 8NW"
+    ],
+    "name": "Steve Kippax",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Steve Kippax · Acupuncture, Chinese Herbal Medicine"
+    ],
+    "practitioner_key": "c77b77636b25fe263b94d8fb",
+    "profile_urls": [
+      "https://londonnatural.co.uk/practitioners/steve-kippax"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London Natural Health Centre · Holborn Holistic Therapies"
+    ],
+    "source_urls": [
+      "https://londonnatural.co.uk/"
+    ],
+    "specialties": "Acupuncture, Chinese Herbal Medicine",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:13.724472+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "The Shala School of Yoga West Norwood, London"
+    ],
+    "name": "Gingi Lee",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Gingi LeeCO-FOUNDER · 200-HR LEAD · ASSISTS & ADJUSTS"
+    ],
+    "practitioner_key": "5ec02c489f0822c8e0f2e972",
+    "profile_urls": [
+      "https://theshalalondon.com/yoga-teacher/gingi-lee"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "The Best Yoga Teachers in London | The Shala"
+    ],
+    "source_urls": [
+      "https://www.theshalalondon.com/yoga-teachers-london"
+    ],
+    "specialties": "200-hour yoga teacher training; assists and adjusts",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:29.136002+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Clínica de Saúde Mental do Porto - Equipa - Psicólogos"
+    ],
+    "name": "Dr.ª Lídia Costa",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Centra a sua atividade na psicoterapia com crianças, adolescentes e adultos, em contexto individual, de casal e familiar, incluindo consulta parental. É especialista avançada em Psicoterapia."
+    ],
+    "practitioner_key": "d92b62cd0d786a3d047b025e",
+    "profile_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos/dr-lidia-costa"
+    ],
+    "qualifications": "Psicóloga Clínica; especialista avançada em Psicoterapia; OP 003824",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Clínica de Saúde Mental do Porto psychologists"
+    ],
+    "source_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos"
+    ],
+    "specialties": "Psicoterapia individual, de casal e familiar com crianças, adolescentes e adultos; consulta parental.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:56.810076+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English"
+    ],
+    "location_evidence": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "name": "Anna Nowak",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "In her classes, Anna focuses on making the practice accessible to different levels and bodies. She also incorporates breathing exercises to help achieve focus and peace of mind during the class."
+    ],
+    "practitioner_key": "3df1721246b4452fe1a2ad42",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "source_urls": [
+      "https://hotpodyoga.com/studios/porto"
+    ],
+    "specialties": "Accessible yoga classes and breathing exercises",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:02.712304+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "Spanish",
+      "Catalan"
+    ],
+    "location_evidence": [
+      "Psychotherapist based in Barcelona, Spain."
+    ],
+    "name": "Corina Hourcade Bellocq",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Psychotherapist based in Barcelona, Spain. Licensed in Psychology in Buenos Aires, Argentina (License No. 15,086). Psychologist specialized in supporting people through a holistic approach, combining an understanding of their inner processes with practical tools to improve their physical, emotional, and mental well-being."
+    ],
+    "practitioner_key": "bac1fc643378f2b0da0c5305",
+    "profile_urls": [
+      "https://www.therapyroute.com/therapist/corina-hourcade-bellocq-online-spain"
+    ],
+    "qualifications": "Licensed Psychologist; Licensed in Psychology in Buenos Aires, Argentina (License No. 15,086)",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "TherapyRoute Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyroute.com/therapists/spain/barcelona"
+    ],
+    "specialties": "Counselling; crisis counselling; psychotherapy",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga",
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:17:38.699109+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Today Yoga Class by AlyonaThu, Oct 22 · 17:00 WESTClassOnline · Lisbon, PortugalBreathing MeditationPranayama"
+    ],
+    "name": "Alyona",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Today Yoga Class by AlyonaThu, Oct 22 · 17:00 WESTClassOnline · Lisbon, PortugalBreathing MeditationPranayama"
+    ],
+    "practitioner_key": "c789ca2e3a50fc1ad08bfd06",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Siila Lisbon yoga and meditation professionals"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon"
+    ],
+    "specialties": "Pranayama; Breathing Meditation",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:22.998740+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Registered Mailing Address: 39 Long Acre, London WC2E 9LG"
+    ],
+    "name": "Nicky",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "She has been teaching mindfulness for wellbeing, depression and addiction in NHS and Charity settings."
+    ],
+    "practitioner_key": "b75873e69686482ae27cfb3c",
+    "profile_urls": [],
+    "qualifications": "Mental health nurse; mindfulness training at the Sussex Mindfulness Centre; Masters Degree in Medical Anthropology; post graduate studies in Addiction; Bamba registered teacher",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Mindfulness Teachers"
+    ],
+    "source_urls": [
+      "https://www.londonmindful.com/about-our-teachers"
+    ],
+    "specialties": "Mindfulness for wellbeing, depression and addiction; mindfulness teacher training and supervision",
+    "website": null
+  },
+  {
+    "categories": [
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:19:16.355380+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "46 Theobalds Road, Holborn, London WC1X 8NW"
+    ],
+    "name": "Nasila Rehman",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Nasila Rehman · Acupuncture, Fertility Support"
+    ],
+    "practitioner_key": "a0dcaee032b4799061fb5f20",
+    "profile_urls": [
+      "https://londonnatural.co.uk/practitioners/nasila-rehman"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London Natural Health Centre · Holborn Holistic Therapies"
+    ],
+    "source_urls": [
+      "https://londonnatural.co.uk/"
+    ],
+    "specialties": "Acupuncture, Fertility Support",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:29.136002+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Clínica de Saúde Mental do Porto - Equipa - Psicólogos"
+    ],
+    "name": "Dr.ª Sandra Cardoso",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Centra a sua atividade com crianças, jovens e adultos em contextos clínicos, de promoção e proteção e assessoria aos tribunais, integrando uma abordagem em Psicoterapia Psicanalítica."
+    ],
+    "practitioner_key": "356420d28f76811a56d9c10f",
+    "profile_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos/dr-sandra-cardoso"
+    ],
+    "qualifications": "Psicóloga Clínica; OP 008673",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Clínica de Saúde Mental do Porto psychologists"
+    ],
+    "source_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos"
+    ],
+    "specialties": "Intervenção com crianças, jovens e adultos; abordagem em Psicoterapia Psicanalítica.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:52.903895+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Our Instructors – Lisboa Yoga Loft"
+    ],
+    "name": "Clara Rolim",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Our instructors are prepared to guide you in this exploration"
+    ],
+    "practitioner_key": "f8615c95b6663c0c1e336b9e",
+    "profile_urls": [],
+    "qualifications": "Iyengar certification with Christian Pisano and June Whittaker from 2010 to 2013",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Our Instructors – Lisboa Yoga Loft"
+    ],
+    "source_urls": [
+      "https://www.lisboayogaloft.com/our-teachers"
+    ],
+    "specialties": "Iyengar Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:20:08.669896+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London E8 & W1H"
+    ],
+    "name": "Fumie Akiya",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Remedial/ Sports/ Deep Tissue Massage, Aromatherapy, NO HANDS® Massage, Thai Yoga Massage, Pregnancy Massage, Reflexology, Bowen Technique, Emmett Technique, Kinesiology, AllergyTesting & Treatment"
+    ],
+    "practitioner_key": "83185874c56be98e397af854",
+    "profile_urls": [
+      "https://www.therapy-directory.org.uk/therapists/fumie-akiya?_hash=7bf3ee4b-0cb4-42cd-af3e-58349cc950b8"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massage therapist in London - Therapy Directory"
+    ],
+    "source_urls": [
+      "https://www.therapy-directory.org.uk/city/london/service/massage-therapist"
+    ],
+    "specialties": "Remedial Massage, Sports Massage, Deep Tissue Massage, Aromatherapy, NO HANDS® Massage, Thai Yoga Massage, Pregnancy Massage, Reflexology, Bowen Technique, Emmett Technique, Kinesiology, AllergyTesting & Treatment",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga",
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:17:24.065065+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Claire Smyth Yoga London"
+    ],
+    "name": "Claire Smyth",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "I offer guided meditations in every class"
+    ],
+    "practitioner_key": "712ea0df5193b36dd50aa27c",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Claire Smyth Yoga London"
+    ],
+    "source_urls": [
+      "https://www.clairesmyth.com/"
+    ],
+    "specialties": "Private and group yoga classes; Hatha/Vinyasa yoga; chair-yoga mobility; breath work; guided meditation.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "KATie",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "KATie trainee THERAPIST"
+    ],
+    "practitioner_key": "003a9021ae18d535b26f544e",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/therapists/katie-therapy-in-barcelona-collaborating-trainee-therapist-in-her-own-words"
+    ],
+    "qualifications": "MA SocSci (Hons) Psych, Currently Completing MSc Psychotherapy Studies & Diploma Existential Psychotherapy",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "Existential therapy.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:13.724472+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "The Shala School of Yoga West Norwood, London"
+    ],
+    "name": "Emma Landolt",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Portrait of Emma Landolt Lead teacher for Elemental Mandala Vinyasa and Nidra Teacher Training"
+    ],
+    "practitioner_key": "b789907537e5c6cde366d68a",
+    "profile_urls": [
+      "https://theshalalondon.com/yoga-teacher/emma-landolt"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "The Best Yoga Teachers in London | The Shala"
+    ],
+    "source_urls": [
+      "https://www.theshalalondon.com/yoga-teachers-london"
+    ],
+    "specialties": "Elemental Mandala Vinyasa; Elemental Nidra",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:38.699109+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Shared person profile or exact name with shared professional link/contact",
+    "languages": [],
+    "location_evidence": [
+      "Cláudio Alves, Hatha Yoga, Lisbon, Portugal",
+      "Lisbon, Portugal"
+    ],
+    "name": "Cláudio Alves",
+    "observations_merged": 2,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Yoga and meditation teachers in Lisbon",
+      "Hatha YogaAshtanga Yoga+3"
+    ],
+    "practitioner_key": "cfcbdd9977dbbadac7f6dc4e",
+    "profile_urls": [
+      "https://siila.org/teacher/cludio-alves"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher",
+      "practitioner"
+    ],
+    "source_count": 2,
+    "source_names": [
+      "Siila Lisbon yoga and meditation professionals",
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon",
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Hatha Yoga; Ashtanga Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga",
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:00.524071+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Lisbon, Portugal"
+    ],
+    "name": "Aude Varenne",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Mantra MeditationKundalini Yoga+1"
+    ],
+    "practitioner_key": "b3410c8df84efc8aa9326b0d",
+    "profile_urls": [
+      "https://siila.org/teacher/aude-varenne"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Mantra Meditation; Kundalini Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:19:16.355380+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "46 Theobalds Road, Holborn, London WC1X 8NW"
+    ],
+    "name": "Julio da Costa",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Julio da Costa · Bioresonance, Nutritional Medicine"
+    ],
+    "practitioner_key": "89de17903cd3f873a5323fbb",
+    "profile_urls": [
+      "https://londonnatural.co.uk/practitioners/julio-da-costa"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London Natural Health Centre · Holborn Holistic Therapies"
+    ],
+    "source_urls": [
+      "https://londonnatural.co.uk/"
+    ],
+    "specialties": "Bioresonance, Nutritional Medicine",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:18:38.838264+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Therapeutic Massage In London | #1 In London | Incall & Outcall Mobile Massage"
+    ],
+    "name": "Jing",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "### Massage Therapists"
+    ],
+    "practitioner_key": "a8c9d2ab86bda80c964b26b6",
+    "profile_urls": [
+      "https://therapeuticmassageinlondon.co.uk/jing"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "therapeuticmassageinlondon.co.uk"
+    ],
+    "source_urls": [
+      "https://therapeuticmassageinlondon.co.uk/"
+    ],
+    "specialties": "Massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:35.333609+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Team - Jivamukti Yoga Barcelona"
+    ],
+    "name": "Gianni",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Get to know our teachers, they are the heart and soul of the studio."
+    ],
+    "practitioner_key": "eca465a11fc0dffe056e3188",
+    "profile_urls": [
+      "https://jivamuktiyogabarcelona.com/team/gianni"
+    ],
+    "qualifications": "Jivamukti Advanced Cert.",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Jivamukti Yoga Barcelona team"
+    ],
+    "source_urls": [
+      "https://jivamuktiyogabarcelona.com/teams"
+    ],
+    "specialties": "Jivamukti Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Spanish",
+      "Catalan"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "LIDIA",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Acceptance and Commitment Therapy (ACT), Dialectical Behaviour Therapy (DBT), Cognitive Behavioural Therapy (CBT), Schema Therapy, and the Gottman Method of Couples Therapy."
+    ],
+    "practitioner_key": "6c63b71bc0d8aeace53bd5bc",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/lidia-therapy-in-barcelona-collaborating-therapist-in-her-own-words"
+    ],
+    "qualifications": "MPsych (Clinical), PhD",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "ACT, DBT, CBT, schema therapy and the Gottman Method of couples therapy.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:22.998740+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Registered Mailing Address: 39 Long Acre, London WC2E 9LG"
+    ],
+    "name": "Jiva",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "She has taught over 100 courses to people from all walks of life, and has a particular interest in helping people overcome anxiety and stress-related challenges."
+    ],
+    "practitioner_key": "c2c3b6cd4ec68ba789688bda",
+    "profile_urls": [],
+    "qualifications": "Masters in Mindfulness-Based Cognitive Therapies from Exeter University; certified mindful self-compassion teacher",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Mindfulness Teachers"
+    ],
+    "source_urls": [
+      "https://www.londonmindful.com/about-our-teachers"
+    ],
+    "specialties": "Mindfulness courses; mindful self-compassion; mindfulness teacher supervision and training",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:19:16.355380+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "46 Theobalds Road, Holborn, London WC1X 8NW"
+    ],
+    "name": "Evan Karagiannis",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Evan Karagiannis · Sports Massage"
+    ],
+    "practitioner_key": "d11f5ed3627a75297696a964",
+    "profile_urls": [
+      "https://londonnatural.co.uk/practitioners/evan-karagiannis"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London Natural Health Centre · Holborn Holistic Therapies"
+    ],
+    "source_urls": [
+      "https://londonnatural.co.uk/"
+    ],
+    "specialties": "Sports Massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:18:28.885660+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English"
+    ],
+    "location_evidence": [
+      "Deep Tissue & Therapeutic Massage in Barcelona"
+    ],
+    "name": "Oksana",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Trained in massage therapy, osteopathy, and movement practices, I specialize in identifying and releasing restrictions that limit how the body moves, feels, and functions."
+    ],
+    "practitioner_key": "d530576a56b8eb6acd1daa7a",
+    "profile_urls": [],
+    "qualifications": "Trained in massage therapy, osteopathy, and movement practices.",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Holistic deep tissue massage | NALA Massage Barcelona"
+    ],
+    "source_urls": [
+      "https://www.nalabarcelona.com/"
+    ],
+    "specialties": "Massage therapy; identifying and releasing restrictions that limit movement and function.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:13.724472+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "The Shala School of Yoga West Norwood, London"
+    ],
+    "name": "Anna Taylor",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Anna TaylorSUSTAINABILITY & SELF CARE"
+    ],
+    "practitioner_key": "80ae571ccac7b829118d71dc",
+    "profile_urls": [
+      "https://theshalalondon.com/yoga-teacher/anna-taylor"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "The Best Yoga Teachers in London | The Shala"
+    ],
+    "source_urls": [
+      "https://www.theshalalondon.com/yoga-teachers-london"
+    ],
+    "specialties": "Sustainability and self-care for yoga teachers",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Spanish",
+      "Catalan"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "Clara",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Integrative. Cognitive Behavioural Therapy (CBT),  Acceptance and Commitment Therapy (ACT), Client Centred, Mindfulness, and Compassion-based approaches, Relational, Existential, Yoga and Body-Based Perspectives."
+    ],
+    "practitioner_key": "d8025f8c51ae765c5675a1ef",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/therapists/clara-therapy-in-barcelona-collaborating-therapist-in-her-own-words"
+    ],
+    "qualifications": "Psychologist College of Psychologists of Catalonia (COPC) Numero Colegiado: 32915; Vinyasa Yoga Teacher’s Trainer YT200",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "CBT, ACT, client-centred, mindfulness and compassion-based approaches, and relational, existential, yoga and body-based perspectives.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:17:43.886938+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "French",
+      "English"
+    ],
+    "location_evidence": [
+      "In-person sessions in Gràcia, Barcelona (by appointment only)."
+    ],
+    "name": "Sonia",
+    "observations_merged": 1,
+    "phone": "+34 604 22 66 75",
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Hello, I'm Sonia, a massage therapist and Reiki master."
+    ],
+    "practitioner_key": "bc20d567cb9887b0a65958c6",
+    "profile_urls": [],
+    "qualifications": "Federally Registered Reiki Master (Nº 9711); internationally accredited by IPHM in Holistic Therapies and Therapeutic Massage",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Flor de Agua holistic therapy and massage"
+    ],
+    "source_urls": [
+      "https://www.flordeagua.art/en"
+    ],
+    "specialties": "Massage therapy, Reiki and holistic therapy for women",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:00.524071+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Lisbon, Portugal"
+    ],
+    "name": "Gabrielle Martini",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Hatha YogaVinyasa Yoga+1"
+    ],
+    "practitioner_key": "4a6031eb20099ab6a081a945",
+    "profile_urls": [
+      "https://siila.org/teacher/gabrielle-martini"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Hatha Yoga; Vinyasa Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:00.524071+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Lisbon, Portugal"
+    ],
+    "name": "Francianne Santos",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Mindfulness MeditationChakra Meditation+2"
+    ],
+    "practitioner_key": "072d258a7200d39315eae07f",
+    "profile_urls": [
+      "https://siila.org/teacher/francianne-santos"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Mindfulness Meditation; Chakra Meditation",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:17:26.633930+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Meditation House Porto is an Ursa Parda project—an invitation to practice and learning amidst the stone, water and root places of the Leça River’s Valley, in Porto, Portugal."
+    ],
+    "name": "Nuno Miguel Teixeira",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Integrative meditation teacher and researcher into breathwork and the support of psycho-emotional landscapes; creator of the educational, therapeutic, and community projects _Meditation House Porto_ and _Ursa Parda_."
+    ],
+    "practitioner_key": "d22686ba1d21d7df266c3cdc",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Meditation House Porto teachers"
+    ],
+    "source_urls": [
+      "https://meditationhouseporto.com/en"
+    ],
+    "specialties": "Integrative meditation, breathwork, practice groups and meditation teacher training",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:18:55.448597+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": "acupuncturistlondon@gmail.com",
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "282 Rosendale Rd, London SE24 9DL, adjacent to Brockwell Park. Herne Hill, London"
+    ],
+    "name": "James Bradley",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Co-Founder of TonicAcupuuncture (5 Element & TCM)Massage & BodyworksReiki & Healing"
+    ],
+    "practitioner_key": "ed6f0097cd76f5fbeb4c42ee",
+    "profile_urls": [
+      "https://www.tonic-london.com/james-bradley"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner",
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Tonic | Holistic Therapies & Wellness | Herne Hill, London, United Kingdom"
+    ],
+    "source_urls": [
+      "https://www.tonic-london.com/"
+    ],
+    "specialties": "Five Element and TCM acupuncture, massage and bodywork, Reiki and healing",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:04.780710+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Rooftop Yoga Lisboa (rooftopyogalisboa.com) / Our yoga teachers"
+    ],
+    "name": "SARA DAl Corso",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Sara has worked as a dancer, choreographer and dance and yoga teacher since 2005 and specialises in Precision & flow Yoga."
+    ],
+    "practitioner_key": "0246646bea630f2f3c241171",
+    "profile_urls": [],
+    "qualifications": "Certified Yoga Alliance teacher; PhD from the Faculty of History of Dance and Theater at the University of Bologna",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Rooftop Yoga Lisboa teachers"
+    ],
+    "source_urls": [
+      "https://www.rooftopyogalisboa.com/our-teachers.html"
+    ],
+    "specialties": "Precision & flow Yoga",
+    "website": "http://dalcorsosara.wixsite.com/nomadicyogalisbon"
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:04.410015+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, England, SE8 5EX, United Kingdom"
+    ],
+    "name": "Gabriele Esu",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Category: Yoga Teachers ERYT"
+    ],
+    "practitioner_key": "23f5165523a919c42dd14bb0",
+    "profile_urls": [
+      "https://www.yogaallianceinternationalregistry.com/united-kingdom/london/yoga-teacher-eryt/gabriele-esu"
+    ],
+    "qualifications": "Yoga Teachers ERYT",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London, United Kingdom Yoga - Find Registry of Yoga Teachers and Schools in London, United Kingdom"
+    ],
+    "source_urls": [
+      "https://www.yogaallianceinternationalregistry.com/united-kingdom/london"
+    ],
+    "specialties": "Yoga teaching",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:35.333609+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Team - Jivamukti Yoga Barcelona"
+    ],
+    "name": "Olga",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Get to know our teachers, they are the heart and soul of the studio."
+    ],
+    "practitioner_key": "862f6cc8c5cb5b462b3396d4",
+    "profile_urls": [
+      "https://jivamuktiyogabarcelona.com/team/olga"
+    ],
+    "qualifications": "Jivamukti Advanced Cert.",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Jivamukti Yoga Barcelona team"
+    ],
+    "source_urls": [
+      "https://jivamuktiyogabarcelona.com/teams"
+    ],
+    "specialties": "Jivamukti Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:18:13.724472+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "The Shala School of Yoga West Norwood, London"
+    ],
+    "name": "Anne Malone",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Portrait of Anne Malone, lead teacher for Sacred Sound and Ceremony Course"
+    ],
+    "practitioner_key": "f66398b01daf6f10ad4e6698",
+    "profile_urls": [
+      "https://theshalalondon.com/yoga-teacher/anne-malone"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "The Best Yoga Teachers in London | The Shala"
+    ],
+    "source_urls": [
+      "https://www.theshalalondon.com/yoga-teachers-london"
+    ],
+    "specialties": "Sacred sound and ceremony training",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:17:14.296270+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Located close to Casa Vicens in the neighbourhood of Gracia, Hot Yoga Barcelona is a studio that supports and fosters a sense of mindfulness and peace."
+    ],
+    "name": "JOYCE",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "I love to keep on learning and connecting all my knowledge in my massages!"
+    ],
+    "practitioner_key": "a94d1abd18c2502c5d8aa8cf",
+    "profile_urls": [],
+    "qualifications": "Studied sport massage; completed three Thai massage courses and an osteopathy Thai course",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga Barcelona teachers"
+    ],
+    "source_urls": [
+      "https://www.hotyogabarcelona.com/your-team"
+    ],
+    "specialties": "Sport massage, Thai massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:08.205109+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Arabic"
+    ],
+    "location_evidence": [
+      "Marriage Counseling & Couples Therapy in Lisbon"
+    ],
+    "name": "Lea Eid",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Clinical Psychologist & Psychoanalyst | Lacanian Orientation\n\nI work with individuals, couples, and groups from a Lacanian psychoanalytic standpoint — in English and Arabic."
+    ],
+    "practitioner_key": "23ac65c06595e1222de1dfac",
+    "profile_urls": [
+      "https://psychotherapylisbon.com/english-therapist-lisbon"
+    ],
+    "qualifications": "Clinical Psychologist & Psychoanalyst",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Psychotherapy Lisbon team"
+    ],
+    "source_urls": [
+      "https://psychotherapylisbon.com/couples-therapy-lisbon"
+    ],
+    "specialties": "Lacanian psychoanalysis for individuals, couples, and groups",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:20:08.669896+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, EC2Y 8AD"
+    ],
+    "name": "Elisha May",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "I offer Massage Therapy, Myofascial Release, Pregnancy Massage and Reflexology."
+    ],
+    "practitioner_key": "c272b70dd14756137c63ca12",
+    "profile_urls": [
+      "https://www.therapy-directory.org.uk/therapists/elisha-may?_hash=7bf3ee4b-0cb4-42cd-af3e-58349cc950b8"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massage therapist in London - Therapy Directory"
+    ],
+    "source_urls": [
+      "https://www.therapy-directory.org.uk/city/london/service/massage-therapist"
+    ],
+    "specialties": "Massage Therapy, Myofascial Release, Pregnancy Massage, Reflexology",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:00.524071+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Lisbon, Portugal"
+    ],
+    "name": "João Palma",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Breathing MeditationMindfulness Meditation"
+    ],
+    "practitioner_key": "615b89e675f1f1b500f620af",
+    "profile_urls": [
+      "https://siila.org/teacher/joao-palma"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Breathing Meditation; Mindfulness Meditation",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:58.264024+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Shared person profile or exact name with shared professional link/contact",
+    "languages": [],
+    "location_evidence": [
+      "Team Archives - Jivamukti Yoga Barcelona",
+      "Team - Jivamukti Yoga Barcelona"
+    ],
+    "name": "Fanny",
+    "observations_merged": 2,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "She began by teaching Vinyasa and Yin Yoga, after completing 550 hours of training, giving classes, workshops and leading cosmic yoga retreats!",
+      "Get to know our teachers, they are the heart and soul of the studio."
+    ],
+    "practitioner_key": "df7264e6972ce79b31ffba8b",
+    "profile_urls": [
+      "https://jivamuktiyogabarcelona.com/team/fanny"
+    ],
+    "qualifications": "550 hours of yoga training; Jivamukti 800h Cert.",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 2,
+    "source_names": [
+      "Team Archives - Jivamukti Yoga Barcelona",
+      "Jivamukti Yoga Barcelona team"
+    ],
+    "source_urls": [
+      "https://jivamuktiyogabarcelona.com/team-type/team",
+      "https://jivamuktiyogabarcelona.com/teams"
+    ],
+    "specialties": "Vinyasa Yoga, Yin Yoga, yoga workshops and retreats; Jivamukti Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:20:08.669896+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, SW19 1RF"
+    ],
+    "name": "Joanna Zubkowicz",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "I offer massage treatments that blend sports, remedial and deep tissue techniques to ease tension, support recovery, and help you feel and move more comfortably."
+    ],
+    "practitioner_key": "7e888f790a1bb4256fc44b61",
+    "profile_urls": [
+      "https://www.therapy-directory.org.uk/therapists/joanna-zubkowicz?_hash=7bf3ee4b-0cb4-42cd-af3e-58349cc950b8"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massage therapist in London - Therapy Directory"
+    ],
+    "source_urls": [
+      "https://www.therapy-directory.org.uk/city/london/service/massage-therapist"
+    ],
+    "specialties": "Sports, remedial and deep tissue massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:17:38.699109+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Shared person profile or exact name with shared professional link/contact",
+    "languages": [],
+    "location_evidence": [
+      "Camila Leite Integração Corpo&Mente, Guided Meditation, Lisbon, Portugal",
+      "Lisbon, Portugal"
+    ],
+    "name": "Camila Leite Integração Corpo&Mente",
+    "observations_merged": 2,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Yoga and meditation teachers in Lisbon",
+      "Guided MeditationMindfulness Meditation"
+    ],
+    "practitioner_key": "e6b167e22f1acf86a6b313a4",
+    "profile_urls": [
+      "https://siila.org/teacher/camilaleite-santos"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher",
+      "practitioner"
+    ],
+    "source_count": 2,
+    "source_names": [
+      "Siila Lisbon yoga and meditation professionals",
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon",
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Guided Meditation; Mindfulness Meditation",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:18:27.686026+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Home Massages in Porto | RHEA Therapies"
+    ],
+    "name": "António",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Pre-Natal Massage\n\nSuper delicate and professional service. António was attentive to every detail. I’m already a regular RHEA client."
+    ],
+    "practitioner_key": "a4b518b5c893276b42e4d9f6",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Home Massages in Porto | RHEA Home Spa"
+    ],
+    "source_urls": [
+      "https://www.rhea.pt/en/locations/porto"
+    ],
+    "specialties": "Pre-Natal Massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:20:08.669896+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London SW1W & W8"
+    ],
+    "name": "Anna Barry",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "I offer Manual Lymphatic Drainage, Oncology Massage, Abdominal Sacral Massage, Thai Massage, Full Body Deep Tissue, Relaxing Massage and Reflexology, all tailored to your specific needs."
+    ],
+    "practitioner_key": "2a6b6aaf12e568268efaf7a9",
+    "profile_urls": [
+      "https://www.therapy-directory.org.uk/therapists/anna-barry?_hash=7bf3ee4b-0cb4-42cd-af3e-58349cc950b8"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massage therapist in London - Therapy Directory"
+    ],
+    "source_urls": [
+      "https://www.therapy-directory.org.uk/city/london/service/massage-therapist"
+    ],
+    "specialties": "Manual Lymphatic Drainage, Oncology Massage, Abdominal Sacral Massage, Thai Massage, Full Body Deep Tissue Massage, Relaxing Massage, Reflexology",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:18:27.686026+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Inês is on the way!\n\nETA 15 min · Ribeira, Porto"
+    ],
+    "name": "Inês",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": true,
+    "practice_evidence": [
+      "Deep Tissue Massage\n\nAbsolutely incredible experience. Inês is exceptional. She arrived on time at my apartment in Ribeira, super professional. Total relief for my back."
+    ],
+    "practitioner_key": "7b10a56f903486ea5094a829",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Home Massages in Porto | RHEA Home Spa"
+    ],
+    "source_urls": [
+      "https://www.rhea.pt/en/locations/porto"
+    ],
+    "specialties": "Deep Tissue Massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:00.524071+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Lisbon , Portugal"
+    ],
+    "name": "Gonçalo Roquette",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Sound Healing Meditation"
+    ],
+    "practitioner_key": "e873cfc42bb59e2c6f1db08d",
+    "profile_urls": [
+      "https://siila.org/teacher/gonalo-roquette"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Sound Healing Meditation",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:13.724472+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "The Shala School of Yoga West Norwood, London"
+    ],
+    "name": "Melanie Cooper",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Melanie Cooper300-HR LEAD · YIN · PRANAYAMA · YOGA NIDRA"
+    ],
+    "practitioner_key": "4c75580b6c137cb4970a3d54",
+    "profile_urls": [
+      "https://theshalalondon.com/yoga-teacher/melanie-cooper"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "The Best Yoga Teachers in London | The Shala"
+    ],
+    "source_urls": [
+      "https://www.theshalalondon.com/yoga-teachers-london"
+    ],
+    "specialties": "300-hour yoga teacher training; yin yoga; pranayama; yoga nidra",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:04.410015+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, England, E3 2PX, United Kingdom"
+    ],
+    "name": "Hannah Potter",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Category: Yoga Teachers RYT"
+    ],
+    "practitioner_key": "79dc3e68467dea5e6c668971",
+    "profile_urls": [
+      "https://www.yogaallianceinternationalregistry.com/united-kingdom/london/yoga-teacher-ryt/hannah-potter"
+    ],
+    "qualifications": "Yoga Teachers RYT",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London, United Kingdom Yoga - Find Registry of Yoga Teachers and Schools in London, United Kingdom"
+    ],
+    "source_urls": [
+      "https://www.yogaallianceinternationalregistry.com/united-kingdom/london"
+    ],
+    "specialties": "Yoga teaching",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:04.410015+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, England, W11 3BP, United Kingdom"
+    ],
+    "name": "Anastasia Newman",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Category: Yoga Teachers RYT"
+    ],
+    "practitioner_key": "c54bf77f225ef50759311f90",
+    "profile_urls": [
+      "https://www.yogaallianceinternationalregistry.com/united-kingdom/london/yoga-teacher-ryt/anastasia-newman"
+    ],
+    "qualifications": "Yoga Teachers RYT",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London, United Kingdom Yoga - Find Registry of Yoga Teachers and Schools in London, United Kingdom"
+    ],
+    "source_urls": [
+      "https://www.yogaallianceinternationalregistry.com/united-kingdom/london"
+    ],
+    "specialties": "Yoga teaching",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:20:08.669896+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, SE1 1JX"
+    ],
+    "name": "Pedro Olabarri",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "An experienced Soft Tissue / Sports Massage Therapist who is passionate about sports, nutrition and health."
+    ],
+    "practitioner_key": "69d581262641475de006f5fb",
+    "profile_urls": [
+      "https://www.therapy-directory.org.uk/therapists/pedro-olabarri?_hash=7bf3ee4b-0cb4-42cd-af3e-58349cc950b8"
+    ],
+    "qualifications": "Dip L5 Soft Tissue / Sports & Remedial Massage Therapy",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massage therapist in London - Therapy Directory"
+    ],
+    "source_urls": [
+      "https://www.therapy-directory.org.uk/city/london/service/massage-therapist"
+    ],
+    "specialties": "Soft Tissue Massage, Sports Massage, Remedial Massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:52.903895+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Our Instructors – Lisboa Yoga Loft"
+    ],
+    "name": "Carina Ricardo",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Our instructors are prepared to guide you in this exploration"
+    ],
+    "practitioner_key": "c1e639d93ed33b3021937873",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Our Instructors – Lisboa Yoga Loft"
+    ],
+    "source_urls": [
+      "https://www.lisboayogaloft.com/our-teachers"
+    ],
+    "specialties": "Iyengar Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:29.136002+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Clínica de Saúde Mental do Porto - Equipa - Psicólogos"
+    ],
+    "name": "Dr.ª Maria João Costa",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Centra a sua atividade na Psicologia Clínica e da Saúde, área em que possui especialidade profissional."
+    ],
+    "practitioner_key": "89f67cfec334d6507cbc8f73",
+    "profile_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos/dr-maria-joao-costa"
+    ],
+    "qualifications": "Psicóloga Clínica; especialidade profissional em Psicologia Clínica e da Saúde; OP 014104",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Clínica de Saúde Mental do Porto psychologists"
+    ],
+    "source_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos"
+    ],
+    "specialties": "Psicologia Clínica e da Saúde.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:22.998740+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Registered Mailing Address: 39 Long Acre, London WC2E 9LG"
+    ],
+    "name": "Rosalie",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "She now spends her time teaching Mindfulness-based programmes, supervising trainees, and new and experienced mindfulness teachers, mentoring new and experienced meditators and offering training with The Mindfulness Network CIC and further afield in Europe."
+    ],
+    "practitioner_key": "e33061eb9a96637b9db14a3a",
+    "profile_urls": [],
+    "qualifications": "Master’s degree, with distinction, in Teaching Mindfulness-Based Approaches at Bangor University; certified Focusing practitioner",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Mindfulness Teachers"
+    ],
+    "source_urls": [
+      "https://www.londonmindful.com/about-our-teachers"
+    ],
+    "specialties": "Mindfulness-based programmes; Insight Dialogue meditation; retreats; Interpersonal Mindfulness; mindfulness teacher supervision and training",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:00.524071+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Lisbon, Portugal"
+    ],
+    "name": "Bryony Onions",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Yin Yoga"
+    ],
+    "practitioner_key": "2680dcfca0456083548984f3",
+    "profile_urls": [
+      "https://siila.org/teacher/bryony-onions"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Yin Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:14.296270+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Located close to Casa Vicens in the neighbourhood of Gracia, Hot Yoga Barcelona is a studio that supports and fosters a sense of mindfulness and peace."
+    ],
+    "name": "FREDERIEKE",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "FREDERIEKE Bikram, Vinyasa"
+    ],
+    "practitioner_key": "00cc59f4a4098384f86716c1",
+    "profile_urls": [],
+    "qualifications": "Teacher training at Arhanta Yoga Ashrams; internal education at Hot Yoga Barcelona",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga Barcelona teachers"
+    ],
+    "source_urls": [
+      "https://www.hotyogabarcelona.com/your-team"
+    ],
+    "specialties": "Bikram yoga, Vinyasa yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:38.699109+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Hot yoga flow by Susy, Lisbon, Portugal"
+    ],
+    "name": "Susy",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Today Hot yoga flow by SusyThu, Oct 22 · 18:00 WESTClassLisbon, PortugalHot Yoga"
+    ],
+    "practitioner_key": "4acfd732a73a4001b15600cd",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Siila Lisbon yoga and meditation professionals"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon"
+    ],
+    "specialties": "Hot Yoga flow",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:00.524071+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Lisbon, Portugal"
+    ],
+    "name": "Carlota Franco",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Guided MeditationSelf-Enquiry Meditation+1"
+    ],
+    "practitioner_key": "99434757cd9074e3052d11f3",
+    "profile_urls": [
+      "https://siila.org/teacher/carlota-franco"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Guided Meditation; Self-Enquiry Meditation",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Spanish",
+      "Catalan"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "CHRISTINA",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Cognitive Behavioural Therapy (CBT), Cognitive Neuroscience, Solution Focused Therapy (SFT), Humanistic and Constructivist Psychology, Third Wave Therapy approaches including Mindfulness, Interpersonal Therapy (IPT), and Somatic Experiencing Practices e.g., Tapping."
+    ],
+    "practitioner_key": "5620fa8eabc74b41b6e91082",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/christina-therapy-in-barcelona-collaborating-therapist-in-her-own-words"
+    ],
+    "qualifications": "BA Psychology; MRes Cognition and Behaviour; PGCert Improving Access to Psychological Therapies (IAPT); Certified Psychological Wellbeing Practitioner; 00001029659 BABCP",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "CBT, solution-focused therapy, humanistic and constructivist psychology, mindfulness, interpersonal therapy and somatic experiencing practices.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:04.410015+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, England, W7 3QU, United Kingdom"
+    ],
+    "name": "Dominika Sobesto",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Category: Expert Teacher"
+    ],
+    "practitioner_key": "131ffb11a336b51bf2b9434e",
+    "profile_urls": [
+      "https://www.yogaallianceinternationalregistry.com/united-kingdom/london/expert-teacher/dominika-sobesto"
+    ],
+    "qualifications": "Expert Teacher",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London, United Kingdom Yoga - Find Registry of Yoga Teachers and Schools in London, United Kingdom"
+    ],
+    "source_urls": [
+      "https://www.yogaallianceinternationalregistry.com/united-kingdom/london"
+    ],
+    "specialties": "Yoga teaching",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:18:38.838264+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Therapeutic Massage In London | #1 In London | Incall & Outcall Mobile Massage"
+    ],
+    "name": "Julia",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "[Julia](/julia-massage-therapist-london)"
+    ],
+    "practitioner_key": "8b6b9a0d642b036b2cb26e51",
+    "profile_urls": [
+      "https://therapeuticmassageinlondon.co.uk/julia-massage-therapist-london"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "therapeuticmassageinlondon.co.uk"
+    ],
+    "source_urls": [
+      "https://therapeuticmassageinlondon.co.uk/"
+    ],
+    "specialties": "Massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:38.699109+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Hatha & Pranayama Class by Zoe, Lisbon, Portugal"
+    ],
+    "name": "Zoe",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Today Hatha & Pranayama Class by ZoeThu, Oct 22 · 17:00 WESTClassLisbon, PortugalHatha YogaPranayama"
+    ],
+    "practitioner_key": "14622b6f6e5ab2cca826ea36",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Siila Lisbon yoga and meditation professionals"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon"
+    ],
+    "specialties": "Hatha Yoga; Pranayama",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:20:08.669896+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, Greater London, E14 4AS"
+    ],
+    "name": "Pauline",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "I’m Pauline, a specialist massage therapist offering restorative care for cancer recovery, pregnancy, postpartum, and stress."
+    ],
+    "practitioner_key": "1f8236c838c4afb6976540fe",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massage therapist in London - Therapy Directory"
+    ],
+    "source_urls": [
+      "https://www.therapy-directory.org.uk/city/london/service/massage-therapist"
+    ],
+    "specialties": "Restorative massage for cancer recovery, pregnancy, postpartum and stress",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:37.848121+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "Portuguese",
+      "Spanish"
+    ],
+    "location_evidence": [
+      "Áshrama Porto | Áshrama Santa Maria da Feira - Aulas do Yoga Tradicional da Índia"
+    ],
+    "name": "Margarida Faria (Pushpa)",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "## Professora\n\n### Margarida Faria (Pushpa)"
+    ],
+    "practitioner_key": "58aab626d838ca67d9feefda",
+    "profile_urls": [],
+    "qualifications": "Professora",
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Áshrama Porto yoga teachers"
+    ],
+    "source_urls": [
+      "https://www.yogaporto.com/"
+    ],
+    "specialties": "Yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:13.724472+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "The Shala School of Yoga West Norwood, London"
+    ],
+    "name": "Alexa Dean",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Alexa DeanPREGNANCY · POST NATAL BABY & ME"
+    ],
+    "practitioner_key": "a3d24a06a85cd95243d5c554",
+    "profile_urls": [
+      "https://theshalalondon.com/yoga-teacher/alexa-dean"
+    ],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "The Best Yoga Teachers in London | The Shala"
+    ],
+    "source_urls": [
+      "https://www.theshalalondon.com/yoga-teachers-london"
+    ],
+    "specialties": "Pregnancy yoga; postnatal Baby & Me yoga",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "ana",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Integrative Approach Combining Psychoanalytic Psychotherapy, Psychodynamic Therapy and CBT elements."
+    ],
+    "practitioner_key": "2c8271554b54943cd3cc8c94",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/ana-therapy-in-barcelona-collaborating-therapist-in-her-own-words"
+    ],
+    "qualifications": "Psychologist College of Psychologists of Catalonia (COPC) Numero Colegiado: 32911; BA Psychology; MA Psychoanalytic Psychotherapy",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "Psychoanalytic psychotherapy, psychodynamic therapy and CBT elements.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:19:49.070321+00:00",
+    "city": "Barcelona",
+    "country": "Spain",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "location_evidence": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "name": "MARIA",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Cognitive Behavioural Therapy (CBT), Positive Psychology, Third Wave Cognitive Therapy Approaches, including Mindfulness."
+    ],
+    "practitioner_key": "52249eabd0cb30800293caa5",
+    "profile_urls": [
+      "https://www.therapyinbarcelona.com/maria-therapy-in-barcelona-collaborating-therapist-in-her-own-words"
+    ],
+    "qualifications": "BSc Psychology, MA Child Psychology, MA Clinical and Health Psychology, MA Third Wave Cognitive Therapy",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "meet the team - Therapy In Barcelona"
+    ],
+    "source_urls": [
+      "https://www.therapyinbarcelona.com/team"
+    ],
+    "specialties": "CBT, positive psychology and third-wave cognitive therapy approaches, including mindfulness.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:56.810076+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "location_evidence": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "name": "Ana Dias",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Offering a welcoming, non dogmatic and light hearted teaching approach to vinyasa flow, Ana facilitates a safe space where you can try new things and be playful."
+    ],
+    "practitioner_key": "b57686ec0c395bb0c84142d9",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "source_urls": [
+      "https://hotpodyoga.com/studios/porto"
+    ],
+    "specialties": "Vinyasa flow, breath-led movement and alignment",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:19:16.355380+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "46 Theobalds Road, Holborn, London WC1X 8NW"
+    ],
+    "name": "Deborah Warden",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Deborah Warden · Acupuncture, Pregnancy Massage"
+    ],
+    "practitioner_key": "0e950b281c499e9dced666fd",
+    "profile_urls": [
+      "https://londonnatural.co.uk/practitioners/deborah-warden"
+    ],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "London Natural Health Centre · Holborn Holistic Therapies"
+    ],
+    "source_urls": [
+      "https://londonnatural.co.uk/"
+    ],
+    "specialties": "Acupuncture, Pregnancy Massage",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:18:00.524071+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Lisbon, Portugal"
+    ],
+    "name": "Blandine Duverger",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Hatha YogaYoga Nidra+2"
+    ],
+    "practitioner_key": "eb3fc22536609608d3edc9b5",
+    "profile_urls": [
+      "https://siila.org/teacher/blandine-duverger"
+    ],
+    "qualifications": null,
+    "roles": [
+      "practitioner"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Yoga & Meditation Professionals in Lisbon | Siila"
+    ],
+    "source_urls": [
+      "https://siila.org/city/lisbon/professionals"
+    ],
+    "specialties": "Hatha Yoga; Yoga Nidra",
+    "website": null
+  },
+  {
+    "categories": [
+      "Meditation"
+    ],
+    "checked_at": "2026-10-22T14:18:03.192587+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Meditation House Porto"
+    ],
+    "name": "Nuno",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Full time meditation teacher, Nuno creates and leads meditation classes, workshops, courses and 1:1 sessions, as well as retreats."
+    ],
+    "practitioner_key": "606a64b2f3037e4ad3343f09",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Meditation House Porto | Meditation House Porto"
+    ],
+    "source_urls": [
+      "https://meditationhouseporto.com/oldhome"
+    ],
+    "specialties": "Meditation classes, workshops, courses, 1:1 sessions and retreats",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:29.136002+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Clínica de Saúde Mental do Porto - Equipa - Psicólogos"
+    ],
+    "name": "Dr. Marco Martins",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Centra a sua atividade na avaliação, diagnóstico e psicoterapia de adolescentes e adultos, integrando modelos validados, incluindo Terapia de Exposição com Realidade Virtual."
+    ],
+    "practitioner_key": "c9494d54ac81f9099dbb0417",
+    "profile_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos/dr-marco-martins"
+    ],
+    "qualifications": "Psicólogo Clínico; OP 012819",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Clínica de Saúde Mental do Porto psychologists"
+    ],
+    "source_urls": [
+      "https://www.clinicadesaudementaldoporto.pt/pt/equipa/psicologos"
+    ],
+    "specialties": "Avaliação, diagnóstico e psicoterapia de adolescentes e adultos; Terapia de Exposição com Realidade Virtual.",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage"
+    ],
+    "checked_at": "2026-10-22T14:17:46.546979+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "Avenida 5 de Outubro 16, Lisboa"
+    ],
+    "name": "Luciana Rocha",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "She combines the clinical knowledge of physiotherapy with massage to relieve pain, maintain mobility and promote wellbeing safely. Available on Fridays and Sundays."
+    ],
+    "practitioner_key": "d5ed6f8eafe1a62b29cb4a9a",
+    "profile_urls": [],
+    "qualifications": "Physiotherapist specialising in geriatrics",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massoterapia Spa Lisbon massage team"
+    ],
+    "source_urls": [
+      "https://www.massoterapiaspa.com/massage-team-lisbon"
+    ],
+    "specialties": "Massage combined with physiotherapy for pain relief and mobility, particularly for older adults",
+    "website": null
+  },
+  {
+    "categories": [
+      "Psychotherapy"
+    ],
+    "checked_at": "2026-10-22T14:17:08.205109+00:00",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "English",
+      "Polish"
+    ],
+    "location_evidence": [
+      "Marriage Counseling & Couples Therapy in Lisbon"
+    ],
+    "name": "Piotr Szmyt",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": true,
+    "practice_evidence": [
+      "ISTDP Therapist | Couples Therapist\n\nMy approach to couples combines dynamic therapy and ISTDP."
+    ],
+    "practitioner_key": "8b6276544f7da5bbb08b376c",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Psychotherapy Lisbon team"
+    ],
+    "source_urls": [
+      "https://psychotherapylisbon.com/couples-therapy-lisbon"
+    ],
+    "specialties": "Couples therapy, dynamic therapy, ISTDP",
+    "website": null
+  },
+  {
+    "categories": [
+      "Yoga"
+    ],
+    "checked_at": "2026-10-22T14:17:56.810076+00:00",
+    "city": "Porto",
+    "country": "Portugal",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [
+      "Portuguese",
+      "English"
+    ],
+    "location_evidence": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "name": "Joana Casimiro",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "Moved by the heart and dedicated to bringing the ancient traditions of Yoga into the modern world, Joana's classes create an opportunity to connect deeply with the body through breath and movement, while inviting the mind into a state of serenity and awareness."
+    ],
+    "practitioner_key": "3ab1c833642667bb36ddef10",
+    "profile_urls": [],
+    "qualifications": null,
+    "roles": [
+      "teacher"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Hot Yoga in Porto | Rejuvenate at Hotpod Yoga"
+    ],
+    "source_urls": [
+      "https://hotpodyoga.com/studios/porto"
+    ],
+    "specialties": "Yoga classes using breath and movement",
+    "website": null
+  },
+  {
+    "categories": [
+      "Massage",
+      "Holistic"
+    ],
+    "checked_at": "2026-10-22T14:20:08.669896+00:00",
+    "city": "London",
+    "country": "United Kingdom",
+    "email": null,
+    "identity_basis": "Single source observation",
+    "languages": [],
+    "location_evidence": [
+      "London, SE13"
+    ],
+    "name": "Zsuzsanna Foroszan",
+    "observations_merged": 1,
+    "phone": null,
+    "possible_duplicate": false,
+    "practice_evidence": [
+      "My name is Zsuzsanna Foroszan, a well experienced holistic healer and complimentary therapist, licensed massage therapist, clinical aromatherapist and member of the Complimentary Therapist Association."
+    ],
+    "practitioner_key": "2dcd28358109a6184d561d9e",
+    "profile_urls": [
+      "https://www.therapy-directory.org.uk/therapists/zsuzsanna-foroszan?_hash=7bf3ee4b-0cb4-42cd-af3e-58349cc950b8"
+    ],
+    "qualifications": "licensed massage therapist; clinical aromatherapist; member of the Complimentary Therapist Association",
+    "roles": [
+      "therapist"
+    ],
+    "source_count": 1,
+    "source_names": [
+      "Massage therapist in London - Therapy Directory"
+    ],
+    "source_urls": [
+      "https://www.therapy-directory.org.uk/city/london/service/massage-therapist"
+    ],
+    "specialties": "Massage therapy, clinical aromatherapy, holistic healing",
+    "website": null
   }
 ]

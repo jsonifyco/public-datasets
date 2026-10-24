@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## Wellness practitioners / practitioners
 
-200 total rows · 100 sampled · Output revision 1
+200 total rows · 200 sampled · Output revision 1
 Published: 2026-10-22T14:20:21.555858Z · Producing pipeline version: 1
 
 [CSV sample](outputs/3b0a5677c0b5/practitioners-8bb9895cc443/sample.csv) · [JSON sample](outputs/3b0a5677c0b5/practitioners-8bb9895cc443/sample.json) · [Schema](outputs/3b0a5677c0b5/practitioners-8bb9895cc443/schema.json)

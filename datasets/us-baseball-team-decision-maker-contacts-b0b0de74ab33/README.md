@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## US Baseball Team Contacts / contacts
 
-1,000 total rows · 100 sampled · Output revision 1
+1,000 total rows · 500 sampled · Output revision 1
 Published: 2026-10-22T14:59:13.945962Z · Producing pipeline version: 1
 
 [CSV sample](outputs/665218a260df/contacts-aa5af4084f37/sample.csv) · [JSON sample](outputs/665218a260df/contacts-aa5af4084f37/sample.json) · [Schema](outputs/665218a260df/contacts-aa5af4084f37/schema.json)

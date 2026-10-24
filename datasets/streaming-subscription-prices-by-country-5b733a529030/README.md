@@ -7,8 +7,8 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 11
-- Last published: 2026-10-23T19:07:16.411187Z
+- Active pipeline version: 17
+- Last published: 2026-10-24T10:42:41.348744Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-6,862 total rows · 100 sampled · Output revision 10
-Published: 2026-10-23T19:07:16.411187Z · Producing pipeline version: 11
+6,990 total rows · 500 sampled · Output revision 15
+Published: 2026-10-24T10:42:41.348744Z · Producing pipeline version: 17
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
 | ad\_evidence | ad\_tier | billing\_period | country | country\_evidence | country\_name | currency | features |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | unknown | None | JM | None | Jamaica | None | None |
-| None | unknown | None | VA | None | Vatican City | None | None |
-| None | unknown | None | PG | None | Papua New Guinea | None | None |
-| None | unknown | None | ES | None | Spain | None | None |
-| No ads | ad\_free | month | BS | Requested country route BS; official page locale en\. Source pricing market is not independently confirmed\. | Bahamas | BSD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing; 7\-day free trial for eligible subscribers, then automatically renew |
+| None | unknown | month | US | Official price observed; source did not independently establish the requested offer market\. | United States | USD | 7\-day free trial; $0\.99/month after trial |
+| None | unknown | month | US | recordTerritory":"US" | United States | USD | 7\-day free trial; $1\.99/month after trial |
+| No ads | ad\_free | month | CM | Requested country route CM; official page locale en\. Source pricing market is not independently confirmed\. | Cameroon | USD | No ads; complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
+| No ads | ad\_free | month | LY | Requested country route LY; official page locale en\. Source pricing market is not independently confirmed\. | Libya | USD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
+| No ads | ad\_free | month | SN | Requested country route SN; official page locale en\. Source pricing market is not independently confirmed\. | Senegal | USD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -75,6 +75,7 @@ flowchart LR
   n1 --> n2
   n1 --> n2
   n0 --> n2
+  n0 --> n3
   n0 --> n4
 ```
 
@@ -98,6 +99,12 @@ flowchart LR
 - 2026-10-22T17:41:14.745186Z: v9: Fix handling of long official\-site search results so they do not stop the streaming price refresh\.
 - 2026-10-22T17:49:43.489269Z: v10: Fix official\-site search parsing and strengthen rejection of coupon and review sites\.
 - 2026-10-23T12:18:56.452520Z: v11: Corrects Netflix country verification, adds Paramount\+ plan and ad tiers, fills supported ad labels, prioritizes standalone Prime Video offers, and excludes Qatar’s iCloud\+ bundle from Apple TV prices\.
+- 2026-10-24T09:42:55.977431Z: v12: Recover missing Netflix country prices and ad tiers, restore Mexico’s Paramount\+ tiers, and distinguish the UK standalone Prime Video price corroborated by public guides\. Confirmed exclusions replace old prices; inconclusive targeted checks retain prior observations with their dates\.
+- 2026-10-24T10:18:33.282117Z: v13: Corrects the Darkroom service match and replaces broadband\-dependent Claro pricing with direct app plans\. Prevents prices without source links or known disqualified offers from being carried forward as verified\.
+- 2026-10-24T10:22:37.166628Z: v14: Restores direct Claro app pricing by reading the displayed plan cards when the text\-only page omits them\.
+- 2026-10-24T10:27:48.243929Z: v15: Adds named Paramount\+ Standard and Premium tiers for Latin American markets using the published country table, including advertising evidence\.
+- 2026-10-24T10:38:33.105310Z: v16: Recover Disney\+ monthly plans in Finland from local official information and Belgium from corroborated public reports, with explicit ad tiers\.
+- 2026-10-24T10:41:39.191427Z: v17: Consolidate duplicated plan observations whose only ad\-label difference is an unknown label, preserving customer evidence and distinct offers\.
 
 ## Recorded repairs
 

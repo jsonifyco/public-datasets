@@ -8,7 +8,15 @@
     "type": "text"
   },
   {
+    "name": "billing_currency",
+    "type": "text"
+  },
+  {
     "name": "billing_period",
+    "type": "text"
+  },
+  {
+    "name": "bundle_requirement",
     "type": "text"
   },
   {
@@ -32,7 +40,15 @@
     "type": "text"
   },
   {
+    "name": "is_bundle",
+    "type": "boolean"
+  },
+  {
     "name": "kind",
+    "type": "text"
+  },
+  {
+    "name": "local_currency",
     "type": "text"
   },
   {
@@ -72,11 +88,19 @@
     "type": "text"
   },
   {
+    "name": "subscription_scope",
+    "type": "text"
+  },
+  {
     "name": "type",
     "type": "text"
   },
   {
     "name": "user_evidence",
     "type": "jsonb"
+  },
+  {
+    "name": "user_evidence_status",
+    "type": "text"
   }
 ]

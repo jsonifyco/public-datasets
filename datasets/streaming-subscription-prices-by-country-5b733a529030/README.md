@@ -7,8 +7,8 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 26
-- Last published: 2026-10-24T12:32:05.963104Z
+- Active pipeline version: 31
+- Last published: 2026-10-25T11:03:56.604964Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-6,987 total rows · 500 sampled · Output revision 28
-Published: 2026-10-24T12:32:05.963104Z · Producing pipeline version: 26
+6,950 total rows · 500 sampled · Output revision 34
+Published: 2026-10-25T11:03:56.604964Z · Producing pipeline version: 31
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
-| ad\_evidence | ad\_tier | billing\_period | country | country\_evidence | country\_name | currency | features |
+| ad\_evidence | ad\_tier | billing\_currency | billing\_period | bundle\_requirement | country | country\_evidence | country\_name |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | unknown | month | US | Official price observed; source did not independently establish the requested offer market\. | United States | USD | 7\-day free trial; $0\.99/month after trial |
-| No ads | ad\_free | month | SN | Requested country route SN; official page locale en\. Source pricing market is not independently confirmed\. | Senegal | USD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
-| No ads | ad\_free | month | LY | Requested country route LY; official page locale en\. Source pricing market is not independently confirmed\. | Libya | USD | Complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
-| None | unknown | month | US | recordTerritory":"US" | United States | USD | 7\-day free trial; $1\.99/month after trial |
-| No ads | ad\_free | month | CM | Requested country route CM; official page locale en\. Source pricing market is not independently confirmed\. | Cameroon | USD | No ads; complete access to Crunchyroll's library; new episodes shortly after airing in Japan; stream on 1 device at a time; offline viewing\. |
+| None | unknown | USD | month | None | US | Official price observed; source did not independently establish the requested offer market\. | United States |
+| Official product benefit: no\_ads | ad\_free | USD | month | None | CM | Crunchyroll source session country: CM; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Cameroon |
+| Official product benefit: no\_ads | ad\_free | USD | month | None | CI | Crunchyroll source session country: CI; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Côte d’Ivoire |
+| None | unknown | USD | month | None | US | recordTerritory":"US" | United States |
+| Official product benefit: no\_ads | ad\_free | USD | month | None | LY | Crunchyroll source session country: LY; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Libya |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -39,13 +39,17 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | --- | --- |
 | ad\_evidence | text |
 | ad\_tier | text |
+| billing\_currency | text |
 | billing\_period | text |
+| bundle\_requirement | text |
 | country | text |
 | country\_evidence | text |
 | country\_name | text |
 | currency | text |
 | features | text |
+| is\_bundle | boolean |
 | kind | text |
+| local\_currency | text |
 | monthly\_price | double precision |
 | notes | text |
 | observed\_at | text |
@@ -55,8 +59,10 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | sold\_via | text |
 | source\_url | text |
 | status | text |
+| subscription\_scope | text |
 | type | text |
 | user\_evidence | jsonb |
+| user\_evidence\_status | text |
 
 ## How the pipeline works
 
@@ -76,6 +82,7 @@ flowchart LR
   n1 --> n2
   n0 --> n2
   n0 --> n3
+  n1 --> n4
   n0 --> n4
 ```
 
@@ -114,6 +121,11 @@ flowchart LR
 - 2026-10-24T12:10:50.202190Z: v24: Recover all eight Danish Viaplay monthly plans with explicit advertising variants and official policy evidence\. Keep live and promotional advertising caveats\.
 - 2026-10-24T12:25:09.129124Z: v25: Replaced Bahrain OSN\+ operator prices with verified direct monthly subscriptions and explicit ad\-free labels\. Flagged conflicting official YouTube TV Sports Plan rates instead of choosing an unsupported price\.
 - 2026-10-24T12:31:40.858462Z: v26: Removed contradictory unresolved coverage placeholders where verified plans were retained\. Unsuccessful refresh notes and original checking evidence remain on the retained plans\.
+- 2026-10-25T07:47:35.651569Z: v27: Adds country\-confirmed Crunchyroll and Apple pricing checks, separates Prime memberships from standalone video, and adds consistent service names, evidence, billing currencies and bundle flags\. Unconfirmed advertising classifications remain excluded from ad\-free selection\.
+- 2026-10-25T10:42:35.354158Z: v28: Combines duplicate unresolved coverage for the same target while preserving checking evidence\. Supports ITVX UK attribution with its explicit public availability policy\.
+- 2026-10-25T10:49:45.962003Z: v29: Rejects unsupported ad\-free labels based only on a plan name or Apple catalogue description\. Keeps Max live\-channel exceptions separate from on\-demand advertising\.
+- 2026-10-25T10:56:24.213711Z: v30: Adds Finland’s missing SkyShowtime advertising tier by checking both public pricing tabs and their rolling monthly terms\.
+- 2026-10-25T11:03:23.692389Z: v31: Resolves three additional Apple TV country prices and identifies Pakistan’s required iCloud\+ bundle using explicit public country pages\.
 
 ## Recorded repairs
 

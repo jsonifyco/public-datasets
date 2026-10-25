@@ -30,6 +30,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [AI lab research feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |
 | [US Baseball Team Decision\-Maker Contacts: School, Youth and Minor\-League Teams](datasets/us-baseball-team-decision-maker-contacts-b0b0de74ab33/) | 1,000 | On demand | 2026-10-22T14:59:13.945962Z |
 | [Public Instagram Posts from paul\_hunkin](datasets/instagram-posts-be49f86d2a46/) | 12 | On demand | 2026-10-17T18:08:01.916600Z |
+| [Short\-Drama Android Charts, Catalogue and Coin Packs](datasets/short-drama-android-charts-and-catalogue-c3bee033d5c1/) | 75,060 | weekly | 2026-10-25T21:33:24.357322Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |
 | [Calven competitor watch](datasets/calven-competitor-watch-dfd2d8d7f7fc/) | 27 | On demand | 2026-10-14T14:39:43.933603Z |
 | [Agent framework releases](datasets/agent-framework-releases-e3721e6bea8a/) | 30 | On demand | 2026-10-14T12:00:31.586928Z |

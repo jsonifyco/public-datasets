@@ -1,0 +1,46 @@
+[
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "rail",
+    "type": "text"
+  },
+  {
+    "name": "rail_raw",
+    "type": "text"
+  },
+  {
+    "name": "rail_source_id",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "text"
+  },
+  {
+    "name": "row_key",
+    "type": "text"
+  },
+  {
+    "name": "run_date",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "title_id",
+    "type": "text"
+  },
+  {
+    "name": "view_basis",
+    "type": "text"
+  }
+]

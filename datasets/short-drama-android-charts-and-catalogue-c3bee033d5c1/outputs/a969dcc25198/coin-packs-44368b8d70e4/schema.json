@@ -1,0 +1,54 @@
+[
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "bonus_coins",
+    "type": "integer"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "pack_coins",
+    "type": "integer"
+  },
+  {
+    "name": "pack_id",
+    "type": "text"
+  },
+  {
+    "name": "pack_type",
+    "type": "text"
+  },
+  {
+    "name": "price_local",
+    "type": "text"
+  },
+  {
+    "name": "price_usd",
+    "type": "text"
+  },
+  {
+    "name": "price_verification",
+    "type": "text"
+  },
+  {
+    "name": "row_key",
+    "type": "text"
+  },
+  {
+    "name": "run_date",
+    "type": "text"
+  },
+  {
+    "name": "view_basis",
+    "type": "text"
+  }
+]

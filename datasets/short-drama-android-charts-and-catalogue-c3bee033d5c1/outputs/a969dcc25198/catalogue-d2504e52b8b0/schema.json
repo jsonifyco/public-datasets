@@ -1,0 +1,82 @@
+[
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "coin_price_per_episode",
+    "type": "text"
+  },
+  {
+    "name": "cost_to_finish_coins",
+    "type": "text"
+  },
+  {
+    "name": "cost_to_finish_usd",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "cover_url",
+    "type": "text"
+  },
+  {
+    "name": "episode_count",
+    "type": "text"
+  },
+  {
+    "name": "first_seen",
+    "type": "text"
+  },
+  {
+    "name": "free_episodes",
+    "type": "text"
+  },
+  {
+    "name": "genres",
+    "type": "text"
+  },
+  {
+    "name": "last_seen",
+    "type": "text"
+  },
+  {
+    "name": "release_date",
+    "type": "text"
+  },
+  {
+    "name": "row_key",
+    "type": "text"
+  },
+  {
+    "name": "run_date",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "title_id",
+    "type": "text"
+  },
+  {
+    "name": "title_original",
+    "type": "text"
+  },
+  {
+    "name": "total_views_display",
+    "type": "text"
+  },
+  {
+    "name": "unlock_model",
+    "type": "text"
+  },
+  {
+    "name": "view_basis",
+    "type": "text"
+  }
+]

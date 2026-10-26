@@ -8,22 +8,22 @@
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-10-21T09:06:58.660055Z
+- Last published: 2026-10-26T09:07:39.299769Z
 
 ## Quiet Signals / signals
 
-16 total rows · 16 sampled · Output revision 9
-Published: 2026-10-21T09:06:58.660055Z · Producing pipeline version: 1
+18 total rows · 18 sampled · Output revision 10
+Published: 2026-10-26T09:07:39.299769Z · Producing pipeline version: 1
 
 [CSV sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/50c345b0be12/signals-c1d2c1df9eab/schema.json)
 
 | article\_url | comments | discussion\_url | evidence\_scope | hn\_rank | matched\_term | observed\_at | points |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://github\.com/xamrayev/nexus\-cli](<https://github.com/xamrayev/nexus-cli>) | 2 | [https://news\.ycombinator\.com/item?id=50176129](<https://news.ycombinator.com/item?id=50176129>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 40 | Claude | 2026\-10\-21T09:03:37\.515121\+00:00 | 12 |
-| [https://jevcards\.com](<https://jevcards.com>) | 50 | [https://news\.ycombinator\.com/item?id=50167617](<https://news.ycombinator.com/item?id=50167617>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 90 | Claude | 2026\-10\-21T09:06:29\.718979\+00:00 | 60 |
-| [https://www\.bolkunov\.com/p/on\-ai\-writing](<https://www.bolkunov.com/p/on-ai-writing>) | 57 | [https://news\.ycombinator\.com/item?id=50171771](<https://news.ycombinator.com/item?id=50171771>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 56 | AI | 2026\-10\-21T09:04:28\.633075\+00:00 | 85 |
-| [https://redact\.dev/blog/whatsapp\-help\-pages\-hidden\-ai\-instructions](<https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions>) | 208 | [https://news\.ycombinator\.com/item?id=50159341](<https://news.ycombinator.com/item?id=50159341>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 68 | LLM | 2026\-10\-21T09:05:08\.290828\+00:00 | 727 |
-| [https://www\.anthropic\.com/research/claude\-scorpion\-toxin\-binder\-design](<https://www.anthropic.com/research/claude-scorpion-toxin-binder-design>) | 68 | [https://news\.ycombinator\.com/item?id=50170021](<https://news.ycombinator.com/item?id=50170021>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 53 | Claude | 2026\-10\-21T09:04:30\.424673\+00:00 | 106 |
+| [https://github\.com/SRN0129/Agenttrust](<https://github.com/SRN0129/Agenttrust>) | 1 | [https://news\.ycombinator\.com/item?id=50235909](<https://news.ycombinator.com/item?id=50235909>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 70 | agents | 2026\-10\-26T09:05:53\.076433\+00:00 | 10 |
+| [https://vithushansylvester\.com/writing/the\-real\-impact\-of\-ai\-on\-tech\-jobs](<https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs>) | 19 | [https://news\.ycombinator\.com/item?id=50234699](<https://news.ycombinator.com/item?id=50234699>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 32 | AI | 2026\-10\-26T09:03:29\.018844\+00:00 | 47 |
+| [https://www\.dailycal\.org/news/campus/academics/ai\-use\-leads\-uc\-berkeley\-math\-professor\-to\-see\-no\-point\-in\-grading\-homework/article\_bdf1eae2\-c08b\-491f\-b9f1\-81a7cea177de\.html](<https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html>) | 319 | [https://news\.ycombinator\.com/item?id=50233304](<https://news.ycombinator.com/item?id=50233304>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 50 | AI | 2026\-10\-26T09:04:42\.265924\+00:00 | 217 |
+| [https://www\.wiz\.io/blog/gheist\-attempted\-scaled\-abuse\-of\-stolen\-github\-tokens\-stumbles](<https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles>) | 0 | [https://news\.ycombinator\.com/item?id=50235010](<https://news.ycombinator.com/item?id=50235010>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 82 | workflows | 2026\-10\-26T09:06:31\.753507\+00:00 | 47 |
+| [https://www\.theatlantic\.com/ideas/2026/10/ai\-math\-human\-future/689133/](<https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/>) | 82 | [https://news\.ycombinator\.com/item?id=50233347](<https://news.ycombinator.com/item?id=50233347>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 47 | AI | 2026\-10\-26T09:04:25\.696605\+00:00 | 58 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

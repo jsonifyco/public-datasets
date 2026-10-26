@@ -1,0 +1,30 @@
+[
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "jsonb"
+  },
+  {
+    "name": "run_date",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "rail_raw",
+    "type": "text"
+  },
+  {
+    "name": "view_basis",
+    "type": "text"
+  }
+]

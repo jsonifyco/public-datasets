@@ -1,0 +1,42 @@
+[
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "run_date",
+    "type": "text"
+  },
+  {
+    "name": "bonus_coins",
+    "type": "integer"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "pack_coins",
+    "type": "integer"
+  },
+  {
+    "name": "pack_type",
+    "type": "text"
+  },
+  {
+    "name": "price_local",
+    "type": "double precision"
+  },
+  {
+    "name": "price_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

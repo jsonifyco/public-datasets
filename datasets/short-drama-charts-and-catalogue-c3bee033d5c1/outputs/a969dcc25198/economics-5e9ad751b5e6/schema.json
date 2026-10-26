@@ -4,23 +4,19 @@
     "type": "text"
   },
   {
-    "name": "country",
+    "name": "coin_price_per_episode",
+    "type": "integer"
+  },
+  {
+    "name": "cost_to_finish_coins",
+    "type": "integer"
+  },
+  {
+    "name": "economics_status",
     "type": "text"
   },
   {
-    "name": "rail",
-    "type": "text"
-  },
-  {
-    "name": "rail_raw",
-    "type": "text"
-  },
-  {
-    "name": "rail_source_id",
-    "type": "text"
-  },
-  {
-    "name": "rank",
+    "name": "observed_locales",
     "type": "text"
   },
   {

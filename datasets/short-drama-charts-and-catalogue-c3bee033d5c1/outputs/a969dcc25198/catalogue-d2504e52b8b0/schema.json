@@ -4,47 +4,47 @@
     "type": "text"
   },
   {
-    "name": "bonus_coins",
-    "type": "integer"
+    "name": "cover_url",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
   },
   {
     "name": "country",
     "type": "text"
   },
   {
-    "name": "currency",
-    "type": "text"
-  },
-  {
-    "name": "pack_coins",
-    "type": "integer"
-  },
-  {
-    "name": "pack_id",
-    "type": "text"
-  },
-  {
-    "name": "pack_type",
-    "type": "text"
-  },
-  {
-    "name": "price_local",
-    "type": "text"
-  },
-  {
-    "name": "price_usd",
-    "type": "text"
-  },
-  {
-    "name": "price_verification",
-    "type": "text"
-  },
-  {
-    "name": "row_key",
-    "type": "text"
-  },
-  {
     "name": "run_date",
+    "type": "text"
+  },
+  {
+    "name": "episode_count",
+    "type": "text"
+  },
+  {
+    "name": "first_seen",
+    "type": "text"
+  },
+  {
+    "name": "free_episodes",
+    "type": "text"
+  },
+  {
+    "name": "genres",
+    "type": "text"
+  },
+  {
+    "name": "last_seen",
+    "type": "text"
+  },
+  {
+    "name": "release_date",
+    "type": "text"
+  },
+  {
+    "name": "unlock_model",
     "type": "text"
   },
   {

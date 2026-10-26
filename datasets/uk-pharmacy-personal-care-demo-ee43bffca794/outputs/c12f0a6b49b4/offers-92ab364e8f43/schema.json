@@ -1,0 +1,50 @@
+[
+  {
+    "name": "availability",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "price_basis",
+    "type": "text"
+  },
+  {
+    "name": "price_gbp",
+    "type": "double precision"
+  },
+  {
+    "name": "price_per_100ml_gbp",
+    "type": "double precision"
+  },
+  {
+    "name": "product",
+    "type": "text"
+  },
+  {
+    "name": "retailer",
+    "type": "text"
+  },
+  {
+    "name": "retailer_notes",
+    "type": "text"
+  },
+  {
+    "name": "size_ml",
+    "type": "integer"
+  },
+  {
+    "name": "source_product_name",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

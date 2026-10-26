@@ -1,8 +1,23 @@
 [
   {
-    "checked_at": "2026-10-25T08:00:36.542487+00:00",
+    "checked_at": "2026-10-26T08:00:43.447111+00:00",
+    "published_at": "2026-10-26T06:22:00Z",
+    "release_age_days": 0,
+    "release_id": "423914693",
+    "release_name": "n8n@2.44.7",
+    "release_notes": "## [2.44.7](https://github.com/n8n-io/n8n/compare/n8n@2.44.6...n8n@2.44.7) (2026-10-26)\n\n\n### Bug Fix…",
+    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.7",
+    "repository": "n8n-io/n8n",
+    "repository_url": "https://github.com/n8n-io/n8n",
+    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
+    "tool": "n8n",
+    "use_case": "Workflow automation and integrations",
+    "version": "n8n@2.44.7"
+  },
+  {
+    "checked_at": "2026-10-26T08:00:43.349456+00:00",
     "published_at": "2026-10-19T08:09:46Z",
-    "release_age_days": 5,
+    "release_age_days": 6,
     "release_id": "417045683",
     "release_name": "v3.50.0",
     "release_notes": "## What's Changed\n* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",
@@ -15,9 +30,9 @@
     "version": "v3.50.0"
   },
   {
-    "checked_at": "2026-10-25T08:00:36.422593+00:00",
+    "checked_at": "2026-10-26T08:00:43.377436+00:00",
     "published_at": "2026-10-21T02:29:46Z",
-    "release_age_days": 4,
+    "release_age_days": 5,
     "release_id": "410599153",
     "release_name": "Release v2.5.1 🌈",
     "release_notes": "## 🗑️ Feature Removal Reminder\r\n\r\n**Appsmith AI reached end of life on September 30, 2026.**\r\n\r\nYou c…",
@@ -28,20 +43,5 @@
     "tool": "Appsmith",
     "use_case": "Internal tools, admin panels and database frontends",
     "version": "v2.5.1"
-  },
-  {
-    "checked_at": "2026-10-25T08:00:36.475063+00:00",
-    "published_at": "2026-10-22T09:21:49Z",
-    "release_age_days": 2,
-    "release_id": "420522646",
-    "release_name": "n8n@2.44.6",
-    "release_notes": "## [2.44.6](https://github.com/n8n-io/n8n/compare/n8n@2.44.5...n8n@2.44.6) (2026-10-22)\n\n\n### Bug Fix…",
-    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.6",
-    "repository": "n8n-io/n8n",
-    "repository_url": "https://github.com/n8n-io/n8n",
-    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
-    "tool": "n8n",
-    "use_case": "Workflow automation and integrations",
-    "version": "n8n@2.44.6"
   }
 ]

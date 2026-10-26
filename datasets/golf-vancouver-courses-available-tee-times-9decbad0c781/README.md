@@ -7,8 +7,8 @@ Daily snapshots of public 18\-hole tee\-time availability across Golf Vancouver 
 [Get the full dataset for free](https://www.jsonify.com/datasets/golf-vancouver-courses-available-tee-times-9decbad0c781?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 7
-- Last published: 2026-10-21T14:34:45.709786Z
+- Active pipeline version: 8
+- Last published: 2026-10-26T15:14:22.629571Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Golf Vancouver Courses and Tee Times / availability
 
-2,508 total rows · 500 sampled · Output revision 14
-Published: 2026-10-21T14:34:45.709786Z · Producing pipeline version: 7
+3,259 total rows · 500 sampled · Output revision 15
+Published: 2026-10-26T15:14:22.629571Z · Producing pipeline version: 8
 
 [CSV sample](outputs/b58ceed3e9d3/availability-f95dac581e9b/sample.csv) · [JSON sample](outputs/b58ceed3e9d3/availability-f95dac581e9b/sample.json) · [Schema](outputs/b58ceed3e9d3/availability-f95dac581e9b/schema.json)
 
 | availability | checked\_at | course\_holes | course\_id | course\_name | currency | displayed\_price | holes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| available | 2026\-10\-21T14:05:20\.128873\+00:00 | 18 | \-911948331026585 | Royalwood Golf Course | CAD | 52 | 18 |
-| available | 2026\-10\-21T14:28:12\.497808\+00:00 | 18 | \-3002716816583376 | Newlands Golf &amp; Country Club | CAD | 33\.33 | 18 |
-| available | 2026\-10\-21T14:34:41\.476736\+00:00 | 18 | \-2122859699495798 | Belmont Golf Course | CAD | 65 | 18 |
-| available | 2026\-10\-21T14:15:29\.803564\+00:00 | 18 | \-1349120261732586 | Northview \- RIDGE COURSE | CAD | 150 | 18 |
-| available | 2026\-10\-21T14:20:35\.699140\+00:00 | 18 | \-3002716816583376 | Newlands Golf &amp; Country Club | CAD | 47\.62 | 18 |
+| available | 2026\-10\-26T15:00:56\.205199\+00:00 | 18 | \-1349120261732586 | Northview \- RIDGE COURSE | CAD | 125 | 18 |
+| available | 2026\-10\-26T14:34:05\.159017\+00:00 | 18 | \-1943332020739902 | Chilliwack Golf Club | CAD | 69 | 18 |
+| available | 2026\-10\-26T14:40:32\.196185\+00:00 | 18 | \-4268008489813251 | Swaneset Links Course | CAD | 35 | 18 |
+| available | 2026\-10\-26T14:51:51\.223996\+00:00 | 18 | \-3002716816583376 | Newlands Golf &amp; Country Club | CAD | 33\.33 | 18 |
+| available | 2026\-10\-26T14:27:33\.984033\+00:00 | 18 | \-3317204933973836 | Mylora Executive Golf Club | CAD | 37\.5 | 18 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -83,10 +83,14 @@ flowchart LR
 - 2026-10-13T15:38:48.961784Z: v5: Read actual visible page text for readiness classification and post\-wait validation, excluding hidden script text\.
 - 2026-10-13T16:05:58.791499Z: v6: Verify rendered availability against the source’s successful availability response before accepting offers or an empty day\. Failed or contradictory responses stay unknown rather than becoming false no\-offer results\.
 - 2026-10-13T21:32:03.844411Z: v7: Added Newlands, Chilliwack, Mylora, Royalwood, Northview and West Coast Golf Group with the existing columns, daily schedule and seven\-day default\. Burnaby, Okanagan and Mission remain pending; unavailable new\-source observations are marked unknown without stopping successfully checked sources\.
+- 2026-10-26T14:21:01.373655Z: v8: Adds an alternate browser connection for Golf Vancouver when its security page blocks the usual access\. Course discovery, booking\-window validation and tee\-time verification remain in place\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-10-26T14:01:32.751966Z: no change
+- 2026-10-26T14:02:55.520694Z: no change
+- 2026-10-26T14:20:07.197742Z: no change
+- 2026-10-26T14:21:14.577570Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/golf-vancouver-courses-available-tee-times-9decbad0c781?action=get) — CSV or JSON · Email required
 

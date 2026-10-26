@@ -8,12 +8,24 @@
     "type": "integer"
   },
   {
+    "name": "conflict",
+    "type": "boolean"
+  },
+  {
     "name": "cost_to_finish_coins",
     "type": "integer"
   },
   {
     "name": "economics_status",
     "type": "text"
+  },
+  {
+    "name": "free_episodes",
+    "type": "integer"
+  },
+  {
+    "name": "observations",
+    "type": "jsonb"
   },
   {
     "name": "observed_locales",

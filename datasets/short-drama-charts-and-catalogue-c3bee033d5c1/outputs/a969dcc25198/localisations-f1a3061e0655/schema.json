@@ -1,0 +1,42 @@
+[
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "genres",
+    "type": "jsonb"
+  },
+  {
+    "name": "row_key",
+    "type": "text"
+  },
+  {
+    "name": "run_date",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "title_id",
+    "type": "text"
+  },
+  {
+    "name": "title_original",
+    "type": "text"
+  },
+  {
+    "name": "total_views_display",
+    "type": "text"
+  },
+  {
+    "name": "view_basis",
+    "type": "text"
+  }
+]

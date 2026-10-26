@@ -9,7 +9,7 @@
   },
   {
     "name": "rank",
-    "type": "jsonb"
+    "type": "integer"
   },
   {
     "name": "run_date",

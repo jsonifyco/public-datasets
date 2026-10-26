@@ -7,7 +7,7 @@ Weekly logged\-out Android charts, catalogue and coin\-pack data for three short
 [Get the full dataset for free](https://www.jsonify.com/datasets/short-drama-android-charts-and-catalogue-c3bee033d5c1?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 11
+- Active pipeline version: 12
 - Last published: 2026-10-25T21:33:24.357322Z
 
 ## The brief
@@ -244,10 +244,11 @@ flowchart LR
 - 2026-10-25T17:56:22.649973Z: v9: Confirmed text novels remain in charts but are excluded from the episode catalogue, with exclusions counted in run notes\.
 - 2026-10-25T18:11:50.551448Z: v10: Confirms novels from their own Android metadata so titles no longer visible on the home screen can still be kept in charts only\.
 - 2026-10-25T21:23:07.458201Z: v11: Retains ReelShort titles explicitly announced as coming soon, leaving unavailable episode access and costs blank\.
+- 2026-10-26T09:50:00.234530Z: v12: Individual title failures now keep readable details and leave missing cells blank, with gaps recorded for later refreshes\. Fixed historical chart comparisons when saved ranks are read as text\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-10-26T09:37:36.463024Z: temporary blocker
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/short-drama-android-charts-and-catalogue-c3bee033d5c1?action=get) — CSV or JSON · Email required
 

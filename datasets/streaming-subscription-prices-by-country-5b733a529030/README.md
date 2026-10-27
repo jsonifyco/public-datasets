@@ -8,7 +8,7 @@ Explore source\-supported monthly plan prices for eleven streaming services acro
 
 - Refresh: weekly
 - Active pipeline version: 31
-- Last published: 2026-10-25T11:03:56.604964Z
+- Last published: 2026-10-27T08:04:37.293971Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-6,950 total rows · 500 sampled · Output revision 34
-Published: 2026-10-25T11:03:56.604964Z · Producing pipeline version: 31
+6,934 total rows · 500 sampled · Output revision 35
+Published: 2026-10-27T08:04:37.293971Z · Producing pipeline version: 31
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
 | ad\_evidence | ad\_tier | billing\_currency | billing\_period | bundle\_requirement | country | country\_evidence | country\_name |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | unknown | USD | month | None | US | Official price observed; source did not independently establish the requested offer market\. | United States |
-| Official product benefit: no\_ads | ad\_free | USD | month | None | CM | Crunchyroll source session country: CM; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Cameroon |
 | Official product benefit: no\_ads | ad\_free | USD | month | None | CI | Crunchyroll source session country: CI; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Côte d’Ivoire |
-| None | unknown | USD | month | None | US | recordTerritory":"US" | United States |
+| Official product benefit: no\_ads | ad\_free | USD | month | None | CM | Crunchyroll source session country: CM; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Cameroon |
+| Official product benefit: no\_ads | ad\_free | USD | month | None | SN | Crunchyroll source session country: SN; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Senegal |
 | Official product benefit: no\_ads | ad\_free | USD | month | None | LY | Crunchyroll source session country: LY; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Libya |
+| Official product benefit: no\_ads | ad\_free | USD | month | None | SN | Crunchyroll source session country: SN; monthly product cr\_fan\_pack\.1\_month; benefit package fan\_pack\_non\_english\_intl | Senegal |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

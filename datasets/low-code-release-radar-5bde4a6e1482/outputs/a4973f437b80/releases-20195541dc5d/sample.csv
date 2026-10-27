@@ -1,12 +1,12 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-10-26T08:00:43.447111+00:00,2026-10-26T06:22:00Z,0,423914693,n8n@2.44.7,"## [2.44.7](https://github.com/n8n-io/n8n/compare/n8n@2.44.6...n8n@2.44.7) (2026-10-26)
+2026-10-27T08:00:51.231638+00:00,2026-10-26T06:22:00Z,1,423914693,n8n@2.44.7,"## [2.44.7](https://github.com/n8n-io/n8n/compare/n8n@2.44.6...n8n@2.44.7) (2026-10-26)
 
 
 ### Bug Fix…",https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.44.7
-2026-10-26T08:00:43.349456+00:00,2026-10-19T08:09:46Z,6,417045683,v3.50.0,"## What's Changed
-* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",https://github.com/Budibase/budibase/releases/tag/v3.50.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v3.50.0
-2026-10-26T08:00:43.377436+00:00,2026-10-21T02:29:46Z,5,410599153,Release v2.5.1 🌈,"## 🗑️ Feature Removal Reminder
+2026-10-27T08:00:51.140939+00:00,2026-10-21T02:29:46Z,6,410599153,Release v2.5.1 🌈,"## 🗑️ Feature Removal Reminder
 
 **Appsmith AI reached end of life on September 30, 2026.**
 
 You c…",https://github.com/appsmithorg/appsmith/releases/tag/v2.5.1,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.5.1
+2026-10-27T08:00:51.178875+00:00,2026-10-19T08:09:46Z,7,417045683,v3.50.0,"## What's Changed
+* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",https://github.com/Budibase/budibase/releases/tag/v3.50.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v3.50.0

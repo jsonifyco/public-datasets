@@ -1,8 +1,23 @@
 [
   {
-    "checked_at": "2026-10-28T08:00:57.350001+00:00",
+    "checked_at": "2026-10-29T08:00:58.431849+00:00",
+    "published_at": "2026-10-28T18:10:23Z",
+    "release_age_days": 0,
+    "release_id": "419376922",
+    "release_name": "Release v2.6.0 🌈",
+    "release_notes": "## ⚠️ For EE users, before upgrading to v2.6.0 finish existing Temporal workflow runs on v2.5.1\r\n\r\nAp…",
+    "release_url": "https://github.com/appsmithorg/appsmith/releases/tag/v2.6.0",
+    "repository": "appsmithorg/appsmith",
+    "repository_url": "https://github.com/appsmithorg/appsmith",
+    "source_url": "https://api.github.com/repos/appsmithorg/appsmith/releases/latest",
+    "tool": "Appsmith",
+    "use_case": "Internal tools, admin panels and database frontends",
+    "version": "v2.6.0"
+  },
+  {
+    "checked_at": "2026-10-29T08:00:58.367329+00:00",
     "published_at": "2026-10-19T08:09:46Z",
-    "release_age_days": 8,
+    "release_age_days": 9,
     "release_id": "417045683",
     "release_name": "v3.50.0",
     "release_notes": "## What's Changed\n* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",
@@ -15,9 +30,9 @@
     "version": "v3.50.0"
   },
   {
-    "checked_at": "2026-10-28T08:00:57.383501+00:00",
+    "checked_at": "2026-10-29T08:00:58.333157+00:00",
     "published_at": "2026-10-28T07:16:05Z",
-    "release_age_days": 0,
+    "release_age_days": 1,
     "release_id": "426359374",
     "release_name": "n8n@2.45.5",
     "release_notes": "## [2.45.5](https://github.com/n8n-io/n8n/compare/n8n@2.45.4...n8n@2.45.5) (2026-10-28)\n\n\n### Bug Fix…",
@@ -28,20 +43,5 @@
     "tool": "n8n",
     "use_case": "Workflow automation and integrations",
     "version": "n8n@2.45.5"
-  },
-  {
-    "checked_at": "2026-10-28T08:00:57.524514+00:00",
-    "published_at": "2026-10-21T02:29:46Z",
-    "release_age_days": 7,
-    "release_id": "410599153",
-    "release_name": "Release v2.5.1 🌈",
-    "release_notes": "## 🗑️ Feature Removal Reminder\r\n\r\n**Appsmith AI reached end of life on September 30, 2026.**\r\n\r\nYou c…",
-    "release_url": "https://github.com/appsmithorg/appsmith/releases/tag/v2.5.1",
-    "repository": "appsmithorg/appsmith",
-    "repository_url": "https://github.com/appsmithorg/appsmith",
-    "source_url": "https://api.github.com/repos/appsmithorg/appsmith/releases/latest",
-    "tool": "Appsmith",
-    "use_case": "Internal tools, admin panels and database frontends",
-    "version": "v2.5.1"
   }
 ]

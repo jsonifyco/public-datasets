@@ -1,12 +1,10 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-10-28T08:00:57.350001+00:00,2026-10-19T08:09:46Z,8,417045683,v3.50.0,"## What's Changed
+2026-10-29T08:00:58.431849+00:00,2026-10-28T18:10:23Z,0,419376922,Release v2.6.0 🌈,"## ⚠️ For EE users, before upgrading to v2.6.0 finish existing Temporal workflow runs on v2.5.1
+
+Ap…",https://github.com/appsmithorg/appsmith/releases/tag/v2.6.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.6.0
+2026-10-29T08:00:58.367329+00:00,2026-10-19T08:09:46Z,9,417045683,v3.50.0,"## What's Changed
 * Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",https://github.com/Budibase/budibase/releases/tag/v3.50.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v3.50.0
-2026-10-28T08:00:57.383501+00:00,2026-10-28T07:16:05Z,0,426359374,n8n@2.45.5,"## [2.45.5](https://github.com/n8n-io/n8n/compare/n8n@2.45.4...n8n@2.45.5) (2026-10-28)
+2026-10-29T08:00:58.333157+00:00,2026-10-28T07:16:05Z,1,426359374,n8n@2.45.5,"## [2.45.5](https://github.com/n8n-io/n8n/compare/n8n@2.45.4...n8n@2.45.5) (2026-10-28)
 
 
 ### Bug Fix…",https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.5,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.45.5
-2026-10-28T08:00:57.524514+00:00,2026-10-21T02:29:46Z,7,410599153,Release v2.5.1 🌈,"## 🗑️ Feature Removal Reminder
-
-**Appsmith AI reached end of life on September 30, 2026.**
-
-You c…",https://github.com/appsmithorg/appsmith/releases/tag/v2.5.1,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.5.1

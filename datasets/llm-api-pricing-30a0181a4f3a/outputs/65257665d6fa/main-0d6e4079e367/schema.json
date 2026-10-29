@@ -1,0 +1,50 @@
+[
+  {
+    "name": "captured_date",
+    "type": "text"
+  },
+  {
+    "name": "platform",
+    "type": "text"
+  },
+  {
+    "name": "model_maker",
+    "type": "text"
+  },
+  {
+    "name": "model",
+    "type": "text"
+  },
+  {
+    "name": "deployment_type",
+    "type": "text"
+  },
+  {
+    "name": "input_usd_per_1m",
+    "type": "double precision"
+  },
+  {
+    "name": "output_usd_per_1m",
+    "type": "double precision"
+  },
+  {
+    "name": "cached_input_usd_per_1m",
+    "type": "double precision"
+  },
+  {
+    "name": "batch_input_usd_per_1m",
+    "type": "double precision"
+  },
+  {
+    "name": "batch_output_usd_per_1m",
+    "type": "double precision"
+  },
+  {
+    "name": "long_context_note",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

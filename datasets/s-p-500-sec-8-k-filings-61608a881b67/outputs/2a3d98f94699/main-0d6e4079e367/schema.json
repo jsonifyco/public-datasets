@@ -1,0 +1,42 @@
+[
+  {
+    "name": "accession_number",
+    "type": "text"
+  },
+  {
+    "name": "cik",
+    "type": "text"
+  },
+  {
+    "name": "company",
+    "type": "text"
+  },
+  {
+    "name": "filed_date",
+    "type": "text"
+  },
+  {
+    "name": "filing_url",
+    "type": "text"
+  },
+  {
+    "name": "form",
+    "type": "text"
+  },
+  {
+    "name": "item_descriptions",
+    "type": "text"
+  },
+  {
+    "name": "items",
+    "type": "text"
+  },
+  {
+    "name": "report_date",
+    "type": "text"
+  },
+  {
+    "name": "ticker",
+    "type": "text"
+  }
+]

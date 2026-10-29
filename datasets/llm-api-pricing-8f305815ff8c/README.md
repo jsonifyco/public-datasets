@@ -1,14 +1,20 @@
-# LLM API pricing
+# LLM API Pricing: Official Standard Text and Chat Model Rates
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+Compare official Standard paid text and chat model prices from OpenAI, Anthropic, Google, Mistral, and DeepSeek\. Prices are in USD per million tokens, with context limits, pricing caveats, and explicit missing values where available\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llm-api-pricing-8f305815ff8c?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 4
 - Last published: 2026-10-14T12:06:48.861890Z
+
+## The brief
+
+> I need this data: Compare official Standard paid text and chat model prices from OpenAI, Anthropic, Google, Mistral, and DeepSeek\. Prices are in USD per million tokens, with context limits, pricing caveats, and explicit missing values where available\.
+
+Summary from the public dataset description.
 
 ## LLM API pricing / models
 

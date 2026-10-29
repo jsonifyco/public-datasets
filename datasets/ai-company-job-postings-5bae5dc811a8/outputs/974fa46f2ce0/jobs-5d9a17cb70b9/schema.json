@@ -1,0 +1,70 @@
+[
+  {
+    "name": "first_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "company",
+    "type": "text"
+  },
+  {
+    "name": "ats",
+    "type": "text"
+  },
+  {
+    "name": "board",
+    "type": "text"
+  },
+  {
+    "name": "posting_id",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "department",
+    "type": "text"
+  },
+  {
+    "name": "team",
+    "type": "text"
+  },
+  {
+    "name": "location",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "workplace_type",
+    "type": "text"
+  },
+  {
+    "name": "employment_type",
+    "type": "text"
+  },
+  {
+    "name": "salary_min",
+    "type": "text"
+  },
+  {
+    "name": "salary_max",
+    "type": "text"
+  },
+  {
+    "name": "salary_currency",
+    "type": "text"
+  },
+  {
+    "name": "published_date",
+    "type": "text"
+  },
+  {
+    "name": "apply_url",
+    "type": "text"
+  }
+]

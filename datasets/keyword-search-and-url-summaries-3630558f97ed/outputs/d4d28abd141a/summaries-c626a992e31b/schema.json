@@ -1,0 +1,30 @@
+[
+  {
+    "name": "keyword",
+    "type": "text"
+  },
+  {
+    "name": "result_url",
+    "type": "text"
+  },
+  {
+    "name": "result_title",
+    "type": "text"
+  },
+  {
+    "name": "search_rank",
+    "type": "integer"
+  },
+  {
+    "name": "summary",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "error",
+    "type": "text"
+  }
+]

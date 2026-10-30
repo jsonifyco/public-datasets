@@ -1,0 +1,58 @@
+[
+  {
+    "name": "applicant",
+    "type": "text"
+  },
+  {
+    "name": "applicant_city",
+    "type": "text"
+  },
+  {
+    "name": "applicant_country",
+    "type": "text"
+  },
+  {
+    "name": "applicant_state",
+    "type": "text"
+  },
+  {
+    "name": "clearance_type",
+    "type": "text"
+  },
+  {
+    "name": "date_received",
+    "type": "text"
+  },
+  {
+    "name": "decision",
+    "type": "text"
+  },
+  {
+    "name": "decision_date",
+    "type": "text"
+  },
+  {
+    "name": "device_class",
+    "type": "text"
+  },
+  {
+    "name": "device_name",
+    "type": "text"
+  },
+  {
+    "name": "fda_record_url",
+    "type": "text"
+  },
+  {
+    "name": "k_number",
+    "type": "text"
+  },
+  {
+    "name": "medical_specialty",
+    "type": "text"
+  },
+  {
+    "name": "product_code",
+    "type": "text"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "provider",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "country_name",
+    "type": "text"
+  },
+  {
+    "name": "local_currency",
+    "type": "text"
+  },
+  {
+    "name": "plan",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "billing_unit",
+    "type": "text"
+  },
+  {
+    "name": "billing_term",
+    "type": "text"
+  },
+  {
+    "name": "price_kind",
+    "type": "text"
+  },
+  {
+    "name": "tax_note",
+    "type": "text"
+  },
+  {
+    "name": "offer_note",
+    "type": "text"
+  },
+  {
+    "name": "price_status",
+    "type": "text"
+  },
+  {
+    "name": "reference_price",
+    "type": "double precision"
+  },
+  {
+    "name": "reference_currency",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "evidence_quote",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "observed_date",
+    "type": "text"
+  },
+  {
+    "name": "observation_id",
+    "type": "text"
+  }
+]

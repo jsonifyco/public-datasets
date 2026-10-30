@@ -1,35 +1,35 @@
-# AI Company Job Postings from 42 Public Boards
+# AI Company Job Postings Data from 42 Job Boards
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A feed of readable job postings from 42 specified AI\-company boards, with posting details and published salary amounts in their native pay interval\. New first\-seen postings are appended; previously saved postings are not updated\.
+Job postings data from 42 AI companies, including OpenAI, Anthropic and Cohere: title, team, location, remote status and salary ranges\. New postings weekly\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-company-job-postings-5bae5dc811a8?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 3
-- Last published: 2026-10-26T07:02:01.221879Z
+- Active pipeline version: 4
+- Last published: 2026-10-30T11:30:35.328477Z
 
 ## The brief
 
-> I need this data: A feed of readable job postings from 42 specified AI\-company boards, with posting details and published salary amounts in their native pay interval\. New first\-seen postings are appended; previously saved postings are not updated\.
+> I need this data: Job postings data from 42 AI companies, including OpenAI, Anthropic and Cohere: title, team, location, remote status and salary ranges\. New postings weekly\.
 
 Summary from the public dataset description.
 
 ## AI company job postings / jobs
 
-4,652 total rows · 500 sampled · Output revision 5
-Published: 2026-10-26T07:02:01.221879Z · Producing pipeline version: 3
+4,897 total rows · 500 sampled · Output revision 7
+Published: 2026-10-30T11:30:35.328477Z · Producing pipeline version: 4
 
 [CSV sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.csv) · [JSON sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.json) · [Schema](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/schema.json)
 
 | first\_seen\_date | company | ats | board | posting\_id | title | department | team |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-10\-23 | EliseAI | ashby | eliseai | 3e165ca5\-0fb6\-412d\-b76c\-d8f8045bd418 | Field Enablement Specialist \(Bilingual Spanish Speaking\) | Education &amp; Training | Education &amp; Training |
-| 2026\-10\-23 | Sierra | ashby | sierra | 0ff928f7\-cca0\-4d2b\-ae64\-c07277ff5252 | Software Engineer, Agent \(New Grad\) | Early Career | Agent Engineering New Grad |
-| 2026\-10\-23 | Pika | ashby | pika | 772cd189\-caa1\-41bc\-a0a0\-0bb67ef7b3a6 | Principal Software Engineer, Product | Engineering | Engineering |
-| 2026\-10\-23 | Cursor | ashby | cursor | 2514161d\-be85\-41bd\-9b16\-38d3771616ad | Strategic Account Executive, Federal Sales  \- Australia | Sales | Public Sector |
-| 2026\-10\-23 | Harvey | ashby | harvey | 9fe1324c\-8eeb\-4138\-ab85\-f4d75968e48a | Corporate Business Development Manager, Product | Business Development | Business Development |
+| 2026\-10\-30 | Sierra | ashby | sierra | d0e78ab0\-92ac\-4fec\-a667\-837fa371b1db | Software Engineer, Agent \(New Grad 2027\) | Early Career | Agent Engineering New Grad |
+| 2026\-10\-30 | OpenAI | ashby | openai | 33acf0e2\-5c11\-46d7\-9dc9\-417f5537139b | Software Engineer, IP Infrastructure | Research | Research Program Management |
+| 2026\-10\-30 | OpenAI | ashby | openai | 8ff67de2\-7ee8\-4d9d\-bef4\-dadabeeaf312 | Fire Protection Engineer | Scaling | Datacenter Design |
+| 2026\-10\-30 | xAI | greenhouse | xai | 5278701007 | Sr\. Analyst, Monetization Operations | Safety | None |
+| 2026\-10\-30 | Cursor | ashby | cursor | f277b2d6\-c27e\-4cb9\-9d0b\-644e9730f06c | Solutions Architect \- Australia | Solutions | Solutions |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -86,6 +86,7 @@ flowchart LR
 - 2026-10-23T13:27:33.538728Z: v1: Created a private, unscheduled AI company jobs feed with first\-seen tracking and a 5,000\-posting monthly cap\.
 - 2026-10-23T13:44:07.710352Z: v2: Fixed salary\-currency recognition so unrelated technical terms cannot be interpreted as currencies\.
 - 2026-10-23T14:03:11.228093Z: v3: Corrected workplace\-type rules and standardized country names, including countries inferred from recognizable locations\.
+- 2026-10-30T10:31:40.401299Z: v4: Correct salary ranges such as $300–350K to 300,000–350,000, keeping published currencies and pay intervals\.
 
 ## Recorded repairs
 

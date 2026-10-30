@@ -1,0 +1,30 @@
+[
+  {
+    "name": "area",
+    "type": "text"
+  },
+  {
+    "name": "area_type",
+    "type": "text"
+  },
+  {
+    "name": "eia_series_id",
+    "type": "text"
+  },
+  {
+    "name": "price_usd_per_gallon",
+    "type": "double precision"
+  },
+  {
+    "name": "product",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "week_date",
+    "type": "text"
+  }
+]

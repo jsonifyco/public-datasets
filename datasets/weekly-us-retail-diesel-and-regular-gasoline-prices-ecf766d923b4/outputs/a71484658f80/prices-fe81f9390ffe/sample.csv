@@ -1,0 +1,501 @@
+area,area_type,eia_series_id,price_usd_per_gallon,product,source_url,week_date
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,3.765,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-06-01
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,6.53,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-04-27
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.075,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-08-03
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,5.834,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-04-27
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,6.497,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-08-31
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,2.662,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-02-23
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,5.924,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-04-20
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,2.7,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-02-16
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,2.842,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-03-02
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,5.399,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-07-20
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.733,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-03-30
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,4.243,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2026-08-31
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,5.815,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-05-11
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,3.828,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-07-06
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,3.809,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-02-23
+California,state,EMM_EPMR_PTE_SCA_DPG,5.731,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-04-13
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,4.153,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-10-12
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,4.292,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2025-12-01
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,5.168,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-08-03
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,3.738,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-09-14
+West Coast less California,PADD region,EMD_EPD2D_PTE_R5XCA_DPG,3.782,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-01-19
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,4.02,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-10-05
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,4.872,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-05-04
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,2.918,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2025-12-08
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,5.514,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-08-10
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.444,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-06-08
+Florida,state,EMM_EPMR_PTE_SFL_DPG,3.94,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2026-06-01
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,3.662,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2026-04-20
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,5.568,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-06-08
+New York,state,EMM_EPMR_PTE_SNY_DPG,2.882,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-02-16
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,4.751,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-06-22
+Florida,state,EMM_EPMR_PTE_SFL_DPG,2.735,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2025-12-15
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,5.087,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-07-27
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.129,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-06-15
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,3.437,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-06-22
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.402,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-08-17
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.178,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-09-07
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,3.365,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-01-12
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,5.394,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-03-30
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,3.883,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-04-20
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,5.382,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-04-13
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.139,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-07-13
+Texas,state,EMM_EPMR_PTE_STX_DPG,2.455,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2025-12-08
+New York,state,EMM_EPMR_PTE_SNY_DPG,3.016,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2025-12-08
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,2.621,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-01-12
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,5.759,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-03-23
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,2.991,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2025-11-17
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,3.988,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-02-02
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,4.189,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-01-19
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,3.315,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-03-09
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,2.682,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2026-02-02
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,2.276,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2025-12-22
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,3.827,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-02-02
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,2.847,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2025-12-22
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,2.811,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2025-12-29
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,5.493,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-05-25
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,4.343,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-05-04
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,5.951,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-10-05
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,4.033,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-07-27
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,5.107,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-07-20
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,4.16,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-03-02
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,3.913,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2025-11-17
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,4.075,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2026-06-15
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,3.99,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-03-30
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,4.249,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2026-05-25
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,5.448,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-06-22
+Texas,state,EMM_EPMR_PTE_STX_DPG,2.587,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2025-11-10
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,4.405,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-05-11
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,6.531,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-09-28
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,5.727,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-10-05
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.738,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-04-13
+New York,state,EMM_EPMR_PTE_SNY_DPG,3.526,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-03-16
+California,state,EMD_EPD2D_PTE_SCA_DPG,7.36,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-05-04
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,4.894,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-03-16
+Florida,state,EMM_EPMR_PTE_SFL_DPG,4.148,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2026-04-06
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,2.585,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-01-05
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,2.873,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-02-16
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,2.915,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2025-12-15
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,3.086,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2025-11-24
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,4.458,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-10-26
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.711,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-12-22
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,2.897,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-03-02
+California,state,EMM_EPMR_PTE_SCA_DPG,4.076,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-12-22
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,3.755,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2025-12-01
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,3.723,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-02-23
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,2.859,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-01-05
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,2.925,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2025-12-15
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,5.425,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-04-27
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,2.569,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-02-02
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,4.145,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-10-12
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,4.033,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-09-28
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,4.659,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2026-06-01
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,5.996,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-04-13
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,5.489,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-06-22
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,4.587,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-05-18
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,2.403,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-01-05
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,4.207,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2026-05-11
+West Coast less California,PADD region,EMD_EPD2D_PTE_R5XCA_DPG,6.056,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-03-30
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,5.856,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-10-26
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,4.46,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-03-02
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,4.197,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-08-03
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,4.294,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2025-12-15
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.096,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-07-27
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,5.873,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-05-04
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.354,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-10-05
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,5.034,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-08-10
+California,state,EMM_EPMR_PTE_SCA_DPG,4.475,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-03-02
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,6.476,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-10-05
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,2.866,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-02-23
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,6.302,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-10-12
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,4.077,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2026-09-07
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,3.702,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-03-23
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,4.346,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-05-04
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,5.16,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-03-23
+East Coast (PADD 1),PADD region,EMM_EPMR_PTE_R10_DPG,2.822,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-02-02
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,3.936,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2025-11-03
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,2.379,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-01-19
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,4.094,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-09-28
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,2.482,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-02-16
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.442,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-05-25
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,3.675,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-04-27
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,4.438,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-09-21
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,5.278,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-05-11
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,3.927,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-01-12
+Florida,state,EMM_EPMR_PTE_SFL_DPG,3.981,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2026-10-19
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,2.702,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2025-12-29
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,3.951,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-05-18
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,3.813,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-06-15
+East Coast (PADD 1),PADD region,EMM_EPMR_PTE_R10_DPG,2.882,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-03-02
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,4.501,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-09-21
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,3.829,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-10-05
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,2.732,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2025-12-29
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,3.367,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-01-26
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,5.639,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-05-11
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,4.131,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-04-27
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,3.674,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2025-12-22
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.38,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-10-05
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,5.204,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-07-13
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,4.368,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-06-01
+Texas,state,EMM_EPMR_PTE_STX_DPG,3.941,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2026-05-11
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,3.538,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-03-16
+California,state,EMM_EPMR_PTE_SCA_DPG,4.042,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-12-29
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,5.767,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-05-11
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,4.627,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-03-09
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,5.42,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-05-18
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,4.06,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-08-10
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,4.111,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-02-23
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,3.702,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-10-26
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,2.372,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2025-12-15
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,3.86,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2026-07-13
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.457,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-08-24
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,3.986,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-02-02
+Washington,state,EMM_EPMR_PTE_SWA_DPG,4.897,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-07-06
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,2.483,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-02-23
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,4.049,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2025-12-01
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.331,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-10-12
+Texas,state,EMM_EPMR_PTE_STX_DPG,2.422,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2025-12-22
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,3.936,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-04-20
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,5.116,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-10-05
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,4.098,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-07-20
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,3.929,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-08-03
+California,state,EMM_EPMR_PTE_SCA_DPG,5.489,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-07-27
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.249,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-10-26
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,3.916,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-04-27
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,4.378,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-05-04
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,2.904,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2025-12-08
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,2.662,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2025-12-29
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,5.019,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-06-15
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,4.824,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2026-05-25
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,3.247,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2025-11-03
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,4.275,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2026-08-03
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,3.563,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-06-29
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,6.25,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-09-14
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,5.752,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-09-07
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,7.229,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-10-05
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,5.643,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-04-06
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,3.69,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-04-13
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.102,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-04-27
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,4.377,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-02-02
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,2.737,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-02-16
+Texas,state,EMM_EPMR_PTE_STX_DPG,3.287,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2026-07-06
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,4.105,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2026-06-01
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,2.685,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2025-12-01
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,3.847,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-05-25
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.075,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-06-22
+New York,state,EMM_EPMR_PTE_SNY_DPG,2.886,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-01-12
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.305,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-06-01
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,3.885,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-09-07
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,4.24,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-09-07
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,4.51,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-09-21
+California,state,EMM_EPMR_PTE_SCA_DPG,5.969,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-05-11
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,2.831,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-01-12
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,5.37,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-07-20
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,4.049,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2025-12-22
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,3.172,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-01-05
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.845,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-02-09
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.341,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-09-28
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.213,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-04-13
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,3.956,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2025-11-10
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,3.93,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-04-27
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,4.202,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-10-19
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.339,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-09-14
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,5.527,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-10-19
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.056,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-08-10
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,3.797,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-08-31
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,4.427,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-05-11
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,3.684,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-03-23
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.123,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-04-13
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.284,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-10-19
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,2.45,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2025-11-24
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,3.879,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-08-31
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,3.899,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-08-10
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,4.51,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-05-18
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,3.85,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2025-11-24
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,3.773,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-06-29
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,4.277,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-02-09
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,4.695,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2026-10-12
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,6.177,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-09-21
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.99,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-03-02
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.225,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-04-20
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,5.059,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-06-15
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,5.636,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-08-24
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,2.576,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2025-11-10
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,4.384,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-08-24
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.447,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-07-27
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,3.393,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-03-16
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.266,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-09-14
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,4.441,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2025-12-01
+Florida,state,EMM_EPMR_PTE_SFL_DPG,4.136,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2026-05-18
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,3.184,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2025-12-29
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,3.785,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-07-13
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,6.441,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-10-12
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,4.796,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-03-16
+New York,state,EMM_EPMR_PTE_SNY_DPG,3.035,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2025-11-10
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,4.054,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2026-08-03
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,3.888,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-03-02
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,4.211,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-09-21
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,3.867,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-06-08
+California,state,EMM_EPMR_PTE_SCA_DPG,5.711,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-03-30
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,6.082,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-10-12
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,3.419,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-03-09
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.091,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-07-06
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,3.502,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-03-09
+California,state,EMD_EPD2D_PTE_SCA_DPG,7.764,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-09-07
+Texas,state,EMM_EPMR_PTE_STX_DPG,2.466,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2025-11-03
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,2.962,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-02-23
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,7.394,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-10-19
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,5.256,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-04-13
+California,state,EMM_EPMR_PTE_SCA_DPG,5.397,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-08-17
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,4.465,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2025-11-10
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,5.89,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-10-26
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,3.929,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-10-12
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,2.547,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2025-12-15
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,5.731,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-06-01
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,3.53,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-01-19
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,3.891,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-07-20
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,4.12,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2025-11-17
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,6.092,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-05-04
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.319,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-09-14
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,4.016,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-06-08
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,4.935,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-07-20
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,2.845,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-02-23
+Washington,state,EMM_EPMR_PTE_SWA_DPG,4.202,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-03-02
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,5.152,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-05-11
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,2.329,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2025-12-22
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,2.91,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2025-11-10
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,4.424,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2025-11-17
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,2.261,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2025-12-22
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,3.989,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-05-25
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,2.949,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-02-09
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,3.783,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-08-31
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,2.492,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2025-12-22
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,4.314,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-03-02
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,2.921,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2026-01-12
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,5.105,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-03-16
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,5.35,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-08-24
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.084,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-08-31
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,4.956,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-04-13
+East Coast (PADD 1),PADD region,EMM_EPMR_PTE_R10_DPG,2.892,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2025-12-08
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,3.78,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-07-20
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.077,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-07-20
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,2.667,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2026-01-12
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.259,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-08-31
+East Coast (PADD 1),PADD region,EMM_EPMR_PTE_R10_DPG,4.191,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-09-14
+California,state,EMM_EPMR_PTE_SCA_DPG,4.357,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-12-01
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,2.86,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-01-05
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,4.253,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-09-14
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,3.859,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-10-05
+Texas,state,EMM_EPMR_PTE_STX_DPG,3.532,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2026-08-03
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,4.25,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2026-03-30
+California,state,EMD_EPD2D_PTE_SCA_DPG,6.618,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-08-10
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,3.768,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-03-30
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.392,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-06-01
+New York,state,EMM_EPMR_PTE_SNY_DPG,2.931,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2025-12-29
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,4.478,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-09-21
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,4.082,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-08-03
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,3.831,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2025-11-24
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,6.631,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-05-04
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,4.225,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-07-06
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.123,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-04-27
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,4.59,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-03-02
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,2.989,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2025-11-24
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,2.804,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-02-16
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,2.745,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-01-19
+Texas,state,EMM_EPMR_PTE_STX_DPG,3.561,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2026-06-08
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,4.461,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-05-18
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,3.579,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-01-26
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,3.625,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-06-29
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,3.773,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-04-20
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,4.047,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2025-12-22
+New York,state,EMM_EPMR_PTE_SNY_DPG,3.037,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2025-12-01
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,2.492,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2025-12-15
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,5.613,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-05-11
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.299,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-04-27
+California,state,EMM_EPMR_PTE_SCA_DPG,4.273,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-12-08
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,2.667,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2025-11-17
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,3.974,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-08-10
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,2.804,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2026-01-26
+West Coast less California,PADD region,EMD_EPD2D_PTE_R5XCA_DPG,4.161,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2025-11-10
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,4.093,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-04-13
+Texas,state,EMM_EPMR_PTE_STX_DPG,3.874,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2026-10-05
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,3.931,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-04-27
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,4.312,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-10-19
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,3.522,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-08-31
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,2.72,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2026-01-26
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,2.832,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2025-12-22
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,3.374,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2025-11-03
+Florida,state,EMM_EPMR_PTE_SFL_DPG,3.921,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2026-07-27
+Florida,state,EMM_EPMR_PTE_SFL_DPG,2.778,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2025-11-10
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.57,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-05-25
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.647,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-04-20
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,2.71,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2025-11-03
+California,state,EMM_EPMR_PTE_SCA_DPG,5.678,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-09-07
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.144,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-06-29
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,3.352,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-03-09
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,5.736,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-08-31
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,2.672,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-01-05
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,3.618,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-08-31
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,4.178,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2026-10-26
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,3.791,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-03-02
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,6.202,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-09-14
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.862,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-12-08
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,4.399,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-05-04
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,4.105,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-09-14
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,3.999,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2025-11-17
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,3.608,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-02-16
+Boston,city,EMM_EPMR_PTE_YBOS_DPG,2.879,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls,2025-12-22
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.516,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-09-21
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,2.875,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2025-12-01
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,5.639,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-10-12
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,3.851,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-10-12
+California,state,EMM_EPMR_PTE_SCA_DPG,5.428,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-08-10
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,2.972,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2025-11-10
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,3.806,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-07-06
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.049,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-08-17
+Washington,state,EMM_EPMR_PTE_SWA_DPG,5.483,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-09-07
+California,state,EMM_EPMR_PTE_SCA_DPG,5.827,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-09-14
+West Coast less California,PADD region,EMD_EPD2D_PTE_R5XCA_DPG,5.519,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-06-15
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,4.478,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-05-11
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,5.518,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-07-27
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.522,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-05-18
+Washington,state,EMM_EPMR_PTE_SWA_DPG,4.009,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls,2026-02-16
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,3.69,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-07-27
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,4.128,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-01-05
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,6.306,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-10-05
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,3.817,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-04-27
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,3.463,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-03-09
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,3.785,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2025-12-01
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,4.832,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-07-13
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,5.908,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-10-12
+California,state,EMD_EPD2D_PTE_SCA_DPG,8.039,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-09-14
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,3.313,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-01-26
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,3.979,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-10-05
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,3.131,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2025-11-17
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,3.763,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-02-02
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,2.852,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-02-23
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.532,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-08-31
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,2.606,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2025-12-29
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,4.263,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-09-28
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,3.043,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2025-11-10
+California,state,EMM_EPMR_PTE_SCA_DPG,5.554,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-06-15
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,3.343,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-07-13
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,4.448,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-05-18
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.465,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-09-28
+West Coast (PADD 5),PADD region,EMD_EPD2D_PTE_R50_DPG,6.31,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-03-23
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,4.797,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-03-23
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,3.592,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-09-07
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,3.955,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2025-11-10
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,5.189,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-05-11
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,4.042,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-06-22
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,5.152,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-07-06
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,5.349,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-06-29
+Minnesota,state,EMM_EPMR_PTE_SMN_DPG,4.315,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls,2026-09-28
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,3.874,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-07-06
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,4.147,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-09-14
+East Coast (PADD 1),PADD region,EMM_EPMR_PTE_R10_DPG,4.022,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-10-26
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,2.948,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2025-11-10
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.712,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-01-26
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,4.521,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-03-16
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,5.147,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-08-24
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,4.376,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2025-11-03
+Colorado,state,EMM_EPMR_PTE_SCO_DPG,2.812,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls,2026-03-02
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,3.497,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-02-09
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,6.021,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-10-19
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,3.862,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2025-11-24
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,5.2,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-06-08
+Midwest (PADD 2),PADD region,EMM_EPMR_PTE_R20_DPG,4.269,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-10-26
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,4.875,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-03-30
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,3.817,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-05-11
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,2.902,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-02-09
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.613,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-01-12
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.781,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-12-15
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,3.012,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2025-12-15
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,5.483,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-03-16
+West Coast less California,PADD region,EMD_EPD2D_PTE_R5XCA_DPG,4.962,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-06-29
+Los Angeles,city,EMM_EPMR_PTE_Y05LA_DPG,5.887,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls,2026-05-25
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,3.683,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-02-23
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,3.544,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2025-12-22
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,4.035,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2025-12-29
+Massachusetts,state,EMM_EPMR_PTE_SMA_DPG,3.493,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls,2026-03-16
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,5.007,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-10-19
+Florida,state,EMM_EPMR_PTE_SFL_DPG,2.865,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2025-11-17
+California,state,EMM_EPMR_PTE_SCA_DPG,5.648,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-04-20
+California,state,EMM_EPMR_PTE_SCA_DPG,6.031,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-10-19
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,2.824,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2025-12-01
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,2.511,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2025-11-03
+Denver,city,EMM_EPMR_PTE_YDEN_DPG,3.89,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls,2026-03-23
+Central Atlantic (PADD 1B),PADD region,EMM_EPMR_PTE_R1Y_DPG,2.967,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-03-02
+Florida,state,EMM_EPMR_PTE_SFL_DPG,3.67,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2026-03-16
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,5.417,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-10-26
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,2.536,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-01-26
+Texas,state,EMM_EPMR_PTE_STX_DPG,3.888,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2026-05-18
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,3.075,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2025-11-17
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,4.181,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2026-09-14
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,5.069,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-04-20
+Florida,state,EMM_EPMR_PTE_SFL_DPG,3.888,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2026-03-23
+New York City,city,EMM_EPMR_PTE_Y35NY_DPG,4.368,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls,2026-09-14
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,3.871,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-04-27
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,4.12,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-04-06
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,3.897,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-03-02
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,5.122,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-05-18
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,4.393,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-07-13
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.66,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-12-29
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,3.727,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-03-23
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,3.758,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2025-12-01
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,5.34,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-08-17
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,5.819,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-10-05
+California,state,EMD_EPD2D_PTE_SCA_DPG,4.988,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2025-11-10
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,4.077,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-10-26
+Ohio,state,EMM_EPMR_PTE_SOH_DPG,2.887,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls,2026-02-23
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,4.01,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-01-12
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,3.665,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2025-12-08
+California,state,EMM_EPMR_PTE_SCA_DPG,5.888,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-10-26
+New England (PADD 1A),PADD region,EMD_EPD2D_PTE_R1X_DPG,5.236,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-03-16
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,5.604,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-09-07
+U.S.,national,EMM_EPMR_PTE_NUS_DPG,2.853,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-01-26
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,3.608,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2025-12-08
+Central Atlantic (PADD 1B),PADD region,EMD_EPD2D_PTE_R1Y_DPG,5.587,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls,2026-08-03
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.056,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-04-13
+Midwest (PADD 2),PADD region,EMD_EPD2D_PTE_R20_DPG,3.664,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls,2026-02-16
+West Coast less California,PADD region,EMD_EPD2D_PTE_R5XCA_DPG,6,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-05-04
+Florida,state,EMM_EPMR_PTE_SFL_DPG,2.938,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2025-12-01
+East Coast (PADD 1),PADD region,EMM_EPMR_PTE_R10_DPG,2.763,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-01-19
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,4.277,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-02-16
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,5.272,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-07-13
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,5.754,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-09-07
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,2.882,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2026-03-02
+California,state,EMD_EPD2D_PTE_SCA_DPG,7.567,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-04-06
+California,state,EMD_EPD2D_PTE_SCA_DPG,7.219,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-03-30
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,4.6,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-07-13
+California,state,EMM_EPMR_PTE_SCA_DPG,5.52,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-08-31
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,3.763,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-02-16
+Cleveland,city,EMM_EPMR_PTE_YCLE_DPG,3.021,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls,2025-11-10
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,3.761,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2025-11-10
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,5.74,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-04-06
+California,state,EMM_EPMR_PTE_SCA_DPG,3.978,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls,2026-01-12
+Rocky Mountain (PADD 4),PADD region,EMM_EPMR_PTE_R40_DPG,2.644,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2025-12-08
+East Coast (PADD 1),PADD region,EMD_EPD2D_PTE_R10_DPG,4.886,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-06-22
+Miami,city,EMM_EPMR_PTE_YMIA_DPG,2.753,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls,2025-12-29
+Florida,state,EMM_EPMR_PTE_SFL_DPG,2.796,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls,2026-02-09
+Seattle,city,EMM_EPMR_PTE_Y48SE_DPG,5.771,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y48SE_W.xls,2026-05-25
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,3.893,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2026-07-06
+Rocky Mountain (PADD 4),PADD region,EMD_EPD2D_PTE_R40_DPG,4.602,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls,2026-06-29
+Lower Atlantic (PADD 1C),PADD region,EMM_EPMR_PTE_R1Z_DPG,3.33,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2026-03-09
+U.S.,national,EMD_EPD2D_PTE_NUS_DPG,5.401,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls,2026-03-30
+New York,state,EMM_EPMR_PTE_SNY_DPG,4.044,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls,2026-08-10
+Texas,state,EMM_EPMR_PTE_STX_DPG,3.581,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2026-08-24
+Chicago,city,EMM_EPMR_PTE_YORD_DPG,3.255,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls,2025-11-17
+West Coast (PADD 5),PADD region,EMM_EPMR_PTE_R50_DPG,5.13,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls,2026-08-03
+Gulf Coast (PADD 3),PADD region,EMM_EPMR_PTE_R30_DPG,3.543,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-08-10
+Houston,city,EMM_EPMR_PTE_Y44HO_DPG,2.299,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls,2026-01-19
+Gulf Coast (PADD 3),PADD region,EMD_EPD2D_PTE_R30_DPG,5.36,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls,2026-08-31
+West Coast less California,PADD region,EMD_EPD2D_PTE_R5XCA_DPG,5.859,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-08-24
+West Coast less California,PADD region,EMM_EPMR_PTE_R5XCA_DPG,4.955,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls,2026-06-08
+San Francisco,city,EMM_EPMR_PTE_Y05SF_DPG,5.781,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls,2026-04-06
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,3.965,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2026-04-13
+Lower Atlantic (PADD 1C),PADD region,EMD_EPD2D_PTE_R1Z_DPG,3.522,diesel,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls,2025-12-29
+Texas,state,EMM_EPMR_PTE_STX_DPG,3.432,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls,2026-06-15
+East Coast (PADD 1),PADD region,EMM_EPMR_PTE_R10_DPG,4.305,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls,2026-05-18
+New England (PADD 1A),PADD region,EMM_EPMR_PTE_R1X_DPG,2.931,regular gasoline,https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls,2025-11-03

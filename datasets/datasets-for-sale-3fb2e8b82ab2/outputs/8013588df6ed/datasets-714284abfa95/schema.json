@@ -1,0 +1,74 @@
+[
+  {
+    "name": "catalog_position",
+    "type": "bigint"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "dataset_name",
+    "type": "text"
+  },
+  {
+    "name": "dataset_url",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "text"
+  },
+  {
+    "name": "price_currencies",
+    "type": "text"
+  },
+  {
+    "name": "pricing_details",
+    "type": "text"
+  },
+  {
+    "name": "pricing_status",
+    "type": "text"
+  },
+  {
+    "name": "provider",
+    "type": "text"
+  },
+  {
+    "name": "provider_rating",
+    "type": "double precision"
+  },
+  {
+    "name": "provider_review_count",
+    "type": "bigint"
+  },
+  {
+    "name": "signal_note",
+    "type": "text"
+  },
+  {
+    "name": "price_monthly",
+    "type": "double precision"
+  },
+  {
+    "name": "price_yearly",
+    "type": "double precision"
+  },
+  {
+    "name": "price_one_off",
+    "type": "double precision"
+  },
+  {
+    "name": "price_usage",
+    "type": "double precision"
+  },
+  {
+    "name": "price_usage_unit",
+    "type": "text"
+  }
+]

@@ -1,8 +1,8 @@
-# S&amp;P 500 SEC 8\-K and 8\-K/A Filings Dataset
+# 8\-K Filings Dataset: S&amp;P 500 Current Reports, Weekly
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A dataset of SEC 8\-K and 8\-K/A filings associated with S&amp;P 500 constituents, with filing identifiers, company and ticker fields, dates, filing items, and filing URLs\.
+8\-K filings from S&amp;P 500 companies, updated weekly: filing date, event date, ticker, CIK, 8\-K items with descriptions and a link to each filing on EDGAR\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/s-p-500-sec-8-k-filings-61608a881b67?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A dataset of SEC 8\-K and 8\-K/A filings associated with S&amp;P 500 constituent
 
 ## The brief
 
-> I need this data: A dataset of SEC 8\-K and 8\-K/A filings associated with S&amp;P 500 constituents, with filing identifiers, company and ticker fields, dates, filing items, and filing URLs\.
+> I need this data: 8\-K filings from S&amp;P 500 companies, updated weekly: filing date, event date, ticker, CIK, 8\-K items with descriptions and a link to each filing on EDGAR\.
 
 Summary from the public dataset description.
 

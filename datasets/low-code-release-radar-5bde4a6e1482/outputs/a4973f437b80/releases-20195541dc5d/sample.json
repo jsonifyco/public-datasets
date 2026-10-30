@@ -1,8 +1,8 @@
 [
   {
-    "checked_at": "2026-10-29T08:00:58.431849+00:00",
+    "checked_at": "2026-10-30T08:00:04.960689+00:00",
     "published_at": "2026-10-28T18:10:23Z",
-    "release_age_days": 0,
+    "release_age_days": 1,
     "release_id": "419376922",
     "release_name": "Release v2.6.0 🌈",
     "release_notes": "## ⚠️ For EE users, before upgrading to v2.6.0 finish existing Temporal workflow runs on v2.5.1\r\n\r\nAp…",
@@ -15,9 +15,24 @@
     "version": "v2.6.0"
   },
   {
-    "checked_at": "2026-10-29T08:00:58.367329+00:00",
+    "checked_at": "2026-10-30T08:00:05.050772+00:00",
+    "published_at": "2026-10-29T08:30:41Z",
+    "release_age_days": 0,
+    "release_id": "427615933",
+    "release_name": "n8n@2.45.6",
+    "release_notes": "## [2.45.6](https://github.com/n8n-io/n8n/compare/n8n@2.45.5...n8n@2.45.6) (2026-10-29)\n\n\n### Bug Fix…",
+    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.6",
+    "repository": "n8n-io/n8n",
+    "repository_url": "https://github.com/n8n-io/n8n",
+    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
+    "tool": "n8n",
+    "use_case": "Workflow automation and integrations",
+    "version": "n8n@2.45.6"
+  },
+  {
+    "checked_at": "2026-10-30T08:00:04.874548+00:00",
     "published_at": "2026-10-19T08:09:46Z",
-    "release_age_days": 9,
+    "release_age_days": 10,
     "release_id": "417045683",
     "release_name": "v3.50.0",
     "release_notes": "## What's Changed\n* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",
@@ -28,20 +43,5 @@
     "tool": "Budibase",
     "use_case": "Low-code business apps and operational workflows",
     "version": "v3.50.0"
-  },
-  {
-    "checked_at": "2026-10-29T08:00:58.333157+00:00",
-    "published_at": "2026-10-28T07:16:05Z",
-    "release_age_days": 1,
-    "release_id": "426359374",
-    "release_name": "n8n@2.45.5",
-    "release_notes": "## [2.45.5](https://github.com/n8n-io/n8n/compare/n8n@2.45.4...n8n@2.45.5) (2026-10-28)\n\n\n### Bug Fix…",
-    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.5",
-    "repository": "n8n-io/n8n",
-    "repository_url": "https://github.com/n8n-io/n8n",
-    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
-    "tool": "n8n",
-    "use_case": "Workflow automation and integrations",
-    "version": "n8n@2.45.5"
   }
 ]

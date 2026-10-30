@@ -7,7 +7,7 @@ Datarade dataset catalog with dataset descriptions, pricing details, and provide
 [Get the full dataset for free](https://www.jsonify.com/datasets/datasets-for-sale-3fb2e8b82ab2?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 5
+- Active pipeline version: 7
 - Last published: 2026-10-30T14:57:36.549200Z
 
 ## The brief
@@ -62,34 +62,47 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 flowchart LR
   n0["collected#95;rows"]
   n1["listing#95;inventory"]
-  n2["catalog#95;pages"]
-  n3["catalog#95;listings"]
-  n4["unique#95;listings"]
-  n5["dataset#95;details"]
-  n6["saved#95;details"]
-  n7["monthly#95;price"]
-  n8["datasets"]
-  n2 --> n3
-  n3 --> n4
+  n2["retained#95;rows"]
+  n3["marketplace#95;endpoints"]
+  n4["catalog#95;pages"]
+  n5["catalog#95;listings"]
+  n6["unique#95;listings"]
+  n7["dataset#95;details"]
+  n8["saved#95;details"]
+  n9["monthly#95;price"]
+  n10["merge#95;retained"]
+  n11["datasets"]
   n4 --> n5
   n5 --> n6
   n6 --> n7
   n7 --> n8
-  n0 --> n2
-  n1 --> n2
+  n8 --> n9
+  n9 --> n10
+  n10 --> n11
+  n0 --> n4
   n1 --> n4
-  n0 --> n6
+  n2 --> n4
+  n3 --> n4
+  n3 --> n4
+  n3 --> n5
+  n1 --> n6
+  n3 --> n7
+  n0 --> n8
+  n2 --> n10
 ```
 
 - **collected\_rows**: Optional saved listing details for local price enrichment without fetching pages\.
 - **listing\_inventory**: Optional exact previously discovered listing rows to reuse instead of catalog discovery\.
-- **catalog\_pages**: Read the current catalog count and enumerate every results page\.
-- **catalog\_listings**: Collect listing addresses and their displayed positions from every catalog page\.
-- **unique\_listings**: Remove duplicate addresses and check full catalog coverage before reading details\.
-- **dataset\_details**: Read each dataset description, provider, published pricing, and provider review signals\.
+- **retained\_rows**: Optional saved listings to preserve for marketplaces not being refreshed\.
+- **marketplace\_endpoints**: Public marketplace catalog and read API endpoints\.
+- **catalog\_pages**: Discover source catalog totals and the independent pages or dataset offers to read\.
+- **catalog\_listings**: Read independent public catalog pages and preserve source listing metadata\.
+- **unique\_listings**: Deduplicate exact source listing URLs and check complete catalog inventories\.
+- **dataset\_details**: Keep structured catalog records or read identity\-checked Datarade and Bright Data dataset details\.
 - **saved\_details**: Reuse saved listing details when supplied, otherwise keep freshly collected details\.
 - **monthly\_price**: Separate published monthly, yearly, one\-off and usage amounts into sortable numeric columns in their original currency\.
-- **datasets**: Datarade dataset listings with published prices and clearly labelled provider review signals\.
+- **merge\_retained**: Combine refreshed marketplaces with saved listings from other sources, retaining every published field\.
+- **datasets**: Public dataset offers across selected marketplaces, with original pricing conditions and clearly labelled source signals\.
 
 ## Version history
 
@@ -98,10 +111,13 @@ flowchart LR
 - 2026-10-30T14:55:40.485664Z: v3: Adds a numeric monthly price column from published monthly license prices, leaving unavailable amounts empty\.
 - 2026-10-30T14:56:59.430694Z: v4: Adds sortable yearly, one\-off and usage prices alongside monthly prices, retaining currencies and usage units\.
 - 2026-10-30T15:00:33.589103Z: v5: Adds Datarade categories, country lists, history length and published delivery frequency for the next collection\.
+- 2026-10-30T20:35:32.893771Z: v6: Expand the public dataset catalog across marketplace and vendor sources, preserving existing fields and adding source identities, pricing conditions and coverage\. Exclude live scrapers and skip login\-required catalogs\.
+- 2026-10-30T20:41:42.064764Z: v7: Fix Databricks collection to include packaged media datasets and filter out software, connectors and live scraping tools\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-10-30T20:50:17.682607Z: no change
+- 2026-10-30T20:51:19.962948Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/datasets-for-sale-3fb2e8b82ab2?action=get) — CSV or JSON · Email required
 

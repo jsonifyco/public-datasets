@@ -1,0 +1,90 @@
+[
+  {
+    "name": "gpu_model",
+    "type": "text"
+  },
+  {
+    "name": "variant",
+    "type": "text"
+  },
+  {
+    "name": "instance",
+    "type": "text"
+  },
+  {
+    "name": "region",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "purchase_model",
+    "type": "text"
+  },
+  {
+    "name": "commitment",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "price_basis",
+    "type": "text"
+  },
+  {
+    "name": "gpu_count",
+    "type": "integer"
+  },
+  {
+    "name": "tax_note",
+    "type": "text"
+  },
+  {
+    "name": "offer_note",
+    "type": "text"
+  },
+  {
+    "name": "evidence_quote",
+    "type": "text"
+  },
+  {
+    "name": "provider",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "observed_date",
+    "type": "text"
+  },
+  {
+    "name": "price_status",
+    "type": "text"
+  },
+  {
+    "name": "per_gpu_hour",
+    "type": "double precision"
+  },
+  {
+    "name": "instance_hour",
+    "type": "double precision"
+  },
+  {
+    "name": "observation_id",
+    "type": "text"
+  }
+]

@@ -12,7 +12,7 @@
 
 ## AI lab research feed / posts
 
-40 total rows · 40 sampled · Output revision 2
+40 total rows · 10 sampled · Output revision 2
 Published: 2026-10-14T11:41:35.348891Z · Producing pipeline version: 2
 
 [CSV sample](outputs/a21ded1032f3/posts-a44f1b975171/sample.csv) · [JSON sample](outputs/a21ded1032f3/posts-a44f1b975171/sample.json) · [Schema](outputs/a21ded1032f3/posts-a44f1b975171/schema.json)

@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## Social posts and music credits / posts
 
-25 total rows · 25 sampled · Output revision 2
+25 total rows · 10 sampled · Output revision 2
 Published: 2026-10-21T14:32:02.901284Z · Producing pipeline version: 2
 
 [CSV sample](outputs/6d130e1215b0/posts-a44f1b975171/sample.csv) · [JSON sample](outputs/6d130e1215b0/posts-a44f1b975171/sample.json) · [Schema](outputs/6d130e1215b0/posts-a44f1b975171/schema.json)

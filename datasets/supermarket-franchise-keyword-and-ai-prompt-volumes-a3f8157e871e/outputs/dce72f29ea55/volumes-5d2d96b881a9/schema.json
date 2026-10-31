@@ -1,0 +1,70 @@
+[
+  {
+    "name": "average_monthly_volume",
+    "type": "double precision"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "coverage_note",
+    "type": "text"
+  },
+  {
+    "name": "coverage_status",
+    "type": "text"
+  },
+  {
+    "name": "discovery_term",
+    "type": "text"
+  },
+  {
+    "name": "geography",
+    "type": "text"
+  },
+  {
+    "name": "language",
+    "type": "text"
+  },
+  {
+    "name": "latest_reported_volume",
+    "type": "integer"
+  },
+  {
+    "name": "monthly_volumes",
+    "type": "text"
+  },
+  {
+    "name": "months_observed",
+    "type": "integer"
+  },
+  {
+    "name": "period_end",
+    "type": "text"
+  },
+  {
+    "name": "period_start",
+    "type": "text"
+  },
+  {
+    "name": "platform",
+    "type": "text"
+  },
+  {
+    "name": "provider_matching_records",
+    "type": "integer"
+  },
+  {
+    "name": "query_or_prompt",
+    "type": "text"
+  },
+  {
+    "name": "query_type",
+    "type": "text"
+  },
+  {
+    "name": "volume_source",
+    "type": "text"
+  }
+]

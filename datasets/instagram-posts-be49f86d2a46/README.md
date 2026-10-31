@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## paul\_hunkin Instagram posts / posts
 
-12 total rows · 12 sampled · Output revision 1
+12 total rows · 10 sampled · Output revision 1
 Published: 2026-10-17T18:08:01.916600Z · Producing pipeline version: 1
 
 [CSV sample](outputs/72cbd8df7a4e/posts-a44f1b975171/sample.csv) · [JSON sample](outputs/72cbd8df7a4e/posts-a44f1b975171/sample.json) · [Schema](outputs/72cbd8df7a4e/posts-a44f1b975171/schema.json)

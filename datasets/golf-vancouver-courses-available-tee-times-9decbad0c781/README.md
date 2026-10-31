@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## Golf Vancouver Courses and Tee Times / availability
 
-3,259 total rows · 500 sampled · Output revision 15
+3,259 total rows · 50 sampled · Output revision 15
 Published: 2026-10-26T15:14:22.629571Z · Producing pipeline version: 8
 
 [CSV sample](outputs/b58ceed3e9d3/availability-f95dac581e9b/sample.csv) · [JSON sample](outputs/b58ceed3e9d3/availability-f95dac581e9b/sample.json) · [Schema](outputs/b58ceed3e9d3/availability-f95dac581e9b/schema.json)

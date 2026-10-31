@@ -12,7 +12,7 @@
 
 ## Calven competitor watch / competitor\_changes
 
-24 total rows · 24 sampled · Output revision 12
+24 total rows · 10 sampled · Output revision 12
 Published: 2026-10-14T14:39:43.933603Z · Producing pipeline version: 6
 
 [CSV sample](outputs/a992293bccdc/competitor-changes-db4232d2e157/sample.csv) · [JSON sample](outputs/a992293bccdc/competitor-changes-db4232d2e157/sample.json) · [Schema](outputs/a992293bccdc/competitor-changes-db4232d2e157/schema.json)

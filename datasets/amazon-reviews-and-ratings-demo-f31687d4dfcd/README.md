@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## Amazon reviews demo / reviews
 
-12 total rows · 12 sampled · Output revision 1
+12 total rows · 10 sampled · Output revision 1
 Published: 2026-10-22T14:05:00.788201Z · Producing pipeline version: 2
 
 [CSV sample](outputs/5e58b787efdb/reviews-546410512038/sample.csv) · [JSON sample](outputs/5e58b787efdb/reviews-546410512038/sample.json) · [Schema](outputs/5e58b787efdb/reviews-546410512038/schema.json)

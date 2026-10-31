@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## EIA weekly retail fuel prices / prices
 
-2,080 total rows · 500 sampled · Output revision 2
+2,080 total rows · 50 sampled · Output revision 2
 Published: 2026-10-29T16:43:18.803609Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a71484658f80/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/a71484658f80/prices-fe81f9390ffe/sample.json) · [Schema](outputs/a71484658f80/prices-fe81f9390ffe/schema.json)

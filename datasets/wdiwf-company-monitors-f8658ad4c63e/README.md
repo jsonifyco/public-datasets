@@ -12,7 +12,7 @@
 
 ## browse\_ai\_monitors / monitors
 
-54 total rows · 54 sampled · Output revision 3
+54 total rows · 10 sampled · Output revision 3
 Published: 2026-10-14T13:14:12.125029Z · Producing pipeline version: 3
 
 [CSV sample](outputs/3a3b5c8044ab/monitors-e5c19e68e5a3/sample.csv) · [JSON sample](outputs/3a3b5c8044ab/monitors-e5c19e68e5a3/sample.json) · [Schema](outputs/3a3b5c8044ab/monitors-e5c19e68e5a3/schema.json)

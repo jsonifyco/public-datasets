@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## Supermarket Franchise Search and Prompt Volumes / volumes
 
-16 total rows · 16 sampled · Output revision 1
+16 total rows · 10 sampled · Output revision 1
 Published: 2026-10-31T11:20:11.061198Z · Producing pipeline version: 1
 
 [CSV sample](outputs/dce72f29ea55/volumes-5d2d96b881a9/sample.csv) · [JSON sample](outputs/dce72f29ea55/volumes-5d2d96b881a9/sample.json) · [Schema](outputs/dce72f29ea55/volumes-5d2d96b881a9/schema.json)

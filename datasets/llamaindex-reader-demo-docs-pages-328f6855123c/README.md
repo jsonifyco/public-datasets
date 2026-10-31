@@ -12,7 +12,7 @@
 
 ## LlamaIndex Module Guides docs / docs\_pages
 
-84 total rows · 84 sampled · Output revision 1
+84 total rows · 10 sampled · Output revision 1
 Published: 2026-10-14T09:05:41.861355Z · Producing pipeline version: 1
 
 [CSV sample](outputs/5c79b6ad4535/docs-pages-0c7e7490cb5b/sample.csv) · [JSON sample](outputs/5c79b6ad4535/docs-pages-0c7e7490cb5b/sample.json) · [Schema](outputs/5c79b6ad4535/docs-pages-0c7e7490cb5b/schema.json)

@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## FDA 510\(k\) clearance decisions / decisions
 
-3,155 total rows · 500 sampled · Output revision 2
+3,155 total rows · 50 sampled · Output revision 2
 Published: 2026-10-30T09:13:15.117620Z · Producing pipeline version: 2
 
 [CSV sample](outputs/31779f403f5f/decisions-3183d37be506/sample.csv) · [JSON sample](outputs/31779f403f5f/decisions-3183d37be506/sample.json) · [Schema](outputs/31779f403f5f/decisions-3183d37be506/schema.json)

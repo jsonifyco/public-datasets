@@ -1,8 +1,23 @@
 [
   {
-    "checked_at": "2026-10-30T08:00:04.960689+00:00",
+    "checked_at": "2026-10-31T08:00:05.216914+00:00",
+    "published_at": "2026-10-30T08:24:56Z",
+    "release_age_days": 0,
+    "release_id": "428793935",
+    "release_name": "n8n@2.45.7",
+    "release_notes": "## [2.45.7](https://github.com/n8n-io/n8n/compare/n8n@2.45.6...n8n@2.45.7) (2026-10-30)\n\n\n### Bug Fix…",
+    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.7",
+    "repository": "n8n-io/n8n",
+    "repository_url": "https://github.com/n8n-io/n8n",
+    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
+    "tool": "n8n",
+    "use_case": "Workflow automation and integrations",
+    "version": "n8n@2.45.7"
+  },
+  {
+    "checked_at": "2026-10-31T08:00:05.325468+00:00",
     "published_at": "2026-10-28T18:10:23Z",
-    "release_age_days": 1,
+    "release_age_days": 2,
     "release_id": "419376922",
     "release_name": "Release v2.6.0 🌈",
     "release_notes": "## ⚠️ For EE users, before upgrading to v2.6.0 finish existing Temporal workflow runs on v2.5.1\r\n\r\nAp…",
@@ -15,24 +30,9 @@
     "version": "v2.6.0"
   },
   {
-    "checked_at": "2026-10-30T08:00:05.050772+00:00",
-    "published_at": "2026-10-29T08:30:41Z",
-    "release_age_days": 0,
-    "release_id": "427615933",
-    "release_name": "n8n@2.45.6",
-    "release_notes": "## [2.45.6](https://github.com/n8n-io/n8n/compare/n8n@2.45.5...n8n@2.45.6) (2026-10-29)\n\n\n### Bug Fix…",
-    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.6",
-    "repository": "n8n-io/n8n",
-    "repository_url": "https://github.com/n8n-io/n8n",
-    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
-    "tool": "n8n",
-    "use_case": "Workflow automation and integrations",
-    "version": "n8n@2.45.6"
-  },
-  {
-    "checked_at": "2026-10-30T08:00:04.874548+00:00",
+    "checked_at": "2026-10-31T08:00:05.138810+00:00",
     "published_at": "2026-10-19T08:09:46Z",
-    "release_age_days": 10,
+    "release_age_days": 11,
     "release_id": "417045683",
     "release_name": "v3.50.0",
     "release_notes": "## What's Changed\n* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",

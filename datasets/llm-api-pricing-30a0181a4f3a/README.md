@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## LLM API token prices / main
 
-1,588 total rows · 500 sampled · Output revision 12
+1,588 total rows · 50 sampled · Output revision 12
 Published: 2026-10-30T18:47:00.993978Z · Producing pipeline version: 9
 
 [CSV sample](outputs/65257665d6fa/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/65257665d6fa/main-0d6e4079e367/sample.json) · [Schema](outputs/65257665d6fa/main-0d6e4079e367/schema.json)

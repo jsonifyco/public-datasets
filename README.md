@@ -6,7 +6,7 @@
 
 <img src="jason.png" width="48" alt="Jason" /> Public dataset samples, published by Jason.
 
-Explore the samples below, or [browse the full directory](https://www.jsonify.com/datasets/). Get the full datasets for free on their linked pages: CSV or JSON, email required.
+Explore the samples below, or [browse the full directory](https://www.jsonify.com/datasets/). Get these free dataset samples on their linked pages: CSV or JSON, email required.
 
 | Dataset | Rows across tables | Refresh | Last published |
 | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Supermarket Franchise Keyword and AI Prompt Volumes](datasets/supermarket-franchise-keyword-and-ai-prompt-volumes-a3f8157e871e/) | 16 | On demand | 2026-10-31T11:20:11.061198Z |
 | [US Baseball Team Decision\-Maker Contacts: School, Youth and Minor\-League Teams](datasets/us-baseball-team-decision-maker-contacts-b0b0de74ab33/) | 1,000 | On demand | 2026-10-22T14:59:13.945962Z |
 | [Public Instagram Posts from paul\_hunkin](datasets/instagram-posts-be49f86d2a46/) | 12 | On demand | 2026-10-17T18:08:01.916600Z |
-| [Global Short\-Drama Reels Catalogue and Coin Packs](datasets/short-drama-charts-and-catalogue-c3bee033d5c1/) | 172,812 | weekly | 2026-10-26T20:04:36.761315Z |
+| [Global Short\-Drama Reels Catalogue and Coin Packs](datasets/short-drama-charts-and-catalogue-c3bee033d5c1/) | 103,226 | weekly | 2026-10-26T20:04:36.761315Z |
 | [TMview Class 36 Trademarks and Publicly Evidenced Company Websites](datasets/tmview-class-36-brands-and-websites-cabdb479e298/) | 10 | On demand | 2026-10-26T17:23:00.087271Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |
 | [Calven competitor watch](datasets/calven-competitor-watch-dfd2d8d7f7fc/) | 27 | On demand | 2026-10-14T14:39:43.933603Z |
@@ -50,6 +50,6 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Amazon Product Reviews and Ratings Sample Dataset](datasets/amazon-reviews-and-ratings-demo-f31687d4dfcd/) | 12 | On demand | 2026-10-22T14:05:00.788201Z |
 | [WDIWF company monitors](datasets/wdiwf-company-monitors-f8658ad4c63e/) | 54 | On demand | 2026-10-14T13:14:12.125029Z |
 
-Each worksheet samples its first 500 rows; rows too large for the preview API are omitted and counted in the worksheet README. Samples are refreshed regularly and may change over time. Consult each dataset’s source terms before reuse; this collection does not grant a blanket license to third-party data.
+Each worksheet includes up to 50 saved curated or automatic sample rows; rows too large for the preview API are omitted and counted in the worksheet README. Samples are refreshed regularly and may change over time. Consult each dataset’s source terms before reuse; this collection does not grant a blanket license to third-party data.
 
 Need different data? [Build your own dataset with Jsonify](https://www.jsonify.com).

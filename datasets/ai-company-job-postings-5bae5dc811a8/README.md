@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## AI company job postings / jobs
 
-4,897 total rows · 500 sampled · Output revision 7
+4,897 total rows · 50 sampled · Output revision 7
 Published: 2026-10-30T11:30:35.328477Z · Producing pipeline version: 4
 
 [CSV sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.csv) · [JSON sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.json) · [Schema](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/schema.json)

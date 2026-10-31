@@ -1,10 +1,22 @@
 [
   {
     "name": "catalog_position",
-    "type": "bigint"
+    "type": "integer"
+  },
+  {
+    "name": "categories",
+    "type": "jsonb"
   },
   {
     "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "countries",
+    "type": "jsonb"
+  },
+  {
+    "name": "coverage",
     "type": "text"
   },
   {
@@ -20,6 +32,34 @@
     "type": "text"
   },
   {
+    "name": "geography",
+    "type": "text"
+  },
+  {
+    "name": "history_length",
+    "type": "text"
+  },
+  {
+    "name": "listing_family",
+    "type": "text"
+  },
+  {
+    "name": "listing_rating",
+    "type": "integer"
+  },
+  {
+    "name": "listing_review_count",
+    "type": "integer"
+  },
+  {
+    "name": "offer_type",
+    "type": "text"
+  },
+  {
+    "name": "popularity_metrics",
+    "type": "text"
+  },
+  {
     "name": "price",
     "type": "text"
   },
@@ -28,7 +68,35 @@
     "type": "text"
   },
   {
+    "name": "price_monthly",
+    "type": "double precision"
+  },
+  {
+    "name": "price_one_off",
+    "type": "double precision"
+  },
+  {
+    "name": "price_parse_status",
+    "type": "text"
+  },
+  {
+    "name": "price_usage",
+    "type": "double precision"
+  },
+  {
+    "name": "price_usage_unit",
+    "type": "text"
+  },
+  {
+    "name": "price_yearly",
+    "type": "double precision"
+  },
+  {
     "name": "pricing_details",
+    "type": "text"
+  },
+  {
+    "name": "pricing_options",
     "type": "text"
   },
   {
@@ -45,30 +113,26 @@
   },
   {
     "name": "provider_review_count",
-    "type": "bigint"
+    "type": "integer"
+  },
+  {
+    "name": "refresh_frequency",
+    "type": "jsonb"
   },
   {
     "name": "signal_note",
     "type": "text"
   },
   {
-    "name": "price_monthly",
-    "type": "double precision"
+    "name": "source",
+    "type": "text"
   },
   {
-    "name": "price_yearly",
-    "type": "double precision"
+    "name": "source_listing_id",
+    "type": "text"
   },
   {
-    "name": "price_one_off",
-    "type": "double precision"
-  },
-  {
-    "name": "price_usage",
-    "type": "double precision"
-  },
-  {
-    "name": "price_usage_unit",
+    "name": "source_metadata",
     "type": "text"
   }
 ]

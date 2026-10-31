@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-574 total rows · 500 sampled · Output revision 9
+574 total rows · 50 sampled · Output revision 9
 Published: 2026-10-31T06:01:36.920418Z · Producing pipeline version: 5
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)

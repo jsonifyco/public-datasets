@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## S&amp;P 500 SEC 8\-K filings / main
 
-430 total rows · 430 sampled · Output revision 3
+430 total rows · 50 sampled · Output revision 3
 Published: 2026-10-26T08:07:39.395299Z · Producing pipeline version: 1
 
 [CSV sample](outputs/2a3d98f94699/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/2a3d98f94699/main-0d6e4079e367/sample.json) · [Schema](outputs/2a3d98f94699/main-0d6e4079e367/schema.json)

@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## Ad intelligence history / ad\_snapshots
 
-12 total rows · 12 sampled · Output revision 2
+12 total rows · 10 sampled · Output revision 2
 Published: 2026-10-22T13:09:28.137275Z · Producing pipeline version: 3
 
 [CSV sample](outputs/0eb37107b8f9/ad-snapshots-3b139d619469/sample.csv) · [JSON sample](outputs/0eb37107b8f9/ad-snapshots-3b139d619469/sample.json) · [Schema](outputs/0eb37107b8f9/ad-snapshots-3b139d619469/schema.json)

@@ -12,7 +12,7 @@
 
 ## Quiet Signals / signals
 
-18 total rows · 18 sampled · Output revision 10
+18 total rows · 10 sampled · Output revision 10
 Published: 2026-10-26T09:07:39.299769Z · Producing pipeline version: 1
 
 [CSV sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/50c345b0be12/signals-c1d2c1df9eab/schema.json)

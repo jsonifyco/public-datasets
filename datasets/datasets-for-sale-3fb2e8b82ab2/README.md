@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## Datarade datasets for sale / datasets
 
-14,054 total rows · 500 sampled · Output revision 6
+14,054 total rows · 50 sampled · Output revision 6
 Published: 2026-10-31T12:08:13.007880Z · Producing pipeline version: 15
 
 [CSV sample](outputs/8013588df6ed/datasets-714284abfa95/sample.csv) · [JSON sample](outputs/8013588df6ed/datasets-714284abfa95/sample.json) · [Schema](outputs/8013588df6ed/datasets-714284abfa95/schema.json)

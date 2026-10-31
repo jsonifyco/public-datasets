@@ -18,18 +18,20 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-6,934 total rows · 500 sampled · Output revision 35
+6,934 total rows · 47 sampled · Output revision 35
 Published: 2026-10-27T08:04:37.293971Z · Producing pipeline version: 31
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
-| ad\_evidence | ad\_tier | billing\_currency | billing\_period | bundle\_requirement | country | country\_evidence | country\_name |
+Curated sample from revision 35; saved 2026-10-31T15:52:38.324217Z. This illustrative snapshot does not refresh with the dataset.
+
+| service | monthly\_price | billing\_currency | plan | country\_name | ad\_evidence | ad\_tier | billing\_period |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Official product benefit: no\_ads | ad\_free | USD | month | None | CI | Crunchyroll source session country: CI; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Côte d’Ivoire |
-| Official product benefit: no\_ads | ad\_free | USD | month | None | CM | Crunchyroll source session country: CM; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Cameroon |
-| Official product benefit: no\_ads | ad\_free | USD | month | None | SN | Crunchyroll source session country: SN; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Senegal |
-| Official product benefit: no\_ads | ad\_free | USD | month | None | LY | Crunchyroll source session country: LY; monthly product cr\_premium\.1\_month; benefit package premium\_non\_english\_intl | Libya |
-| Official product benefit: no\_ads | ad\_free | USD | month | None | SN | Crunchyroll source session country: SN; monthly product cr\_fan\_pack\.1\_month; benefit package fan\_pack\_non\_english\_intl | Senegal |
+| Apple TV\+ | 9\.99 | EUR | Apple TV monthly subscription | Ireland | no ads | ad\_free | month |
+| Apple TV\+ | 6990 | CLP | Apple TV | Chile | sin anuncios | ad\_free | month |
+| Crunchyroll | 5\.99 | EUR | Fan | Albania | Official product benefit: no\_ads | ad\_free | month |
+| Crunchyroll | 415 | BDT | Ultimate Fan | Bangladesh | Official product benefit: no\_ads | ad\_free | month |
+| Crunchyroll | 95 | MDL | Mega Fan | Moldova | Official product benefit: no\_ads | ad\_free | month |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -37,25 +39,25 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
+| service | text |
+| monthly\_price | double precision |
+| billing\_currency | text |
+| plan | text |
+| country\_name | text |
 | ad\_evidence | text |
 | ad\_tier | text |
-| billing\_currency | text |
 | billing\_period | text |
 | bundle\_requirement | text |
 | country | text |
 | country\_evidence | text |
-| country\_name | text |
 | currency | text |
 | features | text |
 | is\_bundle | boolean |
 | kind | text |
 | local\_currency | text |
-| monthly\_price | double precision |
 | notes | text |
 | observed\_at | text |
-| plan | text |
 | price\_evidence | text |
-| service | text |
 | sold\_via | text |
 | source\_url | text |
 | status | text |

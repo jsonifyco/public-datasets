@@ -1,14 +1,30 @@
 [
   {
+    "name": "service",
+    "type": "text"
+  },
+  {
+    "name": "monthly_price",
+    "type": "double precision"
+  },
+  {
+    "name": "billing_currency",
+    "type": "text"
+  },
+  {
+    "name": "plan",
+    "type": "text"
+  },
+  {
+    "name": "country_name",
+    "type": "text"
+  },
+  {
     "name": "ad_evidence",
     "type": "text"
   },
   {
     "name": "ad_tier",
-    "type": "text"
-  },
-  {
-    "name": "billing_currency",
     "type": "text"
   },
   {
@@ -25,10 +41,6 @@
   },
   {
     "name": "country_evidence",
-    "type": "text"
-  },
-  {
-    "name": "country_name",
     "type": "text"
   },
   {
@@ -52,10 +64,6 @@
     "type": "text"
   },
   {
-    "name": "monthly_price",
-    "type": "double precision"
-  },
-  {
     "name": "notes",
     "type": "text"
   },
@@ -64,15 +72,7 @@
     "type": "text"
   },
   {
-    "name": "plan",
-    "type": "text"
-  },
-  {
     "name": "price_evidence",
-    "type": "text"
-  },
-  {
-    "name": "service",
     "type": "text"
   },
   {

@@ -30,9 +30,5 @@
   {
     "name": "unlock_model",
     "type": "text"
-  },
-  {
-    "name": "metadata_status",
-    "type": "text"
   }
 ]

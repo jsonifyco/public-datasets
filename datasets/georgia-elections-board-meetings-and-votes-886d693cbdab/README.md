@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## Georgia Elections Board Meetings and Votes / meeting\_actions
 
-1,257 total rows · 500 sampled · Output revision 2
+1,257 total rows · 50 sampled · Output revision 2
 Published: 2026-10-18T21:14:33.754956Z · Producing pipeline version: 19
 
 [CSV sample](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/sample.csv) · [JSON sample](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/sample.json) · [Schema](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/schema.json)

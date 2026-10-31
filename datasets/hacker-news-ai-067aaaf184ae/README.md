@@ -18,7 +18,7 @@ Original request to Jason.
 
 ## Hacker News AI Story Tags / stories
 
-30 total rows · 30 sampled · Output revision 209
+30 total rows · 10 sampled · Output revision 209
 Published: 2026-10-26T09:03:29.234827Z · Producing pipeline version: 5
 
 [CSV sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.csv) · [JSON sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.json) · [Schema](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/schema.json)

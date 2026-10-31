@@ -18,7 +18,7 @@ Summary from the public dataset description.
 
 ## LLM API pricing / models
 
-88 total rows · 88 sampled · Output revision 3
+88 total rows · 10 sampled · Output revision 3
 Published: 2026-10-14T12:06:48.861890Z · Producing pipeline version: 4
 
 [CSV sample](outputs/3c641330b6b7/models-8edcc26c0f6c/sample.csv) · [JSON sample](outputs/3c641330b6b7/models-8edcc26c0f6c/sample.json) · [Schema](outputs/3c641330b6b7/models-8edcc26c0f6c/schema.json)

@@ -12,7 +12,7 @@
 
 ## Workflow automation pricing &amp; changelog / plans
 
-24 total rows · 24 sampled · Output revision 3
+24 total rows · 10 sampled · Output revision 3
 Published: 2026-10-14T12:36:28.908129Z · Producing pipeline version: 6
 
 [CSV sample](outputs/d5f50b0a8f2c/plans-c404dc69b55c/sample.csv) · [JSON sample](outputs/d5f50b0a8f2c/plans-c404dc69b55c/sample.json) · [Schema](outputs/d5f50b0a8f2c/plans-c404dc69b55c/schema.json)
@@ -44,7 +44,7 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Workflow automation pricing &amp; changelog / changelog
 
-40 total rows · 40 sampled · Output revision 3
+40 total rows · 10 sampled · Output revision 3
 Published: 2026-10-14T12:36:28.908129Z · Producing pipeline version: 6
 
 [CSV sample](outputs/d5f50b0a8f2c/changelog-6665bc2f57c4/sample.csv) · [JSON sample](outputs/d5f50b0a8f2c/changelog-6665bc2f57c4/sample.json) · [Schema](outputs/d5f50b0a8f2c/changelog-6665bc2f57c4/schema.json)

@@ -12,7 +12,7 @@
 
 ## Agent builder pricing &amp; changelog / plans
 
-18 total rows · 18 sampled · Output revision 2
+18 total rows · 10 sampled · Output revision 2
 Published: 2026-10-14T12:03:01.728482Z · Producing pipeline version: 3
 
 [CSV sample](outputs/ae1878619955/plans-c404dc69b55c/sample.csv) · [JSON sample](outputs/ae1878619955/plans-c404dc69b55c/sample.json) · [Schema](outputs/ae1878619955/plans-c404dc69b55c/schema.json)
@@ -42,7 +42,7 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Agent builder pricing &amp; changelog / changelog
 
-60 total rows · 60 sampled · Output revision 2
+60 total rows · 10 sampled · Output revision 2
 Published: 2026-10-14T12:03:01.728482Z · Producing pipeline version: 3
 
 [CSV sample](outputs/ae1878619955/changelog-6665bc2f57c4/sample.csv) · [JSON sample](outputs/ae1878619955/changelog-6665bc2f57c4/sample.json) · [Schema](outputs/ae1878619955/changelog-6665bc2f57c4/schema.json)

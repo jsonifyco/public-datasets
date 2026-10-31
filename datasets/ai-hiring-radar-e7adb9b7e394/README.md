@@ -12,7 +12,7 @@
 
 ## Cedar AI hiring radar / roles
 
-75 total rows · 75 sampled · Output revision 10
+75 total rows · 10 sampled · Output revision 10
 Published: 2026-10-26T09:01:09.738470Z · Producing pipeline version: 1
 
 [CSV sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.csv) · [JSON sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.json) · [Schema](outputs/0642c473c8e3/roles-66cf5513b374/schema.json)

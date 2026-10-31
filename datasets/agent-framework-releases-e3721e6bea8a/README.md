@@ -12,7 +12,7 @@
 
 ## Agent framework releases / releases
 
-30 total rows · 30 sampled · Output revision 2
+30 total rows · 10 sampled · Output revision 2
 Published: 2026-10-14T12:00:31.586928Z · Producing pipeline version: 2
 
 [CSV sample](outputs/88a232928bbf/releases-20195541dc5d/sample.csv) · [JSON sample](outputs/88a232928bbf/releases-20195541dc5d/sample.json) · [Schema](outputs/88a232928bbf/releases-20195541dc5d/schema.json)

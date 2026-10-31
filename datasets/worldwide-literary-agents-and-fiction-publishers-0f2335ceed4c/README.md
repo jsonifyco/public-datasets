@@ -18,7 +18,7 @@ Original request to Jason.
 
 ## Worldwide literary contacts / contacts
 
-145 total rows · 145 sampled · Output revision 6
+145 total rows · 50 sampled · Output revision 6
 Published: 2026-10-17T17:35:55.531140Z · Producing pipeline version: 6
 
 [CSV sample](outputs/f5fba97fc3b2/contacts-aa5af4084f37/sample.csv) · [JSON sample](outputs/f5fba97fc3b2/contacts-aa5af4084f37/sample.json) · [Schema](outputs/f5fba97fc3b2/contacts-aa5af4084f37/schema.json)

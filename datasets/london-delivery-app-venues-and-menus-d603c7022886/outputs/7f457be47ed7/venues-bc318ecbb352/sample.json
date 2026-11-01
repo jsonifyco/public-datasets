@@ -1,0 +1,992 @@
+[
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "food_type.chicken",
+        "dimension": "food_type",
+        "name": "Chicken"
+      },
+      {
+        "category_id": "food_type.burgers",
+        "dimension": "food_type",
+        "name": "Burgers"
+      },
+      {
+        "category_id": "food_type.chicken_wings",
+        "dimension": "food_type",
+        "name": "Chicken Wings"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Chicken",
+        "Burgers",
+        "Wings"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:26.762434+00:00",
+    "delivery": "{\"eta\": {\"status\": \"not_provided\", \"max_minutes\": null, \"min_minutes\": null}, \"fe…",
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 22:45",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "29 Villiers St, London, WC2N6ND",
+      "latitude": 51.508217,
+      "longitude": -0.123829,
+      "postcode": "WC2N 6ND",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 81,
+      "priced_entries": 81
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "lower_bound",
+        "source_text": "500+",
+        "value": 500
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.5
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/strand/thunderbird-fried-chicken-villiers-st?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "160446",
+    "venue_key": "Deliveroo|160446",
+    "venue_name": "Thunderbird Fried Chicken - Charing Cross"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "cuisine.italian",
+        "dimension": "cuisine",
+        "name": "Italian"
+      },
+      {
+        "category_id": "venue_attribute.vegan_options",
+        "dimension": "venue_attribute",
+        "name": "Vegan Options"
+      },
+      {
+        "category_id": "food_type.pasta",
+        "dimension": "food_type",
+        "name": "Pasta"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Italian",
+        "Vegan Friendly",
+        "Pasta"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:26.619730+00:00",
+    "delivery": {
+      "available": true,
+      "eta": {
+        "max_minutes": null,
+        "min_minutes": null,
+        "status": "not_provided"
+      },
+      "fee": {
+        "amount": 4.99,
+        "bands": null,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "minimum_order": {
+        "amount": 14.0,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "source_data": {
+        "header_lines": [
+          "Italian",
+          "·",
+          "Vegan Friendly",
+          "Pasta",
+          "1.90 miles away",
+          "£14.00 minimum",
+          "£4.99 delivery fee",
+          "Info",
+          "Map, allergens and hygiene rating",
+          "4.7 Excellent",
+          "(500+)",
+          "'Authentic food'"
+        ]
+      }
+    },
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": null,
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "not_collected"
+    },
+    "location": {
+      "address": "45 Crawford Street, London,,, London, W1H1JT",
+      "latitude": 51.519362,
+      "longitude": -0.162663,
+      "postcode": "W1H 1JT",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 59,
+      "priced_entries": 59
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "lower_bound",
+        "source_text": "500+",
+        "value": 500
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.7
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/marylebone/basilico-marylebone-basic?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "202994",
+    "venue_key": "Deliveroo|202994",
+    "venue_name": "Basilico - Wood Fired Pizza - Marylebone"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "food_type.chicken_wings",
+        "dimension": "food_type",
+        "name": "Chicken Wings"
+      },
+      {
+        "category_id": "food_type.chicken",
+        "dimension": "food_type",
+        "name": "Chicken"
+      },
+      {
+        "category_id": "venue_attribute.halal_options",
+        "dimension": "venue_attribute",
+        "name": "Halal Options"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Wings",
+        "Chicken",
+        "Halal"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:27.127583+00:00",
+    "delivery": {
+      "available": true,
+      "eta": {
+        "max_minutes": null,
+        "min_minutes": null,
+        "status": "not_provided"
+      },
+      "fee": {
+        "amount": 1.29,
+        "bands": null,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "minimum_order": {
+        "amount": 8.0,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "source_data": {
+        "header_lines": [
+          "Wings",
+          "·",
+          "Chicken",
+          "Halal",
+          "0.70 miles away",
+          "Closes at 22:30",
+          "£8.00 minimum",
+          "£1.29 delivery fee",
+          "Info",
+          "Map, allergens and hygiene rating",
+          "4.7 Excellent",
+          "(500+)",
+          "'Bold flavours'"
+        ]
+      }
+    },
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 22:30",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "138 Shaftesbury Avenue, London, WC2H8HB",
+      "latitude": 51.5130459534213,
+      "longitude": -0.12916982173919678,
+      "postcode": "WC2H 8HB",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 51,
+      "priced_entries": 51
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "lower_bound",
+        "source_text": "500+",
+        "value": 500
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.7
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/leicester-square/wingstop-uk?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "156565",
+    "venue_key": "Deliveroo|156565",
+    "venue_name": "Wingstop"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "venue_attribute.gluten_free_options",
+        "dimension": "venue_attribute",
+        "name": "Gluten Free Options"
+      },
+      {
+        "category_id": "food_type.chicken",
+        "dimension": "food_type",
+        "name": "Chicken"
+      },
+      {
+        "category_id": "food_type.salads",
+        "dimension": "food_type",
+        "name": "Salads"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Gluten Free",
+        "Chicken",
+        "Salads"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:27.005377+00:00",
+    "delivery": {
+      "available": true,
+      "eta": {
+        "max_minutes": null,
+        "min_minutes": null,
+        "status": "not_provided"
+      },
+      "fee": {
+        "amount": 1.99,
+        "bands": null,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "minimum_order": {
+        "amount": 8.0,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "source_data": {
+        "header_lines": [
+          "Gluten Free",
+          "·",
+          "Chicken",
+          "Salads",
+          "1.30 miles away",
+          "Closes at 21:30",
+          "£8.00 minimum",
+          "£1.99 delivery fee",
+          "Info",
+          "Map, allergens and hygiene rating",
+          "4.9 Excellent",
+          "See all 500 reviews"
+        ]
+      }
+    },
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 21:30",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "67 Whitfield Street, London, London, W1T7DE",
+      "latitude": 51.52118108497019,
+      "longitude": -0.13626694679260254,
+      "postcode": "W1T 7DE",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 95,
+      "priced_entries": 95
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "not_provided",
+        "source_text": null,
+        "value": null
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.9
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/fitzrovia/simple-health-kitchen-baker-st?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "53334",
+    "venue_key": "Deliveroo|53334",
+    "venue_name": "Simple Health Kitchen - Fitzrovia"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "cuisine.korean",
+        "dimension": "cuisine",
+        "name": "Korean"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Korean"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:27.997859+00:00",
+    "delivery": {
+      "available": true,
+      "eta": {
+        "max_minutes": null,
+        "min_minutes": null,
+        "status": "not_provided"
+      },
+      "fee": {
+        "amount": 1.49,
+        "bands": null,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "minimum_order": {
+        "amount": 8.0,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "source_data": {
+        "header_lines": [
+          "Korean",
+          "1.00 mile away",
+          "·",
+          "Closes at 20:30",
+          "£8.00 minimum",
+          "£1.49 delivery fee",
+          "Info",
+          "Map, allergens and hygiene rating",
+          "4.3 Very good",
+          "See all 11 reviews"
+        ]
+      }
+    },
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 20:30",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "16 Bloomsbury Street, London, WC1B3QA",
+      "latitude": 51.51749299999999,
+      "longitude": -0.1272267,
+      "postcode": "WC1B 3QA",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 47,
+      "priced_entries": 47
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "not_provided",
+        "source_text": null,
+        "value": null
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.3
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/bloomsbury/scj-picnic-to-korea?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "587558",
+    "venue_key": "Deliveroo|587558",
+    "venue_name": "SCJ Nunu Sushi - Bloomsbury"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "food_type.burgers",
+        "dimension": "food_type",
+        "name": "Burgers"
+      },
+      {
+        "category_id": "food_type.sauces_and_dips",
+        "dimension": "food_type",
+        "name": "Sauces and Dips"
+      }
+    ],
+    "category_context": {
+      "basis": "observed_menu_categories",
+      "mapping_status": "derived",
+      "source_labels": [],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:28.254704+00:00",
+    "delivery": {
+      "available": true,
+      "eta": {
+        "max_minutes": null,
+        "min_minutes": null,
+        "status": "not_provided"
+      },
+      "fee": {
+        "amount": 1.49,
+        "bands": null,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "minimum_order": {
+        "amount": 8.0,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "source_data": {
+        "header_lines": [
+          "0.80 miles away",
+          "·",
+          "Closes at 21:00",
+          "£8.00 minimum",
+          "£1.49 delivery fee",
+          "Info",
+          "Map, allergens and hygiene rating",
+          "4.7 Excellent",
+          "(500+)",
+          "'Tasty food'"
+        ]
+      }
+    },
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 21:00",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "191 Victoria Street, London, SW1E5NE",
+      "latitude": 51.4964336,
+      "longitude": -0.1438465,
+      "postcode": "SW1E 5NE",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 34,
+      "priced_entries": 34
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "lower_bound",
+        "source_text": "500+",
+        "value": 500
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.7
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/victoria/black-bear-burger-victoria?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "553722",
+    "venue_key": "Deliveroo|553722",
+    "venue_name": "Black Bear Burger - Victoria"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "cuisine.asian",
+        "dimension": "cuisine",
+        "name": "Asian"
+      },
+      {
+        "category_id": "food_type.sushi",
+        "dimension": "food_type",
+        "name": "Sushi"
+      },
+      {
+        "category_id": "cuisine.japanese",
+        "dimension": "cuisine",
+        "name": "Japanese"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Asian",
+        "Sushi",
+        "Japanese"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:28.357179+00:00",
+    "delivery": "{\"eta\": {\"status\": \"not_provided\", \"max_minutes\": null, \"min_minutes\": null}, \"fe…",
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 22:30",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "76 Southampton Row, London, WC1B4AR",
+      "latitude": 51.5197216,
+      "longitude": -0.1217359,
+      "postcode": "WC1B 4AR",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 126,
+      "priced_entries": 126
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "lower_bound",
+        "source_text": "500+",
+        "value": 500
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.8
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/bloomsbury/gourmet-sushi-southampton-row?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "595100",
+    "venue_key": "Deliveroo|595100",
+    "venue_name": "Gourmet Sushi - Southampton Row"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "venue_attribute.healthy_options",
+        "dimension": "venue_attribute",
+        "name": "Healthy Options"
+      },
+      {
+        "category_id": "beverage.juice",
+        "dimension": "beverage",
+        "name": "Juice"
+      },
+      {
+        "category_id": "beverage.coffee",
+        "dimension": "beverage",
+        "name": "Coffee"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Healthy",
+        "Juices",
+        "Coffee"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:28.123783+00:00",
+    "delivery": {
+      "available": true,
+      "eta": {
+        "max_minutes": null,
+        "min_minutes": null,
+        "status": "not_provided"
+      },
+      "fee": {
+        "amount": 1.79,
+        "bands": null,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "minimum_order": {
+        "amount": 8.0,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "source_data": {
+        "header_lines": [
+          "Healthy",
+          "·",
+          "Juices",
+          "Coffee",
+          "1.00 mile away",
+          "Closes at 18:00",
+          "£8.00 minimum",
+          "£1.79 delivery fee",
+          "Info",
+          "Map, allergens and hygiene rating",
+          "4.7 Excellent",
+          "(500+)",
+          "'Tasty food'"
+        ]
+      }
+    },
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 18:00",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "7 Hanover Square, London, W1S1HQ",
+      "latitude": 51.5140484,
+      "longitude": -0.143202,
+      "postcode": "W1S 1HQ",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 138,
+      "priced_entries": 138
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "lower_bound",
+        "source_text": "500+",
+        "value": 500
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.7
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/mayfair/nathalie?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "137872",
+    "venue_key": "Deliveroo|137872",
+    "venue_name": "Nathalie - Mayfair"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "cuisine.japanese",
+        "dimension": "cuisine",
+        "name": "Japanese"
+      },
+      {
+        "category_id": "food_type.ramen",
+        "dimension": "food_type",
+        "name": "Ramen"
+      },
+      {
+        "category_id": "venue_attribute.vegan_options",
+        "dimension": "venue_attribute",
+        "name": "Vegan Options"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Japanese",
+        "Ramen",
+        "Vegan Friendly"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:29.704316+00:00",
+    "delivery": {
+      "available": true,
+      "eta": {
+        "max_minutes": null,
+        "min_minutes": null,
+        "status": "not_provided"
+      },
+      "fee": {
+        "amount": 1.29,
+        "bands": null,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "minimum_order": {
+        "amount": 8.0,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "source_data": {
+        "header_lines": [
+          "Japanese",
+          "·",
+          "Ramen",
+          "Vegan Friendly",
+          "0.70 miles away",
+          "Closes at 21:15",
+          "£8.00 minimum",
+          "£1.29 delivery fee",
+          "Info",
+          "Allergens and more",
+          "4.5 Excellent",
+          "(238)",
+          "'Bold flavours'"
+        ]
+      }
+    },
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 21:15",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "9 Old Compton St, London, W1D5JF",
+      "latitude": 51.5136875,
+      "longitude": -0.1298125,
+      "postcode": "W1D 5JF",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 72,
+      "priced_entries": 72
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "exact",
+        "source_text": "238",
+        "value": 238
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.5
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/soho/maki-and-ramen-soho?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "775594",
+    "venue_key": "Deliveroo|775594",
+    "venue_name": "Maki & Ramen - Soho"
+  },
+  {
+    "acquisition_method": "android_app_api",
+    "app_name": "Deliveroo",
+    "categories": [
+      {
+        "category_id": "cuisine.japanese",
+        "dimension": "cuisine",
+        "name": "Japanese"
+      },
+      {
+        "category_id": "cuisine.peruvian",
+        "dimension": "cuisine",
+        "name": "Peruvian"
+      },
+      {
+        "category_id": "food_type.sushi",
+        "dimension": "food_type",
+        "name": "Sushi"
+      }
+    ],
+    "category_context": {
+      "basis": "source_category",
+      "mapping_status": "mapped",
+      "source_labels": [
+        "Japanese",
+        "Peruvian",
+        "Sushi"
+      ],
+      "taxonomy_version": "1.0",
+      "unmapped_labels": []
+    },
+    "collected_at": "2026-11-01T13:20:29.354128+00:00",
+    "delivery": {
+      "available": true,
+      "eta": {
+        "max_minutes": null,
+        "min_minutes": null,
+        "status": "not_provided"
+      },
+      "fee": {
+        "amount": 1.29,
+        "bands": null,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "minimum_order": {
+        "amount": 8.0,
+        "currency": "GBP",
+        "status": "observed"
+      },
+      "source_data": {
+        "header_lines": [
+          "Japanese",
+          "·",
+          "Peruvian",
+          "Sushi",
+          "0.80 miles away",
+          "Closes at 23:00",
+          "£8.00 minimum",
+          "£1.29 delivery fee",
+          "Info",
+          "Map, allergens and hygiene rating",
+          "4.7 Excellent",
+          "See all 214 reviews"
+        ]
+      }
+    },
+    "delivery_context": {
+      "latitude": 51.5033395,
+      "longitude": -0.1275662,
+      "postcode": "SW1A 2AA"
+    },
+    "hours": {
+      "current_notice": "Closes at 23:00",
+      "delivery_date_schedule": [],
+      "schedule": [],
+      "status": "partial"
+    },
+    "location": {
+      "address": "11, 13 Frith St, London, W1D4RB",
+      "latitude": 51.5139599,
+      "longitude": -0.1315052,
+      "postcode": "W1D 4RB",
+      "postcode_basis": "parsed_address",
+      "postcode_status": "complete",
+      "source_postcode": null
+    },
+    "menu_counts": {
+      "items": 62,
+      "priced_entries": 62
+    },
+    "menu_scope": "Menu entries returned by the app API for this delivery context",
+    "rating": {
+      "count": {
+        "qualifier": "not_provided",
+        "source_text": null,
+        "value": null
+      },
+      "scale_max": null,
+      "scale_status": "not_verified",
+      "status": "observed",
+      "value": 4.7
+    },
+    "source_url": "https://deliveroo.co.uk/menu/london/soho/chotto-matte-frith-st?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share",
+    "venue_id": "779790",
+    "venue_key": "Deliveroo|779790",
+    "venue_name": "Chotto Matte - Japanese-Peruvian Restaurant - Frith St."
+  }
+]

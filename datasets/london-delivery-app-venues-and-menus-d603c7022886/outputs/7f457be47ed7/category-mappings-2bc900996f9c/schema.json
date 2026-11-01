@@ -1,0 +1,30 @@
+[
+  {
+    "name": "app_name",
+    "type": "text"
+  },
+  {
+    "name": "category_ids",
+    "type": "jsonb"
+  },
+  {
+    "name": "entity_type",
+    "type": "text"
+  },
+  {
+    "name": "mapping_status",
+    "type": "text"
+  },
+  {
+    "name": "normalized_label",
+    "type": "text"
+  },
+  {
+    "name": "source_label",
+    "type": "text"
+  },
+  {
+    "name": "taxonomy_version",
+    "type": "text"
+  }
+]

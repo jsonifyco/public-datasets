@@ -1,0 +1,78 @@
+[
+  {
+    "name": "app_name",
+    "type": "text"
+  },
+  {
+    "name": "availability",
+    "type": "jsonb"
+  },
+  {
+    "name": "base_price",
+    "type": "double precision"
+  },
+  {
+    "name": "categories",
+    "type": "jsonb"
+  },
+  {
+    "name": "category_context",
+    "type": "jsonb"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "customization",
+    "type": "jsonb"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "item_id",
+    "type": "text"
+  },
+  {
+    "name": "item_key",
+    "type": "text"
+  },
+  {
+    "name": "item_name",
+    "type": "text"
+  },
+  {
+    "name": "media",
+    "type": "jsonb"
+  },
+  {
+    "name": "price_details",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "variant",
+    "type": "jsonb"
+  },
+  {
+    "name": "venue_id",
+    "type": "text"
+  },
+  {
+    "name": "venue_key",
+    "type": "text"
+  },
+  {
+    "name": "venue_name",
+    "type": "text"
+  }
+]

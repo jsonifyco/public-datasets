@@ -1,0 +1,51 @@
+app_name,entirely_empty,entity_type,field_path,populated_rows,scope,total_rows
+Deliveroo,false,venues,delivery.fee.amount,10,nested_optional,10
+Uber Eats,false,venues,rating.value,8,nested_optional,10
+Deliveroo,false,menu_items,media.image_url,758,nested_optional,765
+Just Eat,false,venues,source_url,10,top_level,10
+Deliveroo,false,menu_items,category_context,765,top_level,765
+Just Eat,false,venues,acquisition_method,10,top_level,10
+Uber Eats,false,venues,delivery,10,top_level,10
+Deliveroo,false,menu_items,collected_at,765,top_level,765
+Just Eat,false,menu_items,source_url,1484,top_level,1484
+Uber Eats,true,venues,delivery.fee.amount,0,nested_optional,10
+Just Eat,false,menu_items,collected_at,1484,top_level,1484
+Just Eat,false,menu_items,media.image_url,1415,nested_optional,1484
+Uber Eats,false,venues,venue_id,10,top_level,10
+Just Eat,false,menu_items,base_price,1484,top_level,1484
+Just Eat,false,menu_items,currency,1484,top_level,1484
+Uber Eats,false,menu_items,item_id,1116,top_level,1116
+Deliveroo,false,venues,venue_key,10,top_level,10
+Just Eat,false,menu_items,categories,1484,top_level,1484
+Just Eat,false,menu_items,venue_id,1484,top_level,1484
+Deliveroo,false,menu_items,app_name,765,top_level,765
+Uber Eats,false,venues,category_context,10,top_level,10
+Deliveroo,false,menu_items,price_details,765,top_level,765
+Uber Eats,false,venues,location.postcode,10,nested_optional,10
+Just Eat,false,venues,venue_key,10,top_level,10
+Just Eat,false,venues,venue_name,10,top_level,10
+Deliveroo,false,menu_items,currency,765,top_level,765
+Just Eat,false,menu_items,customization.groups,661,nested_optional,1484
+Uber Eats,false,venues,venue_key,10,top_level,10
+Uber Eats,false,menu_items,base_price,1116,top_level,1116
+Deliveroo,false,venues,source_url,10,top_level,10
+Uber Eats,false,menu_items,venue_name,1116,top_level,1116
+Uber Eats,false,venues,delivery.eta.min_minutes,10,nested_optional,10
+Just Eat,false,menu_items,availability,1484,top_level,1484
+Just Eat,false,venues,menu_counts,10,top_level,10
+Deliveroo,false,menu_items,item_name,765,top_level,765
+Uber Eats,false,venues,rating.count.value,8,nested_optional,10
+Deliveroo,false,venues,hours,10,top_level,10
+Uber Eats,false,menu_items,customization,1116,top_level,1116
+Deliveroo,true,menu_items,variant.id,0,nested_optional,765
+Deliveroo,false,menu_items,base_price,765,top_level,765
+Just Eat,false,venues,rating.value,10,nested_optional,10
+Deliveroo,false,venues,collected_at,10,top_level,10
+Uber Eats,false,venues,source_url,10,top_level,10
+Just Eat,false,menu_items,venue_key,1484,top_level,1484
+Deliveroo,false,venues,rating.value,10,nested_optional,10
+Deliveroo,false,menu_items,item_id,765,top_level,765
+Uber Eats,true,menu_items,variant.id,0,nested_optional,1116
+Just Eat,false,menu_items,item_key,1484,top_level,1484
+Uber Eats,false,menu_items,variant,1116,top_level,1116
+Uber Eats,false,venues,location,10,top_level,10

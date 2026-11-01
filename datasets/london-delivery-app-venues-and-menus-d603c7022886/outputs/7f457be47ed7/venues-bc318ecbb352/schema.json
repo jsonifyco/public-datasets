@@ -1,0 +1,66 @@
+[
+  {
+    "name": "acquisition_method",
+    "type": "text"
+  },
+  {
+    "name": "app_name",
+    "type": "text"
+  },
+  {
+    "name": "categories",
+    "type": "jsonb"
+  },
+  {
+    "name": "category_context",
+    "type": "jsonb"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "delivery",
+    "type": "jsonb"
+  },
+  {
+    "name": "delivery_context",
+    "type": "jsonb"
+  },
+  {
+    "name": "hours",
+    "type": "jsonb"
+  },
+  {
+    "name": "menu_counts",
+    "type": "jsonb"
+  },
+  {
+    "name": "menu_scope",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "venue_id",
+    "type": "text"
+  },
+  {
+    "name": "venue_key",
+    "type": "text"
+  },
+  {
+    "name": "venue_name",
+    "type": "text"
+  },
+  {
+    "name": "location",
+    "type": "jsonb"
+  }
+]

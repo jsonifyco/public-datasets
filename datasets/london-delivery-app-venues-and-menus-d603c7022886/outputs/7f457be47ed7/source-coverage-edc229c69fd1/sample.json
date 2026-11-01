@@ -1,0 +1,452 @@
+[
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "delivery.fee.amount",
+    "populated_rows": 10,
+    "scope": "nested_optional",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "rating.value",
+    "populated_rows": 8,
+    "scope": "nested_optional",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "media.image_url",
+    "populated_rows": 758,
+    "scope": "nested_optional",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "source_url",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "category_context",
+    "populated_rows": 765,
+    "scope": "top_level",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "acquisition_method",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "delivery",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "collected_at",
+    "populated_rows": 765,
+    "scope": "top_level",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "source_url",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": true,
+    "entity_type": "venues",
+    "field_path": "delivery.fee.amount",
+    "populated_rows": 0,
+    "scope": "nested_optional",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "collected_at",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "media.image_url",
+    "populated_rows": 1415,
+    "scope": "nested_optional",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "venue_id",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "base_price",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "currency",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "item_id",
+    "populated_rows": 1116,
+    "scope": "top_level",
+    "total_rows": 1116
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "venue_key",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "categories",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "venue_id",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "app_name",
+    "populated_rows": 765,
+    "scope": "top_level",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "category_context",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "price_details",
+    "populated_rows": 765,
+    "scope": "top_level",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "location.postcode",
+    "populated_rows": 10,
+    "scope": "nested_optional",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "venue_key",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "venue_name",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "currency",
+    "populated_rows": 765,
+    "scope": "top_level",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "customization.groups",
+    "populated_rows": 661,
+    "scope": "nested_optional",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "venue_key",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "base_price",
+    "populated_rows": 1116,
+    "scope": "top_level",
+    "total_rows": 1116
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "source_url",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "venue_name",
+    "populated_rows": 1116,
+    "scope": "top_level",
+    "total_rows": 1116
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "delivery.eta.min_minutes",
+    "populated_rows": 10,
+    "scope": "nested_optional",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "availability",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "menu_counts",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "item_name",
+    "populated_rows": 765,
+    "scope": "top_level",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "rating.count.value",
+    "populated_rows": 8,
+    "scope": "nested_optional",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "hours",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "customization",
+    "populated_rows": 1116,
+    "scope": "top_level",
+    "total_rows": 1116
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": true,
+    "entity_type": "menu_items",
+    "field_path": "variant.id",
+    "populated_rows": 0,
+    "scope": "nested_optional",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "base_price",
+    "populated_rows": 765,
+    "scope": "top_level",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "rating.value",
+    "populated_rows": 10,
+    "scope": "nested_optional",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "collected_at",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "source_url",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "venue_key",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "rating.value",
+    "populated_rows": 10,
+    "scope": "nested_optional",
+    "total_rows": 10
+  },
+  {
+    "app_name": "Deliveroo",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "item_id",
+    "populated_rows": 765,
+    "scope": "top_level",
+    "total_rows": 765
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": true,
+    "entity_type": "menu_items",
+    "field_path": "variant.id",
+    "populated_rows": 0,
+    "scope": "nested_optional",
+    "total_rows": 1116
+  },
+  {
+    "app_name": "Just Eat",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "item_key",
+    "populated_rows": 1484,
+    "scope": "top_level",
+    "total_rows": 1484
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "menu_items",
+    "field_path": "variant",
+    "populated_rows": 1116,
+    "scope": "top_level",
+    "total_rows": 1116
+  },
+  {
+    "app_name": "Uber Eats",
+    "entirely_empty": false,
+    "entity_type": "venues",
+    "field_path": "location",
+    "populated_rows": 10,
+    "scope": "top_level",
+    "total_rows": 10
+  }
+]

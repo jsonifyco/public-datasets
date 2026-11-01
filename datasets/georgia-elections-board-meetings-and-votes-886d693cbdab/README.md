@@ -116,6 +116,8 @@ flowchart LR
 ## Recorded repairs
 
 - 2026-10-18T18:32:22.830483Z: temporary blocker
+- 2026-11-01T21:25:26.780502Z: no change
+- 2026-11-01T21:25:42.443702Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/georgia-elections-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
 

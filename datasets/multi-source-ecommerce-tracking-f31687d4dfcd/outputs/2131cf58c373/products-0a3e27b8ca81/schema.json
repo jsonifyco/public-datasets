@@ -1,0 +1,110 @@
+[
+  {
+    "name": "availability",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "gtin",
+    "type": "text"
+  },
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "offer_context",
+    "type": "text"
+  },
+  {
+    "name": "position",
+    "type": "integer"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "price_max",
+    "type": "double precision"
+  },
+  {
+    "name": "price_min",
+    "type": "double precision"
+  },
+  {
+    "name": "price_type",
+    "type": "text"
+  },
+  {
+    "name": "product_id",
+    "type": "text"
+  },
+  {
+    "name": "product_key",
+    "type": "text"
+  },
+  {
+    "name": "product_title",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "rating_count",
+    "type": "integer"
+  },
+  {
+    "name": "rating_scope",
+    "type": "text"
+  },
+  {
+    "name": "reference_price",
+    "type": "double precision"
+  },
+  {
+    "name": "retailer",
+    "type": "text"
+  },
+  {
+    "name": "search_query",
+    "type": "text"
+  },
+  {
+    "name": "seller",
+    "type": "text"
+  },
+  {
+    "name": "source_page_number",
+    "type": "integer"
+  },
+  {
+    "name": "source_page_url",
+    "type": "text"
+  },
+  {
+    "name": "variant_scope",
+    "type": "text"
+  }
+]

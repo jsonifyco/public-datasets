@@ -8,7 +8,7 @@ GPU hourly rental prices for H100 and B200 hardware from major cloud and GPU pro
 
 - Refresh: daily
 - Active pipeline version: 5
-- Last published: 2026-10-31T06:01:36.920418Z
+- Last published: 2026-11-01T06:01:52.840026Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-574 total rows · 50 sampled · Output revision 9
-Published: 2026-10-31T06:01:36.920418Z · Producing pipeline version: 5
+844 total rows · 50 sampled · Output revision 10
+Published: 2026-11-01T06:01:52.840026Z · Producing pipeline version: 5
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| H200 | H200 | p5e\.48xlarge | US East \(Ohio\) | US | capacity\_block | Not stated | 54\.924 |
-| B200 | B200 | Marketplace offer 57221125 | , US | US | on\_demand | No fixed term | 79\.91041666666666 |
-| B200 | B200 | Marketplace offer 51592623 | Oregon, US | US | on\_demand | No fixed term | 7\.502083333333334 |
-| A100 | A100 SXM4 | Marketplace offer 36994164 | Taiwan, TW | TW | on\_demand | No fixed term | 2\.214814814814815 |
-| B200 | B200 | Pods on\-demand | Global | Global | on\_demand | No fixed term | 7\.99 |
+| A100 | A100 | p4de\.24xlarge | US West \(Oregon\) | US | capacity\_block | Not stated | 20\.369 |
+| H200 | Nvidia H200 | a3\-ultragpu\-8g | Provider list \(region unspecified\) | Global | on\_demand | No fixed term | 84\.806908493 |
+| H100 | H100 | p5\.4xlarge | US East \(Ohio\) | US | capacity\_block | Not stated | 5\.97 |
+| A100 | A100 SXM4 | Marketplace offer 50943248 | New York, US | US | on\_demand | No fixed term | 0\.4414814814814815 |
+| A100 | Nvidia A100 | a2\-highgpu\-1g | Provider list \(region unspecified\) | Global | on\_demand | No fixed term | 3\.673385 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A refreshable snapshot of public Instagram grid posts from an editable list of profiles, with captions, post links, dates, engagement counts, and preview images\.
+A published dataset of 12 public Instagram grid posts from an editable list of profiles, with captions, post links, dates, engagement counts, and preview images\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/instagram-posts-be49f86d2a46?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A refreshable snapshot of public Instagram grid posts from an editable list of p
 
 ## The brief
 
-> I need this data: A refreshable snapshot of public Instagram grid posts from an editable list of profiles, with captions, post links, dates, engagement counts, and preview images\.
+> I need this data: A published dataset of 12 public Instagram grid posts from an editable list of profiles, with captions, post links, dates, engagement counts, and preview images\.
 
 Summary from the public dataset description.
 

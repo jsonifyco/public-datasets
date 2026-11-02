@@ -7,7 +7,7 @@ Weekly charts, catalogue and coin\-pack data for three short\-drama apps across 
 [Get the full dataset for free](https://www.jsonify.com/datasets/short-drama-charts-and-catalogue-c3bee033d5c1?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 16
+- Active pipeline version: 17
 - Last published: 2026-10-26T20:04:36.761315Z
 
 ## The brief
@@ -265,10 +265,13 @@ flowchart LR
 - 2026-10-26T18:58:14.606322Z: v14: Removes empty and missing\-rail placeholders from chart positions\. Compares catalogue enumeration with the previous collection day and flags retained records with incomplete title details\.
 - 2026-10-26T19:52:47.995725Z: v15: Separates shared title metadata from locale strings\. Moves free\-episode boundaries into economics with dated observations and explicit conflicts, and rereads unresolved discrepancies\.
 - 2026-10-26T20:02:47.484826Z: v16: Adds a saved\-history rebuild so the catalogue and localisation split can be applied to existing records without recollecting them\. Preserves dated free\-episode and coin observations and marks conflicts\.
+- 2026-11-02T03:05:24.967572Z: v17: ReelShort promotional image cards no longer stop updates\. Ranked titles and playlists keep their existing handling\.
 
 ## Recorded repairs
 
 - 2026-10-26T09:37:36.463024Z: temporary blocker
+- 2026-11-02T03:01:03.510739Z: no change
+- 2026-11-02T03:05:34.048196Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/short-drama-charts-and-catalogue-c3bee033d5c1?action=get) — CSV or JSON · Email required
 

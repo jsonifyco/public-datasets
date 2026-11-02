@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-GPU hourly rental prices for H100 and B200 hardware from major cloud and GPU providers, with region, machine, unit and commitment details\.
+Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 1,110 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ GPU hourly rental prices for H100 and B200 hardware from major cloud and GPU pro
 
 ## The brief
 
-> I need this data: GPU hourly rental prices for H100 and B200 hardware from major cloud and GPU providers, with region, machine, unit and commitment details\.
+> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 1,110 rows\.
 
 Summary from the public dataset description.
 

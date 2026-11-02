@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A search\-based snapshot of yoga and meditation teachers, massage and holistic practitioners, and psychotherapists across four European cities, with source evidence and conservative duplicate matching\.
+A search\-based directory of yoga and meditation teachers, massage and holistic practitioners, and psychotherapists, with source evidence and conservative duplicate matching\. The published dataset contains 200 practitioner records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/wellness-practitioners-across-cities-8fedaa1baebd?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A search\-based snapshot of yoga and meditation teachers, massage and holistic p
 
 ## The brief
 
-> I need this data: A search\-based snapshot of yoga and meditation teachers, massage and holistic practitioners, and psychotherapists across four European cities, with source evidence and conservative duplicate matching\.
+> I need this data: A search\-based directory of yoga and meditation teachers, massage and holistic practitioners, and psychotherapists, with source evidence and conservative duplicate matching\. The published dataset contains 200 practitioner records\.
 
 Summary from the public dataset description.
 

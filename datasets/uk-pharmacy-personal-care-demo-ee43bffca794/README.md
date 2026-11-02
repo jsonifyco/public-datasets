@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Compare ordinary single\-item GBP prices for three named 75ml toothpaste variants at Boots UK, Superdrug and Well Pharmacy, with source links and qualified availability\.
+Compare ordinary single\-item GBP prices for toothpaste variants at Boots UK, Superdrug and Well Pharmacy\. The published dataset contains 9 offers, with source links and qualified availability\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/uk-pharmacy-personal-care-demo-ee43bffca794?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Compare ordinary single\-item GBP prices for three named 75ml toothpaste variant
 
 ## The brief
 
-> I need this data: Compare ordinary single\-item GBP prices for three named 75ml toothpaste variants at Boots UK, Superdrug and Well Pharmacy, with source links and qualified availability\.
+> I need this data: Compare ordinary single\-item GBP prices for toothpaste variants at Boots UK, Superdrug and Well Pharmacy\. The published dataset contains 9 offers, with source links and qualified availability\.
 
 Summary from the public dataset description.
 

@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore ad and product snapshots with creative details, landing\-page resolution, store signals, AI copy analysis, and review\-priority scores\.
+Explore 12 published ad records with creative details, landing\-page resolution, store signals, AI copy analysis, and review\-priority scores\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Explore ad and product snapshots with creative details, landing\-page resolution
 
 ## The brief
 
-> I need this data: Explore ad and product snapshots with creative details, landing\-page resolution, store signals, AI copy analysis, and review\-priority scores\.
+> I need this data: Explore 12 published ad records with creative details, landing\-page resolution, store signals, AI copy analysis, and review\-priority scores\.
 
 Summary from the public dataset description.
 

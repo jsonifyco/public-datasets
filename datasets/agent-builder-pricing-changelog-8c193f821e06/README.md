@@ -1,14 +1,20 @@
-# Agent builder pricing &amp; changelog
+# Agent Builder Pricing and Changelog
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+Agent builder pricing and changelog data for six tools, with plan details and recent release entries\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/agent-builder-pricing-changelog-8c193f821e06?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 3
 - Last published: 2026-10-14T12:03:01.728482Z
+
+## The brief
+
+> I need this data: Agent builder pricing and changelog data for six tools, with plan details and recent release entries\.
+
+Summary from the public dataset description.
 
 ## Agent builder pricing &amp; changelog / plans
 

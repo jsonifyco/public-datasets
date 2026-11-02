@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A directory of Jivamukti Yoga Barcelona team members, with profile details and Instagram account information where identified\.
+A directory of 8 Jivamukti Yoga Barcelona team records, with profile details and Instagram account information where identified\. Published November 23, 2026\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/jivamukti-barcelona-team-instagram-5f425fa222f9?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A directory of Jivamukti Yoga Barcelona team members, with profile details and I
 
 ## The brief
 
-> I need this data: A directory of Jivamukti Yoga Barcelona team members, with profile details and Instagram account information where identified\.
+> I need this data: A directory of 8 Jivamukti Yoga Barcelona team records, with profile details and Instagram account information where identified\. Published November 23, 2026\.
 
 Summary from the public dataset description.
 

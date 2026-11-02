@@ -1,35 +1,35 @@
-# 8\-K Filings Dataset: S&amp;P 500 Current Reports, Weekly
+# 8\-K Filings Dataset: S&amp;P 500 Current Reports
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-8\-K filings from S&amp;P 500 companies, updated weekly: filing date, event date, ticker, CIK, 8\-K items with descriptions and a link to each filing on EDGAR\.
+SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published table contains 690 filing rows\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/s-p-500-sec-8-k-filings-61608a881b67?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-10-26T08:07:39.395299Z
+- Last published: 2026-11-02T08:04:25.770540Z
 
 ## The brief
 
-> I need this data: 8\-K filings from S&amp;P 500 companies, updated weekly: filing date, event date, ticker, CIK, 8\-K items with descriptions and a link to each filing on EDGAR\.
+> I need this data: SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published table contains 690 filing rows\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
 
 Summary from the public dataset description.
 
 ## S&amp;P 500 SEC 8\-K filings / main
 
-430 total rows · 50 sampled · Output revision 3
-Published: 2026-10-26T08:07:39.395299Z · Producing pipeline version: 1
+690 total rows · 50 sampled · Output revision 4
+Published: 2026-11-02T08:04:25.770540Z · Producing pipeline version: 1
 
 [CSV sample](outputs/2a3d98f94699/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/2a3d98f94699/main-0d6e4079e367/sample.json) · [Schema](outputs/2a3d98f94699/main-0d6e4079e367/schema.json)
 
 | accession\_number | cik | company | filed\_date | filing\_url | form | item\_descriptions | items |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0001628280\-26\-065936 | 0000713676 | PNC Financial Services | 2026\-10\-15 | [https://www\.sec\.gov/Archives/edgar/data/713676/000162828026065936/0001628280\-26\-065936\-index\.html](<https://www.sec.gov/Archives/edgar/data/713676/000162828026065936/0001628280-26-065936-index.html>) | 8\-K | Results of Operations and Financial Condition; Financial Statements and Exhibits | 2\.02, 9\.01 |
+| 0000004962\-26\-000411 | 0000004962 | American Express | 2026\-10\-30 | [https://www\.sec\.gov/Archives/edgar/data/4962/000000496226000411/0000004962\-26\-000411\-index\.html](<https://www.sec.gov/Archives/edgar/data/4962/000000496226000411/0000004962-26-000411-index.html>) | 8\-K | Other Events; Financial Statements and Exhibits | 8\.01, 9\.01 |
 | 0001564708\-26\-000215 | 0001564708 | News Corp \(Class A\) | 2026\-10\-05 | [https://www\.sec\.gov/Archives/edgar/data/1564708/000156470826000215/0001564708\-26\-000215\-index\.html](<https://www.sec.gov/Archives/edgar/data/1564708/000156470826000215/0001564708-26-000215-index.html>) | 8\-K | Other Events; Financial Statements and Exhibits | 8\.01, 9\.01 |
 | 0001104659\-26\-117587 | 0000001800 | Abbott Laboratories | 2026\-10\-21 | [https://www\.sec\.gov/Archives/edgar/data/1800/000110465926117587/0001104659\-26\-117587\-index\.html](<https://www.sec.gov/Archives/edgar/data/1800/000110465926117587/0001104659-26-117587-index.html>) | 8\-K | Other Events; Financial Statements and Exhibits | 8\.01, 9\.01 |
-| 0000914208\-26\-000360 | 0000914208 | Invesco | 2026\-10\-09 | [https://www\.sec\.gov/Archives/edgar/data/914208/000091420826000360/0000914208\-26\-000360\-index\.html](<https://www.sec.gov/Archives/edgar/data/914208/000091420826000360/0000914208-26-000360-index.html>) | 8\-K/A | Regulation FD Disclosure; Financial Statements and Exhibits | 7\.01, 9\.01 |
-| 0000821189\-26\-000202 | 0000821189 | EOG Resources | 2026\-10\-08 | [https://www\.sec\.gov/Archives/edgar/data/821189/000082118926000202/0000821189\-26\-000202\-index\.html](<https://www.sec.gov/Archives/edgar/data/821189/000082118926000202/0000821189-26-000202-index.html>) | 8\-K | Results of Operations and Financial Condition | 2\.02 |
+| 0000051434\-26\-000147 | 0000051434 | International Paper | 2026\-10\-28 | [https://www\.sec\.gov/Archives/edgar/data/51434/000005143426000147/0000051434\-26\-000147\-index\.html](<https://www.sec.gov/Archives/edgar/data/51434/000005143426000147/0000051434-26-000147-index.html>) | 8\-K | Results of Operations and Financial Condition; Financial Statements and Exhibits | 2\.02, 9\.01 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

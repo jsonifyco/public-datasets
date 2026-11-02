@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A small sample of clothing product\-colour records from Greek Zara, Bershka and Mango storefronts, with euro prices, product links, photos and source\-exposed details\.
+A dataset of 9 clothing product\-colour records from Greek Zara, Bershka and Mango storefronts, with euro prices, product links, photos and source\-exposed details\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/greek-clothing-sample-dd3322ac5bea?action=get) — CSV or JSON · Email required
 

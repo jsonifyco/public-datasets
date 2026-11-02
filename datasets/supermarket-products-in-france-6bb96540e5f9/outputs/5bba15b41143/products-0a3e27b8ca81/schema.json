@@ -32,6 +32,10 @@
     "type": "text"
   },
   {
+    "name": "offer_id",
+    "type": "text"
+  },
+  {
     "name": "pack_size",
     "type": "text"
   },
@@ -61,6 +65,14 @@
   },
   {
     "name": "retailer",
+    "type": "text"
+  },
+  {
+    "name": "seller_id",
+    "type": "text"
+  },
+  {
+    "name": "seller_name",
     "type": "text"
   },
   {

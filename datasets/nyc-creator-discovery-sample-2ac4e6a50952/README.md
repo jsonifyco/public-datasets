@@ -1,8 +1,8 @@
-# NYC Family Weekend Activities and Food Pairings — October 24–25, 2026
+# NYC Creator Observations
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A four\-record feasibility sample pairing two official NYC family activities with food stops for October 24–25, 2026\. Not citywide or live availability coverage\.
+A published dataset of 5 NYC creator observations\. Records capture mentions and include creator, place, evidence, and context fields; they are not a comprehensive directory or live availability service\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/nyc-creator-discovery-sample-2ac4e6a50952?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A four\-record feasibility sample pairing two official NYC family activities wit
 
 ## The brief
 
-> I need this data: A four\-record feasibility sample pairing two official NYC family activities with food stops for October 24–25, 2026\. Not citywide or live availability coverage\.
+> I need this data: A published dataset of 5 NYC creator observations\. Records capture mentions and include creator, place, evidence, and context fields; they are not a comprehensive directory or live availability service\.
 
 Summary from the public dataset description.
 

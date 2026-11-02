@@ -1,14 +1,20 @@
-# AI lab research feed
+# AI Lab Research Feed
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+AI lab research feed with post titles, summaries, publication dates, canonical URLs and extraction times from four AI labs\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-lab-research-feed-a1cdaf829fb3?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 2
 - Last published: 2026-10-14T11:41:35.348891Z
+
+## The brief
+
+> I need this data: AI lab research feed with post titles, summaries, publication dates, canonical URLs and extraction times from four AI labs\.
+
+Summary from the public dataset description.
 
 ## AI lab research feed / posts
 

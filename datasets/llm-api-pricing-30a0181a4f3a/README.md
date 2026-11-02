@@ -8,7 +8,7 @@ LLM API pricing for text models on Vertex AI, Azure, Gemini API, Mistral and Coh
 
 - Refresh: weekly
 - Active pipeline version: 9
-- Last published: 2026-10-30T18:47:00.993978Z
+- Last published: 2026-11-02T06:01:58.217204Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## LLM API token prices / main
 
-1,588 total rows · 50 sampled · Output revision 12
-Published: 2026-10-30T18:47:00.993978Z · Producing pipeline version: 9
+2,487 total rows · 50 sampled · Output revision 13
+Published: 2026-11-02T06:01:58.217204Z · Producing pipeline version: 9
 
 [CSV sample](outputs/65257665d6fa/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/65257665d6fa/main-0d6e4079e367/sample.json) · [Schema](outputs/65257665d6fa/main-0d6e4079e367/schema.json)
 
 | captured\_date | platform | model\_maker | model | deployment\_type | input\_usd\_per\_1m | output\_usd\_per\_1m | cached\_input\_usd\_per\_1m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-10\-30 | OpenRouter | poolside | poolside/laguna\-s\-2\.1 | standard | 0\.09 | 0\.18 | 0\.009 |
-| 2026\-10\-30 | OpenRouter | Zhipu AI | z\-ai/glm\-5\.2 | standard | 0\.006 | 7 | 0\.005 |
-| 2026\-10\-30 | OpenRouter | nvidia | nvidia/nemotron\-3\-nano\-omni\-30b\-a3b\-reasoning:free | standard | 0 | 0 | None |
-| 2026\-10\-26 | Azure | OpenAI | o3\-mini 0131 | data zone | 1\.21 | 4\.84 | 0\.605 |
-| 2026\-10\-30 | Amazon Bedrock | Mistral | Magistral Small 1\.2 | regional | 0\.5 | 1\.5 | None |
+| 2026\-11\-02 | Gemini API | Google | Gemini 2\.5 Flash | standard | 0\.3 | 2\.5 | 0\.03 |
+| 2026\-10\-30 | Azure | OpenAI | GPT chat latest 07012026 | data zone | 5\.5 | 33 | 0\.55 |
+| 2026\-11\-02 | OpenRouter | anthracite\-org | anthracite\-org/magnum\-v4\-72b | standard | 2\.5 | 5 | None |
+| 2026\-10\-30 | OpenRouter | Zhipu AI | z\-ai/glm\-5\.3:batch | standard | 0\.45 | 2 | 0\.1 |
+| 2026\-11\-02 | Together API | Not stated | Reflection Beam | standard | 0\.4 | 1\.2 | 0\.04 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

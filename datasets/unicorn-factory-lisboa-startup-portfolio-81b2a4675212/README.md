@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Portfolio directory of Unicorn Factory Lisboa startups, with listed websites, homepage taglines, pricing evidence and website availability statuses\.
+Directory of 502 Unicorn Factory Lisboa startup portfolio records, with listed websites, homepage taglines, pricing evidence and website availability statuses\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212?action=get) — CSV or JSON · Email required
 

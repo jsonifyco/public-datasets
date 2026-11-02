@@ -1,0 +1,502 @@
+[
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:18.179828+00:00",
+    "item": "Daisy Brand Light Sour Cream (14 oz)",
+    "notes": "$3.99; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 3.99,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "14 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:00:20.431013+00:00",
+    "item": "Good Culture Cottage Cheese, Whole Milk Classic (16 oz)",
+    "notes": "section: Landing / Fresh Food; isSoldOut: false; isAvailable: true; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 3.99,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "16 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:21.919662+00:00",
+    "item": "Daisy Pure & Natural Squeeze Sour Cream (14 oz)",
+    "notes": "$3.99 on sale from $4.39; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 3.99,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "14 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:05.450417+00:00",
+    "item": "Alderfer Eggs Organic Grade a Medium Brown Eggs (18 ct)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Alderfer Eggs Organic Grade a Medium Brown Eggs (18 ct)\", \"textFormat\": \"<span>Alderfer Eggs Organic Grade a Medium Brown Eggs (18 ct)</span>\", \"accessibilityText\": \"Alderfer Eggs Organic Grade a Medium Brown Eggs (18 ct)\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 5.99,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "18 ct"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:14.868816+00:00",
+    "item": "Chobani Flip Low-Fat Boston Cream Pie Greek Yogurt (4.5 oz)",
+    "notes": "$2.39; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.39,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "4.5 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:20.217623+00:00",
+    "item": "Horizon Organic Lactose Free Whole Milk (0.5 gal)",
+    "notes": "section: Beverages / Milk & Dairy; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Horizon Organic Lactose Free Whole Milk (0.5 gal)\", \"textFormat\": \"<span>Horizon Organic Lactose Free Whole Milk (0.5 gal)</span>\", \"accessibilityText\": \"Horizon Organic Lactose Free Whole Milk (0.5 gal)\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 6.99,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "0.5 gal"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:05.449088+00:00",
+    "item": "Kerrygold Naturally Softer Pure Irish Butter (8 oz)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Kerrygold Naturally Softer Pure Irish Butter (8 oz)\", \"textFormat\": \"<span>Kerrygold Naturally Softer Pure Irish Butter (8 oz)</span>\", \"accessibilityText\": \"Kerrygold Naturally Softer Pure Irish Butter (8 oz)\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 6.69,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "8 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:20.967039+00:00",
+    "item": "Chobani Low-Fat Strawberry Banana Greek Yogurt Drink (7 fl oz)",
+    "notes": "$2.39 on sale from $3.89; 39% off; Many in stock; average rating of 4.9 stars, 20+; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.39,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "7 fl oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:13.606868+00:00",
+    "item": "Chobani Gluten Free Peach on the Bottom Greek Yogurt (5.3 oz)",
+    "notes": "$1.99; Many in stock; average rating of 4.8 stars, 20+; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.99,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:17.182782+00:00",
+    "item": "FAGE Total Strained With Mango Passion Fruit Yogurt (5.3 oz)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"FAGE Total Strained With Mango Passion Fruit Yogurt (5.3 oz)\", \"textFormat\": \"<span>FAGE Total Strained With Mango Passion Fruit Yogurt (5.3 oz) <img src=\\\"https://d4p17acsd5wyj.cloudfront.net/bazaar/grain.png\\\" width=\\\"14\\\" height=\\\"14\\\" vertical-align=\\\"middle\\\"/></span>\", \"accessibilityText\": \"FAGE Total Strained With Mango Passion Fruit Yogurt (5.3 oz), GLUTEN_FREE\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.79,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:19.884550+00:00",
+    "item": "Chobani Zero Sugar Vanilla Greek Yogurt Cup (5.3 oz)",
+    "notes": "$1.25 on sale from $2.29; 45% off; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.25,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:21.919373+00:00",
+    "item": "Daisy Brand Low Fat 2% Milkfat Cottage Cheese (24 oz)",
+    "notes": "$4.59 on sale from $6.49; 29% off; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 4.59,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "24 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:21.919902+00:00",
+    "item": "Daisy Brand 4% Milkfat Cottage Cheese with Strawberries (6 oz)",
+    "notes": "$2.49 on sale from $2.79; 11% off; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.49,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "6 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:21.476132+00:00",
+    "item": "Organic Valley Grassmilk Organic Reduced Fat 2% Milk (59 oz)",
+    "notes": "$8.79; average rating of 4.4 stars, 20+; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 8.79,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "59 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:14.871033+00:00",
+    "item": "Chobani Zero Added Sugar Protein Tropical Punch Greek Yogurt Drink Bottle (7 fl oz)",
+    "notes": "$2.29; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.29,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "7 fl oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:19.883284+00:00",
+    "item": "Chobani Low-Fat Pineapple on the Bottom Greek Yogurt (5.3 oz)",
+    "notes": "$1.25 on sale from $1.99; 37% off; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.25,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:13.602536+00:00",
+    "item": "Chobani Reduced Fat Honey Vanilla Blended Greek Yogurt (32 oz)",
+    "notes": "$8.69; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 8.69,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "32 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:20.966894+00:00",
+    "item": "Chobani Low Fat Strawberry Banana Greek Yogurt Drink Bottles (7 fl oz x 4 ct)",
+    "notes": "$9.29 on sale from $10.39; 11% off; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 9.29,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "7 fl oz x 4 ct"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:13.603863+00:00",
+    "item": "Chobani Flip Low-Fat Cookie Dough Greek Yogurt (4.5 oz)",
+    "notes": "$2.39; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.39,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "4.5 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:13.606180+00:00",
+    "item": "Chobani Low Fat 20 g Protein Plain Greek Yogurt (32 oz)",
+    "notes": "$7.59; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 7.59,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "32 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:20.969740+00:00",
+    "item": "Chobani Low-Fat Mixed Berry Greek Yogurt Drink (7 fl oz)",
+    "notes": "$2.39 on sale from $3.89; Likely out of stock; average rating of 4.8 stars, 20+; stock_level: STOCK_LEVEL_LOW_STOCK; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.39,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "7 fl oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:14.867840+00:00",
+    "item": "Chobani Non-Fat Plain Greek Yogurt Cups (5.3 oz × 4 ct)",
+    "notes": "$6.99; $4.69 with rewards account; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; conditional loyalty price; duplicate listing: no",
+    "price": 6.99,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "5.3 oz × 4 ct"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:14.871753+00:00",
+    "item": "Chobani Less Sugar Low-Fat Wild Blueberry Greek Yogurt (5.3 oz)",
+    "notes": "$1.99; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.99,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:19.884246+00:00",
+    "item": "Chobani Complete Lowfat Cherry Vanilla Greek Yogurt Drink (10 fl oz)",
+    "notes": "$3.49 on sale from $3.99; 13% off; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 3.49,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "10 fl oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:20.966556+00:00",
+    "item": "Chobani Zero Sugar Black Cherry Greek Yogurt (5.3 oz)",
+    "notes": "$1.25 on sale from $2.29; 45% off; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.25,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:21.475980+00:00",
+    "item": "Organic Valley Grassmilk Whole Milk (59 oz)",
+    "notes": "$8.79; Many in stock; average rating of 4.3 stars, 10+; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 8.79,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "59 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:11.584782+00:00",
+    "item": "Organic Valley Classic Butter, Salted (1 lbs)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Organic Valley Classic Butter, Salted (1 lbs)\", \"textFormat\": \"<span>Organic Valley Classic Butter, Salted (1 lbs)</span>\", \"accessibilityText\": \"Organic Valley Classic Butter, Salted (1 lbs)\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 8.99,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "1 lbs"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:17.181027+00:00",
+    "item": "FAGE Total Greek Strained Yogurt With Peach (5.3 oz)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"FAGE Total Greek Strained Yogurt With Peach (5.3 oz)\", \"textFormat\": \"<span>FAGE Total Greek Strained Yogurt With Peach (5.3 oz) <img src=\\\"https://d4p17acsd5wyj.cloudfront.net/bazaar/grain.png\\\" width=\\\"14\\\" height=\\\"14\\\" vertical-align=\\\"middle\\\"/></span>\", \"accessibilityText\": \"FAGE Total Greek Strained Yogurt With Peach (5.3 oz), GLUTEN_FREE\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.79,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:16.067383+00:00",
+    "item": "Chobani Low-Fat Mango Greek Yogurt Drink (7 fl oz)",
+    "notes": "$2.29; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.29,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "7 fl oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:13.602706+00:00",
+    "item": "Chobani Lowfat Vanilla Greek Yogurt (6.7 oz × 4 ct)",
+    "notes": "$8.19; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 8.19,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "6.7 oz × 4 ct"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:16.069835+00:00",
+    "item": "Chobani Low Fat Strawberry Kiwi Greek Yogurt (6.7 oz)",
+    "notes": "$2.39; Likely out of stock; stock_level: STOCK_LEVEL_LOW_STOCK; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.39,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "6.7 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:18.471442+00:00",
+    "item": "Chobani Non-Fat Vanilla Greek Yogurt (32 oz)",
+    "notes": "$6.99 on sale from $7.49; Many in stock; average rating of 4.6 stars, 50+; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 6.99,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "32 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:11.584357+00:00",
+    "item": "Stonyfield Organic Whole Milk Plain Greek Yogurt (30 oz)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Stonyfield Organic Whole Milk Plain Greek Yogurt (30 oz)\", \"textFormat\": \"<span>Stonyfield Organic Whole Milk Plain Greek Yogurt (30 oz) <img src=\\\"https://d4p17acsd5wyj.cloudfront.net/bazaar/grain.png\\\" width=\\\"14\\\" height=\\\"14\\\" vertical-align=\\\"middle\\\"/></span>\", \"accessibilityText\": \"Stonyfield Organic Whole Milk Plain Greek Yogurt (30 oz), GLUTEN_FREE\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 9.99,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "30 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:18.474409+00:00",
+    "item": "Chobani Gluten Free Peach on the Bottom Greek Yogurt (5.3 oz)",
+    "notes": "$1.25 on sale from $1.99; 37% off; Many in stock; average rating of 4.8 stars, 20+; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.25,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:20.217325+00:00",
+    "item": "Lehigh Valley Vitamin D Whole Milk (1.89 L)",
+    "notes": "section: Beverages / Milk & Dairy; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Lehigh Valley Vitamin D Whole Milk (1.89 L)\", \"textFormat\": \"<span>Lehigh Valley Vitamin D Whole Milk (1.89 L) <img src=\\\"https://d4p17acsd5wyj.cloudfront.net/bazaar/grain.png\\\" width=\\\"14\\\" height=\\\"14\\\" vertical-align=\\\"middle\\\"/></span>\", \"accessibilityText\": \"Lehigh Valley Vitamin D Whole Milk (1.89 L), GLUTEN_FREE\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.99,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "1.89 L"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:18.473312+00:00",
+    "item": "Chobani Flip Low-Fat Red Velvet Cupcake Greek Yogurt (4.5 oz)",
+    "notes": "$1.25 on sale from $2.49; 50% off; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.25,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "4.5 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:09.030159+00:00",
+    "item": "Brown Cow Cream Top Whole Milk Maple Yogurt (32 oz)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Brown Cow Cream Top Whole Milk Maple Yogurt (32 oz)\", \"textFormat\": \"<span>Brown Cow Cream Top Whole Milk Maple Yogurt (32 oz) <img src=\\\"https://d4p17acsd5wyj.cloudfront.net/bazaar/grain.png\\\" width=\\\"14\\\" height=\\\"14\\\" vertical-align=\\\"middle\\\"/></span>\", \"accessibilityText\": \"Brown Cow Cream Top Whole Milk Maple Yogurt (32 oz), GLUTEN_FREE\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 5.49,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "32 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:19.880001+00:00",
+    "item": "Chobani Low Fat No Added Sugar Raspberry Lemon Greek Yogurt (6.7 oz)",
+    "notes": "$1.25 on sale from $2.79; 55% off; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.25,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "6.7 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:19.884129+00:00",
+    "item": "Chobani Vanilla Mixed Berry on the Bottom Greek Yogurt (5.3 oz)",
+    "notes": "$1.25 on sale from $1.99; 37% off; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 1.25,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "5.3 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:14.868258+00:00",
+    "item": "Chobani Flip Low-Fat Salted Caramel Crunch with Chocolate & Toffee Greek Yogurt (4.5 oz)",
+    "notes": "$2.39; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.39,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "4.5 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:05.449383+00:00",
+    "item": "Land O'Lakes Butter in Half Sticks, Unsalted (1 lbs, 8 ct)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Land O'Lakes Butter in Half Sticks, Unsalted (1 lbs, 8 ct)\", \"textFormat\": \"<span>Land O&#39;Lakes Butter in Half Sticks, Unsalted (1 lbs, 8 ct) <img src=\\\"https://d4p17acsd5wyj.cloudfront.net/bazaar/grain.png\\\" width=\\\"14\\\" height=\\\"14\\\" vertical-align=\\\"middle\\\"/></span>\", \"accessibilityText\": \"Land O'Lakes Butter in Half Sticks, Unsalted (1 lbs, 8 ct), GLUTEN_FREE\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 7.49,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "1 lbs, 8 ct"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:14.870076+00:00",
+    "item": "Chobani Lowfat Greek Strawberry Yogurt Drink (7 fl oz)",
+    "notes": "$2.29; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 2.29,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "7 fl oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:20.355842+00:00",
+    "item": "Kerrygold Irish Butter with Olive Oil (7.5 oz)",
+    "notes": "$7.29; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 7.29,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "7.5 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:21.920057+00:00",
+    "item": "Daisy Brand Light Sour Cream (16 oz)",
+    "notes": "$3.99 on sale from $4.39; Many in stock; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 3.99,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "16 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:09.028672+00:00",
+    "item": "FAGE Total 0% Milkfat Greek Yogurt (16 oz)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"FAGE Total 0% Milkfat Greek Yogurt (16 oz)\", \"textFormat\": \"<span>FAGE Total 0% Milkfat Greek Yogurt (16 oz) <img src=\\\"https://d4p17acsd5wyj.cloudfront.net/bazaar/grain.png\\\" width=\\\"14\\\" height=\\\"14\\\" vertical-align=\\\"middle\\\"/></span>\", \"accessibilityText\": \"FAGE Total 0% Milkfat Greek Yogurt (16 oz), GLUTEN_FREE\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 4.99,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "16 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:24.680503+00:00",
+    "item": "Kerrygold Salted Irish Butter Sticks (4 oz x 4 ct)",
+    "notes": "$11.49; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 11.49,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "4 oz x 4 ct"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:04:16.069918+00:00",
+    "item": "Chobani Flip Low-Fat Pumpkin Harvest Crisp Greek Yogurt 4 ct (4.5 oz)",
+    "notes": "$7.49; Likely out of stock; stock_level: STOCK_LEVEL_LOW_STOCK; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 7.49,
+    "source": "Giant Food (10400 Old Georgetown Rd, Bethesda MD) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/27550987/",
+    "variant_qty": "4 ct (4.5 oz)"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:11.584105+00:00",
+    "item": "Kalona SuperNatural Organic Whole Milk Cottage Cheese (16 oz)",
+    "notes": "section: Fresh Food / Dairy, Cheese & Eggs; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Kalona SuperNatural Organic Whole Milk Cottage Cheese (16 oz)\", \"textFormat\": \"<span>Kalona SuperNatural Organic Whole Milk Cottage Cheese (16 oz)</span>\", \"accessibilityText\": \"Kalona SuperNatural Organic Whole Milk Cottage Cheese (16 oz)\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 6.59,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "16 oz"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:01:20.215821+00:00",
+    "item": "Organic Valley Whole Milk (0.5 gal)",
+    "notes": "section: Beverages / Milk & Dairy; isSoldOut: false; isAvailable: true; titleBadge: {\"text\": \"Organic Valley Whole Milk (0.5 gal)\", \"textFormat\": \"<span>Organic Valley Whole Milk (0.5 gal)</span>\", \"accessibilityText\": \"Organic Valley Whole Milk (0.5 gal)\"}; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 6.99,
+    "source": "Streets Market (2400 14th St NW, Washington DC) via Uber Eats",
+    "url": "https://www.ubereats.com/store/streets-market-2400-14th-st-washington/d6u8kREgUMK1zRJldNBd1w",
+    "variant_qty": "0.5 gal"
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-02T14:33:18.475446+00:00",
+    "item": "Chobani Flip S'more S'mores Low-Fat Greek Yogurt (4.5 oz × 4 ct)",
+    "notes": "$6.99 on sale from $7.99; 13% off; Many in stock; average rating of 4.6 stars, 50+; stock_level: STOCK_LEVEL_UNSPECIFIED; public storefront price; delivery fees excluded; duplicate listing: no",
+    "price": 6.99,
+    "source": "Safeway (1855 Wisconsin Ave NW, Washington DC) via DoorDash",
+    "url": "https://www.doordash.com/convenience/store/1749048/",
+    "variant_qty": "4.5 oz × 4 ct"
+  }
+]

@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Datarade dataset catalog with dataset descriptions, pricing details, and provider ratings and review counts\.
+Datarade dataset catalog with dataset descriptions, pricing details, and provider ratings and review counts\. Published table snapshot: 14,054 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/datasets-for-sale-3fb2e8b82ab2?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Datarade dataset catalog with dataset descriptions, pricing details, and provide
 
 ## The brief
 
-> I need this data: Datarade dataset catalog with dataset descriptions, pricing details, and provider ratings and review counts\.
+> I need this data: Datarade dataset catalog with dataset descriptions, pricing details, and provider ratings and review counts\. Published table snapshot: 14,054 rows\.
 
 Summary from the public dataset description.
 

@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Sample Amazon\.com product\-page reviews and ratings for a user\-supplied ASIN list, with review text, dates, star ratings, and variant context\.
+Sample Amazon\.com product\-page reviews and ratings for a user\-supplied ASIN list, with review text, dates, star ratings, and variant context\. The published reviews table contains 12 rows; the published products table contains 3,000 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/multi-source-ecommerce-tracking-f31687d4dfcd?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Sample Amazon\.com product\-page reviews and ratings for a user\-supplied ASIN l
 
 ## The brief
 
-> I need this data: Sample Amazon\.com product\-page reviews and ratings for a user\-supplied ASIN list, with review text, dates, star ratings, and variant context\.
+> I need this data: Sample Amazon\.com product\-page reviews and ratings for a user\-supplied ASIN list, with review text, dates, star ratings, and variant context\. The published reviews table contains 12 rows; the published products table contains 3,000 rows\.
 
 Summary from the public dataset description.
 

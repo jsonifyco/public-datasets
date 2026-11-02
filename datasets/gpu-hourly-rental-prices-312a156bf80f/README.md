@@ -8,7 +8,7 @@ GPU hourly rental prices for H100 and B200 hardware from major cloud and GPU pro
 
 - Refresh: daily
 - Active pipeline version: 5
-- Last published: 2026-11-01T06:01:52.840026Z
+- Last published: 2026-11-02T06:01:27.076027Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-844 total rows · 50 sampled · Output revision 10
-Published: 2026-11-01T06:01:52.840026Z · Producing pipeline version: 5
+1,110 total rows · 50 sampled · Output revision 11
+Published: 2026-11-02T06:01:27.076027Z · Producing pipeline version: 5
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| A100 | A100 | p4de\.24xlarge | US West \(Oregon\) | US | capacity\_block | Not stated | 20\.369 |
-| H200 | Nvidia H200 | a3\-ultragpu\-8g | Provider list \(region unspecified\) | Global | on\_demand | No fixed term | 84\.806908493 |
-| H100 | H100 | p5\.4xlarge | US East \(Ohio\) | US | capacity\_block | Not stated | 5\.97 |
-| A100 | A100 SXM4 | Marketplace offer 50943248 | New York, US | US | on\_demand | No fixed term | 0\.4414814814814815 |
-| A100 | Nvidia A100 | a2\-highgpu\-1g | Provider list \(region unspecified\) | Global | on\_demand | No fixed term | 3\.673385 |
+| H200 | NVIDIA HGX H200 | NVIDIA HGX H200 | Global | Global | spot | Interruptible, no fixed term | 0\.79 |
+| A100 | NVIDIA A100 | NVIDIA A100 | North America | Regional | on\_demand | No fixed term | 21\.6 |
+| A100 | Nvidia A100 | a2\-ultragpu\-1g | Provider list \(region unspecified\) | Global | commitment | 3 years | 3\.499997559 |
+| B200 | NVIDIA HGX B200 | NVIDIA HGX B200 | North America | Regional | spot | Interruptible, no fixed term | 34\.11 |
+| H100 | NVIDIA HGX H100 | NVIDIA HGX H100 | Global | Global | on\_demand | No fixed term | 4\.5 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

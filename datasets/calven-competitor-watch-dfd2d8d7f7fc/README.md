@@ -1,14 +1,20 @@
-# Calven competitor watch
+# Calven Competitor Watch
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+Calven competitor watch with page snapshots, change summaries, and named pricing\-plan observations\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/calven-competitor-watch-dfd2d8d7f7fc?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 6
 - Last published: 2026-10-14T14:39:43.933603Z
+
+## The brief
+
+> I need this data: Calven competitor watch with page snapshots, change summaries, and named pricing\-plan observations\.
+
+Summary from the public dataset description.
 
 ## Calven competitor watch / competitor\_changes
 

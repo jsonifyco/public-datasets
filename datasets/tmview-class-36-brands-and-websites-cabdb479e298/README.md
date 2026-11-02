@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A refreshable, bounded sample of TMview registered Class 36 logo and combined trademarks, with applicant details and publicly evidenced company websites where matches are available\. Logo\-only names and unresolved website matches are retained\.
+A sample of 10 TMview registered Class 36 logo and combined trademark records, with applicant details and publicly evidenced company websites where matches are available\. Logo\-only names and unresolved website matches are retained\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/tmview-class-36-brands-and-websites-cabdb479e298?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A refreshable, bounded sample of TMview registered Class 36 logo and combined tr
 
 ## The brief
 
-> I need this data: A refreshable, bounded sample of TMview registered Class 36 logo and combined trademarks, with applicant details and publicly evidenced company websites where matches are available\. Logo\-only names and unresolved website matches are retained\.
+> I need this data: A sample of 10 TMview registered Class 36 logo and combined trademark records, with applicant details and publicly evidenced company websites where matches are available\. Logo\-only names and unresolved website matches are retained\.
 
 Summary from the public dataset description.
 

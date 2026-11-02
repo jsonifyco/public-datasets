@@ -1,0 +1,114 @@
+[
+  {
+    "name": "cover_url",
+    "type": "text"
+  },
+  {
+    "name": "show_name",
+    "type": "text"
+  },
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "genres",
+    "type": "jsonb"
+  },
+  {
+    "name": "release_date",
+    "type": "text"
+  },
+  {
+    "name": "total_episodes",
+    "type": "bigint"
+  },
+  {
+    "name": "free_episodes",
+    "type": "bigint"
+  },
+  {
+    "name": "unlock_model",
+    "type": "text"
+  },
+  {
+    "name": "coins_per_episode",
+    "type": "bigint"
+  },
+  {
+    "name": "coins_to_finish",
+    "type": "bigint"
+  },
+  {
+    "name": "approximate_views",
+    "type": "bigint"
+  },
+  {
+    "name": "displayed_views",
+    "type": "text"
+  },
+  {
+    "name": "available_locales",
+    "type": "jsonb"
+  },
+  {
+    "name": "name_locale",
+    "type": "text"
+  },
+  {
+    "name": "views_locale",
+    "type": "text"
+  },
+  {
+    "name": "cost_locales",
+    "type": "text"
+  },
+  {
+    "name": "chart_list_appearances",
+    "type": "bigint"
+  },
+  {
+    "name": "chart_appearances",
+    "type": "jsonb"
+  },
+  {
+    "name": "first_seen",
+    "type": "text"
+  },
+  {
+    "name": "last_seen",
+    "type": "text"
+  },
+  {
+    "name": "observed_on",
+    "type": "text"
+  },
+  {
+    "name": "name_observed_on",
+    "type": "text"
+  },
+  {
+    "name": "views_observed_on",
+    "type": "text"
+  },
+  {
+    "name": "cost_observed_on",
+    "type": "text"
+  },
+  {
+    "name": "cost_note",
+    "type": "text"
+  },
+  {
+    "name": "views_note",
+    "type": "text"
+  },
+  {
+    "name": "data_note",
+    "type": "text"
+  },
+  {
+    "name": "conflicting_cost_observations",
+    "type": "boolean"
+  }
+]

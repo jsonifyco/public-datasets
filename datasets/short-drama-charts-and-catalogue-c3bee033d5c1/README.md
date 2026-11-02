@@ -1,37 +1,37 @@
-# Global Short\-Drama Reels Catalogue and Coin Packs
+# Short Drama Apps: Catalogue, Charts and Coin Prices
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Weekly charts, catalogue and coin\-pack data for three short\-drama apps across five labelled locale views\.
+Short drama app data for ReelShort, DramaBox and FreeReels: 71,875 catalogue rows, charts and coin packs\. Published 2 November 2026\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/short-drama-charts-and-catalogue-c3bee033d5c1?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 17
-- Last published: 2026-10-26T20:04:36.761315Z
+- Last published: 2026-11-02T16:00:17.688087Z
 
 ## The brief
 
-> I need this data: Weekly charts, catalogue and coin\-pack data for three short\-drama apps across five labelled locale views\.
+> I need this data: Short drama app data for ReelShort, DramaBox and FreeReels: 71,875 catalogue rows, charts and coin packs\. Published 2 November 2026\.
 
 Summary from the public dataset description.
 
-## Short\-drama Android weekly data / catalogue
+## Short\-drama Android weekly data / shows
 
-47,393 total rows · 50 sampled · Output revision 15
-Published: 2026-10-26T20:04:36.761315Z · Producing pipeline version: Unknown
+25,079 total rows · 50 sampled · Output revision 19
+Published: 2026-11-02T16:00:17.688087Z · Producing pipeline version: Unknown
 
-[CSV sample](outputs/a969dcc25198/catalogue-d2504e52b8b0/sample.csv) · [JSON sample](outputs/a969dcc25198/catalogue-d2504e52b8b0/sample.json) · [Schema](outputs/a969dcc25198/catalogue-d2504e52b8b0/schema.json)
+[CSV sample](outputs/a969dcc25198/shows-c093955cebfa/sample.csv) · [JSON sample](outputs/a969dcc25198/shows-c093955cebfa/sample.json) · [Schema](outputs/a969dcc25198/shows-c093955cebfa/schema.json)
 
-Curated sample from revision 15; saved 2026-10-31T15:57:57.127778Z. This illustrative snapshot does not refresh with the dataset.
+Curated sample from revision 17; saved 2026-11-02T12:35:48.653978Z. This illustrative snapshot does not refresh with the dataset.
 
-| app | cover\_url | run\_date | episode\_count | first\_seen | last\_seen | release\_date | unlock\_model |
+| cover\_url | show\_name | app | genres | release\_date | total\_episodes | free\_episodes | unlock\_model |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| reelshort | [https://v\-img\.crazymaplestudios\.com/v\-images/book\_cover\_batch/201300000000006299/bb82ea4b\-7e5b\-4296\-b3fa\-a83463834f5d\.jpg](<https://v-img.crazymaplestudios.com/v-images/book_cover_batch/201300000000006299/bb82ea4b-7e5b-4296-b3fa-a83463834f5d.jpg>) | 2026\-10\-25 | 51 | 2026\-10\-25 | 2026\-10\-25 | 2026\-09\-10 | mixed |
-| dramabox | [https://hwztchapter\.dramaboxdb\.com/data/cppartner/4x2/42x0/420x0/42000000596/42000000596\.jpg?t=1763972460974](<https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000596/42000000596.jpg?t=1763972460974>) | 2026\-10\-26 | 59 | 2026\-10\-25 | 2026\-10\-26 | 2025\-11\-25 | mixed |
-| freereels | [https://static\-v1\.mydramawave\.com/vt/prod/cover/6f730f33\-7f3b\-4e9c\-932b\-f383e750ce20\.jpg?image\_process=quality,85/resize,w\_600/format,webp](<https://static-v1.mydramawave.com/vt/prod/cover/6f730f33-7f3b-4e9c-932b-f383e750ce20.jpg?image_process=quality,85/resize,w_600/format,webp>) | 2026\-10\-26 | 40 | 2026\-10\-26 | 2026\-10\-26 | None | coins |
-| dramabox | [https://hwztchapter\.dramaboxdb\.com/data/cppartner/4x1/41x0/410x0/41000123147/41000123147\.jpg?t=1761629802512](<https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123147/41000123147.jpg?t=1761629802512>) | 2026\-10\-25 | 84 | 2026\-10\-25 | 2026\-10\-25 | 2025\-10\-28 | mixed |
-| reelshort | [https://v\-mps\.crazymaplestudios\.com/images/e98fdce0\-f8c5\-11ef\-a38f\-0d66b56fc320\.jpg](<https://v-mps.crazymaplestudios.com/images/e98fdce0-f8c5-11ef-a38f-0d66b56fc320.jpg>) | 2026\-10\-26 | 1 | 2026\-10\-25 | 2026\-10\-26 | 2025\-03\-04 | free |
+| [https://v\-img\.crazymaplestudios\.com/v\-images/book\_cover\_batch/200000000000000231/7e5c212e\-d626\-49da\-be4e\-3935b225e42c\.jpg](<https://v-img.crazymaplestudios.com/v-images/book_cover_batch/200000000000000231/7e5c212e-d626-49da-be4e-3935b225e42c.jpg>) | My Stepbrother's Dirty Secret | ReelShort | \["Young Adult"\] | 2025\-05\-14 | 62 | 12 | mixed |
+| [https://static\-v1\.mydramawave\.com/vt/prod/cover/fe1a5bf7\-5af0\-4bb8\-a97b\-94000941a118\.jpg?image\_process=quality,85/resize,w\_600/format,webp](<https://static-v1.mydramawave.com/vt/prod/cover/fe1a5bf7-5af0-4bb8-a97b-94000941a118.jpg?image_process=quality,85/resize,w_600/format,webp>) | You Hurt My Daughter, Now You Pay | FreeReels | \["Revenge", "The Comeback"\] | None | 45 | 8 | coins |
+| [https://static\-v1\.mydramawave\.com/vt/prod/cover/d8fdce6b\-c99c\-4a84\-ae0e\-b8b98db05b2c\.jpg?image\_process=quality,85/resize,w\_600/format,webp](<https://static-v1.mydramawave.com/vt/prod/cover/d8fdce6b-c99c-4a84-ae0e-b8b98db05b2c.jpg?image_process=quality,85/resize,w_600/format,webp>) | Tiro Certeiro do Amor | FreeReels | \["Final Feliz", "Segunda Chance"\] | None | 59 | 59 | ad\_unlock |
+| [https://hwztchapter\.dramaboxdb\.com/data/cppartner/4x1/41x0/410x0/41000107163/41000107163\.jpg?t=1730180925702](<https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000107163/41000107163.jpg?t=1730180925702>) | Rise of the Rejected | DramaBox | \["Revenge", "Underdog Story", "Son\-in\-Law", "Modern", "Powerful Male Lead"\] | 2024\-10\-29 | 93 | 8 | mixed |
+| [https://hwztchapter\.dramaboxdb\.com/data/cppartner/4x1/41x0/410x0/41000103799/41000103799\.jpg?t=1717468154048](<https://hwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000103799/41000103799.jpg?t=1717468154048>) | Cinta Sejati Melintasi Waktu | DramaBox | \["Bangkitnya Orang Biasa", "Serangan Balik", "Terlahir Kembali", "Intrik Keluarga", "Kekuatan Khusus", "Fantasi"\] | 2024\-06\-04 | 89 | 11 | mixed |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -39,19 +39,39 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| app | text |
 | cover\_url | text |
-| run\_date | text |
-| episode\_count | integer |
+| show\_name | text |
+| app | text |
+| genres | jsonb |
+| release\_date | text |
+| total\_episodes | bigint |
+| free\_episodes | bigint |
+| unlock\_model | text |
+| coins\_per\_episode | bigint |
+| coins\_to\_finish | bigint |
+| approximate\_views | bigint |
+| displayed\_views | text |
+| available\_locales | jsonb |
+| name\_locale | text |
+| views\_locale | text |
+| cost\_locales | text |
+| chart\_list\_appearances | bigint |
+| chart\_appearances | jsonb |
 | first\_seen | text |
 | last\_seen | text |
-| release\_date | text |
-| unlock\_model | text |
+| observed\_on | text |
+| name\_observed\_on | text |
+| views\_observed\_on | text |
+| cost\_observed\_on | text |
+| cost\_note | text |
+| views\_note | text |
+| data\_note | text |
+| conflicting\_cost\_observations | boolean |
 
 ## Short\-drama Android weekly data / charts
 
-8,410 total rows · 50 sampled · Output revision 15
-Published: 2026-10-26T20:04:36.761315Z · Producing pipeline version: Unknown
+13,247 total rows · 50 sampled · Output revision 19
+Published: 2026-11-02T16:00:17.688087Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/a969dcc25198/charts-38edf99fd464/sample.csv) · [JSON sample](outputs/a969dcc25198/charts-38edf99fd464/sample.json) · [Schema](outputs/a969dcc25198/charts-38edf99fd464/schema.json)
 
@@ -81,8 +101,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Short\-drama Android weekly data / coin\_packs
 
-30 total rows · 10 sampled · Output revision 15
-Published: 2026-10-26T20:04:36.761315Z · Producing pipeline version: Unknown
+60 total rows · 10 sampled · Output revision 19
+Published: 2026-11-02T16:00:17.688087Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/a969dcc25198/coin-packs-44368b8d70e4/sample.csv) · [JSON sample](outputs/a969dcc25198/coin-packs-44368b8d70e4/sample.json) · [Schema](outputs/a969dcc25198/coin-packs-44368b8d70e4/schema.json)
 
@@ -115,18 +135,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Short\-drama Android weekly data / economics
 
-47,393 total rows · 50 sampled · Output revision 15
-Published: 2026-10-26T20:04:36.761315Z · Producing pipeline version: Unknown
+71,875 total rows · 50 sampled · Output revision 19
+Published: 2026-11-02T16:00:17.688087Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/a969dcc25198/economics-5e9ad751b5e6/sample.csv) · [JSON sample](outputs/a969dcc25198/economics-5e9ad751b5e6/sample.json) · [Schema](outputs/a969dcc25198/economics-5e9ad751b5e6/schema.json)
 
 | app | title | run\_date | coin\_price\_per\_episode | conflict | cost\_to\_finish\_coins | economics\_status | free\_episodes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | reelshort | Kultivasi Mudah Berkat Menempa Artefak | 2026\-10\-26 | 60 | False | 3600 | coin requirement observed; cash cost unverified | 9 |
+| reelshort | American Hunt \[Original\] | 2026\-11\-02 | 0 | False | 0 | coin requirement observed; cash cost unverified | 1 |
+| reelshort | Die vermisste Kochkönigin: Lass den Ex betteln | 2026\-11\-02 | 60 | False | 2100 | coin requirement observed; cash cost unverified | 19 |
 | freereels | Der Ausbruch | 2026\-10\-25 | 60 | False | 1920 | coin requirement observed; cash cost unverified | 4 |
 | dramabox | He Was Never Their ATM | 2026\-10\-26 | 50 | False | 2100 | coin requirement observed; cash cost unverified | 1 |
-| freereels | The Snow Night Ransom | 2026\-10\-26 | 60 | False | 2460 | coin requirement observed; cash cost unverified | 9 |
-| reelshort | Rejected Bride, Reborn Dragon Queen | 2026\-10\-26 | 60 | False | 780 | coin requirement observed; cash cost unverified | 7 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

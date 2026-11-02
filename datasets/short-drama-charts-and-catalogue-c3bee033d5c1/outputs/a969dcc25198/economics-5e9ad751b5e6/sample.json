@@ -23,6 +23,59 @@
     "view_basis": "Android title observations; not country storefront pricing"
   },
   {
+    "app": "reelshort",
+    "coin_price_per_episode": 0,
+    "conflict": false,
+    "cost_to_finish_coins": 0,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 1,
+    "observations": [
+      {
+        "coin_price_per_episode": 0,
+        "cost_to_finish_coins": 0,
+        "country": "GB",
+        "free_episodes": 1,
+        "run_date": "2026-11-02"
+      },
+      {
+        "coin_price_per_episode": 0,
+        "cost_to_finish_coins": 0,
+        "country": "US",
+        "free_episodes": 1,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|reelshort|68074344f2e3dea5f10666eb",
+    "run_date": "2026-11-02",
+    "title": "American Hunt [Original]",
+    "title_id": "68074344f2e3dea5f10666eb",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "reelshort",
+    "coin_price_per_episode": 60,
+    "conflict": false,
+    "cost_to_finish_coins": 2100,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 19,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 2100,
+        "country": "DE",
+        "free_episodes": 19,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "DE",
+    "row_key": "2026-11-02|reelshort|6a86c28047c1a0e8380c94bf",
+    "run_date": "2026-11-02",
+    "title": "Die vermisste Kochkönigin: Lass den Ex betteln",
+    "title_id": "6a86c28047c1a0e8380c94bf",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
     "app": "freereels",
     "coin_price_per_episode": 60,
     "conflict": false,
@@ -321,6 +374,29 @@
     "app": "reelshort",
     "coin_price_per_episode": 60,
     "conflict": false,
+    "cost_to_finish_coins": 2700,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 11,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 2700,
+        "country": "ID",
+        "free_episodes": 11,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "ID",
+    "row_key": "2026-11-02|reelshort|6ad701ae487163b48b0e1e82",
+    "run_date": "2026-11-02",
+    "title": "Malam Terlarang dengan Profesorku",
+    "title_id": "6ad701ae487163b48b0e1e82",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "reelshort",
+    "coin_price_per_episode": 60,
+    "conflict": false,
     "cost_to_finish_coins": 1020,
     "economics_status": "coin requirement observed; cash cost unverified",
     "free_episodes": 4,
@@ -368,6 +444,52 @@
     "run_date": "2026-10-26",
     "title": "Teman Kencanku Punya Rahasia",
     "title_id": "6aa7c62b160f2b0ff305b243",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "reelshort",
+    "coin_price_per_episode": 60,
+    "conflict": false,
+    "cost_to_finish_coins": 4140,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 6,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 4140,
+        "country": "ID",
+        "free_episodes": 6,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "ID",
+    "row_key": "2026-11-02|reelshort|6913e9529fd74652e3052901",
+    "run_date": "2026-11-02",
+    "title": "Dosenku, Ayah Anakku",
+    "title_id": "6913e9529fd74652e3052901",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "freereels",
+    "coin_price_per_episode": null,
+    "conflict": false,
+    "cost_to_finish_coins": null,
+    "economics_status": "coin requirement unavailable",
+    "free_episodes": 61,
+    "observations": [
+      {
+        "coin_price_per_episode": null,
+        "cost_to_finish_coins": null,
+        "country": "DE",
+        "free_episodes": 61,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "DE",
+    "row_key": "2026-11-02|freereels|sWIjWszuWj",
+    "run_date": "2026-11-02",
+    "title": "Die auserwählte Braut des Alphas",
+    "title_id": "sWIjWszuWj",
     "view_basis": "Android title observations; not country storefront pricing"
   },
   {
@@ -477,6 +599,29 @@
     "view_basis": "Android title observations; not country storefront pricing"
   },
   {
+    "app": "reelshort",
+    "coin_price_per_episode": 60,
+    "conflict": false,
+    "cost_to_finish_coins": 420,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 7,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 420,
+        "country": "BR",
+        "free_episodes": 7,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "BR",
+    "row_key": "2026-11-02|reelshort|6ad73182c65459ef1f0bc871",
+    "run_date": "2026-11-02",
+    "title": "O Despertar de uma Dona de Casa Desesperada",
+    "title_id": "6ad73182c65459ef1f0bc871",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
     "app": "dramabox",
     "coin_price_per_episode": 50,
     "conflict": false,
@@ -538,6 +683,59 @@
   },
   {
     "app": "reelshort",
+    "coin_price_per_episode": 60,
+    "conflict": false,
+    "cost_to_finish_coins": 3120,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 7,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3120,
+        "country": "GB",
+        "free_episodes": 7,
+        "run_date": "2026-11-02"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3120,
+        "country": "US",
+        "free_episodes": 7,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|reelshort|68244c884e12532a620e117c",
+    "run_date": "2026-11-02",
+    "title": "Stay",
+    "title_id": "68244c884e12532a620e117c",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "reelshort",
+    "coin_price_per_episode": 60,
+    "conflict": false,
+    "cost_to_finish_coins": 4140,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 8,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 4140,
+        "country": "DE",
+        "free_episodes": 8,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "DE",
+    "row_key": "2026-11-02|reelshort|691b06efa7de1af87a0244bb",
+    "run_date": "2026-11-02",
+    "title": "Ihr gefangener Vogel",
+    "title_id": "691b06efa7de1af87a0244bb",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "reelshort",
     "coin_price_per_episode": 0,
     "conflict": false,
     "cost_to_finish_coins": 0,
@@ -564,6 +762,36 @@
     "run_date": "2026-10-25",
     "title": "The Art of Love [Original]",
     "title_id": "67a5be1269efe77f9b0da788",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "freereels",
+    "coin_price_per_episode": 60,
+    "conflict": false,
+    "cost_to_finish_coins": 4080,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 7,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 4080,
+        "country": "GB",
+        "free_episodes": 7,
+        "run_date": "2026-11-02"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 4080,
+        "country": "US",
+        "free_episodes": 7,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|freereels|F76fIJjKrx",
+    "run_date": "2026-11-02",
+    "title": "Prison King: Love Unchained",
+    "title_id": "F76fIJjKrx",
     "view_basis": "Android title observations; not country storefront pricing"
   },
   {
@@ -616,6 +844,36 @@
     "app": "dramabox",
     "coin_price_per_episode": 50,
     "conflict": false,
+    "cost_to_finish_coins": 3400,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 13,
+    "observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3400,
+        "country": "GB",
+        "free_episodes": 13,
+        "run_date": "2026-11-02"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3400,
+        "country": "US",
+        "free_episodes": 13,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|dramabox|41000121188",
+    "run_date": "2026-11-02",
+    "title": "Divorce, My Happily Ever After",
+    "title_id": "41000121188",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "dramabox",
+    "coin_price_per_episode": 50,
+    "conflict": false,
     "cost_to_finish_coins": 2550,
     "economics_status": "coin requirement observed; cash cost unverified",
     "free_episodes": 9,
@@ -643,6 +901,52 @@
     "view_basis": "Android title observations; not country storefront pricing"
   },
   {
+    "app": "dramabox",
+    "coin_price_per_episode": 50,
+    "conflict": false,
+    "cost_to_finish_coins": 2450,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 11,
+    "observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2450,
+        "country": "BR",
+        "free_episodes": 11,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "BR",
+    "row_key": "2026-11-02|dramabox|41000116195",
+    "run_date": "2026-11-02",
+    "title": "Seu Último Presente do Aniversário",
+    "title_id": "41000116195",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "reelshort",
+    "coin_price_per_episode": 60,
+    "conflict": false,
+    "cost_to_finish_coins": 4440,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 10,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 4440,
+        "country": "ID",
+        "free_episodes": 10,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "ID",
+    "row_key": "2026-11-02|reelshort|6a2a7506eba7213a2b04407a",
+    "run_date": "2026-11-02",
+    "title": "Dari Itik Buruk Rupa ke Hati CEO",
+    "title_id": "6a2a7506eba7213a2b04407a",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
     "app": "freereels",
     "coin_price_per_episode": 60,
     "conflict": false,
@@ -663,6 +967,36 @@
     "run_date": "2026-10-25",
     "title": "Sechs Vampirbrüder, eine menschliche Schwester",
     "title_id": "fXPEGggeSQ",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "dramabox",
+    "coin_price_per_episode": 50,
+    "conflict": false,
+    "cost_to_finish_coins": 3500,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 10,
+    "observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3500,
+        "country": "GB",
+        "free_episodes": 10,
+        "run_date": "2026-11-02"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3500,
+        "country": "US",
+        "free_episodes": 10,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|dramabox|41000104874",
+    "run_date": "2026-11-02",
+    "title": "When the Spirit Within Awakens",
+    "title_id": "41000104874",
     "view_basis": "Android title observations; not country storefront pricing"
   },
   {
@@ -779,6 +1113,36 @@
     "view_basis": "Android title observations; not country storefront pricing"
   },
   {
+    "app": "dramabox",
+    "coin_price_per_episode": 50,
+    "conflict": false,
+    "cost_to_finish_coins": 3050,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 9,
+    "observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3050,
+        "country": "GB",
+        "free_episodes": 9,
+        "run_date": "2026-11-02"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3050,
+        "country": "US",
+        "free_episodes": 9,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|dramabox|42000016489",
+    "run_date": "2026-11-02",
+    "title": "You Signed My Termination, I Signed Your Defeat (DUBBED)",
+    "title_id": "42000016489",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
     "app": "reelshort",
     "coin_price_per_episode": 60,
     "conflict": false,
@@ -829,6 +1193,66 @@
     "run_date": "2026-10-25",
     "title": "Pengantin Kontrak Bos Mafia",
     "title_id": "6a97b5fc1c3ea6d7c9049875",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "reelshort",
+    "coin_price_per_episode": 60,
+    "conflict": false,
+    "cost_to_finish_coins": 1500,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 5,
+    "observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1500,
+        "country": "GB",
+        "free_episodes": 5,
+        "run_date": "2026-11-02"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1500,
+        "country": "US",
+        "free_episodes": 5,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|reelshort|6a62f9e7063e662fac0cdd13",
+    "run_date": "2026-11-02",
+    "title": "The Wolf Commander's Wrong Bride",
+    "title_id": "6a62f9e7063e662fac0cdd13",
+    "view_basis": "Android title observations; not country storefront pricing"
+  },
+  {
+    "app": "dramabox",
+    "coin_price_per_episode": 50,
+    "conflict": false,
+    "cost_to_finish_coins": 1600,
+    "economics_status": "coin requirement observed; cash cost unverified",
+    "free_episodes": 8,
+    "observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 1600,
+        "country": "GB",
+        "free_episodes": 8,
+        "run_date": "2026-11-02"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 1600,
+        "country": "US",
+        "free_episodes": 8,
+        "run_date": "2026-11-02"
+      }
+    ],
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|dramabox|41000108347",
+    "run_date": "2026-11-02",
+    "title": "A Light in the Dark",
+    "title_id": "41000108347",
     "view_basis": "Android title observations; not country storefront pricing"
   },
   {
@@ -888,447 +1312,30 @@
     "app": "reelshort",
     "coin_price_per_episode": 60,
     "conflict": false,
-    "cost_to_finish_coins": 1020,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 7,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 1020,
-        "country": "GB",
-        "free_episodes": 7,
-        "run_date": "2026-10-26"
-      },
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 1020,
-        "country": "US",
-        "free_episodes": 7,
-        "run_date": "2026-10-26"
-      }
-    ],
-    "observed_locales": "GB,US",
-    "row_key": "2026-10-26|reelshort|6a5db55e03c701b0530411ee",
-    "run_date": "2026-10-26",
-    "title": "Five Winters for Her, Five Keychains for Me",
-    "title_id": "6a5db55e03c701b0530411ee",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 2940,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 7,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 2940,
-        "country": "DE",
-        "free_episodes": 7,
-        "run_date": "2026-10-25"
-      }
-    ],
-    "observed_locales": "DE",
-    "row_key": "2026-10-25|reelshort|6a8e909b72dbced0090d6753",
-    "run_date": "2026-10-25",
-    "title": "Schwanger vom Mafia-König",
-    "title_id": "6a8e909b72dbced0090d6753",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 3000,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 14,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 3000,
-        "country": "GB",
-        "free_episodes": 14,
-        "run_date": "2026-10-25"
-      },
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 3000,
-        "country": "US",
-        "free_episodes": 14,
-        "run_date": "2026-10-25"
-      }
-    ],
-    "observed_locales": "GB,US",
-    "row_key": "2026-10-25|reelshort|6825b3b6ddcc859b080f78d6",
-    "run_date": "2026-10-25",
-    "title": "The Lost Son Returns as the Duke",
-    "title_id": "6825b3b6ddcc859b080f78d6",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 0,
-    "conflict": false,
-    "cost_to_finish_coins": 0,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 60,
-    "observations": [
-      {
-        "coin_price_per_episode": 0,
-        "cost_to_finish_coins": 0,
-        "country": "GB",
-        "free_episodes": 60,
-        "run_date": "2026-10-25"
-      },
-      {
-        "coin_price_per_episode": 0,
-        "cost_to_finish_coins": 0,
-        "country": "US",
-        "free_episodes": 60,
-        "run_date": "2026-10-25"
-      }
-    ],
-    "observed_locales": "GB,US",
-    "row_key": "2026-10-25|reelshort|68b1782af4d69f56740a6a7d",
-    "run_date": "2026-10-25",
-    "title": "Lost and Found",
-    "title_id": "68b1782af4d69f56740a6a7d",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 3600,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 25,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 3600,
-        "country": "ID",
-        "free_episodes": 25,
-        "run_date": "2026-10-26"
-      }
-    ],
-    "observed_locales": "ID",
-    "row_key": "2026-10-26|reelshort|6751969d50b13b100104736f",
-    "run_date": "2026-10-26",
-    "title": "Pewaris Asli vs Ratu Palsu",
-    "title_id": "6751969d50b13b100104736f",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "dramabox",
-    "coin_price_per_episode": 50,
-    "conflict": false,
-    "cost_to_finish_coins": 2050,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 9,
-    "observations": [
-      {
-        "coin_price_per_episode": 50,
-        "cost_to_finish_coins": 2050,
-        "country": "GB",
-        "free_episodes": 9,
-        "run_date": "2026-10-26"
-      },
-      {
-        "coin_price_per_episode": 50,
-        "cost_to_finish_coins": 2050,
-        "country": "US",
-        "free_episodes": 9,
-        "run_date": "2026-10-26"
-      }
-    ],
-    "observed_locales": "GB,US",
-    "row_key": "2026-10-26|dramabox|42000018608",
-    "run_date": "2026-10-26",
-    "title": "Withered Wings of Yesterday",
-    "title_id": "42000018608",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 0,
-    "conflict": false,
-    "cost_to_finish_coins": 0,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 76,
-    "observations": [
-      {
-        "coin_price_per_episode": 0,
-        "cost_to_finish_coins": 0,
-        "country": "GB",
-        "free_episodes": 76,
-        "run_date": "2026-10-25"
-      },
-      {
-        "coin_price_per_episode": 0,
-        "cost_to_finish_coins": 0,
-        "country": "US",
-        "free_episodes": 76,
-        "run_date": "2026-10-25"
-      }
-    ],
-    "observed_locales": "GB,US",
-    "row_key": "2026-10-25|reelshort|67ac28c661896f879502bdd6",
-    "run_date": "2026-10-25",
-    "title": "Divorce Me One Last Time",
-    "title_id": "67ac28c661896f879502bdd6",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "freereels",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 1200,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 10,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 1200,
-        "country": "ID",
-        "free_episodes": 10,
-        "run_date": "2026-10-25"
-      }
-    ],
-    "observed_locales": "ID",
-    "row_key": "2026-10-25|freereels|ilHHkvIsd6",
-    "run_date": "2026-10-25",
-    "title": "Kekasih Rahasia di Atas Es",
-    "title_id": "ilHHkvIsd6",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "freereels",
-    "coin_price_per_episode": null,
-    "conflict": false,
-    "cost_to_finish_coins": null,
-    "economics_status": "coin requirement unavailable",
-    "free_episodes": 35,
-    "observations": [
-      {
-        "coin_price_per_episode": null,
-        "cost_to_finish_coins": null,
-        "country": "BR",
-        "free_episodes": 35,
-        "run_date": "2026-10-26"
-      }
-    ],
-    "observed_locales": "BR",
-    "row_key": "2026-10-26|freereels|vqk9bmzMup",
-    "run_date": "2026-10-26",
-    "title": "Amor Proibido: Amigo do Pai",
-    "title_id": "vqk9bmzMup",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 3360,
+    "cost_to_finish_coins": 3120,
     "economics_status": "coin requirement observed; cash cost unverified",
     "free_episodes": 11,
     "observations": [
       {
         "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 3360,
-        "country": "BR",
+        "cost_to_finish_coins": 3120,
+        "country": "GB",
         "free_episodes": 11,
-        "run_date": "2026-10-26"
-      }
-    ],
-    "observed_locales": "BR",
-    "row_key": "2026-10-26|reelshort|69de1dbaea1c679364028f09",
-    "run_date": "2026-10-26",
-    "title": "Destinada ao meu acompanhante bilionário",
-    "title_id": "69de1dbaea1c679364028f09",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 3900,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 15,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 3900,
-        "country": "GB",
-        "free_episodes": 15,
-        "run_date": "2026-10-25"
+        "run_date": "2026-11-02"
       },
       {
         "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 3900,
+        "cost_to_finish_coins": 3120,
         "country": "US",
-        "free_episodes": 15,
-        "run_date": "2026-10-25"
-      }
-    ],
-    "observed_locales": "GB,US",
-    "row_key": "2026-10-25|reelshort|690423c050a1daf2070e729f",
-    "run_date": "2026-10-25",
-    "title": "The Substitute Bride and Her Blind CEO",
-    "title_id": "690423c050a1daf2070e729f",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 2100,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 13,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 2100,
-        "country": "BR",
-        "free_episodes": 13,
-        "run_date": "2026-10-26"
-      }
-    ],
-    "observed_locales": "BR",
-    "row_key": "2026-10-26|reelshort|69bbf8d0f00fc8226f084e22",
-    "run_date": "2026-10-26",
-    "title": "O Herdeiro da Seita e Seus Sete Anjos",
-    "title_id": "69bbf8d0f00fc8226f084e22",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "dramabox",
-    "coin_price_per_episode": 50,
-    "conflict": false,
-    "cost_to_finish_coins": 2350,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 13,
-    "observations": [
-      {
-        "coin_price_per_episode": 50,
-        "cost_to_finish_coins": 2350,
-        "country": "GB",
-        "free_episodes": 13,
-        "run_date": "2026-10-26"
-      },
-      {
-        "coin_price_per_episode": 50,
-        "cost_to_finish_coins": 2350,
-        "country": "US",
-        "free_episodes": 13,
-        "run_date": "2026-10-26"
-      }
-    ],
-    "observed_locales": "GB,US",
-    "row_key": "2026-10-26|dramabox|42000003697",
-    "run_date": "2026-10-26",
-    "title": "A Life That Shines Again",
-    "title_id": "42000003697",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "dramabox",
-    "coin_price_per_episode": 50,
-    "conflict": false,
-    "cost_to_finish_coins": 3000,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 10,
-    "observations": [
-      {
-        "coin_price_per_episode": 50,
-        "cost_to_finish_coins": 3000,
-        "country": "GB",
-        "free_episodes": 10,
-        "run_date": "2026-10-25"
-      },
-      {
-        "coin_price_per_episode": 50,
-        "cost_to_finish_coins": 3000,
-        "country": "US",
-        "free_episodes": 10,
-        "run_date": "2026-10-25"
-      }
-    ],
-    "observed_locales": "GB,US",
-    "row_key": "2026-10-25|dramabox|42000016936",
-    "run_date": "2026-10-25",
-    "title": "Heaven Trembles: Fury of the Immortal",
-    "title_id": "42000016936",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "freereels",
-    "coin_price_per_episode": null,
-    "conflict": false,
-    "cost_to_finish_coins": null,
-    "economics_status": "coin requirement unavailable",
-    "free_episodes": 50,
-    "observations": [
-      {
-        "coin_price_per_episode": null,
-        "cost_to_finish_coins": null,
-        "country": "DE",
-        "free_episodes": 50,
-        "run_date": "2026-10-26"
-      }
-    ],
-    "observed_locales": "DE",
-    "row_key": "2026-10-26|freereels|Cbigc7vjGk",
-    "run_date": "2026-10-26",
-    "title": "Das Gelübde des Milliardärs(Synchron)",
-    "title_id": "Cbigc7vjGk",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "freereels",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 2340,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 11,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 2340,
-        "country": "ID",
         "free_episodes": 11,
-        "run_date": "2026-10-26"
+        "run_date": "2026-11-02"
       }
     ],
-    "observed_locales": "ID",
-    "row_key": "2026-10-26|freereels|p5795EGbmm",
-    "run_date": "2026-10-26",
-    "title": "Perjanjian Sihir dengan Profesor Kakak Tiriku",
-    "title_id": "p5795EGbmm",
-    "view_basis": "Android title observations; not country storefront pricing"
-  },
-  {
-    "app": "reelshort",
-    "coin_price_per_episode": 60,
-    "conflict": false,
-    "cost_to_finish_coins": 3360,
-    "economics_status": "coin requirement observed; cash cost unverified",
-    "free_episodes": 19,
-    "observations": [
-      {
-        "coin_price_per_episode": 60,
-        "cost_to_finish_coins": 3360,
-        "country": "DE",
-        "free_episodes": 19,
-        "run_date": "2026-10-25"
-      }
-    ],
-    "observed_locales": "DE",
-    "row_key": "2026-10-25|reelshort|683555c1dab4868c7a0ce21c",
-    "run_date": "2026-10-25",
-    "title": "Unterschätz niemals Mädchen-Mathe",
-    "title_id": "683555c1dab4868c7a0ce21c",
+    "observed_locales": "GB,US",
+    "row_key": "2026-11-02|reelshort|69afd7e652313839a207f71f",
+    "run_date": "2026-11-02",
+    "title": "Basketball God: Unlocked MVP Mode",
+    "title_id": "69afd7e652313839a207f71f",
     "view_basis": "Android title observations; not country storefront pricing"
   }
 ]

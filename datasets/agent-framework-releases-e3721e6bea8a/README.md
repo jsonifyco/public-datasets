@@ -1,14 +1,20 @@
-# Agent framework releases
+# Agent Framework Releases
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+Agent framework releases from LangGraph, CrewAI, LlamaIndex, OpenAI Agents SDK, Pydantic AI and Agno, with version details and release notes summaries\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/agent-framework-releases-e3721e6bea8a?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 2
 - Last published: 2026-10-14T12:00:31.586928Z
+
+## The brief
+
+> I need this data: Agent framework releases from LangGraph, CrewAI, LlamaIndex, OpenAI Agents SDK, Pydantic AI and Agno, with version details and release notes summaries\.
+
+Summary from the public dataset description.
 
 ## Agent framework releases / releases
 

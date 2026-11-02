@@ -1,35 +1,35 @@
-# Georgia Elections Board Meetings and Votes
+# Georgia County Election Board Meetings, Motions and Votes
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Meeting\-level records of Fulton County Board of Registration and Elections meetings, motions, recorded vote tallies, and explicitly named votes from January 1, 2026 onward\.
+Georgia county election board motions and votes: 1,269 rows in the published table\. The dataset covers county board meeting actions; see the coverage and limitations for details\.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/georgia-elections-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/georgia-county-election-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 19
-- Last published: 2026-10-18T21:14:33.754956Z
+- Active pipeline version: 21
+- Last published: 2026-11-02T11:10:55.955034Z
 
 ## The brief
 
-> I need this data: Meeting\-level records of Fulton County Board of Registration and Elections meetings, motions, recorded vote tallies, and explicitly named votes from January 1, 2026 onward\.
+> I need this data: Georgia county election board motions and votes: 1,269 rows in the published table\. The dataset covers county board meeting actions; see the coverage and limitations for details\.
 
 Summary from the public dataset description.
 
 ## Georgia Elections Board Meetings and Votes / meeting\_actions
 
-1,257 total rows · 50 sampled · Output revision 2
-Published: 2026-10-18T21:14:33.754956Z · Producing pipeline version: 19
+1,269 total rows · 50 sampled · Output revision 3
+Published: 2026-11-02T11:10:55.955034Z · Producing pipeline version: 21
 
 [CSV sample](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/sample.csv) · [JSON sample](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/sample.json) · [Schema](outputs/02a6e71cfebc/meeting-actions-7c510d42b127/schema.json)
 
 | agenda\_item | board | checked\_at | county | evidence\_quote | meeting\_date | meeting\_location | meeting\_summary |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Executive session | Board of Registration and Elections | 2026\-10\-18T21:07:24\.393700\+00:00 | Fulton | After the executive session, Chair Allen entertained a motion to reconvene from the executive session\. The motion was made by Mrs\. Crawford, seconded by Mrs\. Crawford, and carried by a unanimous vote of 4\-0\. | 2026\-02\-12 | None | The board amended its agenda, approved… |
-| \#1 – Approval of Agenda | Board of Registration and Elections | 2026\-10\-18T21:07:36\.197770\+00:00 | Fulton | Chair Allen entertained a motion to am… | 2026\-07\-16 | None | The board amended its agenda, approved… |
-| 1\) Discussion of Policy for Pre\-Certification Review of Precinct Returns | Board of Elections and Registration | 2026\-10\-18T21:07:58\.213952\+00:00 | Cobb | Motion by Ms\. Efrat to adopt the polic… | 2026\-07\-13 | 100 Cherokee Street | The board approved the agenda and four… |
-| Approval of Previous Meeting Minutes — Regular Monthly Board Meeting, December 1, 2025 | Board of Elections and Voter Registration | 2026\-10\-18T21:08:12\.919767\+00:00 | Cherokee | Member Hand made a motion to approve the minutes of the December 1, 2025, meeting; Second by Member Little\.  Motion carries 5\-0\. | 2026\-01\-05 | Northside Cherokee/Bluffs Conference Center, 1130 Bluffs Parkway, Canton, GA 30114 | The board approved its agenda, minutes… |
-| 8\. Business — Gainesville City Special Election Council Member Ward 1 | Board of Elections and Registration | 2026\-10\-18T21:13:17\.255358\+00:00 | Hall | MEMBER COCHRAN MADE A MOTION TO APPROVE THE RESOLUTION\. MEMBER SHEATS MADE A SECOND\. UNANIMOUSLY APPROVED\. | 2026\-02\-10 | None | The board approved the agenda and Janu… |
+| X\.A\. Hear challenges to the qualifications of voters — August 26, 2026 Bartelski Challenge | Board of Voter Registrations and Elections | 2026\-11\-02T11:07:57\.494370\+00:00 | Forsyth | Vice Chairman Natt with a second from Secretary Tucker made a motion to dismiss from the challenge voter \#19 London Shannon\. Motion carried unanimously\. | 2026\-09\-01 | Forsyth County Voter Registrations &amp; Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040 | The board adopted its agenda and Augus… |
+| Disposition of challenged/provisional ballots \(attached roll\-call chart\) | Board of Voter Registrations and Elections | 2026\-11\-01T21:22:08\.471464\+00:00 | Gwinnett | Code: OP \| Challenged: TIFFANY EBLING … | 2026\-05\-23 | Gwinnett County Voter Registrations &amp; Elections Beauty P\. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046 | The board approved the agenda, voted t… |
+| 13\. Adjournment of Board Meeting | Board of Elections and Registration | 2026\-11\-02T10:57:52\.199594\+00:00 | Clayton | A motion was made by Chair Grant and seconded by Vice Chair Walker to adjourn the Regular Board Meeting\. The vote was unanimous, and the motion carried\. | 2026\-05\-12 | 7946 North McDonough Street, Jonesboro, GA 30236 | The board amended and adopted the agen… |
+| 10\. Executive Session | Board of Elections and Registration | 2026\-11\-02T10:58:55\.243160\+00:00 | Clayton | Chair Grant made a motion to close the regular session at 5:10 PM and convene into executive session to discuss litigation and personnel matters\. The motion was seconded by Vice Chair Walker and passed by a unanimous vote of 5\-0\. | 2026\-06\-22 | 7946 North McDonough Street, Jonesboro, GA 30236 | The board amended and adopted the agen… |
+| V\.D\. Special called meeting of June 19, 2026 \(precinct and polling place changes\) | Board of Voter Registrations and Elections | 2026\-11\-02T11:05:55\.716126\+00:00 | Forsyth | Secretary Tucker with a second from Vice Chairman Natt made a motion to adopt the minutes as prepared by staff\. Motion carried unanimously\. | 2026\-07\-07 | Forsyth County Voter Registrations &amp; Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040 | The board approved an amended agenda a… |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -112,6 +112,8 @@ flowchart LR
 - 2026-10-18T20:47:58.313542Z: v17: Keeps Forsyth motions intact across scanned page breaks while preserving named votes and source checks\.
 - 2026-10-18T20:54:14.623966Z: v18: Verifies Forsyth canvassing minutes that omit the county name using the official board name, office address and named officers\.
 - 2026-10-18T21:05:00.914289Z: v19: Handles misread page numbers and reads longer scanned minutes in full, preserving motions and named votes across every page\.
+- 2026-11-02T10:43:10.498889Z: v20: Scanned minutes now have a complete per\-page visual reading fallback when the usual document reader cannot connect\. Existing motion and vote checks remain in place\.
+- 2026-11-02T10:50:36.879953Z: v21: Corrects reading of faint stamp bleed\-through on blank reverse pages so complete meeting records can finish updating\. Unreadable meeting information still stops the update\.
 
 ## Recorded repairs
 
@@ -119,7 +121,7 @@ flowchart LR
 - 2026-11-01T21:25:26.780502Z: no change
 - 2026-11-01T21:25:42.443702Z: repaired
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/georgia-elections-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/georgia-county-election-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
 
 [Build your own dataset](https://factory.jsonify.com/setup)
 

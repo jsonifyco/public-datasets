@@ -1,14 +1,20 @@
-# LlamaIndex reader demo: docs pages
+# LlamaIndex Module Guides Articles
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+LlamaIndex Module Guides dataset with article titles, sections, descriptions, full text, canonical URLs, word counts, and crawl timestamps\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llamaindex-reader-demo-docs-pages-328f6855123c?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 1
 - Last published: 2026-10-14T09:05:41.861355Z
+
+## The brief
+
+> I need this data: LlamaIndex Module Guides dataset with article titles, sections, descriptions, full text, canonical URLs, word counts, and crawl timestamps\.
+
+Summary from the public dataset description.
 
 ## LlamaIndex Module Guides docs / docs\_pages
 

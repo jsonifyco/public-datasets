@@ -1,25 +1,25 @@
-# AI Company Job Postings Data from 42 Job Boards
+# AI Company Job Postings Data
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Job postings data from 42 AI companies, including OpenAI, Anthropic and Cohere: title, team, location, remote status and salary ranges\. New postings weekly\.
+Job postings from AI companies, including OpenAI, Anthropic and Cohere, with titles, teams, locations, workplace types and published salary ranges\. The dataset contains 4,955 rows across its published tables\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-company-job-postings-5bae5dc811a8?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 4
-- Last published: 2026-10-30T11:30:35.328477Z
+- Last published: 2026-11-02T07:01:40.032899Z
 
 ## The brief
 
-> I need this data: Job postings data from 42 AI companies, including OpenAI, Anthropic and Cohere: title, team, location, remote status and salary ranges\. New postings weekly\.
+> I need this data: Job postings from AI companies, including OpenAI, Anthropic and Cohere, with titles, teams, locations, workplace types and published salary ranges\. The dataset contains 4,955 rows across its published tables\.
 
 Summary from the public dataset description.
 
 ## AI company job postings / jobs
 
-4,897 total rows · 50 sampled · Output revision 7
-Published: 2026-10-30T11:30:35.328477Z · Producing pipeline version: 4
+4,955 total rows · 50 sampled · Output revision 8
+Published: 2026-11-02T07:01:40.032899Z · Producing pipeline version: 4
 
 [CSV sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.csv) · [JSON sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.json) · [Schema](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/schema.json)
 
@@ -28,8 +28,8 @@ Published: 2026-10-30T11:30:35.328477Z · Producing pipeline version: 4
 | 2026\-10\-30 | Sierra | ashby | sierra | d0e78ab0\-92ac\-4fec\-a667\-837fa371b1db | Software Engineer, Agent \(New Grad 2027\) | Early Career | Agent Engineering New Grad |
 | 2026\-10\-30 | OpenAI | ashby | openai | 33acf0e2\-5c11\-46d7\-9dc9\-417f5537139b | Software Engineer, IP Infrastructure | Research | Research Program Management |
 | 2026\-10\-30 | OpenAI | ashby | openai | 8ff67de2\-7ee8\-4d9d\-bef4\-dadabeeaf312 | Fire Protection Engineer | Scaling | Datacenter Design |
+| 2026\-11\-02 | Anthropic | greenhouse | anthropic | 5394403008 | Engineering Manager, Integrity and Attestation | Security | None |
 | 2026\-10\-30 | xAI | greenhouse | xai | 5278701007 | Sr\. Analyst, Monetization Operations | Safety | None |
-| 2026\-10\-30 | Cursor | ashby | cursor | f277b2d6\-c27e\-4cb9\-9d0b\-644e9730f06c | Solutions Architect \- Australia | Solutions | Solutions |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

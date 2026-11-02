@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Consumer AI subscription prices by country, plan, billing term, currency, and tax treatment, with source evidence and observation dates\.
+Consumer AI subscription price observations by provider, country, plan, and billing term, with currency, source links, and recorded observation dates\. The published table contains 1,830 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/consumer-ai-subscription-prices-0db1533e818f?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 10
-- Last published: 2026-10-30T16:22:25.115710Z
+- Last published: 2026-11-02T06:45:29.012076Z
 
 ## The brief
 
-> I need this data: Consumer AI subscription prices by country, plan, billing term, currency, and tax treatment, with source evidence and observation dates\.
+> I need this data: Consumer AI subscription price observations by provider, country, plan, and billing term, with currency, source links, and recorded observation dates\. The published table contains 1,830 rows\.
 
 Summary from the public dataset description.
 
 ## Consumer AI subscription prices / subscriptions
 
-920 total rows · 50 sampled · Output revision 2
-Published: 2026-10-30T16:22:25.115710Z · Producing pipeline version: 10
+1,830 total rows · 50 sampled · Output revision 3
+Published: 2026-11-02T06:45:29.012076Z · Producing pipeline version: 10
 
 [CSV sample](outputs/65fddbdd3067/subscriptions-9cac91c1f544/sample.csv) · [JSON sample](outputs/65fddbdd3067/subscriptions-9cac91c1f544/sample.json) · [Schema](outputs/65fddbdd3067/subscriptions-9cac91c1f544/schema.json)
 

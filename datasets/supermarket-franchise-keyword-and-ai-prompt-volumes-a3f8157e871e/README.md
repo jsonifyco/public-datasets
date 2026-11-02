@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Supermarket franchise keyword and AI prompt volume estimates for US\-English research, with monthly observations and coverage details\.
+Supermarket franchise keyword and AI prompt volume estimates for US\-English research\. The published dataset contains 16 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-franchise-keyword-and-ai-prompt-volumes-a3f8157e871e?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Supermarket franchise keyword and AI prompt volume estimates for US\-English res
 
 ## The brief
 
-> I need this data: Supermarket franchise keyword and AI prompt volume estimates for US\-English research, with monthly observations and coverage details\.
+> I need this data: Supermarket franchise keyword and AI prompt volume estimates for US\-English research\. The published dataset contains 16 rows\.
 
 Summary from the public dataset description.
 

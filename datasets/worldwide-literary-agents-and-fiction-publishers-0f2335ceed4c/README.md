@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A source\-backed directory of literary agents and agencies across ten configurable language markets, with optional fiction publishers and publicly sourced professional details\.
+A source\-backed directory of literary contacts, including agents, agencies, and fiction publishers where represented, with publicly sourced professional details\. The published copy contains 145 contact rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c?action=get) — CSV or JSON · Email required
 

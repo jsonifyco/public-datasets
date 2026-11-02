@@ -1,29 +1,35 @@
-# AI hiring radar
+# AI Hiring Radar
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+AI hiring radar with open\-role listings for Anthropic, Figure, and Together AI, including locations, dates, and application links\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-hiring-radar-e7adb9b7e394?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-10-26T09:01:09.738470Z
+- Last published: 2026-11-02T09:13:22.117189Z
+
+## The brief
+
+> I need this data: AI hiring radar with open\-role listings for Anthropic, Figure, and Together AI, including locations, dates, and application links\.
+
+Summary from the public dataset description.
 
 ## Cedar AI hiring radar / roles
 
-75 total rows · 10 sampled · Output revision 10
-Published: 2026-10-26T09:01:09.738470Z · Producing pipeline version: 1
+75 total rows · 10 sampled · Output revision 11
+Published: 2026-11-02T09:13:22.117189Z · Producing pipeline version: 1
 
 [CSV sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.csv) · [JSON sample](outputs/0642c473c8e3/roles-66cf5513b374/sample.json) · [Schema](outputs/0642c473c8e3/roles-66cf5513b374/schema.json)
 
 | application\_url | company | company\_open\_roles | first\_published\_at | job\_key | job\_title | location | observed\_at |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://job\-boards\.greenhouse\.io/togetherai/jobs/5238467007](<https://job-boards.greenhouse.io/togetherai/jobs/5238467007>) | Together AI | 85 | 2026\-09\-18T15:46:07\+00:00 | togetherai:5238467007 | Research Intern, Frontier Agents \(Winter 2027\) | San Francisco | 2026\-10\-26T09:00:59\.926346\+00:00 |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4719239006](<https://job-boards.greenhouse.io/figureai/jobs/4719239006>) | Figure | 104 | 2026\-10\-05T21:23:36\+00:00 | figureai:4719239006 | Commercial Operations Associate | San Jose, CA | 2026\-10\-26T09:00:59\.776309\+00:00 |
-| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5462881008](<https://job-boards.greenhouse.io/anthropic/jobs/5462881008>) | Anthropic | 682 | 2026\-10\-24T04:26:19\+00:00 | anthropic:5462881008 | Incident Manager, Safeguards | Boston, MA; San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | 2026\-10\-26T09:01:00\.028125\+00:00 |
-| [https://job\-boards\.greenhouse\.io/anthropic/jobs/5461873008](<https://job-boards.greenhouse.io/anthropic/jobs/5461873008>) | Anthropic | 682 | 2026\-10\-23T14:31:11\+00:00 | anthropic:5461873008 | Applied AI Security Architect \- Healthcare &amp; Life Sciences | New York City, NY; San Francisco, CA \| New York City, NY | 2026\-10\-26T09:01:00\.028125\+00:00 |
-| [https://job\-boards\.greenhouse\.io/figureai/jobs/4719591006](<https://job-boards.greenhouse.io/figureai/jobs/4719591006>) | Figure | 104 | 2026\-10\-06T22:53:50\+00:00 | figureai:4719591006 | Commercial Operations Intern \[Winter 2027\] | San Jose, CA | 2026\-10\-26T09:00:59\.776309\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4710235006](<https://job-boards.greenhouse.io/figureai/jobs/4710235006>) | Figure | 99 | 2026\-09\-01T18:35:38\+00:00 | figureai:4710235006 | Material Handler, Commercial Operations | San Jose, CA | 2026\-11\-02T09:13:18\.746730\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4710288006](<https://job-boards.greenhouse.io/figureai/jobs/4710288006>) | Figure | 99 | 2026\-09\-01T19:44:54\+00:00 | figureai:4710288006 | IT Client Engineer | San Jose, CA | 2026\-11\-02T09:13:18\.746730\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4711258006](<https://job-boards.greenhouse.io/figureai/jobs/4711258006>) | Figure | 99 | 2026\-09\-04T16:23:18\+00:00 | figureai:4711258006 | Senior Engineering Technician | San Jose, CA | 2026\-11\-02T09:13:18\.746730\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4713838006](<https://job-boards.greenhouse.io/figureai/jobs/4713838006>) | Figure | 99 | 2026\-09\-16T15:20:31\+00:00 | figureai:4713838006 | Software Engineer, Service &amp; Operations | San Jose, CA | 2026\-11\-02T09:13:18\.746730\+00:00 |
+| [https://job\-boards\.greenhouse\.io/figureai/jobs/4714381006](<https://job-boards.greenhouse.io/figureai/jobs/4714381006>) | Figure | 99 | 2026\-09\-17T22:54:03\+00:00 | figureai:4714381006 | Security Engineer, Infrastructure Security | San Jose, CA | 2026\-11\-02T09:13:18\.746730\+00:00 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

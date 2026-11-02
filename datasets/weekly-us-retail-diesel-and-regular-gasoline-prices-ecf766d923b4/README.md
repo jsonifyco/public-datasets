@@ -1,8 +1,8 @@
-# Diesel Price History: Weekly U\.S\. Diesel and Gas Prices
+# Weekly U\.S\. Diesel and Gas Price History
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Weekly diesel price history for the U\.S\., its regions and California, plus regular gas prices for 9 states and 10 cities\. From EIA, updated every week\.
+Weekly U\.S\. retail diesel and regular gasoline prices from the U\.S\. Energy Information Administration \(EIA\)\. The published dataset contains 2,080 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Weekly diesel price history for the U\.S\., its regions and California, plus reg
 
 ## The brief
 
-> I need this data: Weekly diesel price history for the U\.S\., its regions and California, plus regular gas prices for 9 states and 10 cities\. From EIA, updated every week\.
+> I need this data: Weekly U\.S\. retail diesel and regular gasoline prices from the U\.S\. Energy Information Administration \(EIA\)\. The published dataset contains 2,080 rows\.
 
 Summary from the public dataset description.
 

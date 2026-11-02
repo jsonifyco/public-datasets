@@ -1,8 +1,8 @@
-# TikTok, Instagram, and YouTube Shorts Posts with Music Credits
+# TikTok and YouTube Shorts Posts with Music Credits
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A small refreshable dataset of public TikTok and YouTube Shorts posts linked to credited song titles or original\-sound labels, with available media references\.
+A dataset of 25 discovered public TikTok and YouTube Shorts posts linked to credited song titles or original\-sound labels, with available media references\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/social-posts-and-music-credits-618da9615d86?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A small refreshable dataset of public TikTok and YouTube Shorts posts linked to 
 
 ## The brief
 
-> I need this data: A small refreshable dataset of public TikTok and YouTube Shorts posts linked to credited song titles or original\-sound labels, with available media references\.
+> I need this data: A dataset of 25 discovered public TikTok and YouTube Shorts posts linked to credited song titles or original\-sound labels, with available media references\.
 
 Summary from the public dataset description.
 

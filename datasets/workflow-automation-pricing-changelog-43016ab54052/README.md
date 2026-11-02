@@ -1,14 +1,20 @@
-# Workflow automation pricing &amp; changelog
+# Workflow Automation Pricing and Changelog
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+Workflow automation pricing and changelog data for Zapier, Make, n8n, Pipedream, and Activepieces, organized into plan and update tables\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/workflow-automation-pricing-changelog-43016ab54052?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 6
 - Last published: 2026-10-14T12:36:28.908129Z
+
+## The brief
+
+> I need this data: Workflow automation pricing and changelog data for Zapier, Make, n8n, Pipedream, and Activepieces, organized into plan and update tables\.
+
+Summary from the public dataset description.
 
 ## Workflow automation pricing &amp; changelog / plans
 

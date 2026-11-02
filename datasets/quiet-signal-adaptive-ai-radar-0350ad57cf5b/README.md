@@ -1,29 +1,35 @@
-# Quiet Signal — Adaptive AI Radar
+# Quiet Signal: Adaptive AI Radar
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+Quiet Signal is a Hacker News research snapshot of stories matched to adaptive AI topics, with discussion links and product research prompts\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-10-26T09:07:39.299769Z
+- Last published: 2026-11-02T09:12:57.634387Z
+
+## The brief
+
+> I need this data: Quiet Signal is a Hacker News research snapshot of stories matched to adaptive AI topics, with discussion links and product research prompts\.
+
+Summary from the public dataset description.
 
 ## Quiet Signals / signals
 
-18 total rows · 10 sampled · Output revision 10
-Published: 2026-10-26T09:07:39.299769Z · Producing pipeline version: 1
+20 total rows · 10 sampled · Output revision 11
+Published: 2026-11-02T09:12:57.634387Z · Producing pipeline version: 1
 
 [CSV sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/50c345b0be12/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/50c345b0be12/signals-c1d2c1df9eab/schema.json)
 
 | article\_url | comments | discussion\_url | evidence\_scope | hn\_rank | matched\_term | observed\_at | points |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [https://github\.com/SRN0129/Agenttrust](<https://github.com/SRN0129/Agenttrust>) | 1 | [https://news\.ycombinator\.com/item?id=50235909](<https://news.ycombinator.com/item?id=50235909>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 70 | agents | 2026\-10\-26T09:05:53\.076433\+00:00 | 10 |
-| [https://vithushansylvester\.com/writing/the\-real\-impact\-of\-ai\-on\-tech\-jobs](<https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs>) | 19 | [https://news\.ycombinator\.com/item?id=50234699](<https://news.ycombinator.com/item?id=50234699>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 32 | AI | 2026\-10\-26T09:03:29\.018844\+00:00 | 47 |
-| [https://www\.dailycal\.org/news/campus/academics/ai\-use\-leads\-uc\-berkeley\-math\-professor\-to\-see\-no\-point\-in\-grading\-homework/article\_bdf1eae2\-c08b\-491f\-b9f1\-81a7cea177de\.html](<https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html>) | 319 | [https://news\.ycombinator\.com/item?id=50233304](<https://news.ycombinator.com/item?id=50233304>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 50 | AI | 2026\-10\-26T09:04:42\.265924\+00:00 | 217 |
-| [https://www\.wiz\.io/blog/gheist\-attempted\-scaled\-abuse\-of\-stolen\-github\-tokens\-stumbles](<https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles>) | 0 | [https://news\.ycombinator\.com/item?id=50235010](<https://news.ycombinator.com/item?id=50235010>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 82 | workflows | 2026\-10\-26T09:06:31\.753507\+00:00 | 47 |
-| [https://www\.theatlantic\.com/ideas/2026/10/ai\-math\-human\-future/689133/](<https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/>) | 82 | [https://news\.ycombinator\.com/item?id=50233347](<https://news.ycombinator.com/item?id=50233347>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 47 | AI | 2026\-10\-26T09:04:25\.696605\+00:00 | 58 |
+| [https://labs\.ycombinator\.com/projects/games/index\.html](<https://labs.ycombinator.com/projects/games/index.html>) | 170 | [https://news\.ycombinator\.com/item?id=50296486](<https://news.ycombinator.com/item?id=50296486>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 82 | agent | 2026\-11\-02T09:11:35\.402940\+00:00 | 419 |
+| [https://help\.openai\.com/en/articles/20001625\-understanding\-chatgpt\-and\-codex\-usage\-limits](<https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits>) | 166 | [https://news\.ycombinator\.com/item?id=50320588](<https://news.ycombinator.com/item?id=50320588>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 76 | ChatGPT | 2026\-11\-02T09:10:56\.118072\+00:00 | 225 |
+| [https://www\.eurogamer\.net/ai\-fan\-wikis\-errors\-complicating\-games\-culture](<https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture>) | 71 | [https://news\.ycombinator\.com/item?id=50332086](<https://news.ycombinator.com/item?id=50332086>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 51 | AI | 2026\-11\-02T09:08:54\.574457\+00:00 | 82 |
+| [https://www\.tomshardware\.com/tech\-industry/artificial\-intelligence/ai\-agent\-swarms\-unleashed\-in\-minecraft\-to\-build\-a\-thriving\-civilization\-50\-agent\-teams\-fail\-after\-falling\-into\-paralyzing\-bureaucracy](<https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy>) | 80 | [https://news\.ycombinator\.com/item?id=50325662](<https://news.ycombinator.com/item?id=50325662>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 63 | agent | 2026\-11\-02T09:09:57\.391587\+00:00 | 167 |
+| [https://thedataexchange\.media/leo\-de\-moura\-lean\-aws/](<https://thedataexchange.media/leo-de-moura-lean-aws/>) | 57 | [https://news\.ycombinator\.com/item?id=50290652](<https://news.ycombinator.com/item?id=50290652>) | Keyword match in HN title/submission only; research prompt is a hypothesis, not a validated user need | 59 | AI | 2026\-11\-02T09:09:38\.110925\+00:00 | 214 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

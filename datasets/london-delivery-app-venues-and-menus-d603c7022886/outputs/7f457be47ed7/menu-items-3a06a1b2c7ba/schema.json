@@ -1,15 +1,19 @@
 [
   {
-    "name": "app_name",
-    "type": "text"
-  },
-  {
-    "name": "availability",
+    "name": "media",
     "type": "jsonb"
   },
   {
-    "name": "base_price",
-    "type": "double precision"
+    "name": "item_name",
+    "type": "text"
+  },
+  {
+    "name": "venue_name",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
   },
   {
     "name": "categories",
@@ -20,35 +24,23 @@
     "type": "jsonb"
   },
   {
-    "name": "collected_at",
-    "type": "text"
+    "name": "base_price",
+    "type": "double precision"
   },
   {
     "name": "currency",
     "type": "text"
   },
   {
-    "name": "customization",
+    "name": "availability",
     "type": "jsonb"
   },
   {
-    "name": "description",
-    "type": "text"
+    "name": "variant",
+    "type": "jsonb"
   },
   {
-    "name": "item_id",
-    "type": "text"
-  },
-  {
-    "name": "item_key",
-    "type": "text"
-  },
-  {
-    "name": "item_name",
-    "type": "text"
-  },
-  {
-    "name": "media",
+    "name": "customization",
     "type": "jsonb"
   },
   {
@@ -56,23 +48,11 @@
     "type": "jsonb"
   },
   {
+    "name": "app_name",
+    "type": "text"
+  },
+  {
     "name": "source_url",
-    "type": "text"
-  },
-  {
-    "name": "variant",
-    "type": "jsonb"
-  },
-  {
-    "name": "venue_id",
-    "type": "text"
-  },
-  {
-    "name": "venue_key",
-    "type": "text"
-  },
-  {
-    "name": "venue_name",
     "type": "text"
   }
 ]

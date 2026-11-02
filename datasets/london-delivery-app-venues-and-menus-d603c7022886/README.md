@@ -1,20 +1,58 @@
-# London Delivery App Venues and Menus
+# Deliveroo, Uber Eats and Just Eat Menu Prices in London
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-London delivery app venues and menu snapshots from Deliveroo, Uber Eats and Just Eat, with app base prices\.
+Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 30 restaurant listings, with base prices, categories and ratings\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 6
+- Active pipeline version: 8
 - Last published: 2026-11-01T13:26:30.960098Z
 
 ## The brief
 
-> I need this data: London delivery app venues and menu snapshots from Deliveroo, Uber Eats and Just Eat, with app base prices\.
+> I need this data: Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 30 restaurant listings, with base prices, categories and ratings\.
 
 Summary from the public dataset description.
+
+## London delivery app venues and menus / menu\_items
+
+3,365 total rows · 50 sampled · Output revision 4
+Published: 2026-11-01T13:26:30.960098Z · Producing pipeline version: Unknown
+
+[CSV sample](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/sample.csv) · [JSON sample](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/sample.json) · [Schema](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/schema.json)
+
+Curated sample from revision 4; saved 2026-11-02T12:38:01.992694Z. This illustrative snapshot does not refresh with the dataset.
+
+| media | item\_name | venue\_name | description | categories | category\_context | base\_price | currency |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| \{"image\_url": "[https://just\-eat\-prod\-eu\-res\.cloudinary\.com/image/upload/c\_fill,q\_auto,c\_fill,f\_auto,w\_640,h\_480/v1/uk/dishes/244418/9f9011c1fb29e21cf0d7b4458890698f](<https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,c_fill,f_auto,w_640,h_480/v1/uk/dishes/244418/9f9011c1fb29e21cf0d7b4458890698f>)", "status": "observed"} | BBQ Mountain Burger | Chicken Valley Holborn | A boneless breast of chicken marinated in BBQ sauce, served on a toasted sesame seed bun, complemented by a classic hash brown, crunchy lettuce, melted slice of cheese and basted with our signature BBQ sauce\. | \[\{"category\_id": "food\_type\.burgers", "dimension": "food\_type", "name": "Burgers"}\] | \{"basis": "source\_menu\_section", "mapping\_status": "mapped", "source\_labels": \["Burgers"\], "taxonomy\_version": "1\.0", "unmapped\_labels": \[\]} | 8\.99 | GBP |
+| \{"image\_url": "[https://rs\-menus\-api\.roocdn\.com/images/cc666755\-f4fa\-433c\-9174\-fc32f815e2cd/image\.jpeg?width=640&amp;height=480&amp;auto=webp&amp;format=jpg&amp;fit=crop](<https://rs-menus-api.roocdn.com/images/cc666755-f4fa-433c-9174-fc32f815e2cd/image.jpeg?width=640&amp;height=480&amp;auto=webp&amp;format=jpg&amp;fit=crop>)", "status": "observed"} | Chicken Yakisoba | Maki &amp; Ramen \- Soho | Japanese fried chicken tossed in teppanyaki fried noodles, assorted vegetables and sweet soba sauce\.  | \[\{"category\_id": "food\_type\.noodles", "dimension": "food\_type", "name": "Noodles"}\] | \{"basis": "source\_menu\_section", "mapping\_status": "mapped", "source\_labels": \["🥢Yakisoba🥢"\], "taxonomy\_version": "1\.0", "unmapped\_labels": \[\]} | 16 | GBP |
+| \{"image\_url": "[https://rs\-menus\-api\.roocdn\.com/images/d6b84f0d\-8c9b\-4d21\-9700\-96445097df23/image\.jpeg?width=640&amp;height=480&amp;auto=webp&amp;format=jpg&amp;fit=crop](<https://rs-menus-api.roocdn.com/images/d6b84f0d-8c9b-4d21-9700-96445097df23/image.jpeg?width=640&amp;height=480&amp;auto=webp&amp;format=jpg&amp;fit=crop>)", "status": "observed"} | Tokyo Sushi Box \(16 Pieces\) | Gourmet Sushi \- Southampton Row | 4 salmon nigiri, 6 salmon uramaki, 6 california uramaki\. | \[\{"category\_id": "food\_type\.sushi", "dimension": "food\_type", "name": "Sushi"}\] | \{"basis": "source\_menu\_section", "mapping\_status": "mapped", "source\_labels": \["Sushi Boxes"\], "taxonomy\_version": "1\.0", "unmapped\_labels": \[\]} | 16\.45 | GBP |
+| \{"image\_url": "[https://just\-eat\-prod\-eu\-res\.cloudinary\.com/image/upload/c\_fill,f\_auto,w\_640,h\_480/v1/uk/dishes/brg\_je\-uk\-pizza\-hut\-restaurants/243e3610068f13fe20132f4bc99cd00b](<https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,f_auto,w_640,h_480/v1/uk/dishes/brg_je-uk-pizza-hut-restaurants/243e3610068f13fe20132f4bc99cd00b>)", "status": "observed"} | Medium Create Your Own: any 2 toppings | Pizza Hut Restaurants \- Strand | Includes Mozzarella\. Simply choose your sauce and add any 2 toppings\. \(Serves:1\) | \[\{"category\_id": "food\_type\.pizza", "dimension": "food\_type", "name": "Pizza"}\] | \{"basis": "source\_menu\_section", "mapping\_status": "mapped", "source\_labels": \["Medium Pizza"\], "taxonomy\_version": "1\.0", "unmapped\_labels": \[\]} | 17\.99 | GBP |
+| \{"image\_url": "[https://tb\-static\.uber\.com/prod/image\-proc/processed\_images/125e56e2e304506f38b3d3cc3bae0cd3/70aa2a4db7f990373ca9c376323e3dea\.jpeg](<https://tb-static.uber.com/prod/image-proc/processed_images/125e56e2e304506f38b3d3cc3bae0cd3/70aa2a4db7f990373ca9c376323e3dea.jpeg>)", "status": "observed"} | Scaloppa Di Vitello Alla Milanese | Da Paolo Restaurant | Deep fried veal escalope served with sautéed potatoes and green leaves salad or spaghetti with tomato sauce\. | \[\{"category\_id": "food\_type\.meat", "dimension": "food\_type", "name": "Meat"}\] | \{"basis": "source\_menu\_section", "mapping\_status": "mapped", "source\_labels": \["Meat"\], "taxonomy\_version": "1\.0", "unmapped\_labels": \[\]} | 39\.95 | GBP |
+
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
+
+### Schema
+
+| Column | Type |
+| --- | --- |
+| media | jsonb |
+| item\_name | text |
+| venue\_name | text |
+| description | text |
+| categories | jsonb |
+| category\_context | jsonb |
+| base\_price | double precision |
+| currency | text |
+| availability | jsonb |
+| variant | jsonb |
+| customization | jsonb |
+| price\_details | jsonb |
+| app\_name | text |
+| source\_url | text |
 
 ## London delivery app venues and menus / venues
 
@@ -53,132 +91,6 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | venue\_key | text |
 | venue\_name | text |
 | location | jsonb |
-
-## London delivery app venues and menus / menu\_items
-
-3,365 total rows · 50 sampled · Output revision 4
-Published: 2026-11-01T13:26:30.960098Z · Producing pipeline version: Unknown
-
-[CSV sample](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/sample.csv) · [JSON sample](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/sample.json) · [Schema](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/schema.json)
-
-| app\_name | availability | base\_price | categories | category\_context | collected\_at | currency | customization |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Uber Eats | \{"basis": "source\_item\_flag", "status": "observed", "available": true} | 18\.99 | \[\{"name": "Mains", "dimension": "course", "category\_id": "course\.mains"}\] | \{"basis": "source\_menu\_section", "source\_labels": \["Main Courses"\], "mapping\_status": "context\_only", "unmapped\_labels": \[\], "taxonomy\_version": "1\.0"} | 2026\-11\-01T13:20:29\.139646\+00:00 | GBP | \{"note": null, "groups": \[\], "status": "none\_reported", "has\_options": false} |
-| Deliveroo | \{"basis": "source\_item\_flag", "status": "observed", "available": true} | 3\.5 | \[\{"name": "Sides", "dimension": "course", "category\_id": "course\.sides"}\] | \{"basis": "source\_menu\_section", "source\_labels": \["Seasoned Sides 🍟"\], "mapping\_status": "context\_only", "unmapped\_labels": \[\], "taxonomy\_version": "1\.0"} | 2026\-11\-01T13:20:27\.127583\+00:00 | GBP | \{"note": null, "groups": \[\{"name": "Choose your seasoning", "choices… |
-| Uber Eats | \{"basis": "source\_item\_flag", "status": "observed", "available": true} | 5 | \[\{"name": "Drinks", "dimension": "beverage", "category\_id": "beverage\.drinks"}\] | \{"basis": "source\_menu\_section", "source\_labels": \["Drinks"\], "mapping\_status": "mapped", "unmapped\_labels": \[\], "taxonomy\_version": "1\.0"} | 2026\-11\-01T13:20:30\.795936\+00:00 | GBP | \{"note": null, "groups": \[\], "status": "none\_reported", "has\_options": false} |
-| Deliveroo | \{"basis": "source\_item\_flag", "status": "observed", "available": true} | 1 | \[\{"name": "Sauces and Dips", "dimension": "food\_type", "category\_id": "food\_type\.sauces\_and\_dips"}\] | \{"basis": "source\_menu\_section", "source\_labels": \["DIPS"\], "mapping\_status": "mapped", "unmapped\_labels": \[\], "taxonomy\_version": "1\.0"} | 2026\-11\-01T13:20:26\.762434\+00:00 | GBP | \{"note": null, "groups": \[\], "status": "none\_reported", "has\_options": false} |
-| Uber Eats | \{"basis": "source\_item\_flag", "status": "observed", "available": true} | 12\.5 | \[\{"name": "Vegetables", "dimension": "food\_type", "category\_id": "food\_type\.vegetables"}\] | \{"basis": "source\_menu\_section", "source\_labels": \["Vegetable Dishes 素菜類"\], "mapping\_status": "mapped", "unmapped\_labels": \[\], "taxonomy\_version": "1\.0"} | 2026\-11\-01T13:20:30\.887868\+00:00 | GBP | \{"note": null, "groups": \[\], "status": "none\_reported", "has\_options": false} |
-
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
-
-### Schema
-
-| Column | Type |
-| --- | --- |
-| app\_name | text |
-| availability | jsonb |
-| base\_price | double precision |
-| categories | jsonb |
-| category\_context | jsonb |
-| collected\_at | text |
-| currency | text |
-| customization | jsonb |
-| description | text |
-| item\_id | text |
-| item\_key | text |
-| item\_name | text |
-| media | jsonb |
-| price\_details | jsonb |
-| source\_url | text |
-| variant | jsonb |
-| venue\_id | text |
-| venue\_key | text |
-| venue\_name | text |
-
-## London delivery app venues and menus / master\_categories
-
-126 total rows · 50 sampled · Output revision 4
-Published: 2026-11-01T13:26:30.960098Z · Producing pipeline version: Unknown
-
-[CSV sample](outputs/7f457be47ed7/master-categories-fdb316a42dee/sample.csv) · [JSON sample](outputs/7f457be47ed7/master-categories-fdb316a42dee/sample.json) · [Schema](outputs/7f457be47ed7/master-categories-fdb316a42dee/schema.json)
-
-| category\_id | definition | dimension | name | taxonomy\_version |
-| --- | --- | --- | --- | --- |
-| menu\_section\.mixed\_noodles\_and\_rice | Mixed Noodles and Rice as described by the source category; not an independently verified ingredient or certification\. | menu\_section | Mixed Noodles and Rice | 1\.0 |
-| menu\_section\.unspecified | Unspecified as described by the source category; not an independently verified ingredient or certification\. | menu\_section | Unspecified | 1\.0 |
-| food\_type\.lamb | Lamb as described by the source category; not an independently verified ingredient or certification\. | food\_type | Lamb | 1\.0 |
-| cuisine\.thai | Thai as described by the source category; not an independently verified ingredient or certification\. | cuisine | Thai | 1\.0 |
-| merchandising\.limited\_time | Limited Time as described by the source category; not an independently verified ingredient or certification\. | merchandising | Limited Time | 1\.0 |
-
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
-
-### Schema
-
-| Column | Type |
-| --- | --- |
-| category\_id | text |
-| definition | text |
-| dimension | text |
-| name | text |
-| taxonomy\_version | text |
-
-## London delivery app venues and menus / category\_mappings
-
-398 total rows · 50 sampled · Output revision 4
-Published: 2026-11-01T13:26:30.960098Z · Producing pipeline version: Unknown
-
-[CSV sample](outputs/7f457be47ed7/category-mappings-2bc900996f9c/sample.csv) · [JSON sample](outputs/7f457be47ed7/category-mappings-2bc900996f9c/sample.json) · [Schema](outputs/7f457be47ed7/category-mappings-2bc900996f9c/schema.json)
-
-| app\_name | category\_ids | entity\_type | mapping\_status | normalized\_label | source\_label | taxonomy\_version |
-| --- | --- | --- | --- | --- | --- | --- |
-| Deliveroo | \["beverage\.drinks"\] | menu\_items | mapped | drinks | Drinks 🫗 | 1\.0 |
-| Just Eat | \["meal\_format\.meal\_bundles"\] | menu\_items | context\_only | combo box | Combo Box | 1\.0 |
-| Just Eat | \["cuisine\.thai"\] | venues | mapped | thai | Thai | 1\.0 |
-| Just Eat | \["food\_type\.meat"\] | menu\_items | mapped | charcoal grills | Charcoal Grills | 1\.0 |
-| Deliveroo | \["meal\_format\.meal\_bundles"\] | menu\_items | context\_only | set meals | Set Meals | 1\.0 |
-
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
-
-### Schema
-
-| Column | Type |
-| --- | --- |
-| app\_name | text |
-| category\_ids | jsonb |
-| entity\_type | text |
-| mapping\_status | text |
-| normalized\_label | text |
-| source\_label | text |
-| taxonomy\_version | text |
-
-## London delivery app venues and menus / source\_coverage
-
-135 total rows · 50 sampled · Output revision 4
-Published: 2026-11-01T13:26:30.960098Z · Producing pipeline version: Unknown
-
-[CSV sample](outputs/7f457be47ed7/source-coverage-edc229c69fd1/sample.csv) · [JSON sample](outputs/7f457be47ed7/source-coverage-edc229c69fd1/sample.json) · [Schema](outputs/7f457be47ed7/source-coverage-edc229c69fd1/schema.json)
-
-| app\_name | entirely\_empty | entity\_type | field\_path | populated\_rows | scope | total\_rows |
-| --- | --- | --- | --- | --- | --- | --- |
-| Deliveroo | False | venues | delivery\.fee\.amount | 10 | nested\_optional | 10 |
-| Uber Eats | False | venues | rating\.value | 8 | nested\_optional | 10 |
-| Deliveroo | False | menu\_items | media\.image\_url | 758 | nested\_optional | 765 |
-| Just Eat | False | venues | source\_url | 10 | top\_level | 10 |
-| Deliveroo | False | menu\_items | category\_context | 765 | top\_level | 765 |
-
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
-
-### Schema
-
-| Column | Type |
-| --- | --- |
-| app\_name | text |
-| entirely\_empty | boolean |
-| entity\_type | text |
-| field\_path | text |
-| populated\_rows | integer |
-| scope | text |
-| total\_rows | integer |
 
 ## How the pipeline works
 
@@ -292,6 +204,8 @@ flowchart LR
 - 2026-11-01T14:45:00.394165Z: v4: Adds delivery and pickup discovery across London with resumable stages and shared venue identities\. Publishes discovery coverage checks and structured menus while fixing premature Uber search termination\.
 - 2026-11-01T17:03:46.644320Z: v5: Temporary Uber Eats connection failures are retried before an update stops, giving slow responses more time to finish\. Required searches and saved data remain unchanged\.
 - 2026-11-01T18:15:31.046918Z: v6: Uber Eats category searches retrieve larger cumulative batches, reducing repeated downloads while retaining selected locations, modes and categories\. Completed searches remain reusable when resuming\.
+- 2026-11-02T08:52:11.892486Z: v7: Temporary Uber Eats request timeouts now use the same limited retries as other temporary connection failures\. Completed searches remain reusable\.
+- 2026-11-02T20:28:41.120502Z: v8: Store new discovery results more compactly without dropping venue details, and keep earlier saved searches compatible with recovery\.
 
 ## Recorded repairs
 

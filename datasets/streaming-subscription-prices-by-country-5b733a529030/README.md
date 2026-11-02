@@ -1,18 +1,18 @@
-# Streaming Subscription Prices by Country: Official Monthly Plans
+# Streaming Subscription Prices by Country: Official Plans
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore source\-supported monthly plan prices for eleven streaming services across a selected country panel, with country verification and unresolved coverage clearly distinguished\.
+Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published table contains 6,934 rows; prices and observation dates vary by row\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 31
+- Active pipeline version: 34
 - Last published: 2026-10-27T08:04:37.293971Z
 
 ## The brief
 
-> I need this data: Explore source\-supported monthly plan prices for eleven streaming services across a selected country panel, with country verification and unresolved coverage clearly distinguished\.
+> I need this data: Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published table contains 6,934 rows; prices and observation dates vary by row\.
 
 Summary from the public dataset description.
 
@@ -128,10 +128,14 @@ flowchart LR
 - 2026-10-25T10:49:45.962003Z: v29: Rejects unsupported ad\-free labels based only on a plan name or Apple catalogue description\. Keeps Max live\-channel exceptions separate from on\-demand advertising\.
 - 2026-10-25T10:56:24.213711Z: v30: Adds Finland’s missing SkyShowtime advertising tier by checking both public pricing tabs and their rolling monthly terms\.
 - 2026-10-25T11:03:23.692389Z: v31: Resolves three additional Apple TV country prices and identifies Pakistan’s required iCloud\+ bundle using explicit public country pages\.
+- 2026-11-02T15:54:41.328079Z: v32: Fixed website discovery so an uncertain match no longer stops the streaming\-price update\.
+- 2026-11-02T16:28:04.450435Z: v33: Website matching now selects from known search results and gives uncertain matches a second check before marking them unresolved\.
+- 2026-11-02T18:38:14.619452Z: v34: Long search results now use the full\-evidence fallback before they exceed the website\-selection limit\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-02T09:55:12.726697Z: no change
+- 2026-11-02T09:55:52.927145Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 

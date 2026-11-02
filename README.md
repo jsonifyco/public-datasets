@@ -15,8 +15,8 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Consumer AI Subscription Prices](datasets/consumer-ai-subscription-prices-0db1533e818f/) | 920 | weekly | 2026-10-30T16:22:25.115710Z |
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
 | [NYC Family Weekend Activities and Food Pairings — October 24–25, 2026](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
-| [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 1,588 | weekly | 2026-10-30T18:47:00.993978Z |
-| [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 844 | daily | 2026-11-01T06:01:52.840026Z |
+| [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 2,487 | weekly | 2026-11-02T06:01:58.217204Z |
+| [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 1,110 | daily | 2026-11-02T06:01:27.076027Z |
 | [LlamaIndex reader demo: docs pages](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Meta and TikTok Ad Intelligence Demo: Ads, Products, and Creative Signals](datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7/) | 12 | On demand | 2026-10-22T13:09:28.137275Z |
 | [Keyword Search Results and Page Summaries](datasets/keyword-search-and-url-summaries-3630558f97ed/) | 2 | On demand | 2026-10-29T11:31:03.092480Z |
@@ -28,6 +28,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Jivamukti Yoga Barcelona Team and Instagram Directory](datasets/jivamukti-barcelona-team-instagram-5f425fa222f9/) | 8 | On demand | 2026-10-23T15:24:45.459748Z |
 | [8\-K Filings Dataset: S&amp;P 500 Current Reports, Weekly](datasets/s-p-500-sec-8-k-filings-61608a881b67/) | 430 | weekly | 2026-10-26T08:07:39.395299Z |
 | [TikTok, Instagram, and YouTube Shorts Posts with Music Credits](datasets/social-posts-and-music-credits-618da9615d86/) | 25 | On demand | 2026-10-21T14:32:02.901284Z |
+| [Supermarket Products in France](datasets/supermarket-products-in-france-6bb96540e5f9/) | 170,950 | weekly | 2026-11-02T03:11:45.443522Z |
 | [FDA 510\(k\) Database: Every Clearance Decision, Weekly](datasets/fda-510-k-clearance-decisions-77a1978440d2/) | 3,155 | weekly | 2026-10-30T09:13:15.117620Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Georgia Elections Board Meetings and Votes](datasets/georgia-elections-board-meetings-and-votes-886d693cbdab/) | 1,257 | On demand | 2026-10-18T21:14:33.754956Z |

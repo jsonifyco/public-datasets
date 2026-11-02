@@ -1,0 +1,34 @@
+[
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "fetched_at_utc",
+    "type": "text"
+  },
+  {
+    "name": "item",
+    "type": "text"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "variant_qty",
+    "type": "integer"
+  }
+]

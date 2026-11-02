@@ -1,14 +1,20 @@
-# WDIWF company monitors
+# WDIWF Company Monitors
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-
+WDIWF company monitors track page summaries, key facts, and change hashes for employer careers, benefits, leadership, ESG, and other pages\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/wdiwf-company-monitors-f8658ad4c63e?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 3
 - Last published: 2026-10-14T13:14:12.125029Z
+
+## The brief
+
+> I need this data: WDIWF company monitors track page summaries, key facts, and change hashes for employer careers, benefits, leadership, ESG, and other pages\.
+
+Summary from the public dataset description.
 
 ## browse\_ai\_monitors / monitors
 

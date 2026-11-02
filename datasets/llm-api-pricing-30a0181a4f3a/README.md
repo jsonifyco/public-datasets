@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-LLM API pricing for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1M tokens, updated weekly\.
+LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1 million tokens\. The published table contains 2,487 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llm-api-pricing-30a0181a4f3a?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ LLM API pricing for text models on Vertex AI, Azure, Gemini API, Mistral and Coh
 
 ## The brief
 
-> I need this data: LLM API pricing for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1M tokens, updated weekly\.
+> I need this data: LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1 million tokens\. The published table contains 2,487 rows\.
 
 Summary from the public dataset description.
 

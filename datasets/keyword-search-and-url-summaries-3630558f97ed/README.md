@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore keyword search results with page titles, URLs, summaries, search ranks, and status fields, including records for unavailable pages and keywords with no results\.
+Explore keyword search results with page titles, URLs, summaries, search ranks, and status fields\. The published dataset contains 2 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/keyword-search-and-url-summaries-3630558f97ed?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Explore keyword search results with page titles, URLs, summaries, search ranks, 
 
 ## The brief
 
-> I need this data: Explore keyword search results with page titles, URLs, summaries, search ranks, and status fields, including records for unavailable pages and keywords with no results\.
+> I need this data: Explore keyword search results with page titles, URLs, summaries, search ranks, and status fields\. The published dataset contains 2 rows\.
 
 Summary from the public dataset description.
 

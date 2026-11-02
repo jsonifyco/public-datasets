@@ -1,0 +1,134 @@
+[
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "approximate_views",
+    "type": "integer"
+  },
+  {
+    "name": "available_locales",
+    "type": "jsonb"
+  },
+  {
+    "name": "chart_appearances",
+    "type": "jsonb"
+  },
+  {
+    "name": "chart_list_appearances",
+    "type": "integer"
+  },
+  {
+    "name": "coins_per_episode",
+    "type": "integer"
+  },
+  {
+    "name": "coins_to_finish",
+    "type": "integer"
+  },
+  {
+    "name": "conflicting_cost_observations",
+    "type": "boolean"
+  },
+  {
+    "name": "cost_locales",
+    "type": "text"
+  },
+  {
+    "name": "cost_note",
+    "type": "text"
+  },
+  {
+    "name": "cost_observations",
+    "type": "jsonb"
+  },
+  {
+    "name": "cost_observed_on",
+    "type": "text"
+  },
+  {
+    "name": "cover_url",
+    "type": "text"
+  },
+  {
+    "name": "data_note",
+    "type": "text"
+  },
+  {
+    "name": "displayed_views",
+    "type": "text"
+  },
+  {
+    "name": "first_seen",
+    "type": "text"
+  },
+  {
+    "name": "free_episodes",
+    "type": "integer"
+  },
+  {
+    "name": "genres",
+    "type": "jsonb"
+  },
+  {
+    "name": "last_seen",
+    "type": "text"
+  },
+  {
+    "name": "localised_details",
+    "type": "jsonb"
+  },
+  {
+    "name": "name_locale",
+    "type": "text"
+  },
+  {
+    "name": "name_observed_on",
+    "type": "text"
+  },
+  {
+    "name": "observed_on",
+    "type": "text"
+  },
+  {
+    "name": "original_title",
+    "type": "text"
+  },
+  {
+    "name": "release_date",
+    "type": "text"
+  },
+  {
+    "name": "show_key",
+    "type": "text"
+  },
+  {
+    "name": "show_name",
+    "type": "text"
+  },
+  {
+    "name": "source_title_id",
+    "type": "text"
+  },
+  {
+    "name": "total_episodes",
+    "type": "integer"
+  },
+  {
+    "name": "unlock_model",
+    "type": "text"
+  },
+  {
+    "name": "views_locale",
+    "type": "text"
+  },
+  {
+    "name": "views_note",
+    "type": "text"
+  },
+  {
+    "name": "views_observed_on",
+    "type": "text"
+  }
+]

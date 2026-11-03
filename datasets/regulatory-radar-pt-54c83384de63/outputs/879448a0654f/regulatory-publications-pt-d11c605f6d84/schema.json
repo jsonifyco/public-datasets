@@ -1,0 +1,38 @@
+[
+  {
+    "name": "issuer",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "published_date",
+    "type": "text"
+  },
+  {
+    "name": "document_type",
+    "type": "text"
+  },
+  {
+    "name": "reference_number",
+    "type": "text"
+  },
+  {
+    "name": "consultation_deadline",
+    "type": "text"
+  },
+  {
+    "name": "summary",
+    "type": "text"
+  },
+  {
+    "name": "language",
+    "type": "text"
+  }
+]

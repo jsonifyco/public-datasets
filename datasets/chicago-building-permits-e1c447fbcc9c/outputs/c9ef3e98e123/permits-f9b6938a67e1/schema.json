@@ -1,0 +1,78 @@
+[
+  {
+    "name": "permit_number",
+    "type": "text"
+  },
+  {
+    "name": "permit_type",
+    "type": "text"
+  },
+  {
+    "name": "review_type",
+    "type": "text"
+  },
+  {
+    "name": "permit_status",
+    "type": "text"
+  },
+  {
+    "name": "work_type",
+    "type": "text"
+  },
+  {
+    "name": "work_description",
+    "type": "text"
+  },
+  {
+    "name": "application_start_date",
+    "type": "text"
+  },
+  {
+    "name": "issue_date",
+    "type": "text"
+  },
+  {
+    "name": "processing_time_days",
+    "type": "bigint"
+  },
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "community_area",
+    "type": "bigint"
+  },
+  {
+    "name": "ward",
+    "type": "bigint"
+  },
+  {
+    "name": "reported_cost_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "total_fee_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "residential_unit_change",
+    "type": "bigint"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

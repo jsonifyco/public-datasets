@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published table contains 6,934 rows; prices and observation dates vary by row\.
+Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published tables contain 6,987 rows; prices and observation dates vary by row\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 34
-- Last published: 2026-10-27T08:04:37.293971Z
+- Last published: 2026-11-03T15:01:38.353896Z
 
 ## The brief
 
-> I need this data: Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published table contains 6,934 rows; prices and observation dates vary by row\.
+> I need this data: Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published tables contain 6,987 rows; prices and observation dates vary by row\.
 
 Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-6,934 total rows · 47 sampled · Output revision 35
-Published: 2026-10-27T08:04:37.293971Z · Producing pipeline version: 31
+6,987 total rows · 47 sampled · Output revision 36
+Published: 2026-11-03T15:01:38.353896Z · Producing pipeline version: 34
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 

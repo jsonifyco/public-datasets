@@ -1,0 +1,154 @@
+[
+  {
+    "base_price_eur": 229000,
+    "contracting_entity": "Gabinete Nacional de Segurança",
+    "cpv": [
+      "72268000"
+    ],
+    "description": "Aquisição de serviços de licenciamento de software Microsoft, subscrições cloud e serviços de suporte associados para o GNS/CNCS.",
+    "location": "Freguesia de Belém",
+    "procedure_type": "open",
+    "published_date": "2026-10-21",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-01T23:59:59Z",
+    "title": "Aquisição de serviços de licenciamento de software Microsoft, subscrições cloud e serviços de suporte associados para o GNS/CNCS",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/727974-2026"
+  },
+  {
+    "base_price_eur": 400930,
+    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
+    "cpv": [
+      "72500000"
+    ],
+    "description": "(DAG) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I.P. (PRR) (20260267).",
+    "location": "Lisboa",
+    "procedure_type": "open",
+    "published_date": "2026-10-26",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-02T18:00:59Z",
+    "title": "(DAG) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I.P. (PRR) (20260267)",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/739600-2026"
+  },
+  {
+    "base_price_eur": 508220,
+    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
+    "cpv": [
+      "72500000"
+    ],
+    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR).",
+    "location": "Lisboa",
+    "procedure_type": "open",
+    "published_date": "2026-10-26",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-02T18:00:59Z",
+    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR) (20260251)",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/737784-2026"
+  },
+  {
+    "base_price_eur": 611735,
+    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
+    "cpv": [
+      "72500000"
+    ],
+    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR).",
+    "location": "Lisboa",
+    "procedure_type": "open",
+    "published_date": "2026-10-26",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-02T18:00:59Z",
+    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR) (20260268)",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/738528-2026"
+  },
+  {
+    "base_price_eur": 259195,
+    "contracting_entity": "Conselho Superior da Magistratura",
+    "cpv": [
+      "48820000"
+    ],
+    "description": "Aquisição de infraestrutura de virtualização Proxmox.",
+    "location": "Lisboa",
+    "procedure_type": "open",
+    "published_date": "2026-10-21",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-03T23:59:59Z",
+    "title": "Aquisição de infraestrutura de virtualização Proxmox",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/727408-2026"
+  },
+  {
+    "base_price_eur": 224900,
+    "contracting_entity": "Conselho Superior da Magistratura",
+    "cpv": [
+      "48820000"
+    ],
+    "description": "Aquisição de servidor de inteligência artificial com quatro GPUs para a infraestrutura computacional do ALTEC.",
+    "location": "Lisboa",
+    "procedure_type": "open",
+    "published_date": "2026-10-21",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-03T23:59:59Z",
+    "title": "Aquisição de servidor de inteligência artificial com quatro GPUs para a infraestrutura computacional do ALTEC",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/728599-2026"
+  },
+  {
+    "base_price_eur": 385000,
+    "contracting_entity": "Unidade Local de Saúde de Entre Douro e Vouga, EPE",
+    "cpv": [
+      "72260000"
+    ],
+    "description": "Aquisição de Plataforma de Telemonitorização para os doentes com insuficiência Cardíaca.",
+    "location": "União das Freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",
+    "procedure_type": "open",
+    "published_date": "2026-10-26",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-03T23:59:59Z",
+    "title": "Aquisição de Plataforma de Telemonitorização para os doentes com insuficiência Cardíaca",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/738253-2026"
+  },
+  {
+    "base_price_eur": 1387000,
+    "contracting_entity": "Instituto da Conservação da Natureza e das Florestas, IP",
+    "cpv": [
+      "16600000",
+      "43200000",
+      "48900000"
+    ],
+    "description": "Aquisição, por lotes, de maquinaria e equipamentos florestais destinados a atividades do Sistema de Gestão Integrada de Fogos Rurais, incluindo cinco estilhaçadores rebocáveis, cinco estilhaçadores TDF/PTO, um rolo compactador autopropulsionado, três rachadores hidráulicos de cepos, uma cabeça processadora florestal e uma motoniveladora articulada, no âmbito de investimentos do Plano de Recuperação e Resiliência para a transformação da paisagem em territórios de floresta vulneráveis e o reforço da capacidade de atuação.",
+    "location": "União das Freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",
+    "procedure_type": "open",
+    "published_date": "2026-10-23",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-05T23:59:59Z",
+    "title": "Aquisição de maquinaria e equipamentos florestais para prevenção e combate a incêndios rurais",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/736833-2026"
+  },
+  {
+    "base_price_eur": 1530000,
+    "contracting_entity": "Universidade Nova de Lisboa",
+    "cpv": [
+      "72268000"
+    ],
+    "description": "Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM & AIS da área de Pré-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365.",
+    "location": "União das Freguesias de Carcavelos e Parede",
+    "procedure_type": "open",
+    "published_date": "2026-10-26",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-06T19:00:59Z",
+    "title": "Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM & AIS da área de Pré-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/738005-2026"
+  },
+  {
+    "base_price_eur": 1396240,
+    "contracting_entity": "Instituto dos Registos e do Notariado, IP",
+    "cpv": [
+      "72000000"
+    ],
+    "description": "Aquisição de serviços de implementação de infraestrutura de plataforma como serviço (IAAS, PAAS E SAAS) e serviços de consultoria para a operação e monitorização da plataforma BUPI CLOUD 2027.",
+    "location": "A prestação dos serviços será efetuada em modo híbrido, estando prevista a presença da equipa técnica da entidade adjudicatária nas instalações em Lisboa do IRN, I.P. ou IGFEJ",
+    "procedure_type": "open",
+    "published_date": "2026-10-27",
+    "source": "ted.europa.eu",
+    "submission_deadline": "2026-11-07T23:59:59Z",
+    "title": "Aquisição de serviços de implementação de infraestrutura de plataforma como serviço (IAAS, PAAS E SAAS) e serviços de consultoria para a operação e monitorização da plataforma BUPI CLOUD 2027",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/745093-2026"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "base_price_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "contracting_entity",
+    "type": "text"
+  },
+  {
+    "name": "cpv",
+    "type": "jsonb"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "location",
+    "type": "text"
+  },
+  {
+    "name": "procedure_type",
+    "type": "text"
+  },
+  {
+    "name": "published_date",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "submission_deadline",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

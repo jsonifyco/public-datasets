@@ -1,0 +1,54 @@
+[
+  {
+    "name": "claims_deadline",
+    "type": "text"
+  },
+  {
+    "name": "court",
+    "type": "text"
+  },
+  {
+    "name": "debtor_name",
+    "type": "text"
+  },
+  {
+    "name": "debtor_nif",
+    "type": "text"
+  },
+  {
+    "name": "debtor_type",
+    "type": "text"
+  },
+  {
+    "name": "district",
+    "type": "text"
+  },
+  {
+    "name": "insolvency_administrator",
+    "type": "text"
+  },
+  {
+    "name": "notice_type",
+    "type": "text"
+  },
+  {
+    "name": "process_number",
+    "type": "text"
+  },
+  {
+    "name": "published_date",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "summary",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "compatible_system",
+    "type": "text"
+  },
+  {
+    "name": "format",
+    "type": "text"
+  },
+  {
+    "name": "in_stock",
+    "type": "boolean"
+  },
+  {
+    "name": "pack_size",
+    "type": "double precision"
+  },
+  {
+    "name": "price_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "price_per_capsule_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "product_name",
+    "type": "text"
+  },
+  {
+    "name": "promo",
+    "type": "boolean"
+  },
+  {
+    "name": "promo_text",
+    "type": "text"
+  },
+  {
+    "name": "retailer",
+    "type": "text"
+  },
+  {
+    "name": "scraped_at",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

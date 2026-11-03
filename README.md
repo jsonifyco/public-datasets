@@ -14,6 +14,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Hacker News AI Story Tags](datasets/hacker-news-ai-067aaaf184ae/) | 30 | weekly | 2026-11-02T09:04:03.677197Z |
 | [Consumer AI Subscription Prices](datasets/consumer-ai-subscription-prices-0db1533e818f/) | 1,830 | weekly | 2026-11-02T06:45:29.012076Z |
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
+| [Coffee Capsule Prices in Portugal](datasets/coffee-capsule-shelf-pt-15625f7dd7ac/) | 1,179 | weekly | 2026-11-03T20:43:22.331949Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 2,487 | weekly | 2026-11-02T06:01:58.217204Z |
@@ -23,17 +24,20 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Keyword Search Results and Page Summaries](datasets/keyword-search-and-url-summaries-3630558f97ed/) | 2 | On demand | 2026-10-29T11:31:03.092480Z |
 | [Datarade Dataset Catalog](datasets/datasets-for-sale-3fb2e8b82ab2/) | 14,054 | On demand | 2026-10-31T12:08:13.007880Z |
 | [Workflow Automation Pricing and Changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
-| [Streaming Subscription Prices by Country: Official Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 6,934 | weekly | 2026-10-27T08:04:37.293971Z |
+| [Portugal Regulatory Radar](datasets/regulatory-radar-pt-54c83384de63/) | 10 | daily | 2026-11-03T20:12:16.866478Z |
+| [Streaming Subscription Prices by Country: Official Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 6,987 | weekly | 2026-11-03T15:01:38.353896Z |
 | [AI Company Job Postings Data](datasets/ai-company-job-postings-5bae5dc811a8/) | 4,955 | weekly | 2026-11-02T07:01:40.032899Z |
-| [Low\-Code Release Radar: Latest n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-02T08:00:18.647642Z |
+| [Low\-Code Release Radar: n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-03T08:00:17.727545Z |
+| [Portugal Insolvency Notices](datasets/insolvency-notices-pt-5cf39e22f64e/) | 428 | daily | 2026-11-03T20:56:31.375712Z |
 | [Jivamukti Yoga Barcelona Team and Instagram Directory](datasets/jivamukti-barcelona-team-instagram-5f425fa222f9/) | 8 | On demand | 2026-10-23T15:24:45.459748Z |
 | [8\-K Filings Dataset: S&amp;P 500 Current Reports](datasets/s-p-500-sec-8-k-filings-61608a881b67/) | 690 | weekly | 2026-11-02T08:04:25.770540Z |
 | [TikTok and YouTube Shorts Posts with Music Credits](datasets/social-posts-and-music-credits-618da9615d86/) | 25 | On demand | 2026-10-21T14:32:02.901284Z |
-| [French Supermarket Prices and Product Catalogue](datasets/supermarket-products-in-france-6bb96540e5f9/) | 171,865 | weekly | 2026-11-02T14:53:40.285101Z |
+| [Paris Supermarket Prices and Product Catalogue](datasets/supermarket-products-in-paris-6bb96540e5f9/) | 171,865 | weekly | 2026-11-02T14:53:40.285101Z |
 | [Louis Vuitton Neverfull Prices by Country](datasets/louis-vuitton-neverfull-prices-by-country-6bce6c1fc1cf/) | 24 | weekly | 2026-11-02T10:26:23.565459Z |
 | [FDA 510\(k\) Database: Clearance Decisions](datasets/fda-510-k-clearance-decisions-77a1978440d2/) | 3,155 | weekly | 2026-10-30T09:13:15.117620Z |
 | [Srixon Golf Ball Prices in France](datasets/srixon-golf-ball-prices-france-780021c9d370/) | 83 | weekly | 2026-11-02T09:55:20.949843Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
+| [Lisbon Coffee Brands at Street Venues](datasets/coffee-brand-on-the-street-lisbon-poc-823f5bfb06bb/) | 116 | On demand | 2026-11-03T20:52:27.565877Z |
 | [Georgia County Election Board Meetings, Motions and Votes](datasets/georgia-county-election-board-meetings-and-votes-886d693cbdab/) | 1,269 | On demand | 2026-11-02T11:10:55.955034Z |
 | [Agent Builder Pricing and Changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
 | [LLM API Pricing: Official Standard Text and Chat Model Rates](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |
@@ -48,6 +52,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Deliveroo, Uber Eats and Just Eat Menu Prices in London](datasets/london-delivery-app-venues-and-menus-d603c7022886/) | 3,395 | weekly | 2026-11-01T13:26:30.960098Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |
 | [Calven Competitor Watch](datasets/calven-competitor-watch-dfd2d8d7f7fc/) | 27 | On demand | 2026-10-14T14:39:43.933603Z |
+| [Chicago Building Permits Data: New Permits Issued Weekly](datasets/chicago-building-permits-e1c447fbcc9c/) | 1,208 | weekly | 2026-11-03T08:00:39.577664Z |
 | [Agent Framework Releases](datasets/agent-framework-releases-e3721e6bea8a/) | 30 | On demand | 2026-10-14T12:00:31.586928Z |
 | [Leather Backpack Prices: Gusti Leder and Amazon](datasets/leather-backpack-prices-gusti-leder-shop-vs-amazon-de-fr-it-e57e10e2e1b5/) | 52 | weekly | 2026-11-02T10:35:13.486479Z |
 | [AI Hiring Radar](datasets/ai-hiring-radar-e7adb9b7e394/) | 75 | weekly | 2026-11-02T09:13:22.117189Z |
@@ -55,6 +60,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [UK Toothpaste Prices: Boots, Superdrug and Well Pharmacy](datasets/uk-pharmacy-personal-care-demo-ee43bffca794/) | 9 | On demand | 2026-10-26T12:35:41.997095Z |
 | [Amazon Product Reviews and Ratings Sample Dataset](datasets/multi-source-ecommerce-tracking-f31687d4dfcd/) | 3,012 | On demand | 2026-11-01T10:50:38.497991Z |
 | [WDIWF Company Monitors](datasets/wdiwf-company-monitors-f8658ad4c63e/) | 54 | On demand | 2026-10-14T13:14:12.125029Z |
+| [Portugal IT Tender Notices](datasets/it-tenders-pt-fc238e58914d/) | 86 | daily | 2026-11-03T20:16:42.682525Z |
 | [DC Grocery Dairy and Egg Prices](datasets/dc-grocery-dairy-and-egg-prices-feb64fb083cc/) | 457 | weekly | 2026-11-02T14:33:32.069897Z |
 
 Each worksheet includes up to 50 saved curated or automatic sample rows; rows too large for the preview API are omitted and counted in the worksheet README. Samples are refreshed regularly and may change over time. Consult each dataset’s source terms before reuse; this collection does not grant a blanket license to third-party data.

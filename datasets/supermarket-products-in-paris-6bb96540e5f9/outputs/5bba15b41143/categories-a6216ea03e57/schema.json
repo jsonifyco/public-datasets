@@ -1,0 +1,42 @@
+[
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "source_name",
+    "type": "text"
+  },
+  {
+    "name": "store_name",
+    "type": "text"
+  },
+  {
+    "name": "products",
+    "type": "integer"
+  },
+  {
+    "name": "reported_total",
+    "type": "integer"
+  },
+  {
+    "name": "pages",
+    "type": "integer"
+  },
+  {
+    "name": "complete",
+    "type": "boolean"
+  },
+  {
+    "name": "category_url",
+    "type": "text"
+  },
+  {
+    "name": "started_at",
+    "type": "text"
+  },
+  {
+    "name": "completed_at",
+    "type": "text"
+  }
+]

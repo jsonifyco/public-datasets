@@ -1,10 +1,10 @@
-# French Supermarket Prices and Product Catalogue
+# Paris Supermarket Prices and Product Catalogue
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-French supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\. The published dataset contains 171,865 rows across product and category tables; observation dates are recorded where available\.
+Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\. The published dataset contains 171,865 rows across product and category tables; observation dates are recorded where available\.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-france-6bb96540e5f9?action=get) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 46
@@ -12,7 +12,7 @@ French supermarket product listings and prices from Carrefour, E\.Leclerc, Aucha
 
 ## The brief
 
-> I need this data: French supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\. The published dataset contains 171,865 rows across product and category tables; observation dates are recorded where available\.
+> I need this data: Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\. The published dataset contains 171,865 rows across product and category tables; observation dates are recorded where available\.
 
 Summary from the public dataset description.
 
@@ -23,13 +23,15 @@ Published: 2026-11-02T14:53:40.285101Z · Producing pipeline version: 46
 
 [CSV sample](outputs/5bba15b41143/products-0a3e27b8ca81/sample.csv) · [JSON sample](outputs/5bba15b41143/products-0a3e27b8ca81/sample.json) · [Schema](outputs/5bba15b41143/products-0a3e27b8ca81/schema.json)
 
-| availability | brand | category | category\_url | currency | image\_url | location\_scope | observed\_at |
+Curated sample from revision 5; saved 2026-11-03T15:32:15.558580Z. This illustrative snapshot does not refresh with the dataset.
+
+| image\_url | product\_name | brand | price | currency | price\_per\_unit | unit\_price\_label | product\_url |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| True | Nature Valley | Epicerie Sucrée | [https://courses\.monoprix\.fr/categories/epicerie\-sucr%C3%A9e/bd800ae5\-5dde\-488d\-b187\-0d9578581d61](<https://courses.monoprix.fr/categories/epicerie-sucr%C3%A9e/bd800ae5-5dde-488d-b187-0d9578581d61>) | EUR | [https://courses\.monoprix\.fr/images\-v3/0c44253f\-c4a3\-4340\-9d37\-d41e42b9d14a/6b8d11b1\-73f4\-49ab\-b855\-7d014eaf400a/300x300\.jpg](<https://courses.monoprix.fr/images-v3/0c44253f-c4a3-4340-9d37-d41e42b9d14a/6b8d11b1-73f4-49ab-b855-7d014eaf400a/300x300.jpg>) | national\_online | 2026\-11\-01T22:12:02\.515476\+00:00 |
-| True | Persil | Entretien | [https://www\.houra\.fr/catalogue/entretien/voir\-tous\-les\-produits\-B1559594\-1\.html](<https://www.houra.fr/catalogue/entretien/voir-tous-les-produits-B1559594-1.html>) | EUR | None | paris\_delivery\_area | 2026\-11\-02T01:10:27\.638518\+00:00 |
-| True | Roger &amp; Gallet | Parapharmacie | [https://courses\.monoprix\.fr/categories/parapharmacie/396ea71e\-a37c\-4890\-aa3f\-63734378dc6a](<https://courses.monoprix.fr/categories/parapharmacie/396ea71e-a37c-4890-aa3f-63734378dc6a>) | EUR | [https://courses\.monoprix\.fr/images\-v3/0c44253f\-c4a3\-4340\-9d37\-d41e42b9d14a/0e401fb0\-05ea\-411e\-adfa\-a102011516a3/300x300\.jpg](<https://courses.monoprix.fr/images-v3/0c44253f-c4a3-4340-9d37-d41e42b9d14a/0e401fb0-05ea-411e-adfa-a102011516a3/300x300.jpg>) | national\_online | 2026\-11\-01T22:16:50\.563266\+00:00 |
-| True | VIEILLE FERME | Bière, Cave et Spiritueux | [https://courses\.monoprix\.fr/categories/bi%C3%A8re\-cave\-et\-spiritueux/1c32cbad\-6e7e\-437a\-91b4\-923d2c9fd6af](<https://courses.monoprix.fr/categories/bi%C3%A8re-cave-et-spiritueux/1c32cbad-6e7e-437a-91b4-923d2c9fd6af>) | EUR | [https://courses\.monoprix\.fr/images\-v3/0c44253f\-c4a3\-4340\-9d37\-d41e42b9d14a/7a69238b\-090b\-4d5f\-bf1a\-80ec62e52fda/300x300\.jpg](<https://courses.monoprix.fr/images-v3/0c44253f-c4a3-4340-9d37-d41e42b9d14a/7a69238b-090b-4d5f-bf1a-80ec62e52fda/300x300.jpg>) | national\_online | 2026\-11\-01T22:14:55\.869161\+00:00 |
-| True | Le petit Olivier | Hygiène, Beauté | [https://www\.houra\.fr/catalogue/hygiene\-beaute/voir\-tous\-les\-produits\-B1559598\-1\.html](<https://www.houra.fr/catalogue/hygiene-beaute/voir-tous-les-produits-B1559598-1.html>) | EUR | None | paris\_delivery\_area | 2026\-11\-02T01:02:07\.158073\+00:00 |
+| [https://static\.coursesu\.com/dw/image/v2/BBQX\_PRD/on/demandware\.static/\-/Sites\-digitalu\-master\-catalog/default/dw371e58a6/5010034016071\_H1N1\_7249740\_S10\.png?sw=172&amp;sh=172&amp;sm=fit](<https://static.coursesu.com/dw/image/v2/BBQX_PRD/on/demandware.static/-/Sites-digitalu-master-catalog/default/dw371e58a6/5010034016071_H1N1_7249740_S10.png?sw=172&amp;sh=172&amp;sm=fit>) | Riz cuisiné à la Mexicaine express 2min BEN'S ORIGINAL \- Sachet micro\-ondable 220g | BEN'S ORIGINAL | 2\.04 | EUR | 9\.28 | 9,28 €/kg | [https://www\.coursesu\.com/p/riz\-cuisine\-a\-la\-mexicaine\-express\-2min\-bens\-original\-\-\-sachet\-micro\-ondable\-220g/7249740\.html](<https://www.coursesu.com/p/riz-cuisine-a-la-mexicaine-express-2min-bens-original---sachet-micro-ondable-220g/7249740.html>) |
+| None | Bjorg Jus de carottes bio sans sucre ajouté, Lot de 2x75cl | Bjorg | 7\.78 | EUR | 5\.19 | None | [https://www\.houra\.fr/bjorg\-jus\-de\-carottes\-bio\-sans\-sucre\-ajoute\-lot\-de\-2x75cl/1452018/](<https://www.houra.fr/bjorg-jus-de-carottes-bio-sans-sucre-ajoute-lot-de-2x75cl/1452018/>) |
+| [https://static\.coursesu\.com/dw/image/v2/BBQX\_PRD/on/demandware\.static/\-/Sites\-digitalu\-master\-catalog/default/dw27bad7dd/5056772300447\_A1N1\_6498615\_S13\.png?sw=172&amp;sh=172&amp;sm=fit](<https://static.coursesu.com/dw/image/v2/BBQX_PRD/on/demandware.static/-/Sites-digitalu-master-catalog/default/dw27bad7dd/5056772300447_A1N1_6498615_S13.png?sw=172&amp;sh=172&amp;sm=fit>) | Whisky Clan Campbell 40° 1L | CAMPBELL | 22\.63 | EUR | 22\.63 | 22,63 €/l | [https://www\.coursesu\.com/p/whisky\-clan\-campbell\-40\-1l/6498615\.html](<https://www.coursesu.com/p/whisky-clan-campbell-40-1l/6498615.html>) |
+| [https://static\.coursesu\.com/dw/image/v2/BBQX\_PRD/on/demandware\.static/\-/Sites\-digitalu\-master\-catalog/default/dwd7692f3a/3083680613583\_H1C1\_4666038\_S10\.png?sw=172&amp;sh=172&amp;sm=fit](<https://static.coursesu.com/dw/image/v2/BBQX_PRD/on/demandware.static/-/Sites-digitalu-master-catalog/default/dwd7692f3a/3083680613583_H1C1_4666038_S10.png?sw=172&amp;sh=172&amp;sm=fit>) | Haricots blancs cuisinés CASSEGRAIN \- Boîte 400g | CASSEGRAIN | 2\.05 | EUR | 8\.2 | 8,20 €/kg | [https://www\.coursesu\.com/p/haricots\-blancs\-cuisines\-cassegrain\-\-\-boite\-400g/4666038\.html](<https://www.coursesu.com/p/haricots-blancs-cuisines-cassegrain---boite-400g/4666038.html>) |
+| [https://static\.coursesu\.com/dw/image/v2/BBQX\_PRD/on/demandware\.static/\-/Sites\-digitalu\-master\-catalog/default/dw93fad947/3181232220286\_A1N1\_1735067\_S13\.png?sw=172&amp;sh=172&amp;sm=fit](<https://static.coursesu.com/dw/image/v2/BBQX_PRD/on/demandware.static/-/Sites-digitalu-master-catalog/default/dw93fad947/3181232220286_A1N1_1735067_S13.png?sw=172&amp;sh=172&amp;sm=fit>) | Steak haché pur boeuf 5%MG CHARAL \- 2x130g \- 260g | CHARAL | 8\.07 | EUR | 31\.04 | 31,04 €/kg | [https://www\.coursesu\.com/p/steak\-hache\-pur\-boeuf\-5mg\-charal\-\-\-2x130g\-\-\-260g/1735067\.html](<https://www.coursesu.com/p/steak-hache-pur-boeuf-5mg-charal---2x130g---260g/1735067.html>) |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -37,31 +39,26 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| availability | boolean |
+| image\_url | text |
+| product\_name | text |
 | brand | text |
+| price | double precision |
+| currency | text |
+| price\_per\_unit | double precision |
+| unit\_price\_label | text |
+| product\_url | text |
 | category | text |
 | category\_url | text |
-| currency | text |
-| image\_url | text |
-| location\_scope | text |
-| observed\_at | text |
-| offer\_id | text |
 | pack\_size | text |
-| price | double precision |
-| price\_per\_unit | double precision |
-| product\_id | text |
-| product\_name | text |
-| product\_url | text |
 | promotion | text |
+| availability | boolean |
 | retailer | text |
-| seller\_id | text |
-| seller\_name | text |
-| source\_brand | text |
-| source\_name | text |
+| location\_scope | text |
+| store\_name | text |
 | store\_address | text |
 | store\_id | text |
-| store\_name | text |
-| unit\_price\_label | text |
+| product\_id | text |
+| observed\_at | text |
 
 ## Supermarket Products in France / categories
 
@@ -70,13 +67,15 @@ Published: 2026-11-02T14:53:40.285101Z · Producing pipeline version: 46
 
 [CSV sample](outputs/5bba15b41143/categories-a6216ea03e57/sample.csv) · [JSON sample](outputs/5bba15b41143/categories-a6216ea03e57/sample.json) · [Schema](outputs/5bba15b41143/categories-a6216ea03e57/schema.json)
 
-| category | category\_url | complete | completed\_at | notes | pages | products | reported\_total |
+Curated sample from revision 5; saved 2026-11-03T15:36:07.051432Z. This illustrative snapshot does not refresh with the dataset.
+
+| category | source\_name | store\_name | products | reported\_total | pages | complete | category\_url |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Pizzas | [https://www\.carrefour\.fr/r/charcuterie\-traiteur/pizzas\-tartes\-pates\-fraiches/pizzas](<https://www.carrefour.fr/r/charcuterie-traiteur/pizzas-tartes-pates-fraiches/pizzas>) | True | 2026\-11\-01T15:07:27\.123912\+00:00 | final\-page metadata currentPage==totalPage \(2\) with null next link after 48 exact Carrefour API entities The supplied Carrefour category URL redirected to the current first\-party product leaf [https://www\.carrefour\.fr/r/charcuterie\-traiteur/pizzas\-tartes\-pates\-fraiches/pizzas](<https://www.carrefour.fr/r/charcuterie-traiteur/pizzas-tartes-pates-fraiches/pizzas>)\. The exact Paris Auteuil cart remained stable before and after sequential first\-party JSON catalogue pagination; sponsored DOM placements were not counted as additional products\. | 2 | 48 | 48 |
-| Brosses et Peignes | [https://www\.carrefour\.fr/r/hygiene\-et\-beaute/les\-cheveux/accessoires\-cheveux/brosse\-peigne](<https://www.carrefour.fr/r/hygiene-et-beaute/les-cheveux/accessoires-cheveux/brosse-peigne>) | True | 2026\-11\-01T18:28:56\.578818\+00:00 | final\-page metadata currentPage==totalPage \(1\) with null next link after 13 exact Carrefour API entities The supplied Carrefour category URL redirected to the current first\-party product leaf [https://www\.carrefour\.fr/r/hygiene\-et\-beaute/les\-cheveux/accessoires\-cheveux/brosse\-peigne](<https://www.carrefour.fr/r/hygiene-et-beaute/les-cheveux/accessoires-cheveux/brosse-peigne>)\. The exact Paris Auteuil cart remained stable before and after sequential first\-party JSON catalogue pagination; sponsored DOM placements were not counted as additional products\. | 1 | 13 | 13 |
-| Gels lavants et Eaux nettoyantes | [https://www\.carrefour\.fr/r/parapharmacie/bebe/toilette\-bebe/gels\-lavants\-et\-eaux\-nettoyantes](<https://www.carrefour.fr/r/parapharmacie/bebe/toilette-bebe/gels-lavants-et-eaux-nettoyantes>) | True | 2026\-11\-01T18:44:45\.272589\+00:00 | final\-page metadata currentPage==totalPage \(1\) with null next link after 30 exact Carrefour API entities The supplied Carrefour category URL redirected to the current first\-party product leaf [https://www\.carrefour\.fr/r/parapharmacie/bebe/toilette\-bebe/gels\-lavants\-et\-eaux\-nettoyantes](<https://www.carrefour.fr/r/parapharmacie/bebe/toilette-bebe/gels-lavants-et-eaux-nettoyantes>)\. The exact Paris Auteuil cart remained stable before and after sequential first\-party JSON catalogue pagination; sponsored DOM placements were not counted as additional products\. | 1 | 30 | 30 |
-| Calendrier de l'avent | [https://www\.carrefour\.fr/r/epicerie\-sucree/chocolats/calendrier\-lavent](<https://www.carrefour.fr/r/epicerie-sucree/chocolats/calendrier-lavent>) | True | 2026\-11\-01T16:27:42\.560137\+00:00 | final\-page metadata currentPage==totalPage \(2\) with null next link after 32 exact Carrefour API entities The supplied Carrefour category URL redirected to the current first\-party product leaf [https://www\.carrefour\.fr/r/epicerie\-sucree/chocolats/calendrier\-lavent](<https://www.carrefour.fr/r/epicerie-sucree/chocolats/calendrier-lavent>)\. The exact Paris Auteuil cart remained stable before and after sequential first\-party JSON catalogue pagination; sponsored DOM placements were not counted as additional products\. | 2 | 32 | 32 |
-| Fruits, pâtes de fruits | [https://www\.coursesu\.com/c/chocolats\-de\-noel/chocolats\-et\-specialites\-a\-offrir/fruits\-pates\-de\-fruits](<https://www.coursesu.com/c/chocolats-de-noel/chocolats-et-specialites-a-offrir/fruits-pates-de-fruits>) | True | 2026\-11\-02T12:19:03\.730416\+00:00 |  | 1 | 1 | None |
+| Olives et tapenades | Courses U | Super U Paris Custine | 81 | None | 5 | True | [https://www\.coursesu\.com/c/epicerie\-salee/aperitifs\-et\-chips/olives\-et\-tapenades](<https://www.coursesu.com/c/epicerie-salee/aperitifs-et-chips/olives-et-tapenades>) |
+| Fromages râpés et parmesans | Carrefour | Carrefour Paris Auteuil | 58 | 58 | 2 | True | [https://www\.carrefour\.fr/r/cremerie/fromage\-cuisiner/fromages\-rapes](<https://www.carrefour.fr/r/cremerie/fromage-cuisiner/fromages-rapes>) |
+| Epicerie | Mon Marché | Mon Marché delivery to 15 Place Vendôme | 26 | None | 1 | True | [https://www\.mon\-marche\.fr/categorie/du\-nouveau\-dans\-vos\-placards](<https://www.mon-marche.fr/categorie/du-nouveau-dans-vos-placards>) |
+| Sac poubelle | Courses U | Super U Paris Custine | 26 | None | 2 | True | [https://www\.coursesu\.com/c/entretien\-et\-nettoyage/sacs\-emballages/sac\-poubelle](<https://www.coursesu.com/c/entretien-et-nettoyage/sacs-emballages/sac-poubelle>) |
+| Herbes aromatiques, Piments, Epices | Courses U | Super U Paris Custine | 186 | None | 11 | True | [https://www\.coursesu\.com/c/fruits\-et\-legumes/legumes/herbes\-aromatiques\-piments\-epices](<https://www.coursesu.com/c/fruits-et-legumes/legumes/herbes-aromatiques-piments-epices>) |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -85,17 +84,15 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | Column | Type |
 | --- | --- |
 | category | text |
-| category\_url | text |
-| complete | boolean |
-| completed\_at | text |
-| notes | text |
-| pages | integer |
+| source\_name | text |
+| store\_name | text |
 | products | integer |
 | reported\_total | integer |
-| source\_name | text |
+| pages | integer |
+| complete | boolean |
+| category\_url | text |
 | started\_at | text |
-| store\_name | text |
-| terminal | text |
+| completed\_at | text |
 
 ## How the pipeline works
 
@@ -215,7 +212,7 @@ flowchart LR
 - 2026-11-02T03:32:29.338093Z: no change
 - 2026-11-02T03:39:06.490363Z: temporary blocker
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-france-6bb96540e5f9?action=get) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9?action=get) — CSV or JSON · Email required
 
 [Build your own dataset](https://factory.jsonify.com/setup)
 

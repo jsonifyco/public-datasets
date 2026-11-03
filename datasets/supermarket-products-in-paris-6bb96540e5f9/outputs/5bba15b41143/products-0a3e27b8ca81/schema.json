@@ -1,0 +1,82 @@
+[
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "product_name",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "price_per_unit",
+    "type": "double precision"
+  },
+  {
+    "name": "unit_price_label",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "category_url",
+    "type": "text"
+  },
+  {
+    "name": "pack_size",
+    "type": "text"
+  },
+  {
+    "name": "promotion",
+    "type": "text"
+  },
+  {
+    "name": "availability",
+    "type": "boolean"
+  },
+  {
+    "name": "retailer",
+    "type": "text"
+  },
+  {
+    "name": "location_scope",
+    "type": "text"
+  },
+  {
+    "name": "store_name",
+    "type": "text"
+  },
+  {
+    "name": "store_address",
+    "type": "text"
+  },
+  {
+    "name": "store_id",
+    "type": "text"
+  },
+  {
+    "name": "product_id",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  }
+]

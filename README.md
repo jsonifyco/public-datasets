@@ -17,7 +17,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 2,487 | weekly | 2026-11-02T06:01:58.217204Z |
-| [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 1,110 | daily | 2026-11-02T06:01:27.076027Z |
+| [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 1,381 | daily | 2026-11-03T06:03:13.475589Z |
 | [LlamaIndex Module Guides Articles](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Meta and TikTok Ad Intelligence Demo: Ads, Products, and Creative Signals](datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7/) | 12 | On demand | 2026-10-22T13:09:28.137275Z |
 | [Keyword Search Results and Page Summaries](datasets/keyword-search-and-url-summaries-3630558f97ed/) | 2 | On demand | 2026-10-29T11:31:03.092480Z |
@@ -51,7 +51,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Agent Framework Releases](datasets/agent-framework-releases-e3721e6bea8a/) | 30 | On demand | 2026-10-14T12:00:31.586928Z |
 | [Leather Backpack Prices: Gusti Leder and Amazon](datasets/leather-backpack-prices-gusti-leder-shop-vs-amazon-de-fr-it-e57e10e2e1b5/) | 52 | weekly | 2026-11-02T10:35:13.486479Z |
 | [AI Hiring Radar](datasets/ai-hiring-radar-e7adb9b7e394/) | 75 | weekly | 2026-11-02T09:13:22.117189Z |
-| [Weekly U\.S\. Diesel and Gas Price History](datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4/) | 2,080 | weekly | 2026-10-29T16:43:18.803609Z |
+| [Weekly U\.S\. Diesel and Gas Price History](datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4/) | 2,080 | weekly | 2026-11-03T06:00:33.927814Z |
 | [UK Toothpaste Prices: Boots, Superdrug and Well Pharmacy](datasets/uk-pharmacy-personal-care-demo-ee43bffca794/) | 9 | On demand | 2026-10-26T12:35:41.997095Z |
 | [Amazon Product Reviews and Ratings Sample Dataset](datasets/multi-source-ecommerce-tracking-f31687d4dfcd/) | 3,012 | On demand | 2026-11-01T10:50:38.497991Z |
 | [WDIWF Company Monitors](datasets/wdiwf-company-monitors-f8658ad4c63e/) | 54 | On demand | 2026-10-14T13:14:12.125029Z |

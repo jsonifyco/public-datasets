@@ -1,6 +1,6 @@
 [
   {
-    "name": "acquisition_method",
+    "name": "venue_name",
     "type": "text"
   },
   {
@@ -8,23 +8,23 @@
     "type": "text"
   },
   {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
     "name": "categories",
     "type": "jsonb"
   },
   {
-    "name": "category_context",
+    "name": "location",
     "type": "jsonb"
   },
   {
-    "name": "collected_at",
-    "type": "text"
+    "name": "rating",
+    "type": "jsonb"
   },
   {
     "name": "delivery",
-    "type": "jsonb"
-  },
-  {
-    "name": "delivery_context",
     "type": "jsonb"
   },
   {
@@ -40,27 +40,7 @@
     "type": "text"
   },
   {
-    "name": "rating",
-    "type": "jsonb"
-  },
-  {
-    "name": "source_url",
+    "name": "collected_at",
     "type": "text"
-  },
-  {
-    "name": "venue_id",
-    "type": "text"
-  },
-  {
-    "name": "venue_key",
-    "type": "text"
-  },
-  {
-    "name": "venue_name",
-    "type": "text"
-  },
-  {
-    "name": "location",
-    "type": "jsonb"
   }
 ]

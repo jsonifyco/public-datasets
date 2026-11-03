@@ -1,0 +1,158 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "baseline_audit_notes",
+    "type": "text"
+  },
+  {
+    "name": "baseline_audit_status",
+    "type": "text"
+  },
+  {
+    "name": "baseline_brand",
+    "type": "text"
+  },
+  {
+    "name": "baseline_supporting_photos",
+    "type": "integer"
+  },
+  {
+    "name": "best_photo_url",
+    "type": "text"
+  },
+  {
+    "name": "brand_text",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "center_latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "center_longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "center_maps_url",
+    "type": "text"
+  },
+  {
+    "name": "center_name",
+    "type": "text"
+  },
+  {
+    "name": "center_source_url",
+    "type": "text"
+  },
+  {
+    "name": "coffee_brand",
+    "type": "text"
+  },
+  {
+    "name": "confidence",
+    "type": "text"
+  },
+  {
+    "name": "conflicting_brands",
+    "type": "text"
+  },
+  {
+    "name": "coordinate_source",
+    "type": "text"
+  },
+  {
+    "name": "coverage_radius_m",
+    "type": "integer"
+  },
+  {
+    "name": "distance_m",
+    "type": "integer"
+  },
+  {
+    "name": "evidence_types",
+    "type": "text"
+  },
+  {
+    "name": "gallery_candidate_count",
+    "type": "integer"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "maps_url",
+    "type": "text"
+  },
+  {
+    "name": "observation_limitations",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "photo_evidence",
+    "type": "jsonb"
+  },
+  {
+    "name": "photo_status",
+    "type": "text"
+  },
+  {
+    "name": "photos_checked",
+    "type": "integer"
+  },
+  {
+    "name": "place_id",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "review_count",
+    "type": "integer"
+  },
+  {
+    "name": "scope",
+    "type": "text"
+  },
+  {
+    "name": "source_errors",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_summary",
+    "type": "text"
+  },
+  {
+    "name": "supplier_status",
+    "type": "text"
+  },
+  {
+    "name": "supporting_photos",
+    "type": "integer"
+  },
+  {
+    "name": "validation_method",
+    "type": "text"
+  },
+  {
+    "name": "venue_name",
+    "type": "text"
+  }
+]

@@ -7,7 +7,7 @@ Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 3
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 9
+- Active pipeline version: 11
 - Last published: 2026-11-01T13:26:30.960098Z
 
 ## The brief
@@ -104,26 +104,28 @@ flowchart LR
   n8["search#95;jobs"]
   n9["search#95;queries"]
   n10["retain#95;discovery#95;results"]
-  n11["discovered#95;inventory"]
-  n12["inventory#95;plan"]
-  n13["venue#95;details"]
-  n14["venue#95;inventory"]
-  n15["menu#95;plan"]
-  n16["menus"]
-  n17["publication#95;plan"]
-  n18["worksheets"]
-  n19["venues#95;rows"]
-  n20["venues"]
-  n21["menu#95;items#95;rows"]
-  n22["menu#95;items"]
-  n23["master#95;categories#95;rows"]
-  n24["master#95;categories"]
-  n25["category#95;mappings#95;rows"]
-  n26["category#95;mappings"]
-  n27["source#95;coverage#95;rows"]
-  n28["source#95;coverage"]
-  n29["discovery#95;coverage#95;rows"]
-  n30["discovery#95;coverage"]
+  n11["discovery#95;batches"]
+  n12["summarize#95;discovery#95;batch"]
+  n13["discovered#95;inventory"]
+  n14["inventory#95;plan"]
+  n15["venue#95;details"]
+  n16["venue#95;inventory"]
+  n17["menu#95;plan"]
+  n18["menus"]
+  n19["publication#95;plan"]
+  n20["worksheets"]
+  n21["venues#95;rows"]
+  n22["venues"]
+  n23["menu#95;items#95;rows"]
+  n24["menu#95;items"]
+  n25["master#95;categories#95;rows"]
+  n26["master#95;categories"]
+  n27["category#95;mappings#95;rows"]
+  n28["category#95;mappings"]
+  n29["source#95;coverage#95;rows"]
+  n30["source#95;coverage"]
+  n31["discovery#95;coverage#95;rows"]
+  n32["discovery#95;coverage"]
   n6 --> n7
   n7 --> n8
   n8 --> n9
@@ -136,32 +138,34 @@ flowchart LR
   n15 --> n16
   n16 --> n17
   n17 --> n18
+  n18 --> n19
   n19 --> n20
   n21 --> n22
   n23 --> n24
   n25 --> n26
   n27 --> n28
   n29 --> n30
+  n31 --> n32
   n0 --> n6
   n1 --> n6
   n2 --> n6
   n3 --> n6
   n4 --> n6
   n5 --> n6
-  n18 --> n25
-  n18 --> n29
-  n18 --> n23
-  n18 --> n21
-  n18 --> n27
-  n18 --> n19
+  n20 --> n27
+  n20 --> n31
+  n20 --> n25
+  n20 --> n23
+  n20 --> n29
+  n20 --> n21
   n5 --> n6
   n4 --> n8
-  n1 --> n11
-  n4 --> n11
-  n3 --> n13
-  n2 --> n14
-  n0 --> n14
-  n3 --> n16
+  n1 --> n13
+  n4 --> n13
+  n3 --> n15
+  n2 --> n16
+  n0 --> n16
+  n3 --> n18
 ```
 
 - **venue\_inventory\_input**: Optional saved London venue inventory for resuming menus\.
@@ -175,6 +179,8 @@ flowchart LR
 - **search\_jobs**: Expand all source\-provided restaurant categories into independently resumable Uber search jobs\.
 - **search\_queries**: Checkpoint each restaurant\-category search independently and exhaust its native pagination\.
 - **retain\_discovery\_results**: Keep each completed search in verified compact storage so combining searches does not load all their payloads at once\.
+- **discovery\_batches**: Group saved search references into bounded, ordered recovery units\.
+- **summarize\_discovery\_batch**: Combine a small group of saved searches and checkpoint its venue and coverage summary\.
 - **discovered\_inventory**: Save the deduplicated app venue IDs and their successful discovery locations before venue detail calls\.
 - **inventory\_plan**: Reject limits that would truncate discovered venue detail work\.
 - **venue\_details**: Resolve venue addresses and coordinates without collecting menus, keeping only venues inside Greater London\.
@@ -207,6 +213,8 @@ flowchart LR
 - 2026-11-02T08:52:11.892486Z: v7: Temporary Uber Eats request timeouts now use the same limited retries as other temporary connection failures\. Completed searches remain reusable\.
 - 2026-11-02T20:28:41.120502Z: v8: Store new discovery results more compactly without dropping venue details, and keep earlier saved searches compatible with recovery\.
 - 2026-11-04T03:25:24.821853Z: v9: Combines saved search results in smaller verified pieces to reduce memory use\. Completed searches and all venue information remain reusable\.
+- 2026-11-04T12:20:06.673425Z: v10: Combine saved searches in small recoverable groups and tolerate temporary read timeouts, preserving venue identities and coverage\.
+- 2026-11-04T17:10:45.624506Z: v11: Restore coverage verification when resuming saved search summaries without the original search count\.
 
 ## Recorded repairs
 

@@ -16,7 +16,7 @@
     "issuer": "ESMA",
     "language": "en",
     "published_date": "2026-10-09",
-    "reference_number": null,
+    "reference_number": "ESMA91-1505572268-4934",
     "summary": "ESMA invites stakeholders to provide evidence and comments on the tokenisation of collateral used by central counterparties, with responses due by 15 January 2027.",
     "title": "Call for evidence on the CCP collateral tokenisation",
     "url": "https://www.esma.europa.eu/press-news/consultations/call-evidence-ccp-collateral-tokenisation"
@@ -38,10 +38,10 @@
     "issuer": "ESMA",
     "language": "en",
     "published_date": "2026-10-16",
-    "reference_number": "ESMA74-268544963-1718",
-    "summary": "ESMA’s final report sets out its assessment and final approach to updating the MAR Guidelines on delaying disclosure of inside information, including legitimate interests and circumstances in which delay may mislead the public.",
-    "title": "Final report on the MAR Guidelines on delay in the disclosure of inside information",
-    "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-268544963-1718_Final_report_-_MAR_Guidelines_on_delay_in_the_disclosure_of_inside_information.pdf"
+    "reference_number": "ESMA74-2119945926-3749",
+    "summary": "ESMA’s final report presents revised guidelines on standardised procedures and messaging protocols between investment firms and professional clients, including changes to communication methods, use of international standards, and implementation timing.",
+    "title": "Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients",
+    "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3749_Final_report_revised_CSDR_GL_on_standardised_procedures_and_messaging_protocols.pdf"
   },
   {
     "consultation_deadline": null,
@@ -49,10 +49,10 @@
     "issuer": "ESMA",
     "language": "en",
     "published_date": "2026-10-16",
-    "reference_number": "ESMA74-2119945926-3749",
-    "summary": "ESMA’s final report presents revised guidelines on standardised procedures and messaging protocols between investment firms and professional clients, including changes to communication methods, use of international standards, and implementation timing.",
-    "title": "Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients",
-    "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3749_Final_report_revised_CSDR_GL_on_standardised_procedures_and_messaging_protocols.pdf"
+    "reference_number": "ESMA74-268544963-1718",
+    "summary": "ESMA’s final report sets out its assessment and final approach to updating the MAR Guidelines on delaying disclosure of inside information, including legitimate interests and circumstances in which delay may mislead the public.",
+    "title": "Final report on the MAR Guidelines on delay in the disclosure of inside information",
+    "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-268544963-1718_Final_report_-_MAR_Guidelines_on_delay_in_the_disclosure_of_inside_information.pdf"
   },
   {
     "consultation_deadline": null,
@@ -79,17 +79,6 @@
   {
     "consultation_deadline": null,
     "document_type": "final report",
-    "issuer": "EBA",
-    "language": "en",
-    "published_date": "2026-10-29",
-    "reference_number": "EBA/REP/2026/19",
-    "summary": "The EBA report analyses taxonomy disclosure requirements under Article 8 of the Taxonomy Regulation and provides technical advice on financial-sector KPIs, grandfathering, OpEx, group-level reporting, investment activities and credit-institution templates.",
-    "title": "Report on taxonomy disclosures",
-    "url": "https://www.eba.europa.eu/sites/default/files/2026-10/e3f2c8fb-c3e1-4447-9739-569835b4cf82/Report%20on%20Taxonomy%20Disclosures_for%20publication%20%281%29.pdf"
-  },
-  {
-    "consultation_deadline": null,
-    "document_type": "final report",
     "issuer": "ESMA",
     "language": "en",
     "published_date": "2026-10-29",
@@ -97,6 +86,17 @@
     "summary": "ESMA’s final report provides technical advice to the European Commission on selected key performance indicators under the Taxonomy Disclosures Delegated Act, including revisions to the OpEx KPI, voluntary OpEx reporting by financial undertakings, group reporting and other possible simplifications.",
     "title": "Final report on Technical Advice on selected KPIs under the Taxonomy Disclosures Delegated Act",
     "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA32-846262651-5927_Final_Report_on_Technical_Advice_selected_Taxonomy_KPIs.pdf"
+  },
+  {
+    "consultation_deadline": null,
+    "document_type": "final report",
+    "issuer": "EBA",
+    "language": "en",
+    "published_date": "2026-10-29",
+    "reference_number": "EBA/REP/2026/19",
+    "summary": "The EBA report analyses taxonomy disclosure requirements under Article 8 of the Taxonomy Regulation and provides technical advice on financial-sector KPIs, grandfathering, OpEx, group-level reporting, investment activities and credit-institution templates.",
+    "title": "Report on taxonomy disclosures",
+    "url": "https://www.eba.europa.eu/sites/default/files/2026-10/e3f2c8fb-c3e1-4447-9739-569835b4cf82/Report%20on%20Taxonomy%20Disclosures_for%20publication%20%281%29.pdf"
   },
   {
     "consultation_deadline": null,

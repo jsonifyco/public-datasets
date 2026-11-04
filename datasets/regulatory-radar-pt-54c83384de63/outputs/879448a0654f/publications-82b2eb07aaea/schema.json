@@ -1,0 +1,38 @@
+[
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "Issuer",
+    "type": "text"
+  },
+  {
+    "name": "Document type",
+    "type": "text"
+  },
+  {
+    "name": "Published date",
+    "type": "text"
+  },
+  {
+    "name": "Consultation deadline",
+    "type": "text"
+  },
+  {
+    "name": "Summary",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "Reference",
+    "type": "text"
+  },
+  {
+    "name": "Language",
+    "type": "text"
+  }
+]

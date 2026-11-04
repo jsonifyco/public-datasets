@@ -6,7 +6,7 @@
     "language": "en",
     "published_date": "2026-10-08",
     "reference_number": null,
-    "summary": "EIOPA is consulting on a draft Supervisory Statement to promote consistent, proportionate and risk-based supervision of IBIP sales processes and pre-contractual disclosures, without introducing new regulatory requirements or prescribed supervisory methods.",
+    "summary": "EIOPA is consulting on a draft Supervisory Statement to promote consistent, proportionate and risk-based supervision of IBIP sales processes and pre-contractual disclosures without introducing new regulatory requirements.",
     "title": "Consultation on the draft Supervisory Statement on IBIP Sales Processes",
     "url": "https://www.eiopa.europa.eu/consultations/consultation-draft-supervisory-statement-ibip-sales-processes_en"
   },
@@ -17,7 +17,7 @@
     "language": "en",
     "published_date": "2026-10-09",
     "reference_number": "ESMA91-1505572268-4934",
-    "summary": "ESMA invites stakeholders to provide evidence and comments on the tokenisation of collateral used by central counterparties, with responses due by 15 January 2027.",
+    "summary": "ESMA invites comments on its call for evidence concerning the tokenisation of collateral used by central counterparties, with responses due by 15 January 2027.",
     "title": "Call for evidence on the CCP collateral tokenisation",
     "url": "https://www.esma.europa.eu/press-news/consultations/call-evidence-ccp-collateral-tokenisation"
   },
@@ -28,7 +28,7 @@
     "language": "en",
     "published_date": "2026-10-12",
     "reference_number": "EBA/RTS/2026/08",
-    "summary": "The EBA’s final report proposes amendments to the prudential technical standards for central securities depositories and designated credit institutions, addressing risks arising when banking CSDs provide banking-type ancillary services to participants of other CSDs and updating references to reflect changes in EU legislation.",
+    "summary": "The EBA’s final report proposes amendments to the prudential technical standards for central securities depositories and designated credit institutions, addressing risks when banking CSDs provide banking-type ancillary services to participants of other CSDs and updating references to reflect changes in EU legislation.",
     "title": "Regulatory Technical Standards on prudential requirements for central securities depositories (CSDs) designated credit institutions offering ‘banking-type ancillary services’",
     "url": "https://www.eba.europa.eu/sites/default/files/2026-10/2500fd3b-78b4-4ebc-9316-0c8e209047a4/Final%20Report%20Amending%20RTS%20on%20Prudential%20Requirements%20CSDR.pdf"
   },
@@ -38,19 +38,8 @@
     "issuer": "ESMA",
     "language": "en",
     "published_date": "2026-10-16",
-    "reference_number": "ESMA74-2119945926-3749",
-    "summary": "ESMA’s final report presents revised guidelines on standardised procedures and messaging protocols between investment firms and professional clients, including changes to communication methods, use of international standards, and implementation timing.",
-    "title": "Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients",
-    "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3749_Final_report_revised_CSDR_GL_on_standardised_procedures_and_messaging_protocols.pdf"
-  },
-  {
-    "consultation_deadline": null,
-    "document_type": "final report",
-    "issuer": "ESMA",
-    "language": "en",
-    "published_date": "2026-10-16",
     "reference_number": "ESMA74-268544963-1718",
-    "summary": "ESMA’s final report sets out its assessment and final approach to updating the MAR Guidelines on delaying disclosure of inside information, including legitimate interests and circumstances in which delay may mislead the public.",
+    "summary": "ESMA’s final report sets out its assessment and final approach to revising the MAR Guidelines on delaying disclosure of inside information, including legitimate interests for delay and circumstances in which delay is likely to mislead the public.",
     "title": "Final report on the MAR Guidelines on delay in the disclosure of inside information",
     "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-268544963-1718_Final_report_-_MAR_Guidelines_on_delay_in_the_disclosure_of_inside_information.pdf"
   },
@@ -59,9 +48,20 @@
     "document_type": "final report",
     "issuer": "ESMA",
     "language": "en",
+    "published_date": "2026-10-16",
+    "reference_number": "ESMA74-2119945926-3749",
+    "summary": "ESMA’s final report presents revised guidelines on standardised procedures and messaging protocols between investment firms and professional clients, including changes to documentation, electronic communications, international standards and implementation timing.",
+    "title": "Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients",
+    "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3749_Final_report_revised_CSDR_GL_on_standardised_procedures_and_messaging_protocols.pdf"
+  },
+  {
+    "consultation_deadline": null,
+    "document_type": "final report",
+    "issuer": "ESMA",
+    "language": "en",
     "published_date": "2026-10-19",
     "reference_number": "ESMA91-1505572268-4904",
-    "summary": "ESMA’s final report sets out draft regulatory technical standards on conditions for CCP acceptance of public and bank guarantees as collateral and targeted changes to CCP investment policy requirements for eligible financial instruments and secure deposit arrangements.",
+    "summary": "ESMA’s final report sets out draft regulatory technical standards on conditions for CCP acceptance of public and bank guarantees as collateral and targeted changes to CCP investment policy requirements.",
     "title": "Final report on the guarantees as CCP collateral and CCP investment policy",
     "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA91-1505572268-4904_Final_report_-_guarantees_as_CCP_collateral_and_CCP_investment_policy.pdf"
   },
@@ -72,20 +72,9 @@
     "language": "en",
     "published_date": "2026-10-20",
     "reference_number": "ESMA74-1049116226-981",
-    "summary": "ESMA’s final report sets out draft regulatory technical standards specifying requirements for post-trade risk reduction services to qualify for the clearing-obligation exemption under EMIR, including conditions for PTRR exercises and providers and monitoring of the exemption.",
+    "summary": "ESMA’s final report sets out regulatory technical standards specifying requirements for post-trade risk reduction services to qualify for the clearing obligation exemption under EMIR.",
     "title": "Final report on the Regulatory Standards on the requirements for Post-Trade Risk Reduction services for the purpose of the clearing obligation exemption under EMIR",
     "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-1049116226-981_Final_Report_on_post_trade_risk_reduction_services_RTS_Exemption_CO.pdf"
-  },
-  {
-    "consultation_deadline": null,
-    "document_type": "final report",
-    "issuer": "ESMA",
-    "language": "en",
-    "published_date": "2026-10-29",
-    "reference_number": "ESMA32-846262651-5927",
-    "summary": "ESMA’s final report provides technical advice to the European Commission on selected key performance indicators under the Taxonomy Disclosures Delegated Act, including revisions to the OpEx KPI, voluntary OpEx reporting by financial undertakings, group reporting and other possible simplifications.",
-    "title": "Final report on Technical Advice on selected KPIs under the Taxonomy Disclosures Delegated Act",
-    "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA32-846262651-5927_Final_Report_on_Technical_Advice_selected_Taxonomy_KPIs.pdf"
   },
   {
     "consultation_deadline": null,
@@ -94,9 +83,20 @@
     "language": "en",
     "published_date": "2026-10-29",
     "reference_number": "EBA/REP/2026/19",
-    "summary": "The EBA report analyses taxonomy disclosure requirements under Article 8 of the Taxonomy Regulation and provides technical advice on financial-sector KPIs, grandfathering, OpEx, group-level reporting, investment activities and credit-institution templates.",
+    "summary": "The EBA report provides technical advice on taxonomy disclosure requirements, addressing financial institutions’ key performance indicators, grandfathering, voluntary use of operating expenses, group-level reporting, and disclosure templates.",
     "title": "Report on taxonomy disclosures",
     "url": "https://www.eba.europa.eu/sites/default/files/2026-10/e3f2c8fb-c3e1-4447-9739-569835b4cf82/Report%20on%20Taxonomy%20Disclosures_for%20publication%20%281%29.pdf"
+  },
+  {
+    "consultation_deadline": null,
+    "document_type": "final report",
+    "issuer": "ESMA",
+    "language": "en",
+    "published_date": "2026-10-29",
+    "reference_number": "ESMA32-846262651-5927",
+    "summary": "ESMA’s final report provides technical advice to the European Commission on selected Taxonomy Disclosure Delegated Act KPIs, including revisions to the OpEx KPI, voluntary OpEx reporting by financial undertakings, group reporting and other possible simplifications.",
+    "title": "Final report on Technical Advice on selected KPIs under the Taxonomy Disclosures Delegated Act",
+    "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA32-846262651-5927_Final_Report_on_Technical_Advice_selected_Taxonomy_KPIs.pdf"
   },
   {
     "consultation_deadline": null,
@@ -105,7 +105,7 @@
     "language": "en",
     "published_date": "2026-10-30",
     "reference_number": null,
-    "summary": "In response to a European Commission request, EIOPA proposes changes to simplify and improve the transparency and comparability of insurers’ Taxonomy disclosures while preserving reliable information on environmentally sustainable insurance activities.",
+    "summary": "EIOPA’s advice to the European Commission proposes simplifying insurers’ Taxonomy disclosures while improving their transparency and comparability and preserving reliable information on environmentally sustainable insurance activities.",
     "title": "EIOPA's Final Advice on the review of (re)insurance disclosures under the Taxonomy Disclosures Delegated Act",
     "url": "https://www.eiopa.europa.eu/publications/eiopas-final-advice-review-reinsurance-disclosures-under-taxonomy-disclosures-delegated-act_en"
   }

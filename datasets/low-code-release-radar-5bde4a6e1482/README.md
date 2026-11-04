@@ -2,32 +2,32 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A published dataset of stable GitHub releases for n8n, Appsmith and Budibase, with release details, notes and source links\. The releases table contains 3 records\.
+A published dataset of stable GitHub releases for n8n, Appsmith and Budibase, with release details, notes and source links\. The dataset contains 3 rows across its published tables; the releases table contains 3 records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/low-code-release-radar-5bde4a6e1482?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-03T08:00:17.727545Z
+- Last published: 2026-11-04T08:00:21.511155Z
 
 ## The brief
 
-> I need this data: A published dataset of stable GitHub releases for n8n, Appsmith and Budibase, with release details, notes and source links\. The releases table contains 3 records\.
+> I need this data: A published dataset of stable GitHub releases for n8n, Appsmith and Budibase, with release details, notes and source links\. The dataset contains 3 rows across its published tables; the releases table contains 3 records\.
 
 Summary from the public dataset description.
 
 ## TechWB Low\-Code Releases / releases
 
-3 total rows · 3 sampled · Output revision 22
-Published: 2026-11-03T08:00:17.727545Z · Producing pipeline version: 1
+3 total rows · 3 sampled · Output revision 23
+Published: 2026-11-04T08:00:21.511155Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a4973f437b80/releases-20195541dc5d/sample.csv) · [JSON sample](outputs/a4973f437b80/releases-20195541dc5d/sample.json) · [Schema](outputs/a4973f437b80/releases-20195541dc5d/schema.json)
 
 | checked\_at | published\_at | release\_age\_days | release\_id | release\_name | release\_notes | release\_url | repository |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-03T08:00:15\.146654\+00:00 | 2026\-10\-30T08:24:56Z | 3 | 428793935 | n8n@2\.45\.7 | \#\# \[2\.45\.7\]\([https://github\.com/n8n\-io/n8n/compare/n8n@2\.45\.6\.\.\.n8n@2\.45\.7](<https://github.com/n8n-io/n8n/compare/n8n@2.45.6...n8n@2.45.7>)\) \(2026\-10\-30\)   \#\#\# Bug Fix… | [https://github\.com/n8n\-io/n8n/releases/tag/n8n%402\.45\.7](<https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.7>) | n8n\-io/n8n |
-| 2026\-11\-03T08:00:15\.004000\+00:00 | 2026\-10\-19T08:09:46Z | 14 | 417045683 | v3\.50\.0 | \#\# What's Changed \* Bump uuid from 8\.3\.2 to 14\.0\.0 by @dependabot\[bot\] in [https://github\.com/Budibase…](<https://github.com/Budibase%E2%80%A6>) | [https://github\.com/Budibase/budibase/releases/tag/v3\.50\.0](<https://github.com/Budibase/budibase/releases/tag/v3.50.0>) | Budibase/budibase |
-| 2026\-11\-03T08:00:15\.069752\+00:00 | 2026\-10\-28T18:10:23Z | 5 | 419376922 | Release v2\.6\.0 🌈 | \#\# ⚠️ For EE users, before upgrading to v2\.6\.0 finish existing Temporal workflow runs on v2\.5\.1    Ap… | [https://github\.com/appsmithorg/appsmith/releases/tag/v2\.6\.0](<https://github.com/appsmithorg/appsmith/releases/tag/v2.6.0>) | appsmithorg/appsmith |
+| 2026\-11\-04T08:00:18\.475422\+00:00 | 2026\-10\-19T08:09:46Z | 15 | 417045683 | v3\.50\.0 | \#\# What's Changed \* Bump uuid from 8\.3\.2 to 14\.0\.0 by @dependabot\[bot\] in [https://github\.com/Budibase…](<https://github.com/Budibase%E2%80%A6>) | [https://github\.com/Budibase/budibase/releases/tag/v3\.50\.0](<https://github.com/Budibase/budibase/releases/tag/v3.50.0>) | Budibase/budibase |
+| 2026\-11\-04T08:00:18\.654756\+00:00 | 2026\-10\-28T18:10:23Z | 6 | 419376922 | Release v2\.6\.0 🌈 | \#\# ⚠️ For EE users, before upgrading to v2\.6\.0 finish existing Temporal workflow runs on v2\.5\.1    Ap… | [https://github\.com/appsmithorg/appsmith/releases/tag/v2\.6\.0](<https://github.com/appsmithorg/appsmith/releases/tag/v2.6.0>) | appsmithorg/appsmith |
+| 2026\-11\-04T08:00:18\.559740\+00:00 | 2026\-11\-02T08:27:00Z | 1 | 431218061 | n8n@2\.46\.4 | \#\# \[2\.46\.4\]\([https://github\.com/n8n\-io/n8n/compare/n8n@2\.46\.3\.\.\.n8n@2\.46\.4](<https://github.com/n8n-io/n8n/compare/n8n@2.46.3...n8n@2.46.4>)\) \(2026\-11\-02\)   \#\#\# Bug Fix… | [https://github\.com/n8n\-io/n8n/releases/tag/n8n%402\.46\.4](<https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.4>) | n8n\-io/n8n |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

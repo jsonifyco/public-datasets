@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Regulatory publications from EBA, ESMA, EIOPA and Banco de Portugal, with English summaries and source links\. The published dataset contains 20 rows\.
+Regulatory publications from EBA, ESMA, EIOPA and Banco de Portugal, with English summaries and source links\. The published dataset contains 68 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/regulatory-radar-pt-54c83384de63?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
-- Active pipeline version: 6
-- Last published: 2026-11-04T06:01:36.839538Z
+- Active pipeline version: 9
+- Last published: 2026-11-04T11:30:39.371648Z
 
 ## The brief
 
-> I need this data: Regulatory publications from EBA, ESMA, EIOPA and Banco de Portugal, with English summaries and source links\. The published dataset contains 20 rows\.
+> I need this data: Regulatory publications from EBA, ESMA, EIOPA and Banco de Portugal, with English summaries and source links\. The published dataset contains 68 rows\.
 
 Summary from the public dataset description.
 
 ## Regulatory publications / Publications
 
-10 total rows · 10 sampled · Output revision 6
-Published: 2026-11-04T06:01:36.839538Z · Producing pipeline version: 6
+34 total rows · 10 sampled · Output revision 8
+Published: 2026-11-04T11:30:39.371648Z · Producing pipeline version: 9
 
 [CSV sample](outputs/879448a0654f/publications-82b2eb07aaea/sample.csv) · [JSON sample](outputs/879448a0654f/publications-82b2eb07aaea/sample.json) · [Schema](outputs/879448a0654f/publications-82b2eb07aaea/schema.json)
 
 | title | Issuer | Document type | Published date | Consultation deadline | Summary | source | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Consultation on the draft Supervisory Statement on IBIP Sales Processes | European Insurance and Occupational Pensions Authority \(EIOPA\) | Consultation | 2026\-10\-08 | 2027\-01\-04 | EIOPA is consulting on a draft Supervisory Statement to promote consistent, proportionate and risk\-based supervision of IBIP sales processes and pre\-contractual disclosures without introducing new regulatory requirements\. | [https://www\.eiopa\.europa\.eu/consultations/consultation\-draft\-supervisory\-statement\-ibip\-sales\-processes\_en](<https://www.eiopa.europa.eu/consultations/consultation-draft-supervisory-statement-ibip-sales-processes_en>) | None |
-| Call for evidence on the CCP collateral tokenisation | European Securities and Markets Authority \(ESMA\) | Consultation | 2026\-10\-09 | 2027\-01\-15 | ESMA invites comments on its call for evidence concerning the tokenisation of collateral used by central counterparties, with responses due by 15 January 2027\. | [https://www\.esma\.europa\.eu/press\-news/consultations/call\-evidence\-ccp\-collateral\-tokenisation](<https://www.esma.europa.eu/press-news/consultations/call-evidence-ccp-collateral-tokenisation>) | ESMA91\-1505572268\-4934 |
-| EIOPA's Final Advice on the review of \(re\)insurance disclosures under the Taxonomy Disclosures Delegated Act | European Insurance and Occupational Pensions Authority \(EIOPA\) | Final report | 2026\-10\-30 | None | EIOPA’s advice to the European Commission proposes simplifying insurers’ Taxonomy disclosures while improving their transparency and comparability and preserving reliable information on environmentally sustainable insurance activities\. | [https://www\.eiopa\.europa\.eu/publications/eiopas\-final\-advice\-review\-reinsurance\-disclosures\-under\-taxonomy\-disclosures\-delegated\-act\_en](<https://www.eiopa.europa.eu/publications/eiopas-final-advice-review-reinsurance-disclosures-under-taxonomy-disclosures-delegated-act_en>) | None |
-| Final report on the Regulatory Standards on the requirements for Post\-Trade Risk Reduction services for the purpose of the clearing obligation exemption under EMIR | European Securities and Markets Authority \(ESMA\) | Final report | 2026\-10\-20 | None | ESMA’s final report sets out regulatory technical standards specifying requirements for post\-trade risk reduction services to qualify for the clearing obligation exemption under EMIR\. | [https://www\.esma\.europa\.eu/sites/default/files/2026\-10/ESMA74\-1049116226\-981\_Final\_Report\_on\_post\_trade\_risk\_reduction\_services\_RTS\_Exemption\_CO\.pdf](<https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-1049116226-981_Final_Report_on_post_trade_risk_reduction_services_RTS_Exemption_CO.pdf>) | ESMA74\-1049116226\-981 |
-| Report on taxonomy disclosures | European Banking Authority \(EBA\) | Final report | 2026\-10\-29 | None | The EBA report provides technical advice on taxonomy disclosure requirements, addressing financial institutions’ key performance indicators, grandfathering, voluntary use of operating expenses, group\-level reporting, and disclosure templates\. | [https://www\.eba\.europa\.eu/sites/default/files/2026\-10/e3f2c8fb\-c3e1\-4447\-9739\-569835b4cf82/Report%20on%20Taxonomy%20Disclosures\_for%20publication%20%281%29\.pdf](<https://www.eba.europa.eu/sites/default/files/2026-10/e3f2c8fb-c3e1-4447-9739-569835b4cf82/Report%20on%20Taxonomy%20Disclosures_for%20publication%20%281%29.pdf>) | EBA/REP/2026/19 |
+| Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients | European Securities and Markets Authority \(ESMA\) | Final report | 2026\-10\-16 | None | ESMA’s final report presents revised CSDR guidelines on arrangements, communication procedures and messaging protocols for investment firms and their professional clients, including the use of electronic and international open standards\. | [https://www\.esma\.europa\.eu/sites/default/files/2026\-10/ESMA74\-2119945926\-3749\_Final\_report\_revised\_CSDR\_GL\_on\_standardised\_procedures\_and\_messaging\_protocols\.pdf](<https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3749_Final_report_revised_CSDR_GL_on_standardised_procedures_and_messaging_protocols.pdf>) | ESMA74\-2119945926\-3749 |
+| Consultation Paper on draft RTS on reclassification of investment firms as credit institutions | European Banking Authority \(EBA\) | Consultation | 2026\-08\-25 | 2026\-11\-25 | The EBA consults on three draft regulatory technical standards covering calculation of credit\-institution thresholds for investment firms, information for monitoring those thresholds, and factors competent authorities should consider when granting a waiver\. | [https://www\.eba\.europa\.eu/sites/default/files/2026\-08/faa39dd8\-20fe\-4149\-9125\-f6a33b68babd/Consultation%20Paper%20on%20draft%20RTS%20on%20reclassification%20of%20IFs%20as%20credit%20institutions\.pdf](<https://www.eba.europa.eu/sites/default/files/2026-08/faa39dd8-20fe-4149-9125-f6a33b68babd/Consultation%20Paper%20on%20draft%20RTS%20on%20reclassification%20of%20IFs%20as%20credit%20institutions.pdf>) | EBA/CP/2026/17 |
+| Consulta Pública n\.º 6/2026 Projeto de Norma Regulamentar que estabelece os índices trimestrais de atualização de capitais para as apólices do ramo "Incêndio e elementos da natureza" com início ou vencimento no primeiro trimestre de 2027 | Autoridade de Supervisão de Seguros e Fundos de Pensões \(ASF\) | Consultation | 2026\-10\-14 | 2026\-11\-04 | The ASF is consulting on a draft regulatory standard setting quarterly capital adjustment indices for fire and natural elements insurance policies beginning or renewing in the first quarter of 2027\. | [https://www\.asf\.com\.pt/w/consulta\-p%C3%BAblica\-n\.%C2%BA\-6/2026\-projeto\-de\-norma\-regulamentar\-que\-estabelece\-os\-%C3%ADndices\-trimestrais\-de\-atualiza%C3%A7%C3%A3o\-de\-capitais\-para\-as\-ap%C3%B3lices\-do\-ramo\-inc%C3%AAndio\-e\-elementos\-da\-natureza\-com\-in%C3%ADcio\-ou\-vencimento\-no\-primei](<https://www.asf.com.pt/w/consulta-p%C3%BAblica-n.%C2%BA-6/2026-projeto-de-norma-regulamentar-que-estabelece-os-%C3%ADndices-trimestrais-de-atualiza%C3%A7%C3%A3o-de-capitais-para-as-ap%C3%B3lices-do-ramo-inc%C3%AAndio-e-elementos-da-natureza-com-in%C3%ADcio-ou-vencimento-no-primei>) | 6/2026 |
+| Instrução \(Histórico\) n\.º 9/2026 | Banco de Portugal | Instrução | 2026\-10\-15 | None | This instruction amends Instruction No\. 11/2025, which regulates the Interbank Clearing System \(SICOI\)\. | [https://www\.bportugal\.pt/instrucao/92026](<https://www.bportugal.pt/instrucao/92026>) | 9/2026 |
+| Circular 006/2026 \- GAFI \- Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo | Comissão do Mercado de Valores Mobiliários \(CMVM\) | Circular | 2026\-08\-17 | None | CMVM Circular 006/2026 concerns the Financial Action Task Force \(GAFI\) and the prevention and combating of money laundering and terrorist financing\. | [https://www\.cmvm\.pt/PInstitucional/ContentDynamic?Input=1C1BDF990ACC464DD18DEE0D6CDD0C85D76D1BC54EACA99C25530A3B32512422D22D1B23925FE4B7A2EA138D4D090F33](<https://www.cmvm.pt/PInstitucional/ContentDynamic?Input=1C1BDF990ACC464DD18DEE0D6CDD0C85D76D1BC54EACA99C25530A3B32512422D22D1B23925FE4B7A2EA138D4D090F33>) | 006/2026 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -49,18 +49,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Regulatory publications / regulatory\_publications\_pt
 
-10 total rows · 10 sampled · Output revision 6
-Published: 2026-11-04T06:01:36.839538Z · Producing pipeline version: 6
+34 total rows · 10 sampled · Output revision 8
+Published: 2026-11-04T11:30:39.371648Z · Producing pipeline version: 9
 
 [CSV sample](outputs/879448a0654f/regulatory-publications-pt-d11c605f6d84/sample.csv) · [JSON sample](outputs/879448a0654f/regulatory-publications-pt-d11c605f6d84/sample.json) · [Schema](outputs/879448a0654f/regulatory-publications-pt-d11c605f6d84/schema.json)
 
 | consultation\_deadline | document\_type | issuer | language | published\_date | reference\_number | summary | title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2027\-01\-04 | consultation | EIOPA | en | 2026\-10\-08 | None | EIOPA is consulting on a draft Supervisory Statement to promote consistent, proportionate and risk\-based supervision of IBIP sales processes and pre\-contractual disclosures without introducing new regulatory requirements\. | Consultation on the draft Supervisory Statement on IBIP Sales Processes |
-| 2027\-01\-15 | consultation | ESMA | en | 2026\-10\-09 | ESMA91\-1505572268\-4934 | ESMA invites comments on its call for evidence concerning the tokenisation of collateral used by central counterparties, with responses due by 15 January 2027\. | Call for evidence on the CCP collateral tokenisation |
-| None | final report | EBA | en | 2026\-10\-12 | EBA/RTS/2026/08 | The EBA’s final report proposes amendments to the prudential technical standards for central securities depositories and designated credit institutions, addressing risks when banking CSDs provide banking\-type ancillary services to participants of other CSDs and updating references to reflect changes in EU legislation\. | Regulatory Technical Standards on prudential requirements for central securities depositories \(CSDs\) designated credit institutions offering ‘banking\-type ancillary services’ |
-| None | final report | ESMA | en | 2026\-10\-16 | ESMA74\-268544963\-1718 | ESMA’s final report sets out its assessment and final approach to revising the MAR Guidelines on delaying disclosure of inside information, including legitimate interests for delay and circumstances in which delay is likely to mislead the public\. | Final report on the MAR Guidelines on delay in the disclosure of inside information |
-| None | final report | ESMA | en | 2026\-10\-16 | ESMA74\-2119945926\-3749 | ESMA’s final report presents revised guidelines on standardised procedures and messaging protocols between investment firms and professional clients, including changes to documentation, electronic communications, international standards and implementation timing\. | Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients |
+| None | carta circular | Banco de Portugal | pt | 2026\-08\-17 | CC/2026/00000021 | The circular informs institutions of FATF countermeasures proportionate to the very high money\-laundering and terrorist\-financing risks associated with North Korea and Iran, and notes that Russia’s membership suspension remains in place\. | Carta Circular n\.º CC/2026/00000021 |
+| None | circular | ASF | pt | 2026\-08\-17 | 8/2026 | The circular communicates the FATF’s June plenary updates, maintaining enhanced customer identification and due diligence measures for North Korea, Iran and Myanmar, and proportionate countermeasures for North Korea and Iran\. | Circular n\.º 8/2026, de 14 de julho \- Prevenção do Branqueamento de Capitais e do Financiamento do Terrorismo |
+| None | circular | CMVM | pt | 2026\-08\-17 | 006/2026 | CMVM Circular 006/2026 concerns the Financial Action Task Force \(GAFI\) and the prevention and combating of money laundering and terrorist financing\. | Circular 006/2026 \- GAFI \- Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo |
+| None | instrução | Banco de Portugal | pt | 2026\-08\-17 | 6/2026 | This instruction amends Instruction No\. 16/2022, which regulates the operation of the Portuguese national component of TARGET \(TARGET\-PT\)\. | Instrução \(Histórico\) n\.º 6/2026 |
+| 2026\-10\-12 | consultation | ESMA | en | 2026\-08\-18 | ESMA12\-2121844265\-6008 | ESMA consults on draft regulatory and implementing technical standards specifying the reporting framework for clearing activity at recognised third\-country central counterparties under EMIR Article 7d\. | Consultation on the reporting framework under EMIR for clearing activity at recognised third\-country CCPs |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -126,6 +126,9 @@ flowchart LR
 - 2026-11-03T21:20:23.660161Z: v4: Add a readable Publications worksheet with full issuer names and source links, retaining the original fields separately for audit\.
 - 2026-11-03T21:32:25.234181Z: v5: Preserve the readable worksheet’s intended title\-first column order\.
 - 2026-11-03T22:30:41.308390Z: v6: Recover missing ESMA consultation references from the matching official document table, keeping reply forms separate\. Support focused verification of saved publications while preserving the other records\.
+- 2026-11-04T10:40:55.489483Z: v7: Expanded the publication window to ninety calendar days and added Portuguese regulator publications, including source\-supported references, English summaries and consultation deadlines\.
+- 2026-11-04T11:04:35.922351Z: v8: Fixed EIOPA pagination so the ninety\-day regulatory update can finish without losing completed source work\.
+- 2026-11-04T11:20:29.654106Z: v9: Fixed EIOPA closed\-consultation coverage and read consultation dates directly from labelled source fields\.
 
 ## Recorded repairs
 

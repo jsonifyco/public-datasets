@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Buyer",
+    "type": "text"
+  },
+  {
+    "name": "CPV",
+    "type": "text"
+  },
+  {
+    "name": "Data notes",
+    "type": "text"
+  },
+  {
+    "name": "Deadline Lisbon",
+    "type": "text"
+  },
+  {
+    "name": "Estimated value EUR",
+    "type": "double precision"
+  },
+  {
+    "name": "Notice type",
+    "type": "text"
+  },
+  {
+    "name": "Procedure",
+    "type": "text"
+  },
+  {
+    "name": "Published date",
+    "type": "text"
+  },
+  {
+    "name": "Status",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  }
+]

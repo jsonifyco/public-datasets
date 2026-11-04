@@ -2,34 +2,67 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Portugal IT tender notices from TED, with publication dates, deadlines, contracting entities, CPV codes and published estimated values\. The published dataset contains 86 rows\.
+Portugal IT tender notices from TED, with publication dates, deadlines, contracting entities, CPV codes and published estimated values\. The published dataset contains 172 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/it-tenders-pt-fc238e58914d?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
-- Active pipeline version: 2
-- Last published: 2026-11-03T20:16:42.682525Z
+- Active pipeline version: 4
+- Last published: 2026-11-03T21:31:09.457382Z
 
 ## The brief
 
-> I need this data: Portugal IT tender notices from TED, with publication dates, deadlines, contracting entities, CPV codes and published estimated values\. The published dataset contains 86 rows\.
+> I need this data: Portugal IT tender notices from TED, with publication dates, deadlines, contracting entities, CPV codes and published estimated values\. The published dataset contains 172 rows\.
 
 Summary from the public dataset description.
 
-## it\_tenders\_pt / it\_tenders\_pt
+## Portugal IT tenders / Tenders
 
-86 total rows · 10 sampled · Output revision 2
-Published: 2026-11-03T20:16:42.682525Z · Producing pipeline version: 2
+86 total rows · 10 sampled · Output revision 3
+Published: 2026-11-03T21:31:09.457382Z · Producing pipeline version: 4
+
+[CSV sample](outputs/cebd25590c7c/tenders-7e626c78fe5c/sample.csv) · [JSON sample](outputs/cebd25590c7c/tenders-7e626c78fe5c/sample.json) · [Schema](outputs/cebd25590c7c/tenders-7e626c78fe5c/schema.json)
+
+| Buyer | CPV | Data notes | Deadline Lisbon | Estimated value EUR | Notice type | Procedure | Published date |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Município de Portimão | 72222100 | No submission deadline published | None | 704000 | Contract award / result notice | Open procedure | 2026\-10\-26 |
+| Universidade Nova de Lisboa | 72268000 | None | 2026\-11\-06T19:00:59\+00:00 | 1530000 | Contract notice | Open procedure | 2026\-10\-26 |
+| Serviços Partilhados do Ministério da Saúde, EPE | 72500000 | No submission deadline published | None | 612000 | Contract award / result notice | Open procedure | 2026\-10\-21 |
+| Município do Barreiro | 72268000 | EUR estimate not published; No submission deadline published | None | None | Contract award / result notice | Open procedure | 2026\-11\-02 |
+| Secretaria\-Geral do Governo | 30200000 | EUR estimate not published; No submission deadline published | None | None | Contract award / result notice | Open procedure | 2026\-10\-22 |
+
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
+
+### Schema
+
+| Column | Type |
+| --- | --- |
+| Buyer | text |
+| CPV | text |
+| Data notes | text |
+| Deadline Lisbon | text |
+| Estimated value EUR | double precision |
+| Notice type | text |
+| Procedure | text |
+| Published date | text |
+| Status | text |
+| source | text |
+| title | text |
+
+## Portugal IT tenders / it\_tenders\_pt
+
+86 total rows · 10 sampled · Output revision 3
+Published: 2026-11-03T21:31:09.457382Z · Producing pipeline version: 4
 
 [CSV sample](outputs/cebd25590c7c/it-tenders-pt-d565827789da/sample.csv) · [JSON sample](outputs/cebd25590c7c/it-tenders-pt-d565827789da/sample.json) · [Schema](outputs/cebd25590c7c/it-tenders-pt-d565827789da/schema.json)
 
-| base\_price\_eur | contracting\_entity | cpv | description | location | procedure\_type | published\_date | source |
+| base\_price\_eur | checked\_at | contracting\_entity | cpv | description | form\_type\_code | location | notice\_subtype\_code |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 229000 | Gabinete Nacional de Segurança | \["72268000"\] | Aquisição de serviços de licenciamento de software Microsoft, subscrições cloud e serviços de suporte associados para o GNS/CNCS\. | Freguesia de Belém | open | 2026\-10\-21 | ted\.europa\.eu |
-| 400930 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | \(DAG\) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I\.P\. \(PRR\) \(20260267\)\. | Lisboa | open | 2026\-10\-26 | ted\.europa\.eu |
-| 508220 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento\+, do INFARMED, I\.P\. \(PRR\)\. | Lisboa | open | 2026\-10\-26 | ted\.europa\.eu |
-| 611735 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção\+, do INFARMED, I\.P\. \(PRR\)\. | Lisboa | open | 2026\-10\-26 | ted\.europa\.eu |
-| 259195 | Conselho Superior da Magistratura | \["48820000"\] | Aquisição de infraestrutura de virtualização Proxmox\. | Lisboa | open | 2026\-10\-21 | ted\.europa\.eu |
+| 229000 | 2026\-11\-03T21:31:02\.434396\+00:00 | Gabinete Nacional de Segurança | \["72268000"\] | Aquisição de serviços de licenciamento de software Microsoft, subscrições cloud e serviços de suporte associados para o GNS/CNCS\. | competition | Freguesia de Belém | 16 |
+| 508220 | 2026\-11\-03T21:31:02\.434396\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
+| 611735 | 2026\-11\-03T21:31:02\.434396\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
+| 400930 | 2026\-11\-03T21:31:02\.434396\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | \(DAG\) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I\.P\. \(PRR\) \(20260267\)\. | competition | Lisboa | 16 |
+| 385000 | 2026\-11\-03T21:31:02\.434396\+00:00 | Unidade Local de Saúde de Entre Douro e Vouga, EPE | \["72260000"\] | Aquisição de Plataforma de Telemonitorização para os doentes com insuficiência Cardíaca\. | competition | União das Freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo | 16 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -38,13 +71,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | Column | Type |
 | --- | --- |
 | base\_price\_eur | double precision |
+| checked\_at | text |
 | contracting\_entity | text |
 | cpv | jsonb |
 | description | text |
+| form\_type\_code | text |
 | location | text |
+| notice\_subtype\_code | text |
+| notice\_type\_code | text |
 | procedure\_type | text |
 | published\_date | text |
 | source | text |
+| source\_record | jsonb |
 | submission\_deadline | text |
 | title | text |
 | url | text |
@@ -55,19 +93,30 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 flowchart LR
   n0["collect#95;ted"]
   n1["normalize"]
-  n2["it#95;tenders#95;pt"]
+  n2["presentation"]
+  n3["Tenders"]
+  n4["source#95;evidence"]
+  n5["it#95;tenders#95;pt"]
   n0 --> n1
   n1 --> n2
+  n2 --> n3
+  n3 --> n4
+  n4 --> n5
 ```
 
 - **collect\_ted**: Read Portuguese TED notices in the publication window for the selected technology CPV prefixes\.
 - **normalize**: Keep qualifying notices, retain published values, remove duplicate URLs, and order earliest submission deadlines first\.
-- **it\_tenders\_pt**: Portugal technology tender notices from the last fourteen days\.
+- **presentation**: Build a readable tender view with honest opportunity status and keep exact source evidence in a separate worksheet\.
+- **Tenders**: Readable tender notices\. Status is evaluated at refresh; missing deadlines are not open opportunities\. Euro values are estimates, not awards\.
+- **source\_evidence**: Retain original columns, URL joins, full descriptions and exact TED records separately from the customer view\.
+- **it\_tenders\_pt**: Original tender fields and exact source evidence for audit and technical joins\.
 
 ## Version history
 
 - 2026-11-03T19:54:38.279055Z: v1: Create the daily Portugal technology tenders collection using the working public TED source\.
 - 2026-11-03T20:16:22.718967Z: v2: Use the detailed TED lot description when the main description contains only a procurement reference\.
+- 2026-11-03T21:29:16.747834Z: v3: Add a readable tender worksheet with meaningful titles and clear opportunity status, preserve full source evidence separately, and provide a formatted Excel export\.
+- 2026-11-03T21:30:45.283621Z: v4: Keep workbook coverage notes accurate for the selected publication window and CPV categories\.
 
 ## Recorded repairs
 

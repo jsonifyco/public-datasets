@@ -4,6 +4,10 @@
     "type": "double precision"
   },
   {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
     "name": "contracting_entity",
     "type": "text"
   },
@@ -16,7 +20,19 @@
     "type": "text"
   },
   {
+    "name": "form_type_code",
+    "type": "text"
+  },
+  {
     "name": "location",
+    "type": "text"
+  },
+  {
+    "name": "notice_subtype_code",
+    "type": "text"
+  },
+  {
+    "name": "notice_type_code",
     "type": "text"
   },
   {
@@ -30,6 +46,10 @@
   {
     "name": "source",
     "type": "text"
+  },
+  {
+    "name": "source_record",
+    "type": "jsonb"
   },
   {
     "name": "submission_deadline",

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Distrito",
+    "type": "text"
+  },
+  {
+    "name": "Estado do prazo",
+    "type": "text"
+  },
+  {
+    "name": "NIF ou NIPC",
+    "type": "text"
+  },
+  {
+    "name": "Natureza do devedor",
+    "type": "text"
+  },
+  {
+    "name": "Prazo publicado",
+    "type": "text"
+  },
+  {
+    "name": "Processo",
+    "type": "text"
+  },
+  {
+    "name": "Publicado em",
+    "type": "text"
+  },
+  {
+    "name": "Tipo de anúncio",
+    "type": "text"
+  },
+  {
+    "name": "Tribunal",
+    "type": "text"
+  },
+  {
+    "name": "Ver anúncio no Citius",
+    "type": "text"
+  },
+  {
+    "name": "name",
+    "type": "text"
+  }
+]

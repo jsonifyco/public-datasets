@@ -1,0 +1,66 @@
+[
+  {
+    "name": "firm",
+    "type": "text"
+  },
+  {
+    "name": "event_name",
+    "type": "text"
+  },
+  {
+    "name": "event_date",
+    "type": "text"
+  },
+  {
+    "name": "end_date",
+    "type": "text"
+  },
+  {
+    "name": "event_time",
+    "type": "text"
+  },
+  {
+    "name": "timezone",
+    "type": "text"
+  },
+  {
+    "name": "location",
+    "type": "text"
+  },
+  {
+    "name": "format",
+    "type": "text"
+  },
+  {
+    "name": "organizer",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "publication_date",
+    "type": "text"
+  },
+  {
+    "name": "registration_url",
+    "type": "text"
+  },
+  {
+    "name": "date_note",
+    "type": "text"
+  },
+  {
+    "name": "event_url",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "last_checked",
+    "type": "text"
+  }
+]

@@ -7,7 +7,7 @@ Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 3
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 11
+- Active pipeline version: 15
 - Last published: 2026-11-01T13:26:30.960098Z
 
 ## The brief
@@ -126,6 +126,8 @@ flowchart LR
   n30["source#95;coverage"]
   n31["discovery#95;coverage#95;rows"]
   n32["discovery#95;coverage"]
+  n33["unavailable#95;listings#95;rows"]
+  n34["unavailable#95;listings"]
   n6 --> n7
   n7 --> n8
   n8 --> n9
@@ -146,6 +148,7 @@ flowchart LR
   n27 --> n28
   n29 --> n30
   n31 --> n32
+  n33 --> n34
   n0 --> n6
   n1 --> n6
   n2 --> n6
@@ -157,6 +160,7 @@ flowchart LR
   n20 --> n25
   n20 --> n23
   n20 --> n29
+  n20 --> n33
   n20 --> n21
   n5 --> n6
   n4 --> n8
@@ -201,6 +205,8 @@ flowchart LR
 - **source\_coverage**: Source coverage with consistent shared definitions\.
 - **discovery\_coverage\_rows**: Publish discovery coverage and pickup\-only additions for each app\.
 - **discovery\_coverage**: Geographic and fulfillment\-mode discovery checks, with residual uncertainty\.
+- **unavailable\_listings\_rows**: Keep exact source\-disabled listings and their discovery evidence separately from usable venues and menus\.
+- **unavailable\_listings**: Listings explicitly disabled by Deliveroo, with retained discovery facts and missing\-location status\.
 
 ## Version history
 
@@ -215,6 +221,10 @@ flowchart LR
 - 2026-11-04T03:25:24.821853Z: v9: Combines saved search results in smaller verified pieces to reduce memory use\. Completed searches and all venue information remain reusable\.
 - 2026-11-04T12:20:06.673425Z: v10: Combine saved searches in small recoverable groups and tolerate temporary read timeouts, preserving venue identities and coverage\.
 - 2026-11-04T17:10:45.624506Z: v11: Restore coverage verification when resuming saved search summaries without the original search count\.
+- 2026-11-04T19:53:20.545355Z: v12: Keep explicitly disabled Deliveroo listings in a separate table and continue collecting available venues and menus\.
+- 2026-11-04T20:02:33.756814Z: v13: Allow losslessly saved inventory batches to resume venue collection without repeating searches\.
+- 2026-11-04T20:11:55.980479Z: v14: Slow Deliveroo requests and honor cooldowns so temporary rate limits do not immediately stop collection\.
+- 2026-11-04T20:24:44.339826Z: v15: Keep explicitly missing Deliveroo listings separately alongside disabled listings, preserving their distinct statuses\.
 
 ## Recorded repairs
 

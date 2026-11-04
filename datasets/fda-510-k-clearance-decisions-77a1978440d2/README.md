@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-FDA 510\(k\) database of clearance decisions, with device, applicant, product code, device class, medical specialty and decision date\. The published table contains 3,155 rows\.
+FDA 510\(k\) database of clearance decisions, with device, applicant, product code, device class, medical specialty and decision date\. The published table contains 3,217 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/fda-510-k-clearance-decisions-77a1978440d2?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-10-30T09:13:15.117620Z
+- Last published: 2026-11-04T06:02:28.185864Z
 
 ## The brief
 
-> I need this data: FDA 510\(k\) database of clearance decisions, with device, applicant, product code, device class, medical specialty and decision date\. The published table contains 3,155 rows\.
+> I need this data: FDA 510\(k\) database of clearance decisions, with device, applicant, product code, device class, medical specialty and decision date\. The published table contains 3,217 rows\.
 
 Summary from the public dataset description.
 
 ## FDA 510\(k\) clearance decisions / decisions
 
-3,155 total rows · 50 sampled · Output revision 2
-Published: 2026-10-30T09:13:15.117620Z · Producing pipeline version: 2
+3,217 total rows · 50 sampled · Output revision 3
+Published: 2026-11-04T06:02:28.185864Z · Producing pipeline version: 2
 
 [CSV sample](outputs/31779f403f5f/decisions-3183d37be506/sample.csv) · [JSON sample](outputs/31779f403f5f/decisions-3183d37be506/sample.json) · [Schema](outputs/31779f403f5f/decisions-3183d37be506/schema.json)
 

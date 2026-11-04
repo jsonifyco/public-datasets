@@ -26,6 +26,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Workflow Automation Pricing and Changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
 | [Law Firm Events](datasets/law-firm-events-4c408bd04e11/) | 81 | daily | 2026-11-04T16:56:24.385524Z |
 | [Portugal Regulatory Radar](datasets/regulatory-radar-pt-54c83384de63/) | 68 | daily | 2026-11-04T11:30:39.371648Z |
+| [Portugal2030 Grant Notices](datasets/portugal2030-grants-59ddd491d0c8/) | 1,505 | weekly | 2026-11-04T17:20:23.274499Z |
 | [Streaming Subscription Prices by Country: Official Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 6,987 | weekly | 2026-11-03T15:01:38.353896Z |
 | [AI Company Job Postings Data](datasets/ai-company-job-postings-5bae5dc811a8/) | 4,955 | weekly | 2026-11-02T07:01:40.032899Z |
 | [Low\-Code Release Radar: n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-04T08:00:21.511155Z |

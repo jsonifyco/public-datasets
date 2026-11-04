@@ -4,55 +4,19 @@
     "type": "text"
   },
   {
-    "name": "baseline_audit_notes",
+    "name": "area",
     "type": "text"
   },
   {
-    "name": "baseline_audit_status",
-    "type": "text"
+    "name": "audit",
+    "type": "jsonb"
   },
   {
-    "name": "baseline_brand",
-    "type": "text"
-  },
-  {
-    "name": "baseline_supporting_photos",
-    "type": "integer"
-  },
-  {
-    "name": "best_photo_url",
-    "type": "text"
-  },
-  {
-    "name": "brand_text",
+    "name": "branding_status",
     "type": "text"
   },
   {
     "name": "category",
-    "type": "text"
-  },
-  {
-    "name": "center_latitude",
-    "type": "double precision"
-  },
-  {
-    "name": "center_longitude",
-    "type": "double precision"
-  },
-  {
-    "name": "center_maps_url",
-    "type": "text"
-  },
-  {
-    "name": "center_name",
-    "type": "text"
-  },
-  {
-    "name": "center_source_url",
-    "type": "text"
-  },
-  {
-    "name": "coffee_brand",
     "type": "text"
   },
   {
@@ -64,51 +28,39 @@
     "type": "text"
   },
   {
-    "name": "coordinate_source",
+    "name": "distance_from_beato_m",
+    "type": "integer"
+  },
+  {
+    "name": "evidence_note",
     "type": "text"
   },
   {
-    "name": "coverage_radius_m",
-    "type": "integer"
-  },
-  {
-    "name": "distance_m",
-    "type": "integer"
-  },
-  {
-    "name": "evidence_types",
+    "name": "evidence_photo_url",
     "type": "text"
   },
   {
-    "name": "gallery_candidate_count",
-    "type": "integer"
+    "name": "evidence_seen",
+    "type": "jsonb"
   },
   {
-    "name": "latitude",
-    "type": "double precision"
-  },
-  {
-    "name": "longitude",
-    "type": "double precision"
+    "name": "last_checked_at",
+    "type": "text"
   },
   {
     "name": "maps_url",
     "type": "text"
   },
   {
-    "name": "observation_limitations",
+    "name": "named_roaster",
     "type": "text"
   },
   {
-    "name": "observed_at",
+    "name": "observed_coffee_brand",
     "type": "text"
   },
   {
-    "name": "photo_evidence",
-    "type": "jsonb"
-  },
-  {
-    "name": "photo_status",
+    "name": "photo_captured_at",
     "type": "text"
   },
   {
@@ -116,40 +68,16 @@
     "type": "integer"
   },
   {
-    "name": "place_id",
+    "name": "source_published_at",
     "type": "text"
   },
   {
-    "name": "rating",
-    "type": "double precision"
-  },
-  {
-    "name": "review_count",
-    "type": "integer"
-  },
-  {
-    "name": "scope",
-    "type": "text"
-  },
-  {
-    "name": "source_errors",
-    "type": "jsonb"
-  },
-  {
-    "name": "source_summary",
-    "type": "text"
-  },
-  {
-    "name": "supplier_status",
+    "name": "source_url",
     "type": "text"
   },
   {
     "name": "supporting_photos",
     "type": "integer"
-  },
-  {
-    "name": "validation_method",
-    "type": "text"
   },
   {
     "name": "venue_name",

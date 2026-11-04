@@ -1,0 +1,1552 @@
+[
+  {
+    "allocation_eur": 0,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-08-22T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Mobilidade sustentável (IT) - Bolsa de Overbooking Condicionado",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F10%2F336873fc-a677-491d-b683-04f0a2f91102%2Fd5c94ec3-696a-41d1-899b-ff4079bd95de&filename=Aviso_Overbooking_MobilidadeSustent%C3%A1vel+%28IT%29_AprovCD30-10-2024.pdf",
+    "is_open": false,
+    "notice_code": "NORTE2030-2024-70",
+    "notice_id": "33430",
+    "objectives": [
+      "Mobilidade urbana sustentável"
+    ],
+    "opening_date": "2024-10-31T19:00:00",
+    "original_closing_date": "2025-06-30T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2024-10-31T18:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-08-22T18:00:06.3766667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 12136961.65,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-01-31T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Parcerias para a Inovação Social – Desenvolvimento de competências em crianças e jovens",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2023%2F9%2Fc83a585c-13bc-499a-acb2-54f81f3f9c8b%2Faa977b8a-548c-471d-9eba-2828c28c2050&filename=Aviso_Parcerias+Inova%C3%A7%C3%A3o+Social_Geral_25setembro.pdf",
+    "is_open": false,
+    "notice_code": "NORTE2030-2023-2",
+    "notice_id": "6921",
+    "objectives": [
+      "Inclusão ativa e empregabilidade"
+    ],
+    "opening_date": "2023-09-25T10:01:00",
+    "original_closing_date": "2023-12-21T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2023-09-25T10:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-02-20T13:40:06.43",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 1400000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-03-31T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Ciclo Urbano da Água - Reutilização, resiliência, modernização e descarbonização",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F11%2F7ad1f441-b684-4adb-b4f7-9bbc054872bb%2Fd6e2b5fa-82bf-4289-8e20-4236eb1d618b&filename=ALT2030-2024-37_V2_29.11.2024.pdf",
+    "is_open": false,
+    "notice_code": "ALT2030-2024-37",
+    "notice_id": "33306",
+    "objectives": [
+      "Gestão sustentável da água"
+    ],
+    "opening_date": "2024-09-30T09:00:00",
+    "original_closing_date": "2024-12-31T18:00:00",
+    "programme_codes": [
+      "ALENTEJO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Alentejo 2021-2027"
+    ],
+    "publication_date": "2024-09-27T17:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-03-31T18:00:15.8133333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 3950000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-05-02T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Especialização inteligente, redes e capacitação institucional - Plataformas Regionais de Especialização Inteligente (PREI)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F12%2F3e5029f9-7c8b-4a00-a513-35fc25b83229%2Fa9e2205e-f1bb-402a-aa12-a025ea7c4b86&filename=Aviso+NORTE2030-2024-96_Especializa%C3%A7%C3%A3o+inteligente%2C+redes+e+capacita%C3%A7%C3%A3o+institucional+-+Plataformas+Regionais+de+Especializa%C3%A7%C3%A3o+Inteligente+%28PREI%29.pdf",
+    "is_open": false,
+    "notice_code": "NORTE2030-2024-96",
+    "notice_id": "33515",
+    "objectives": [
+      "Competências para a especialização inteligente e a transição"
+    ],
+    "opening_date": "2024-12-30T09:00:00",
+    "original_closing_date": "2025-03-31T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2024-12-30T09:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-07-30T10:48:29.88",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 5340000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-12-30T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Eficiência energética na administração regional",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F5%2Fe344f173-fdfa-42c3-8776-0f551412e72a%2Ff5a8f7e5-9ec6-4464-a76f-5cdb57763e78&filename=Aviso+EE+AR.pdf",
+    "is_open": true,
+    "notice_code": "NORTE2030-2024-15",
+    "notice_id": "33055",
+    "objectives": [
+      "Eficiência energética"
+    ],
+    "opening_date": "2024-06-03T17:00:00",
+    "original_closing_date": "2024-12-30T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2024-05-31T21:00:00",
+    "source_status": "Aberto",
+    "source_updated_at": "2026-06-18T18:20:02.11",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "open"
+  },
+  {
+    "allocation_eur": 2607484.11,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-06-23T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Digitalização da Administração Pública Local - IT",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F5%2F1dbdb0b0-247c-44a1-ad95-c5dcae03c77d%2F6cd7dcf5-795f-4cbf-afd1-d98fff43d03e&filename=Aviso_M2030_2025-15.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2025-15",
+    "notice_id": "33668",
+    "objectives": [
+      "Colher os benefícios da digitalização"
+    ],
+    "opening_date": "2025-05-08T10:00:00",
+    "original_closing_date": "2025-06-23T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2025-05-08T10:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-03-31T10:18:23.8066667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 5000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-12-31T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Património cultural e natural (IT) ",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F5%2Fda2a8666-03e6-4ee4-b4cf-ed4591fbcc63%2F885511a0-5615-4950-877b-c98bc42a54f8&filename=Aviso__Patrim%C3%B3nio+cultural+e+natural+%28IT%29_2_AprovCD15052026.pdf",
+    "is_open": true,
+    "notice_code": "NORTE2030-2026-6",
+    "notice_id": "34076",
+    "objectives": [
+      "Desenvolvimento integrado nas zonas urbanas"
+    ],
+    "opening_date": "2026-05-18T20:00:00",
+    "original_closing_date": "2026-09-30T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2026-05-18T18:00:00",
+    "source_status": "Aberto",
+    "source_updated_at": "2026-06-26T16:30:03.4433333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "open"
+  },
+  {
+    "allocation_eur": 1555000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-12-18T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Assistência Técnica OI Lisboa 2030 (2026 a 2027)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F7%2F4d70a3b1-3011-4bd9-8b7f-bd92fe948a9a%2F06cb3253-73d7-48de-b0cb-666bf9129b85&filename=Aviso_LisboaAT_OI_2026-2027_Publicado.pdf",
+    "is_open": false,
+    "notice_code": "LISBOA2030-2025-9",
+    "notice_id": "33765",
+    "objectives": [
+      "Assistência técnica"
+    ],
+    "opening_date": "2025-07-08T09:00:00",
+    "original_closing_date": "2025-12-15T18:00:00",
+    "programme_codes": [
+      "LISBOA2030"
+    ],
+    "programmes": [
+      "Programa Regional de Lisboa 2021-2027"
+    ],
+    "publication_date": "2025-07-07T15:20:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-12-18T18:00:03.5433333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 1000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-06-30T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "PONTA DELGADA Capital Portuguesa da Cultura 2026",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F4%2Fe03b24b9-aef3-480c-94bb-07c0541d38c9%2F47d75530-34f2-4c2e-bfeb-5dd8182b114f&filename=ACORES2030-2026-7+-+RSO+4.6+-+PONTA+DELGADA+Capital+Portuguesa+da+Cultura+2026.pdf",
+    "is_open": false,
+    "notice_code": "ACORES2030-2026-7",
+    "notice_id": "34027",
+    "objectives": [
+      "Cultura e turismo sustentáveis"
+    ],
+    "opening_date": "2026-04-01T13:00:00",
+    "original_closing_date": "2026-06-30T18:00:00",
+    "programme_codes": [
+      "ACORES2030"
+    ],
+    "programmes": [
+      "Programa Regional dos Açores 2021-2027"
+    ],
+    "publication_date": "2026-04-01T13:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-06-30T18:00:03.2733333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 11200000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-07-20T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo de Coesão"
+    ],
+    "grant_name": "Unidade de valorização orgânica de biorresíduos recolhidos seletivamente na AMBISOUSA (2ª Fase)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F6%2Fc3385797-0ba8-49b4-9ceb-f7f2223d6fb5%2Ff229625c-5a77-4764-a939-393128d49d59&filename=Aviso+PACS-2026-21.pdf",
+    "is_open": false,
+    "notice_code": "PACS-2026-21",
+    "notice_id": "34132",
+    "objectives": [
+      "Economia circular"
+    ],
+    "opening_date": "2026-06-19T12:00:00",
+    "original_closing_date": "2026-07-20T18:00:00",
+    "programme_codes": [
+      "SUSTENTAVEL2030"
+    ],
+    "programmes": [
+      "Programa Temático para a Ação Climática e Sustentabilidade"
+    ],
+    "publication_date": "2026-06-19T11:55:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-07-20T18:00:24.6433333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 25000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-12-31T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Gestão de resíduos urbanos - subinvestimentos em baixa (ITI)\n\n",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F10%2F30244ce1-0dbb-422f-ad43-16cdd68c96b6%2F996e60a5-91a8-44e2-a779-5d6753674548&filename=ALT2030-2024-27_v2_17.10.2024.pdf",
+    "is_open": true,
+    "notice_code": "ALT2030-2024-27",
+    "notice_id": "33293",
+    "objectives": [
+      "Economia circular"
+    ],
+    "opening_date": "2024-09-26T09:00:00",
+    "original_closing_date": "2025-12-31T18:00:00",
+    "programme_codes": [
+      "ALENTEJO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Alentejo 2021-2027"
+    ],
+    "publication_date": "2024-09-25T14:00:00",
+    "source_status": "Aberto",
+    "source_updated_at": "2026-10-01T12:50:13.1566667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "open"
+  },
+  {
+    "allocation_eur": 66300000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-03-20T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo de Coesão"
+    ],
+    "grant_name": "Infraestrutura ferroviária (RTE) - Linha Norte: Troço Ovar-Gaia (2ª Fase)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F3%2F98fe0b51-b914-497d-a702-1175de8e41d2%2Fd6e68be6-c2de-4324-afa0-e4bdae21006d&filename=PACS-2024-6.pdf",
+    "is_open": false,
+    "notice_code": "PACS-2024-6",
+    "notice_id": "7324",
+    "objectives": [
+      "Rede transeuropeia de transportes"
+    ],
+    "opening_date": "2024-03-05T10:55:00",
+    "original_closing_date": "2024-12-31T18:00:00",
+    "programme_codes": [
+      "SUSTENTAVEL2030"
+    ],
+    "programmes": [
+      "Programa Temático para a Ação Climática e Sustentabilidade"
+    ],
+    "publication_date": "2024-03-05T10:55:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-05-12T12:18:27.72",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-10-14T18:00:00",
+    "documents": [
+      {
+        "name": "AAC- ALGARVE-2024-33 Ciclo urbano da água em alta.pdf",
+        "type": "Aviso",
+        "url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F8%2F66497cb5-d2b6-4ffe-9059-68067c3358f0%2F597f066a-5950-4f8c-b5ea-f002366f7dfe&filename=AAC-+ALGARVE-2024-33+Ciclo+urbano+da+%C3%A1gua+em+alta.pdf"
+      }
+    ],
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": " Ciclo Urbano da Água em Alta ",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F8%2F66497cb5-d2b6-4ffe-9059-68067c3358f0%2F597f066a-5950-4f8c-b5ea-f002366f7dfe&filename=AAC-+ALGARVE-2024-33+Ciclo+urbano+da+%C3%A1gua+em+alta.pdf",
+    "is_open": false,
+    "notice_code": "ALGARVE-2024-33",
+    "notice_id": "33205",
+    "objectives": [
+      "Gestão sustentável da água"
+    ],
+    "opening_date": "2024-07-30T16:30:00",
+    "original_closing_date": "2024-09-30T18:00:00",
+    "programme_codes": [
+      "ALGARVE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Algarve 2021-2027"
+    ],
+    "publication_date": "2024-07-30T16:30:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2024-11-18T16:47:56.8633333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 13300000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-10-31T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "SIID – Internacionalização de I&D – Operações de I&D industrial à escala europeia",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F10%2F59472c5f-0394-47f2-b12b-5658ba04732a%2Fc0a118a1-da6f-4a84-bdc5-17de50292d62&filename=MPr-2024-12_SIID_Internacionaliza%C3%A7%C3%A3o+I%26D_Opera%C3%A7%C3%B5es+ID+industrial+%C3%A0+Escala+Europeia_30_10_24.pdf",
+    "is_open": false,
+    "notice_code": "MPr-2024-12",
+    "notice_id": "33411",
+    "objectives": [
+      "Promover a investigação e a inovação"
+    ],
+    "opening_date": "2024-10-30T16:00:00",
+    "original_closing_date": "2025-10-31T18:00:00",
+    "programme_codes": [
+      "NORTE2030",
+      "COMPETE2030",
+      "ALGARVE2030",
+      "LISBOA2030",
+      "ALENTEJO2030",
+      "CENTRO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027",
+      "Programa Temático Inovação e Transição Digital",
+      "Programa Regional do Algarve 2021-2027",
+      "Programa Regional de Lisboa 2021-2027",
+      "Programa Regional do Alentejo 2021-2027",
+      "Programa Regional do Centro 2021-2027"
+    ],
+    "publication_date": "2024-10-30T16:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-12-15T17:56:55.02",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 15500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-07-10T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Unidade Local de Saúde do Porto Santo ",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F5%2F2d044833-8818-4497-888a-ba179eff5c81%2F41f42136-e3e8-40ba-9b0a-42a068cbec2e&filename=M2030-2024-14.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2024-14",
+    "notice_id": "14716",
+    "objectives": [
+      "Acesso aos cuidados de saúde"
+    ],
+    "opening_date": "2024-05-24T15:00:00",
+    "original_closing_date": "2024-07-10T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2024-05-24T15:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-02-06T09:50:35.8566667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 10500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-07-31T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Infraestruturas e equipamentos de ensino superior - Iniciativas Âncora Regionais",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F7%2F10b37d85-ae2d-4345-8a09-4e90353a9767%2Feb6659be-e503-4620-a4f7-eb9c3e1e57ea&filename=NORTE2030-2024-37_Modelo1_Aviso_Infraestruturas+e+equipamentos+de+ensino+superior+-+Iniciativas+%C3%82ncora+Reg_29-07-2025.pdf",
+    "is_open": false,
+    "notice_code": "NORTE2030-2024-37",
+    "notice_id": "33202",
+    "objectives": [
+      "Infraestruturas de educação e formação"
+    ],
+    "opening_date": "2024-07-30T18:02:00",
+    "original_closing_date": "2025-03-31T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2024-07-30T18:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-05-26T10:22:45.2333333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 2000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-12-30T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Criação de emprego e microempreendedorismo",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F10%2F94c8d313-4c95-4c49-9f1f-8f545df70525%2F4e966302-7da2-4be5-9cab-2dc4874cadc3&filename=Criacao+emprego_ALGARVE-2024-51_republicado.pdf",
+    "is_open": false,
+    "notice_code": "ALGARVE-2024-51",
+    "notice_id": "33359",
+    "objectives": [
+      "Acesso ao emprego"
+    ],
+    "opening_date": "2024-10-01T09:00:00",
+    "original_closing_date": "2024-12-30T18:00:00",
+    "programme_codes": [
+      "ALGARVE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Algarve 2021-2027"
+    ],
+    "publication_date": "2024-09-30T20:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2024-12-30T18:00:04.0733333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 1000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-01-20T18:00:00",
+    "documents": [
+      {
+        "name": "ALT2030-2024-44_V2_29.11.2024.pdf",
+        "type": "Aviso",
+        "url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F11%2Feb04f9ab-b808-48ad-a720-3533311bbc99%2Ffd67e4f7-0b2b-4d86-b07e-47c399ff571b&filename=ALT2030-2024-44_V2_29.11.2024.pdf"
+      }
+    ],
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Ações Coletivas – Empreendedorismo Qualificado associado ao conhecimento",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F11%2Feb04f9ab-b808-48ad-a720-3533311bbc99%2Ffd67e4f7-0b2b-4d86-b07e-47c399ff571b&filename=ALT2030-2024-44_V2_29.11.2024.pdf",
+    "is_open": false,
+    "notice_code": "ALT2030-2024-44",
+    "notice_id": "33412",
+    "objectives": [
+      "Promover a investigação e a inovação"
+    ],
+    "opening_date": "2024-10-31T09:00:00",
+    "original_closing_date": "2024-12-16T18:00:00",
+    "programme_codes": [
+      "ALENTEJO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Alentejo 2021-2027"
+    ],
+    "publication_date": "2024-10-30T17:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-01-20T18:00:05.3133333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 2352941.18,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-07-31T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Formação Avançada",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F6%2Ffc855d82-57f8-4c9e-80b6-de6ab31cf5b0%2F4f301e0a-cd0b-49dc-94a9-c153bab6f907&filename=AAC_Convite_ARDITI.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2026-20",
+    "notice_id": "34126",
+    "objectives": [
+      "Acesso à educação e formação"
+    ],
+    "opening_date": "2026-06-15T15:00:00",
+    "original_closing_date": "2026-07-31T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2026-06-15T15:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-07-31T17:00:20.06",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 707142.86,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-07-31T18:00:00",
+    "documents": [
+      {
+        "name": "MAR2030-2024-21 - RA.pdf",
+        "type": "Aviso",
+        "url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F4%2F5a6c9d29-8dbf-4a02-86db-483c216d0493%2F8c25e64e-dbff-40a5-8545-823f6fb570ad&filename=MAR2030-2024-21+-+RA.pdf"
+      }
+    ],
+    "funds": [
+      "Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura"
+    ],
+    "grant_name": "Convite 3 Projetos Âncora - EDL do GAC Aveiro",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F4%2F5a6c9d29-8dbf-4a02-86db-483c216d0493%2F8c25e64e-dbff-40a5-8545-823f6fb570ad&filename=MAR2030-2024-21+-+RA.pdf",
+    "is_open": false,
+    "notice_code": "MAR2030-2024-21",
+    "notice_id": "7382",
+    "objectives": [
+      "Desenvolvimento sustentável das comunidades piscatórias"
+    ],
+    "opening_date": "2024-04-30T09:00:00",
+    "original_closing_date": "2024-07-31T18:00:00",
+    "programme_codes": [
+      "MAR2030"
+    ],
+    "programmes": [
+      "Programa MAR2030"
+    ],
+    "publication_date": "2024-04-29T18:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-10-30T18:06:01.05",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 4705882,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2023-12-05T18:56:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "CEF - 2021/2022 -Públicas -  POCH-H9-2021-09",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2023%2F12%2F7268b439-ab28-4edc-845a-9d0ec8f7ba91%2F0106329c-c48a-4efd-b662-487def582e54&filename=AAC_POCH+H9-2021-09_2022_01_06.pdf",
+    "is_open": false,
+    "notice_code": "PESSOAS-2023-26",
+    "notice_id": "7118",
+    "objectives": [
+      "Inclusão ativa e empregabilidade"
+    ],
+    "opening_date": "2023-12-05T18:55:00",
+    "original_closing_date": "2023-12-05T18:56:00",
+    "programme_codes": [
+      "PESSOAS2030"
+    ],
+    "programmes": [
+      "Programa Temático Demografia, Qualificações e Inclusão"
+    ],
+    "publication_date": "2023-12-05T18:55:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-02-09T15:23:37.9",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 10339055.18,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2027-06-30T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Infraestruturas e Equipamentos Sociais (IT)\n",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F5%2Fa87ac1e8-5f14-4137-815b-166a46d4f002%2F71c9bac9-6059-4b2d-8b34-7a336487f1c4&filename=CENTRO2030-2024-34.pdf",
+    "is_open": true,
+    "notice_code": "CENTRO2030-2024-34",
+    "notice_id": "33048",
+    "objectives": [
+      "Desenvolvimento integrado nas zonas urbanas"
+    ],
+    "opening_date": "2024-05-31T16:21:00",
+    "original_closing_date": "2025-04-30T22:15:00",
+    "programme_codes": [
+      "CENTRO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Centro 2021-2027"
+    ],
+    "publication_date": "2024-05-31T16:21:00",
+    "source_status": "Aberto",
+    "source_updated_at": "2026-10-29T18:20:02.3033333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "open"
+  },
+  {
+    "allocation_eur": 287500,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-12-31T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo para o Asilo, a Migração e a Integração"
+    ],
+    "grant_name": "Condições de trabalho de nacionais de países terceiros",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F11%2F3d2443c9-5924-4d4b-a39b-5a0e9eb0e06b%2F0b622835-1fed-4d96-99b9-7a9c50aef898&filename=Aviso+FAMI2030-2024-20_Condi%C3%A7%C3%B5es+trabalho.pdf",
+    "is_open": false,
+    "notice_code": "FAMI2030-2024-20",
+    "notice_id": "33456",
+    "objectives": [
+      "Voltar"
+    ],
+    "opening_date": "2024-11-29T14:00:00",
+    "original_closing_date": "2024-12-31T18:00:00",
+    "programme_codes": [
+      "FAMI2030"
+    ],
+    "programmes": [
+      "Programa do Fundo para o Asilo, a Migração e a Integração 2021-2027"
+    ],
+    "publication_date": "2024-11-29T14:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2024-12-31T18:00:06.6666667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 716964.89,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-05-08T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Respostas locais a desafios territoriais específicos - Estratégias de Eficiência Coletiva PROVERE - Alentejo",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F1%2F3d7033b9-e3d1-4aac-a1a0-252d5d46ae3f%2F278efc91-0dd7-4a7a-a137-c34bd738436b&filename=ALT2030-2026-5.pdf",
+    "is_open": false,
+    "notice_code": "ALT2030-2026-5",
+    "notice_id": "33954",
+    "objectives": [
+      "Desenvolvimento integrado nas zonas rurais e costeiras"
+    ],
+    "opening_date": "2026-01-09T09:00:00",
+    "original_closing_date": "2026-03-13T18:00:00",
+    "programme_codes": [
+      "ALENTEJO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Alentejo 2021-2027"
+    ],
+    "publication_date": "2026-01-09T08:50:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-05-08T18:00:30.0566667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 1700000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-12-31T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Cursos Profissionais – Entidades Públicas (Ciclo Formativo 2024-2027)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F12%2F8450ff14-258e-460c-b007-0ef0ee1a1c36%2Fb0cca4d5-e142-4948-a1cb-c95cf025e21e&filename=AAC_Cursos+Profissionais+%282024_2027%29+1.%C2%BA+altera%C3%A7%C3%A3o.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2024-38",
+    "notice_id": "33474",
+    "objectives": [
+      "Acesso à educação e formação"
+    ],
+    "opening_date": "2024-12-06T17:00:00",
+    "original_closing_date": "2024-12-31T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2024-12-06T17:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2024-12-31T17:00:05.4766667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 1500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-12-31T18:00:00",
+    "documents": [
+      {
+        "name": "MAR2030-2025-2 - GAL Sotavento do Algarve.pdf",
+        "type": "Aviso",
+        "url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F12%2Fa2972cf2-e0f6-4605-a749-d2a9f377c702%2F6c576a3d-4efe-456b-af44-615859c9a3dd&filename=MAR2030-2025-2+-+GAL+Sotavento+do+Algarve.pdf"
+      }
+    ],
+    "funds": [
+      "Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura"
+    ],
+    "grant_name": "Execução da EDL do GAL Pesca Sotavento Algarve\nInvestimentos que contribuam para o desenvolvimento de uma economia azul sustentável nas regiões costeiras, insulares e interiores e fomentar o desenvolvimento das comunidades piscatórias e de aquicultura\n",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F12%2Fa2972cf2-e0f6-4605-a749-d2a9f377c702%2F6c576a3d-4efe-456b-af44-615859c9a3dd&filename=MAR2030-2025-2+-+GAL+Sotavento+do+Algarve.pdf",
+    "is_open": false,
+    "notice_code": "MAR2030-2025-2",
+    "notice_id": "33524",
+    "objectives": [
+      "Desenvolvimento sustentável das comunidades piscatórias"
+    ],
+    "opening_date": "2025-01-10T09:00:00",
+    "original_closing_date": "2025-12-31T18:00:00",
+    "programme_codes": [
+      "MAR2030"
+    ],
+    "programmes": [
+      "Programa MAR2030"
+    ],
+    "publication_date": "2025-01-09T18:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-12-31T18:00:04.69",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 600000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-12-19T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Títulos de Impacto Social",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F2%2F5abed523-1138-48b5-b1b6-1ee2e58b7ee4%2F819f7438-0c95-4c38-bb61-b0c2820a9a22&filename=ALT2030-2024-3.pdf",
+    "is_open": false,
+    "notice_code": "ALT2030-2024-3",
+    "notice_id": "7299",
+    "objectives": [
+      "Inclusão ativa e empregabilidade"
+    ],
+    "opening_date": "2024-02-29T16:00:00",
+    "original_closing_date": "2025-12-19T18:00:00",
+    "programme_codes": [
+      "ALENTEJO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Alentejo 2021-2027"
+    ],
+    "publication_date": "2024-02-29T15:59:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-12-22T09:03:59.2366667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 8000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-12-19T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Ciclo Urbano da Água (CUA) em Baixa – Saneamento de Águas Residuais",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F9%2F83895cdd-d687-453a-a109-025a536e01cf%2Fd78b8b50-5160-4545-80ae-32958e838e1c&filename=Aviso_M2030-2025-34.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2025-34",
+    "notice_id": "33811",
+    "objectives": [
+      "Gestão sustentável da água"
+    ],
+    "opening_date": "2025-09-05T17:00:00",
+    "original_closing_date": "2025-12-19T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2025-09-05T17:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-12-19T17:00:03.0433333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 60780,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-02-28T18:00:00",
+    "documents": [
+      {
+        "name": "MAR2030-2025-5.pdf",
+        "type": "Aviso",
+        "url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F1%2F194f2761-948c-4eba-9a03-ac9e5dcab598%2Fd543b57e-1280-4bf6-ba70-ef7aa5983143&filename=MAR2030-2025-5.pdf"
+      }
+    ],
+    "funds": [
+      "Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura"
+    ],
+    "grant_name": "Execução da EDL do GALCOSTEIRO da RAM - Formação para profissionais da pesca e da economia do mar",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F1%2F194f2761-948c-4eba-9a03-ac9e5dcab598%2Fd543b57e-1280-4bf6-ba70-ef7aa5983143&filename=MAR2030-2025-5.pdf",
+    "is_open": false,
+    "notice_code": "MAR2030-2025-5",
+    "notice_id": "33546",
+    "objectives": [
+      "Desenvolvimento sustentável das comunidades piscatórias"
+    ],
+    "opening_date": "2025-01-31T09:00:00",
+    "original_closing_date": "2025-02-28T18:00:00",
+    "programme_codes": [
+      "MAR2030"
+    ],
+    "programmes": [
+      "Programa MAR2030"
+    ],
+    "publication_date": "2025-01-30T18:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-11-02T12:28:22.52",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 2500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-02-29T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Monitorização do Ar",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2023%2F12%2F00981d2c-e0a8-47af-aa97-a4efd8daf829%2Fa1011a77-9d50-4bd5-8845-5075025dc844&filename=Aviso_Monitoriza%C3%A7%C3%A3o+do+Ar.pdf",
+    "is_open": false,
+    "notice_code": "NORTE2030-2023-13",
+    "notice_id": "7129",
+    "objectives": [
+      "Proteção da natureza e biodiversidade"
+    ],
+    "opening_date": "2023-12-20T09:00:00",
+    "original_closing_date": "2024-02-29T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2023-12-19T21:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-07-29T11:35:24.82",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 1300000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-09-30T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo para uma Transição Justa"
+    ],
+    "grant_name": "Incentivos à colocação no mercado de trabalho - Plano Territorial para uma Transição Justa do Alentejo Litoral (FTJ)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F5%2F8420f31e-474b-4c33-b479-2f9b863cf07b%2F0d9bf416-6734-4706-9768-24e6784cb8ed&filename=ALT2030-2025-17.pdf",
+    "is_open": false,
+    "notice_code": "ALT2030-2025-17",
+    "notice_id": "33686",
+    "objectives": [
+      "Fundo para uma Transição Justa"
+    ],
+    "opening_date": "2025-05-30T09:00:00",
+    "original_closing_date": "2025-07-30T18:00:00",
+    "programme_codes": [
+      "ALENTEJO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Alentejo 2021-2027"
+    ],
+    "publication_date": "2025-05-30T08:50:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-09-30T18:00:05.54",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 270350,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-06-30T23:59:00",
+    "documents": [
+      {
+        "name": "Aviso NORTE2030-2026-9 AT OI-EMPIS.pdf",
+        "type": "Aviso",
+        "url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F5%2Ff91f765f-7082-4335-8ea7-cce58aa0d49a%2F8ea021d7-4805-4f14-8dca-48f726eca525&filename=Aviso+NORTE2030-2026-9+AT+OI-EMPIS.pdf"
+      }
+    ],
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Assistência Técnica NORTE2030 2026/2027 – OI-EMPIS (Estrutura de Missão Portugal Inovação Social)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F5%2Ff91f765f-7082-4335-8ea7-cce58aa0d49a%2F8ea021d7-4805-4f14-8dca-48f726eca525&filename=Aviso+NORTE2030-2026-9+AT+OI-EMPIS.pdf",
+    "is_open": false,
+    "notice_code": "NORTE2030-2026-9",
+    "notice_id": "34077",
+    "objectives": [
+      "Assistência técnica"
+    ],
+    "opening_date": "2026-05-19T11:50:00",
+    "original_closing_date": "2026-06-30T23:59:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2026-05-19T11:30:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-07-01T00:00:03.28",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 1500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-09-26T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Formação da Administração pública regional e local",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F8%2F3d13dd4d-5000-4b1c-afc7-b67d9c377a81%2F8042d4f0-e64b-47d8-ac0a-3d838dce2574&filename=M2030-2024-17-V1.2.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2024-17",
+    "notice_id": "33128",
+    "objectives": [
+      "Adaptação dos trabalhadores e das empresas à mudança"
+    ],
+    "opening_date": "2024-07-09T14:00:00",
+    "original_closing_date": "2024-08-05T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2024-07-09T14:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2024-11-04T15:50:12.85",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 4000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-12-30T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Eficiência Energética na Administração Local – ITI CIM - AMAL",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F10%2F15c38b21-31e9-4ac2-8f01-c9a5235c5766%2Fdad422c7-9be4-49aa-9bba-19ea85bbd14e&filename=AVISO+ALGARVE-2024-49+EE+para+os+edificios+Administra%C3%A7%C3%A3o+Local+-+ITI.CIM-AMAL.pdf",
+    "is_open": true,
+    "notice_code": "ALGARVE-2024-49",
+    "notice_id": "33314",
+    "objectives": [
+      "Eficiência energética"
+    ],
+    "opening_date": "2024-09-27T18:00:00",
+    "original_closing_date": "2025-03-14T18:00:00",
+    "programme_codes": [
+      "ALGARVE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Algarve 2021-2027"
+    ],
+    "publication_date": "2024-09-27T18:00:00",
+    "source_status": "Aberto",
+    "source_updated_at": "2026-09-29T11:30:09.3",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "open"
+  },
+  {
+    "allocation_eur": 0,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-01-05T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "SIID – I&D Empresarial – Regime Contratual de Investimento (RCI)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F4%2Fe01966da-613a-4bbd-ae25-bcb7060ddbbb%2Fc83c290b-8a1f-4ee5-aca8-b052218e64b4&filename=MPR_2025_10++SIID++Regime+Contratual++Projetos+IDT+Copromo%C3%A7%C3%A3o+e+Individuais.pdf",
+    "is_open": false,
+    "notice_code": "MPr-2025-10",
+    "notice_id": "33661",
+    "objectives": [
+      "Promover a investigação e a inovação"
+    ],
+    "opening_date": "2025-05-14T12:00:00",
+    "original_closing_date": "2026-01-05T17:00:00",
+    "programme_codes": [
+      "ALGARVE2030",
+      "COMPETE2030",
+      "LISBOA2030"
+    ],
+    "programmes": [
+      "Programa Regional do Algarve 2021-2027",
+      "Programa Temático Inovação e Transição Digital",
+      "Programa Regional de Lisboa 2021-2027"
+    ],
+    "publication_date": "2025-04-30T16:50:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-01-05T17:00:04.0866667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 6000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2027-06-30T16:59:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Região do Algarve - Alojamento para estudantes do Ensino Superior na Região do Algarve",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F11%2F341a4da1-31d2-4f04-a0b8-85d0d7c7f8bb%2Fa589a597-b182-484f-9849-e82d4dc19ebb&filename=AAC+-+ALGARVE-2026-25_+Alojamento+para+estudantes+do+Ensino+Superior+ADC.pdf",
+    "is_open": true,
+    "notice_code": "ALGARVE-2026-25",
+    "notice_id": "34323",
+    "objectives": [
+      "Habitação a preços acessíveis"
+    ],
+    "opening_date": "2026-10-30T18:30:00",
+    "original_closing_date": "2027-06-30T16:59:00",
+    "programme_codes": [
+      "ALGARVE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Algarve 2021-2027"
+    ],
+    "publication_date": "2026-10-30T18:30:00",
+    "source_status": "Aberto",
+    "source_updated_at": "2026-11-02T14:33:03.7166667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "open"
+  },
+  {
+    "allocation_eur": 5000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-03-31T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Estágios e Experiências Profissionais - Entidades Privadas- JOVENS II",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F2%2F5c73d91d-1168-4cf2-ae12-c13cd7c29fe6%2F190ff39e-c087-46a2-9cef-18b268f2ec00&filename=Aviso+Est%C3%A1gios+e+Experi%C3%AAncias+Profissionais+-+Entidades+Privadas+-Jovens+II_V1.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2026-9",
+    "notice_id": "33999",
+    "objectives": [
+      "Acesso ao emprego"
+    ],
+    "opening_date": "2026-02-27T17:00:00",
+    "original_closing_date": "2026-03-31T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2026-02-27T17:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-03-31T17:00:05.2733333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 145000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-01-03T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura"
+    ],
+    "grant_name": "Execução da EDL do GAL MAR AÇORES ORIENTAL - Capacitação escolar e profissional relacionada com o meio aquático e dinâmicas e identidade comunitária\n",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F10%2Fc5b93113-aff7-46ba-aa91-4f084d925f70%2Fe6964b72-1b9c-4204-8b01-e6f855be00e1&filename=MAR2030-2024-77+Capacita%C3%A7%C3%A3o+Escolar+Profissional_Convite.pdf",
+    "is_open": false,
+    "notice_code": "MAR2030-2024-77",
+    "notice_id": "33373",
+    "objectives": [
+      "Desenvolvimento sustentável das comunidades piscatórias"
+    ],
+    "opening_date": "2024-10-02T09:00:00",
+    "original_closing_date": "2024-11-29T18:00:00",
+    "programme_codes": [
+      "MAR2030"
+    ],
+    "programmes": [
+      "Programa MAR2030"
+    ],
+    "publication_date": "2024-10-01T18:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-11-02T12:39:46.2733333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 4000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-04-29T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Cursos Profissionais – Entidades Públicas (Ciclo Formativo 2023/2026)",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F3%2F34c0fa9e-c22f-47e9-9bc6-dea2c49f1381%2F022d84a5-8338-4eec-a186-ab93c6fcef0a&filename=M2030-2024-6_Cursos_Profissionais_1A.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2024-6",
+    "notice_id": "7349",
+    "objectives": [
+      "Acesso à educação e formação"
+    ],
+    "opening_date": "2024-03-14T16:00:00",
+    "original_closing_date": "2024-04-29T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2024-03-14T16:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2024-10-29T18:07:20.21",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 70588235.28999999,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2024-12-17T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Territórios Educativos de Intervenção Prioritária (TEIP) – Anos letivos 2024/2025, 2025/2026 e 2026/2027",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F10%2Fff91acb4-eba9-4083-a505-881c81bdefbb%2F5de300fb-1b82-4ad5-84ba-2aa7ab39ae62&filename=AVISO_TEIP+4_28.10.2024.pdf",
+    "is_open": false,
+    "notice_code": "PESSOAS-2024-26",
+    "notice_id": "33401",
+    "objectives": [
+      "Acesso a serviços de qualidade"
+    ],
+    "opening_date": "2024-10-29T00:03:00",
+    "original_closing_date": "2024-12-17T18:00:00",
+    "programme_codes": [
+      "PESSOAS2030"
+    ],
+    "programmes": [
+      "Programa Temático Demografia, Qualificações e Inclusão"
+    ],
+    "publication_date": "2024-10-28T12:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-02-07T16:37:56.89",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 41500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-12-30T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Planos de Ação Intermunicipais para a Inclusão Ativa de Grupos Vulneráveis (ITI) - PAIIA",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F4%2Fd6171f5a-10ba-4c62-b638-15f177435fce%2F3b75b3b9-d784-4b45-b656-07080987a92a&filename=Aviso_PAIIA_Abril2024.pdf",
+    "is_open": true,
+    "notice_code": "NORTE2030-2024-6",
+    "notice_id": "7408",
+    "objectives": [
+      "Inclusão ativa e empregabilidade"
+    ],
+    "opening_date": "2024-05-02T09:00:00",
+    "original_closing_date": "2024-12-30T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2024-04-30T23:40:00",
+    "source_status": "Aberto",
+    "source_updated_at": "2026-08-13T15:50:03.3033333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "open"
+  },
+  {
+    "allocation_eur": 3529412,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-04-14T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Apoio ao emprego e empreendedorismo social",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F11%2Ff7f9fbc6-dc7d-4a8e-9272-7a0368ca4d99%2F166a106a-7d70-4a5e-87b6-f31017a871ef&filename=ALT2030-2024-40_V2_27.11.2024.pdf",
+    "is_open": false,
+    "notice_code": "ALT2030-2024-40",
+    "notice_id": "33386",
+    "objectives": [
+      "Acesso ao emprego"
+    ],
+    "opening_date": "2024-10-14T17:00:00",
+    "original_closing_date": "2025-04-14T18:00:00",
+    "programme_codes": [
+      "ALENTEJO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Alentejo 2021-2027"
+    ],
+    "publication_date": "2024-10-14T16:50:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-11-24T09:55:36.37",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 14687500,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-10-17T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Melhoria das Condições de Operacionalidade do Porto do Caniçal",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F8%2F33fa4520-0c97-46c2-b3e7-2f525cb56f1e%2F538c252c-357a-4557-90c7-64c6188eb8f0&filename=Aviso_M2030-2025-29.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2025-29",
+    "notice_id": "33804",
+    "objectives": [
+      "Rede transeuropeia de transportes"
+    ],
+    "opening_date": "2025-08-25T17:00:00",
+    "original_closing_date": "2025-10-17T11:38:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2025-08-25T17:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-10-17T17:00:04.7133333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 3500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-03-13T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura"
+    ],
+    "grant_name": "Cessação temporária das atividades de pesca",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F2%2F02e8c74a-2e9c-494a-98fa-6fc210b532ba%2Fd04100d8-343d-4730-b0b0-0342654c7ac5&filename=MAR2030-2026_07.pdf",
+    "is_open": false,
+    "notice_code": "MAR2030-2026-7",
+    "notice_id": "33991",
+    "objectives": [
+      "Ajustamento da capacidade de pesca"
+    ],
+    "opening_date": "2026-02-17T11:05:00",
+    "original_closing_date": "2026-02-27T18:00:00",
+    "programme_codes": [
+      "MAR2030"
+    ],
+    "programmes": [
+      "Programa MAR2030"
+    ],
+    "publication_date": "2026-02-17T11:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-03-13T18:00:27.0166667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 24000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-09-25T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Habitação Acessível",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F8%2F745d6f66-a1c5-437c-a648-08f39e7e612c%2F36e3c1b0-16ba-4f50-be85-9a568220212a&filename=Aviso_M2030-20206-30.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2026-30",
+    "notice_id": "34213",
+    "objectives": [
+      "Habitação a preços acessíveis"
+    ],
+    "opening_date": "2026-08-28T18:00:00",
+    "original_closing_date": "2026-09-25T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2026-08-28T18:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-09-25T17:00:05.9266667",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2026-12-18T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "SIAC - Internacionalização",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2026%2F5%2Fc310a929-52fb-4d2b-8c6d-a75aab3307bb%2F34a5e57a-0635-4788-9c34-33625ef709c7&filename=ALGARVE-2026-8-+SIAC+-+Internacionaliza%C3%A7%C3%A3o.pdf",
+    "is_open": true,
+    "notice_code": "ALGARVE-2026-8",
+    "notice_id": "34091",
+    "objectives": [
+      "Crescimento e competitividade das PMEs"
+    ],
+    "opening_date": "2026-05-29T16:00:00",
+    "original_closing_date": "2026-09-30T18:00:00",
+    "programme_codes": [
+      "ALGARVE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Algarve 2021-2027"
+    ],
+    "publication_date": "2026-05-29T16:00:00",
+    "source_status": "Aberto",
+    "source_updated_at": "2026-09-04T11:00:03.96",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "open"
+  },
+  {
+    "allocation_eur": 3000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-01-14T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Sistema de Incentivos de Base Territorial - ITI CIM da Região de Leiria",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F9%2Fd5a59f1b-f8c1-4a54-9022-579c981a5943%2F5671e256-c221-476a-b8dc-7b0380443526&filename=Centro2030-2024-51_ITI_CIM_RL.pdf",
+    "is_open": false,
+    "notice_code": "CENTRO2030-2024-51",
+    "notice_id": "33249",
+    "objectives": [
+      "Crescimento e competitividade das PMEs"
+    ],
+    "opening_date": "2024-08-30T18:00:00",
+    "original_closing_date": "2024-12-12T18:00:00",
+    "programme_codes": [
+      "CENTRO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Centro 2021-2027"
+    ],
+    "publication_date": "2024-08-30T18:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2024-12-09T18:00:48.14",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 30000000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-11-28T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Europeu de Desenvolvimento Regional"
+    ],
+    "grant_name": "Ciclo Urbano da Água em Alta",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F5%2Fee39bd20-3db8-437f-b440-6f835da4864b%2Fff048ea7-4fa5-47eb-98ae-d45de47d7fd4&filename=Aviso_CENTRO2030-2024-29_2.5_CUAAlta.pdf",
+    "is_open": false,
+    "notice_code": "CENTRO2030-2024-29",
+    "notice_id": "31713",
+    "objectives": [
+      "Gestão sustentável da água"
+    ],
+    "opening_date": "2024-05-31T09:00:00",
+    "original_closing_date": "2025-11-28T18:00:00",
+    "programme_codes": [
+      "CENTRO2030"
+    ],
+    "programmes": [
+      "Programa Regional do Centro 2021-2027"
+    ],
+    "publication_date": "2024-05-29T13:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-11-28T18:00:03.24",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 2854356.35,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-04-30T18:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Apoio à criação de emprego e microempreendedorismo (IT) – CIM Cávado",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2024%2F12%2F03988e36-8aec-4432-bc87-249c29155ba8%2F0394f177-9602-43f0-81b5-bd40aaa9d539&filename=Aviso_Emprego+e+Empreendedorismo_CIM+C%C3%A1vado_30dez.pdf",
+    "is_open": false,
+    "notice_code": "NORTE2030-2024-103",
+    "notice_id": "33532",
+    "objectives": [
+      "Acesso ao emprego"
+    ],
+    "opening_date": "2024-12-31T09:00:00",
+    "original_closing_date": "2025-03-31T18:00:00",
+    "programme_codes": [
+      "NORTE2030"
+    ],
+    "programmes": [
+      "Programa Regional do Norte 2021-2027"
+    ],
+    "publication_date": "2024-12-30T23:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2026-06-23T13:22:13.0933333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  },
+  {
+    "allocation_eur": 500000,
+    "checked_at": "2026-11-04T17:16:05.080708+00:00",
+    "closing_date": "2025-06-20T17:00:00",
+    "documents": "[{\"url\": \"https://portugal2030.pt/wp-json/avisos/download?contai…",
+    "funds": [
+      "Fundo Social Europeu Mais"
+    ],
+    "grant_name": "Qualificação de Pessoas com Deficiência e ou Incapacidade - Ciclo Formativo 2025/2028",
+    "grant_url": "https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&path=avisos%2F2025%2F5%2F1539b191-a194-42a7-a8e0-48f5e4bfea7e%2Fafe62536-8c0e-4ea7-86bb-5ab2492fd611&filename=AAC_QPCDI_Cicloformativo_2025_2028_Vf.pdf",
+    "is_open": false,
+    "notice_code": "M2030-2025-18",
+    "notice_id": "33673",
+    "objectives": [
+      "Inclusão ativa e empregabilidade"
+    ],
+    "opening_date": "2025-05-14T15:00:00",
+    "original_closing_date": "2025-06-20T17:00:00",
+    "programme_codes": [
+      "MADEIRA2030"
+    ],
+    "programmes": [
+      "Programa Regional da Madeira 2021-2027"
+    ],
+    "publication_date": "2025-05-14T15:00:00",
+    "source_status": "Fechado",
+    "source_updated_at": "2025-06-20T17:00:09.7933333",
+    "source_url": "https://portugal2030.pt/avisos/",
+    "status": "closed"
+  }
+]

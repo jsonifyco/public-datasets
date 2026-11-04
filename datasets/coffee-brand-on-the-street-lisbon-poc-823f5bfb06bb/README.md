@@ -7,8 +7,8 @@ Dataset with 810 rows across published tables, including 405 venue records with 
 [Get the full dataset for free](https://www.jsonify.com/datasets/coffee-brand-on-the-street-lisbon-poc-823f5bfb06bb?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 13
-- Last published: 2026-11-04T01:16:15.887580Z
+- Active pipeline version: 17
+- Last published: 2026-11-04T02:32:30.185539Z
 
 ## The brief
 
@@ -88,18 +88,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## cafe\_coffee\_brand\_lisbon / cafe\_coffee\_brand\_lisbon
 
-405 total rows · 50 sampled · Output revision 20
-Published: 2026-11-04T01:16:15.887580Z · Producing pipeline version: 13
+405 total rows · 50 sampled · Output revision 23
+Published: 2026-11-04T02:32:30.185539Z · Producing pipeline version: 16
 
 [CSV sample](outputs/b39c541a129d/cafe-coffee-brand-lisbon-bbe279b222b1/sample.csv) · [JSON sample](outputs/b39c541a129d/cafe-coffee-brand-lisbon-bbe279b222b1/sample.json) · [Schema](outputs/b39c541a129d/cafe-coffee-brand-lisbon-bbe279b222b1/schema.json)
 
 | address | area | audit | branding\_status | category | confidence | conflicting\_brands | distance\_from\_beato\_m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| R\. Passos Manuel 100A, Lisbon, 1150\-258, PT | Beato | \{"scope": "Beato radius sample", "rating": 4\.3, "address": "… | unclear\_photo | Portuguese restaurant | low | None | 2562 |
-| R\. de Dona Estefânia 131, Lisbon, 1000\-156, PT | Beato | \{"scope": "Beato radius sample", "rating": 4\.2, "address": "… | branding\_observed | Hamburger restaurant | medium | None | 2926 |
-| R\. Actriz Palmira Bastos 43, Lisbon, 1950\-261, PT | Beato | \{"scope": "Beato radius sample", "rating": 4\.3, "address": "… | branding\_observed | Pastry shop, Bakery, Beer store, Cheese shop, Coffee shop, Cafe, Sandwich shop, Wine bar | medium | None | 2658 |
-| R\. Fernando Palha 39, Lisbon, 1950\-087, PT | Beato | \{"scope": "Beato radius sample", "rating": 4\.3, "address": "… | no\_visible\_branding | Restaurant | low | None | 1790 |
-| Praça Francisco Sá Carneiro 7 D, Lisbon, 1000\-159, PT | Beato | \{"scope": "Beato radius sample", "rating": 4\.2, "address": "… | unclear\_photo | Pastry shop, Cake shop | low | None | 2683 |
+| R\. Custódio Vieira C, 1250\-096, Lisbon, Portugal | Campo de Ourique | \{"scope": "Campo de Ourique baseline", "rating": 4\.7, "addre… | branding\_observed | Cafe | medium | Nicola | 4681 |
+| R\. Ferreira Borges 47, 1350\-126, Lisbon, Portugal | Campo de Ourique | \{"scope": "Campo de Ourique baseline", "rating": 4\.7, "addre… | no\_visible\_branding | Portuguese restaurant, Brewpub, Family restaurant, Fast food restaurant, Hamburger restaurant, Lunch restaurant | low | None | 5177 |
+| R\. Coelho da Rocha 104, 1350\-075, Lisbon, Portugal | Campo de Ourique | \{"scope": "Campo de Ourique baseline", "rating": 4\.6, "addre… | no\_visible\_branding | Portuguese restaurant | low | None | 5388 |
+| Beco do Recolhimento 5 7\-9, Lisbon, 1100\-244, PT | Beato | \{"scope": "Beato radius sample", "rating": 4\.9, "address": "… | no\_visible\_branding | Restaurant, Breakfast restaurant, Brunch restaurant, Cafe, Cocktail bar, Coffee shop, Dessert restaurant, Lunch restaurant, Vegan restaurant, Vegetarian restaurant | low | None | 2922 |
+| R\. Ten\. Ferreira Durão 55B, 1350\-311, Lisbon, Portugal | Campo de Ourique | \{"scope": "Campo de Ourique baseline", "rating": 4\.2, "addre… | no\_visible\_branding | Portuguese restaurant | low | None | 5384 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -219,6 +219,10 @@ flowchart LR
 - 2026-11-04T00:15:15.487754Z: v11: Added personally verified branding for thirteen previously unknown venues, retaining exact evidence and qualifications for sugar sachets, furniture, packaging and food saucers\.
 - 2026-11-04T00:59:58.196043Z: v12: Added personally verified branding at five existing venues, including mixed historical branding at Central do Areeiro and Monte Novo\.
 - 2026-11-04T01:15:22.126212Z: v13: Added Camelo at Doce Mila and qualified the additional historical branding at Os Brasileiros and Café Tradicional\. The ambiguous Vitta Roma photo remains unaccepted\.
+- 2026-11-04T01:32:59.373418Z: v14: Adds the confirmed cup and mixed\-brand observations and explicitly labels the unreadable Toca photo as unclear\.
+- 2026-11-04T02:14:45.229552Z: v15: Adds Segafredo at Com Tradições and Golfstar, Portela retail branding, Delta alongside Camelo at Doce Mila, and literal RUBY alongside Delta at Impacto\.
+- 2026-11-04T02:31:26.100492Z: v16: Applies final host\-confirmed sachet, machine, cup and retail observations while preserving mixed branding and explicit evidence limitations\.
+- 2026-11-04T02:36:17.157628Z: v17: Clarifies the written rule for explicitly confirmed coffee\-brand equipment evidence; published rows and collection behavior are unchanged\.
 
 ## Recorded repairs
 

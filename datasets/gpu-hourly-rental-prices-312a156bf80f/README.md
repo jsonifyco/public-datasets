@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 1,652 rows\.
+Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 1,914 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
-- Active pipeline version: 5
-- Last published: 2026-11-04T06:02:13.558602Z
+- Active pipeline version: 6
+- Last published: 2026-11-05T06:05:11.922884Z
 
 ## The brief
 
-> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 1,652 rows\.
+> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 1,914 rows\.
 
 Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-1,652 total rows · 50 sampled · Output revision 13
-Published: 2026-11-04T06:02:13.558602Z · Producing pipeline version: 5
+1,914 total rows · 50 sampled · Output revision 14
+Published: 2026-11-05T06:05:11.922884Z · Producing pipeline version: 6
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| L40S | NVIDIA L40S | NVIDIA L40S | North America | Regional | on\_demand | No fixed term | 18 |
-| H100 | H100 | p5\.48xlarge | US West \(N\. California\) | US | capacity\_block | Not stated | 47\.757 |
-| H100 | H100 SXM | Marketplace offer 50189138 | Australia, AU | AU | on\_demand | No fixed term | 5\.860977777777778 |
-| H100 | H100 SXM | Standard\_ND96is\_noIB\_H100\_v5 | eastus | US | spot | Interruptible, no fixed term | 16\.352582 |
-| H200 | H200 NVL | Marketplace offer 21829061 | Czechia, CZ | CZ | on\_demand | No fixed term | 3\.5139259259259257 |
+| H100 | H100 PCIe | H100 PCIe Pod | Global | Global | on\_demand | No fixed term | 2\.89 |
+| B200 | B200 | Marketplace offer 58397098 | , US | US | on\_demand | No fixed term | 23\.760416666666668 |
+| A100 | A100 PCIE | Marketplace offer 41566563 | Croatia, HR | HR | on\_demand | No fixed term | 1\.2037037037037037 |
+| A100 | Nvidia A100 | a2\-ultragpu\-8g | Provider list \(region unspecified\) | Global | flex\_start | DWS Flex\-start scheduling | 19\.2 |
+| L40S | L40S | Marketplace offer 57268008 | Texas, US | US | on\_demand | No fixed term | 0\.42888888888888893 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -89,10 +89,13 @@ flowchart LR
 - 2026-10-30T17:25:49.479475Z: v3: Corrected Google Cloud billing\-column interpretation so unavailable on\-demand prices cannot inherit a Flex\-start rate\.
 - 2026-10-30T18:26:24.970423Z: v4: Moved daily duplicate cleanup into every refresh, preserving saved history and normalizing equivalent numbers and commitment labels\.
 - 2026-10-30T18:35:38.991961Z: v5: Corrected marketplace country labels and removed unsupported Google Cloud regional assignments in recurring collection and saved\-history reconciliation\.
+- 2026-11-05T06:04:59.062177Z: v6: DigitalOcean prices now match exact GPU names directly from each price card, preventing confusion with other accelerator models\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-05T06:02:34.072908Z: no change
+- 2026-11-05T06:04:19.636622Z: no change
+- 2026-11-05T06:05:08.340297Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 

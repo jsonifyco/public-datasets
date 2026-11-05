@@ -1,0 +1,126 @@
+[
+  {
+    "name": "observation_id",
+    "type": "text"
+  },
+  {
+    "name": "model",
+    "type": "text"
+  },
+  {
+    "name": "match_key",
+    "type": "text"
+  },
+  {
+    "name": "match_status",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "image_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "image_status",
+    "type": "text"
+  },
+  {
+    "name": "condition",
+    "type": "text"
+  },
+  {
+    "name": "condition_original",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "price_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "listed_date",
+    "type": "text"
+  },
+  {
+    "name": "listed_date_text",
+    "type": "text"
+  },
+  {
+    "name": "sold_or_removed_date",
+    "type": "text"
+  },
+  {
+    "name": "sale_status",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "market_country",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "source_model_number",
+    "type": "text"
+  },
+  {
+    "name": "is_bundle",
+    "type": "boolean"
+  },
+  {
+    "name": "best_offer_accepted",
+    "type": "boolean"
+  },
+  {
+    "name": "comparison_eligible",
+    "type": "boolean"
+  },
+  {
+    "name": "identity_evidence",
+    "type": "text"
+  },
+  {
+    "name": "price_evidence",
+    "type": "text"
+  },
+  {
+    "name": "date_note",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "fx_date",
+    "type": "text"
+  },
+  {
+    "name": "fx_units_per_eur",
+    "type": "double precision"
+  }
+]

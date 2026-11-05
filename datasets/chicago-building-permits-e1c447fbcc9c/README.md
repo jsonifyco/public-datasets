@@ -1,35 +1,35 @@
-# Chicago Building Permits Data: New Permits Issued Weekly
+# Chicago Building Permits Data: Permits Issued
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Chicago building permits data: permit type, work description, reported cost, fees, address, ward and coordinates for permits issued, updated every week\.
+Chicago building permits data with permit type, work description, reported cost, fees, address, ward and coordinates\. The published dataset contains 1,451 permit records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/chicago-building-permits-e1c447fbcc9c?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-11-03T08:00:39.577664Z
+- Last published: 2026-11-05T06:00:35.454704Z
 
 ## The brief
 
-> I need this data: Chicago building permits data: permit type, work description, reported cost, fees, address, ward and coordinates for permits issued, updated every week\.
+> I need this data: Chicago building permits data with permit type, work description, reported cost, fees, address, ward and coordinates\. The published dataset contains 1,451 permit records\.
 
 Summary from the public dataset description.
 
 ## Chicago Building Permits / permits
 
-1,208 total rows · 50 sampled · Output revision 3
-Published: 2026-11-03T08:00:39.577664Z · Producing pipeline version: Unknown
+1,451 total rows · 50 sampled · Output revision 4
+Published: 2026-11-05T06:00:35.454704Z · Producing pipeline version: 2
 
 [CSV sample](outputs/c9ef3e98e123/permits-f9b6938a67e1/sample.csv) · [JSON sample](outputs/c9ef3e98e123/permits-f9b6938a67e1/sample.json) · [Schema](outputs/c9ef3e98e123/permits-f9b6938a67e1/schema.json)
 
-| permit\_number | permit\_type | review\_type | permit\_status | work\_type | work\_description | application\_start\_date | issue\_date |
+| address | application\_start\_date | city | community\_area | issue\_date | latitude | longitude | permit\_number |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 101069539 | PERMIT \- RENOVATION/ALTERATION | STANDARD PLAN REVIEW | ACTIVE | None | SPR 2019: FOUNDATION UNDERPINNING OF EAST WALL FOUNDATION, 5 STORY TYPE 1 CONSTRUCTION TO ADDRESS SETTLEMENT ISSUE\.                                  NO CONCRETE WORK UNDER THIS PERMIT\. | 2025\-05\-21 | 2026\-10\-19 |
-| 101077099 | PERMIT \- RENOVATION/ALTERATION | STANDARD PLAN REVIEW | ACTIVE | None | SPR 2019 CBRC \- INTERIOR AND EXTERIOR RENOVATIONS TO AN EXISTING 3 STORY 6 DWELLING UNIT RESIDENCE WITH BASEMENT AND REAR PORCH WITH STAIRS TO CONVERT TO 8 DWELLING UNITS WITH A NEW TRASH ENCLOSURE, 6 UNENCLOSED PARKING SPACES AND 8 BICYCLE SPACES AS PER PLANS\*\*CERTIFIED CORRECTIONS SUBJECT TO FIELD INSPECTIONS &amp; AUDIT \*\* | 2026\-01\-05 | 2026\-10\-19 |
-| 101082574 | PERMIT \- RENOVATION/ALTERATION | STANDARD PLAN REVIEW | ACTIVE | None | SPR 2019 CBRC: INTERIOR REMODELING TO ADD A 2\-STOP CHAIR LIFT IN THE EXISTING GRAND BALLROOM\. \(OCC\. GRP: A\-2; CONST\. TYPE: IA\) | 2026\-04\-23 | 2026\-10\-19 |
-| 101083551 | PERMIT \- RENOVATION/ALTERATION | STANDARD PLAN REVIEW | ACTIVE | None | SPR 2019 CBC \(STANDARD\) FULL BUILDINGTHE WORK INCLUDES THE INTERIOR REMODELING ON THE FIRST AND SECOND FLOOR \(WINDOW REPLACEMENT &amp; 35 SF LOFT EXTENSION\) OF AN EXISTING 3 STORY MASONRY, SINGLE FAMILY RESIDENCE\.OCCUPANCY GROUP R5TYPE IIIA CONSTRUCTIONNO CHANGE IN ZONING | 2026\-06\-04 | 2026\-10\-19 |
-| 101083940 | PERMIT \- RENOVATION/ALTERATION | STANDARD PLAN REVIEW | ACTIVE | None | INTERIOR &amp; EXTERIOR RENOVATIONS TO CONVERT 2ND &amp; 3RD FLOOR \(2\) D\.U\. INTO \(4\) D\.U\. ON MIXED\-USE MULTI\-FAMILY MASONRY BUILDING WITH EXIST\. HAIR SALON GROUND FLOOR \(NO WORK\) &amp; BASEMENT \(III\-A CONS\./ OCCUPANCY R2/B\) | 2026\-06\-01 | 2026\-10\-19 |
+| 3730 N LAKE SHORE DR | 2026\-11\-03 | Chicago | 6 | 2026\-11\-03 | 41\.9513080135466 | \-87\.64508865644889 | B200518529 |
+| 37 S WABASH AVE | 2026\-10\-22 | Chicago | 32 | 2026\-11\-03 | 41\.88114721565142 | \-87\.6260347352098 | B200517060 |
+| 2917 W 24TH BLVD | 2026\-07\-17 | Chicago | 30 | 2026\-11\-03 | 41\.84773300487438 | \-87\.69836553442839 | 101086102 |
+| 358 S LARAMIE AVE | 2026\-11\-02 | Chicago | 25 | 2026\-11\-02 | 41\.874889043269825 | \-87\.75500825084832 | B200518417 |
+| 176 N RACINE AVE | 2026\-11\-02 | Chicago | 28 | 2026\-11\-03 | 41\.88526960432706 | \-87\.65693588005684 | B200518406 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -37,25 +37,25 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| permit\_number | text |
-| permit\_type | text |
-| review\_type | text |
-| permit\_status | text |
-| work\_type | text |
-| work\_description | text |
-| application\_start\_date | text |
-| issue\_date | text |
-| processing\_time\_days | bigint |
 | address | text |
+| application\_start\_date | text |
 | city | text |
 | community\_area | bigint |
-| ward | bigint |
-| reported\_cost\_usd | double precision |
-| total\_fee\_usd | double precision |
-| residential\_unit\_change | bigint |
+| issue\_date | text |
 | latitude | double precision |
 | longitude | double precision |
+| permit\_number | text |
+| permit\_status | text |
+| permit\_type | text |
+| processing\_time\_days | bigint |
+| reported\_cost\_usd | double precision |
+| residential\_unit\_change | text |
+| review\_type | text |
 | source\_url | text |
+| total\_fee\_usd | double precision |
+| ward | bigint |
+| work\_description | text |
+| work\_type | text |
 
 ## How the pipeline works
 

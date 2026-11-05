@@ -1,14 +1,10 @@
 [
   {
-    "name": "firm",
+    "name": "date_note",
     "type": "text"
   },
   {
-    "name": "event_name",
-    "type": "text"
-  },
-  {
-    "name": "event_date",
+    "name": "description",
     "type": "text"
   },
   {
@@ -16,15 +12,23 @@
     "type": "text"
   },
   {
+    "name": "event_date",
+    "type": "text"
+  },
+  {
+    "name": "event_name",
+    "type": "text"
+  },
+  {
     "name": "event_time",
     "type": "text"
   },
   {
-    "name": "timezone",
+    "name": "event_url",
     "type": "text"
   },
   {
-    "name": "location",
+    "name": "firm",
     "type": "text"
   },
   {
@@ -32,11 +36,19 @@
     "type": "text"
   },
   {
-    "name": "organizer",
+    "name": "last_checked",
     "type": "text"
   },
   {
-    "name": "description",
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "location",
+    "type": "text"
+  },
+  {
+    "name": "organizer",
     "type": "text"
   },
   {
@@ -48,19 +60,7 @@
     "type": "text"
   },
   {
-    "name": "date_note",
-    "type": "text"
-  },
-  {
-    "name": "event_url",
-    "type": "text"
-  },
-  {
-    "name": "listing_url",
-    "type": "text"
-  },
-  {
-    "name": "last_checked",
+    "name": "timezone",
     "type": "text"
   }
 ]

@@ -1,0 +1,94 @@
+[
+  {
+    "name": "accession_number",
+    "type": "text"
+  },
+  {
+    "name": "cik",
+    "type": "text"
+  },
+  {
+    "name": "date_of_first_sale",
+    "type": "text"
+  },
+  {
+    "name": "entity_type",
+    "type": "text"
+  },
+  {
+    "name": "federal_exemptions",
+    "type": "text"
+  },
+  {
+    "name": "filing_date",
+    "type": "text"
+  },
+  {
+    "name": "filing_url",
+    "type": "text"
+  },
+  {
+    "name": "first_sale_yet_to_occur",
+    "type": "boolean"
+  },
+  {
+    "name": "form_type",
+    "type": "text"
+  },
+  {
+    "name": "industry_group",
+    "type": "text"
+  },
+  {
+    "name": "is_amendment",
+    "type": "boolean"
+  },
+  {
+    "name": "issuer_city",
+    "type": "text"
+  },
+  {
+    "name": "issuer_name",
+    "type": "text"
+  },
+  {
+    "name": "issuer_state",
+    "type": "text"
+  },
+  {
+    "name": "jurisdiction_of_incorporation",
+    "type": "text"
+  },
+  {
+    "name": "minimum_investment_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "offering_amount_indefinite",
+    "type": "boolean"
+  },
+  {
+    "name": "revenue_range",
+    "type": "text"
+  },
+  {
+    "name": "total_amount_sold_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "total_number_already_invested",
+    "type": "integer"
+  },
+  {
+    "name": "total_offering_amount_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "total_remaining_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "year_of_incorporation",
+    "type": "integer"
+  }
+]

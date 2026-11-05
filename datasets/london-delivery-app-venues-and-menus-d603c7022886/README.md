@@ -7,7 +7,7 @@ Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 3
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 15
+- Active pipeline version: 17
 - Last published: 2026-11-01T13:26:30.960098Z
 
 ## The brief
@@ -225,6 +225,8 @@ flowchart LR
 - 2026-11-04T20:02:33.756814Z: v13: Allow losslessly saved inventory batches to resume venue collection without repeating searches\.
 - 2026-11-04T20:11:55.980479Z: v14: Slow Deliveroo requests and honor cooldowns so temporary rate limits do not immediately stop collection\.
 - 2026-11-04T20:24:44.339826Z: v15: Keep explicitly missing Deliveroo listings separately alongside disabled listings, preserving their distinct statuses\.
+- 2026-11-05T17:45:17.407708Z: v16: Fixed Just Eat menu links whose letter case differs from the menu server, while retaining restaurant identity checks and saved progress\.
+- 2026-11-05T17:53:45.838548Z: v17: Just Eat listings with changed menu links can now be resolved using their exact restaurant identity, retaining original discovery records and saved progress\.
 
 ## Recorded repairs
 

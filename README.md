@@ -42,6 +42,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Lisbon Coffee Brands at Street Venues](datasets/coffee-brand-on-the-street-lisbon-poc-823f5bfb06bb/) | 810 | On demand | 2026-11-04T02:32:30.185539Z |
 | [Georgia County Election Board Meetings, Motions and Votes](datasets/georgia-county-election-board-meetings-and-votes-886d693cbdab/) | 1,269 | On demand | 2026-11-02T11:10:55.955034Z |
+| [European Console Resale Prices](datasets/european-console-resale-prices-8a0b033ae1da/) | 410 | weekly | 2026-11-05T15:04:19.911305Z |
 | [Agent Builder Pricing and Changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
 | [LLM API Pricing: Official Standard Text and Chat Model Rates](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |
 | [Wellness Practitioners in Lisbon, Porto, Barcelona and London](datasets/wellness-practitioners-across-cities-8fedaa1baebd/) | 200 | On demand | 2026-10-22T14:20:21.555858Z |

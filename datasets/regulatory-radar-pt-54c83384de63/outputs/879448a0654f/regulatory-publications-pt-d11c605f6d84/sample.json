@@ -1,17 +1,6 @@
 [
   {
     "consultation_deadline": null,
-    "document_type": "carta circular",
-    "issuer": "Banco de Portugal",
-    "language": "pt",
-    "published_date": "2026-08-17",
-    "reference_number": "CC/2026/00000021",
-    "summary": "The circular informs institutions of FATF countermeasures proportionate to the very high money-laundering and terrorist-financing risks associated with North Korea and Iran, and notes that Russia’s membership suspension remains in place.",
-    "title": "Carta Circular n.º CC/2026/00000021",
-    "url": "https://www.bportugal.pt/cartacircular/cc202600000021"
-  },
-  {
-    "consultation_deadline": null,
     "document_type": "circular",
     "issuer": "ASF",
     "language": "pt",
@@ -23,17 +12,6 @@
   },
   {
     "consultation_deadline": null,
-    "document_type": "circular",
-    "issuer": "CMVM",
-    "language": "pt",
-    "published_date": "2026-08-17",
-    "reference_number": "006/2026",
-    "summary": "CMVM Circular 006/2026 concerns the Financial Action Task Force (GAFI) and the prevention and combating of money laundering and terrorist financing.",
-    "title": "Circular 006/2026 - GAFI - Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo",
-    "url": "https://www.cmvm.pt/PInstitucional/ContentDynamic?Input=1C1BDF990ACC464DD18DEE0D6CDD0C85D76D1BC54EACA99C25530A3B32512422D22D1B23925FE4B7A2EA138D4D090F33"
-  },
-  {
-    "consultation_deadline": null,
     "document_type": "instrução",
     "issuer": "Banco de Portugal",
     "language": "pt",
@@ -42,6 +20,28 @@
     "summary": "This instruction amends Instruction No. 16/2022, which regulates the operation of the Portuguese national component of TARGET (TARGET-PT).",
     "title": "Instrução (Histórico) n.º 6/2026",
     "url": "https://www.bportugal.pt/instrucao/62026"
+  },
+  {
+    "consultation_deadline": null,
+    "document_type": "circular",
+    "issuer": "CMVM",
+    "language": "pt",
+    "published_date": "2026-08-17",
+    "reference_number": "006/2026",
+    "summary": "The CMVM reports the FATF’s June 2026 jurisdiction updates and directs institutions to apply countermeasures to North Korea and Iran, enhanced due diligence to those jurisdictions and Myanmar, and risk-proportionate enhanced measures for monitored and other high-risk jurisdictions.",
+    "title": "Circular 006/2026 - GAFI - Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo",
+    "url": "https://www.cmvm.pt/PInstitucional/ContentDynamic?Input=1C1BDF990ACC464DD18DEE0D6CDD0C85D76D1BC54EACA99C25530A3B32512422D22D1B23925FE4B7A2EA138D4D090F33"
+  },
+  {
+    "consultation_deadline": null,
+    "document_type": "carta circular",
+    "issuer": "Banco de Portugal",
+    "language": "pt",
+    "published_date": "2026-08-17",
+    "reference_number": "CC/2026/00000021",
+    "summary": "Following FATF communications after its June 2026 plenary meeting, the circular informs institutions of risk-proportionate countermeasures concerning North Korea and Iran and the continued suspension of the Russian Federation’s membership status.",
+    "title": "Carta Circular n.º CC/2026/00000021",
+    "url": "https://www.bportugal.pt/cartacircular/cc202600000021"
   },
   {
     "consultation_deadline": "2026-10-12",
@@ -77,17 +77,6 @@
     "url": "https://www.eba.europa.eu/sites/default/files/2026-08/faa39dd8-20fe-4149-9125-f6a33b68babd/Consultation%20Paper%20on%20draft%20RTS%20on%20reclassification%20of%20IFs%20as%20credit%20institutions.pdf"
   },
   {
-    "consultation_deadline": null,
-    "document_type": "instrução",
-    "issuer": "Banco de Portugal",
-    "language": "pt",
-    "published_date": "2026-08-26",
-    "reference_number": "7/2026",
-    "summary": "This instruction, in force from 27 August 2026, revokes Instruction No. 28/2018 and concerns prudential standards for credit institutions headquartered in Portugal.",
-    "title": "Instrução (Histórico) n.º 7/2026",
-    "url": "https://www.bportugal.pt/instrucao/72026"
-  },
-  {
     "consultation_deadline": "2026-12-31",
     "document_type": "consultation",
     "issuer": "EBA",
@@ -97,6 +86,17 @@
     "summary": "The EBA consults on draft regulatory technical standards establishing a harmonised, proportionate framework for institutions’ operational risk governance, management processes, assessment systems, data, reporting, validation, audit and data governance.",
     "title": "Consultation paper on draft RTS on Operational Risk management framework",
     "url": "https://www.eba.europa.eu/sites/default/files/2026-08/44997535-0b67-4d01-93eb-79de2c62c028/CP%20on%20RTS%20on%20OpRisk%20management%20framework.pdf"
+  },
+  {
+    "consultation_deadline": null,
+    "document_type": "instrução",
+    "issuer": "Banco de Portugal",
+    "language": "pt",
+    "published_date": "2026-08-26",
+    "reference_number": "7/2026",
+    "summary": "This instruction, in force from 27 August 2026, revokes Instruction No. 28/2018 and concerns prudential standards for credit institutions headquartered in Portugal.",
+    "title": "Instrução (Histórico) n.º 7/2026",
+    "url": "https://www.bportugal.pt/instrucao/72026"
   },
   {
     "consultation_deadline": null,

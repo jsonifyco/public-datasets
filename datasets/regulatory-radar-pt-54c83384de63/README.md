@@ -8,7 +8,7 @@ Regulatory publications from EBA, ESMA, EIOPA and Banco de Portugal, with Englis
 
 - Refresh: daily
 - Active pipeline version: 9
-- Last published: 2026-11-04T11:30:39.371648Z
+- Last published: 2026-11-05T06:11:09.873602Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Regulatory publications / Publications
 
-34 total rows · 10 sampled · Output revision 8
-Published: 2026-11-04T11:30:39.371648Z · Producing pipeline version: 9
+34 total rows · 10 sampled · Output revision 9
+Published: 2026-11-05T06:11:09.873602Z · Producing pipeline version: 9
 
 [CSV sample](outputs/879448a0654f/publications-82b2eb07aaea/sample.csv) · [JSON sample](outputs/879448a0654f/publications-82b2eb07aaea/sample.json) · [Schema](outputs/879448a0654f/publications-82b2eb07aaea/schema.json)
 
 | title | Issuer | Document type | Published date | Consultation deadline | Summary | source | Reference |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients | European Securities and Markets Authority \(ESMA\) | Final report | 2026\-10\-16 | None | ESMA’s final report presents revised CSDR guidelines on arrangements, communication procedures and messaging protocols for investment firms and their professional clients, including the use of electronic and international open standards\. | [https://www\.esma\.europa\.eu/sites/default/files/2026\-10/ESMA74\-2119945926\-3749\_Final\_report\_revised\_CSDR\_GL\_on\_standardised\_procedures\_and\_messaging\_protocols\.pdf](<https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3749_Final_report_revised_CSDR_GL_on_standardised_procedures_and_messaging_protocols.pdf>) | ESMA74\-2119945926\-3749 |
-| Consultation Paper on draft RTS on reclassification of investment firms as credit institutions | European Banking Authority \(EBA\) | Consultation | 2026\-08\-25 | 2026\-11\-25 | The EBA consults on three draft regulatory technical standards covering calculation of credit\-institution thresholds for investment firms, information for monitoring those thresholds, and factors competent authorities should consider when granting a waiver\. | [https://www\.eba\.europa\.eu/sites/default/files/2026\-08/faa39dd8\-20fe\-4149\-9125\-f6a33b68babd/Consultation%20Paper%20on%20draft%20RTS%20on%20reclassification%20of%20IFs%20as%20credit%20institutions\.pdf](<https://www.eba.europa.eu/sites/default/files/2026-08/faa39dd8-20fe-4149-9125-f6a33b68babd/Consultation%20Paper%20on%20draft%20RTS%20on%20reclassification%20of%20IFs%20as%20credit%20institutions.pdf>) | EBA/CP/2026/17 |
+| EIOPA Report on the impacts of climate change on life and health and potential emerging risks for the insurance and IORP sectors | European Insurance and Occupational Pensions Authority \(EIOPA\) | Final report | 2026\-09\-30 | None | The report identifies extreme heat as the leading climate\-related liability risk for life and health insurers and occupational pension providers, noting that current financial impacts are limited but risks are expected to increase in coming decades\. | [https://www\.eiopa\.europa\.eu/publications/eiopa\-report\-impacts\-climate\-change\-life\-and\-health\-and\-potential\-emerging\-risks\-insurance\-and\-iorp\_en](<https://www.eiopa.europa.eu/publications/eiopa-report-impacts-climate-change-life-and-health-and-potential-emerging-risks-insurance-and-iorp_en>) | None |
 | Consulta Pública n\.º 6/2026 Projeto de Norma Regulamentar que estabelece os índices trimestrais de atualização de capitais para as apólices do ramo "Incêndio e elementos da natureza" com início ou vencimento no primeiro trimestre de 2027 | Autoridade de Supervisão de Seguros e Fundos de Pensões \(ASF\) | Consultation | 2026\-10\-14 | 2026\-11\-04 | The ASF is consulting on a draft regulatory standard setting quarterly capital adjustment indices for fire and natural elements insurance policies beginning or renewing in the first quarter of 2027\. | [https://www\.asf\.com\.pt/w/consulta\-p%C3%BAblica\-n\.%C2%BA\-6/2026\-projeto\-de\-norma\-regulamentar\-que\-estabelece\-os\-%C3%ADndices\-trimestrais\-de\-atualiza%C3%A7%C3%A3o\-de\-capitais\-para\-as\-ap%C3%B3lices\-do\-ramo\-inc%C3%AAndio\-e\-elementos\-da\-natureza\-com\-in%C3%ADcio\-ou\-vencimento\-no\-primei](<https://www.asf.com.pt/w/consulta-p%C3%BAblica-n.%C2%BA-6/2026-projeto-de-norma-regulamentar-que-estabelece-os-%C3%ADndices-trimestrais-de-atualiza%C3%A7%C3%A3o-de-capitais-para-as-ap%C3%B3lices-do-ramo-inc%C3%AAndio-e-elementos-da-natureza-com-in%C3%ADcio-ou-vencimento-no-primei>) | 6/2026 |
-| Instrução \(Histórico\) n\.º 9/2026 | Banco de Portugal | Instrução | 2026\-10\-15 | None | This instruction amends Instruction No\. 11/2025, which regulates the Interbank Clearing System \(SICOI\)\. | [https://www\.bportugal\.pt/instrucao/92026](<https://www.bportugal.pt/instrucao/92026>) | 9/2026 |
-| Circular 006/2026 \- GAFI \- Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo | Comissão do Mercado de Valores Mobiliários \(CMVM\) | Circular | 2026\-08\-17 | None | CMVM Circular 006/2026 concerns the Financial Action Task Force \(GAFI\) and the prevention and combating of money laundering and terrorist financing\. | [https://www\.cmvm\.pt/PInstitucional/ContentDynamic?Input=1C1BDF990ACC464DD18DEE0D6CDD0C85D76D1BC54EACA99C25530A3B32512422D22D1B23925FE4B7A2EA138D4D090F33](<https://www.cmvm.pt/PInstitucional/ContentDynamic?Input=1C1BDF990ACC464DD18DEE0D6CDD0C85D76D1BC54EACA99C25530A3B32512422D22D1B23925FE4B7A2EA138D4D090F33>) | 006/2026 |
+| Instrução \(Histórico\) n\.º 8/2026 | Banco de Portugal | Instrução | 2026\-08\-26 | None | This instruction revokes Instruction No\. 7/2019 and applies to credit institutions headquartered in Portugal\. | [https://www\.bportugal\.pt/instrucao/82026](<https://www.bportugal.pt/instrucao/82026>) | 8/2026 |
+| Report on taxonomy disclosures | European Banking Authority \(EBA\) | Final report | 2026\-10\-29 | None | The EBA report analyses taxonomy disclosure requirements under Article 8 of the Taxonomy Regulation and provides technical advice on financial\-sector KPIs, grandfathering, voluntary use of OpEx, group\-level reporting, asset management and investment activities, and credit\-institution templates\. | [https://www\.eba\.europa\.eu/sites/default/files/2026\-10/e3f2c8fb\-c3e1\-4447\-9739\-569835b4cf82/Report%20on%20Taxonomy%20Disclosures\_for%20publication%20%281%29\.pdf](<https://www.eba.europa.eu/sites/default/files/2026-10/e3f2c8fb-c3e1-4447-9739-569835b4cf82/Report%20on%20Taxonomy%20Disclosures_for%20publication%20%281%29.pdf>) | EBA/REP/2026/19 |
+| Consultation paper on draft RTS on Operational Risk management framework | European Banking Authority \(EBA\) | Consultation | 2026\-08\-26 | 2026\-12\-31 | The EBA consults on draft regulatory technical standards establishing a harmonised, proportionate framework for institutions’ operational risk governance, management processes, assessment systems, data, reporting, validation, audit and data governance\. | [https://www\.eba\.europa\.eu/sites/default/files/2026\-08/44997535\-0b67\-4d01\-93eb\-79de2c62c028/CP%20on%20RTS%20on%20OpRisk%20management%20framework\.pdf](<https://www.eba.europa.eu/sites/default/files/2026-08/44997535-0b67-4d01-93eb-79de2c62c028/CP%20on%20RTS%20on%20OpRisk%20management%20framework.pdf>) | EBA/CP/2026/18 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -49,17 +49,17 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Regulatory publications / regulatory\_publications\_pt
 
-34 total rows · 10 sampled · Output revision 8
-Published: 2026-11-04T11:30:39.371648Z · Producing pipeline version: 9
+34 total rows · 10 sampled · Output revision 9
+Published: 2026-11-05T06:11:09.873602Z · Producing pipeline version: 9
 
 [CSV sample](outputs/879448a0654f/regulatory-publications-pt-d11c605f6d84/sample.csv) · [JSON sample](outputs/879448a0654f/regulatory-publications-pt-d11c605f6d84/sample.json) · [Schema](outputs/879448a0654f/regulatory-publications-pt-d11c605f6d84/schema.json)
 
 | consultation\_deadline | document\_type | issuer | language | published\_date | reference\_number | summary | title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | carta circular | Banco de Portugal | pt | 2026\-08\-17 | CC/2026/00000021 | The circular informs institutions of FATF countermeasures proportionate to the very high money\-laundering and terrorist\-financing risks associated with North Korea and Iran, and notes that Russia’s membership suspension remains in place\. | Carta Circular n\.º CC/2026/00000021 |
 | None | circular | ASF | pt | 2026\-08\-17 | 8/2026 | The circular communicates the FATF’s June plenary updates, maintaining enhanced customer identification and due diligence measures for North Korea, Iran and Myanmar, and proportionate countermeasures for North Korea and Iran\. | Circular n\.º 8/2026, de 14 de julho \- Prevenção do Branqueamento de Capitais e do Financiamento do Terrorismo |
-| None | circular | CMVM | pt | 2026\-08\-17 | 006/2026 | CMVM Circular 006/2026 concerns the Financial Action Task Force \(GAFI\) and the prevention and combating of money laundering and terrorist financing\. | Circular 006/2026 \- GAFI \- Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo |
 | None | instrução | Banco de Portugal | pt | 2026\-08\-17 | 6/2026 | This instruction amends Instruction No\. 16/2022, which regulates the operation of the Portuguese national component of TARGET \(TARGET\-PT\)\. | Instrução \(Histórico\) n\.º 6/2026 |
+| None | circular | CMVM | pt | 2026\-08\-17 | 006/2026 | The CMVM reports the FATF’s June 2026 jurisdiction updates and directs institutions to apply countermeasures to North Korea and Iran, enhanced due diligence to those jurisdictions and Myanmar, and risk\-proportionate enhanced measures for monitored and other high\-risk jurisdictions\. | Circular 006/2026 \- GAFI \- Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo |
+| None | carta circular | Banco de Portugal | pt | 2026\-08\-17 | CC/2026/00000021 | Following FATF communications after its June 2026 plenary meeting, the circular informs institutions of risk\-proportionate countermeasures concerning North Korea and Iran and the continued suspension of the Russian Federation’s membership status\. | Carta Circular n\.º CC/2026/00000021 |
 | 2026\-10\-12 | consultation | ESMA | en | 2026\-08\-18 | ESMA12\-2121844265\-6008 | ESMA consults on draft regulatory and implementing technical standards specifying the reporting framework for clearing activity at recognised third\-country central counterparties under EMIR Article 7d\. | Consultation on the reporting framework under EMIR for clearing activity at recognised third\-country CCPs |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.

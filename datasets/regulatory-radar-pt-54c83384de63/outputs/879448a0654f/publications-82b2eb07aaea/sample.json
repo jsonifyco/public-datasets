@@ -2,24 +2,13 @@
   {
     "Consultation deadline": null,
     "Document type": "Final report",
-    "Issuer": "European Securities and Markets Authority (ESMA)",
+    "Issuer": "European Insurance and Occupational Pensions Authority (EIOPA)",
     "Language": "English",
-    "Published date": "2026-10-16",
-    "Reference": "ESMA74-2119945926-3749",
-    "Summary": "ESMA’s final report presents revised CSDR guidelines on arrangements, communication procedures and messaging protocols for investment firms and their professional clients, including the use of electronic and international open standards.",
-    "source": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3749_Final_report_revised_CSDR_GL_on_standardised_procedures_and_messaging_protocols.pdf",
-    "title": "Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients"
-  },
-  {
-    "Consultation deadline": "2026-11-25",
-    "Document type": "Consultation",
-    "Issuer": "European Banking Authority (EBA)",
-    "Language": "English",
-    "Published date": "2026-08-25",
-    "Reference": "EBA/CP/2026/17",
-    "Summary": "The EBA consults on three draft regulatory technical standards covering calculation of credit-institution thresholds for investment firms, information for monitoring those thresholds, and factors competent authorities should consider when granting a waiver.",
-    "source": "https://www.eba.europa.eu/sites/default/files/2026-08/faa39dd8-20fe-4149-9125-f6a33b68babd/Consultation%20Paper%20on%20draft%20RTS%20on%20reclassification%20of%20IFs%20as%20credit%20institutions.pdf",
-    "title": "Consultation Paper on draft RTS on reclassification of investment firms as credit institutions"
+    "Published date": "2026-09-30",
+    "Reference": null,
+    "Summary": "The report identifies extreme heat as the leading climate-related liability risk for life and health insurers and occupational pension providers, noting that current financial impacts are limited but risks are expected to increase in coming decades.",
+    "source": "https://www.eiopa.europa.eu/publications/eiopa-report-impacts-climate-change-life-and-health-and-potential-emerging-risks-insurance-and-iorp_en",
+    "title": "EIOPA Report on the impacts of climate change on life and health and potential emerging risks for the insurance and IORP sectors"
   },
   {
     "Consultation deadline": "2026-11-04",
@@ -37,76 +26,87 @@
     "Document type": "Instrução",
     "Issuer": "Banco de Portugal",
     "Language": "Portuguese",
-    "Published date": "2026-10-15",
-    "Reference": "9/2026",
-    "Summary": "This instruction amends Instruction No. 11/2025, which regulates the Interbank Clearing System (SICOI).",
-    "source": "https://www.bportugal.pt/instrucao/92026",
-    "title": "Instrução (Histórico) n.º 9/2026"
-  },
-  {
-    "Consultation deadline": null,
-    "Document type": "Circular",
-    "Issuer": "Comissão do Mercado de Valores Mobiliários (CMVM)",
-    "Language": "Portuguese",
-    "Published date": "2026-08-17",
-    "Reference": "006/2026",
-    "Summary": "CMVM Circular 006/2026 concerns the Financial Action Task Force (GAFI) and the prevention and combating of money laundering and terrorist financing.",
-    "source": "https://www.cmvm.pt/PInstitucional/ContentDynamic?Input=1C1BDF990ACC464DD18DEE0D6CDD0C85D76D1BC54EACA99C25530A3B32512422D22D1B23925FE4B7A2EA138D4D090F33",
-    "title": "Circular 006/2026 - GAFI - Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo"
-  },
-  {
-    "Consultation deadline": null,
-    "Document type": "Instrução",
-    "Issuer": "Banco de Portugal",
-    "Language": "Portuguese",
     "Published date": "2026-08-26",
-    "Reference": "7/2026",
-    "Summary": "This instruction, in force from 27 August 2026, revokes Instruction No. 28/2018 and concerns prudential standards for credit institutions headquartered in Portugal.",
-    "source": "https://www.bportugal.pt/instrucao/72026",
-    "title": "Instrução (Histórico) n.º 7/2026"
-  },
-  {
-    "Consultation deadline": "2026-11-10",
-    "Document type": "Consultation",
-    "Issuer": "Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF)",
-    "Language": "Portuguese",
-    "Published date": "2026-10-27",
-    "Reference": "7/2026",
-    "Summary": "The ASF is consulting on a draft regulatory standard to align the uniform crop insurance policy for fruit and horticultural products in the Azores with the regional regime established by Portaria No. 95/2026.",
-    "source": "https://www.asf.com.pt/w/consulta-publica-n-7-2026-ni",
-    "title": "Consulta Pública n.º 7/2026 - Projeto de norma regulamentar que altera a Apólice Uniforme do Seguro de Colheitas de Frutas e Produtos Hortícolas para a Região Autónoma dos Açores"
+    "Reference": "8/2026",
+    "Summary": "This instruction revokes Instruction No. 7/2019 and applies to credit institutions headquartered in Portugal.",
+    "source": "https://www.bportugal.pt/instrucao/82026",
+    "title": "Instrução (Histórico) n.º 8/2026"
   },
   {
     "Consultation deadline": null,
-    "Document type": "Norma regulamentar",
-    "Issuer": "Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF)",
-    "Language": "Portuguese",
-    "Published date": "2026-10-23",
-    "Reference": "6/2026-R",
-    "Summary": "This regulation introduces new reporting duties to the ASF on ICT third-party arrangements, severe ICT incidents, significant cyber threats, ICT risk management and cyberattack information-sharing, while simplifying existing incident reporting requirements and repealing overlapping rules.",
-    "source": "https://www.asf.com.pt/w/norma-regulamentar-n-6-2026-r-de-20-de-outubro-ni",
-    "title": "Norma Regulamentar n.º 6/2026-R, de 20 de outubro - Reporte à ASF para supervisão da resiliência operacional digital"
+    "Document type": "Final report",
+    "Issuer": "European Banking Authority (EBA)",
+    "Language": "English",
+    "Published date": "2026-10-29",
+    "Reference": "EBA/REP/2026/19",
+    "Summary": "The EBA report analyses taxonomy disclosure requirements under Article 8 of the Taxonomy Regulation and provides technical advice on financial-sector KPIs, grandfathering, voluntary use of OpEx, group-level reporting, asset management and investment activities, and credit-institution templates.",
+    "source": "https://www.eba.europa.eu/sites/default/files/2026-10/e3f2c8fb-c3e1-4447-9739-569835b4cf82/Report%20on%20Taxonomy%20Disclosures_for%20publication%20%281%29.pdf",
+    "title": "Report on taxonomy disclosures"
+  },
+  {
+    "Consultation deadline": "2026-12-31",
+    "Document type": "Consultation",
+    "Issuer": "European Banking Authority (EBA)",
+    "Language": "English",
+    "Published date": "2026-08-26",
+    "Reference": "EBA/CP/2026/18",
+    "Summary": "The EBA consults on draft regulatory technical standards establishing a harmonised, proportionate framework for institutions’ operational risk governance, management processes, assessment systems, data, reporting, validation, audit and data governance.",
+    "source": "https://www.eba.europa.eu/sites/default/files/2026-08/44997535-0b67-4d01-93eb-79de2c62c028/CP%20on%20RTS%20on%20OpRisk%20management%20framework.pdf",
+    "title": "Consultation paper on draft RTS on Operational Risk management framework"
+  },
+  {
+    "Consultation deadline": null,
+    "Document type": "Final report",
+    "Issuer": "European Banking Authority (EBA)",
+    "Language": "English",
+    "Published date": "2026-10-12",
+    "Reference": "EBA/RTS/2026/08",
+    "Summary": "The EBA’s final report proposes amendments to the prudential technical standards for central securities depositories and designated credit institutions, addressing risks arising when banking CSDs provide banking-type ancillary services to participants of other CSDs and updating references to reflect changes in EU legislation.",
+    "source": "https://www.eba.europa.eu/sites/default/files/2026-10/2500fd3b-78b4-4ebc-9316-0c8e209047a4/Final%20Report%20Amending%20RTS%20on%20Prudential%20Requirements%20CSDR.pdf",
+    "title": "Regulatory Technical Standards on prudential requirements for central securities depositories (CSDs) designated credit institutions offering ‘banking-type ancillary services’"
   },
   {
     "Consultation deadline": null,
     "Document type": "Final report",
     "Issuer": "European Securities and Markets Authority (ESMA)",
     "Language": "English",
-    "Published date": "2026-10-29",
-    "Reference": "ESMA32-846262651-5927",
-    "Summary": "ESMA’s final report provides technical advice on selected Taxonomy Disclosure Delegated Act KPIs, including revisions to the OpEx KPI, voluntary OpEx reporting by financial undertakings, group reporting and other possible simplifications.",
-    "source": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA32-846262651-5927_Final_Report_on_Technical_Advice_selected_Taxonomy_KPIs.pdf",
-    "title": "Final report on Technical Advice on selected KPIs under the Taxonomy Disclosures Delegated Act"
+    "Published date": "2026-10-16",
+    "Reference": "ESMA74-2119945926-3749",
+    "Summary": "ESMA’s final report presents revised CSDR guidelines on arrangements, communication procedures and messaging protocols for investment firms and their professional clients, including the use of electronic and international open standards.",
+    "source": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA74-2119945926-3749_Final_report_revised_CSDR_GL_on_standardised_procedures_and_messaging_protocols.pdf",
+    "title": "Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients"
   },
   {
-    "Consultation deadline": "2026-10-12",
-    "Document type": "Consultation",
+    "Consultation deadline": null,
+    "Document type": "Final report",
     "Issuer": "European Securities and Markets Authority (ESMA)",
     "Language": "English",
-    "Published date": "2026-08-18",
-    "Reference": "ESMA12-2121844265-6008",
-    "Summary": "ESMA consults on draft regulatory and implementing technical standards specifying the reporting framework for clearing activity at recognised third-country central counterparties under EMIR Article 7d.",
-    "source": "https://www.esma.europa.eu/press-news/consultations/consultation-reporting-framework-under-emir-clearing-activity-recognised",
-    "title": "Consultation on the reporting framework under EMIR for clearing activity at recognised third-country CCPs"
+    "Published date": "2026-10-19",
+    "Reference": "ESMA91-1505572268-4904",
+    "Summary": "ESMA’s final report sets out draft amendments to RTS 153/2013 specifying conditions for CCP acceptance of public and bank guarantees as collateral and making targeted changes to CCP investment policy and secure deposit arrangements.",
+    "source": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA91-1505572268-4904_Final_report_-_guarantees_as_CCP_collateral_and_CCP_investment_policy.pdf",
+    "title": "Final report on the guarantees as CCP collateral and CCP investment policy"
+  },
+  {
+    "Consultation deadline": null,
+    "Document type": "Circular",
+    "Issuer": "Comissão do Mercado de Valores Mobiliários (CMVM)",
+    "Language": "Portuguese",
+    "Published date": "2026-10-21",
+    "Reference": "007/2026",
+    "Summary": "The CMVM circular sets out supervisory expectations for venture capital alternative investment fund managers on investment and risk management structures, investment eligibility and limits, marketing practices, pre-contractual disclosures, appropriateness assessments, and costs and charges.",
+    "source": "https://www.cmvm.pt/PInstitucional/ContentDynamic?Input=1ED548724440A50C481475FA85D3C9F275B4C88912D5CADF184A7237AD9D31CC1F3F673F6ABBE8B8F0C6153620ABAED0",
+    "title": "Circular 007/2026 - Gestão de Ativos - Deveres em matéria de requisitos prudenciais e práticas de comercialização para os organismos de investimento alternativo de capital de risco"
+  },
+  {
+    "Consultation deadline": "2027-01-04",
+    "Document type": "Consultation",
+    "Issuer": "European Insurance and Occupational Pensions Authority (EIOPA)",
+    "Language": "English",
+    "Published date": "2026-10-08",
+    "Reference": null,
+    "Summary": "EIOPA is consulting on a draft Supervisory Statement to promote consistent, proportionate and risk-based supervision of IBIP sales processes and pre-contractual disclosures without introducing new regulatory requirements or prescribed supervisory methods.",
+    "source": "https://www.eiopa.europa.eu/consultations/consultation-draft-supervisory-statement-ibip-sales-processes_en",
+    "title": "Consultation on the draft Supervisory Statement on IBIP Sales Processes"
   }
 ]

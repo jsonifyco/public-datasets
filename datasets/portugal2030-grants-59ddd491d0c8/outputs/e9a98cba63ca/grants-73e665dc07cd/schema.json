@@ -16,32 +16,20 @@
     "type": "text"
   },
   {
-    "name": "is_open",
-    "type": "boolean"
-  },
-  {
     "name": "source_status",
     "type": "text"
   },
   {
-    "name": "programmes",
-    "type": "jsonb"
+    "name": "grant_url",
+    "type": "text"
   },
   {
-    "name": "programme_codes",
-    "type": "jsonb"
+    "name": "source_url",
+    "type": "text"
   },
   {
-    "name": "funds",
-    "type": "jsonb"
-  },
-  {
-    "name": "objectives",
-    "type": "jsonb"
-  },
-  {
-    "name": "allocation_eur",
-    "type": "double precision"
+    "name": "checked_at",
+    "type": "text"
   },
   {
     "name": "publication_date",
@@ -64,19 +52,31 @@
     "type": "text"
   },
   {
-    "name": "documents",
+    "name": "programmes",
     "type": "jsonb"
   },
   {
-    "name": "grant_url",
-    "type": "text"
+    "name": "programme_codes",
+    "type": "jsonb"
   },
   {
-    "name": "source_url",
-    "type": "text"
+    "name": "funds",
+    "type": "jsonb"
   },
   {
-    "name": "checked_at",
-    "type": "text"
+    "name": "objectives",
+    "type": "jsonb"
+  },
+  {
+    "name": "is_open",
+    "type": "boolean"
+  },
+  {
+    "name": "allocation_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "documents",
+    "type": "jsonb"
   }
 ]

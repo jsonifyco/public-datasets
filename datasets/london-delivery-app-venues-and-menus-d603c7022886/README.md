@@ -7,7 +7,7 @@ Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 3
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 17
+- Active pipeline version: 25
 - Last published: 2026-11-01T13:26:30.960098Z
 
 ## The brief
@@ -227,6 +227,14 @@ flowchart LR
 - 2026-11-04T20:24:44.339826Z: v15: Keep explicitly missing Deliveroo listings separately alongside disabled listings, preserving their distinct statuses\.
 - 2026-11-05T17:45:17.407708Z: v16: Fixed Just Eat menu links whose letter case differs from the menu server, while retaining restaurant identity checks and saved progress\.
 - 2026-11-05T17:53:45.838548Z: v17: Just Eat listings with changed menu links can now be resolved using their exact restaurant identity, retaining original discovery records and saved progress\.
+- 2026-11-05T21:14:41.561544Z: v18: Explicitly disabled Deliveroo menus with no items are now retained separately under the agreed policy\. Closed restaurants with usable menus continue to be collected\.
+- 2026-11-05T21:27:56.614119Z: v19: Deliveroo menus with incomplete customization references now use verified item details to recover current options without dropping dishes\.
+- 2026-11-05T21:38:55.842841Z: v20: Uber Eats promotional prices now retain the displayed price and original price separately, including percentage discounts that return fractional pennies\.
+- 2026-11-05T21:50:08.996999Z: v21: Items that Uber Eats labels “Priced by add\-ons” are retained with explicit option\-dependent pricing, instead of stopping menu collection\.
+- 2026-11-05T22:07:35.744283Z: v22: Uber items with different prices on breakfast and lunch menus now retain both prices as named menu variants, including their displayed menu hours\.
+- 2026-11-05T22:43:03.531961Z: v23: Uber listings explicitly marked inactive are retained in the unavailable\-listings table so the remaining menus can continue\.
+- 2026-11-05T22:59:25.603583Z: v24: Explicitly disabled Deliveroo menus containing only add\-ons are kept in the unavailable\-listings table\. Closed restaurants with usable dishes remain included\.
+- 2026-11-05T23:39:57.132162Z: v25: Uber menus now collect successfully when optional restaurant categories are blank\.
 
 ## Recorded repairs
 

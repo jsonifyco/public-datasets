@@ -1,0 +1,74 @@
+[
+  {
+    "name": "age_max",
+    "type": "integer"
+  },
+  {
+    "name": "age_min",
+    "type": "integer"
+  },
+  {
+    "name": "availability_status",
+    "type": "text"
+  },
+  {
+    "name": "booking_url",
+    "type": "text"
+  },
+  {
+    "name": "camp_name",
+    "type": "text"
+  },
+  {
+    "name": "city_venue",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "duration_days",
+    "type": "integer"
+  },
+  {
+    "name": "end_date",
+    "type": "text"
+  },
+  {
+    "name": "organiser",
+    "type": "text"
+  },
+  {
+    "name": "organiser_url",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "residential",
+    "type": "boolean"
+  },
+  {
+    "name": "sport",
+    "type": "text"
+  },
+  {
+    "name": "start_date",
+    "type": "text"
+  },
+  {
+    "name": "whats_included",
+    "type": "jsonb"
+  }
+]

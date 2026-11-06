@@ -1,0 +1,154 @@
+[
+  {
+    "name": "address_evidence",
+    "type": "text"
+  },
+  {
+    "name": "address_precision",
+    "type": "text"
+  },
+  {
+    "name": "area_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "bathrooms",
+    "type": "integer"
+  },
+  {
+    "name": "bedrooms",
+    "type": "integer"
+  },
+  {
+    "name": "building_id",
+    "type": "text"
+  },
+  {
+    "name": "building_listing_count",
+    "type": "integer"
+  },
+  {
+    "name": "building_number",
+    "type": "text"
+  },
+  {
+    "name": "building_portal_count",
+    "type": "integer"
+  },
+  {
+    "name": "building_unit_hints",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "data_quality_notes",
+    "type": "jsonb"
+  },
+  {
+    "name": "description_address_text",
+    "type": "text"
+  },
+  {
+    "name": "description_gross_area_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "description_typology",
+    "type": "text"
+  },
+  {
+    "name": "energy_rating",
+    "type": "text"
+  },
+  {
+    "name": "first_seen",
+    "type": "text"
+  },
+  {
+    "name": "floor",
+    "type": "text"
+  },
+  {
+    "name": "last_seen",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "municipality",
+    "type": "text"
+  },
+  {
+    "name": "operation",
+    "type": "text"
+  },
+  {
+    "name": "parish_freguesia",
+    "type": "text"
+  },
+  {
+    "name": "price_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "price_per_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "selected_parish",
+    "type": "text"
+  },
+  {
+    "name": "snapshot_at",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_address_text",
+    "type": "text"
+  },
+  {
+    "name": "street_address_text",
+    "type": "text"
+  },
+  {
+    "name": "street_id",
+    "type": "text"
+  },
+  {
+    "name": "street_listing_count",
+    "type": "integer"
+  },
+  {
+    "name": "street_name",
+    "type": "text"
+  },
+  {
+    "name": "street_portal_count",
+    "type": "integer"
+  },
+  {
+    "name": "typology",
+    "type": "text"
+  }
+]

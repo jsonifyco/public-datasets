@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 1,914 rows\.
+Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 2,168 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 6
-- Last published: 2026-11-05T06:05:11.922884Z
+- Last published: 2026-11-06T06:01:36.268359Z
 
 ## The brief
 
-> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 1,914 rows\.
+> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 2,168 rows\.
 
 Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-1,914 total rows · 50 sampled · Output revision 14
-Published: 2026-11-05T06:05:11.922884Z · Producing pipeline version: 6
+2,168 total rows · 50 sampled · Output revision 15
+Published: 2026-11-06T06:01:36.268359Z · Producing pipeline version: 6
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| H100 | H100 PCIe | H100 PCIe Pod | Global | Global | on\_demand | No fixed term | 2\.89 |
-| B200 | B200 | Marketplace offer 58397098 | , US | US | on\_demand | No fixed term | 23\.760416666666668 |
-| A100 | A100 PCIE | Marketplace offer 41566563 | Croatia, HR | HR | on\_demand | No fixed term | 1\.2037037037037037 |
-| A100 | Nvidia A100 | a2\-ultragpu\-8g | Provider list \(region unspecified\) | Global | flex\_start | DWS Flex\-start scheduling | 19\.2 |
-| L40S | L40S | Marketplace offer 57268008 | Texas, US | US | on\_demand | No fixed term | 0\.42888888888888893 |
+| A100 | A100 PCIE | Marketplace offer 32303766 | United Kingdom, GB | UK | on\_demand | No fixed term | 2\.002222222222222 |
+| H200 | H200 | p5en\.48xlarge | Europe \(London\) | UK | capacity\_block | Not stated | 63\.158 |
+| H100 | H100 SXM | Standard\_ND96is\_H100\_v5 | eastus | US | low\_priority | Interruptible, no fixed term | 17\.698 |
+| H200 | NVIDIA HGX H200 | NVIDIA HGX H200 | Europe | Regional | on\_demand | No fixed term | 50\.44 |
+| H200 | H200 | p5en\.48xlarge | US West \(Oregon\) | US | capacity\_block | Not stated | 63\.158 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

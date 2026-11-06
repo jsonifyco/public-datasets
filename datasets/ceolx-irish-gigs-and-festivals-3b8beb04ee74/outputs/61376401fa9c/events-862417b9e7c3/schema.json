@@ -1,0 +1,102 @@
+[
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "event_id",
+    "type": "text"
+  },
+  {
+    "name": "event_url",
+    "type": "text"
+  },
+  {
+    "name": "artist/headliner",
+    "type": "text"
+  },
+  {
+    "name": "event_name",
+    "type": "text"
+  },
+  {
+    "name": "venue",
+    "type": "text"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "county",
+    "type": "text"
+  },
+  {
+    "name": "date",
+    "type": "text"
+  },
+  {
+    "name": "doors_time",
+    "type": "text"
+  },
+  {
+    "name": "start_time",
+    "type": "text"
+  },
+  {
+    "name": "ticket_status",
+    "type": "text"
+  },
+  {
+    "name": "genre",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "listed_time",
+    "type": "text"
+  },
+  {
+    "name": "time_note",
+    "type": "text"
+  },
+  {
+    "name": "price_note",
+    "type": "text"
+  },
+  {
+    "name": "detail_status",
+    "type": "text"
+  },
+  {
+    "name": "price_min_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "price_max_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "support_acts",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_count",
+    "type": "integer"
+  },
+  {
+    "name": "source_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_observations",
+    "type": "jsonb"
+  },
+  {
+    "name": "conflicts",
+    "type": "jsonb"
+  }
+]

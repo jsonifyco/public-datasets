@@ -46,6 +46,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Agent Builder Pricing and Changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
 | [LLM API Pricing: Official Standard Text and Chat Model Rates](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |
 | [Wellness Practitioners in Lisbon, Porto, Barcelona and London](datasets/wellness-practitioners-across-cities-8fedaa1baebd/) | 200 | On demand | 2026-10-22T14:20:21.555858Z |
+| [Portugal Food and Drink Venues with Photos](datasets/portugal-food-and-drink-venues-with-photos-9943f1952c47/) | 12 | On demand | 2026-11-06T15:06:13.370601Z |
 | [Vancouver Tee Times and Golf Course Prices](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,897 | weekly | 2026-11-02T15:13:21.865652Z |
 | [AI Lab Research Feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |
 | [Supermarket Franchise Keyword and AI Prompt Volumes](datasets/supermarket-franchise-keyword-and-ai-prompt-volumes-a3f8157e871e/) | 16 | On demand | 2026-10-31T11:20:11.061198Z |

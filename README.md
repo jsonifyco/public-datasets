@@ -16,15 +16,20 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
 | [Coffee Capsule Prices in Portugal](datasets/coffee-capsule-shelf-pt-15625f7dd7ac/) | 1,178 | weekly | 2026-11-03T22:19:46.120672Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
+| [Brazilian Apartment Prices per m²](datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4/) | 60 | daily | 2026-11-06T19:57:38.211934Z |
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 2,487 | weekly | 2026-11-02T06:01:58.217204Z |
 | [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 2,168 | daily | 2026-11-06T06:01:36.268359Z |
 | [LlamaIndex Module Guides Articles](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Meta and TikTok Ad Intelligence Demo: Ads, Products, and Creative Signals](datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7/) | 12 | On demand | 2026-10-22T13:09:28.137275Z |
 | [Keyword Search Results and Page Summaries](datasets/keyword-search-and-url-summaries-3630558f97ed/) | 2 | On demand | 2026-10-29T11:31:03.092480Z |
+| [UK and Irish Horse Racing Odds](datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa/) | 2,552 | hourly | 2026-11-06T23:02:06.653928Z |
+| [Irish Gigs and Music Festivals](datasets/ceolx-irish-gigs-and-festivals-3b8beb04ee74/) | 108 | daily | 2026-11-06T20:47:22.401403Z |
 | [Datarade Dataset Catalog](datasets/datasets-for-sale-3fb2e8b82ab2/) | 14,054 | On demand | 2026-10-31T12:08:13.007880Z |
 | [Workflow Automation Pricing and Changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
+| [Travel eSIM Plans and Prices](datasets/aviso-travel-esim-price-tracker-4a8066232783/) | 81,205 | daily | 2026-11-06T22:02:14.570879Z |
 | [Law Firm Events](datasets/law-firm-events-4c408bd04e11/) | 84 | daily | 2026-11-06T09:07:41.328712Z |
+| [Lisbon and Porto Home Listings and Prices](datasets/habita-review-lisbon-and-porto-homes-4c9bbbd1ad17/) | 394 | daily | 2026-11-06T21:02:38.294938Z |
 | [Portugal Regulatory Radar](datasets/regulatory-radar-pt-54c83384de63/) | 72 | daily | 2026-11-06T06:49:48.488160Z |
 | [Portugal2030 Grant Notices](datasets/portugal2030-grants-59ddd491d0c8/) | 1,505 | weekly | 2026-11-04T17:20:23.274499Z |
 | [Streaming Subscription Prices by Country: Official Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 6,987 | weekly | 2026-11-03T15:01:38.353896Z |
@@ -39,6 +44,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [SEC Form D Filings Search: New Private Funding Rounds](datasets/sec-form-d-filings-6d5f1a7a0494/) | 1,266 | weekly | 2026-11-05T11:59:05.068703Z |
 | [FDA 510\(k\) Database: Clearance Decisions](datasets/fda-510-k-clearance-decisions-77a1978440d2/) | 3,217 | weekly | 2026-11-04T06:02:28.185864Z |
 | [Srixon Golf Ball Prices in France](datasets/srixon-golf-ball-prices-france-780021c9d370/) | 83 | weekly | 2026-11-02T09:55:20.949843Z |
+| [Last\-Minute Booking\.com Hotel Rates](datasets/241-travel-last-minute-booking-com-hotel-rates-8055aed53e5f/) | 240 | daily | 2026-11-06T19:29:43.333784Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Lisbon Coffee Brands at Street Venues](datasets/coffee-brand-on-the-street-lisbon-poc-823f5bfb06bb/) | 810 | On demand | 2026-11-04T02:32:30.185539Z |
 | [Georgia County Election Board Meetings, Motions and Votes](datasets/georgia-county-election-board-meetings-and-votes-886d693cbdab/) | 1,269 | On demand | 2026-11-02T11:10:55.955034Z |
@@ -55,12 +61,15 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Short Drama Apps: Catalogue, Charts and Coin Prices](datasets/short-drama-charts-and-catalogue-c3bee033d5c1/) | 110,261 | weekly | 2026-11-02T16:00:17.688087Z |
 | [TMview Class 36 Trademarks and Publicly Evidenced Company Websites](datasets/tmview-class-36-brands-and-websites-cabdb479e298/) | 10 | On demand | 2026-10-26T17:23:00.087271Z |
 | [Deliveroo, Uber Eats and Just Eat Menu Prices in London](datasets/london-delivery-app-venues-and-menus-d603c7022886/) | 3,395 | weekly | 2026-11-01T13:26:30.960098Z |
+| [European Sports Camps \| Topsportscamps](datasets/european-sports-camps-topsportscamps-sample-d629fc29f7f3/) | 197 | weekly | 2026-11-06T21:12:05.289398Z |
+| [Vitória Short\-Term Rental Rates](datasets/operent-vit-ria-nightly-rental-rates-daa743691e70/) | 960 | daily | 2026-11-06T22:28:17.786133Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |
 | [Calven Competitor Watch](datasets/calven-competitor-watch-dfd2d8d7f7fc/) | 27 | On demand | 2026-10-14T14:39:43.933603Z |
 | [Building Permit Data: 8 US Cities, Updated Weekly](datasets/us-building-permits-e1c447fbcc9c/) | 19,016 | weekly | 2026-11-06T08:00:12.203668Z |
 | [Agent Framework Releases](datasets/agent-framework-releases-e3721e6bea8a/) | 30 | On demand | 2026-10-14T12:00:31.586928Z |
 | [Leather Backpack Prices: Gusti Leder and Amazon](datasets/leather-backpack-prices-gusti-leder-shop-vs-amazon-de-fr-it-e57e10e2e1b5/) | 52 | weekly | 2026-11-02T10:35:13.486479Z |
 | [AI Hiring Radar](datasets/ai-hiring-radar-e7adb9b7e394/) | 75 | weekly | 2026-11-02T09:13:22.117189Z |
+| [Irish Wine and Spirits Price Tracker](datasets/clinks-irish-wine-and-spirits-price-tracker-ece8b068e56b/) | 944 | daily | 2026-11-06T21:44:39.961676Z |
 | [Weekly U\.S\. Diesel and Gas Price History](datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4/) | 2,120 | weekly | 2026-11-04T06:00:35.648158Z |
 | [UK Toothpaste Prices: Boots, Superdrug and Well Pharmacy](datasets/uk-pharmacy-personal-care-demo-ee43bffca794/) | 9 | On demand | 2026-10-26T12:35:41.997095Z |
 | [Amazon Product Reviews and Ratings Sample Dataset](datasets/multi-source-ecommerce-tracking-f31687d4dfcd/) | 3,012 | On demand | 2026-11-01T10:50:38.497991Z |

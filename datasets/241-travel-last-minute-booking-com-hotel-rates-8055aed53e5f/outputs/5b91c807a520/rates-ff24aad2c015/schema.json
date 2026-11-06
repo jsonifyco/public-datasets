@@ -1,0 +1,74 @@
+[
+  {
+    "name": "breakfast_included",
+    "type": "boolean"
+  },
+  {
+    "name": "check_in",
+    "type": "text"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "deal_discount_badge_text",
+    "type": "text"
+  },
+  {
+    "name": "district",
+    "type": "text"
+  },
+  {
+    "name": "free_cancellation",
+    "type": "boolean"
+  },
+  {
+    "name": "hotel_id",
+    "type": "text"
+  },
+  {
+    "name": "hotel_name",
+    "type": "text"
+  },
+  {
+    "name": "hotel_url",
+    "type": "text"
+  },
+  {
+    "name": "nights",
+    "type": "integer"
+  },
+  {
+    "name": "price_per_night",
+    "type": "double precision"
+  },
+  {
+    "name": "review_count",
+    "type": "integer"
+  },
+  {
+    "name": "review_score",
+    "type": "double precision"
+  },
+  {
+    "name": "room_type",
+    "type": "text"
+  },
+  {
+    "name": "stars",
+    "type": "integer"
+  },
+  {
+    "name": "total_price",
+    "type": "double precision"
+  }
+]

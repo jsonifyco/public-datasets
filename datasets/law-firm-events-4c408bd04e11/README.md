@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 82 event records\.
+Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 84 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-05T09:06:04.431073Z
+- Last published: 2026-11-06T09:07:41.328712Z
 
 ## The brief
 
-> I need this data: Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 82 event records\.
+> I need this data: Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 84 event records\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-82 total rows · 10 sampled · Output revision 3
-Published: 2026-11-05T09:06:04.431073Z · Producing pipeline version: 3
+84 total rows · 10 sampled · Output revision 4
+Published: 2026-11-06T09:07:41.328712Z · Producing pipeline version: 3
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | A 12\.ª Bienal de Jurisprudência, dedicada ao Direito da Família, reúne magistrados, advogados e académicos para analisar e discutir temas da área\. Francisca Robalo Cordeiro participa na mesa sobre Responsabilidades Parentais como apresentante de um caso jurídico\. | None | 2026\-10\-23 | 12\.ª Bienal de Jurisprudência | 09:30–13:30 \(sessão de Responsabilidades Parentais\) | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Francisca\-Robalo\-Cordeiro\-participa\-na\-12\-Bienal\-de\-Jurisprudencia/27177/](<https://www.mlgts.pt/pt/conhecimento/noticias/Francisca-Robalo-Cordeiro-participa-na-12-Bienal-de-Jurisprudencia/27177/>) | Morais Leitão |
-| None | Cerimónia institucional na sede da Uría Menéndez em Madrid para assinalar o 40\.º aniversário da assinatura do Tratado de Adesão de Espanha e Portugal às Comunidades Europeias, com uma conversa e um colóquio sobre a integração europeia e o impacto do Direito da União\. | None | 2025\-06\-04 | A Uría Menéndez assinala o 40\.º aniversário da assinatura do Tratado de Adesão de Espanha e Portugal à União Europeia | None | [https://www\.uria\.com/pt/prensa/1403\-uria\-menendez\-conmemora\-el\-40\-aniversario\-de\-la\-firma\-del\-tratado\-de\-adhesion\-de\-espana\-y\-portugal\-a\-la\-union\-europea](<https://www.uria.com/pt/prensa/1403-uria-menendez-conmemora-el-40-aniversario-de-la-firma-del-tratado-de-adhesion-de-espana-y-portugal-a-la-union-europea>) | Uría Menéndez |
-| None | Primeira edição do Africa Day, com uma mesa\-redonda sobre o papel de África no contexto geopolítico, oportunidades de investimento e Portugal como plataforma para investir em África, seguida de networking e partilha de ideias\. | None | 2026\-05\-25 | Africa Day na PLMJ | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Africa\-Day\-na\-PLMJ/34526/](<https://www.plmj.com/pt/conhecimento/eventos/Africa-Day-na-PLMJ/34526/>) | PLMJ |
-| None | Primeira edição do Public Law Summit, com sessões temáticas e mesas\-redondas sobre transformações legislativas e institucionais no Direito Público\. Pedro Costa Gonçalves participa numa sessão sobre o primado do direito da União Europeia e os desafios da futura transposição da nova regulamentação europeia dos contratos públicos\. | None | 2026\-10\-23 | Public Law Summit | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Pedro\-Costa\-Goncalves\-participa\-no\-Public\-Law\-Summit\-2026/27162/](<https://www.mlgts.pt/pt/conhecimento/noticias/Pedro-Costa-Goncalves-participa-no-Public-Law-Summit-2026/27162/>) | Morais Leitão |
-| None | Filipe Vasconcelos Fernandes will participate in the conference and join a panel discussion on the Iberian energy transition\. The conference will address energy and geopolitical challenges, electrification, security of supply, and the transformation of the electricity system\. | None | 2026\-10\-21 | ELECPOR Full Power 2026 Conference | None | [https://www\.vda\.pt/en/media/events/elecpor\-full\-power\-2026\-conference/28835/](<https://www.vda.pt/en/media/events/elecpor-full-power-2026-conference/28835/>) | VdA |
+| None | Conferência sobre as prioridades, financiamento, desafios jurídicos e riscos associados ao PTRR, com a participação do Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, e moderação do Diretor do ECO, António Costa\. | 2026\-05\-18 | 2026\-05\-18 | PTRR: Um novo ciclo de investimento | 14h30–16h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/ptrr\-um\-novo\-ciclo\-de\-investimento/](<https://abreuadvogados.com/conhecimento/eventos/abreu/ptrr-um-novo-ciclo-de-investimento/>) | Abreu Advogados |
+| None | A apresentação dos resultados do Índice Imobiliário Anual MSCI Portugal 2025 reúne intervenientes do setor para analisar a evolução do mercado imobiliário português e as tendências de investimento e rentabilidade\. | None | 2026\-04\-22 | Apresentação dos resultados do índice imobiliário anual MSCI Portugal 2025 | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Apresentacao\-dos\-resultados\-do\-indice\-imobiliario\-anual\-MSCI\-Portugal\-2025/34442/](<https://www.plmj.com/pt/conhecimento/eventos/Apresentacao-dos-resultados-do-indice-imobiliario-anual-MSCI-Portugal-2025/34442/>) | PLMJ |
+| None | Sesión sobre las actuaciones de la Inspección de Trabajo y Seguridad Social en Cataluña durante 2026 y las previsiones para 2027, con especial atención a novedades como la transparencia, los planes de movilidad sostenible y las actuaciones ante fenómenos meteorológicos adversos\. | None | 2026\-11\-19 | Balance 2026 y perspectivas 2027 de la Inspección de Trabajo y Seguridad Social en Cataluña | 09:15–11:00 | [https://www\.garrigues\.com/es\_ES/eventos/balance\-2026\-perspectivas\-2027\-inspeccion\-trabajo\-seguridad\-social\-cataluna](<https://www.garrigues.com/es_ES/eventos/balance-2026-perspectivas-2027-inspeccion-trabajo-seguridad-social-cataluna>) | Garrigues |
+| None | Seminário promovido pela Abreu Advogados no âmbito do 5\.º aniversário da APERA, em parceria com o ECO, para debater desafios e soluções relacionados com aterros de resíduos não urbanos, incluindo capacidade, custos, licenciamento e financiamento\. | None | 2026\-06\-02 | Seminário 5 anos da APERA \| Aterros de Resíduos Não Urbanos, Indústria e Construção: que futuro? | 10:00 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/5\-o\-seminario\-apera\-aterros\-de\-residuos\-nao\-urbanos\-industria\-e\-construcao\-que\-futuro/](<https://abreuadvogados.com/conhecimento/eventos/abreu/5-o-seminario-apera-aterros-de-residuos-nao-urbanos-industria-e-construcao-que-futuro/>) | Abreu Advogados |
+| None | Jornada práctica de actualización fiscal para preparar el cierre del ejercicio 2026, con un repaso de criterios administrativos y jurisprudenciales, novedades legislativas tributarias e iniciativas en tramitación, además de cuestiones relevantes en procesos de comprobación tributaria\. | None | 2026\-11\-26 | Actualización fiscal para la empresa en 2026 | 09:30–14:00 | [https://www\.garrigues\.com/es\_ES/eventos/actualizacion\-fiscal\-empresa\-2026](<https://www.garrigues.com/es_ES/eventos/actualizacion-fiscal-empresa-2026>) | Garrigues |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

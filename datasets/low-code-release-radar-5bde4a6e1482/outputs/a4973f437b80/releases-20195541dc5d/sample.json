@@ -1,23 +1,8 @@
 [
   {
-    "checked_at": "2026-11-05T08:00:19.650824+00:00",
-    "published_at": "2026-10-19T08:09:46Z",
-    "release_age_days": 16,
-    "release_id": "417045683",
-    "release_name": "v3.50.0",
-    "release_notes": "## What's Changed\n* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",
-    "release_url": "https://github.com/Budibase/budibase/releases/tag/v3.50.0",
-    "repository": "Budibase/budibase",
-    "repository_url": "https://github.com/Budibase/budibase",
-    "source_url": "https://api.github.com/repos/Budibase/budibase/releases/latest",
-    "tool": "Budibase",
-    "use_case": "Low-code business apps and operational workflows",
-    "version": "v3.50.0"
-  },
-  {
-    "checked_at": "2026-11-05T08:00:19.550941+00:00",
+    "checked_at": "2026-11-06T08:00:21.765615+00:00",
     "published_at": "2026-11-04T13:10:07Z",
-    "release_age_days": 0,
+    "release_age_days": 1,
     "release_id": "433939743",
     "release_name": "n8n@2.46.6",
     "release_notes": "## [2.46.6](https://github.com/n8n-io/n8n/compare/n8n@2.46.5...n8n@2.46.6) (2026-11-04)\n\n\n### Bug Fix…",
@@ -30,9 +15,9 @@
     "version": "n8n@2.46.6"
   },
   {
-    "checked_at": "2026-11-05T08:00:19.475925+00:00",
+    "checked_at": "2026-11-06T08:00:21.643819+00:00",
     "published_at": "2026-10-28T18:10:23Z",
-    "release_age_days": 7,
+    "release_age_days": 8,
     "release_id": "419376922",
     "release_name": "Release v2.6.0 🌈",
     "release_notes": "## ⚠️ For EE users, before upgrading to v2.6.0 finish existing Temporal workflow runs on v2.5.1\r\n\r\nAp…",
@@ -43,5 +28,20 @@
     "tool": "Appsmith",
     "use_case": "Internal tools, admin panels and database frontends",
     "version": "v2.6.0"
+  },
+  {
+    "checked_at": "2026-11-06T08:00:21.565417+00:00",
+    "published_at": "2026-10-19T08:09:46Z",
+    "release_age_days": 17,
+    "release_id": "417045683",
+    "release_name": "v3.50.0",
+    "release_notes": "## What's Changed\n* Bump uuid from 8.3.2 to 14.0.0 by @dependabot[bot] in https://github.com/Budibase…",
+    "release_url": "https://github.com/Budibase/budibase/releases/tag/v3.50.0",
+    "repository": "Budibase/budibase",
+    "repository_url": "https://github.com/Budibase/budibase",
+    "source_url": "https://api.github.com/repos/Budibase/budibase/releases/latest",
+    "tool": "Budibase",
+    "use_case": "Low-code business apps and operational workflows",
+    "version": "v3.50.0"
   }
 ]

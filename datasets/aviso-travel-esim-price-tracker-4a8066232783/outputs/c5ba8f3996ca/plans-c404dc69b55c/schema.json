@@ -1,0 +1,58 @@
+[
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "coverage_type",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "data_gb",
+    "type": "double precision"
+  },
+  {
+    "name": "destination_country_iso2",
+    "type": "text"
+  },
+  {
+    "name": "destination_country_name",
+    "type": "text"
+  },
+  {
+    "name": "network_speed_notes",
+    "type": "text"
+  },
+  {
+    "name": "plan_name",
+    "type": "text"
+  },
+  {
+    "name": "plan_url",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "price_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "provider",
+    "type": "text"
+  },
+  {
+    "name": "unlimited",
+    "type": "boolean"
+  },
+  {
+    "name": "validity_days",
+    "type": "integer"
+  }
+]

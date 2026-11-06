@@ -1,0 +1,66 @@
+[
+  {
+    "name": "bookmaker",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "course",
+    "type": "text"
+  },
+  {
+    "name": "each_way_terms",
+    "type": "text"
+  },
+  {
+    "name": "jockey",
+    "type": "text"
+  },
+  {
+    "name": "phase_basis",
+    "type": "text"
+  },
+  {
+    "name": "price_phase",
+    "type": "text"
+  },
+  {
+    "name": "race_date",
+    "type": "text"
+  },
+  {
+    "name": "race_name",
+    "type": "text"
+  },
+  {
+    "name": "race_time",
+    "type": "text"
+  },
+  {
+    "name": "runner_name",
+    "type": "text"
+  },
+  {
+    "name": "runner_number",
+    "type": "text"
+  },
+  {
+    "name": "trainer",
+    "type": "text"
+  },
+  {
+    "name": "win_odds_decimal",
+    "type": "text"
+  },
+  {
+    "name": "win_odds_fractional",
+    "type": "text"
+  }
+]

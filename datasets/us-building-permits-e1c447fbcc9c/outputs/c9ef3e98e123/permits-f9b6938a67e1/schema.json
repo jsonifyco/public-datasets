@@ -4,15 +4,15 @@
     "type": "text"
   },
   {
-    "name": "application_start_date",
-    "type": "text"
-  },
-  {
     "name": "city",
     "type": "text"
   },
   {
-    "name": "community_area",
+    "name": "contractor_business_name",
+    "type": "text"
+  },
+  {
+    "name": "housing_units",
     "type": "bigint"
   },
   {
@@ -28,6 +28,10 @@
     "type": "double precision"
   },
   {
+    "name": "new_construction",
+    "type": "boolean"
+  },
+  {
     "name": "permit_number",
     "type": "text"
   },
@@ -40,19 +44,11 @@
     "type": "text"
   },
   {
-    "name": "processing_time_days",
-    "type": "bigint"
-  },
-  {
-    "name": "reported_cost_usd",
+    "name": "project_value_usd",
     "type": "double precision"
   },
   {
-    "name": "residential_unit_change",
-    "type": "text"
-  },
-  {
-    "name": "review_type",
+    "name": "source_name",
     "type": "text"
   },
   {
@@ -60,12 +56,8 @@
     "type": "text"
   },
   {
-    "name": "total_fee_usd",
-    "type": "double precision"
-  },
-  {
-    "name": "ward",
-    "type": "bigint"
+    "name": "state",
+    "type": "text"
   },
   {
     "name": "work_description",
@@ -73,6 +65,10 @@
   },
   {
     "name": "work_type",
+    "type": "text"
+  },
+  {
+    "name": "zip_code",
     "type": "text"
   }
 ]

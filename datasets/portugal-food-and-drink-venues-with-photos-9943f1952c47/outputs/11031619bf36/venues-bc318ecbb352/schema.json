@@ -1,0 +1,154 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "amenities",
+    "type": "jsonb"
+  },
+  {
+    "name": "categories",
+    "type": "jsonb"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "collected_review_count",
+    "type": "bigint"
+  },
+  {
+    "name": "collection_area",
+    "type": "text"
+  },
+  {
+    "name": "credit_cards_accepted",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "first_collected_at",
+    "type": "text"
+  },
+  {
+    "name": "geographic_coverage_complete",
+    "type": "boolean"
+  },
+  {
+    "name": "google_maps_url",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "normalized_category",
+    "type": "text"
+  },
+  {
+    "name": "normalized_name",
+    "type": "text"
+  },
+  {
+    "name": "open_state",
+    "type": "text"
+  },
+  {
+    "name": "opening_hours",
+    "type": "jsonb"
+  },
+  {
+    "name": "phone",
+    "type": "text"
+  },
+  {
+    "name": "photo_collection_status",
+    "type": "text"
+  },
+  {
+    "name": "photo_count",
+    "type": "bigint"
+  },
+  {
+    "name": "photo_coverage_complete",
+    "type": "boolean"
+  },
+  {
+    "name": "photos",
+    "type": "jsonb"
+  },
+  {
+    "name": "price_range",
+    "type": "text"
+  },
+  {
+    "name": "primary_category",
+    "type": "text"
+  },
+  {
+    "name": "review_collection_status",
+    "type": "text"
+  },
+  {
+    "name": "review_count",
+    "type": "bigint"
+  },
+  {
+    "name": "review_coverage_complete",
+    "type": "boolean"
+  },
+  {
+    "name": "review_media",
+    "type": "jsonb"
+  },
+  {
+    "name": "review_rating",
+    "type": "text"
+  },
+  {
+    "name": "reviews",
+    "type": "jsonb"
+  },
+  {
+    "name": "reviews_collected_at",
+    "type": "text"
+  },
+  {
+    "name": "reviews_link",
+    "type": "text"
+  },
+  {
+    "name": "service_links",
+    "type": "jsonb"
+  },
+  {
+    "name": "timezone",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "venue_id",
+    "type": "text"
+  },
+  {
+    "name": "videos",
+    "type": "jsonb"
+  },
+  {
+    "name": "website",
+    "type": "text"
+  }
+]

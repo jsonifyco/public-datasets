@@ -1,0 +1,94 @@
+[
+  {
+    "name": "neighbourhood",
+    "type": "text"
+  },
+  {
+    "name": "address_text",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "area_total_m2",
+    "type": "text"
+  },
+  {
+    "name": "bedrooms",
+    "type": "double precision"
+  },
+  {
+    "name": "bathrooms",
+    "type": "double precision"
+  },
+  {
+    "name": "parking_spaces",
+    "type": "double precision"
+  },
+  {
+    "name": "condo_fee_brl",
+    "type": "double precision"
+  },
+  {
+    "name": "iptu_brl",
+    "type": "double precision"
+  },
+  {
+    "name": "advertiser_type",
+    "type": "text"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "updated_at",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "property_type",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "price_brl",
+    "type": "double precision"
+  },
+  {
+    "name": "area_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "area_useful_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "price_per_m2",
+    "type": "double precision"
+  }
+]

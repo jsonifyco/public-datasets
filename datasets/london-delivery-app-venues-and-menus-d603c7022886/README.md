@@ -7,7 +7,7 @@ Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 3
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 26
+- Active pipeline version: 30
 - Last published: 2026-11-01T13:26:30.960098Z
 
 ## The brief
@@ -236,6 +236,10 @@ flowchart LR
 - 2026-11-05T22:59:25.603583Z: v24: Explicitly disabled Deliveroo menus containing only add\-ons are kept in the unavailable\-listings table\. Closed restaurants with usable dishes remain included\.
 - 2026-11-05T23:39:57.132162Z: v25: Uber menus now collect successfully when optional restaurant categories are blank\.
 - 2026-11-06T09:17:30.982104Z: v26: Uber listings explicitly reporting every item out of stock are retained separately while other menus continue\.
+- 2026-11-06T09:27:21.004964Z: v27: Menus retain usable dishes and available choices when Deliveroo omits a nested customization definition, with missing details flagged for review\.
+- 2026-11-06T09:38:09.322034Z: v28: Listings with conflicting London locations are retained separately for review, including their returned menus, so collection can continue\.
+- 2026-11-06T13:40:59.605506Z: v29: Record Deliveroo menus containing only unavailable add\-on choices separately for the final review, while continuing usable menus\.
+- 2026-11-06T15:29:35.315098Z: v30: Keep menus confirmed empty in both delivery and pickup separately for the final review, allowing other venues to continue\. Preserve usable menus even when the restaurant is closed\.
 
 ## Recorded repairs
 

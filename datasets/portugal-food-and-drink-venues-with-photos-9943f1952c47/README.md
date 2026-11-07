@@ -7,7 +7,7 @@ Food and drink venue listings from Google Maps, with venue details and photo\-re
 [Get the full dataset for free](https://www.jsonify.com/datasets/portugal-food-and-drink-venues-with-photos-9943f1952c47?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 6
+- Active pipeline version: 9
 - Last published: 2026-11-06T15:06:13.370601Z
 
 ## The brief
@@ -154,6 +154,9 @@ flowchart LR
 - 2026-11-06T14:15:03.935046Z: v4: Added photos attached to public reviews, numeric latitude and longitude, and normalized venue names and categories\.
 - 2026-11-06T15:03:29.118536Z: v5: Categories are now a simple list of values, with the primary category in its own field\.
 - 2026-11-06T16:57:02.218400Z: v6: Collect across Lisbon with adaptive searches, expanded reviews and original\-size listing photos\. Record and skip individual venue failures throughout normalization and enrichment\.
+- 2026-11-07T10:39:04.379970Z: v7: Added bounded recovery for temporary search\-page failures while preserving saved progress\.
+- 2026-11-07T11:20:58.119310Z: v8: Fixed recovery when a search results panel disappears while scrolling\. Finished searches remain saved and the same search gets bounded retries\.
+- 2026-11-07T13:11:54.983923Z: v9: Uses the alternative browser connection verified on interrupted Maps searches, with bounded fallback if a search fails\. Completed searches remain available for resuming\.
 
 ## Recorded repairs
 

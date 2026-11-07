@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-UK and Irish horse racing odds data\. The published odds table contains 2,552 rows, with fields describing races, runners, bookmakers, prices and collection times\.
+UK and Irish horse racing odds data\. The published odds table contains 6,296 rows, with fields describing races, runners, bookmakers, prices and collection times\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa?action=get) — CSV or JSON · Email required
 
 - Refresh: hourly
-- Active pipeline version: 2
-- Last published: 2026-11-06T23:02:06.653928Z
+- Active pipeline version: 3
+- Last published: 2026-11-07T09:19:58.519336Z
 
 ## The brief
 
-> I need this data: UK and Irish horse racing odds data\. The published odds table contains 2,552 rows, with fields describing races, runners, bookmakers, prices and collection times\.
+> I need this data: UK and Irish horse racing odds data\. The published odds table contains 6,296 rows, with fields describing races, runners, bookmakers, prices and collection times\.
 
 Summary from the public dataset description.
 
 ## Dilantix Horse Racing Odds / odds
 
-2,552 total rows · 50 sampled · Output revision 5
-Published: 2026-11-06T23:02:06.653928Z · Producing pipeline version: 2
+6,296 total rows · 50 sampled · Output revision 6
+Published: 2026-11-07T09:19:58.519336Z · Producing pipeline version: 3
 
 [CSV sample](outputs/eb5416d66779/odds-1fd5faa9b5cf/sample.csv) · [JSON sample](outputs/eb5416d66779/odds-1fd5faa9b5cf/sample.json) · [Schema](outputs/eb5416d66779/odds-1fd5faa9b5cf/schema.json)
 
 | bookmaker | collected\_at | country | course | each\_way\_terms | jockey | phase\_basis | price\_phase |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bet365 | 2026\-11\-06T18:44:52\.400899\+00:00 | UK | Hexham | 1/5 odds, 3 places | Gregor Walkingshaw \(8\) | historical\_scheduled\_time\_only; source\_result\_not\_recorded | started\_or\_closed |
-| Paddy Power | 2026\-11\-06T18:44:52\.400899\+00:00 | UK | Hexham | 1/4 odds, 2 places | Gregor Walkingshaw \(8\) | historical\_scheduled\_time\_only; source\_result\_not\_recorded | started\_or\_closed |
-| William Hill | 2026\-11\-06T18:44:52\.400899\+00:00 | UK | Hexham | 1/4 odds, 2 places | Gregor Walkingshaw \(8\) | historical\_scheduled\_time\_only; source\_result\_not\_recorded | started\_or\_closed |
-| Betfair Sportsbook | 2026\-11\-06T18:44:52\.400899\+00:00 | UK | Hexham | 1/4 odds, 2 places | Gregor Walkingshaw \(8\) | historical\_scheduled\_time\_only; source\_result\_not\_recorded | started\_or\_closed |
-| Sky Bet | 2026\-11\-06T18:44:52\.400899\+00:00 | UK | Hexham | 1/5 odds, 3 places | Gregor Walkingshaw \(8\) | historical\_scheduled\_time\_only; source\_result\_not\_recorded | started\_or\_closed |
+| Coral | 2026\-11\-07T09:19:44\.451221\+00:00 | UK | Southwell | 1/5 odds, 3 places | H Crouch | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
+| Bet365 | 2026\-11\-07T09:19:53\.802730\+00:00 | UK | Southwell | 1/5 odds, 4 places | Daniel Muscutt | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
+| William Hill | 2026\-11\-07T09:19:08\.537108\+00:00 | UK | Doncaster | 1/5 odds, 5 places | Rossa Ryan | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
+| Paddy Power | 2026\-11\-07T09:19:50\.777456\+00:00 | UK | Southwell | 1/5 odds, 4 places | Oliver Carmichael \(7\) | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
+| Bet365 | 2026\-11\-07T09:19:26\.856002\+00:00 | UK | Uttoxeter | 1/5 odds, 3 places | S Bowen | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -73,10 +73,12 @@ flowchart LR
 
 - 2026-11-06T18:44:18.991626Z: v1: Added daily UK and Irish runner odds across the eight requested sportsbooks using Oddschecker fallback, with jockey, trainer, each\-way terms and timestamped history\.
 - 2026-11-06T20:20:21.089750Z: v2: Added explicit price\-phase flags and hourly collection within the racing day\. Manual after\-hours snapshots remain available without changing scheduled defaults\.
+- 2026-11-07T09:18:49.254691Z: v3: Repeated links to the same race no longer stop the odds update\. Conflicting race details still stop collection for checking\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-07T09:16:28.327425Z: no change
+- 2026-11-07T09:18:58.521830Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa?action=get) — CSV or JSON · Email required
 

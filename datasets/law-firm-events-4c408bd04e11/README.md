@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 84 event records\.
+Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 86 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-06T09:07:41.328712Z
+- Last published: 2026-11-07T09:12:39.719394Z
 
 ## The brief
 
-> I need this data: Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 84 event records\.
+> I need this data: Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 86 event records\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-84 total rows · 10 sampled · Output revision 4
-Published: 2026-11-06T09:07:41.328712Z · Producing pipeline version: 3
+86 total rows · 10 sampled · Output revision 5
+Published: 2026-11-07T09:12:39.719394Z · Producing pipeline version: 3
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Conferência sobre as prioridades, financiamento, desafios jurídicos e riscos associados ao PTRR, com a participação do Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, e moderação do Diretor do ECO, António Costa\. | 2026\-05\-18 | 2026\-05\-18 | PTRR: Um novo ciclo de investimento | 14h30–16h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/ptrr\-um\-novo\-ciclo\-de\-investimento/](<https://abreuadvogados.com/conhecimento/eventos/abreu/ptrr-um-novo-ciclo-de-investimento/>) | Abreu Advogados |
-| None | A apresentação dos resultados do Índice Imobiliário Anual MSCI Portugal 2025 reúne intervenientes do setor para analisar a evolução do mercado imobiliário português e as tendências de investimento e rentabilidade\. | None | 2026\-04\-22 | Apresentação dos resultados do índice imobiliário anual MSCI Portugal 2025 | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Apresentacao\-dos\-resultados\-do\-indice\-imobiliario\-anual\-MSCI\-Portugal\-2025/34442/](<https://www.plmj.com/pt/conhecimento/eventos/Apresentacao-dos-resultados-do-indice-imobiliario-anual-MSCI-Portugal-2025/34442/>) | PLMJ |
-| None | Sesión sobre las actuaciones de la Inspección de Trabajo y Seguridad Social en Cataluña durante 2026 y las previsiones para 2027, con especial atención a novedades como la transparencia, los planes de movilidad sostenible y las actuaciones ante fenómenos meteorológicos adversos\. | None | 2026\-11\-19 | Balance 2026 y perspectivas 2027 de la Inspección de Trabajo y Seguridad Social en Cataluña | 09:15–11:00 | [https://www\.garrigues\.com/es\_ES/eventos/balance\-2026\-perspectivas\-2027\-inspeccion\-trabajo\-seguridad\-social\-cataluna](<https://www.garrigues.com/es_ES/eventos/balance-2026-perspectivas-2027-inspeccion-trabajo-seguridad-social-cataluna>) | Garrigues |
-| None | Seminário promovido pela Abreu Advogados no âmbito do 5\.º aniversário da APERA, em parceria com o ECO, para debater desafios e soluções relacionados com aterros de resíduos não urbanos, incluindo capacidade, custos, licenciamento e financiamento\. | None | 2026\-06\-02 | Seminário 5 anos da APERA \| Aterros de Resíduos Não Urbanos, Indústria e Construção: que futuro? | 10:00 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/5\-o\-seminario\-apera\-aterros\-de\-residuos\-nao\-urbanos\-industria\-e\-construcao\-que\-futuro/](<https://abreuadvogados.com/conhecimento/eventos/abreu/5-o-seminario-apera-aterros-de-residuos-nao-urbanos-industria-e-construcao-que-futuro/>) | Abreu Advogados |
-| None | Jornada práctica de actualización fiscal para preparar el cierre del ejercicio 2026, con un repaso de criterios administrativos y jurisprudenciales, novedades legislativas tributarias e iniciativas en tramitación, además de cuestiones relevantes en procesos de comprobación tributaria\. | None | 2026\-11\-26 | Actualización fiscal para la empresa en 2026 | 09:30–14:00 | [https://www\.garrigues\.com/es\_ES/eventos/actualizacion\-fiscal\-empresa\-2026](<https://www.garrigues.com/es_ES/eventos/actualizacion-fiscal-empresa-2026>) | Garrigues |
+| None | Sessão de cinema com a exibição de A Grande Ambição, filme de Andrea Segre, integrada num ciclo com curadoria especial da RISIFilm\. | None | 2026\-02\-02 | Ciclo de cinema na PLMJ \| A Grande Ambição | 19:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Ciclo\-de\-cinema\-na\-PLMJ\-A\-Grande\-Ambicao/34269/](<https://www.plmj.com/pt/conhecimento/eventos/Ciclo-de-cinema-na-PLMJ-A-Grande-Ambicao/34269/>) | PLMJ |
+| None | A specialisation course on artificial intelligence and human rights, covering legal, ethical and regulatory issues\. VdA lawyers Magda Cocco and Iakovina Kindylidi deliver a session titled “AI: Challenges for the Legal Profession”\. The course concludes with a hybrid session at the University of Coimbra\. | 2026\-11\-05 | 2026\-10\-01 | Specialisation Course – Artificial Intelligence and Human Rights: Justice, Technology, Health and Ethics | None | [https://www\.vda\.pt/en/media/events/vda\-participates\-in\-specialisation\-course\-on\-artificial\-intelligence\-and\-human\-rights/28828/](<https://www.vda.pt/en/media/events/vda-participates-in-specialisation-course-on-artificial-intelligence-and-human-rights/28828/>) | VdA |
+| None | Encontro que reúne especialistas de Portugal e do Brasil para debater desafios da arbitragem, com foco na produção de prova documental, prova ilícita e sigilo profissional\. | 2026\-07\-01 | 2026\-07\-01 | Encontro de Arbitragem Portugal/Brasil | 16:30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/encontro\-de\-arbitragem\-portugal\-brasil/](<https://abreuadvogados.com/conhecimento/eventos/abreu/encontro-de-arbitragem-portugal-brasil/>) | Abreu Advogados |
+| None | Conferência dedicada às principais alterações legislativas e desafios nas relações laborais e na gestão de Recursos Humanos\. Isabel Valente Dias participa na 2\.ª edição\. | None | 2026\-11\-03 | 2\.ª edição do Labour Law Day | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Isabel\-Valente\-Dias\-participa\-na\-2\-edicao\-do\-Labour\-Law\-Day/27190/](<https://www.mlgts.pt/pt/conhecimento/noticias/Isabel-Valente-Dias-participa-na-2-edicao-do-Labour-Law-Day/27190/>) | Morais Leitão |
+| None | Painel sobre os limites da autonomia dos agentes de inteligência artificial, governance, responsabilização e supervisão, com participação de Magda Viçoso, sócia da Morais Leitão, e outros especialistas\. O painel integra o Portugal Digital Summit 2026, que decorre nos dias 21 e 22 de outubro\. | None | 2026\-10\-21 | Human ↔ Agent: Where do you draw the line? | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Magda\-Vicoso\-debate\-os\-limites\-da\-autonomia\-dos\-AI\-Agents\-no\-Portugal\-Digital\-Summit\-2026/27173/](<https://www.mlgts.pt/pt/conhecimento/noticias/Magda-Vicoso-debate-os-limites-da-autonomia-dos-AI-Agents-no-Portugal-Digital-Summit-2026/27173/>) | Morais Leitão |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

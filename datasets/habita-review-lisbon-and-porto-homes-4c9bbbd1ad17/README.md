@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Residential listings for rent and sale in Lisbon and Porto, with prices, property details, address text and observation timestamps\. The published dataset contains 394 listing observations\.
+Residential listings for rent and sale in Lisbon and Porto, with prices, property details, address text and observation timestamps\. The published dataset contains 753 listing observations\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/habita-review-lisbon-and-porto-homes-4c9bbbd1ad17?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-06T21:02:38.294938Z
+- Last published: 2026-11-07T08:11:51.764298Z
 
 ## The brief
 
-> I need this data: Residential listings for rent and sale in Lisbon and Porto, with prices, property details, address text and observation timestamps\. The published dataset contains 394 listing observations\.
+> I need this data: Residential listings for rent and sale in Lisbon and Porto, with prices, property details, address text and observation timestamps\. The published dataset contains 753 listing observations\.
 
 Summary from the public dataset description.
 
 ## Habita Review residential listings / observations
 
-394 total rows · 50 sampled · Output revision 2
-Published: 2026-11-06T21:02:38.294938Z · Producing pipeline version: 3
+753 total rows · 50 sampled · Output revision 3
+Published: 2026-11-07T08:11:51.764298Z · Producing pipeline version: 3
 
 [CSV sample](outputs/945895408abe/observations-bfc5a6b45b6a/sample.csv) · [JSON sample](outputs/945895408abe/observations-bfc5a6b45b6a/sample.json) · [Schema](outputs/945895408abe/observations-bfc5a6b45b6a/schema.json)
 

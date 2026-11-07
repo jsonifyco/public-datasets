@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Travel eSIM plan and price data for Airalo, Holafly, Nomad and Saily, with destination, data allowance, validity and coverage details\. The published dataset contains 81,205 rows\.
+Public retail travel eSIM plan and price data for Airalo, Holafly, Nomad and Saily, with destination, data allowance, validity and coverage details\. The published dataset contains 81,066 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/aviso-travel-esim-price-tracker-4a8066232783?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 8
-- Last published: 2026-11-06T22:02:14.570879Z
+- Last published: 2026-11-07T06:36:39.348581Z
 
 ## The brief
 
-> I need this data: Travel eSIM plan and price data for Airalo, Holafly, Nomad and Saily, with destination, data allowance, validity and coverage details\. The published dataset contains 81,205 rows\.
+> I need this data: Public retail travel eSIM plan and price data for Airalo, Holafly, Nomad and Saily, with destination, data allowance, validity and coverage details\. The published dataset contains 81,066 rows\.
 
 Summary from the public dataset description.
 
 ## Travel eSIM plans and prices / plans
 
-81,205 total rows · 50 sampled · Output revision 1
-Published: 2026-11-06T22:02:14.570879Z · Producing pipeline version: 8
+81,066 total rows · 50 sampled · Output revision 2
+Published: 2026-11-07T06:36:39.348581Z · Producing pipeline version: 8
 
 [CSV sample](outputs/c5ba8f3996ca/plans-c404dc69b55c/sample.csv) · [JSON sample](outputs/c5ba8f3996ca/plans-c404dc69b55c/sample.json) · [Schema](outputs/c5ba8f3996ca/plans-c404dc69b55c/schema.json)
 
 | collected\_at | coverage\_type | currency | data\_gb | destination\_country\_iso2 | destination\_country\_name | network\_speed\_notes | plan\_name |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-06T20:57:47\.668976\+00:00 | regional | EUR | 1 | CL | Chile | None | Latamlink · 1 GB \- 3 days |
-| 2026\-11\-06T20:55:24\.709835\+00:00 | global | EUR | None | NG | Nigeria | Restrictions apply to extended usage\(over 91 days\) in Turkey according to the local legislation\.; Lower speed rate of 1 Mbps after 3 GB usage per day\.; Data\-only global eSIM\.; Rechargeable online with no expiry\. | Discover · Unlimited \- 10 days |
-| 2026\-11\-06T21:39:33\.619048\+00:00 | country | USD | None | PT | Portugal | eSIM Details Coverage Unlimited data Fast and reliable internet No more roaming charges Alway… | Lisbon · unlimited · 30 days |
-| 2026\-11\-06T21:39:46\.706629\+00:00 | country | USD | None | AR | Argentina | eSIM Details Coverage Unlimited data Fast and reliable internet No more roaming charges Alway… | Mar del Plata · unlimited · 56 days |
-| 2026\-11\-06T21:39:06\.573827\+00:00 | country | USD | None | TH | Thailand | eSIM Details Coverage Unlimited data Fast and reliable internet No more roaming charges Alway… | Koh Samui · unlimited · 33 days |
+| 2026\-11\-07T06:29:10\.865129\+00:00 | regional | EUR | 3 | CD | Congo, The Democratic Republic of the | 4G Data\-only eSIM\.; Rechargeable online\. | Hello Africa · 3 GB \- 7 days |
+| 2026\-11\-07T06:32:59\.389614\+00:00 | country | USD | 20 | NZ | New Zealand | 4G; Spark 4G | Local New Zealand \- 30 Days \- 20 GB |
+| 2026\-11\-07T06:28:50\.196974\+00:00 | regional | USD | None | LT | Lithuania | eSIM Details Coverage Unlimited data Fast and reliable internet No more roaming charges Alway… | Europe · unlimited · 7 days |
+| 2026\-11\-07T06:28:53\.981586\+00:00 | global | EUR | 20 | AI | Anguilla | This eSIM includes a \+1 \(US\-based\) phone number for global use\. Call forwarding and voicemail are not supported\. Restrictions apply to extended usage\(over 91 days\) in Turkey per local regulations\.; Data, voice &amp; text global eSIM\.; Rechargeable online with no expiry\. | Discover\+ · 20 GB \- 200 SMS \- 200 Mins \- 365 days |
+| 2026\-11\-07T06:29:26\.508416\+00:00 | country | EUR | 5 | AU | Australia | Speed: Get fast 4G/LTE and 5G on the Optus network, with speeds varying by location and coverage\.; Network: Optus — one of Australia’s largest and most reliable mobile networks\. | Australia · 5 GB · 30 days |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

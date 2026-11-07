@@ -1,0 +1,150 @@
+[
+  {
+    "name": "ad_label",
+    "type": "text"
+  },
+  {
+    "name": "ad_text",
+    "type": "text"
+  },
+  {
+    "name": "channel_id",
+    "type": "text"
+  },
+  {
+    "name": "channel_title",
+    "type": "text"
+  },
+  {
+    "name": "coverage_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "duration",
+    "type": "text"
+  },
+  {
+    "name": "duration_seconds",
+    "type": "integer"
+  },
+  {
+    "name": "failure_note",
+    "type": "text"
+  },
+  {
+    "name": "is_live",
+    "type": "boolean"
+  },
+  {
+    "name": "is_promoted",
+    "type": "boolean"
+  },
+  {
+    "name": "is_short",
+    "type": "boolean"
+  },
+  {
+    "name": "keyword",
+    "type": "text"
+  },
+  {
+    "name": "language",
+    "type": "text"
+  },
+  {
+    "name": "market",
+    "type": "text"
+  },
+  {
+    "name": "metadata_complete_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "metadata_observed_at",
+    "type": "text"
+  },
+  {
+    "name": "observation_id",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "observed_language",
+    "type": "text"
+  },
+  {
+    "name": "observed_market",
+    "type": "text"
+  },
+  {
+    "name": "page_position",
+    "type": "integer"
+  },
+  {
+    "name": "promoted_slots",
+    "type": "integer"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "published_text",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "integer"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "result_type",
+    "type": "text"
+  },
+  {
+    "name": "search_url",
+    "type": "text"
+  },
+  {
+    "name": "session_conditions",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "target_results",
+    "type": "integer"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "video_id",
+    "type": "text"
+  },
+  {
+    "name": "video_results",
+    "type": "integer"
+  },
+  {
+    "name": "video_url",
+    "type": "text"
+  },
+  {
+    "name": "view_count",
+    "type": "integer"
+  },
+  {
+    "name": "view_count_text",
+    "type": "text"
+  }
+]

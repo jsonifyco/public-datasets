@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-UK and Irish horse racing odds data\. The published odds table contains 6,296 rows, with fields describing races, runners, bookmakers, prices and collection times\.
+UK and Irish horse racing odds data\. The published odds table contains 17,440 rows, with fields describing races, runners, bookmakers, prices and collection times\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa?action=get) — CSV or JSON · Email required
 
 - Refresh: hourly
 - Active pipeline version: 3
-- Last published: 2026-11-07T09:19:58.519336Z
+- Last published: 2026-11-07T13:06:59.968726Z
 
 ## The brief
 
-> I need this data: UK and Irish horse racing odds data\. The published odds table contains 6,296 rows, with fields describing races, runners, bookmakers, prices and collection times\.
+> I need this data: UK and Irish horse racing odds data\. The published odds table contains 17,440 rows, with fields describing races, runners, bookmakers, prices and collection times\.
 
 Summary from the public dataset description.
 
 ## Dilantix Horse Racing Odds / odds
 
-6,296 total rows · 50 sampled · Output revision 6
-Published: 2026-11-07T09:19:58.519336Z · Producing pipeline version: 3
+17,440 total rows · 50 sampled · Output revision 9
+Published: 2026-11-07T13:06:59.968726Z · Producing pipeline version: 3
 
 [CSV sample](outputs/eb5416d66779/odds-1fd5faa9b5cf/sample.csv) · [JSON sample](outputs/eb5416d66779/odds-1fd5faa9b5cf/sample.json) · [Schema](outputs/eb5416d66779/odds-1fd5faa9b5cf/schema.json)
 
@@ -28,8 +28,8 @@ Published: 2026-11-07T09:19:58.519336Z · Producing pipeline version: 3
 | Coral | 2026\-11\-07T09:19:44\.451221\+00:00 | UK | Southwell | 1/5 odds, 3 places | H Crouch | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
 | Bet365 | 2026\-11\-07T09:19:53\.802730\+00:00 | UK | Southwell | 1/5 odds, 4 places | Daniel Muscutt | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
 | William Hill | 2026\-11\-07T09:19:08\.537108\+00:00 | UK | Doncaster | 1/5 odds, 5 places | Rossa Ryan | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
-| Paddy Power | 2026\-11\-07T09:19:50\.777456\+00:00 | UK | Southwell | 1/5 odds, 4 places | Oliver Carmichael \(7\) | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
-| Bet365 | 2026\-11\-07T09:19:26\.856002\+00:00 | UK | Uttoxeter | 1/5 odds, 3 places | S Bowen | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
+| Sky Bet | 2026\-11\-07T10:31:53\.869725\+00:00 | UK | Kelso | 1/5 odds, 4 places | Jamie Brace \(5\) | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
+| Betfair Sportsbook | 2026\-11\-07T10:31:30\.568154\+00:00 | IE | Gowran Park | 1/5 odds, 3 places | Darragh O'Keeffe | before\_scheduled\_start; no\_source\_result\_or\_in\_play\_marker | pre\_race |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Last\-minute Booking\.com hotel rates in Vienna, Salzburg, Munich and Lisbon, with stay dates, room details, displayed prices and hotel ratings\.
+Booking\.com hotel rates in Vienna, Salzburg, Munich and Lisbon, with stay dates, room details, displayed prices and hotel ratings\. The published dataset contains 240 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/241-travel-last-minute-booking-com-hotel-rates-8055aed53e5f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-06T19:29:43.333784Z
+- Last published: 2026-11-07T06:13:18.507514Z
 
 ## The brief
 
-> I need this data: Last\-minute Booking\.com hotel rates in Vienna, Salzburg, Munich and Lisbon, with stay dates, room details, displayed prices and hotel ratings\.
+> I need this data: Booking\.com hotel rates in Vienna, Salzburg, Munich and Lisbon, with stay dates, room details, displayed prices and hotel ratings\. The published dataset contains 240 rows\.
 
 Summary from the public dataset description.
 
 ## 241\.travel last\-minute hotel rates / rates
 
-240 total rows · 50 sampled · Output revision 1
-Published: 2026-11-06T19:29:43.333784Z · Producing pipeline version: 1
+240 total rows · 50 sampled · Output revision 2
+Published: 2026-11-07T06:13:18.507514Z · Producing pipeline version: 1
 
 [CSV sample](outputs/5b91c807a520/rates-ff24aad2c015/sample.csv) · [JSON sample](outputs/5b91c807a520/rates-ff24aad2c015/sample.json) · [Schema](outputs/5b91c807a520/rates-ff24aad2c015/schema.json)
 
 | breakfast\_included | check\_in | city | collected\_at | currency | deal\_discount\_badge\_text | district | free\_cancellation |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | 2026\-11\-06 | Salzburg | 2026\-11\-06T19:28:33\.586512\+00:00 | EUR | Last\-minute Deal | Salzburg | None |
-| None | 2026\-11\-07 | Lisbon | 2026\-11\-06T19:29:39\.764871\+00:00 | EUR | Bonus savings | Avenidas Novas, Lisbon | None |
-| None | 2026\-11\-08 | Lisbon | 2026\-11\-06T19:29:13\.605042\+00:00 | EUR | None | Santa Maria Maior, Lisbon | None |
-| None | 2026\-11\-07 | Lisbon | 2026\-11\-06T19:29:22\.753631\+00:00 | EUR | None | Estrela, Lisbon | None |
-| None | 2026\-11\-06 | Munich | 2026\-11\-06T19:28:41\.068579\+00:00 | EUR | None | Ludwigsvorstadt, Munich | None |
+| None | 2026\-11\-07 | Salzburg | 2026\-11\-07T06:02:51\.548763\+00:00 | EUR | None | Elisabeth\-Vorstadt, Salzburg | None |
+| None | 2026\-11\-07 | Vienna | 2026\-11\-07T06:01:39\.216092\+00:00 | EUR | None | 01\. Innere Stadt, Vienna | True |
+| True | 2026\-11\-08 | Salzburg | 2026\-11\-07T06:03:39\.845739\+00:00 | EUR | Bonus savings | Altstadt, Salzburg | None |
+| None | 2026\-11\-08 | Munich | 2026\-11\-07T06:04:15\.350791\+00:00 | EUR | None | Altstadt\-Lehel, Munich | None |
+| None | 2026\-11\-08 | Lisbon | 2026\-11\-07T06:06:24\.806860\+00:00 | EUR | None | Avenidas Novas, Lisbon | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -77,7 +77,8 @@ flowchart LR
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-07T06:06:45.859970Z: no change
+- 2026-11-07T06:06:58.310377Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/241-travel-last-minute-booking-com-hotel-rates-8055aed53e5f?action=get) — CSV or JSON · Email required
 

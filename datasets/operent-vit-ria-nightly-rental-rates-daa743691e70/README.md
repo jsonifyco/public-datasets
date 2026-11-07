@@ -8,7 +8,7 @@ Vitória rental listings with displayed nightly quotes and availability for spec
 
 - Refresh: daily
 - Active pipeline version: 7
-- Last published: 2026-11-06T22:28:17.786133Z
+- Last published: 2026-11-07T09:52:18.845434Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Vitória nightly rental rates / nightly\_rates
 
-960 total rows · 50 sampled · Output revision 1
-Published: 2026-11-06T22:28:17.786133Z · Producing pipeline version: 7
+960 total rows · 50 sampled · Output revision 2
+Published: 2026-11-07T09:52:18.845434Z · Producing pipeline version: 7
 
 [CSV sample](outputs/de4b65c24d43/nightly-rates-115ea5b7fd74/sample.csv) · [JSON sample](outputs/de4b65c24d43/nightly-rates-115ea5b7fd74/sample.json) · [Schema](outputs/de4b65c24d43/nightly-rates-115ea5b7fd74/schema.json)
 
 | available | bedrooms | collected\_at | currency | date | listing\_id | listing\_url | max\_guests |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| False | 1 | 2026\-11\-06T22:06:28\.433611\+00:00 | BRL | 2026\-11\-24 | 8067157 | [https://www\.booking\.com/hotel/br/praia\-do\-canto\-apart\-vitoria\.html](<https://www.booking.com/hotel/br/praia-do-canto-apart-vitoria.html>) | 4 |
-| True | 1 | 2026\-11\-06T22:03:12\.753490\+00:00 | BRL | 2026\-11\-18 | 1497988894417555510 | [https://www\.airbnb\.com/rooms/1497988894417555510](<https://www.airbnb.com/rooms/1497988894417555510>) | 4 |
-| True | 1 | 2026\-11\-06T22:07:11\.394436\+00:00 | BRL | 2026\-11\-26 | 16811244 | [https://www\.booking\.com/hotel/br/apartamento\-aconchegante\-em\-jardim\-camburi\-vitoria\-es\.html](<https://www.booking.com/hotel/br/apartamento-aconchegante-em-jardim-camburi-vitoria-es.html>) | 2 |
-| True | 1 | 2026\-11\-06T21:53:56\.013807\+00:00 | BRL | 2026\-11\-11 | 1694320411842196266 | [https://www\.airbnb\.com/rooms/1694320411842196266](<https://www.airbnb.com/rooms/1694320411842196266>) | 4 |
-| True | 1 | 2026\-11\-06T22:11:37\.590198\+00:00 | BRL | 2026\-11\-30 | 1497988894417555510 | [https://www\.airbnb\.com/rooms/1497988894417555510](<https://www.airbnb.com/rooms/1497988894417555510>) | 4 |
+| False | 1 | 2026\-11\-07T09:08:10\.598845\+00:00 | BRL | 2026\-11\-12 | 1312367521825669608 | [https://www\.airbnb\.com/rooms/1312367521825669608](<https://www.airbnb.com/rooms/1312367521825669608>) | 3 |
+| False | 1 | 2026\-11\-07T09:22:29\.982455\+00:00 | BRL | 2026\-11\-20 | 17789454 | [https://www\.airbnb\.com/rooms/17789454](<https://www.airbnb.com/rooms/17789454>) | 4 |
+| False | 1 | 2026\-11\-07T09:38:05\.042328\+00:00 | BRL | 2026\-11\-28 | 599724343101445020 | [https://www\.airbnb\.com/rooms/599724343101445020](<https://www.airbnb.com/rooms/599724343101445020>) | 2 |
+| False | 1 | 2026\-11\-07T09:48:09\.588125\+00:00 | BRL | 2026\-12\-05 | 1163070753845403413 | [https://www\.airbnb\.com/rooms/1163070753845403413](<https://www.airbnb.com/rooms/1163070753845403413>) | 4 |
+| False | 1 | 2026\-11\-07T09:51:03\.358920\+00:00 | BRL | 2026\-12\-07 | 1728577633890495345 | [https://www\.airbnb\.com/rooms/1728577633890495345](<https://www.airbnb.com/rooms/1728577633890495345>) | 4 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -95,7 +95,8 @@ flowchart LR
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-07T09:16:19.969928Z: no change
+- 2026-11-07T09:17:13.686705Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/operent-vit-ria-nightly-rental-rates-daa743691e70?action=get) — CSV or JSON · Email required
 

@@ -1,0 +1,94 @@
+[
+  {
+    "name": "availability",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "condition",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "google_product_id",
+    "type": "text"
+  },
+  {
+    "name": "in_stock",
+    "type": "boolean"
+  },
+  {
+    "name": "offer_url",
+    "type": "text"
+  },
+  {
+    "name": "original_price_text",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "product_title",
+    "type": "text"
+  },
+  {
+    "name": "query_gtin_mpn",
+    "type": "text"
+  },
+  {
+    "name": "rank_among_offers",
+    "type": "bigint"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "review_count",
+    "type": "bigint"
+  },
+  {
+    "name": "review_count_display",
+    "type": "text"
+  },
+  {
+    "name": "seller_domain",
+    "type": "text"
+  },
+  {
+    "name": "seller_name",
+    "type": "text"
+  },
+  {
+    "name": "shipping_cost",
+    "type": "double precision"
+  },
+  {
+    "name": "sku_id",
+    "type": "text"
+  },
+  {
+    "name": "total_price",
+    "type": "double precision"
+  }
+]

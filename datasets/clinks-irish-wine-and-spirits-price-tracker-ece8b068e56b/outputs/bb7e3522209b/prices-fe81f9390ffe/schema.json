@@ -1,11 +1,7 @@
 [
   {
-    "name": "retailer",
-    "type": "text"
-  },
-  {
-    "name": "product_name",
-    "type": "text"
+    "name": "abv",
+    "type": "double precision"
   },
   {
     "name": "brand",
@@ -16,16 +12,24 @@
     "type": "text"
   },
   {
-    "name": "volume_ml",
-    "type": "double precision"
+    "name": "collected_at",
+    "type": "text"
   },
   {
-    "name": "abv",
-    "type": "double precision"
+    "name": "in_stock",
+    "type": "boolean"
   },
   {
     "name": "price_eur",
     "type": "double precision"
+  },
+  {
+    "name": "product_name",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
   },
   {
     "name": "promo_price_eur",
@@ -36,15 +40,11 @@
     "type": "text"
   },
   {
-    "name": "in_stock",
-    "type": "boolean"
-  },
-  {
-    "name": "product_url",
+    "name": "retailer",
     "type": "text"
   },
   {
-    "name": "collected_at",
-    "type": "text"
+    "name": "volume_ml",
+    "type": "double precision"
   }
 ]

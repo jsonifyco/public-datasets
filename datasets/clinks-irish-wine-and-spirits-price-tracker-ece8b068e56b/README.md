@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 945 rows; its publication timestamp does not establish when the observations were collected\.
+Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 1,417 rows; its publication timestamp does not establish when the observations were collected\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/clinks-irish-wine-and-spirits-price-tracker-ece8b068e56b?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 5
-- Last published: 2026-11-06T21:44:39.961676Z
+- Last published: 2026-11-07T08:19:05.148849Z
 
 ## The brief
 
-> I need this data: Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 945 rows; its publication timestamp does not establish when the observations were collected\.
+> I need this data: Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 1,417 rows; its publication timestamp does not establish when the observations were collected\.
 
 Summary from the public dataset description.
 
 ## Clinks Irish drinks prices / prices
 
-944 total rows · 50 sampled · Output revision 4
-Published: 2026-11-06T21:44:39.961676Z · Producing pipeline version: Unknown
+1,417 total rows · 50 sampled · Output revision 5
+Published: 2026-11-07T08:19:05.148849Z · Producing pipeline version: 5
 
 [CSV sample](outputs/bb7e3522209b/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/bb7e3522209b/prices-fe81f9390ffe/sample.json) · [Schema](outputs/bb7e3522209b/prices-fe81f9390ffe/schema.json)
 
-| retailer | product\_name | brand | category | volume\_ml | abv | price\_eur | promo\_price\_eur |
+| abv | brand | category | collected\_at | in\_stock | price\_eur | product\_name | product\_url |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| O'Briens Wine | Monte Real Rioja Reserva | Monte Real | wine red | 750 | 14 | 23\.99 | 14\.99 |
-| Dunnes Stores | Monastier Cabernet Sauvignon 75cl | Monastier | wine red | 750 | 13\.5 | 10\.5 | 8 |
-| SuperValu | Vina Albali Verdejo Rueda  \(75 cl\) | Viña Albali | wine white | 750 | 13 | 12\.99 | None |
-| Molloy's | Valderivero Rueda Verdejo | Valderivero | wine white | 750 | 13 | 12\.99 | 11\.99 |
-| Tesco Ireland | Mcguigan Signature Cabernet Sauvignon Red Wine 75Cl | McGuigan | wine red | 750 | 13 | 17 | 8\.5 |
+| 16 | Coole Swan | liqueur | 2026\-11\-07T08:13:27\.182337\+00:00 | True | 26 | Coole Swan Superior Irish Cream Liqueur 700ml | [https://www\.dunnesstoresgrocery\.com/sm/delivery/rsid/258/product/coole\-swan\-superior\-irish\-cream\-liqueur\-700ml\-id\-100173115](<https://www.dunnesstoresgrocery.com/sm/delivery/rsid/258/product/coole-swan-superior-irish-cream-liqueur-700ml-id-100173115>) |
+| 17\.5 | Baileys | liqueur | 2026\-11\-07T08:12:02\.617319\+00:00 | True | 15\.99 | Baileys Chocolate Cream Liqueur 50cl | [https://www\.obrienswine\.ie/products/baileys\-chocolate\-50cl](<https://www.obrienswine.ie/products/baileys-chocolate-50cl>) |
+| None | Conde de Valdemar | wine | 2026\-11\-07T08:13:52\.452923\+00:00 | True | 45 | Conde Valdemar Reserva &amp; Gran Reserva Twin Pack | [https://molloys\.ie/products/conde\-de\-valdemar\-reserva\-gran\-reserva\-twin\-pack](<https://molloys.ie/products/conde-de-valdemar-reserva-gran-reserva-twin-pack>) |
+| 15 | Gonzalez Byass | wine fortified | 2026\-11\-07T08:13:27\.161569\+00:00 | True | 16\.5 | Gonzalez Byass Tio Pepe Fino Sherry 750ml | [https://www\.dunnesstoresgrocery\.com/sm/delivery/rsid/258/product/gonzalez\-byass\-tio\-pepe\-fino\-sherry\-750ml\-id\-100512512](<https://www.dunnesstoresgrocery.com/sm/delivery/rsid/258/product/gonzalez-byass-tio-pepe-fino-sherry-750ml-id-100512512>) |
+| 12 | Michel Lynch | wine sparkling | 2026\-11\-07T08:13:25\.555854\+00:00 | True | 25 | Michel Lynch Reserve Crémant De Bordeaux Brut 750ml | [https://www\.dunnesstoresgrocery\.com/sm/delivery/rsid/258/product/michel\-lynch\-reserve\-crmant\-de\-bordeaux\-brut\-750ml\-id\-100343170](<https://www.dunnesstoresgrocery.com/sm/delivery/rsid/258/product/michel-lynch-reserve-crmant-de-bordeaux-brut-750ml-id-100343170>) |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -37,18 +37,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| retailer | text |
-| product\_name | text |
+| abv | double precision |
 | brand | text |
 | category | text |
-| volume\_ml | double precision |
-| abv | double precision |
+| collected\_at | text |
+| in\_stock | boolean |
 | price\_eur | double precision |
+| product\_name | text |
+| product\_url | text |
 | promo\_price\_eur | double precision |
 | promo\_text | text |
-| in\_stock | boolean |
-| product\_url | text |
-| collected\_at | text |
+| retailer | text |
+| volume\_ml | double precision |
 
 ## How the pipeline works
 

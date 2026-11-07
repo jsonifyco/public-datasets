@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Irish gig and music festival listings with event dates, venues, ticket details and source\-specific prices\. The published dataset contains 108 event records\.
+Irish gig and music festival listings with event dates, venues, ticket details and source\-specific prices\. The published dataset contains 107 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ceolx-irish-gigs-and-festivals-3b8beb04ee74?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
-- Active pipeline version: 3
-- Last published: 2026-11-06T20:47:22.401403Z
+- Active pipeline version: 4
+- Last published: 2026-11-07T07:14:06.189973Z
 
 ## The brief
 
-> I need this data: Irish gig and music festival listings with event dates, venues, ticket details and source\-specific prices\. The published dataset contains 108 event records\.
+> I need this data: Irish gig and music festival listings with event dates, venues, ticket details and source\-specific prices\. The published dataset contains 107 event records\.
 
 Summary from the public dataset description.
 
 ## CeolX Irish gigs and festivals / events
 
-108 total rows · 50 sampled · Output revision 3
-Published: 2026-11-06T20:47:22.401403Z · Producing pipeline version: 3
+107 total rows · 50 sampled · Output revision 4
+Published: 2026-11-07T07:14:06.189973Z · Producing pipeline version: 4
 
 [CSV sample](outputs/61376401fa9c/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/61376401fa9c/events-862417b9e7c3/sample.json) · [Schema](outputs/61376401fa9c/events-862417b9e7c3/schema.json)
 
 | source | event\_id | event\_url | artist/headliner | event\_name | venue | city | county |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Eventbrite | ceolx\_1f9550c05a5ed4931f06 | [https://www\.eventbrite\.ie/e/ra\-the\-rugged\-man\-live\-at\-lost\-lane\-dublin\-tickets\-1998353925385](<https://www.eventbrite.ie/e/ra-the-rugged-man-live-at-lost-lane-dublin-tickets-1998353925385>) | R\.A The Rugged Man | R\.A The Rugged Man Live At Lost Lane, Dublin | Lost Lane | Dublin | None |
-| Ticketmaster\.ie | ceolx\_f343b8c8e9dbdd088e8a | [https://www\.ticketmaster\.ie/dexys\-midnight\-runners\-galway\-06\-11\-2026/event/180064A18866B5CA](<https://www.ticketmaster.ie/dexys-midnight-runners-galway-06-11-2026/event/180064A18866B5CA>) | Dexy's Midnight Runners | Dexy's Midnight Runners | Black Box | Galway | Galway |
-| Dolans | ceolx\_bee210560907c5bf2907 | [https://www\.dolans\.ie/gigs\-events\-live\-music\-listings/2026/1/31/vnv\-nation\-presented\-by\-bad\-reputation](<https://www.dolans.ie/gigs-events-live-music-listings/2026/1/31/vnv-nation-presented-by-bad-reputation>) | VNV Nation | VNV Nation presented by Bad Reputation | Dolans Warehouse | Limerick | Limerick |
-| 3Olympia | ceolx\_a66a2fd1b40bf315b6fc | [https://www\.3olympia\.ie/whats\-on/harvest\-a\-tribute\-to\-neil\-young](<https://www.3olympia.ie/whats-on/harvest-a-tribute-to-neil-young>) | Harvest | Harvest \- A Tribute to Neil Young | 3Olympia Theatre | Dublin | Dublin |
-| Entertainment\.ie | ceolx\_6f2f4bdd7f50aad97957 | [https://entertainment\.ie/events/event/show\-cork/coughlans\-live\-bar\-cork/cormac\-o\-caoimh\-justin\-cullen/music\-44417](<https://entertainment.ie/events/event/show-cork/coughlans-live-bar-cork/cormac-o-caoimh-justin-cullen/music-44417>) | Cormac O Caoimh \+ Justin Cullen | Cormac O Caoimh \+ Justin Cullen | Coughlan's Live Bar Cork | Cork | Cork |
+| Vicar Street | ceolx\_601cc2da631dab3b9994 | [https://www\.vicarstreet\.com/thelist\-dashboard/show/2246\-the\-stylistics\-live\-in\-vicar\-street\-58\-59\-thomas\-street\-Dublin\-8\-on\-11\-Nov\-2026\.html](<https://www.vicarstreet.com/thelist-dashboard/show/2246-the-stylistics-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-11-Nov-2026.html>) | The Stylistics | The Stylistics | Vicar Street | Dublin | Dublin |
+| Entertainment\.ie | ceolx\_62494165cc0d252c735f | [https://entertainment\.ie/events/event/show\-cork/white\-horse\-ballincollig/joachim\-cooder\-adriano\-viterbini/music\-44188](<https://entertainment.ie/events/event/show-cork/white-horse-ballincollig/joachim-cooder-adriano-viterbini/music-44188>) | Joachim Cooder &amp; Adriano Viterbini | Joachim Cooder &amp; Adriano Viterbini | White Horse, Ballincollig | Ballincollig | Cork |
+| 3Olympia | ceolx\_87d9312f26e2a75a811b | [https://www\.3olympia\.ie/whats\-on/the\-stunning](<https://www.3olympia.ie/whats-on/the-stunning>) | The Stunning | The Stunning | 3Olympia Theatre | Dublin | Dublin |
+| Cyprus Avenue \| Entertainment\.ie | ceolx\_7c2529b9d344d52bdc58 | [https://www\.cyprusavenue\.ie/gigs/highstool\-prophets\-11195881](<https://www.cyprusavenue.ie/gigs/highstool-prophets-11195881>) | Highstool Prophets | Highstool Prophets | Cyprus Avenue | Cork | Cork |
+| Ticketmaster\.ie | ceolx\_b6e12450bde70efe50e4 | [https://www\.ticketmaster\.ie/basht\-dublin\-07\-11\-2026/event/1800648AE23BB37A](<https://www.ticketmaster.ie/basht-dublin-07-11-2026/event/1800648AE23BB37A>) | Basht\. | Basht\. | The Button Factory | Dublin | Dublin |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -96,10 +96,13 @@ flowchart LR
 - 2026-11-06T19:46:18.711367Z: v1: Adds a daily\-refreshable Irish music event demo spanning the requested ticketing sites and venues, with matching gigs combined and source\-specific prices retained\.
 - 2026-11-06T20:14:33.068638Z: v2: Improved sample retention and cross\-source matching, including equivalent venue labels and events without a headliner\.
 - 2026-11-06T20:41:04.115288Z: v3: Combined matching gigs when one source uses Limerick City and another uses Limerick, preserving both original labels\.
+- 2026-11-07T07:05:26.591516Z: v4: Refreshes Ticketmaster from its live calendar when the returned page only contains past dates, keeping upcoming gig coverage\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-07T07:01:28.625437Z: no change
+- 2026-11-07T07:02:33.861895Z: no change
+- 2026-11-07T07:05:34.790704Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ceolx-irish-gigs-and-festivals-3b8beb04ee74?action=get) — CSV or JSON · Email required
 

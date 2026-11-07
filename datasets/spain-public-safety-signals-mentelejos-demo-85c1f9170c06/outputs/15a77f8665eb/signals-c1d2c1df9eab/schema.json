@@ -1,0 +1,142 @@
+[
+  {
+    "name": "alert_status",
+    "type": "text"
+  },
+  {
+    "name": "area_polygons",
+    "type": "jsonb"
+  },
+  {
+    "name": "coordinate_note",
+    "type": "text"
+  },
+  {
+    "name": "dedupe_evidence",
+    "type": "text"
+  },
+  {
+    "name": "event_date",
+    "type": "text"
+  },
+  {
+    "name": "incident_id",
+    "type": "text"
+  },
+  {
+    "name": "incident_type",
+    "type": "text"
+  },
+  {
+    "name": "kind",
+    "type": "text"
+  },
+  {
+    "name": "last_observed_at",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "locations",
+    "type": "jsonb"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "message_type",
+    "type": "text"
+  },
+  {
+    "name": "municipality",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "province",
+    "type": "text"
+  },
+  {
+    "name": "publication_precision",
+    "type": "text"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "record_id",
+    "type": "text"
+  },
+  {
+    "name": "reports",
+    "type": "jsonb"
+  },
+  {
+    "name": "severity",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_count",
+    "type": "integer"
+  },
+  {
+    "name": "source_created_at",
+    "type": "text"
+  },
+  {
+    "name": "source_id",
+    "type": "text"
+  },
+  {
+    "name": "source_references",
+    "type": "text"
+  },
+  {
+    "name": "source_type",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "source_version",
+    "type": "text"
+  },
+  {
+    "name": "sources",
+    "type": "jsonb"
+  },
+  {
+    "name": "summary_body",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "valid_from",
+    "type": "text"
+  },
+  {
+    "name": "valid_to",
+    "type": "text"
+  }
+]

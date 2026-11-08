@@ -1,0 +1,38 @@
+[
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "category_name",
+    "type": "text"
+  },
+  {
+    "name": "crime_count",
+    "type": "integer"
+  },
+  {
+    "name": "geography_basis",
+    "type": "text"
+  },
+  {
+    "name": "month",
+    "type": "text"
+  },
+  {
+    "name": "postcode_district",
+    "type": "text"
+  },
+  {
+    "name": "snapshot_date",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "agent_landlord_type",
+    "type": "text"
+  },
+  {
+    "name": "availability_text",
+    "type": "text"
+  },
+  {
+    "name": "available_from",
+    "type": "text"
+  },
+  {
+    "name": "bedrooms",
+    "type": "integer"
+  },
+  {
+    "name": "bills_included",
+    "type": "boolean"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "evidence",
+    "type": "text"
+  },
+  {
+    "name": "first_seen",
+    "type": "text"
+  },
+  {
+    "name": "first_seen_meaning",
+    "type": "text"
+  },
+  {
+    "name": "furnished",
+    "type": "text"
+  },
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "listing_status",
+    "type": "text"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  },
+  {
+    "name": "postcode_district",
+    "type": "text"
+  },
+  {
+    "name": "price_per_month",
+    "type": "double precision"
+  },
+  {
+    "name": "room_flat_type",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

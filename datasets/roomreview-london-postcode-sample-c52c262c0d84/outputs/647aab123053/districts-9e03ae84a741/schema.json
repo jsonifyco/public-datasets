@@ -1,0 +1,58 @@
+[
+  {
+    "name": "boundary_source",
+    "type": "text"
+  },
+  {
+    "name": "crime_caveat",
+    "type": "text"
+  },
+  {
+    "name": "crime_count",
+    "type": "integer"
+  },
+  {
+    "name": "crime_month",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "nearest_station",
+    "type": "text"
+  },
+  {
+    "name": "nearest_station_distance_metres",
+    "type": "integer"
+  },
+  {
+    "name": "planning_coverage",
+    "type": "text"
+  },
+  {
+    "name": "planning_rows",
+    "type": "integer"
+  },
+  {
+    "name": "point_source",
+    "type": "text"
+  },
+  {
+    "name": "postcode_district",
+    "type": "text"
+  },
+  {
+    "name": "rental_rows",
+    "type": "integer"
+  },
+  {
+    "name": "snapshot_date",
+    "type": "text"
+  }
+]

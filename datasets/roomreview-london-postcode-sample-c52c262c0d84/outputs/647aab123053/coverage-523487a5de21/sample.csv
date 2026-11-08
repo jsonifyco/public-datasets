@@ -1,0 +1,11 @@
+data_type,notes,postcode_district,rows,snapshot_date,source,source_url,status
+crime categories,Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.,SE15,14,2026-11-07,police.uk,https://data.police.uk/,collected
+rentals,"Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",SE1,2,2026-11-07,Rightmove,https://www.rightmove.co.uk/,sample collected
+crime categories,Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.,W2,14,2026-11-07,police.uk,https://data.police.uk/,collected
+crime categories,Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.,SE1,14,2026-11-07,police.uk,https://data.police.uk/,collected
+rentals,"Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",SW9,2,2026-11-07,SpareRoom,https://www.spareroom.co.uk/,sample collected
+rentals,"Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",SE15,2,2026-11-07,Zoopla,https://www.zoopla.co.uk/,sample collected
+planning,"Sample of applications since 1 October 2026, not exhaustive or all boroughs overlapping this district.",E2,3,2026-11-07,Tower Hamlets,https://development.towerhamlets.gov.uk/online-applications/,sample collected
+stations,"Three nearest station hubs to district representative point, straight-line distance. Not walking distance or nearest to each rental.",E1,3,2026-11-07,TfL,https://api.tfl.gov.uk/,collected
+planning,"Public search form loaded, but HTTP search access hit a certificate error and browser search did not finish. No applications verified.",SE15,0,2026-11-07,Southwark,https://planning.southwark.gov.uk/online-applications/,not collected
+crime categories,Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.,E1,14,2026-11-07,police.uk,https://data.police.uk/,collected

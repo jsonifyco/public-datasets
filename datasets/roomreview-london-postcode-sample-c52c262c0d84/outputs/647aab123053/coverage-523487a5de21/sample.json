@@ -1,0 +1,102 @@
+[
+  {
+    "data_type": "crime categories",
+    "notes": "Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.",
+    "postcode_district": "SE15",
+    "rows": 14,
+    "snapshot_date": "2026-11-07",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",
+    "postcode_district": "SE1",
+    "rows": 2,
+    "snapshot_date": "2026-11-07",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.",
+    "postcode_district": "W2",
+    "rows": 14,
+    "snapshot_date": "2026-11-07",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/",
+    "status": "collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.",
+    "postcode_district": "SE1",
+    "rows": 14,
+    "snapshot_date": "2026-11-07",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",
+    "postcode_district": "SW9",
+    "rows": 2,
+    "snapshot_date": "2026-11-07",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",
+    "postcode_district": "SE15",
+    "rows": 2,
+    "snapshot_date": "2026-11-07",
+    "source": "Zoopla",
+    "source_url": "https://www.zoopla.co.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "planning",
+    "notes": "Sample of applications since 1 October 2026, not exhaustive or all boroughs overlapping this district.",
+    "postcode_district": "E2",
+    "rows": 3,
+    "snapshot_date": "2026-11-07",
+    "source": "Tower Hamlets",
+    "source_url": "https://development.towerhamlets.gov.uk/online-applications/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "stations",
+    "notes": "Three nearest station hubs to district representative point, straight-line distance. Not walking distance or nearest to each rental.",
+    "postcode_district": "E1",
+    "rows": 3,
+    "snapshot_date": "2026-11-07",
+    "source": "TfL",
+    "source_url": "https://api.tfl.gov.uk/",
+    "status": "collected"
+  },
+  {
+    "data_type": "planning",
+    "notes": "Public search form loaded, but HTTP search access hit a certificate error and browser search did not finish. No applications verified.",
+    "postcode_district": "SE15",
+    "rows": 0,
+    "snapshot_date": "2026-11-07",
+    "source": "Southwark",
+    "source_url": "https://planning.southwark.gov.uk/online-applications/",
+    "status": "not collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.",
+    "postcode_district": "E1",
+    "rows": 14,
+    "snapshot_date": "2026-11-07",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/",
+    "status": "collected"
+  }
+]

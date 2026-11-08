@@ -1,0 +1,46 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "council",
+    "type": "text"
+  },
+  {
+    "name": "date",
+    "type": "text"
+  },
+  {
+    "name": "date_type",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "description_truncated",
+    "type": "boolean"
+  },
+  {
+    "name": "first_seen",
+    "type": "text"
+  },
+  {
+    "name": "postcode_district",
+    "type": "text"
+  },
+  {
+    "name": "reference",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "distance_basis",
+    "type": "text"
+  },
+  {
+    "name": "distance_metres",
+    "type": "integer"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "lines",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "modes",
+    "type": "text"
+  },
+  {
+    "name": "origin_latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "origin_longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "postcode_district",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "integer"
+  },
+  {
+    "name": "snapshot_date",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "station_id",
+    "type": "text"
+  },
+  {
+    "name": "station_name",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

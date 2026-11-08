@@ -53,7 +53,7 @@
   },
   {
     "name": "rank_among_offers",
-    "type": "bigint"
+    "type": "integer"
   },
   {
     "name": "rating",
@@ -65,7 +65,7 @@
   },
   {
     "name": "review_count",
-    "type": "bigint"
+    "type": "integer"
   },
   {
     "name": "review_count_display",

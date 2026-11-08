@@ -21,15 +21,15 @@
   },
   {
     "name": "offers_count",
-    "type": "bigint"
+    "type": "integer"
   },
   {
     "name": "product_groups_checked",
-    "type": "bigint"
+    "type": "integer"
   },
   {
     "name": "product_groups_unavailable",
-    "type": "bigint"
+    "type": "integer"
   },
   {
     "name": "query",

@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Booking\.com hotel rates in Vienna, Salzburg, Munich and Lisbon, with stay dates, room details, displayed prices and hotel ratings\. The published dataset contains 240 rows\.
+Booking\.com hotel offers with stay dates, room details, displayed prices and hotel ratings\. The published dataset contains 240 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/241-travel-last-minute-booking-com-hotel-rates-8055aed53e5f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-07T06:13:18.507514Z
+- Last published: 2026-11-08T06:03:52.063201Z
 
 ## The brief
 
-> I need this data: Booking\.com hotel rates in Vienna, Salzburg, Munich and Lisbon, with stay dates, room details, displayed prices and hotel ratings\. The published dataset contains 240 rows\.
+> I need this data: Booking\.com hotel offers with stay dates, room details, displayed prices and hotel ratings\. The published dataset contains 240 rows\.
 
 Summary from the public dataset description.
 
 ## 241\.travel last\-minute hotel rates / rates
 
-240 total rows · 50 sampled · Output revision 2
-Published: 2026-11-07T06:13:18.507514Z · Producing pipeline version: 1
+240 total rows · 50 sampled · Output revision 3
+Published: 2026-11-08T06:03:52.063201Z · Producing pipeline version: 1
 
 [CSV sample](outputs/5b91c807a520/rates-ff24aad2c015/sample.csv) · [JSON sample](outputs/5b91c807a520/rates-ff24aad2c015/sample.json) · [Schema](outputs/5b91c807a520/rates-ff24aad2c015/schema.json)
 
 | breakfast\_included | check\_in | city | collected\_at | currency | deal\_discount\_badge\_text | district | free\_cancellation |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | 2026\-11\-07 | Salzburg | 2026\-11\-07T06:02:51\.548763\+00:00 | EUR | None | Elisabeth\-Vorstadt, Salzburg | None |
-| None | 2026\-11\-07 | Vienna | 2026\-11\-07T06:01:39\.216092\+00:00 | EUR | None | 01\. Innere Stadt, Vienna | True |
-| True | 2026\-11\-08 | Salzburg | 2026\-11\-07T06:03:39\.845739\+00:00 | EUR | Bonus savings | Altstadt, Salzburg | None |
-| None | 2026\-11\-08 | Munich | 2026\-11\-07T06:04:15\.350791\+00:00 | EUR | None | Altstadt\-Lehel, Munich | None |
-| None | 2026\-11\-08 | Lisbon | 2026\-11\-07T06:06:24\.806860\+00:00 | EUR | None | Avenidas Novas, Lisbon | None |
+| None | 2026\-11\-10 | Lisbon | 2026\-11\-08T06:03:48\.776621\+00:00 | EUR | None | Santa Maria Maior, Lisbon | None |
+| None | 2026\-11\-08 | Munich | 2026\-11\-08T06:03:26\.414547\+00:00 | EUR | None | Ludwigsvorstadt, Munich | None |
+| None | 2026\-11\-10 | Munich | 2026\-11\-08T06:03:35\.784872\+00:00 | EUR | None | Neuhausen \- Nymphenburg, Munich | None |
+| None | 2026\-11\-09 | Vienna | 2026\-11\-08T06:01:01\.680745\+00:00 | EUR | None | 01\. Innere Stadt, Vienna | None |
+| None | 2026\-11\-10 | Salzburg | 2026\-11\-08T06:01:27\.643446\+00:00 | EUR | Limited\-time Deal | Salzburg | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

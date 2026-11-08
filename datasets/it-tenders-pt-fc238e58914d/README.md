@@ -8,7 +8,7 @@ Portugal IT tender notices from TED, with publication dates, deadlines, contract
 
 - Refresh: daily
 - Active pipeline version: 4
-- Last published: 2026-11-07T06:13:36.300355Z
+- Last published: 2026-11-08T06:02:48.835415Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Portugal IT tenders / Tenders
 
-80 total rows · 10 sampled · Output revision 7
-Published: 2026-11-07T06:13:36.300355Z · Producing pipeline version: 4
+80 total rows · 10 sampled · Output revision 8
+Published: 2026-11-08T06:02:48.835415Z · Producing pipeline version: 4
 
 [CSV sample](outputs/cebd25590c7c/tenders-7e626c78fe5c/sample.csv) · [JSON sample](outputs/cebd25590c7c/tenders-7e626c78fe5c/sample.json) · [Schema](outputs/cebd25590c7c/tenders-7e626c78fe5c/schema.json)
 
 | Buyer | CPV | Data notes | Deadline Lisbon | Estimated value EUR | Notice type | Procedure | Published date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Universidade do Minho | 48900000 | No submission deadline published | None | 499318 | Contract award / result notice | Open procedure | 2026\-11\-03 |
-| Autoridade Tributária e Aduaneira | 48000000 | None | 2026\-12\-04T23:59:59\+00:00 | 707384\.39 | Contract notice | Open procedure | 2026\-11\-06 |
-| Fundação Beatriz Santos | 30000000 | EUR estimate not published; No submission deadline published | None | None | Contract award / result notice | Other single\-stage procedure | 2026\-11\-06 |
-| Universidade de Coimbra | 72268000 | EUR estimate not published; No submission deadline published | None | None | Contract award / result notice | Open procedure | 2026\-10\-28 |
-| Município de Lisboa | 72910000 | None | 2026\-11\-16T17:00:59\+00:00 | 1950000 | Contract notice | Open procedure | 2026\-10\-26 |
+| Agência para a Gestão do Sistema Educativo, IP | 72400000 | EUR estimate not published; No submission deadline published | None | None | Contract award / result notice | oth\-mult | 2026\-11\-06 |
+| Serviços Partilhados do Ministério da Saúde, EPE | 72500000 | None | 2026\-11\-02T18:00:59\+00:00 | 508220 | Contract notice | Open procedure | 2026\-10\-26 |
+| Centro Social e Paroquial do Bom Jesus de Ponta Delgada | 30200000; 32000000; 33100000; 33192000; 33192100; 33192300; 33192600; 37400000; 39100000; 39113000; 39121100; 39130000; 39142000; 39143112; 39291000 | EUR estimate not published; No submission deadline published | None | None | Contract award / result notice | Open procedure | 2026\-10\-27 |
+| Banco Português de Fomento, SA | 72320000 | No submission deadline published | None | 400000 | Contract award / result notice | Open procedure | 2026\-11\-03 |
+| Instituto Nacional de Emergência Médica, IP | 48311100 | None | 2026\-12\-02T23:59:59\+00:00 | 387745 | Contract notice | Open procedure | 2026\-11\-04 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Portugal IT tenders / it\_tenders\_pt
 
-80 total rows · 10 sampled · Output revision 7
-Published: 2026-11-07T06:13:36.300355Z · Producing pipeline version: 4
+80 total rows · 10 sampled · Output revision 8
+Published: 2026-11-08T06:02:48.835415Z · Producing pipeline version: 4
 
 [CSV sample](outputs/cebd25590c7c/it-tenders-pt-d565827789da/sample.csv) · [JSON sample](outputs/cebd25590c7c/it-tenders-pt-d565827789da/sample.json) · [Schema](outputs/cebd25590c7c/it-tenders-pt-d565827789da/schema.json)
 
 | base\_price\_eur | checked\_at | contracting\_entity | cpv | description | form\_type\_code | location | notice\_subtype\_code |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 611735 | 2026\-11\-07T06:13:32\.031168\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
-| 508220 | 2026\-11\-07T06:13:32\.031168\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
-| 400930 | 2026\-11\-07T06:13:32\.031168\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | \(DAG\) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I\.P\. \(PRR\) \(20260267\)\. | competition | Lisboa | 16 |
-| 385000 | 2026\-11\-07T06:13:32\.031168\+00:00 | Unidade Local de Saúde de Entre Douro e Vouga, EPE | \["72260000"\] | Aquisição de Plataforma de Telemonitorização para os doentes com insuficiência Cardíaca\. | competition | União das Freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo | 16 |
-| 1530000 | 2026\-11\-07T06:13:32\.031168\+00:00 | Universidade Nova de Lisboa | \["72268000"\] | Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM &amp; AIS da área de Pré\-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365\. | competition | União das Freguesias de Carcavelos e Parede | 16 |
+| 508220 | 2026\-11\-08T06:02:44\.421411\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
+| 400930 | 2026\-11\-08T06:02:44\.421411\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | \(DAG\) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I\.P\. \(PRR\) \(20260267\)\. | competition | Lisboa | 16 |
+| 611735 | 2026\-11\-08T06:02:44\.421411\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
+| 385000 | 2026\-11\-08T06:02:44\.421411\+00:00 | Unidade Local de Saúde de Entre Douro e Vouga, EPE | \["72260000"\] | Aquisição de Plataforma de Telemonitorização para os doentes com insuficiência Cardíaca\. | competition | União das Freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo | 16 |
+| 1530000 | 2026\-11\-08T06:02:44\.421411\+00:00 | Universidade Nova de Lisboa | \["72268000"\] | Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM &amp; AIS da área de Pré\-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365\. | competition | União das Freguesias de Carcavelos e Parede | 16 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

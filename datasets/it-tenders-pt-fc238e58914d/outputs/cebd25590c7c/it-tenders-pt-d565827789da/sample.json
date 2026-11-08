@@ -1,27 +1,7 @@
 [
   {
-    "base_price_eur": 611735,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
-    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
-    "cpv": [
-      "72500000"
-    ],
-    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR).",
-    "form_type_code": "competition",
-    "location": "Lisboa",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-10-26",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/738528-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-02T18:00:59Z",
-    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR) (20260268)",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/738528-2026"
-  },
-  {
     "base_price_eur": 508220,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
     "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
     "cpv": [
       "72500000"
@@ -41,7 +21,7 @@
   },
   {
     "base_price_eur": 400930,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
     "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
     "cpv": [
       "72500000"
@@ -60,8 +40,28 @@
     "url": "https://ted.europa.eu/pt/notice/-/detail/739600-2026"
   },
   {
+    "base_price_eur": 611735,
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
+    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
+    "cpv": [
+      "72500000"
+    ],
+    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR).",
+    "form_type_code": "competition",
+    "location": "Lisboa",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-10-26",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/738528-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-02T18:00:59Z",
+    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR) (20260268)",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/738528-2026"
+  },
+  {
     "base_price_eur": 385000,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
     "contracting_entity": "Unidade Local de Saúde de Entre Douro e Vouga, EPE",
     "cpv": [
       "72260000"
@@ -81,7 +81,7 @@
   },
   {
     "base_price_eur": 1530000,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
     "contracting_entity": "Universidade Nova de Lisboa",
     "cpv": [
       "72268000"
@@ -101,7 +101,7 @@
   },
   {
     "base_price_eur": 1396240,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
     "contracting_entity": "Instituto dos Registos e do Notariado, IP",
     "cpv": [
       "72000000"
@@ -120,28 +120,8 @@
     "url": "https://ted.europa.eu/pt/notice/-/detail/745093-2026"
   },
   {
-    "base_price_eur": 508220,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
-    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
-    "cpv": [
-      "72500000"
-    ],
-    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR).",
-    "form_type_code": "competition",
-    "location": "Lisboa",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-11-02",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/757609-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-09T18:00:59Z",
-    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR) (20260251)",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/757609-2026"
-  },
-  {
     "base_price_eur": 611735,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
     "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
     "cpv": [
       "72500000"
@@ -160,8 +140,28 @@
     "url": "https://ted.europa.eu/pt/notice/-/detail/757036-2026"
   },
   {
+    "base_price_eur": 508220,
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
+    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
+    "cpv": [
+      "72500000"
+    ],
+    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR).",
+    "form_type_code": "competition",
+    "location": "Lisboa",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-11-02",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/757609-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-09T18:00:59Z",
+    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR) (20260251)",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/757609-2026"
+  },
+  {
     "base_price_eur": 400930,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
     "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
     "cpv": [
       "72500000"
@@ -181,7 +181,7 @@
   },
   {
     "base_price_eur": 168652.2,
-    "checked_at": "2026-11-07T06:13:32.031168+00:00",
+    "checked_at": "2026-11-08T06:02:44.421411+00:00",
     "contracting_entity": "Autoridade Nacional de Segurança Rodoviária",
     "cpv": [
       "72260000"

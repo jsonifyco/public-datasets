@@ -24,7 +24,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Meta and TikTok Ad Intelligence Demo: Ads, Products, and Creative Signals](datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7/) | 50 | On demand | 2026-11-08T13:13:59.367780Z |
 | [INTELLIAAI YouTube Search Placement Discovery](datasets/intelliaai-youtube-search-placement-discovery-3611412d36d3/) | 1,703 | On demand | 2026-11-07T20:17:07.106600Z |
 | [Keyword Search Results and Page Summaries](datasets/keyword-search-and-url-summaries-3630558f97ed/) | 2 | On demand | 2026-10-29T11:31:03.092480Z |
-| [UK and Irish Horse Racing Odds](datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa/) | 31,728 | hourly | 2026-11-08T15:01:15.512185Z |
+| [UK and Irish Horse Racing Odds](datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa/) | 33,224 | hourly | 2026-11-08T19:00:49.883050Z |
 | [Irish Gigs and Music Festivals](datasets/ceolx-irish-gigs-and-festivals-3b8beb04ee74/) | 103 | daily | 2026-11-08T07:14:31.580977Z |
 | [Datarade Dataset Catalog](datasets/datasets-for-sale-3fb2e8b82ab2/) | 14,054 | On demand | 2026-10-31T12:08:13.007880Z |
 | [Workflow Automation Pricing and Changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
@@ -50,7 +50,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Last\-Minute Booking\.com Hotel Rates](datasets/241-travel-last-minute-booking-com-hotel-rates-8055aed53e5f/) | 240 | daily | 2026-11-08T06:03:52.063201Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Lisbon Coffee Brands at Street Venues](datasets/coffee-brand-on-the-street-lisbon-poc-823f5bfb06bb/) | 810 | On demand | 2026-11-04T02:32:30.185539Z |
-| [Spain Public\-Safety Signals](datasets/spain-public-safety-signals-mentelejos-demo-85c1f9170c06/) | 1,713 | hourly | 2026-11-08T14:02:13.600943Z |
+| [Spain Public\-Safety Signals](datasets/spain-public-safety-signals-mentelejos-demo-85c1f9170c06/) | 1,712 | hourly | 2026-11-08T17:43:49.124412Z |
 | [Georgia County Election Board Meetings, Motions and Votes](datasets/georgia-county-election-board-meetings-and-votes-886d693cbdab/) | 1,269 | On demand | 2026-11-02T11:10:55.955034Z |
 | [European Console Resale Prices](datasets/european-console-resale-prices-8a0b033ae1da/) | 410 | weekly | 2026-11-05T15:04:19.911305Z |
 | [Agent Builder Pricing and Changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
@@ -67,7 +67,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [RoomReview London Rental Sample](datasets/roomreview-london-postcode-sample-c52c262c0d84/) | 313 | On demand | 2026-11-08T08:05:23.206189Z |
 | [Lisbon &amp; Cascais €1M\+ Property Listings](datasets/bonte-filipidis-lisbon-cascais-1m-snapshot-c5f15a05fc46/) | 311 | On demand | 2026-11-08T07:57:29.642535Z |
 | [TMview Class 36 Trademarks and Publicly Evidenced Company Websites](datasets/tmview-class-36-brands-and-websites-cabdb479e298/) | 10 | On demand | 2026-10-26T17:23:00.087271Z |
-| [Deliveroo, Uber Eats and Just Eat Menu Prices in London](datasets/london-delivery-app-venues-and-menus-d603c7022886/) | 3,395 | weekly | 2026-11-01T13:26:30.960098Z |
+| [Deliveroo, Uber Eats and Just Eat Menu Prices in London](datasets/london-delivery-app-venues-and-menus-d603c7022886/) | 6,952,887 | weekly | 2026-11-08T17:42:33.650984Z |
 | [European Sports Camps \| Topsportscamps](datasets/european-sports-camps-topsportscamps-sample-d629fc29f7f3/) | 197 | weekly | 2026-11-06T21:12:05.289398Z |
 | [Vitória Short\-Term Rental Rates](datasets/operent-vit-ria-nightly-rental-rates-daa743691e70/) | 960 | daily | 2026-11-08T10:35:05.441108Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |

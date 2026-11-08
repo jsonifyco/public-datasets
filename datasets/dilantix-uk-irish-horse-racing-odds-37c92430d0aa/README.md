@@ -8,7 +8,7 @@ UK and Irish horse racing odds data\. The published dataset contains 33,224 rows
 
 - Refresh: hourly
 - Active pipeline version: 3
-- Last published: 2026-11-08T19:00:49.883050Z
+- Last published: 2026-11-08T23:00:52.157732Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## Dilantix Horse Racing Odds / odds
 
-33,224 total rows · 50 sampled · Output revision 27
-Published: 2026-11-08T19:00:49.883050Z · Producing pipeline version: 3
+33,224 total rows · 50 sampled · Output revision 31
+Published: 2026-11-08T23:00:52.157732Z · Producing pipeline version: 3
 
 [CSV sample](outputs/eb5416d66779/odds-1fd5faa9b5cf/sample.csv) · [JSON sample](outputs/eb5416d66779/odds-1fd5faa9b5cf/sample.json) · [Schema](outputs/eb5416d66779/odds-1fd5faa9b5cf/schema.json)
 

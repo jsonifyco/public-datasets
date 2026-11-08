@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Apartment sale listing prices per m² from ZAP Imóveis, Viva Real and OLX in São Paulo and Vitória\. The published dataset contains 120 rows\.
+Apartment sale listing prices per m² from ZAP Imóveis, Viva Real and OLX in São Paulo and Vitória\. The published dataset contains 180 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 2
-- Last published: 2026-11-07T10:31:03.466439Z
+- Last published: 2026-11-08T10:01:33.588598Z
 
 ## The brief
 
-> I need this data: Apartment sale listing prices per m² from ZAP Imóveis, Viva Real and OLX in São Paulo and Vitória\. The published dataset contains 120 rows\.
+> I need this data: Apartment sale listing prices per m² from ZAP Imóveis, Viva Real and OLX in São Paulo and Vitória\. The published dataset contains 180 rows\.
 
 Summary from the public dataset description.
 
 ## Domus apartment price history / observations
 
-120 total rows · 50 sampled · Output revision 2
-Published: 2026-11-07T10:31:03.466439Z · Producing pipeline version: 2
+180 total rows · 50 sampled · Output revision 3
+Published: 2026-11-08T10:01:33.588598Z · Producing pipeline version: 2
 
 [CSV sample](outputs/e3922300bff0/observations-bfc5a6b45b6a/sample.csv) · [JSON sample](outputs/e3922300bff0/observations-bfc5a6b45b6a/sample.json) · [Schema](outputs/e3922300bff0/observations-bfc5a6b45b6a/schema.json)
 
 | neighbourhood | address\_text | latitude | longitude | area\_total\_m2 | bedrooms | bathrooms | parking\_spaces |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Alto da Lapa | Rua Acopiara, 138 \- Alto da Lapa, São Paulo \- SP | \-23\.533924 | \-46\.71533 | None | 3 | 4 | 2 |
+| Enseada do Suá | Rua Taciano Abaurre, 60 \- Enseada do Suá, Vitória \- ES | \-20\.314778 | \-40\.295735 | None | 3 | 3 | 2 |
+| Vila Progresso Zona Leste | Rua Jequirana de Goiás, 572 \- Vila Progresso Zona Leste, São Paulo \- SP | \-23\.51783 | \-46\.428986 | None | 2 | 1 | 1 |
 | Jardim da Penha | Jardim da Penha, Vitória, ES, 29060030 | \-20\.285264 | \-40\.291704 | None | 2 | 2 | 1 |
 | Belém | Rua Doutor Fomm, 329 \- Belém, São Paulo \- SP | \-23\.546676 | \-46\.595077 | None | 2 | 1 | 1 |
-| Jardim Camburi | Rua Carlos Delgado Guerra Pinto, 505 \- Jardim Camburi, Vitória \- ES | \-20\.261127 | \-40\.270537 | None | 3 | 2 | 2 |
-| Várzea da Barra Funda | Várzea da Barra Funda, São Paulo, SP, 01139003 | \-23\.522555 | \-46\.661443 | None | None | None | 3 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

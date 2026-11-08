@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Spain public\-safety signals dataset with 742 rows across signals and source\-coverage tables\. The signals table contains 728 rows; the coverage table contains 14\.
+Spain public\-safety signals dataset with 892 rows across signals and source\-coverage tables\. The signals table contains 878 rows; the coverage table contains 14\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/spain-public-safety-signals-mentelejos-demo-85c1f9170c06?action=get) — CSV or JSON · Email required
 
 - Refresh: hourly
 - Active pipeline version: 1
-- Last published: 2026-11-07T20:19:07.451725Z
+- Last published: 2026-11-07T23:04:36.068162Z
 
 ## The brief
 
-> I need this data: Spain public\-safety signals dataset with 742 rows across signals and source\-coverage tables\. The signals table contains 728 rows; the coverage table contains 14\.
+> I need this data: Spain public\-safety signals dataset with 892 rows across signals and source\-coverage tables\. The signals table contains 878 rows; the coverage table contains 14\.
 
 Summary from the public dataset description.
 
 ## Spain public\-safety signals / signals
 
-728 total rows · 50 sampled · Output revision 2
-Published: 2026-11-07T20:19:07.451725Z · Producing pipeline version: 1
+878 total rows · 50 sampled · Output revision 3
+Published: 2026-11-07T23:04:36.068162Z · Producing pipeline version: 1
 
 [CSV sample](outputs/15a77f8665eb/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/15a77f8665eb/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/15a77f8665eb/signals-c1d2c1df9eab/schema.json)
 
 | alert\_status | area\_polygons | coordinate\_note | dedupe\_evidence | event\_date | incident\_id | incident\_type | kind |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | None | Coordinates only when explicitly supplied in the article\. | Exact source identity; no cross\-source match asserted\. | None | 9b5d0cdec600663cca00e17b | crime | signal |
-| Actual | \["42\.94,\-2\.98 42\.94,\-2\.93 42\.91,\-2\.… | Warning polygons supplied by source; no single incident point\. | Exact source identity; no cross\-source match asserted\. | None | AEMET:eb5438fe561d9b91c7c610b2 | weather alert | signal |
-| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29819587 | traffic | signal |
-| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29820589 | traffic | signal |
-| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29819261 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29818914 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29819796 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29819905 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29822645 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29819652 | traffic | signal |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -75,18 +75,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Spain public\-safety signals / coverage
 
-14 total rows · 10 sampled · Output revision 2
-Published: 2026-11-07T20:19:07.451725Z · Producing pipeline version: 1
+14 total rows · 10 sampled · Output revision 3
+Published: 2026-11-07T23:04:36.068162Z · Producing pipeline version: 1
 
 [CSV sample](outputs/15a77f8665eb/coverage-c3a3091b9d32/sample.csv) · [JSON sample](outputs/15a77f8665eb/coverage-c3a3091b9d32/sample.json) · [Schema](outputs/15a77f8665eb/coverage-c3a3091b9d32/schema.json)
 
 | checked\_at | coverage\_note | current\_signals | detail\_failure\_count | detail\_failures | duplicate\_links | excluded\_count | failure |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-07T20:17:50\.130381\+00:00 | Madrid local news sample from the current Madrid section; detail dates and safety relevance are checked\. | 5 | 0 | \[\] | None | 32 | None |
-| 2026\-11\-07T20:17:46\.386608\+00:00 | Recent public notices from the press index\. | 2 | 0 | \[\] | None | 3 | None |
-| 2026\-11\-07T20:17:46\.241392\+00:00 | Public communications only\. CAT112 open data aggregates monthly counts and is not a live incident feed\. | 0 | 0 | \[\] | None | 0 | None |
-| 2026\-11\-07T20:17:50\.355854\+00:00 | Valencian regional news sample from the current regional index; detail geography, dates and safety relevance are checked\. | 7 | 0 | \[\] | None | 123 | None |
-| 2026\-11\-07T20:17:49\.155497\+00:00 | Public communications only\. No open incident stream verified; institutional SMS/email and private emergency tracking are excluded\. | 0 | 0 | \[\] | None | 0 | No dated article links discovered on this public index\. This is not proof that no incidents occurred\. |
+| 2026\-11\-07T23:00:48\.040196\+00:00 | Madrid local news sample from the current Madrid section; detail dates and safety relevance are checked\. | 4 | 0 | \[\] | None | 32 | None |
+| 2026\-11\-07T23:00:47\.628487\+00:00 | Catalonia local news sample from the current society section; detail dates and safety relevance are checked\. | 4 | 0 | \[\] | None | 23 | None |
+| 2026\-11\-07T23:00:46\.948977\+00:00 | Public communications only\. No open incident stream verified; institutional SMS/email and private emergency tracking are excluded\. | 0 | 0 | \[\] | None | 0 | No dated article links discovered on this public index\. This is not proof that no incidents occurred\. |
+| 2026\-11\-07T23:00:44\.746717\+00:00 | Recent public press releases, not all police incidents\. | 2 | 0 | \[\] | None | 8 | None |
+| 2026\-11\-07T23:00:44\.319151\+00:00 | Public communications only\. CAT112 open data aggregates monthly counts and is not a live incident feed\. | 0 | 0 | \[\] | None | 0 | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

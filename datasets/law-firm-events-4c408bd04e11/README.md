@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 86 event records\.
+Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 86 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-07T09:12:39.719394Z
+- Last published: 2026-11-08T09:06:30.634419Z
 
 ## The brief
 
-> I need this data: Law firm events from Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 86 event records\.
+> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 86 event records\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-86 total rows · 10 sampled · Output revision 5
-Published: 2026-11-07T09:12:39.719394Z · Producing pipeline version: 3
+86 total rows · 10 sampled · Output revision 6
+Published: 2026-11-08T09:06:30.634419Z · Producing pipeline version: 3
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Sessão de cinema com a exibição de A Grande Ambição, filme de Andrea Segre, integrada num ciclo com curadoria especial da RISIFilm\. | None | 2026\-02\-02 | Ciclo de cinema na PLMJ \| A Grande Ambição | 19:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Ciclo\-de\-cinema\-na\-PLMJ\-A\-Grande\-Ambicao/34269/](<https://www.plmj.com/pt/conhecimento/eventos/Ciclo-de-cinema-na-PLMJ-A-Grande-Ambicao/34269/>) | PLMJ |
-| None | A specialisation course on artificial intelligence and human rights, covering legal, ethical and regulatory issues\. VdA lawyers Magda Cocco and Iakovina Kindylidi deliver a session titled “AI: Challenges for the Legal Profession”\. The course concludes with a hybrid session at the University of Coimbra\. | 2026\-11\-05 | 2026\-10\-01 | Specialisation Course – Artificial Intelligence and Human Rights: Justice, Technology, Health and Ethics | None | [https://www\.vda\.pt/en/media/events/vda\-participates\-in\-specialisation\-course\-on\-artificial\-intelligence\-and\-human\-rights/28828/](<https://www.vda.pt/en/media/events/vda-participates-in-specialisation-course-on-artificial-intelligence-and-human-rights/28828/>) | VdA |
-| None | Encontro que reúne especialistas de Portugal e do Brasil para debater desafios da arbitragem, com foco na produção de prova documental, prova ilícita e sigilo profissional\. | 2026\-07\-01 | 2026\-07\-01 | Encontro de Arbitragem Portugal/Brasil | 16:30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/encontro\-de\-arbitragem\-portugal\-brasil/](<https://abreuadvogados.com/conhecimento/eventos/abreu/encontro-de-arbitragem-portugal-brasil/>) | Abreu Advogados |
-| None | Conferência dedicada às principais alterações legislativas e desafios nas relações laborais e na gestão de Recursos Humanos\. Isabel Valente Dias participa na 2\.ª edição\. | None | 2026\-11\-03 | 2\.ª edição do Labour Law Day | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Isabel\-Valente\-Dias\-participa\-na\-2\-edicao\-do\-Labour\-Law\-Day/27190/](<https://www.mlgts.pt/pt/conhecimento/noticias/Isabel-Valente-Dias-participa-na-2-edicao-do-Labour-Law-Day/27190/>) | Morais Leitão |
-| None | Painel sobre os limites da autonomia dos agentes de inteligência artificial, governance, responsabilização e supervisão, com participação de Magda Viçoso, sócia da Morais Leitão, e outros especialistas\. O painel integra o Portugal Digital Summit 2026, que decorre nos dias 21 e 22 de outubro\. | None | 2026\-10\-21 | Human ↔ Agent: Where do you draw the line? | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Magda\-Vicoso\-debate\-os\-limites\-da\-autonomia\-dos\-AI\-Agents\-no\-Portugal\-Digital\-Summit\-2026/27173/](<https://www.mlgts.pt/pt/conhecimento/noticias/Magda-Vicoso-debate-os-limites-da-autonomia-dos-AI-Agents-no-Portugal-Digital-Summit-2026/27173/>) | Morais Leitão |
+| None | A colloquium marking the 40th anniversary of the Portuguese Companies Code and the 20th anniversary of its major 2006 reform\. VdA's Paulo Olavo Cunha is on the scientific committee and will speak and moderate panels\. The event continues in Lisbon after an earlier session in Porto on 26 October\. | None | 2026\-11\-02 | Colloquium “Católica and Four Decades of the Portuguese Companies Code” | None | [https://www\.vda\.pt/en/media/events/colloquium\-catolica\-and\-four\-decades\-of\-the\-portuguese\-companies\-code/28875/](<https://www.vda.pt/en/media/events/colloquium-catolica-and-four-decades-of-the-portuguese-companies-code/28875/>) | VdA |
+| None | Sessão do ciclo de cinema da PLMJ, com exibição do filme A Grande Ambição, numa curadoria especial da RISIFilm\. | None | 2026\-02\-02 | Ciclo de cinema na PLMJ \| A Grande Ambição | 19:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Ciclo\-de\-cinema\-na\-PLMJ\-A\-Grande\-Ambicao/34269/](<https://www.plmj.com/pt/conhecimento/eventos/Ciclo-de-cinema-na-PLMJ-A-Grande-Ambicao/34269/>) | PLMJ |
+| None | Conferência organizada pela Morais Leitão/Instituto Miguel Galvão Teles e Catarina Monteiro Pires, por ocasião dos 60 anos do Código Civil Português, sobre a evolução do direito civil português e os desafios futuros\. | None | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
+| None | Uma manhã dedicada a discutir o futuro do teletrabalho e os seus impactos na organização das empresas, com especialistas de vários setores e a participação da ministra do Trabalho, Solidariedade e Segurança Social\. | None | 2025\-10\-14 | Teletrabalho em Portugal: desafios e oportunidades do futuro | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Teletrabalho\-em\-Portugal\-desafios\-e\-oportunidades\-do\-futuro/34063/](<https://www.plmj.com/pt/conhecimento/eventos/Teletrabalho-em-Portugal-desafios-e-oportunidades-do-futuro/34063/>) | PLMJ |
+| None | Filipe Vasconcelos Fernandes will participate in the conference and join a 3:00 p\.m\. panel discussion, “The Iberian Example in the Energy Transition\.” The conference will address energy\-sector topics including electrification, security of supply and the transformation of the electricity system\. | None | 2026\-10\-21 | ELECPOR Full Power 2026 Conference | None | [https://www\.vda\.pt/en/media/events/elecpor\-full\-power\-2026\-conference/28835/](<https://www.vda.pt/en/media/events/elecpor-full-power-2026-conference/28835/>) | VdA |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

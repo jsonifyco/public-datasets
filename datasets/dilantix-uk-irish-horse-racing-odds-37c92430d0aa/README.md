@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-UK and Irish horse racing odds data\. The published dataset contains 21,120 rows in total, all in the odds table, with fields describing races, runners, bookmakers, prices and collection times\.
+UK and Irish horse racing odds data\. The published dataset contains 21,120 rows in its odds table, with fields for races, runners, bookmakers, prices and collection times\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa?action=get) — CSV or JSON · Email required
 
 - Refresh: hourly
 - Active pipeline version: 3
-- Last published: 2026-11-07T20:17:21.654187Z
+- Last published: 2026-11-07T23:00:50.944539Z
 
 ## The brief
 
-> I need this data: UK and Irish horse racing odds data\. The published dataset contains 21,120 rows in total, all in the odds table, with fields describing races, runners, bookmakers, prices and collection times\.
+> I need this data: UK and Irish horse racing odds data\. The published dataset contains 21,120 rows in its odds table, with fields for races, runners, bookmakers, prices and collection times\.
 
 Summary from the public dataset description.
 
 ## Dilantix Horse Racing Odds / odds
 
-21,120 total rows · 50 sampled · Output revision 13
-Published: 2026-11-07T20:17:21.654187Z · Producing pipeline version: 3
+21,120 total rows · 50 sampled · Output revision 16
+Published: 2026-11-07T23:00:50.944539Z · Producing pipeline version: 3
 
 [CSV sample](outputs/eb5416d66779/odds-1fd5faa9b5cf/sample.csv) · [JSON sample](outputs/eb5416d66779/odds-1fd5faa9b5cf/sample.json) · [Schema](outputs/eb5416d66779/odds-1fd5faa9b5cf/schema.json)
 

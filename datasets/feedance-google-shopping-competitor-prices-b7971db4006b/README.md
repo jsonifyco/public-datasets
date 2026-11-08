@@ -145,7 +145,8 @@ flowchart LR
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-08T07:21:58.387656Z: no change
+- 2026-11-08T07:22:28.773728Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/feedance-google-shopping-competitor-prices-b7971db4006b?action=get) — CSV or JSON · Email required
 

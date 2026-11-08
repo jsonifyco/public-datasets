@@ -1,0 +1,42 @@
+[
+  {
+    "note": "Every delivered row was checked against its source detail page. Required identities, municipality, price and residential type were checked. Initial access errors were recovered; see Coverage for source-specific notes.",
+    "topic": "Verification"
+  },
+  {
+    "note": "One source listing, deduplicated within each source by listing ID. Counts are listings, not unique homes across agencies; the same property may appear on multiple sources. No speculative cross-source matches.",
+    "topic": "Unit of observation"
+  },
+  {
+    "note": "Source area definitions differ. area_basis preserves the distinction between gross area, gross private area, gross construction area and an unspecified source area. Do not compare values without checking this field. price_per_m2_basis distinguishes displayed values from calculated asking-price/area values.",
+    "topic": "Area and price per square metre"
+  },
+  {
+    "note": "Residential sale listings asking at least EUR 1,000,000 in the municipalities of Lisboa and Cascais. Fixed sample, not exhaustive inventory or a statistically representative market estimate. No scheduled refresh.",
+    "topic": "Scope"
+  },
+  {
+    "note": "No explicit original first-listed date or days-on-market was found in the delivered detail pages. These columns remain blank. Last-updated labels and record-creation/publication metadata are not treated as first market listing dates.",
+    "topic": "Dates"
+  },
+  {
+    "note": "Previous price and price-cut amount are filled only for nine Idealista listings with a source-displayed former price. Blank means not shown, not no reduction. Price-cut amount equals former asking price minus current asking price.",
+    "topic": "Price history"
+  },
+  {
+    "note": "Idealista: three result pages per municipality. Sotheby’s: four per municipality. JLL: six national result pages sorted by descending price, filtered to the two municipalities and residential units. Christie’s: eligible listings from the first results page. This sampling favours featured and higher-priced listings.",
+    "topic": "Sampling"
+  },
+  {
+    "note": "One-off demo snapshot for Andrew Freire, Commercial Director at Bonte Filipidis, Web Summit meeting 11 November 2026 at 10:00. Collected and verified 7 November 2026.",
+    "topic": "Purpose"
+  },
+  {
+    "note": "Bedroom counts follow the displayed headline typology. Additional rooms in descriptions (for example T5+2) are not silently added. One Sotheby’s palace lacks an explicit total bedroom count and remains blank.",
+    "topic": "Bedrooms"
+  },
+  {
+    "note": "Verification establishes what the public source pages displayed on 7 November 2026. No agency was contacted to confirm availability.",
+    "topic": "Availability"
+  }
+]

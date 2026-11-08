@@ -1,0 +1,34 @@
+[
+  {
+    "name": "cascais",
+    "type": "integer"
+  },
+  {
+    "name": "coverage_and_failures",
+    "type": "text"
+  },
+  {
+    "name": "lisboa",
+    "type": "integer"
+  },
+  {
+    "name": "listings",
+    "type": "integer"
+  },
+  {
+    "name": "price_cuts_shown",
+    "type": "integer"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "unresolved_access_failures",
+    "type": "integer"
+  }
+]

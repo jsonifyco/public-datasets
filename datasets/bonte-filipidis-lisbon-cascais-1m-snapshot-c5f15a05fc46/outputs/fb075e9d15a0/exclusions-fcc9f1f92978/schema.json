@@ -1,0 +1,18 @@
+[
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "reason",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

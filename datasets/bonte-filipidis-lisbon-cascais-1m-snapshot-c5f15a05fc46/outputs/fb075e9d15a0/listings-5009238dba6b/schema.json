@@ -1,0 +1,94 @@
+[
+  {
+    "name": "agency",
+    "type": "text"
+  },
+  {
+    "name": "area_basis",
+    "type": "text"
+  },
+  {
+    "name": "area_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "asking_price_eur",
+    "type": "integer"
+  },
+  {
+    "name": "bedrooms",
+    "type": "integer"
+  },
+  {
+    "name": "days_on_market",
+    "type": "text"
+  },
+  {
+    "name": "first_listed_date",
+    "type": "text"
+  },
+  {
+    "name": "history_note",
+    "type": "text"
+  },
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "municipality",
+    "type": "text"
+  },
+  {
+    "name": "parish",
+    "type": "text"
+  },
+  {
+    "name": "parish_original",
+    "type": "text"
+  },
+  {
+    "name": "previous_price_eur",
+    "type": "integer"
+  },
+  {
+    "name": "price_cut_amount_eur",
+    "type": "integer"
+  },
+  {
+    "name": "price_per_m2_basis",
+    "type": "text"
+  },
+  {
+    "name": "price_per_m2_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "property_type",
+    "type": "text"
+  },
+  {
+    "name": "snapshot_date",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_reference",
+    "type": "text"
+  },
+  {
+    "name": "source_title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "verification_level",
+    "type": "text"
+  }
+]

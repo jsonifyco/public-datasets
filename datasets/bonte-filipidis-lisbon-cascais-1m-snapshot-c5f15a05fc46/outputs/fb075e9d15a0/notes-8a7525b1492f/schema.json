@@ -1,0 +1,10 @@
+[
+  {
+    "name": "note",
+    "type": "text"
+  },
+  {
+    "name": "topic",
+    "type": "text"
+  }
+]

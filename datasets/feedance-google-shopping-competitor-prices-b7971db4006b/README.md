@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Google Shopping competitor prices: a published dataset with 5,181 rows across offer and coverage tables\. Offer records include product, seller, price, availability, and collection\-time fields\.
+Google Shopping competitor prices: a published dataset with 8,287 rows across offer and coverage tables\. Offer records include product, seller, price, availability, and collection\-time fields\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/feedance-google-shopping-competitor-prices-b7971db4006b?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
-- Active pipeline version: 10
-- Last published: 2026-11-07T22:05:33.265183Z
+- Refresh: On demand
+- Active pipeline version: 11
+- Last published: 2026-11-08T11:20:28.949583Z
 
 ## The brief
 
-> I need this data: Google Shopping competitor prices: a published dataset with 5,181 rows across offer and coverage tables\. Offer records include product, seller, price, availability, and collection\-time fields\.
+> I need this data: Google Shopping competitor prices: a published dataset with 8,287 rows across offer and coverage tables\. Offer records include product, seller, price, availability, and collection\-time fields\.
 
 Summary from the public dataset description.
 
 ## Feedance Shopping price sample / offers
 
-4,881 total rows · 50 sampled · Output revision 3
-Published: 2026-11-07T22:05:33.265183Z · Producing pipeline version: 10
+7,825 total rows · 50 sampled · Output revision 5
+Published: 2026-11-08T11:20:28.949583Z · Producing pipeline version: 11
 
 [CSV sample](outputs/fd6c7b3425ee/offers-92ab364e8f43/sample.csv) · [JSON sample](outputs/fd6c7b3425ee/offers-92ab364e8f43/sample.json) · [Schema](outputs/fd6c7b3425ee/offers-92ab364e8f43/schema.json)
 
 | availability | category | collected\_at | condition | country | currency | google\_product\_id | in\_stock |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| In stock online | Consumer electronics | 2026\-11\-08T08:19:14\.976210\+00:00 | pre\-owned | TR | TRY | 15815374814125666895 | True |
+| In stock online | Consumer electronics | 2026\-11\-08T07:41:38\.201584\+00:00 | None | TR | TRY | 14071762899919023594 | True |
+| In stock online | Consumer electronics | 2026\-11\-08T07:50:51\.600993\+00:00 | None | GB | GBP | 5261954421047108774 | True |
 | In stock online | Consumer electronics | 2026\-11\-07T19:10:49\.721608\+00:00 | None | TR | TRY | 14618855503879562951 | True |
-| In stock online | Beauty | 2026\-11\-07T20:07:02\.378792\+00:00 | None | TR | TRY | 6396916993623162009 | True |
-| In stock online | Sports | 2026\-11\-07T21:21:22\.874348\+00:00 | None | DE | EUR | 7258080040349370577 | True |
-| In stock online | Beauty | 2026\-11\-07T20:27:54\.048152\+00:00 | None | DE | EUR | 4391031814902318852 | True |
-| In stock online | Beauty | 2026\-11\-07T20:33:42\.382752\+00:00 | None | TR | TRY | 8678671275648948544 | True |
+| In stock online | Sports | 2026\-11\-08T11:13:48\.798121\+00:00 | None | GB | GBP | 9646039133260821952 | True |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -63,18 +63,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Feedance Shopping price sample / coverage
 
-300 total rows · 50 sampled · Output revision 3
-Published: 2026-11-07T22:05:33.265183Z · Producing pipeline version: 10
+462 total rows · 50 sampled · Output revision 5
+Published: 2026-11-08T11:20:28.949583Z · Producing pipeline version: 11
 
 [CSV sample](outputs/fd6c7b3425ee/coverage-c3a3091b9d32/sample.csv) · [JSON sample](outputs/fd6c7b3425ee/coverage-c3a3091b9d32/sample.json) · [Schema](outputs/fd6c7b3425ee/coverage-c3a3091b9d32/schema.json)
 
 | canonical\_title | category | collected\_at | country | note | offers\_count | product\_groups\_checked | product\_groups\_unavailable |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Bosch Series 4 MUM54251 Kitchen Machine, White/Silver | Small appliances | 2026\-11\-07T19:29:02\.969879\+00:00 | GB | No exact product group identified in inspected Shopping results; this does not establish market unavailability\. | 0 | 0 | 0 |
+| The Ordinary Niacinamide 10% \+ Zinc 1% Serum, 30ml | Beauty | 2026\-11\-08T08:26:07\.908122\+00:00 | GB | Matching groups from initial search results, including localized Turkish discovery and keyword\-page recovery; expanded seller rows checked\. Ranking is source panel order before identity filtering\. Unknown shipping, stock or condition stays empty\. Product rating is shared by the Google group, not a seller rating\. Compact review counts retain their display text\. Country is the Google Shopping market; shipping is the displayed estimate without a supplied delivery postcode\. Original foreign\-price text is retained when shown\. | 36 | 23 | 0 |
 | JBL Charge 5 Portable Bluetooth Speaker, Black | Consumer electronics | 2026\-11\-07T14:32:15\.044688\+00:00 | TR | Matching groups from initial search results, including localized Turkish discovery and keyword\-page recovery; expanded seller rows checked\. Ranking is source panel order before identity filtering\. Unknown shipping, stock or condition stays empty\. Product rating is shared by the Google group, not a seller rating\. Compact review counts retain their display text\. Country is the Google Shopping market; shipping is the displayed estimate without a supplied delivery postcode\. Original foreign\-price text is retained when shown\. | 4 | 8 | 0 |
 | Therabody Theragun Mini 2nd Generation Massage Gun, Black | Sports | 2026\-11\-07T21:19:51\.686068\+00:00 | DE | Matching groups from initial search results, including localized Turkish discovery and keyword\-page recovery; expanded seller rows checked\. Ranking is source panel order before identity filtering\. Unknown shipping, stock or condition stays empty\. Product rating is shared by the Google group, not a seller rating\. Compact review counts retain their display text\. Country is the Google Shopping market; shipping is the displayed estimate without a supplied delivery postcode\. Original foreign\-price text is retained when shown\. | 4 | 2 | 0 |
 | SanDisk Extreme Portable SSD, 1TB, Black | Consumer electronics | 2026\-11\-07T14:50:59\.249445\+00:00 | TR | Matching groups from initial search results, including localized Turkish discovery and keyword\-page recovery; expanded seller rows checked\. Ranking is source panel order before identity filtering\. Unknown shipping, stock or condition stays empty\. Product rating is shared by the Google group, not a seller rating\. Compact review counts retain their display text\. Country is the Google Shopping market; shipping is the displayed estimate without a supplied delivery postcode\. Original foreign\-price text is retained when shown\. | 0 | 1 | 0 |
-| Clinique Moisture Surge 100H Auto\-Replenishing Hydrator, 50ml | Beauty | 2026\-11\-07T20:43:36\.373919\+00:00 | TR | Matching groups from initial search results, including localized Turkish discovery and keyword\-page recovery; expanded seller rows checked\. Ranking is source panel order before identity filtering\. Unknown shipping, stock or condition stays empty\. Product rating is shared by the Google group, not a seller rating\. Compact review counts retain their display text\. Country is the Google Shopping market; shipping is the displayed estimate without a supplied delivery postcode\. Original foreign\-price text is retained when shown\. | 79 | 5 | 0 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -142,6 +142,7 @@ flowchart LR
 - 2026-11-07T11:40:34.136702Z: v8: Exclude replacement vacuum parts and separate ambiguous regional product configurations using verified identifiers\. Expand same\-market discovery and retain explicit coverage gaps\.
 - 2026-11-07T15:08:19.590978Z: v9: Keep streaming\-device generations and distinct beauty packaging separate when matching seller offers and reconciling saved observations\.
 - 2026-11-07T21:59:48.848609Z: v10: Product pages that load without seller quotes are now checked twice and recorded as missing seller details, allowing the other matching groups to finish\.
+- 2026-11-08T09:04:33.002431Z: v11: Add another same\-country connection for Google Shopping seller pages when existing connections fail\. Preserve all product checks and seller coverage\.
 
 ## Recorded repairs
 

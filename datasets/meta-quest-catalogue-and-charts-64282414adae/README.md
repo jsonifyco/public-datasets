@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore 13,060 published Meta Quest catalogue and chart rows, with app details such as prices, ratings, categories, and supported devices\. The published tables include 13,053 app observations and 7 unavailable\-app records\.
+Explore 13,060 published Meta Quest catalogue and chart rows, including app details such as prices, ratings, categories, and supported devices\. The published tables contain 13,053 app observations and 7 unavailable\-app records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/meta-quest-catalogue-and-charts-64282414adae?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 15
-- Last published: 2026-11-07T22:13:06.107459Z
+- Active pipeline version: 16
+- Last published: 2026-11-08T04:48:01.869925Z
 
 ## The brief
 
-> I need this data: Explore 13,060 published Meta Quest catalogue and chart rows, with app details such as prices, ratings, categories, and supported devices\. The published tables include 13,053 app observations and 7 unavailable\-app records\.
+> I need this data: Explore 13,060 published Meta Quest catalogue and chart rows, including app details such as prices, ratings, categories, and supported devices\. The published tables contain 13,053 app observations and 7 unavailable\-app records\.
 
 Summary from the public dataset description.
 
 ## Meta Quest catalogue and charts / observations
 
-13,053 total rows · 50 sampled · Output revision 1
-Published: 2026-11-07T22:13:06.107459Z · Producing pipeline version: 12
+13,053 total rows · 50 sampled · Output revision 3
+Published: 2026-11-08T04:48:01.869925Z · Producing pipeline version: 16
 
 [CSV sample](outputs/f342597f4e56/observations-bfc5a6b45b6a/sample.csv) · [JSON sample](outputs/f342597f4e56/observations-bfc5a6b45b6a/sample.json) · [Schema](outputs/f342597f4e56/observations-bfc5a6b45b6a/schema.json)
 
 | app\_id | app\_name | category\_genres | chart\_name | collected\_at | currency | developer | last\_updated |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1336992516166666 | Clark Rooms | \{"genres": \["Platformer", "Action", "Adventure", "Survival"\], "category": "Games"} | None | 2026\-11\-07T01:33:23\.804180\+00:00 | EUR | jjwx | None |
-| 2423260194849756 | HoloDentist | \{"genres": \["Learning", "Medical", "Productivity"\], "category": "Apps"} | None | 2026\-11\-07T04:56:40\.047324\+00:00 | USD | Fifth Ingenium | None |
-| 8455397034566726 | Skill Issue VR | \{"genres": \["Arcade", "Puzzle", "Simulation", "Action"\], "category": "Games"} | None | 2026\-11\-07T13:01:52\.099278\+00:00 | USD | Ecsedi | None |
-| 7008794785815209 | Monkeys Paradise | \{"genres": \["Platformer", "Action"\], "category": "Games"} | None | 2026\-11\-07T08:39:32\.527378\+00:00 | EUR | CheeseburgerOrg | None |
-| 6057613437654197 | The Turn | \{"genres": \["Arcade", "Deportes", "Simulación", "Acción"\], "category": "Juegos"} | None | 2026\-11\-07T17:58:59\.152286\+00:00 | MXN | Yurii Kaplunov | None |
+| 6670280759708096 | Change In Volume Of Gas \- ContentsDa Science Experiment | \{"genres": \["Learning"\], "category": "Apps"} | None | 2026\-11\-07T01:19:54\.479561\+00:00 | USD | ContentsDaInc | None |
+| 9501224699934260 | BoxCityVr | \{"genres": \["Platformer", "Action"\], "category": "Games"} | None | 2026\-11\-07T00:21:20\.323412\+00:00 | EUR | HaloPlaceVR | None |
+| 27646531954991852 | Journeys End A New Beginning v2 | \{"genres": \["Shooter", "Action", "Survival"\], "category": "Games"} | None | 2026\-11\-07T05:39:33\.931644\+00:00 | USD | NV Studios LLC | None |
+| 6353083834781521 | Shark Stop | \{"genres": \["Sandbox", "Hangout"\], "category": "Games"} | None | 2026\-11\-07T12:52:38\.124361\+00:00 | USD | ZestyStudio | None |
+| 9489032567874235 | Cibus Odyssey | \{"genres": \["Tabletop", "Strategy", "Party game"\], "category": "Games"} | None | 2026\-11\-07T01:28:19\.587726\+00:00 | USD | LUDENS\_corp | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -56,18 +56,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Meta Quest catalogue and charts / unavailable\_apps
 
-7 total rows · 7 sampled · Output revision 1
-Published: 2026-11-07T22:13:06.107459Z · Producing pipeline version: 12
+7 total rows · 7 sampled · Output revision 3
+Published: 2026-11-08T04:48:01.869925Z · Producing pipeline version: 16
 
 [CSV sample](outputs/f342597f4e56/unavailable-apps-a66bf33be557/sample.csv) · [JSON sample](outputs/f342597f4e56/unavailable-apps-a66bf33be557/sample.json) · [Schema](outputs/f342597f4e56/unavailable-apps-a66bf33be557/schema.json)
 
 | app\_id | appearances | availability\_status | collected\_at | reason | store\_url |
 | --- | --- | --- | --- | --- | --- |
-| 9465027033537283 | \[\{"rank": null, "chart\_name": null}\] | source\_confirmed\_unavailable | 2026\-11\-07T22:11:05\.077734\+00:00 | Meta says this page is temporarily unavailable\. | [https://www\.meta\.com/experiences/9465027033537283/](<https://www.meta.com/experiences/9465027033537283/>) |
+| 6371182992938672 | \[\{"rank": null, "chart\_name": null}\] | source\_confirmed\_unavailable | 2026\-11\-07T22:10:23\.205656\+00:00 | Meta says this page is temporarily unavailable\. | [https://www\.meta\.com/experiences/6371182992938672/](<https://www.meta.com/experiences/6371182992938672/>) |
 | 6707631349366674 | \[\{"rank": null, "chart\_name": null}\] | source\_confirmed\_unavailable | 2026\-11\-07T22:12:58\.453978\+00:00 | Meta says this page is temporarily unavailable\. | [https://www\.meta\.com/experiences/6707631349366674/](<https://www.meta.com/experiences/6707631349366674/>) |
-| 7322868361059572 | \[\{"rank": null, "chart\_name": null}\] | source\_confirmed\_unavailable | 2026\-11\-07T22:10:39\.628576\+00:00 | Meta says this page is temporarily unavailable\. | [https://www\.meta\.com/experiences/7322868361059572/](<https://www.meta.com/experiences/7322868361059572/>) |
-| 23954694280811521 | \[\{"rank": null, "chart\_name": null}\] | source\_confirmed\_unavailable | 2026\-11\-07T22:12:27\.564796\+00:00 | Meta says this page is temporarily unavailable\. | [https://www\.meta\.com/experiences/23954694280811521/](<https://www.meta.com/experiences/23954694280811521/>) |
 | 6122534951199045 | \[\{"rank": null, "chart\_name": null}\] | source\_confirmed\_unavailable | 2026\-11\-07T22:12:24\.097533\+00:00 | Meta says this page is temporarily unavailable\. | [https://www\.meta\.com/experiences/6122534951199045/](<https://www.meta.com/experiences/6122534951199045/>) |
+| 9465027033537283 | \[\{"rank": null, "chart\_name": null}\] | source\_confirmed\_unavailable | 2026\-11\-07T22:11:05\.077734\+00:00 | Meta says this page is temporarily unavailable\. | [https://www\.meta\.com/experiences/9465027033537283/](<https://www.meta.com/experiences/9465027033537283/>) |
+| 7322868361059572 | \[\{"rank": null, "chart\_name": null}\] | source\_confirmed\_unavailable | 2026\-11\-07T22:10:39\.628576\+00:00 | Meta says this page is temporarily unavailable\. | [https://www\.meta\.com/experiences/7322868361059572/](<https://www.meta.com/experiences/7322868361059572/>) |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -141,6 +141,7 @@ flowchart LR
 - 2026-11-07T22:20:59.272765Z: v13: Fill missed release dates using Meta’s English pages, preserving the original snapshot’s other values and unavailable listings\.
 - 2026-11-07T22:27:14.427697Z: v14: Corrects localized decimal prices using official pages in the original currency while preserving saved snapshot details\.
 - 2026-11-07T23:39:32.161820Z: v15: Handles Meta’s additional explicit unavailable\-page message so missing\-date checks can continue without losing saved details\.
+- 2026-11-08T01:46:53.983549Z: v16: Corrects the Swiss\-price page route while preserving CHF and saved app details\.
 
 ## Recorded repairs
 

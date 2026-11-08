@@ -1,28 +1,25 @@
 [
   {
-    "app_id": "1336992516166666",
-    "app_name": "Clark Rooms",
+    "app_id": "6670280759708096",
+    "app_name": "Change In Volume Of Gas - ContentsDa Science Experiment",
     "category_genres": {
-      "category": "Games",
+      "category": "Apps",
       "genres": [
-        "Platformer",
-        "Action",
-        "Adventure",
-        "Survival"
+        "Learning"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T01:33:23.804180+00:00",
-    "currency": "EUR",
-    "developer": "jjwx",
+    "collected_at": "2026-11-07T01:19:54.479561+00:00",
+    "currency": "USD",
+    "developer": "ContentsDaInc",
     "last_updated": null,
-    "price": 0,
-    "publisher": "JJ",
+    "price": 49.99,
+    "publisher": "ContentsDa Inc",
     "rank": null,
-    "rating_avg": 4.8008097165992,
-    "rating_count": 1235,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/clark-rooms/1336992516166666/",
+    "rating_avg": 0,
+    "rating_count": 0,
+    "release_date": "2024-05-09",
+    "store_url": "https://www.meta.com/experiences/change-in-volume-of-gas-contentsda-science-experiment/6670280759708096/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -31,238 +28,144 @@
     ]
   },
   {
-    "app_id": "2423260194849756",
-    "app_name": "HoloDentist",
+    "app_id": "9501224699934260",
+    "app_name": "BoxCityVr",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Platformer",
+        "Action"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T00:21:20.323412+00:00",
+    "currency": "EUR",
+    "developer": "HaloPlaceVR",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "MTU",
+    "rank": null,
+    "rating_avg": 4.9047619047619,
+    "rating_count": 21,
+    "release_date": "2025-03-27",
+    "store_url": "https://www.meta.com/en-gb/experiences/boxcityvr/9501224699934260/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "27646531954991852",
+    "app_name": "Journeys End A New Beginning v2",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Shooter",
+        "Action",
+        "Survival"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T05:39:33.931644+00:00",
+    "currency": "USD",
+    "developer": "NV Studios LLC",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "NV Studios",
+    "rank": null,
+    "rating_avg": 4.75,
+    "rating_count": 4,
+    "release_date": "2024-11-20",
+    "store_url": "https://www.meta.com/experiences/journeys-end-a-new-beginning-v2/27646531954991852/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "6353083834781521",
+    "app_name": "Shark Stop",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Sandbox",
+        "Hangout"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T12:52:38.124361+00:00",
+    "currency": "USD",
+    "developer": "ZestyStudio",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "ZestyVR",
+    "rank": null,
+    "rating_avg": 5,
+    "rating_count": 2,
+    "release_date": "2023-06-20",
+    "store_url": "https://www.meta.com/experiences/shark-stop/6353083834781521/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "9489032567874235",
+    "app_name": "Cibus Odyssey",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Tabletop",
+        "Strategy",
+        "Party game"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T01:28:19.587726+00:00",
+    "currency": "USD",
+    "developer": "LUDENS_corp",
+    "last_updated": null,
+    "price": 4.99,
+    "publisher": "LUDENS Co., Ltd.",
+    "rank": null,
+    "rating_avg": 5,
+    "rating_count": 6,
+    "release_date": "2025-06-22",
+    "store_url": "https://www.meta.com/experiences/cibus-odyssey/9489032567874235/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "5605166159514983",
+    "app_name": "Interaction SDK Samples",
     "category_genres": {
       "category": "Apps",
       "genres": [
-        "Learning",
-        "Medical",
         "Productivity"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T04:56:40.047324+00:00",
+    "collected_at": "2026-11-07T05:19:43.556872+00:00",
     "currency": "USD",
-    "developer": "Fifth Ingenium",
+    "developer": "Meta Quest Samples",
     "last_updated": null,
     "price": 0,
-    "publisher": "Fifth Ingenium",
+    "publisher": "Meta",
     "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2026-07-17",
-    "store_url": "https://www.meta.com/experiences/holodentist/2423260194849756/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3"
-    ]
-  },
-  {
-    "app_id": "8455397034566726",
-    "app_name": "Skill Issue VR",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Arcade",
-        "Puzzle",
-        "Simulation",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T13:01:52.099278+00:00",
-    "currency": "USD",
-    "developer": "Ecsedi",
-    "last_updated": null,
-    "price": 4.99,
-    "publisher": "Ecsedi",
-    "rank": null,
-    "rating_avg": 4.9411764705882,
-    "rating_count": 17,
-    "release_date": "2025-02-07",
-    "store_url": "https://www.meta.com/en-gb/experiences/skill-issue-vr/8455397034566726/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "7008794785815209",
-    "app_name": "Monkeys Paradise",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T08:39:32.527378+00:00",
-    "currency": "EUR",
-    "developer": "CheeseburgerOrg",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Cheeseburger",
-    "rank": null,
-    "rating_avg": 4.2820512820513,
-    "rating_count": 39,
-    "release_date": "2023-07-10",
-    "store_url": "https://www.meta.com/en-gb/experiences/monkeys-paradise/7008794785815209/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "6057613437654197",
-    "app_name": "The Turn",
-    "category_genres": {
-      "category": "Juegos",
-      "genres": [
-        "Arcade",
-        "Deportes",
-        "Simulación",
-        "Acción"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T17:58:59.152286+00:00",
-    "currency": "MXN",
-    "developer": "Yurii Kaplunov",
-    "last_updated": null,
-    "price": 92,
-    "publisher": "Raptor`s Games",
-    "rank": null,
-    "rating_avg": 3.6363636363636,
-    "rating_count": 11,
-    "release_date": null,
-    "store_url": "https://www.meta.com/es-mx/experiences/the-turn/6057613437654197/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2",
-      "Meta Quest"
-    ]
-  },
-  {
-    "app_id": "27187331584187684",
-    "app_name": "Thought Orb",
-    "category_genres": {
-      "category": "Apps",
-      "genres": [
-        "Fitness & wellness"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T18:00:46.553339+00:00",
-    "currency": "USD",
-    "developer": "taskruru",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "taskruru",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2026-04-03",
-    "store_url": "https://www.meta.com/experiences/thought-orb/27187331584187684/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "31761381436793557",
-    "app_name": "Security Inc.",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Shooter",
-        "Arcade",
-        "Adventure",
-        "Action",
-        "Survival"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T12:49:22.283736+00:00",
-    "currency": "USD",
-    "developer": "Enterality",
-    "last_updated": null,
-    "price": 11.99,
-    "publisher": "Entrality ",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 3,
-    "release_date": "2025-10-01",
-    "store_url": "https://www.meta.com/experiences/security-inc/31761381436793557/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "7426118710849456",
-    "app_name": "Deep Space Dilemmas",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Shooter",
-        "Adventure",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T03:02:20.929410+00:00",
-    "currency": "USD",
-    "developer": "Codenrama2024",
-    "last_updated": null,
-    "price": 7.99,
-    "publisher": "Codenrama",
-    "rank": null,
-    "rating_avg": 3.7222222222222,
-    "rating_count": 36,
-    "release_date": "2024-07-06",
-    "store_url": "https://www.meta.com/experiences/deep-space-dilemmas/7426118710849456/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "5928247153853740",
-    "app_name": "Bouge ta ville !",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Simulation",
-        "Education"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T00:15:56.436660+00:00",
-    "currency": "USD",
-    "developer": "Mobi.deep",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Unity",
-    "rank": null,
-    "rating_avg": 4.2,
-    "rating_count": 5,
-    "release_date": "2022-12-07",
-    "store_url": "https://www.meta.com/experiences/bouge-ta-ville/5928247153853740/",
+    "rating_avg": 4.75,
+    "rating_count": 8,
+    "release_date": "2022-09-16",
+    "store_url": "https://www.meta.com/experiences/interaction-sdk-samples/5605166159514983/",
     "supported_devices": [
       "Meta Quest",
       "Meta Quest 3S",
@@ -272,27 +175,26 @@
     ]
   },
   {
-    "app_id": "24389788310622752",
-    "app_name": "VR Detective",
+    "app_id": "28271795105767874",
+    "app_name": "Safety Education : rescue",
     "category_genres": {
-      "category": "Games",
+      "category": "Apps",
       "genres": [
-        "Puzzle",
-        "Adventure"
+        "Learning"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T18:56:33.225168+00:00",
-    "currency": "EUR",
-    "developer": "LiveRoom Dev",
+    "collected_at": "2026-11-07T12:39:08.592970+00:00",
+    "currency": "USD",
+    "developer": "safe_vr",
     "last_updated": null,
-    "price": 2.99,
-    "publisher": "Liveroom",
+    "price": 30.99,
+    "publisher": "eduforall",
     "rank": null,
-    "rating_avg": 1,
-    "rating_count": 4,
-    "release_date": "2025-06-09",
-    "store_url": "https://www.meta.com/en-gb/experiences/vr-detective/24389788310622752/",
+    "rating_avg": 0,
+    "rating_count": 0,
+    "release_date": "2025-01-29",
+    "store_url": "https://www.meta.com/experiences/safety-education-rescue/28271795105767874/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -301,27 +203,87 @@
     ]
   },
   {
-    "app_id": "8378725502157946",
-    "app_name": "Dance Eden",
+    "app_id": "1376633334659952",
+    "app_name": "Animaloop",
     "category_genres": {
       "category": "Games",
       "genres": [
-        "Sport",
+        "Sandbox"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-06T23:31:03.249876+00:00",
+    "currency": "USD",
+    "developer": "Lefthand Developer",
+    "last_updated": null,
+    "price": 2.99,
+    "publisher": "lefthanddeveloper",
+    "rank": null,
+    "rating_avg": 0,
+    "rating_count": 0,
+    "release_date": "2026-10-09",
+    "store_url": "https://www.meta.com/experiences/animaloop/1376633334659952/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "1295922353600736",
+    "app_name": "Scared Baboons VR",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Platformer",
+        "Action",
+        "Survival"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T12:42:51.562537+00:00",
+    "currency": "USD",
+    "developer": "Pxrzi Makes Games",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "Pxrzi",
+    "rank": null,
+    "rating_avg": 4.25,
+    "rating_count": 88,
+    "release_date": "2026-08-22",
+    "store_url": "https://www.meta.com/experiences/scared-baboons-vr/1295922353600736/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "8064388876991237",
+    "app_name": "AEROES: Beat the Rush",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Arcade",
+        "Action",
+        "Survival",
         "Rhythm"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T02:47:14.196553+00:00",
-    "currency": "EUR",
-    "developer": "DigiEden",
+    "collected_at": "2026-11-06T23:20:05.219894+00:00",
+    "currency": "USD",
+    "developer": "SUPER HYPER MEGA",
     "last_updated": null,
-    "price": 19.99,
-    "publisher": "DigiEden",
+    "price": 9.99,
+    "publisher": "SUPER HYPER MEGA",
     "rank": null,
-    "rating_avg": 4.6587030716724,
-    "rating_count": 293,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/dance-eden/8378725502157946/",
+    "rating_avg": 4.7565217391304,
+    "rating_count": 115,
+    "release_date": "2025-04-10",
+    "store_url": "https://www.meta.com/experiences/aeroes-beat-the-rush/8064388876991237/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -330,26 +292,26 @@
     ]
   },
   {
-    "app_id": "4642647539289626",
-    "app_name": "3dSen VR",
+    "app_id": "7939014966163923",
+    "app_name": "Hololab VR - NCSG Inspection Foundation Module 3: Masonry Wood External",
     "category_genres": {
       "category": "Apps",
       "genres": [
-        "Utilities"
+        "Learning"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-06T23:14:31.024919+00:00",
-    "currency": null,
-    "developer": "Geod",
+    "collected_at": "2026-11-07T04:57:46.839730+00:00",
+    "currency": "USD",
+    "developer": "From The Future",
     "last_updated": null,
-    "price": null,
-    "publisher": "Geod Studio",
+    "price": 0,
+    "publisher": "From the Future",
     "rank": null,
     "rating_avg": 0,
     "rating_count": 0,
-    "release_date": null,
-    "store_url": "https://www.meta.com/experiences/3dsen-vr/4642647539289626/",
+    "release_date": "2024-08-12",
+    "store_url": "https://www.meta.com/experiences/hololab-vr-ncsg-inspection-foundation-module-3-masonry-wood-external/7939014966163923/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -358,26 +320,27 @@
     ]
   },
   {
-    "app_id": "5979718562086267",
-    "app_name": "S'more Please",
+    "app_id": "4611689682266625",
+    "app_name": "ZOSULand 20ZZ Demo",
     "category_genres": {
       "category": "Games",
       "genres": [
-        "Simulation"
+        "Action",
+        "Adventure"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T13:11:02.914742+00:00",
-    "currency": "USD",
-    "developer": "Mischief Game Dev",
+    "collected_at": "2026-11-07T20:28:46.853752+00:00",
+    "currency": "EUR",
+    "developer": "ZOSU",
     "last_updated": null,
-    "price": 3.99,
-    "publisher": "Mischief Game Dev",
+    "price": 0,
+    "publisher": "ZOSULand 20ZZ",
     "rank": null,
-    "rating_avg": 4,
-    "rating_count": 1,
-    "release_date": "2023-01-11",
-    "store_url": "https://www.meta.com/experiences/smore-please/5979718562086267/",
+    "rating_avg": 3.1666666666667,
+    "rating_count": 6,
+    "release_date": "2022-05-28",
+    "store_url": "https://www.meta.com/en-gb/experiences/zosuland-20zz-demo/4611689682266625/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -387,209 +350,8 @@
     ]
   },
   {
-    "app_id": "1309869285540046",
-    "app_name": "PrimalVR",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Action",
-        "Party game"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T11:27:27.819715+00:00",
-    "currency": "EUR",
-    "developer": "Jahqu",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Jahqu",
-    "rank": null,
-    "rating_avg": 4.5586917562724,
-    "rating_count": 2232,
-    "release_date": "2026-09-12",
-    "store_url": "https://www.meta.com/en-gb/experiences/primalvr/1309869285540046/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "1307742245756493",
-    "app_name": "Tabletop Siege",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Strategy",
-        "Tabletop"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T17:41:34.870164+00:00",
-    "currency": "USD",
-    "developer": "Snorlytics",
-    "last_updated": null,
-    "price": 2.99,
-    "publisher": "Snorlytics",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 1,
-    "release_date": "2026-10-26",
-    "store_url": "https://www.meta.com/experiences/tabletop-siege/1307742245756493/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3"
-    ]
-  },
-  {
-    "app_id": "26529943336695621",
-    "app_name": "Fractured Sanity Remastered",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Shooter",
-        "Adventure",
-        "Action",
-        "Survival"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T04:14:10.079990+00:00",
-    "currency": "USD",
-    "developer": "UnitedGames",
-    "last_updated": null,
-    "price": 11.99,
-    "publisher": "United Games",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2026-04-23",
-    "store_url": "https://www.meta.com/experiences/fractured-sanity-remastered/26529943336695621/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro"
-    ]
-  },
-  {
-    "app_id": "9349410855149756",
-    "app_name": "Agent Oops!",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Tabletop",
-        "Action",
-        "Party game"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-06T23:21:14.891290+00:00",
-    "currency": "USD",
-    "developer": "Memorable Games",
-    "last_updated": null,
-    "price": 9.99,
-    "publisher": "Memorable Games",
-    "rank": null,
-    "rating_avg": 3.3333333333333,
-    "rating_count": 6,
-    "release_date": "2026-03-19",
-    "store_url": "https://www.meta.com/experiences/agent-oops/9349410855149756/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3"
-    ]
-  },
-  {
-    "app_id": "24224958697196497",
-    "app_name": "VR High School Physics Experiments",
-    "category_genres": {
-      "category": "Apps",
-      "genres": [
-        "Learning"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T19:04:31.772967+00:00",
-    "currency": "EUR",
-    "developer": "Alper Gonen",
-    "last_updated": null,
-    "price": 3.99,
-    "publisher": "Alper Gonen",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2025-11-15",
-    "store_url": "https://www.meta.com/en-gb/experiences/vr-high-school-physics-experiments/24224958697196497/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3"
-    ]
-  },
-  {
-    "app_id": "1440991134739686",
-    "app_name": "One Shot Left",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Shooter",
-        "Adventure",
-        "Narrative",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T10:05:13.753961+00:00",
-    "currency": null,
-    "developer": "mbark",
-    "last_updated": null,
-    "price": null,
-    "publisher": "mbark",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/one-shot-left/1440991134739686/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "1083693270940572",
-    "app_name": "Drone Simulator: FPV Racing",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Sports",
-        "Simulation"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T03:23:53.044508+00:00",
-    "currency": "USD",
-    "developer": "Cowork Game Studio",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Cowork Game Studio",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2026-10-28",
-    "store_url": "https://www.meta.com/experiences/drone-simulator-fpv-racing/1083693270940572/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "25094008180241241",
-    "app_name": "Rhythm FAME : Influencer Edition",
+    "app_id": "29961005853545487",
+    "app_name": "Rhythm Cats",
     "category_genres": {
       "category": "Games",
       "genres": [
@@ -599,46 +361,17 @@
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T12:26:49.307241+00:00",
+    "collected_at": "2026-11-07T12:27:01.406078+00:00",
     "currency": "USD",
-    "developer": "Biswa Games",
-    "last_updated": null,
-    "price": 19.99,
-    "publisher": "Biswa Games",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 2,
-    "release_date": "2025-12-26",
-    "store_url": "https://www.meta.com/experiences/rhythm-fame-influencer-edition/25094008180241241/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "7255546971218214",
-    "app_name": "cappy catchers",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T01:00:28.353889+00:00",
-    "currency": "EUR",
-    "developer": "buddy pal",
+    "developer": "YesChef",
     "last_updated": null,
     "price": 0,
-    "publisher": "clunky",
+    "publisher": "YCC Studio",
     "rank": null,
-    "rating_avg": 5,
-    "rating_count": 6,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/cappy-catchers/7255546971218214/",
+    "rating_avg": 2.875,
+    "rating_count": 8,
+    "release_date": "2025-07-02",
+    "store_url": "https://www.meta.com/experiences/rhythm-cats/29961005853545487/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -647,205 +380,8 @@
     ]
   },
   {
-    "app_id": "1946326588770583",
-    "app_name": "NOTES ON BLINDNESS",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Narrative"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T09:41:46.895749+00:00",
-    "currency": "USD",
-    "developer": "Novelab, Atlas V",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "ARTE France",
-    "rank": null,
-    "rating_avg": 4.3304195804196,
-    "rating_count": 572,
-    "release_date": "2019-07-12",
-    "store_url": "https://www.meta.com/experiences/notes-on-blindness/1946326588770583/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2",
-      "Meta Quest"
-    ]
-  },
-  {
-    "app_id": "24479505205020302",
-    "app_name": "Augmental Puzzles",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Puzzle",
-        "Tabletop"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-06T23:47:26.234075+00:00",
-    "currency": "USD",
-    "developer": "Flammable Penguins Games",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Flammable Penguins Games",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 2,
-    "release_date": "2026-02-03",
-    "store_url": "https://www.meta.com/experiences/augmental-puzzles/24479505205020302/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "26050891131212290",
-    "app_name": "Alien abduction",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Shooter",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-06T23:25:35.546798+00:00",
-    "currency": "USD",
-    "developer": "MidiCreations",
-    "last_updated": null,
-    "price": 9.99,
-    "publisher": "Midi Creations",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2026-02-18",
-    "store_url": "https://www.meta.com/experiences/alien-abduction/26050891131212290/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "25869011452765453",
-    "app_name": "VR Polysphere: Art Puzzle Game",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Puzzle"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T19:11:47.485051+00:00",
-    "currency": "USD",
-    "developer": "Broken Engineers",
-    "last_updated": null,
-    "price": 4.99,
-    "publisher": "Broken Engineers",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2026-03-02",
-    "store_url": "https://www.meta.com/experiences/vr-polysphere-art-puzzle-game/25869011452765453/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "7345558672234976",
-    "app_name": "PV Associate",
-    "category_genres": {
-      "category": "Apps",
-      "genres": [
-        "Learning"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T11:55:11.508801+00:00",
-    "currency": "USD",
-    "developer": "Immerse Learn",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Immerse Learn",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2025-02-11",
-    "store_url": "https://www.meta.com/experiences/pv-associate/7345558672234976/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "1330147033514650",
-    "app_name": "Hand AR Interfaces 2",
-    "category_genres": {
-      "category": "Apps",
-      "genres": [
-        "Creativity"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T04:44:04.062278+00:00",
-    "currency": "USD",
-    "developer": "Nebulytic",
-    "last_updated": null,
-    "price": 7.99,
-    "publisher": "Nebulytic",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2026-10-06",
-    "store_url": "https://www.meta.com/experiences/hand-ar-interfaces-2/1330147033514650/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3"
-    ]
-  },
-  {
-    "app_id": "25314280064845404",
-    "app_name": "Runaria",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Tabletop",
-        "Puzzle"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T12:35:54.157082+00:00",
-    "currency": "USD",
-    "developer": "Treeview",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Treeview",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 2,
-    "release_date": "2026-01-05",
-    "store_url": "https://www.meta.com/experiences/runaria/25314280064845404/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro"
-    ]
-  },
-  {
-    "app_id": "9122043047813128",
-    "app_name": "CountingSheepVR",
+    "app_id": "5045271862267623",
+    "app_name": "Multisensory Gradior",
     "category_genres": {
       "category": "Apps",
       "genres": [
@@ -853,28 +389,28 @@
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T02:08:53.928210+00:00",
+    "collected_at": "2026-11-07T09:12:39.966265+00:00",
     "currency": "EUR",
-    "developer": "3DNOKOR",
+    "developer": "I Mas D Y Empleo Serviconsulting Sl",
     "last_updated": null,
     "price": 0,
-    "publisher": "3dnokor",
+    "publisher": "Fundación INTRAS",
     "rank": null,
-    "rating_avg": 4,
-    "rating_count": 2,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/countingsheepvr/9122043047813128/",
+    "rating_avg": 2.4545454545455,
+    "rating_count": 11,
+    "release_date": "2022-11-18",
+    "store_url": "https://www.meta.com/en-gb/experiences/multisensory-gradior/5045271862267623/",
     "supported_devices": [
+      "Meta Quest",
+      "Meta Quest Pro",
       "Meta Quest 3S",
       "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2",
-      "Meta Quest"
+      "Meta Quest 2"
     ]
   },
   {
-    "app_id": "5507647665962553",
-    "app_name": "Robot Kyle",
+    "app_id": "34750305804615699",
+    "app_name": "Toast Taggers",
     "category_genres": {
       "category": "Games",
       "genres": [
@@ -883,48 +419,17 @@
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T12:31:47.869988+00:00",
+    "collected_at": "2026-11-07T18:04:02.554209+00:00",
     "currency": "USD",
-    "developer": "Acorn Studios",
+    "developer": "Mob_Games",
     "last_updated": null,
     "price": 0,
-    "publisher": "Acorn Studios",
+    "publisher": "Mob_Games",
     "rank": null,
-    "rating_avg": 4.2,
-    "rating_count": 5,
-    "release_date": "2022-08-23",
-    "store_url": "https://www.meta.com/experiences/robot-kyle/5507647665962553/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2",
-      "Meta Quest"
-    ]
-  },
-  {
-    "app_id": "32809150615336847",
-    "app_name": "Glitch Metropolis",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Shooter",
-        "Fighting",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T04:26:08.431862+00:00",
-    "currency": null,
-    "developer": "Typico Games",
-    "last_updated": null,
-    "price": null,
-    "publisher": "Typico Games",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": null,
-    "store_url": "https://www.meta.com/experiences/glitch-metropolis/32809150615336847/",
+    "rating_avg": 4.75,
+    "rating_count": 4,
+    "release_date": "2026-04-09",
+    "store_url": "https://www.meta.com/experiences/toast-taggers/34750305804615699/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -933,8 +438,67 @@
     ]
   },
   {
-    "app_id": "1163778583491232",
-    "app_name": "AryaXR Scaffolding",
+    "app_id": "7281839885191361",
+    "app_name": "Xtadium Immersive Sports",
+    "category_genres": {
+      "category": "Apps",
+      "genres": [
+        "Media",
+        "Events"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T20:09:20.781740+00:00",
+    "currency": "USD",
+    "developer": "Yerba Buena VR, Inc.",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "Yerba Buena VR, Inc.",
+    "rank": null,
+    "rating_avg": 3.0064516129032,
+    "rating_count": 310,
+    "release_date": "2022-11-10",
+    "store_url": "https://www.meta.com/experiences/xtadium-immersive-sports/7281839885191361/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "1487280130063528",
+    "app_name": "Epic plane",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Arcade",
+        "Simulation",
+        "Action"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T03:39:19.427508+00:00",
+    "currency": "USD",
+    "developer": "Supono Holdings LTD",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "Supono Holdings LTD",
+    "rank": null,
+    "rating_avg": 0,
+    "rating_count": 0,
+    "release_date": "2026-09-16",
+    "store_url": "https://www.meta.com/experiences/epic-plane/1487280130063528/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "5718360394866674",
+    "app_name": "VRflow DA42 Demo",
     "category_genres": {
       "category": "Apps",
       "genres": [
@@ -942,17 +506,46 @@
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-06T23:44:20.718688+00:00",
-    "currency": "USD",
-    "developer": "ARYAXR AI SOLUTIONS OPC PVT LTD",
+    "collected_at": "2026-11-07T19:02:00.692629+00:00",
+    "currency": "EUR",
+    "developer": "VRpilot",
     "last_updated": null,
     "price": 0,
-    "publisher": "ARYAXR AI SOLUTIONS (OPC) PRIVATE LIMITED",
+    "publisher": "VRpilot",
     "rank": null,
     "rating_avg": 0,
     "rating_count": 0,
-    "release_date": "2026-07-17",
-    "store_url": "https://www.meta.com/experiences/aryaxr-scaffolding/1163778583491232/",
+    "release_date": "2022-11-28",
+    "store_url": "https://www.meta.com/en-gb/experiences/vrflow-da42-demo/5718360394866674/",
+    "supported_devices": [
+      "Meta Quest",
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "27187962724152107",
+    "app_name": "London River Cruise like a Tourist – VR Travel",
+    "category_genres": {
+      "category": "Apps",
+      "genres": [
+        "Travel & exploration"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T06:54:07.509375+00:00",
+    "currency": "USD",
+    "developer": "VRtravelX",
+    "last_updated": null,
+    "price": 1.99,
+    "publisher": "VRtravelX",
+    "rank": null,
+    "rating_avg": 2,
+    "rating_count": 7,
+    "release_date": "2024-10-21",
+    "store_url": "https://www.meta.com/experiences/london-river-cruise-like-a-tourist-vr-travel/27187962724152107/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -961,112 +554,206 @@
     ]
   },
   {
-    "app_id": "4189524851131699",
-    "app_name": "Demeo Battles",
+    "app_id": "25827848523492309",
+    "app_name": "Jurassic Dinosaur Shooting : Dino Hunter",
     "category_genres": {
       "category": "Games",
       "genres": [
-        "Tabletop",
-        "Strategy"
+        "Shooter",
+        "Adventure",
+        "Action"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T03:04:43.521101+00:00",
-    "currency": "EUR",
-    "developer": "Resolution Games",
-    "last_updated": null,
-    "price": 19.99,
-    "publisher": "Resolution Games",
-    "rank": null,
-    "rating_avg": 4.0589970501475,
-    "rating_count": 339,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/demeo-battles/4189524851131699/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "1345650624299845",
-    "app_name": "Clayground: VR Clay Sculpting",
-    "category_genres": {
-      "category": "Apps",
-      "genres": [
-        "Creativity"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T01:36:09.453854+00:00",
-    "currency": "EUR",
-    "developer": "Emotionull",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Emotionull",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 5,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/clayground-vr-clay-sculpting/1345650624299845/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "7171064212935352",
-    "app_name": "Teo",
-    "category_genres": {
-      "category": "Apps",
-      "genres": [
-        "Weiterbildung",
-        "Medizin"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T17:48:04.055489+00:00",
+    "collected_at": "2026-11-07T05:46:15.670161+00:00",
     "currency": "USD",
-    "developer": "Acadental",
+    "developer": "HorizonsGames",
     "last_updated": null,
-    "price": 0,
-    "publisher": "Acadental, Inc.",
+    "price": 5.99,
+    "publisher": "HorizonsGames",
     "rank": null,
-    "rating_avg": 5,
+    "rating_avg": 1,
     "rating_count": 1,
-    "release_date": null,
-    "store_url": "https://www.meta.com/de-de/experiences/teo/7171064212935352/",
+    "release_date": "2026-02-12",
+    "store_url": "https://www.meta.com/experiences/jurassic-dinosaur-shooting-dino-hunter/25827848523492309/",
     "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
     ]
   },
   {
-    "app_id": "6048113918601485",
-    "app_name": "Jungle Passthrough Demo",
+    "app_id": "8814506398627463",
+    "app_name": "VRB Player",
     "category_genres": {
       "category": "Apps",
       "genres": [
-        "Creativity"
+        "Media"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T05:44:09.313268+00:00",
+    "collected_at": "2026-11-07T18:53:25.897763+00:00",
     "currency": "USD",
-    "developer": "ZOSU",
+    "developer": "BBB Corporation",
     "last_updated": null,
     "price": 0,
-    "publisher": "ZOSU Studios LLC",
+    "publisher": "BBB Corporation",
+    "rank": null,
+    "rating_avg": 1,
+    "rating_count": 2,
+    "release_date": "2025-02-05",
+    "store_url": "https://www.meta.com/experiences/vrb-player/8814506398627463/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "1324046337467198",
+    "app_name": "PhotonKatana Demo",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Arcade",
+        "Action"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T10:45:49.200495+00:00",
+    "currency": "EUR",
+    "developer": "Outerfar Studios",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "Outerfar Studios",
     "rank": null,
     "rating_avg": 0,
     "rating_count": 0,
-    "release_date": "2023-04-28",
-    "store_url": "https://www.meta.com/experiences/jungle-passthrough-demo/6048113918601485/",
+    "release_date": "2026-10-21",
+    "store_url": "https://www.meta.com/en-gb/experiences/photonkatana-demo/1324046337467198/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro"
+    ]
+  },
+  {
+    "app_id": "29731934469788185",
+    "app_name": "Chimps Nightmare",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Survival"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T01:26:10.078956+00:00",
+    "currency": "USD",
+    "developer": "SilverVR Studios",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "SilverVR",
+    "rank": null,
+    "rating_avg": 5,
+    "rating_count": 3,
+    "release_date": "2025-06-04",
+    "store_url": "https://www.meta.com/experiences/chimps-nightmare/29731934469788185/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "8898169110262412",
+    "app_name": "SkyRoll",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Simulation",
+        "Survival",
+        "Sports"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T13:05:51.840067+00:00",
+    "currency": "USD",
+    "developer": "Esti Soft",
+    "last_updated": null,
+    "price": 2.99,
+    "publisher": "Esti Soft",
+    "rank": null,
+    "rating_avg": 3,
+    "rating_count": 1,
+    "release_date": "2025-01-06",
+    "store_url": "https://www.meta.com/experiences/skyroll/8898169110262412/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "9193287627415117",
+    "app_name": "Zen Ink Party",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Party game",
+        "Hangout",
+        "Sports"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T20:14:38.547550+00:00",
+    "currency": "USD",
+    "developer": "LeoPardVR Studio",
+    "last_updated": null,
+    "price": 3.99,
+    "publisher": "LeoPardVR Studio",
+    "rank": null,
+    "rating_avg": 0,
+    "rating_count": 0,
+    "release_date": "2025-04-08",
+    "store_url": "https://www.meta.com/experiences/zen-ink-party/9193287627415117/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "4256316941157283",
+    "app_name": "Bionic Hunter : The Ancient Sword",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Shooter",
+        "Action",
+        "Strategy",
+        "Survival"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T00:06:14.110011+00:00",
+    "currency": "USD",
+    "developer": "ANOMOS STUDIOS",
+    "last_updated": null,
+    "price": 6.99,
+    "publisher": "ANOMOS STUDIOS",
+    "rank": null,
+    "rating_avg": 4.625,
+    "rating_count": 48,
+    "release_date": "2021-12-21",
+    "store_url": "https://www.meta.com/experiences/bionic-hunter-the-ancient-sword/4256316941157283/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -1076,29 +763,87 @@
     ]
   },
   {
-    "app_id": "1220691604459566",
-    "app_name": "No Ground Below",
+    "app_id": "8628908240515296",
+    "app_name": "Raccoon Party",
     "category_genres": {
       "category": "Games",
       "genres": [
         "Platformer",
-        "Fighting",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Hangout"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T09:40:23.036820+00:00",
-    "currency": null,
-    "developer": "Maxlevel Design",
+    "collected_at": "2026-11-07T12:01:12.533291+00:00",
+    "currency": "EUR",
+    "developer": "Villan At VillanStudios",
     "last_updated": null,
-    "price": null,
-    "publisher": "Maxlevel Design",
+    "price": 0,
+    "publisher": "VillanStudios",
+    "rank": null,
+    "rating_avg": 4.5504032258065,
+    "rating_count": 496,
+    "release_date": "2023-02-10",
+    "store_url": "https://www.meta.com/en-gb/experiences/raccoon-party/8628908240515296/",
+    "supported_devices": [
+      "Meta Quest",
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "5503116803146595",
+    "app_name": "mmd viewer",
+    "category_genres": {
+      "category": "Apps",
+      "genres": [
+        "Media"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T08:04:35.707668+00:00",
+    "currency": "EUR",
+    "developer": "vine_apple",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "無し",
+    "rank": null,
+    "rating_avg": 1.9090909090909,
+    "rating_count": 11,
+    "release_date": "2024-05-13",
+    "store_url": "https://www.meta.com/en-gb/experiences/mmd-viewer/5503116803146595/",
+    "supported_devices": [
+      "Meta Quest",
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "1099981159874999",
+    "app_name": "4D Shapes",
+    "category_genres": {
+      "category": "Apps",
+      "genres": [
+        "Creativity"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-06T23:15:12.923950+00:00",
+    "currency": "USD",
+    "developer": "Dimensional Instruments",
+    "last_updated": null,
+    "price": 4.99,
+    "publisher": "Dimensional Instruments LLC",
     "rank": null,
     "rating_avg": 0,
     "rating_count": 0,
-    "release_date": null,
-    "store_url": "https://www.meta.com/experiences/no-ground-below/1220691604459566/",
+    "release_date": "2026-07-19",
+    "store_url": "https://www.meta.com/experiences/4d-shapes/1099981159874999/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -1107,258 +852,411 @@
     ]
   },
   {
-    "app_id": "32643999985198449",
-    "app_name": "Dark Ride: The Feline Fix",
+    "app_id": "987344250995457",
+    "app_name": "Viscer Medical II",
+    "category_genres": {
+      "category": "Apps",
+      "genres": [
+        "Learning",
+        "Medical"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T18:45:07.475167+00:00",
+    "currency": "USD",
+    "developer": "Simutomy Medtech Pvt Ltd",
+    "last_updated": null,
+    "price": 29.99,
+    "publisher": "Simutomy Medtech Pvt Ltd",
+    "rank": null,
+    "rating_avg": 0,
+    "rating_count": 0,
+    "release_date": "2026-09-09",
+    "store_url": "https://www.meta.com/experiences/viscer-medical-ii/987344250995457/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "23994835276775491",
+    "app_name": "Crew Together XR",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Narrative",
+        "Puzzle",
+        "Education"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T02:20:52.989992+00:00",
+    "currency": "USD",
+    "developer": "Polycular",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "Polycular GmbH",
+    "rank": null,
+    "rating_avg": 3,
+    "rating_count": 2,
+    "release_date": "2025-11-23",
+    "store_url": "https://www.meta.com/experiences/crew-together-xr/23994835276775491/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "8464137310294097",
+    "app_name": "VRFS: Soccer",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Sport",
+        "Simulation"
+      ]
+    },
+    "chart_name": "Top-selling this week",
+    "collected_at": "2026-11-07T19:02:30.712884+00:00",
+    "currency": "EUR",
+    "developer": "VRFS",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "VRFS",
+    "rank": 14,
+    "rating_avg": 4.7759487512163,
+    "rating_count": 49328,
+    "release_date": "2023-02-03",
+    "store_url": "https://www.meta.com/en-gb/experiences/vrfs-soccer/8464137310294097/",
+    "supported_devices": [
+      "Meta Quest",
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "6756386641144430",
+    "app_name": "Scribble Mayhem",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Platformer",
+        "Action"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T12:47:47.857320+00:00",
+    "currency": "USD",
+    "developer": "kado0825",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "Scribble Mayhem Team Official",
+    "rank": null,
+    "rating_avg": 4.5555555555556,
+    "rating_count": 9,
+    "release_date": "2024-04-25",
+    "store_url": "https://www.meta.com/experiences/scribble-mayhem/6756386641144430/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "3092079454190601",
+    "app_name": "ENGAGE",
+    "category_genres": {
+      "category": "Apps",
+      "genres": [
+        "Events",
+        "Productivity"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T03:38:19.688074+00:00",
+    "currency": "USD",
+    "developer": "ENGAGE XR Ltd",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "ENGAGE XR Ltd",
+    "rank": null,
+    "rating_avg": 3.5579710144928,
+    "rating_count": 138,
+    "release_date": "2020-11-12",
+    "store_url": "https://www.meta.com/experiences/engage/3092079454190601/",
+    "supported_devices": [
+      "Meta Quest",
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "4882322701849648",
+    "app_name": "NEON Squad Tactics",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Strategy"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T09:31:56.430023+00:00",
+    "currency": "USD",
+    "developer": "Tin Man Games",
+    "last_updated": null,
+    "price": 19.99,
+    "publisher": "Tin Man Games",
+    "rank": null,
+    "rating_avg": 4.1851851851852,
+    "rating_count": 27,
+    "release_date": "2024-06-13",
+    "store_url": "https://www.meta.com/experiences/neon-squad-tactics/4882322701849648/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "8476336955724765",
+    "app_name": "Dive Realities",
+    "category_genres": {
+      "category": "Apps",
+      "genres": [
+        "Learning",
+        "Travel & exploration"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T03:15:25.294359+00:00",
+    "currency": "USD",
+    "developer": "Dive Tecnologia",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "DIVE Realities",
+    "rank": null,
+    "rating_avg": 5,
+    "rating_count": 1,
+    "release_date": "2022-11-11",
+    "store_url": "https://www.meta.com/experiences/dive-realities/8476336955724765/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2",
+      "Meta Quest"
+    ]
+  },
+  {
+    "app_id": "5729157927179390",
+    "app_name": "A Little Fire",
     "category_genres": {
       "category": "Games",
       "genres": [
         "Adventure",
-        "Puzzle"
+        "Narrative"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T02:49:58.850238+00:00",
-    "currency": "EUR",
-    "developer": "Entermotion2",
+    "collected_at": "2026-11-06T23:26:27.366289+00:00",
+    "currency": "USD",
+    "developer": "FaceBox Games",
     "last_updated": null,
-    "price": 1.99,
-    "publisher": "Paleozoic",
+    "price": 0,
+    "publisher": "Gerard Slee",
+    "rank": null,
+    "rating_avg": 3.5,
+    "rating_count": 2,
+    "release_date": "2024-05-10",
+    "store_url": "https://www.meta.com/experiences/a-little-fire/5729157927179390/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2",
+      "Meta Quest"
+    ]
+  },
+  {
+    "app_id": "2134272053250863",
+    "app_name": "Ocean Rift",
+    "category_genres": {
+      "category": "Apps",
+      "genres": [
+        "Travel & exploration"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T09:51:01.195151+00:00",
+    "currency": "USD",
+    "developer": "Llyr ap Cenydd",
+    "last_updated": null,
+    "price": 9.99,
+    "publisher": "Picselica Ltd",
+    "rank": null,
+    "rating_avg": 4.1010230179028,
+    "rating_count": 782,
+    "release_date": "2019-05-21",
+    "store_url": "https://www.meta.com/experiences/ocean-rift/2134272053250863/",
+    "supported_devices": [
+      "Meta Quest",
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "26778807691760626",
+    "app_name": "Hairy Scary",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Platformer",
+        "Action"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T04:43:27.191034+00:00",
+    "currency": "USD",
+    "developer": "Hairy Scary DEVS",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "MeDo",
     "rank": null,
     "rating_avg": 5,
+    "rating_count": 4,
+    "release_date": "2026-05-27",
+    "store_url": "https://www.meta.com/experiences/hairy-scary/26778807691760626/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "5344306855599112",
+    "app_name": "Outta Hand",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Arcade",
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T10:14:13.529132+00:00",
+    "currency": "EUR",
+    "developer": "Capricia Productions",
+    "last_updated": null,
+    "price": 19.99,
+    "publisher": "Beyond Frames Entertainment",
+    "rank": null,
+    "rating_avg": 4.1790281329923,
+    "rating_count": 782,
+    "release_date": "2023-09-28",
+    "store_url": "https://www.meta.com/en-gb/experiences/outta-hand/5344306855599112/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "5842747539166084",
+    "app_name": "Drums VR",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Simulation"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T03:24:58.819536+00:00",
+    "currency": "USD",
+    "developer": "Vlura",
+    "last_updated": null,
+    "price": 0.99,
+    "publisher": "vlura",
+    "rank": null,
+    "rating_avg": 3.8333333333333,
     "rating_count": 6,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/dark-ride-the-feline-fix/32643999985198449/",
+    "release_date": "2023-02-14",
+    "store_url": "https://www.meta.com/experiences/drums-vr/5842747539166084/",
+    "supported_devices": [
+      "Meta Quest",
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "24215295761409384",
+    "app_name": "Zombie Students",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Shooter",
+        "Action",
+        "Education"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T20:25:11.857529+00:00",
+    "currency": "USD",
+    "developer": "Kdanss Games",
+    "last_updated": null,
+    "price": 9.99,
+    "publisher": "Kdanss Games",
+    "rank": null,
+    "rating_avg": 0,
+    "rating_count": 0,
+    "release_date": "2025-05-21",
+    "store_url": "https://www.meta.com/experiences/zombie-students/24215295761409384/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3"
     ]
   },
   {
-    "app_id": "9474046286051593",
-    "app_name": "HUNTERS!",
+    "app_id": "34246477798284450",
+    "app_name": "Mini Fuzz: Ocean World",
     "category_genres": {
       "category": "Games",
       "genres": [
-        "Platformer",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T05:07:31.421401+00:00",
-    "currency": "USD",
-    "developer": "RevokkMonkeh",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Revokk_",
-    "rank": null,
-    "rating_avg": 0,
-    "rating_count": 0,
-    "release_date": "2025-07-23",
-    "store_url": "https://www.meta.com/experiences/9474046286051593/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "1415109115013416",
-    "app_name": "Bounce Ball",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Puzzle"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T00:17:30.605709+00:00",
-    "currency": "EUR",
-    "developer": "Ninemaze",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Ninemaze",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 1,
-    "release_date": null,
-    "store_url": "https://www.meta.com/en-gb/experiences/bounce-ball/1415109115013416/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "9186207621447666",
-    "app_name": "Spooky Sprinters VR",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Action",
-        "Survival"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T13:26:57.005438+00:00",
-    "currency": "USD",
-    "developer": "Bran Studios",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Bran Studios",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 5,
-    "release_date": "2025-02-12",
-    "store_url": "https://www.meta.com/experiences/spooky-sprinters-vr/9186207621447666/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "6785834628189984",
-    "app_name": "Next Move",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Action",
-        "Adventure"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T09:35:51.538527+00:00",
-    "currency": "USD",
-    "developer": "Typico Games",
-    "last_updated": null,
-    "price": 19.99,
-    "publisher": "Typico Games s.r.o.",
-    "rank": null,
-    "rating_avg": 4.75,
-    "rating_count": 16,
-    "release_date": "2023-11-30",
-    "store_url": "https://www.meta.com/experiences/next-move/6785834628189984/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "26287621534160638",
-    "app_name": "Fun Monke Horror 3",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T04:18:14.790003+00:00",
-    "currency": "USD",
-    "developer": "Hyper Games LLC",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Hyper Games LLC",
-    "rank": null,
-    "rating_avg": 4.4137931034483,
-    "rating_count": 29,
-    "release_date": "2025-11-20",
-    "store_url": "https://www.meta.com/experiences/fun-monke-horror-3/26287621534160638/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "8407315569285019",
-    "app_name": "Chimp Hub",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T01:24:35.789529+00:00",
-    "currency": "USD",
-    "developer": "Jay",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Jay",
-    "rank": null,
-    "rating_avg": 5,
-    "rating_count": 4,
-    "release_date": "2024-06-25",
-    "store_url": "https://www.meta.com/experiences/chimp-hub/8407315569285019/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "1284571661413341",
-    "app_name": "Vanta Tag",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
-        "Platformer",
-        "Action"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T18:30:35.296340+00:00",
-    "currency": "USD",
-    "developer": "AnotherDelux",
-    "last_updated": null,
-    "price": 0,
-    "publisher": "Stray",
-    "rank": null,
-    "rating_avg": 3.6086956521739,
-    "rating_count": 23,
-    "release_date": "2026-10-04",
-    "store_url": "https://www.meta.com/experiences/vanta-tag/1284571661413341/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "25993060727042555",
-    "app_name": "Bubble Billionaire",
-    "category_genres": {
-      "category": "Games",
-      "genres": [
+        "Shooter",
         "Arcade",
         "Action"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T00:33:19.132897+00:00",
-    "currency": "USD",
-    "developer": "SpaceRex Games",
+    "collected_at": "2026-11-07T07:56:06.248452+00:00",
+    "currency": "EUR",
+    "developer": "Granite Top Games LLC",
     "last_updated": null,
-    "price": 0,
-    "publisher": "SpaceRex Games",
+    "price": 1.99,
+    "publisher": "Granite Top Games",
     "rank": null,
-    "rating_avg": 3,
-    "rating_count": 1,
-    "release_date": "2026-04-29",
-    "store_url": "https://www.meta.com/experiences/bubble-billionaire/25993060727042555/",
+    "rating_avg": 5,
+    "rating_count": 2,
+    "release_date": "2026-05-01",
+    "store_url": "https://www.meta.com/en-gb/experiences/mini-fuzz-ocean-world/34246477798284450/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -1367,58 +1265,26 @@
     ]
   },
   {
-    "app_id": "7039138816120170",
-    "app_name": "Slap Fighter",
+    "app_id": "3484270071659289",
+    "app_name": "Star Wars: Tales from the Galaxy's Edge",
     "category_genres": {
-      "category": "Jeux",
+      "category": "Games",
       "genres": [
-        "Arcade",
-        "Combat",
-        "Récit",
-        "Action"
+        "Narrative"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T13:07:03.998340+00:00",
-    "currency": "EUR",
-    "developer": "Curious Games",
-    "last_updated": null,
-    "price": 1199,
-    "publisher": "Curious Games",
-    "rank": null,
-    "rating_avg": 4.3181818181818,
-    "rating_count": 22,
-    "release_date": null,
-    "store_url": "https://www.meta.com/fr-fr/experiences/slap-fighter/7039138816120170/",
-    "supported_devices": [
-      "Meta Quest 3S",
-      "Meta Quest 3",
-      "Meta Quest Pro",
-      "Meta Quest 2"
-    ]
-  },
-  {
-    "app_id": "3895604667145953",
-    "app_name": "VR-All-Art",
-    "category_genres": {
-      "category": "Apps",
-      "genres": [
-        "Media",
-        "Shopping"
-      ]
-    },
-    "chart_name": null,
-    "collected_at": "2026-11-07T18:51:46.302949+00:00",
+    "collected_at": "2026-11-07T13:32:30.012978+00:00",
     "currency": "USD",
-    "developer": "VR-All-Art",
+    "developer": "ILMxLAB",
     "last_updated": null,
-    "price": 0,
-    "publisher": "VR All Art AG",
+    "price": 24.99,
+    "publisher": "Disney Electronic Content, Inc.",
     "rank": null,
-    "rating_avg": 2.6666666666667,
-    "rating_count": 3,
-    "release_date": "2022-01-31",
-    "store_url": "https://www.meta.com/experiences/vr-all-art/3895604667145953/",
+    "rating_avg": 4.1246041798607,
+    "rating_count": 6316,
+    "release_date": "2020-11-19",
+    "store_url": "https://www.meta.com/experiences/star-wars-tales-from-the-galaxys-edge/3484270071659289/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",
@@ -1428,29 +1294,174 @@
     ]
   },
   {
-    "app_id": "5441223319274056",
-    "app_name": "Era of Combat: Boxing",
+    "app_id": "8624551944247578",
+    "app_name": "Paranormal Mayhem",
     "category_genres": {
       "category": "Games",
       "genres": [
-        "Fighting",
-        "Sports",
+        "Shooter",
+        "Action",
+        "Survival"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T10:28:05.064348+00:00",
+    "currency": "EUR",
+    "developer": "Boombox SLU",
+    "last_updated": null,
+    "price": 8.99,
+    "publisher": "Globiss Interactive LLC",
+    "rank": null,
+    "rating_avg": 3.5142857142857,
+    "rating_count": 35,
+    "release_date": "2025-06-30",
+    "store_url": "https://www.meta.com/en-gb/experiences/paranormal-mayhem/8624551944247578/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "1810693125705825",
+    "app_name": "RUSH",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Sports"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T12:37:05.348150+00:00",
+    "currency": "USD",
+    "developer": "The Binary Mill",
+    "last_updated": null,
+    "price": 19.99,
+    "publisher": "The Binary Mill",
+    "rank": null,
+    "rating_avg": 3.8867924528302,
+    "rating_count": 424,
+    "release_date": "2019-05-21",
+    "store_url": "https://www.meta.com/experiences/rush/1810693125705825/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2",
+      "Meta Quest"
+    ]
+  },
+  {
+    "app_id": "9896895897045415",
+    "app_name": "Dice Throne Digital",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Tabletop"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T03:11:57.277093+00:00",
+    "currency": null,
+    "developer": "Nerd Ninjas",
+    "last_updated": null,
+    "price": null,
+    "publisher": "Dice Throne Inc.",
+    "rank": null,
+    "rating_avg": 0,
+    "rating_count": 0,
+    "release_date": null,
+    "store_url": "https://www.meta.com/en-gb/experiences/dice-throne-digital/9896895897045415/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3"
+    ]
+  },
+  {
+    "app_id": "26478282335124019",
+    "app_name": "Slotopia",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
         "Simulation",
+        "Tabletop",
+        "Strategy"
+      ]
+    },
+    "chart_name": null,
+    "collected_at": "2026-11-07T13:08:39.253108+00:00",
+    "currency": "USD",
+    "developer": "Jungle Soft",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "Jungle Soft",
+    "rank": null,
+    "rating_avg": 5,
+    "rating_count": 4,
+    "release_date": "2026-05-30",
+    "store_url": "https://www.meta.com/experiences/slotopia/26478282335124019/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "33878834905097511",
+    "app_name": "Sea Monkeys: LIMITED ACCESS",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Shooter",
+        "Platformer",
+        "Sandbox",
+        "Action",
+        "Hangout"
+      ]
+    },
+    "chart_name": "Top free in action",
+    "collected_at": "2026-11-07T12:48:39.616690+00:00",
+    "currency": "USD",
+    "developer": "Red Team Interactive",
+    "last_updated": null,
+    "price": 0,
+    "publisher": "Red Team Interactive Inc. ",
+    "rank": 50,
+    "rating_avg": 4.891355692017,
+    "rating_count": 2117,
+    "release_date": "2026-10-03",
+    "store_url": "https://www.meta.com/experiences/sea-monkeys-limited-access/33878834905097511/",
+    "supported_devices": [
+      "Meta Quest 3S",
+      "Meta Quest 3",
+      "Meta Quest Pro",
+      "Meta Quest 2"
+    ]
+  },
+  {
+    "app_id": "9809647055757397",
+    "app_name": "APE OUT VR",
+    "category_genres": {
+      "category": "Games",
+      "genres": [
+        "Platformer",
         "Action"
       ]
     },
     "chart_name": null,
-    "collected_at": "2026-11-07T03:39:51.731407+00:00",
+    "collected_at": "2026-11-06T23:35:18.660735+00:00",
     "currency": "USD",
-    "developer": "Nodtech Creative Industries",
+    "developer": "TRAXZZ STUDIOS",
     "last_updated": null,
-    "price": 4.99,
-    "publisher": "Era of Combat Boxing Ltd.",
+    "price": 0,
+    "publisher": "TRAXZZDEV",
     "rank": null,
-    "rating_avg": 2.969696969697,
-    "rating_count": 33,
-    "release_date": "2023-07-12",
-    "store_url": "https://www.meta.com/experiences/era-of-combat-boxing/5441223319274056/",
+    "rating_avg": 3.5151750972763,
+    "rating_count": 1285,
+    "release_date": "2025-05-26",
+    "store_url": "https://www.meta.com/experiences/ape-out-vr/9809647055757397/",
     "supported_devices": [
       "Meta Quest 3S",
       "Meta Quest 3",

@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Irish gig and music festival listings with event dates, venues, ticket details and source\-specific prices\. The published dataset contains 107 event records\.
+Irish gig and music festival listings with event dates, venues, ticket details and source\-specific prices\. The published dataset contains 103 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ceolx-irish-gigs-and-festivals-3b8beb04ee74?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 4
-- Last published: 2026-11-07T07:14:06.189973Z
+- Last published: 2026-11-08T07:14:31.580977Z
 
 ## The brief
 
-> I need this data: Irish gig and music festival listings with event dates, venues, ticket details and source\-specific prices\. The published dataset contains 107 event records\.
+> I need this data: Irish gig and music festival listings with event dates, venues, ticket details and source\-specific prices\. The published dataset contains 103 event records\.
 
 Summary from the public dataset description.
 
 ## CeolX Irish gigs and festivals / events
 
-107 total rows · 50 sampled · Output revision 4
-Published: 2026-11-07T07:14:06.189973Z · Producing pipeline version: 4
+103 total rows · 50 sampled · Output revision 5
+Published: 2026-11-08T07:14:31.580977Z · Producing pipeline version: 4
 
 [CSV sample](outputs/61376401fa9c/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/61376401fa9c/events-862417b9e7c3/sample.json) · [Schema](outputs/61376401fa9c/events-862417b9e7c3/schema.json)
 
 | source | event\_id | event\_url | artist/headliner | event\_name | venue | city | county |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vicar Street | ceolx\_601cc2da631dab3b9994 | [https://www\.vicarstreet\.com/thelist\-dashboard/show/2246\-the\-stylistics\-live\-in\-vicar\-street\-58\-59\-thomas\-street\-Dublin\-8\-on\-11\-Nov\-2026\.html](<https://www.vicarstreet.com/thelist-dashboard/show/2246-the-stylistics-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-11-Nov-2026.html>) | The Stylistics | The Stylistics | Vicar Street | Dublin | Dublin |
-| Entertainment\.ie | ceolx\_62494165cc0d252c735f | [https://entertainment\.ie/events/event/show\-cork/white\-horse\-ballincollig/joachim\-cooder\-adriano\-viterbini/music\-44188](<https://entertainment.ie/events/event/show-cork/white-horse-ballincollig/joachim-cooder-adriano-viterbini/music-44188>) | Joachim Cooder &amp; Adriano Viterbini | Joachim Cooder &amp; Adriano Viterbini | White Horse, Ballincollig | Ballincollig | Cork |
-| 3Olympia | ceolx\_87d9312f26e2a75a811b | [https://www\.3olympia\.ie/whats\-on/the\-stunning](<https://www.3olympia.ie/whats-on/the-stunning>) | The Stunning | The Stunning | 3Olympia Theatre | Dublin | Dublin |
-| Cyprus Avenue \| Entertainment\.ie | ceolx\_7c2529b9d344d52bdc58 | [https://www\.cyprusavenue\.ie/gigs/highstool\-prophets\-11195881](<https://www.cyprusavenue.ie/gigs/highstool-prophets-11195881>) | Highstool Prophets | Highstool Prophets | Cyprus Avenue | Cork | Cork |
-| Ticketmaster\.ie | ceolx\_b6e12450bde70efe50e4 | [https://www\.ticketmaster\.ie/basht\-dublin\-07\-11\-2026/event/1800648AE23BB37A](<https://www.ticketmaster.ie/basht-dublin-07-11-2026/event/1800648AE23BB37A>) | Basht\. | Basht\. | The Button Factory | Dublin | Dublin |
+| Dolans | ceolx\_d9748bc42fd069957b95 | [https://www\.dolans\.ie/gigs\-events\-live\-music\-listings/2026/12/5/ta\-narrative](<https://www.dolans.ie/gigs-events-live-music-listings/2026/12/5/ta-narrative>) | T\.A\. Narrative | T\.A\. Narrative | Spiegeltent Pavilion | Limerick | Limerick |
+| 3Olympia | ceolx\_12f2f01353cbb3b62659 | [https://www\.3olympia\.ie/whats\-on/muna](<https://www.3olympia.ie/whats-on/muna>) | MUNA | MUNA | 3Olympia Theatre | Dublin | Dublin |
+| Button Factory | ceolx\_86bfb76e617da8b61434 | [https://www\.buttonfactory\.ie/shows/2026/12/31/encore\-new\-years\-eve\-with\-thaylo](<https://www.buttonfactory.ie/shows/2026/12/31/encore-new-years-eve-with-thaylo>) | Thaylo | ENCORE: New Years Eve With Thaylo | Button Factory | Dublin | Dublin |
+| Whelan's | ceolx\_c5bf7a3666e308528a5d | [https://www\.whelanslive\.com/event/1000\-mods](<https://www.whelanslive.com/event/1000-mods>) | 1000 MODS | 1000 MODS | Whelan's Main Venue | Dublin | Dublin |
+| Ticketmaster\.ie | ceolx\_6906cad88eb359a65727 | [https://www\.ticketmaster\.ie/mike\-viola\-09\-11\-2026/event/180064BAEC0C9D43](<https://www.ticketmaster.ie/mike-viola-09-11-2026/event/180064BAEC0C9D43>) | Mike Viola | Mike Viola | Upstairs At Whelans | Dublin | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

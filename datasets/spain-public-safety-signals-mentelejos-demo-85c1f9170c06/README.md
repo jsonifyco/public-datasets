@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Spain public\-safety signals dataset with 1,712 rows across signals and source\-coverage tables\. The signals table contains 1,698 rows; the coverage table contains 14\.
+Spain public\-safety signals dataset with 2,218 rows across signals and source\-coverage tables\. The signals table contains 2,204 rows; the coverage table contains 14\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/spain-public-safety-signals-mentelejos-demo-85c1f9170c06?action=get) — CSV or JSON · Email required
 
 - Refresh: hourly
 - Active pipeline version: 2
-- Last published: 2026-11-08T17:43:49.124412Z
+- Last published: 2026-11-08T23:01:58.696969Z
 
 ## The brief
 
-> I need this data: Spain public\-safety signals dataset with 1,712 rows across signals and source\-coverage tables\. The signals table contains 1,698 rows; the coverage table contains 14\.
+> I need this data: Spain public\-safety signals dataset with 2,218 rows across signals and source\-coverage tables\. The signals table contains 2,204 rows; the coverage table contains 14\.
 
 Summary from the public dataset description.
 
 ## Spain public\-safety signals / signals
 
-1,698 total rows · 50 sampled · Output revision 9
-Published: 2026-11-08T17:43:49.124412Z · Producing pipeline version: 2
+2,204 total rows · 50 sampled · Output revision 11
+Published: 2026-11-08T23:01:58.696969Z · Producing pipeline version: 2
 
 [CSV sample](outputs/15a77f8665eb/signals-c1d2c1df9eab/sample.csv) · [JSON sample](outputs/15a77f8665eb/signals-c1d2c1df9eab/sample.json) · [Schema](outputs/15a77f8665eb/signals-c1d2c1df9eab/schema.json)
 
 | alert\_status | area\_polygons | coordinate\_note | dedupe\_evidence | event\_date | incident\_id | incident\_type | kind |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29822567 | traffic | signal |
-| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29822683 | traffic | signal |
-| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29820034 | traffic | signal |
-| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29820162 | traffic | signal |
-| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29828437 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29840806 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29840884 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29815342 | traffic | signal |
+| None | None | Source coordinate; for a road segment this is an endpoint, not the entire affected area\. | Exact source identity; no cross\-source match asserted\. | None | DGT:29828251 | traffic | signal |
+| Actual | \["28\.85,\-13\.87 28\.89,\-13\.88 28\.89,\-… | Warning polygons supplied by source; no single incident point\. | Exact source identity; no cross\-source match asserted\. | None | AEMET:e9a50a15980334364d821cf6 | weather alert | signal |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -75,18 +75,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Spain public\-safety signals / coverage
 
-14 total rows · 10 sampled · Output revision 9
-Published: 2026-11-08T17:43:49.124412Z · Producing pipeline version: 2
+14 total rows · 10 sampled · Output revision 11
+Published: 2026-11-08T23:01:58.696969Z · Producing pipeline version: 2
 
 [CSV sample](outputs/15a77f8665eb/coverage-c3a3091b9d32/sample.csv) · [JSON sample](outputs/15a77f8665eb/coverage-c3a3091b9d32/sample.json) · [Schema](outputs/15a77f8665eb/coverage-c3a3091b9d32/schema.json)
 
 | checked\_at | coverage\_note | current\_signals | detail\_failure\_count | detail\_failures | duplicate\_links | excluded\_count | failure |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-08T17:00:52\.974306\+00:00 | Public communications only\. CAT112 open data aggregates monthly counts and is not a live incident feed\. | 0 | 0 | \[\] | None | 0 | Source retrieval or parsing failed \(FileBridgeRequestTimeoutError\)\. |
-| 2026\-11\-08T17:42:35\.185516\+00:00 | Public communications only\. No open incident stream verified; institutional SMS/email and private emergency tracking are excluded\. | 0 | 0 | \[\] | None | 0 | No dated article links discovered on this public index\. This is not proof that no incidents occurred\. |
-| 2026\-11\-08T17:00:52\.240608\+00:00 | Latest published press releases, not a complete incident register\. | 2 | 0 | \[\] | None | 0 | None |
-| 2026\-11\-08T17:42:38\.124464\+00:00 | Valencian regional news sample from the current regional index; detail geography, dates and safety relevance are checked\. | 6 | 1 | \[\{"url": "[https://www\.levante\-emv\.com/levante\-ud/2025/02/13/cg\-bc\-local\-1o\-posicion\-114250146\.html](<https://www.levante-emv.com/levante-ud/2025/02/13/cg-bc-local-1o-posicion-114250146.html>)", "failure": "Article or warning retrieval, date verification or parsing failed \(PipelinePrimitiveError\)\."}\] | None | 125 | None |
-| 2026\-11\-08T17:42:34\.836543\+00:00 | Recent public press releases, not all police incidents\. | 3 | 0 | \[\] | None | 7 | None |
+| 2026\-11\-08T23:00:45\.878960\+00:00 | Public communications only\. CAT112 open data aggregates monthly counts and is not a live incident feed\. | 0 | 0 | \[\] | None | 0 | None |
+| 2026\-11\-08T23:00:50\.105588\+00:00 | Valencian regional news sample from the current regional index; detail geography, dates and safety relevance are checked\. | 6 | 0 | \[\] | None | 125 | None |
+| 2026\-11\-08T23:00:46\.527162\+00:00 | Recent public press releases, not all police incidents\. | 2 | 0 | \[\] | None | 8 | None |
+| 2026\-11\-08T23:00:45\.238073\+00:00 | Current warnings and forecast horizon; removed warnings before first collection cannot be replayed\. | 219 | 0 | \[\] | None | 0 | None |
+| 2026\-11\-08T23:00:46\.527112\+00:00 | Official Ministry releases include Policía Nacional and civil\-protection notices; selective published coverage\. | 0 | 0 | \[\] | None | 10 | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

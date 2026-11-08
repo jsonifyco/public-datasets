@@ -1,0 +1,53 @@
+[
+  {
+    "app_name": "Deliveroo",
+    "area_count": 398,
+    "checked_at": "2026-11-04T17:30:47.598699+00:00",
+    "completed_searches": 796,
+    "coverage_status": "configured_delivery_and_pickup_searches_completed",
+    "delivery_venues": 24549,
+    "distinct_source_venues": 48734,
+    "pages": 796,
+    "pickup_only_venues": 24185,
+    "pickup_venues": 42413,
+    "query_count": 0,
+    "unresolved_limitations": [
+      "Location-conditioned discovery is not an independently verified platform-wide census.",
+      "Venue counts precede Greater London boundary filtering."
+    ]
+  },
+  {
+    "app_name": "Uber Eats",
+    "area_count": 398,
+    "checked_at": "2026-11-04T17:30:47.605208+00:00",
+    "completed_searches": 75471,
+    "coverage_status": "configured_delivery_and_pickup_searches_completed",
+    "delivery_venues": 32495,
+    "distinct_source_venues": 32593,
+    "pages": 248454,
+    "pickup_only_venues": 98,
+    "pickup_venues": 23470,
+    "query_count": 74675,
+    "unresolved_limitations": [
+      "Location-conditioned discovery is not an independently verified platform-wide census.",
+      "Venue counts precede Greater London boundary filtering."
+    ]
+  },
+  {
+    "app_name": "Just Eat",
+    "area_count": 398,
+    "checked_at": "2026-11-04T17:30:47.608260+00:00",
+    "completed_searches": 796,
+    "coverage_status": "configured_delivery_and_pickup_searches_completed",
+    "delivery_venues": 19607,
+    "distinct_source_venues": 20084,
+    "pages": 796,
+    "pickup_only_venues": 477,
+    "pickup_venues": 15956,
+    "query_count": 0,
+    "unresolved_limitations": [
+      "Location-conditioned discovery is not an independently verified platform-wide census.",
+      "Venue counts precede Greater London boundary filtering."
+    ]
+  }
+]

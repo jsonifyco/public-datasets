@@ -1,0 +1,50 @@
+[
+  {
+    "name": "app_name",
+    "type": "text"
+  },
+  {
+    "name": "area_count",
+    "type": "integer"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "completed_searches",
+    "type": "integer"
+  },
+  {
+    "name": "coverage_status",
+    "type": "text"
+  },
+  {
+    "name": "delivery_venues",
+    "type": "integer"
+  },
+  {
+    "name": "distinct_source_venues",
+    "type": "integer"
+  },
+  {
+    "name": "pages",
+    "type": "integer"
+  },
+  {
+    "name": "pickup_only_venues",
+    "type": "integer"
+  },
+  {
+    "name": "pickup_venues",
+    "type": "integer"
+  },
+  {
+    "name": "query_count",
+    "type": "integer"
+  },
+  {
+    "name": "unresolved_limitations",
+    "type": "jsonb"
+  }
+]

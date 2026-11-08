@@ -1,0 +1,46 @@
+[
+  {
+    "name": "app_name",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "discovery_record",
+    "type": "jsonb"
+  },
+  {
+    "name": "failed_stage",
+    "type": "text"
+  },
+  {
+    "name": "london_membership",
+    "type": "text"
+  },
+  {
+    "name": "menu_availability_evidence",
+    "type": "text"
+  },
+  {
+    "name": "source_error_code",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "venue_id",
+    "type": "text"
+  },
+  {
+    "name": "venue_key",
+    "type": "text"
+  },
+  {
+    "name": "venue_name",
+    "type": "text"
+  }
+]

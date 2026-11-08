@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 30 restaurant listings, with base prices, categories and ratings\.
+Deliveroo, Uber Eats and Just Eat menu prices in London: 6,863,924 menu items and 75,595 restaurant listings, with base prices, categories and ratings\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 38
-- Last published: 2026-11-01T13:26:30.960098Z
+- Last published: 2026-11-08T17:42:33.650984Z
 
 ## The brief
 
-> I need this data: Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 30 restaurant listings, with base prices, categories and ratings\.
+> I need this data: Deliveroo, Uber Eats and Just Eat menu prices in London: 6,863,924 menu items and 75,595 restaurant listings, with base prices, categories and ratings\.
 
 Summary from the public dataset description.
 
 ## London delivery app venues and menus / menu\_items
 
-3,365 total rows · 50 sampled · Output revision 4
-Published: 2026-11-01T13:26:30.960098Z · Producing pipeline version: Unknown
+6,863,924 total rows · 50 sampled · Output revision 5
+Published: 2026-11-08T17:42:33.650984Z · Producing pipeline version: 38
 
 [CSV sample](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/sample.csv) · [JSON sample](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/sample.json) · [Schema](outputs/7f457be47ed7/menu-items-3a06a1b2c7ba/schema.json)
 
@@ -56,8 +56,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## London delivery app venues and menus / venues
 
-30 total rows · 10 sampled · Output revision 4
-Published: 2026-11-01T13:26:30.960098Z · Producing pipeline version: Unknown
+75,595 total rows · 10 sampled · Output revision 5
+Published: 2026-11-08T17:42:33.650984Z · Producing pipeline version: 38
 
 [CSV sample](outputs/7f457be47ed7/venues-bc318ecbb352/sample.csv) · [JSON sample](outputs/7f457be47ed7/venues-bc318ecbb352/sample.json) · [Schema](outputs/7f457be47ed7/venues-bc318ecbb352/schema.json)
 
@@ -88,6 +88,71 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | menu\_counts | jsonb |
 | menu\_scope | text |
 | collected\_at | text |
+
+## London delivery app venues and menus / discovery\_coverage
+
+3 total rows · 3 sampled · Output revision 5
+Published: 2026-11-08T17:42:33.650984Z · Producing pipeline version: 38
+
+[CSV sample](outputs/7f457be47ed7/discovery-coverage-45fc5a5cf8b5/sample.csv) · [JSON sample](outputs/7f457be47ed7/discovery-coverage-45fc5a5cf8b5/sample.json) · [Schema](outputs/7f457be47ed7/discovery-coverage-45fc5a5cf8b5/schema.json)
+
+| app\_name | area\_count | checked\_at | completed\_searches | coverage\_status | delivery\_venues | distinct\_source\_venues | pages |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Deliveroo | 398 | 2026\-11\-04T17:30:47\.598699\+00:00 | 796 | configured\_delivery\_and\_pickup\_searches\_completed | 24549 | 48734 | 796 |
+| Uber Eats | 398 | 2026\-11\-04T17:30:47\.605208\+00:00 | 75471 | configured\_delivery\_and\_pickup\_searches\_completed | 32495 | 32593 | 248454 |
+| Just Eat | 398 | 2026\-11\-04T17:30:47\.608260\+00:00 | 796 | configured\_delivery\_and\_pickup\_searches\_completed | 19607 | 20084 | 796 |
+
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
+
+### Schema
+
+| Column | Type |
+| --- | --- |
+| app\_name | text |
+| area\_count | integer |
+| checked\_at | text |
+| completed\_searches | integer |
+| coverage\_status | text |
+| delivery\_venues | integer |
+| distinct\_source\_venues | integer |
+| pages | integer |
+| pickup\_only\_venues | integer |
+| pickup\_venues | integer |
+| query\_count | integer |
+| unresolved\_limitations | jsonb |
+
+## London delivery app venues and menus / unavailable\_listings
+
+13,365 total rows · 50 sampled · Output revision 5
+Published: 2026-11-08T17:42:33.650984Z · Producing pipeline version: 38
+
+[CSV sample](outputs/7f457be47ed7/unavailable-listings-88c30793ca77/sample.csv) · [JSON sample](outputs/7f457be47ed7/unavailable-listings-88c30793ca77/sample.json) · [Schema](outputs/7f457be47ed7/unavailable-listings-88c30793ca77/schema.json)
+
+| app\_name | checked\_at | discovery\_record | failed\_stage | london\_membership | menu\_availability\_evidence | source\_error\_code | status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Deliveroo | 2026\-11\-04T21:45:53\.424133\+00:00 | \{"app\_name": "Deliveroo", "venue\_id": "162457", "venue\_key": "Deliveroo\|162457", "venue\_name": "Buns", "client\_guid": "a… | venue\_details | unverified | None | BRANCH\_DISABLED | disabled |
+| Deliveroo | 2026\-11\-05T01:58:00\.581760\+00:00 | \{"app\_name": "Deliveroo", "venue\_id": "310583", "venue\_key": "Deliveroo\|310583", "venue\_name": "Roosters Spot", "client\_… | venue\_details | unverified | None | BRANCH\_DISABLED | disabled |
+| Deliveroo | 2026\-11\-05T11:10:06\.436128\+00:00 | \{"app\_name": "Deliveroo", "venue\_id": "657", "venue\_key": "Deliveroo\|657", "venue\_name": "Mazar", "client\_guid": "bed463… | venue\_details | unverified | None | BRANCH\_DISABLED | disabled |
+| Deliveroo | 2026\-11\-05T12:20:43\.950155\+00:00 | \{"app\_name": "Deliveroo", "venue\_id": "694120", "venue\_key": "Deliveroo\|694120", "venue\_name": " 2Love Tea and Coffee Ho… | venue\_details | unverified | None | BRANCH\_DISABLED | disabled |
+| Deliveroo | 2026\-11\-05T08:29:13\.963105\+00:00 | \{"app\_name": "Deliveroo", "venue\_id": "56223", "venue\_key": "Deliveroo\|56223", "venue\_name": "DoDough Pizza", "client\_gu… | venue\_details | unverified | None | BRANCH\_DISABLED | disabled |
+
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
+
+### Schema
+
+| Column | Type |
+| --- | --- |
+| app\_name | text |
+| checked\_at | text |
+| discovery\_record | jsonb |
+| failed\_stage | text |
+| london\_membership | text |
+| menu\_availability\_evidence | text |
+| source\_error\_code | text |
+| status | text |
+| venue\_id | text |
+| venue\_key | text |
+| venue\_name | text |
 
 ## How the pipeline works
 

@@ -7,7 +7,7 @@ Food and drink venue listings from Google Maps, with venue details and photo\-re
 [Get the full dataset for free](https://www.jsonify.com/datasets/portugal-food-and-drink-venues-with-photos-9943f1952c47?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 9
+- Active pipeline version: 11
 - Last published: 2026-11-06T15:06:13.370601Z
 
 ## The brief
@@ -157,6 +157,8 @@ flowchart LR
 - 2026-11-07T10:39:04.379970Z: v7: Added bounded recovery for temporary search\-page failures while preserving saved progress\.
 - 2026-11-07T11:20:58.119310Z: v8: Fixed recovery when a search results panel disappears while scrolling\. Finished searches remain saved and the same search gets bounded retries\.
 - 2026-11-07T13:11:54.983923Z: v9: Uses the alternative browser connection verified on interrupted Maps searches, with bounded fallback if a search fails\. Completed searches remain available for resuming\.
+- 2026-11-07T22:57:05.903901Z: v10: Incomplete search responses now trigger a fresh, bounded recovery attempt while retaining completed searches\.
+- 2026-11-07T23:48:04.894508Z: v11: Temporarily unreadable search responses now receive limited fresh attempts while preserving completed work and geographic coverage\.
 
 ## Recorded repairs
 

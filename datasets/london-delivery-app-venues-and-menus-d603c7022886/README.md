@@ -7,7 +7,7 @@ Deliveroo, Uber Eats and Just Eat menu prices in London: 3,365 menu items from 3
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 36
+- Active pipeline version: 38
 - Last published: 2026-11-01T13:26:30.960098Z
 
 ## The brief
@@ -113,21 +113,20 @@ flowchart LR
   n17["menu#95;plan"]
   n18["menus"]
   n19["publication#95;plan"]
-  n20["worksheets"]
-  n21["venues#95;rows"]
-  n22["venues"]
-  n23["menu#95;items#95;rows"]
-  n24["menu#95;items"]
-  n25["master#95;categories#95;rows"]
-  n26["master#95;categories"]
-  n27["category#95;mappings#95;rows"]
-  n28["category#95;mappings"]
-  n29["source#95;coverage#95;rows"]
-  n30["source#95;coverage"]
-  n31["discovery#95;coverage#95;rows"]
-  n32["discovery#95;coverage"]
-  n33["unavailable#95;listings#95;rows"]
-  n34["unavailable#95;listings"]
+  n20["venues#95;rows"]
+  n21["venues"]
+  n22["menu#95;items#95;rows"]
+  n23["menu#95;items"]
+  n24["master#95;categories#95;rows"]
+  n25["master#95;categories"]
+  n26["category#95;mappings#95;rows"]
+  n27["category#95;mappings"]
+  n28["source#95;coverage#95;rows"]
+  n29["source#95;coverage"]
+  n30["discovery#95;coverage#95;rows"]
+  n31["discovery#95;coverage"]
+  n32["unavailable#95;listings#95;rows"]
+  n33["unavailable#95;listings"]
   n6 --> n7
   n7 --> n8
   n8 --> n9
@@ -141,27 +140,26 @@ flowchart LR
   n16 --> n17
   n17 --> n18
   n18 --> n19
-  n19 --> n20
-  n21 --> n22
-  n23 --> n24
-  n25 --> n26
-  n27 --> n28
-  n29 --> n30
-  n31 --> n32
-  n33 --> n34
+  n20 --> n21
+  n22 --> n23
+  n24 --> n25
+  n26 --> n27
+  n28 --> n29
+  n30 --> n31
+  n32 --> n33
   n0 --> n6
   n1 --> n6
   n2 --> n6
   n3 --> n6
   n4 --> n6
   n5 --> n6
-  n20 --> n27
-  n20 --> n31
-  n20 --> n25
-  n20 --> n23
-  n20 --> n29
-  n20 --> n33
-  n20 --> n21
+  n19 --> n26
+  n19 --> n30
+  n19 --> n24
+  n19 --> n22
+  n19 --> n28
+  n19 --> n32
+  n19 --> n20
   n5 --> n6
   n4 --> n8
   n1 --> n13
@@ -191,8 +189,7 @@ flowchart LR
 - **venue\_inventory**: Save the full discovered London venue inventory with conservative, stable cross\-app venue identities before menus begin\.
 - **menu\_plan**: Require the complete saved inventory before menu collection; reject truncating run limits\.
 - **menus**: Collect and normalize every saved venue menu independently, preserving completed venue work for recovery\.
-- **publication\_plan**: Reject limits that would truncate expanded menu or venue publication\.
-- **worksheets**: Separate venues, menu entries, the shared category dictionary, mappings and coverage into worksheets\.
+- **publication\_plan**: Stream completed records to their output tables; validate global completeness using coverage totals before publication\.
 - **venues\_rows**: Publish each normalized venues record without collecting the whole table in memory\.
 - **venues**: Venues with consistent shared definitions\.
 - **menu\_items\_rows**: Publish each normalized menu\_items record without collecting the whole table in memory\.
@@ -246,6 +243,8 @@ flowchart LR
 - 2026-11-07T15:08:31.665670Z: v34: Keep Just Eat listings with explicitly empty catalogs and no service hours separately for the final availability review, allowing other menus to continue\.
 - 2026-11-07T19:36:30.088282Z: v35: Keep stores that Uber explicitly reports as missing in the unavailable\-listings table, preserving the source explanation while other menus continue\.
 - 2026-11-08T00:01:12.846132Z: v36: Support Uber menus that use sections as categories, keeping every item, price and original category reference\.
+- 2026-11-08T00:43:33.625570Z: v37: Retain source\-confirmed unavailable negative\-price entries for review while preserving menu identity checks and usable dishes\.
+- 2026-11-08T04:55:31.391847Z: v38: Publish completed menu records through separate output branches without loading the whole menu collection into one check\.
 
 ## Recorded repairs
 

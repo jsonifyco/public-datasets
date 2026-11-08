@@ -1,0 +1,66 @@
+[
+  {
+    "name": "app_id",
+    "type": "text"
+  },
+  {
+    "name": "app_name",
+    "type": "text"
+  },
+  {
+    "name": "category_genres",
+    "type": "jsonb"
+  },
+  {
+    "name": "chart_name",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "developer",
+    "type": "text"
+  },
+  {
+    "name": "last_updated",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "publisher",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "integer"
+  },
+  {
+    "name": "rating_avg",
+    "type": "double precision"
+  },
+  {
+    "name": "rating_count",
+    "type": "integer"
+  },
+  {
+    "name": "release_date",
+    "type": "text"
+  },
+  {
+    "name": "store_url",
+    "type": "text"
+  },
+  {
+    "name": "supported_devices",
+    "type": "jsonb"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "app_id": "9465027033537283",
+    "appearances": [
+      {
+        "chart_name": null,
+        "rank": null
+      }
+    ],
+    "availability_status": "source_confirmed_unavailable",
+    "collected_at": "2026-11-07T22:11:05.077734+00:00",
+    "reason": "Meta says this page is temporarily unavailable.",
+    "store_url": "https://www.meta.com/experiences/9465027033537283/"
+  },
+  {
+    "app_id": "6707631349366674",
+    "appearances": [
+      {
+        "chart_name": null,
+        "rank": null
+      }
+    ],
+    "availability_status": "source_confirmed_unavailable",
+    "collected_at": "2026-11-07T22:12:58.453978+00:00",
+    "reason": "Meta says this page is temporarily unavailable.",
+    "store_url": "https://www.meta.com/experiences/6707631349366674/"
+  },
+  {
+    "app_id": "7322868361059572",
+    "appearances": [
+      {
+        "chart_name": null,
+        "rank": null
+      }
+    ],
+    "availability_status": "source_confirmed_unavailable",
+    "collected_at": "2026-11-07T22:10:39.628576+00:00",
+    "reason": "Meta says this page is temporarily unavailable.",
+    "store_url": "https://www.meta.com/experiences/7322868361059572/"
+  },
+  {
+    "app_id": "23954694280811521",
+    "appearances": [
+      {
+        "chart_name": null,
+        "rank": null
+      }
+    ],
+    "availability_status": "source_confirmed_unavailable",
+    "collected_at": "2026-11-07T22:12:27.564796+00:00",
+    "reason": "Meta says this page is temporarily unavailable.",
+    "store_url": "https://www.meta.com/experiences/23954694280811521/"
+  },
+  {
+    "app_id": "6122534951199045",
+    "appearances": [
+      {
+        "chart_name": null,
+        "rank": null
+      }
+    ],
+    "availability_status": "source_confirmed_unavailable",
+    "collected_at": "2026-11-07T22:12:24.097533+00:00",
+    "reason": "Meta says this page is temporarily unavailable.",
+    "store_url": "https://www.meta.com/experiences/6122534951199045/"
+  },
+  {
+    "app_id": "5077315605654672",
+    "appearances": [
+      {
+        "chart_name": null,
+        "rank": null
+      }
+    ],
+    "availability_status": "source_confirmed_unavailable",
+    "collected_at": "2026-11-07T22:12:53.876423+00:00",
+    "reason": "Meta says this page is temporarily unavailable.",
+    "store_url": "https://www.meta.com/experiences/5077315605654672/"
+  },
+  {
+    "app_id": "6371182992938672",
+    "appearances": [
+      {
+        "chart_name": null,
+        "rank": null
+      }
+    ],
+    "availability_status": "source_confirmed_unavailable",
+    "collected_at": "2026-11-07T22:10:23.205656+00:00",
+    "reason": "Meta says this page is temporarily unavailable.",
+    "store_url": "https://www.meta.com/experiences/6371182992938672/"
+  }
+]

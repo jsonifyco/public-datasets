@@ -8,7 +8,7 @@ Public Citius insolvency notices with process, debtor, court, publication date a
 
 - Refresh: daily
 - Active pipeline version: 4
-- Last published: 2026-11-07T06:27:40.210317Z
+- Last published: 2026-11-08T06:27:26.994800Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Avisos de insolvência / avisos
 
-382 total rows · 50 sampled · Output revision 7
-Published: 2026-11-07T06:27:40.210317Z · Producing pipeline version: 4
+382 total rows · 50 sampled · Output revision 8
+Published: 2026-11-08T06:27:26.994800Z · Producing pipeline version: 4
 
 [CSV sample](outputs/43cb4b753508/avisos-354cde498655/sample.csv) · [JSON sample](outputs/43cb4b753508/avisos-354cde498655/sample.json) · [Schema](outputs/43cb4b753508/avisos-354cde498655/schema.json)
 
 | Distrito | Estado do prazo | NIF ou NIPC | Natureza do devedor | Prazo publicado | Processo | Publicado em | Tipo de anúncio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Porto | Prazo não identificado no documento | 232202192 | Pessoa singular | None | 5021/23\.2T8VNG | 2026\-11\-05 | Outro |
-| Porto | Prazo identificado no documento | 199641854; 206722265 | Pessoa singular | 30 dias, a contar do fim da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | 1563/26\.6T8AMT | 2026\-11\-05 | declaração de insolvência |
-| Lisboa | Prazo não identificado no documento | 188936300 | Pessoa singular | None | 3078/22\.2T8VFX | 2026\-11\-03 | Outro |
-| Lisboa | Prazo não identificado no documento | 169897010 | Pessoa singular | None | 3176/17\.4T8VFX | 2026\-11\-05 | encerramento |
-| Porto | Prazo não identificado no documento | 515347833 | Empresa | None | 2097/24\.9T8STS\-I | 2026\-11\-02 | Outro |
+| Lisboa | Prazo não identificado no documento | 183944798 | Pessoa singular | None | 4193/17\.0T8VFX\-D | 2026\-11\-05 | Outro |
+| Porto | Prazo não identificado no documento | 240368975 | Pessoa singular | None | 1234/26\.3T8AMT | 2026\-11\-05 | Outro |
+| Porto | Prazo não identificado no documento | 144371901; 176345655 | Pessoa singular | None | 3419/19\.0T8STS | 2026\-11\-03 | encerramento |
+| Porto | Prazo identificado no documento | 258926481 | Pessoa singular | 20 dias; o prazo começa a correr finda a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | 3153/26\.4T8STS | 2026\-11\-06 | declaração de insolvência |
+| Lisboa | Prazo não identificado no documento | 267244827 | Pessoa singular | None | 22614/25\.6T8LSB | 2026\-11\-03 | Outro |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Avisos de insolvência / insolvency\_notices\_pt
 
-382 total rows · 50 sampled · Output revision 7
-Published: 2026-11-07T06:27:40.210317Z · Producing pipeline version: 4
+382 total rows · 50 sampled · Output revision 8
+Published: 2026-11-08T06:27:26.994800Z · Producing pipeline version: 4
 
 [CSV sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.csv) · [JSON sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.json) · [Schema](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/schema.json)
 
 | claims\_deadline | court | debtor\_name | debtor\_nif | debtor\_type | district | insolvency\_administrator | notice\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Amarante \- Tribunal Judicial da Comarca do Porto Este / Juízo de Comércio de Amarante \- Juiz 1 | Dgm\-Coberturas e Estruturas Metálicas, Unipessoal, Lda | 513552073 | company | Porto | Patrícia Sofia Marques Navalho | other |
-| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 2 | Alcide do Céu Almeida Teixeira Lopes; Joaquim Manuel Cabral Lopes | 144371901; 176345655 | individual | Porto | Cecília de Sousa Rocha | encerramento |
-| 30 dias, a contar do fim da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Lisboa \- Tribunal Judicial da Comarca de Lisboa / Juízo de Comércio de Lisboa \- Juiz 7 | Gil Fernando Teixeira da Costa | 169160530 | individual | Lisboa | Rui Jorge Soares da Silva de Castro Lima | declaração de insolvência |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 2 | Vasco Nuno Pinheiro Simões | 234847131 | individual | Lisboa | Sílvia Isabel Gonçalves Rodrigues Esteves das Neves | other |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 6 | Hélder Lopes Pereira | 267427255 | individual | Lisboa | António Coimbra Rodrigues | other |
+| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 7 | Bruno Miguel Pinto Oliveira | 199204586 | individual | Porto | José Pedro Pires Martins da Silva | other |
+| None | Santo Tirso \- Tribunal Judicial da Comarca do Porto / Juízo de Comércio de Santo Tirso \- Juiz 4 | Bárbara Luís Sampaio Melo Guimarães | 253316758 | individual | Porto | Carlos José Coelho Tiago Tinôco Fraga | encerramento |
+| 20 dias; os prazos para reclamação de créditos começam a correr finda a dilação de 5 dias, contada da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Santo Tirso \- Tribunal Judicial da Comarca do Porto / Juízo de Comércio de Santo Tirso \- Juiz 1 | Summerkini\-Texteis Lda | 514076500 | company | Porto | João Manuel Couto Morais de Almeida | declaração de insolvência |
+| 20 dias; o prazo começa a correr finda a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 1 | Consultadoria Moreira \- Serviços Técnicos de Engenharia, Lda | 502439041 | company | Porto | Fernando Marinho Vaz | declaração de insolvência |
+| 20 dias, a contar do fim da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 1 | Paula João Sousa e Silva Viana | 190994045 | individual | Porto | Nuno Rodolfo da Nova Oliveira da Silva | declaração de insolvência |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

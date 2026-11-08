@@ -1,0 +1,2551 @@
+[
+  {
+    "channel_created_at": null,
+    "channel_id": null,
+    "country": null,
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": null,
+    "failure_reason": "ValueError: youtube.channel: source returned no usable public record",
+    "field_issues": {},
+    "handle": "@babishculinaryuniverse",
+    "keywords_topics": null,
+    "language": "en",
+    "links": null,
+    "observation_id": "channels:@babishculinaryuniverse:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "failed",
+    "subscriber_count": null,
+    "title": null,
+    "total_views": null,
+    "uploads_status": "not_attempted",
+    "verified": null,
+    "vertical": "cooking",
+    "video_count": null,
+    "videos_discovered": 0
+  },
+  {
+    "channel_created_at": "2016-01-05",
+    "channel_id": "UCnMn36GT_H0X-w5_ckLtlgQ",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "My name is Jeremy Lefebvre and I created the Financial …",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@FinancialEducation",
+    "keywords_topics": [
+      "Financial Education",
+      "Stock Market",
+      "investing",
+      "passive income",
+      "stocks",
+      "Jeremy Lefebvre",
+      "stocks to buy",
+      "stocks to watch",
+      "Jeremy Lefebvre makes money",
+      "investing",
+      "investment",
+      "best stocks to buy",
+      "top stocks to buy",
+      "nasdaq",
+      "Russell 2000",
+      "small cap stocks",
+      "growth stocks",
+      "dividend stocks",
+      "dividends"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Join my PRIVATE STOCK GROUP",
+        "url": "https://fejeremy.com/2024-app-ytm"
+      },
+      {
+        "title": "Twitter ",
+        "url": "https://twitter.com/holysmokas"
+      },
+      {
+        "title": "Instagram ",
+        "url": "https://instagram.com/financialeducationjeremy/?hl=en"
+      }
+    ],
+    "observation_id": "channels:UCnMn36GT_H0X-w5_ckLtlgQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 953000,
+    "title": "Financial Education",
+    "total_views": 158247316,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 2955,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2016-12-30",
+    "channel_id": "UCO3tlaeZ6Z0ZN5frMZI3-uQ",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Hi I'm Nate. Welcome to my channel. \n\n\n",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@NateOBrien",
+    "keywords_topics": [
+      "money",
+      "stocks",
+      "investing",
+      "nate obrien",
+      "entrepreneur",
+      "business",
+      "personal finance"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Click To Subscribe",
+        "url": "https://youtube.com/channel/UCO3tlaeZ6Z0ZN5frMZI3-uQ"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/nateobrienn/?hl=en"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/nateobrienn"
+      }
+    ],
+    "observation_id": "channels:UCO3tlaeZ6Z0ZN5frMZI3-uQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1270000,
+    "title": "Nate O'Brien",
+    "total_views": 75216845,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 201,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2017-02-02",
+    "channel_id": "UC9OIwUcx-Uss7xj7s1P5XGw",
+    "country": "United Kingdom",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "My name is Ramin Nakisa and I started PensionCraft in 2…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@Pensioncraft",
+    "keywords_topics": [
+      "Investing",
+      "Investing Education",
+      "Financial Education",
+      "stock market",
+      "economy",
+      "financial news"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://pensioncraft.com\", \"title\": \"Website\"…",
+    "observation_id": "channels:UC9OIwUcx-Uss7xj7s1P5XGw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 219000,
+    "title": "PensionCraft",
+    "total_views": 26790515,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 707,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2010-01-07",
+    "channel_id": "UC1CVzH-XVr3E-kTT6D8hhfg",
+    "country": "Australia",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Hybrid Calisthenics with Physio Daniel Vadnal. ",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@FitnessFAQs",
+    "keywords_topics": [
+      "calisthencis",
+      "bodyweight exercise",
+      "bodyweight training",
+      "fitnessfaqs",
+      "muscle building",
+      "home workout",
+      "Daniel vadnal"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Hybrid Calisthenics Programs",
+        "url": "https://fitnessfaqs.com/programs"
+      }
+    ],
+    "observation_id": "channels:UC1CVzH-XVr3E-kTT6D8hhfg:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 2210000,
+    "title": "FitnessFAQs",
+    "total_views": 480304502,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "fitness",
+    "video_count": 1887,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2006-11-01",
+    "channel_id": "UCLGNeElk4sNgzUrZr0c9krA",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Chef Jean-Pierre is a James Beard–nominated chef, telev…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@ChefJeanPierre",
+    "keywords_topics": "[\"Cooking\", \"Gourmet Cooking\", \"Learn to Cook\", \"How to…",
+    "language": "en",
+    "links": [
+      {
+        "title": "ChefJeanPierre.com",
+        "url": "https://chefjeanpierre.com"
+      },
+      {
+        "title": "Chef JP Shop",
+        "url": "https://chefjp-com.3dcartstores.com"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/CookingWithChefJeanPierre"
+      }
+    ],
+    "observation_id": "channels:UCLGNeElk4sNgzUrZr0c9krA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 2490000,
+    "title": "Chef Jean-Pierre",
+    "total_views": 282877612,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 505,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2017-06-19",
+    "channel_id": "UCpLie5obXFdf8T0NG-IRHsA",
+    "country": "Spain",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Value School nace en Madrid en 2017 como un proyecto de divulgación de conocimiento sobre inversión dirigido al ahorrador común. Pretende contribuir al desarrollo y expansión en la sociedad de una manera de invertir reflexiva, informada y consciente.",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately",
+      "verified": "Not exposed by normalized response or verified public About view"
+    },
+    "handle": "@ValueSchool",
+    "keywords_topics": [
+      "valueinvesting",
+      "inversion",
+      "ahorro"
+    ],
+    "language": "es",
+    "links": "[{\"url\": \"https://youtube.com/@ValueSchoolYT\", \"title\":…",
+    "observation_id": "channels:UCpLie5obXFdf8T0NG-IRHsA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 421000,
+    "title": "El podcast de Value School",
+    "total_views": 18205077,
+    "uploads_status": "ok",
+    "verified": null,
+    "vertical": "personal finance",
+    "video_count": 919,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2012-07-23",
+    "channel_id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "I review technology from the inside. \n\nEcoFlow Global A…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@JerryRigEverything",
+    "keywords_topics": [
+      "cell phone repair",
+      "mobile phone",
+      "technology",
+      "JerryRigEverything",
+      "Jerry rig everything",
+      "tech",
+      "how to",
+      "how-to",
+      "life hack",
+      "projects",
+      "tools",
+      "create",
+      "make",
+      "science",
+      "educational",
+      "education",
+      "tutorial",
+      "hacker",
+      "most viewed"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://jerryrigeverything.com\", \"title\": \"Je…",
+    "observation_id": "channels:UCWFKCr40YwOZQx8FHU_ZqqQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 10300000,
+    "title": "JerryRigEverything",
+    "total_views": 3191753547,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "tech reviews",
+    "video_count": 1622,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2012-05-30",
+    "channel_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "RP Strength (Renaissance Periodization) is a company wi…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@RenaissancePeriodization",
+    "keywords_topics": [
+      "bodybuilding",
+      "figure",
+      "fitness",
+      "powerlifting",
+      "diet",
+      "weight training",
+      "hypertrophy"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "RP Hypertrophy App:",
+        "url": "https://rpstrength.com/rphypertrophyapp"
+      },
+      {
+        "title": "RP Diet App:",
+        "url": "https://rpstrength.com/rpdietcoachapp"
+      },
+      {
+        "title": "Team RP Coaching:",
+        "url": "https://rpstrength.com/teamrpcoaching"
+      }
+    ],
+    "observation_id": "channels:UCfQgsKhHjSyRLOp9mnffqVg:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 3900000,
+    "title": "Renaissance Periodization",
+    "total_views": 2253301928,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "fitness",
+    "video_count": 4461,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2019-09-15",
+    "channel_id": "UCEPWaN-XiZqEQAPiwvBa3ng",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "In the classic fable The Tortoise and the Hare, the tor…",
+    "failure_reason": null,
+    "field_issues": {
+      "keywords_topics": "Not exposed by normalized response or verified public About view",
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@TaeKimFinancialTortoise",
+    "keywords_topics": null,
+    "language": "en",
+    "links": [
+      {
+        "title": "Join the Newsletter",
+        "url": "https://financialtortoise.com/newsletter"
+      },
+      {
+        "title": "Private Membership Community",
+        "url": "https://financialtortoise.com/community"
+      }
+    ],
+    "observation_id": "channels:UCEPWaN-XiZqEQAPiwvBa3ng:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 346000,
+    "title": "Tae Kim - Financial Tortoise",
+    "total_views": 30604519,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 470,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2019-02-07",
+    "channel_id": "UC19OYOBqkgVqgTIQxbsPdlw",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "I don't want to teach you a recipe, I want to teach you how to cook and hopefully get a few chuckles along the way. My name is Sonny Hurrell and on this channel, I share everything I've learned over my 20 years of worldwide professional cooking experience.  Business inquiries-  thatdudecancook@dovora.co\n\n\n",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@thatdudecancook",
+    "keywords_topics": [
+      "learn",
+      "to",
+      "cook"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://youtube.com/channel/UC19OYOBqkgVqgTIQ…",
+    "observation_id": "channels:UC19OYOBqkgVqgTIQxbsPdlw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 2520000,
+    "title": "ThatDudeCanCook",
+    "total_views": 851162323,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 924,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2017-01-20",
+    "channel_id": "UCsLF0qPTpkYKq81HsjgzhwQ",
+    "country": "Germany",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "I make people move\n",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@growingannanas",
+    "keywords_topics": "[\"growingannanas\", \"hiit\", \"home workout\", \"intense hii…",
+    "language": "en",
+    "links": [
+      {
+        "title": "My Fitness App",
+        "url": "https://growwithanna.com"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/growingannanas"
+      }
+    ],
+    "observation_id": "channels:UCsLF0qPTpkYKq81HsjgzhwQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 8230000,
+    "title": "growingannanas",
+    "total_views": 4684356297,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "fitness",
+    "video_count": 1362,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2009-05-19",
+    "channel_id": "UCXa_bzvv7Oo1glaW9FldDhQ",
+    "country": "India",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "This is the Official Youtube Channel of GamingBolt.com. Subscribe for daily original content including reviews, tech analysis and lists!",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@GamingBolt",
+    "keywords_topics": "[\"video games\", \"playstation 5 games\", \"xbox series x g…",
+    "language": "en",
+    "links": [
+      {
+        "title": "Official Website",
+        "url": "https://gamingbolt.com"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/pages/GamingBolt-Get-a-Bolt-of-Gaming-Now/241308979564?ref=hl"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/GamingBoltTweet"
+      }
+    ],
+    "observation_id": "channels:UCXa_bzvv7Oo1glaW9FldDhQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1350000,
+    "title": "GamingBolt",
+    "total_views": 689814098,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 9447,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2011-04-26",
+    "channel_id": "UCIwspRtKNszHhIhl36gREjQ",
+    "country": "Brazil",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "To sempre jogando alguma coisa ai\n\ncontato: alanzoka@vandep.ag\n\nNão autorizo o uso desses vídeos ou qualquer outro das lives em outro canal, para qualquer dúvida \n\n\n\n",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@alanzoka",
+    "keywords_topics": [
+      "edge gaming",
+      "electronicdesirege",
+      "electronic desire",
+      "alanzoka",
+      "alan",
+      "alan da twitch",
+      "memes alanzoka",
+      "alanzoka jogando",
+      "video do alanzoka",
+      "lives alanzoka"
+    ],
+    "language": "pt",
+    "links": [
+      {
+        "title": "Twitch",
+        "url": "https://twitch.tv/alanzoka"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/alanzoka"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/alanzoka"
+      }
+    ],
+    "observation_id": "channels:UCIwspRtKNszHhIhl36gREjQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 9310000,
+    "title": "alanzoka",
+    "total_views": 2744374890,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 4692,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2008-04-29",
+    "channel_id": "UCbpMy0Fg74eXXkvxJrtEn3w",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Welcome to Bon Appétit, where we want everyone to love cooking and eating as much as we do. Recipes you want to make. Cooking advice that works. Restaurant recommendations you trust.\n",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@bonappetit",
+    "keywords_topics": [
+      "bon appetit",
+      "bon apetit",
+      "recipe",
+      "recipes",
+      "test kitchen",
+      "brad leone",
+      "claire saffitz",
+      "kids try",
+      "it's alive",
+      "food",
+      "cooking"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Bon Appétit",
+        "url": "https://bonappetit.com"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/bonappetit"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/bonappetitmag"
+      },
+      {
+        "title": "Pinterest",
+        "url": "https://pinterest.com/bonappetitmag"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/bonappetitmag"
+      }
+    ],
+    "observation_id": "channels:UCbpMy0Fg74eXXkvxJrtEn3w:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 7430000,
+    "title": "Bon Appétit",
+    "total_views": 2256349079,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 1958,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2015-02-19",
+    "channel_id": "UC8mDF5mWNGE-Kpfcvnn0bUg",
+    "country": "Brazil",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Seu dinheiro some igual seu contatinho em época de carn…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@MePoupe",
+    "keywords_topics": "[\"tesouro direto\", \"ações\", \"empreendedorismo\", \"negóci…",
+    "language": "pt",
+    "links": [
+      {
+        "title": "MePoupe+",
+        "url": "https://mepoupe.short.gy/mepoupemais"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/mepoupenaweb"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/@mepoupenaweb"
+      },
+      {
+        "title": "Lojinha Nathalia Arcuri",
+        "url": "https://loja.nathaliaarcuri.com.br"
+      }
+    ],
+    "observation_id": "channels:UC8mDF5mWNGE-Kpfcvnn0bUg:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 7740000,
+    "title": "Me Poupe!",
+    "total_views": 624120444,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 2659,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2012-05-08",
+    "channel_id": "UCKf0UqBiCQI4Ol0To9V0pKQ",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "👇 Workout Plans & Cookbook\n\nWho are the B.U.F.F. Dudes?…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@buffdudes",
+    "keywords_topics": "[\"Fitness\", \"Health\", \"Lifestyle\", \"Comedy\", \"Gym Comed…",
+    "language": "en",
+    "links": [
+      {
+        "title": "Buff Dudes Store",
+        "url": "https://buffdudes.us"
+      },
+      {
+        "title": "Buff Workout App",
+        "url": "https://thebuff.app"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/buffdudes"
+      },
+      {
+        "title": "Subscribe to our Newsletter",
+        "url": "https://eepurl.com/cTlXxf"
+      }
+    ],
+    "observation_id": "channels:UCKf0UqBiCQI4Ol0To9V0pKQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 2810000,
+    "title": "Buff Dudes",
+    "total_views": 587919311,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "fitness",
+    "video_count": 834,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2010-03-14",
+    "channel_id": "UCfyehHM_eo4g5JUyWmms2LA",
+    "country": "United Kingdom",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Just a group of mates battling to become awesome home c…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@SortedFood",
+    "keywords_topics": "[\"sorted food\", \"Sorted\", \"food\", \"cooking\", \"chefs\", \"…",
+    "language": "en",
+    "links": [
+      {
+        "title": "Try Our Sidekick App FREE",
+        "url": "https://sortedfood.com"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/sortedfood"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/sortedfoodofficial"
+      },
+      {
+        "title": "Sorted Kids",
+        "url": "https://youtube.com/@SortedKids"
+      }
+    ],
+    "observation_id": "channels:UCfyehHM_eo4g5JUyWmms2LA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 3010000,
+    "title": "Sorted Food",
+    "total_views": 1547149899,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 3019,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2021-12-15",
+    "channel_id": "UCOCCcqrqdsEqlkMjZwEYwSA",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Shockingly good tech videos! Presented by Overclock Med…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@Denki",
+    "keywords_topics": [
+      "tech",
+      "technology",
+      "gaming",
+      "xbox",
+      "playstation",
+      "smartphones"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Twitter",
+        "url": "https://x.com/kenbolido"
+      },
+      {
+        "title": "Tiktok",
+        "url": "https://tiktok.com/@denkichannel"
+      }
+    ],
+    "observation_id": "channels:UCOCCcqrqdsEqlkMjZwEYwSA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 267000,
+    "title": "Denki",
+    "total_views": 34963812,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "tech reviews",
+    "video_count": 308,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2017-10-28",
+    "channel_id": "UCL_v4tC26PvOFytV1_eEVSg",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "My mission is to provide my viewers with actionable con…",
+    "failure_reason": null,
+    "field_issues": {
+      "keywords_topics": "Not exposed by normalized response or verified public About view",
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@WhiteBoardFinance",
+    "keywords_topics": null,
+    "language": "en",
+    "links": [
+      {
+        "title": "My FREE 7 Day Money Roadmap",
+        "url": "https://whiteboardfinance.com/roadmap"
+      },
+      {
+        "title": "Join My Private Community",
+        "url": "https://wbfuniversity.com"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/whiteboardfinance"
+      },
+      {
+        "title": "Achieve",
+        "url": "https://bit.ly/markowhiteboardfinance"
+      }
+    ],
+    "observation_id": "channels:UCL_v4tC26PvOFytV1_eEVSg:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1030000,
+    "title": "Marko - WhiteBoard Finance",
+    "total_views": 70341955,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 432,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2010-08-19",
+    "channel_id": "UCRLOLGZl3-QTaJfLmAKgoAw",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Informative and educational videos about barbell strength training. Untamed Strength is a Powerlifting and Strongman gym located in Sacramento, CA.",
+    "failure_reason": null,
+    "field_issues": {
+      "keywords_topics": "Not exposed by normalized response or verified public About view",
+      "language": "Curated expected content language; video caption language is recorded separately",
+      "verified": "Not exposed by normalized response or verified public About view"
+    },
+    "handle": "@AlanThrall",
+    "keywords_topics": null,
+    "language": "en",
+    "links": [
+      {
+        "title": "@Untamedstrength",
+        "url": "https://instagram.com/untamedstrength/?hl=en"
+      },
+      {
+        "title": "TrainUntamed.com",
+        "url": "https://trainuntamed.com"
+      }
+    ],
+    "observation_id": "channels:UCRLOLGZl3-QTaJfLmAKgoAw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 847000,
+    "title": "Alan Thrall (Untamed Strength)",
+    "total_views": 164055914,
+    "uploads_status": "ok",
+    "verified": null,
+    "vertical": "fitness",
+    "video_count": 757,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2007-04-03",
+    "channel_id": "UC8gFadPgK2r1ndqLI04Xvvw",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Hi! I'm Maangchi! My channel is all about cooking, eati…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@Maangchi",
+    "keywords_topics": [
+      "Korean food",
+      "Korean cooking",
+      "Maangchi",
+      "Korean recipe",
+      "Korean cuisine",
+      "Korean authentic recipe",
+      "travel cooking",
+      "Korean kitchen",
+      "cooking",
+      "YouTube video recipe"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://maangchi.com\", \"title\": \"All my recip…",
+    "observation_id": "channels:UC8gFadPgK2r1ndqLI04Xvvw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 6530000,
+    "title": "Maangchi",
+    "total_views": 790834138,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 611,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2017-04-24",
+    "channel_id": "UC54SLBnD5k5U3Q6N__UjbAw",
+    "country": null,
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Learn how to cook real deal, authentic Chinese food!  W…",
+    "failure_reason": null,
+    "field_issues": "{\"country\": \"Not exposed by normalized response or veri…",
+    "handle": "@ChineseCookingDemystified",
+    "keywords_topics": null,
+    "language": "en",
+    "links": [
+      {
+        "title": "Support Us on Patreon!",
+        "url": "https://patreon.com/ChineseCookingDemystified"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/chinesecookingdemystified"
+      }
+    ],
+    "observation_id": "channels:UC54SLBnD5k5U3Q6N__UjbAw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1020000,
+    "title": "Chinese Cooking Demystified",
+    "total_views": 109626982,
+    "uploads_status": "ok",
+    "verified": null,
+    "vertical": "cooking",
+    "video_count": 362,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2009-06-13",
+    "channel_id": "UCIJwWYOfsCfz6PjxbONYXSg",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Cassey Ho is a Designer and Creator whose mission is to…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@blogilates",
+    "keywords_topics": "[\"workout for women\", \"ab workouts\", \"total body workou…",
+    "language": "en",
+    "links": "[{\"url\": \"https://popflexactive.com\", \"title\": \"POPFLEX…",
+    "observation_id": "channels:UCIJwWYOfsCfz6PjxbONYXSg:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 11100000,
+    "title": "blogilates",
+    "total_views": 5753792847,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "fitness",
+    "video_count": 1557,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2006-09-18",
+    "channel_id": "UCKy1dAqELo0zrOtPkf0eTMw",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "IGN brings you daily videos about the latest gaming and…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@IGN",
+    "keywords_topics": "[\"IGN\", \"IGN.com\", \"Entertainment\", \"Video Games\", \"Gam…",
+    "language": "en",
+    "links": "[{\"url\": \"https://ign.com\", \"title\": \"IGN.com\"}, {\"url\"…",
+    "observation_id": "channels:UCKy1dAqELo0zrOtPkf0eTMw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 20000000,
+    "title": "IGN",
+    "total_views": 22403647129,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 185168,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2006-07-12",
+    "channel_id": "UCqqJQ_cXSat0KIAVfIfKkVA",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "I'm Kenji López-Alt. I'm the author of the James Beard …",
+    "failure_reason": null,
+    "field_issues": {
+      "keywords_topics": "Not exposed by normalized response or verified public About view",
+      "language": "Curated expected content language; video caption language is recorded separately",
+      "verified": "Not exposed by normalized response or verified public About view"
+    },
+    "handle": "@JKenjiLopezAlt",
+    "keywords_topics": null,
+    "language": "en",
+    "links": "[{\"url\": \"https://patreon.com/kenjilopezalt\", \"title\": …",
+    "observation_id": "channels:UCqqJQ_cXSat0KIAVfIfKkVA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1760000,
+    "title": "J. Kenji López-Alt",
+    "total_views": 301435841,
+    "uploads_status": "ok",
+    "verified": null,
+    "vertical": "cooking",
+    "video_count": 873,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2018-11-27",
+    "channel_id": "UCbyjYRUS9gADwAGuUxcfVcA",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "My name is James Delmage and I provide step-by-step ins…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@SipandFeast",
+    "keywords_topics": [
+      "italian-american food",
+      "italian food",
+      "italian recipes",
+      "new york italian food",
+      "long island italian food",
+      "pasta recipes",
+      "italian american home cooking",
+      "italian american recipes",
+      "sip and feast",
+      "jim delmage"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://sipandfeast.com/cookbook\", \"title\": \"…",
+    "observation_id": "channels:UCbyjYRUS9gADwAGuUxcfVcA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1200000,
+    "title": "Sip and Feast",
+    "total_views": 132469115,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 392,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2018-05-03",
+    "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
+    "country": "Canada",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "TechLinked keeps you up to date with a fast, funny roundup of the latest tech news every Monday, Wednesday, and Friday.\n\nSponsorship Inquiries: partnerships@linusmediagroup.com\n",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@techlinked",
+    "keywords_topics": [
+      "netlinked",
+      "tech",
+      "news",
+      "pc",
+      "computer",
+      "gaming",
+      "mobile",
+      "phone",
+      "desktop",
+      "laptop",
+      "apple",
+      "mac"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://lttstore.com\", \"title\": \"Our Products…",
+    "observation_id": "channels:UCeeFfhMcJa1kjtfZAGskOCA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1980000,
+    "title": "TechLinked",
+    "total_views": 687703172,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "tech reviews",
+    "video_count": 1397,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2006-12-22",
+    "channel_id": "UCYkoAtIMi6oFG_8SO5YrauQ",
+    "country": "Spain",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Bienvenido!! Aquí encontrarás unboxing, análisis y comparativas de los mejores gadgets y las últimas noticias de tecnología e Internet, de forma fácil y divertida. Si te gustan nuestros vídeos, ¡suscríbete! :-) y síguenos en redes sociales",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@clipset",
+    "keywords_topics": "[\"Clipset\", \"Carolina Denia\", \"Apple\", \"Huawei\", \"Xiaom…",
+    "language": "es",
+    "links": "[{\"url\": \"https://clipset.com\", \"title\": \"clipset\"}, {\"…",
+    "observation_id": "channels:UCYkoAtIMi6oFG_8SO5YrauQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 2520000,
+    "title": "clipset",
+    "total_views": 509074788,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "tech reviews",
+    "video_count": 3516,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2011-07-21",
+    "channel_id": "UCbRj3Tcy1Zoz3rcf83nW5kw",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Hey all, we're here for one reason - to make your food …",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately",
+      "verified": "Not exposed by normalized response or verified public About view"
+    },
+    "handle": "@samthecookingguy",
+    "keywords_topics": "[\"youtube cooking channel\", \"best online cooking show\",…",
+    "language": "en",
+    "links": [
+      {
+        "title": "SHOPSTCG",
+        "url": "https://shopstcg.com"
+      },
+      {
+        "title": "INSTAGRAM",
+        "url": "https://instagram.com/thecookingguy"
+      },
+      {
+        "title": "TIKTOK",
+        "url": "https://tiktok.com/@samthecookingguy?lang=en"
+      },
+      {
+        "title": "TWITTER",
+        "url": "https://twitter.com/thecookingguy"
+      },
+      {
+        "title": "MY WEBSITE",
+        "url": "https://thecookingguy.com"
+      }
+    ],
+    "observation_id": "channels:UCbRj3Tcy1Zoz3rcf83nW5kw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 3860000,
+    "title": "SAM THE COOKING GUY",
+    "total_views": 736547016,
+    "uploads_status": "ok",
+    "verified": null,
+    "vertical": "cooking",
+    "video_count": 2182,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2016-12-24",
+    "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "As a 34 year old real estate investor who started worki…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@GrahamStephan",
+    "keywords_topics": [
+      "real estate",
+      "real estate agent",
+      "real estate investing",
+      "real estate sales",
+      "real estate wholesaling",
+      "investing",
+      "passive income",
+      "stock market",
+      "graham stephan",
+      "how to make money in real estate"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Add me on instagram",
+        "url": "https://instagram.com/gpstephan"
+      },
+      {
+        "title": "Add me on Snapchat",
+        "url": "https://snapchat.com/add/gpstephan"
+      },
+      {
+        "title": "My Website",
+        "url": "https://grahamstephan.com"
+      },
+      {
+        "title": "Add me on Twitter:",
+        "url": "https://twitter.com/GrahamStephan"
+      }
+    ],
+    "observation_id": "channels:UCV6KDgJskWaEckne5aPA0aQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 5180000,
+    "title": "Graham Stephan",
+    "total_views": 1435166700,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 1721,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": null,
+    "channel_id": null,
+    "country": null,
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": null,
+    "failure_reason": "ValueError: youtube.channel: source returned no usable public record",
+    "field_issues": {},
+    "handle": "@NatachaOceane",
+    "keywords_topics": null,
+    "language": "en",
+    "links": null,
+    "observation_id": "channels:@NatachaOceane:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "failed",
+    "subscriber_count": null,
+    "title": null,
+    "total_views": null,
+    "uploads_status": "not_attempted",
+    "verified": null,
+    "vertical": "fitness",
+    "video_count": null,
+    "videos_discovered": 0
+  },
+  {
+    "channel_created_at": "2006-04-15",
+    "channel_id": "UCEFymXY4eFCo_AchSpxwyrg",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "The Metal Jesus is a long-haired rocker dude who runs a…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@MetalJesusRocks",
+    "keywords_topics": [
+      "retro",
+      "gaming",
+      "video",
+      "game",
+      "man",
+      "cave",
+      "reviews",
+      "metal",
+      "jesus",
+      "rocks",
+      "classic",
+      "games",
+      "sierra",
+      "online",
+      "ipad",
+      "top",
+      "best",
+      "metaljesusrocks",
+      "music",
+      "musician",
+      "guitarist",
+      "drunken",
+      "master",
+      "paul",
+      "dmp"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://patreon.com/metaljesusrocks\", \"title\"…",
+    "observation_id": "channels:UCEFymXY4eFCo_AchSpxwyrg:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 949000,
+    "title": "MetalJesusRocks",
+    "total_views": 288459840,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 1121,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2020-05-19",
+    "channel_id": "UCjPR68IfHV0aY9s6cF5u0uQ",
+    "country": "United Kingdom",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Are you looking to improve your finances but don't know…",
+    "failure_reason": null,
+    "field_issues": {
+      "keywords_topics": "Not exposed by normalized response or verified public About view",
+      "language": "Curated expected content language; video caption language is recorded separately",
+      "verified": "Not exposed by normalized response or verified public About view"
+    },
+    "handle": "@DamienTalksMoney",
+    "keywords_topics": null,
+    "language": "en",
+    "links": [
+      {
+        "title": "My Podcast",
+        "url": "https://youtube.com/@MakingMoneyPodcast"
+      },
+      {
+        "title": "My newsletter",
+        "url": "https://financialinterest.com"
+      },
+      {
+        "title": "Tiktok",
+        "url": "https://tiktok.com/@damientalks"
+      }
+    ],
+    "observation_id": "channels:UCjPR68IfHV0aY9s6cF5u0uQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 422000,
+    "title": "Damien Talks Money",
+    "total_views": 41498996,
+    "uploads_status": "ok",
+    "verified": null,
+    "vertical": "personal finance",
+    "video_count": 279,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2008-07-01",
+    "channel_id": "UCfSPnAlDUTiIOAvNOI-a4yQ",
+    "country": "Brazil",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Criado em 2000 por Rita Lobo, Panelinha é site, editora…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@panelinha",
+    "keywords_topics": [
+      "como cozinhar",
+      "receitas",
+      "passo a passo",
+      "cozinha",
+      "rita lobo",
+      "panelinha",
+      "aprenda receitas",
+      "aprenda a cozinhar"
+    ],
+    "language": "pt",
+    "links": "[{\"url\": \"https://panelinha.com.br\", \"title\": \"Site Pan…",
+    "observation_id": "channels:UCfSPnAlDUTiIOAvNOI-a4yQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1160000,
+    "title": "Panelinha",
+    "total_views": 86584003,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 1179,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2007-06-24",
+    "channel_id": "UCciKycgzURdymx-GRSY2_dA",
+    "country": "United Kingdom",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Hello! You've found Eurogamer's YouTube channel. Come o…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@eurogamer",
+    "keywords_topics": [
+      "Eurogamer",
+      "Xbox One",
+      "PS4",
+      "PC",
+      "gaming",
+      "gameplay",
+      "let's play",
+      "live stream",
+      "VR",
+      "PSVR",
+      "Nintendo Switch",
+      "eurogamer ian",
+      "eurogamer zoe",
+      "eurogamer aoife",
+      "ian higton",
+      "zoe delahunty-light",
+      "aoife wilson"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/eurogamer"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://x.com/eurogamer"
+      },
+      {
+        "title": "Eurogamer.net",
+        "url": "https://eurogamer.net"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/Eurogamer"
+      }
+    ],
+    "observation_id": "channels:UCciKycgzURdymx-GRSY2_dA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 754000,
+    "title": "Eurogamer",
+    "total_views": 374029971,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 6350,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2010-11-10",
+    "channel_id": "UCzqbfYjQmf9nLQPMxVgPhiA",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Welcome to the official YouTube channel for Emmymade fo…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@emmymade",
+    "keywords_topics": "[\"sweets\", \"Japan\", \"candy\", \"Japanese\", \"DIY\", \"how-to…",
+    "language": "en",
+    "links": [
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/pages/Emmymade-in-Japan/121463277937234"
+      },
+      {
+        "title": "Merch",
+        "url": "https://bonfire.com/store/emmy-made"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/emmymade"
+      }
+    ],
+    "observation_id": "channels:UCzqbfYjQmf9nLQPMxVgPhiA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 3160000,
+    "title": "emmymade",
+    "total_views": 665190751,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 2145,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2008-03-21",
+    "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!\n\nbusiness@MKBHD.com\n\nNYC",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@mkbhd",
+    "keywords_topics": [
+      "MKBHD",
+      "MarquesBrownlee",
+      "Marques",
+      "Brownlee"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/MKBHD"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/MKBHD"
+      },
+      {
+        "title": "The Studio",
+        "url": "https://youtube.com/c/TheStudio"
+      },
+      {
+        "title": "Reddit",
+        "url": "https://reddit.com/r/MKBHD"
+      },
+      {
+        "title": "Discord",
+        "url": "https://discord.gg/MKBHD"
+      }
+    ],
+    "observation_id": "channels:UCBJycsmduvYEL83R_U4JriQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 21400000,
+    "title": "Marques Brownlee",
+    "total_views": 5876149041,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "tech reviews",
+    "video_count": 1865,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2010-01-14",
+    "channel_id": "UCNbngWUqL2eqRw12yAwcICg",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Hi there, welcome to my channel! This is where I share …",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@LauraintheKitchen",
+    "keywords_topics": [
+      "cooking shows",
+      "cooking channels",
+      "cooking show",
+      "easy recipes",
+      "delicious recipes",
+      "italian",
+      "italian recipes",
+      "how to cook",
+      "laura vitale",
+      "chef laura",
+      "chef",
+      "recipe",
+      "recipes",
+      "#recipes",
+      "#cooking",
+      "#recipe"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://laurainthekitchen.com\", \"title\": \"Lau…",
+    "observation_id": "channels:UCNbngWUqL2eqRw12yAwcICg:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 3970000,
+    "title": "Laura in the Kitchen",
+    "total_views": 701461668,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 2292,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2012-11-23",
+    "channel_id": "UC-pC1xsFPzcrL09DaW4jlBA",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Natasha’s Kitchen is all about reliable, family-friendl…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@Natashaskitchen",
+    "keywords_topics": [
+      "NatashasKitchen",
+      "Natashas Kitchen recipes",
+      "food",
+      "Chef",
+      "Cooking",
+      "Kitchen",
+      "Cook",
+      "Recipes",
+      "Easy",
+      "Young",
+      "How To Cook",
+      "How To Bake",
+      "How To Make",
+      "cooking videos",
+      "entertaining"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "NatashasKitchen.com",
+        "url": "https://natashaskitchen.com"
+      },
+      {
+        "title": "Cookbook",
+        "url": "https://natashaskitchen.com/natashas-kitchen-cookbook-cover-reveal"
+      }
+    ],
+    "observation_id": "channels:UC-pC1xsFPzcrL09DaW4jlBA:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 4139999,
+    "title": "Natashas Kitchen",
+    "total_views": 597919307,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 895,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2015-06-22",
+    "channel_id": "UCSPYNpQ2fHv9HJ-q6MIMaPw",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "The Financial Diet helps you rethink your relationship with money, culture, and class.\n\nEducation & commentary on the systems we interact with every day, from influencer culture, to economic systems, to financial privilege.\n\nTalk to us at hello@thefinancialdiet.com",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@thefinancialdiet",
+    "keywords_topics": [
+      "the financial diet",
+      "chelsea fagan",
+      "saving",
+      "financial advice",
+      "budgeting",
+      "investing",
+      "productivity"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Link in bio",
+        "url": "https://hoo.be/thefinancialdiet"
+      }
+    ],
+    "observation_id": "channels:UCSPYNpQ2fHv9HJ-q6MIMaPw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1350000,
+    "title": "The Financial Diet",
+    "total_views": 213081824,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 1800,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2019-06-08",
+    "channel_id": "UCWj_rUMGYCP0DjffybE2nbg",
+    "country": "United Kingdom",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Want to learn to cook Middle Eastern food like a pro? T…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@MiddleEats",
+    "keywords_topics": "[\"middle eats\", \"middleeats\", \"Middle eastern food\", \"m…",
+    "language": "en",
+    "links": [
+      {
+        "title": "Get our new e-book",
+        "url": "https://payhip.com/b/hMV0y"
+      },
+      {
+        "title": "Patreon",
+        "url": "https://patreon.com/MiddleEats"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/itsmiddleeats"
+      },
+      {
+        "title": "Email",
+        "url": "https://team@middleeats.co.uk"
+      }
+    ],
+    "observation_id": "channels:UCWj_rUMGYCP0DjffybE2nbg:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 470000,
+    "title": "Middle Eats",
+    "total_views": 37655407,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "cooking",
+    "video_count": 218,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2015-05-08",
+    "channel_id": "UCA5RGaQc-a8tIX_AqTTmWdw",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "I'm an average man who talks about video games, retro games, Nintendo Switch games, and more.\n",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@RGT85",
+    "keywords_topics": [
+      "Nintendo Switch",
+      "Nintendo",
+      "Sega",
+      "Retro Gaming",
+      "RGT 85",
+      "PS4",
+      "PlayStation 4",
+      "Sega Saturn",
+      "Xbox",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/rgt_85"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/rgt_85"
+      },
+      {
+        "title": "$10 For WhatNot!",
+        "url": "https://whatnot.com/invite/sirnintendo"
+      }
+    ],
+    "observation_id": "channels:UCA5RGaQc-a8tIX_AqTTmWdw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 536000,
+    "title": "RGT 85",
+    "total_views": 262734274,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 3743,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2016-09-27",
+    "channel_id": "UCoIXnB865l9Ex9zs4OIXTdQ",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "We love video games, TV shows, Movies and all other types of media. Check out our videos and have fun on our channel!",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@SpawnWave",
+    "keywords_topics": [
+      "gaming",
+      "nintendo switch",
+      "nintendo",
+      "switch",
+      "playstation",
+      "xbox",
+      "sony",
+      "microsoft",
+      "ps4",
+      "xb1",
+      "spawn wave media",
+      "switch 2",
+      "steam machine",
+      "steam",
+      "pc",
+      "switch 2"
+    ],
+    "language": "en",
+    "links": [],
+    "observation_id": "channels:UCoIXnB865l9Ex9zs4OIXTdQ:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 773000,
+    "title": "Spawn Wave",
+    "total_views": 497966397,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 5578,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2007-10-20",
+    "channel_id": "UCpXipTyhIY9kprpvVd-lu0A",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "I'm Erin Moriarity & welcome to Erin Talks Money. 😊\n\nLe…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@ErinTalksMoney",
+    "keywords_topics": [
+      "Investing",
+      "Money",
+      "Personal Finance",
+      "Wealth",
+      "retirement",
+      "wealth planning",
+      "income planning",
+      "erin talks money"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Root Financial",
+        "url": "https://learn.rootfinancial.com/erin"
+      }
+    ],
+    "observation_id": "channels:UCpXipTyhIY9kprpvVd-lu0A:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 445000,
+    "title": "Erin Talks Money | Erin Moriarity",
+    "total_views": 114452217,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 2865,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2012-03-02",
+    "channel_id": "UCZIIRX8rkNjVpP-oLMHpeDw",
+    "country": "Germany",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Sports Company - Fitness/Nutrition/Health\nDownload Our Calisthenics App : ►► https://calimove.com ◄◄",
+    "failure_reason": null,
+    "field_issues": {
+      "keywords_topics": "Not exposed by normalized response or verified public About view",
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@calimove",
+    "keywords_topics": null,
+    "language": "en",
+    "links": "[{\"url\": \"https://calimove.com\", \"title\": \"Calisthenics…",
+    "observation_id": "channels:UCZIIRX8rkNjVpP-oLMHpeDw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 4270000,
+    "title": "Calisthenicmovement",
+    "total_views": 566519075,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "fitness",
+    "video_count": 431,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2015-12-23",
+    "channel_id": "UCZ7AeeVbyslLM_8-nVy2B8Q",
+    "country": "Australia",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@SkillUp",
+    "keywords_topics": [
+      "Skill up",
+      "skill",
+      "up",
+      "guides",
+      "gameplay",
+      "review",
+      "impressions"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "This Week in Videogames",
+        "url": "https://thisweekinvideogames.com"
+      },
+      {
+        "title": "Bluesky",
+        "url": "https://bsky.app/profile/skillup.bsky.social"
+      }
+    ],
+    "observation_id": "channels:UCZ7AeeVbyslLM_8-nVy2B8Q:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 1110000,
+    "title": "Skill Up",
+    "total_views": 360436302,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 1250,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2018-09-15",
+    "channel_id": "UCL8w_A8p8P1HWI3k6PR5Z6w",
+    "country": "United States",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "TWO CENTS is an educational show about personal finance…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@TwoCentsPBS",
+    "keywords_topics": [
+      "money",
+      "finance",
+      "saving",
+      "spending"
+    ],
+    "language": "en",
+    "links": [
+      {
+        "title": "Patreon",
+        "url": "https://patreon.com/twocentspbsds"
+      }
+    ],
+    "observation_id": "channels:UCL8w_A8p8P1HWI3k6PR5Z6w:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 839000,
+    "title": "Two Cents",
+    "total_views": 82835344,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "personal finance",
+    "video_count": 274,
+    "videos_discovered": 20
+  },
+  {
+    "channel_created_at": "2015-05-16",
+    "channel_id": "UCxpEufO_WXa9rBXnqsSShNw",
+    "country": null,
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "",
+    "failure_reason": null,
+    "field_issues": "{\"country\": \"Not exposed by normalized response or veri…",
+    "handle": "@TheMoneyGuyShow",
+    "keywords_topics": null,
+    "language": "en",
+    "links": [],
+    "observation_id": "channels:UCxpEufO_WXa9rBXnqsSShNw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 0,
+    "title": "James Turner",
+    "total_views": null,
+    "uploads_status": "failed",
+    "verified": null,
+    "vertical": "personal finance",
+    "video_count": 0,
+    "videos_discovered": 0
+  },
+  {
+    "channel_created_at": "2006-09-13",
+    "channel_id": "UCYVinkwSX7szARULgYpvhLw",
+    "country": "United Kingdom",
+    "coverage": {
+      "channels_coverage_pct": 94.67,
+      "channels_selected": 150,
+      "channels_succeeded": 142,
+      "transcript_coverage_pct": 94.87,
+      "transcripts_available": 2514,
+      "videos_coverage_pct": 88.23,
+      "videos_discovered": 2650,
+      "videos_expected": 3000,
+      "videos_succeeded": 2647
+    },
+    "description": "Ali-A // Subscribe and join the #AliAarmy!\n\n► Welcome t…",
+    "failure_reason": null,
+    "field_issues": {
+      "language": "Curated expected content language; video caption language is recorded separately"
+    },
+    "handle": "@AliA",
+    "keywords_topics": [
+      "ali a",
+      "fortnite",
+      "fortnite battle royale",
+      "alia",
+      "gaming",
+      "fortnite news",
+      "ali-a",
+      "fortnite update"
+    ],
+    "language": "en",
+    "links": "[{\"url\": \"https://ali-a.shop\", \"title\": \"*NEW* Merch!\"}…",
+    "observation_id": "channels:UCYVinkwSX7szARULgYpvhLw:2026-11-07T14:22:45.226389+00:00",
+    "observed_at": "2026-11-07T14:22:45.226389+00:00",
+    "record_type": "channels",
+    "status": "ok",
+    "subscriber_count": 19700000,
+    "title": "Ali-A",
+    "total_views": 7361011897,
+    "uploads_status": "ok",
+    "verified": true,
+    "vertical": "gaming",
+    "video_count": 5304,
+    "videos_discovered": 20
+  }
+]

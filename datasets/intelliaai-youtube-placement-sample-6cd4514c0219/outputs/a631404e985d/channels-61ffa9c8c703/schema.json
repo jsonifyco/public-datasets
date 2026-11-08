@@ -1,0 +1,94 @@
+[
+  {
+    "name": "channel_created_at",
+    "type": "text"
+  },
+  {
+    "name": "channel_id",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "coverage",
+    "type": "jsonb"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "failure_reason",
+    "type": "text"
+  },
+  {
+    "name": "field_issues",
+    "type": "jsonb"
+  },
+  {
+    "name": "handle",
+    "type": "text"
+  },
+  {
+    "name": "keywords_topics",
+    "type": "jsonb"
+  },
+  {
+    "name": "language",
+    "type": "text"
+  },
+  {
+    "name": "links",
+    "type": "jsonb"
+  },
+  {
+    "name": "observation_id",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "subscriber_count",
+    "type": "integer"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "total_views",
+    "type": "bigint"
+  },
+  {
+    "name": "uploads_status",
+    "type": "text"
+  },
+  {
+    "name": "verified",
+    "type": "boolean"
+  },
+  {
+    "name": "vertical",
+    "type": "text"
+  },
+  {
+    "name": "video_count",
+    "type": "integer"
+  },
+  {
+    "name": "videos_discovered",
+    "type": "integer"
+  }
+]

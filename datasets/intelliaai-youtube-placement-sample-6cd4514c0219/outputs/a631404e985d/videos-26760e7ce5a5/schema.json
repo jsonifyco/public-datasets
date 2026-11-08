@@ -1,0 +1,114 @@
+[
+  {
+    "name": "caption_language",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "channel_id",
+    "type": "text"
+  },
+  {
+    "name": "channel_language",
+    "type": "text"
+  },
+  {
+    "name": "comment_count",
+    "type": "integer"
+  },
+  {
+    "name": "coverage",
+    "type": "jsonb"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "duration",
+    "type": "double precision"
+  },
+  {
+    "name": "failure_reason",
+    "type": "text"
+  },
+  {
+    "name": "field_issues",
+    "type": "jsonb"
+  },
+  {
+    "name": "handle",
+    "type": "text"
+  },
+  {
+    "name": "has_captions",
+    "type": "boolean"
+  },
+  {
+    "name": "like_count",
+    "type": "integer"
+  },
+  {
+    "name": "made_for_kids",
+    "type": "text"
+  },
+  {
+    "name": "observation_id",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
+    "type": "text"
+  },
+  {
+    "name": "published_at",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "tags",
+    "type": "jsonb"
+  },
+  {
+    "name": "thumbnail_url",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "transcript_captions_text",
+    "type": "text"
+  },
+  {
+    "name": "transcript_status",
+    "type": "text"
+  },
+  {
+    "name": "upload_rank",
+    "type": "integer"
+  },
+  {
+    "name": "vertical",
+    "type": "text"
+  },
+  {
+    "name": "video_id",
+    "type": "text"
+  },
+  {
+    "name": "view_count",
+    "type": "integer"
+  }
+]

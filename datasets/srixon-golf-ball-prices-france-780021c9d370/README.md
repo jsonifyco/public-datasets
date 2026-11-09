@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-French VAT\-inclusive listed prices for Srixon golf balls from Espace Golf, Boulevard du Golf and Golf Plus\. The published table contains 83 offer rows\.
+French VAT\-inclusive listed prices for Srixon golf balls from Espace Golf, Boulevard du Golf and Golf Plus\. The published dataset contains 77 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/srixon-golf-ball-prices-france-780021c9d370?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 1
-- Last published: 2026-11-02T09:55:20.949843Z
+- Last published: 2026-11-09T08:05:37.744570Z
 
 ## The brief
 
-> I need this data: French VAT\-inclusive listed prices for Srixon golf balls from Espace Golf, Boulevard du Golf and Golf Plus\. The published table contains 83 offer rows\.
+> I need this data: French VAT\-inclusive listed prices for Srixon golf balls from Espace Golf, Boulevard du Golf and Golf Plus\. The published dataset contains 77 rows\.
 
 Summary from the public dataset description.
 
 ## Srixon golf ball prices France / prices
 
-83 total rows · 10 sampled · Output revision 1
-Published: 2026-11-02T09:55:20.949843Z · Producing pipeline version: 1
+77 total rows · 10 sampled · Output revision 2
+Published: 2026-11-09T08:05:37.744570Z · Producing pipeline version: 1
 
 [CSV sample](outputs/9d859528de23/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/9d859528de23/prices-fe81f9390ffe/sample.json) · [Schema](outputs/9d859528de23/prices-fe81f9390ffe/schema.json)
 
 | source | url | item | variant\_qty | price | currency | fetched\_at\_utc | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Boulevard du Golf | [https://boulevard\-du\-golf\.fr/10352307\-balles\-de\-golf\-femme\-dunlop\-srx\-soft\-feel\-x12\-soft\-white\-tu](<https://boulevard-du-golf.fr/10352307-balles-de-golf-femme-dunlop-srx-soft-feel-x12-soft-white-tu>) | Balles de golf femme Dunlop SRX Soft Feel \(x12\) | 12 | 29 | EUR | 2026\-11\-02T09:54:41\.072275Z | Prix TTC France; connexion française; frais de livraison non inclus; Indicateur de stock du catalogue: oui; Variante couleur: soft\-white; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
-| Boulevard du Golf | [https://boulevard\-du\-golf\.fr/10298077\-balles\-de\-golf\-srixon\-tour\-special\-sf\-e4\-x15\-blanc\-tu](<https://boulevard-du-golf.fr/10298077-balles-de-golf-srixon-tour-special-sf-e4-x15-blanc-tu>) | Balles de golf Srixon Tour Special SF E4 \(x15\) | 15 | 22 | EUR | 2026\-11\-02T09:54:41\.072275Z | Prix TTC France; connexion française; frais de livraison non inclus; Indicateur de stock du catalogue: oui; Variante couleur: blanc; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
-| Espace Golf | [https://espace\-golf\.fr/10369854\-balles\-de\-golf\-srixon\-q\-star\-tour\-divide\-6\-x12\-yellow\-orange\-tu](<https://espace-golf.fr/10369854-balles-de-golf-srixon-q-star-tour-divide-6-x12-yellow-orange-tu>) | Balles de golf Srixon Q\-star Tour Divide 6 \(x12\) | 12 | 42 | EUR | 2026\-11\-02T09:54:41\.072161Z | Prix TTC France; connexion française; frais de livraison non inclus; Indicateur de stock du catalogue: oui; Variante couleur: yellow\-orange; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
-| Golf Plus | [https://golfplus\.fr/balles\-q\-star\-tour\-divide\-p26090\.html](<https://golfplus.fr/balles-q-star-tour-divide-p26090.html>) | BALLES Q\-STAR TOUR DIVIDE | 12 | 29\.4 | EUR | 2026\-11\-02T09:54:41\.072326Z | Prix TTC France; pays FR et affichage taxes incluses vérifiés; frais de livraison non inclus; Quantité de 12 balles inférée du coffret standard Srixon; non explicitée dans la fiche Golf Plus; Prix précédent/barré ou catalogue: 42\.00 EUR; 30%; Expédié à partir du 02/11/2026; Disponible en retrait magasin |
-| Boulevard du Golf | [https://boulevard\-du\-golf\.fr/10372755\-balles\-de\-golf\-srixon\-q\-star\-ultispeed\-trackline\-x12\-blanc\-tu](<https://boulevard-du-golf.fr/10372755-balles-de-golf-srixon-q-star-ultispeed-trackline-x12-blanc-tu>) | Balles de golf Srixon Q\-star Ultispeed Trackline \(x12\) | 12 | 31\.3 | EUR | 2026\-11\-02T09:54:41\.072275Z | Prix TTC France; connexion française; frais de livraison non inclus; Prix précédent/barré: 35\.00 EUR; remise: 10\.57%; Indicateur de stock du catalogue: non; Variante couleur: blanc; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
+| Espace Golf | [https://espace\-golf\.fr/10352419\-balles\-de\-golf\-femme\-dunlop\-srx\-soft\-feel\-x12\-pink\-tu](<https://espace-golf.fr/10352419-balles-de-golf-femme-dunlop-srx-soft-feel-x12-pink-tu>) | Balles de golf femme Dunlop SRX Soft Feel \(x12\) | 12 | 29 | EUR | 2026\-11\-09T08:04:45\.493693Z | Prix TTC France; connexion française; frais de livraison non inclus; Indicateur de stock du catalogue: oui; Variante couleur: pink; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
+| Boulevard du Golf | [https://boulevard\-du\-golf\.fr/10352365\-balles\-de\-golf\-dunlop\-srx\-soft\-feel\-x12\-brite\-red\-tu](<https://boulevard-du-golf.fr/10352365-balles-de-golf-dunlop-srx-soft-feel-x12-brite-red-tu>) | Balles de golf Dunlop SRX Soft Feel \(x12\) | 12 | 29 | EUR | 2026\-11\-09T08:04:45\.493810Z | Prix TTC France; connexion française; frais de livraison non inclus; Indicateur de stock du catalogue: oui; Variante couleur: brite\-red; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
+| Boulevard du Golf | [https://boulevard\-du\-golf\.fr/10360123\-balles\-de\-golf\-dunlop\-srx\-z\-star\-xv\-9\-tyl\-x12\-tour\-yellow\-tu](<https://boulevard-du-golf.fr/10360123-balles-de-golf-dunlop-srx-z-star-xv-9-tyl-x12-tour-yellow-tu>) | Balles de golf Dunlop SRX Z\-Star XV 9 TYL \(x12\) | 12 | 59 | EUR | 2026\-11\-09T08:04:45\.493810Z | Prix TTC France; connexion française; frais de livraison non inclus; Indicateur de stock du catalogue: oui; Variante couleur: tour\-yellow; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
+| Boulevard du Golf | [https://boulevard\-du\-golf\.fr/10352307\-balles\-de\-golf\-femme\-dunlop\-srx\-soft\-feel\-x12\-soft\-white\-tu](<https://boulevard-du-golf.fr/10352307-balles-de-golf-femme-dunlop-srx-soft-feel-x12-soft-white-tu>) | Balles de golf femme Dunlop SRX Soft Feel \(x12\) | 12 | 29 | EUR | 2026\-11\-09T08:04:45\.493810Z | Prix TTC France; connexion française; frais de livraison non inclus; Indicateur de stock du catalogue: oui; Variante couleur: soft\-white; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
+| Espace Golf | [https://espace\-golf\.fr/lot\-3\-10352300\-lot\-de\-3\-boites\-de\-balles\-de\-golf\-dunlop\-srx\-soft\-feel\-3x12\-softwhite](<https://espace-golf.fr/lot-3-10352300-lot-de-3-boites-de-balles-de-golf-dunlop-srx-soft-feel-3x12-softwhite>) | Lot de 3 boîtes de balles de golf Dunlop SRX Soft Feel \(3x12\) | 36 | 54\.6 | EUR | 2026\-11\-09T08:04:45\.493693Z | Prix TTC France; connexion française; frais de livraison non inclus; Prix précédent/barré: 84\.00 EUR; remise: 35\.00%; Indicateur de stock du catalogue: non; Variante couleur: softwhite; Offre affichée sur le site: 2 boîtes achetées, la 3e offerte avec code 2=3; non appliquée au prix unitaire |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

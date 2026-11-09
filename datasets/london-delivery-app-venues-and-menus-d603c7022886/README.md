@@ -2,17 +2,17 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Deliveroo, Uber Eats and Just Eat menu prices in London: 6,863,924 menu items and 75,595 restaurant listings, with base prices, categories and ratings\.
+Deliveroo, Uber Eats and Just Eat menu prices in London
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/london-delivery-app-venues-and-menus-d603c7022886?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 38
 - Last published: 2026-11-08T17:42:33.650984Z
 
 ## The brief
 
-> I need this data: Deliveroo, Uber Eats and Just Eat menu prices in London: 6,863,924 menu items and 75,595 restaurant listings, with base prices, categories and ratings\.
+> I need this data: Deliveroo, Uber Eats and Just Eat menu prices in London
 
 Summary from the public dataset description.
 

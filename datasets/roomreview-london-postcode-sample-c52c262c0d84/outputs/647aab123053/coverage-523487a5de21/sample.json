@@ -1,102 +1,502 @@
 [
   {
-    "data_type": "crime categories",
-    "notes": "Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.",
-    "postcode_district": "SE15",
-    "rows": 14,
-    "snapshot_date": "2026-11-07",
-    "source": "police.uk",
-    "source_url": "https://data.police.uk/",
-    "status": "collected"
-  },
-  {
     "data_type": "rentals",
-    "notes": "Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",
-    "postcode_district": "SE1",
-    "rows": 2,
-    "snapshot_date": "2026-11-07",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "E3",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
     "source": "Rightmove",
-    "source_url": "https://www.rightmove.co.uk/",
-    "status": "sample collected"
-  },
-  {
-    "data_type": "crime categories",
-    "notes": "Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.",
-    "postcode_district": "W2",
-    "rows": 14,
-    "snapshot_date": "2026-11-07",
-    "source": "police.uk",
-    "source_url": "https://data.police.uk/",
-    "status": "collected"
-  },
-  {
-    "data_type": "crime categories",
-    "notes": "Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.",
-    "postcode_district": "SE1",
-    "rows": 14,
-    "snapshot_date": "2026-11-07",
-    "source": "police.uk",
-    "source_url": "https://data.police.uk/",
-    "status": "collected"
-  },
-  {
-    "data_type": "rentals",
-    "notes": "Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",
-    "postcode_district": "SW9",
-    "rows": 2,
-    "snapshot_date": "2026-11-07",
-    "source": "SpareRoom",
-    "source_url": "https://www.spareroom.co.uk/",
-    "status": "sample collected"
-  },
-  {
-    "data_type": "rentals",
-    "notes": "Two listing sample, not exhaustive. Null means not stated or conflicting. First seen is observation date.",
-    "postcode_district": "SE15",
-    "rows": 2,
-    "snapshot_date": "2026-11-07",
-    "source": "Zoopla",
-    "source_url": "https://www.zoopla.co.uk/",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/E3.html",
     "status": "sample collected"
   },
   {
     "data_type": "planning",
-    "notes": "Sample of applications since 1 October 2026, not exhaustive or all boroughs overlapping this district.",
-    "postcode_district": "E2",
+    "notes": "Recent verified application sample, not exhaustive. Council-submitted records read from the official Greater London Authority Planning London Datahub. Register access failed or was incomplete; direct source record links retained when council deep links are absent. ",
+    "postcode_district": "SE5",
     "rows": 3,
-    "snapshot_date": "2026-11-07",
-    "source": "Tower Hamlets",
-    "source_url": "https://development.towerhamlets.gov.uk/online-applications/",
+    "snapshot_date": "2026-11-09",
+    "source": "Southwark",
+    "source_url": "https://planninglondondatahub.london.gov.uk/",
     "status": "sample collected"
   },
   {
     "data_type": "stations",
-    "notes": "Three nearest station hubs to district representative point, straight-line distance. Not walking distance or nearest to each rental.",
-    "postcode_district": "E1",
+    "notes": "Nearest three rail, Underground and DLR hubs from outcode representative point, not rental address. Straight-line distances, not walking distance; bus-only stops excluded.",
+    "postcode_district": "E14",
     "rows": 3,
-    "snapshot_date": "2026-11-07",
+    "snapshot_date": "2026-11-09",
     "source": "TfL",
-    "source_url": "https://api.tfl.gov.uk/",
+    "source_url": "https://api.tfl.gov.uk/StopPoint",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "E14",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_e14",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "SW4",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/SW4.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "SW11",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_sw11",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "planning",
+    "notes": "Recent verified application sample, not exhaustive. Council-submitted records read from the official Greater London Authority Planning London Datahub. Register access failed or was incomplete; direct source record links retained when council deep links are absent. ",
+    "postcode_district": "N4",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "Islington",
+    "source_url": "https://planninglondondatahub.london.gov.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "N7",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_n7",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "N4",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/N4.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "NW5",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_nw5",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "September 2026; 14 categories including measured zeros within approximate full KML district polygon. Anonymised locations, not a safety ranking.",
+    "postcode_district": "SW9",
+    "rows": 14,
+    "snapshot_date": "2026-11-07",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/api/crimes-street/all-crime",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "E1",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/E1.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "September 2026; 14 categories including measured zeros within approximate full KML district polygon. Anonymised locations, not a safety ranking.",
+    "postcode_district": "SE5",
+    "rows": 14,
+    "snapshot_date": "2026-11-09",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/api/crimes-street/all-crime",
+    "status": "collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "September 2026; 14 categories including measured zeros within approximate full KML district polygon. Anonymised locations, not a safety ranking.",
+    "postcode_district": "E14",
+    "rows": 14,
+    "snapshot_date": "2026-11-09",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/api/crimes-street/all-crime",
+    "status": "collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "September 2026; 14 categories including measured zeros within approximate full KML district polygon. Anonymised locations, not a safety ranking.",
+    "postcode_district": "SE15",
+    "rows": 14,
+    "snapshot_date": "2026-11-07",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/api/crimes-street/all-crime",
+    "status": "collected"
+  },
+  {
+    "data_type": "stations",
+    "notes": "Nearest three rail, Underground and DLR hubs from outcode representative point, not rental address. Straight-line distances, not walking distance; bus-only stops excluded.",
+    "postcode_district": "W12",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "TfL",
+    "source_url": "https://api.tfl.gov.uk/StopPoint",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "SE1",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/SE1.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "planning",
+    "notes": "Recent verified application sample, not exhaustive. Council-submitted records read from the official Greater London Authority Planning London Datahub. Register access failed or was incomplete; direct source record links retained when council deep links are absent. ",
+    "postcode_district": "N7",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "Islington",
+    "source_url": "https://planninglondondatahub.london.gov.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "September 2026; 14 categories including measured zeros within approximate full KML district polygon. Anonymised locations, not a safety ranking.",
+    "postcode_district": "SW2",
+    "rows": 14,
+    "snapshot_date": "2026-11-09",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/api/crimes-street/all-crime",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "NW5",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Zoopla",
+    "source_url": "https://www.zoopla.co.uk/to-rent/property/london/nw5/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "W12",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Zoopla",
+    "source_url": "https://www.zoopla.co.uk/to-rent/property/london/w12/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "SE5",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/SE5.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "SE15",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_se15",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "N7",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Zoopla",
+    "source_url": "https://www.zoopla.co.uk/to-rent/property/london/n7/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "N4",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_n4",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "E1",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Zoopla",
+    "source_url": "https://www.zoopla.co.uk/to-rent/property/london/e1/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "September 2026; 14 categories including measured zeros within approximate full KML district polygon. Anonymised locations, not a safety ranking.",
+    "postcode_district": "W12",
+    "rows": 14,
+    "snapshot_date": "2026-11-09",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/api/crimes-street/all-crime",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "NW5",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/NW5.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "planning",
+    "notes": "Recent verified application sample, not exhaustive. Council-submitted records read from the official Greater London Authority Planning London Datahub. Register access failed or was incomplete; direct source record links retained when council deep links are absent. ",
+    "postcode_district": "E8",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "Hackney",
+    "source_url": "https://planninglondondatahub.london.gov.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "stations",
+    "notes": "Nearest three rail, Underground and DLR hubs from outcode representative point, not rental address. Straight-line distances, not walking distance; bus-only stops excluded.",
+    "postcode_district": "SW2",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "TfL",
+    "source_url": "https://api.tfl.gov.uk/StopPoint",
     "status": "collected"
   },
   {
     "data_type": "planning",
-    "notes": "Public search form loaded, but HTTP search access hit a certificate error and browser search did not finish. No applications verified.",
-    "postcode_district": "SE15",
-    "rows": 0,
-    "snapshot_date": "2026-11-07",
-    "source": "Southwark",
-    "source_url": "https://planning.southwark.gov.uk/online-applications/",
-    "status": "not collected"
+    "notes": "Recent verified application sample, not exhaustive. Council-submitted records read from the official Greater London Authority Planning London Datahub. Register access failed or was incomplete; direct source record links retained when council deep links are absent. One listed-building application for repairs to Albert Bridge, a borough-boundary site, submitted to Kensington & Chelsea. This is not comprehensive Wandsworth planning coverage.",
+    "postcode_district": "SW11",
+    "rows": 1,
+    "snapshot_date": "2026-11-09",
+    "source": "Kensington & Chelsea",
+    "source_url": "https://planninglondondatahub.london.gov.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "E14",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Zoopla",
+    "source_url": "https://www.zoopla.co.uk/to-rent/property/london/e14/",
+    "status": "sample collected"
   },
   {
     "data_type": "crime categories",
-    "notes": "Latest release September 2026; 14 categories including zeros. Approximate district polygon; anonymised locations. Not a safety ranking.",
-    "postcode_district": "E1",
+    "notes": "September 2026; 14 categories including measured zeros within approximate full KML district polygon. Anonymised locations, not a safety ranking.",
+    "postcode_district": "NW1",
     "rows": 14,
     "snapshot_date": "2026-11-07",
     "source": "police.uk",
-    "source_url": "https://data.police.uk/",
+    "source_url": "https://data.police.uk/api/crimes-street/all-crime",
     "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "E1",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_e1",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "N1",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/N1.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "N16",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/N16.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "N16",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_n16",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "SW11",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Rightmove",
+    "source_url": "https://www.rightmove.co.uk/property-to-rent/SW11.html",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "N1",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Zoopla",
+    "source_url": "https://www.zoopla.co.uk/to-rent/property/london/n1/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "stations",
+    "notes": "Nearest three rail, Underground and DLR hubs from outcode representative point, not rental address. Straight-line distances, not walking distance; bus-only stops excluded.",
+    "postcode_district": "W2",
+    "rows": 3,
+    "snapshot_date": "2026-11-07",
+    "source": "TfL",
+    "source_url": "https://api.tfl.gov.uk/StopPoint",
+    "status": "collected"
+  },
+  {
+    "data_type": "planning",
+    "notes": "Recent verified application sample, not exhaustive. Council-submitted records read from the official Greater London Authority Planning London Datahub. Register access failed or was incomplete; direct source record links retained when council deep links are absent. ",
+    "postcode_district": "N16",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "Hackney, Islington",
+    "source_url": "https://planninglondondatahub.london.gov.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "planning",
+    "notes": "Recent verified application sample, not exhaustive. Read from council register or official council open data. ",
+    "postcode_district": "E1",
+    "rows": 1,
+    "snapshot_date": "2026-11-07",
+    "source": "Tower Hamlets",
+    "source_url": "https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?keyVal=DCAPR_151785&activeTab=summary",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "stations",
+    "notes": "Nearest three rail, Underground and DLR hubs from outcode representative point, not rental address. Straight-line distances, not walking distance; bus-only stops excluded.",
+    "postcode_district": "N4",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "TfL",
+    "source_url": "https://api.tfl.gov.uk/StopPoint",
+    "status": "collected"
+  },
+  {
+    "data_type": "stations",
+    "notes": "Nearest three rail, Underground and DLR hubs from outcode representative point, not rental address. Straight-line distances, not walking distance; bus-only stops excluded.",
+    "postcode_district": "SE1",
+    "rows": 3,
+    "snapshot_date": "2026-11-07",
+    "source": "TfL",
+    "source_url": "https://api.tfl.gov.uk/StopPoint",
+    "status": "collected"
+  },
+  {
+    "data_type": "stations",
+    "notes": "Nearest three rail, Underground and DLR hubs from outcode representative point, not rental address. Straight-line distances, not walking distance; bus-only stops excluded.",
+    "postcode_district": "N7",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "TfL",
+    "source_url": "https://api.tfl.gov.uk/StopPoint",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "E2",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "SpareRoom",
+    "source_url": "https://www.spareroom.co.uk/flatshare/london/london_e2",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "stations",
+    "notes": "Nearest three rail, Underground and DLR hubs from outcode representative point, not rental address. Straight-line distances, not walking distance; bus-only stops excluded.",
+    "postcode_district": "SW4",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "TfL",
+    "source_url": "https://api.tfl.gov.uk/StopPoint",
+    "status": "collected"
+  },
+  {
+    "data_type": "planning",
+    "notes": "Recent verified application sample, not exhaustive. Council-submitted records read from the official Greater London Authority Planning London Datahub. Register access failed or was incomplete; direct source record links retained when council deep links are absent. ",
+    "postcode_district": "W12",
+    "rows": 3,
+    "snapshot_date": "2026-11-09",
+    "source": "Hammersmith & Fulham",
+    "source_url": "https://planninglondondatahub.london.gov.uk/",
+    "status": "sample collected"
+  },
+  {
+    "data_type": "crime categories",
+    "notes": "September 2026; 14 categories including measured zeros within approximate full KML district polygon. Anonymised locations, not a safety ranking.",
+    "postcode_district": "NW5",
+    "rows": 14,
+    "snapshot_date": "2026-11-09",
+    "source": "police.uk",
+    "source_url": "https://data.police.uk/api/crimes-street/all-crime",
+    "status": "collected"
+  },
+  {
+    "data_type": "rentals",
+    "notes": "Four real source adverts per district. Retains the original 7 November observations and adds checked 9 November observations. Not exhaustive; cross-source adverts are separate listings, not deduplicated dwellings. Null means unknown. SpareRoom bedrooms describe shared-property total rooms where recorded, not rooms being offered.",
+    "postcode_district": "E8",
+    "rows": 4,
+    "snapshot_date": "2026-11-09",
+    "source": "Zoopla",
+    "source_url": "https://www.zoopla.co.uk/to-rent/property/london/e8/",
+    "status": "sample collected"
   }
 ]

@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Consumer AI subscription price observations by provider, country, plan, and billing term, with currency, source links, and recorded observation dates\. The published table contains 1,830 rows\.
+Consumer AI subscription price observations by provider, country, plan, and billing term, with currency, source links, and recorded observation dates\. The published subscriptions table contains 2,742 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/consumer-ai-subscription-prices-0db1533e818f?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 10
-- Last published: 2026-11-02T06:45:29.012076Z
+- Last published: 2026-11-09T06:36:42.884357Z
 
 ## The brief
 
-> I need this data: Consumer AI subscription price observations by provider, country, plan, and billing term, with currency, source links, and recorded observation dates\. The published table contains 1,830 rows\.
+> I need this data: Consumer AI subscription price observations by provider, country, plan, and billing term, with currency, source links, and recorded observation dates\. The published subscriptions table contains 2,742 rows\.
 
 Summary from the public dataset description.
 
 ## Consumer AI subscription prices / subscriptions
 
-1,830 total rows · 50 sampled · Output revision 3
-Published: 2026-11-02T06:45:29.012076Z · Producing pipeline version: 10
+2,742 total rows · 50 sampled · Output revision 4
+Published: 2026-11-09T06:36:42.884357Z · Producing pipeline version: 10
 
 [CSV sample](outputs/65fddbdd3067/subscriptions-9cac91c1f544/sample.csv) · [JSON sample](outputs/65fddbdd3067/subscriptions-9cac91c1f544/sample.json) · [Schema](outputs/65fddbdd3067/subscriptions-9cac91c1f544/schema.json)
 
@@ -28,8 +28,8 @@ Published: 2026-11-02T06:45:29.012076Z · Producing pipeline version: 10
 | Copilot | NO | Norway | NOK | Microsoft 365 Premium | 259 | NOK | month |
 | Copilot | PH | Philippines | PHP | Microsoft 365 Personal | 489 | PHP | month |
 | ChatGPT | MY | Malaysia | MYR | Free | 0 | MYR | month |
-| Copilot | ES | Spain | EUR | Microsoft 365 Premium | 219 | EUR | year |
-| Claude | PT | Portugal | EUR | Pro | 18 | EUR | month |
+| ChatGPT | MX | Mexico | MXN | Go | 110 | MXN | month |
+| Claude | VN | Vietnam | VND | Max 20x | 200 | USD | month |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -2,17 +2,17 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published tables contain 6,987 rows; prices and observation dates vary by row\.
+Streaming subscription plans and prices by country, sourced from official service pages and other cited sources
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 34
+- Active pipeline version: 35
 - Last published: 2026-11-03T15:01:38.353896Z
 
 ## The brief
 
-> I need this data: Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published tables contain 6,987 rows; prices and observation dates vary by row\.
+> I need this data: Streaming subscription plans and prices by country, sourced from official service pages and other cited sources
 
 Summary from the public dataset description.
 
@@ -131,11 +131,14 @@ flowchart LR
 - 2026-11-02T15:54:41.328079Z: v32: Fixed website discovery so an uncertain match no longer stops the streaming\-price update\.
 - 2026-11-02T16:28:04.450435Z: v33: Website matching now selects from known search results and gives uncertain matches a second check before marking them unresolved\.
 - 2026-11-02T18:38:14.619452Z: v34: Long search results now use the full\-evidence fallback before they exceed the website\-selection limit\.
+- 2026-11-09T14:17:11.842834Z: v35: Disney Croatia and Slovenia now reach the existing corroborated\-source fallback if their official help pages fail to open\.
 
 ## Recorded repairs
 
 - 2026-11-02T09:55:12.726697Z: no change
 - 2026-11-02T09:55:52.927145Z: repaired
+- 2026-11-09T14:13:37.596402Z: no change
+- 2026-11-09T14:17:20.720175Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 

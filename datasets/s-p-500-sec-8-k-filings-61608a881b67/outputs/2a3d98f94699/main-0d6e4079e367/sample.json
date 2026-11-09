@@ -60,6 +60,18 @@
     "ticker": "IP"
   },
   {
+    "accession_number": "0001628280-26-068909",
+    "cik": "0000080424",
+    "company": "Procter & Gamble",
+    "filed_date": "2026-11-02",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/80424/000162828026068909/0001628280-26-068909-index.html",
+    "form": "8-K",
+    "item_descriptions": "Other Events; Financial Statements and Exhibits",
+    "items": "8.01, 9.01",
+    "report_date": "2026-11-02",
+    "ticker": "PG"
+  },
+  {
     "accession_number": "0001048911-26-000126",
     "cik": "0001048911",
     "company": "FedEx",
@@ -96,6 +108,18 @@
     "ticker": "EOG"
   },
   {
+    "accession_number": "0001539838-26-000180",
+    "cik": "0001539838",
+    "company": "Diamondback Energy",
+    "filed_date": "2026-11-02",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000180/0001539838-26-000180-index.html",
+    "form": "8-K",
+    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
+    "items": "2.02, 9.01",
+    "report_date": "2026-11-02",
+    "ticker": "FANG"
+  },
+  {
     "accession_number": "0001193125-26-437799",
     "cik": "0000106535",
     "company": "Weyerhaeuser",
@@ -130,6 +154,18 @@
     "items": "2.02, 9.01",
     "report_date": "2026-10-29",
     "ticker": "CARR"
+  },
+  {
+    "accession_number": "0000107263-26-000035",
+    "cik": "0000107263",
+    "company": "Williams Companies",
+    "filed_date": "2026-11-02",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000035/0000107263-26-000035-index.html",
+    "form": "8-K",
+    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
+    "items": "2.02, 9.01",
+    "report_date": "2026-11-02",
+    "ticker": "WMB"
   },
   {
     "accession_number": "0001193125-26-434438",
@@ -264,6 +300,18 @@
     "ticker": "LRCX"
   },
   {
+    "accession_number": "0001193125-26-446178",
+    "cik": "0000916076",
+    "company": "Martin Marietta Materials",
+    "filed_date": "2026-11-04",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526446178/0001193125-26-446178-index.html",
+    "form": "8-K",
+    "item_descriptions": "Results of Operations and Financial Condition; Regulation FD Disclosure; Financial Statements and Exhibits",
+    "items": "2.02, 7.01, 9.01",
+    "report_date": "2026-11-04",
+    "ticker": "MLM"
+  },
+  {
     "accession_number": "0000723531-26-000008",
     "cik": "0000723531",
     "company": "Paychex",
@@ -396,6 +444,18 @@
     "ticker": "PNC"
   },
   {
+    "accession_number": "0001410636-26-000160",
+    "cik": "0001410636",
+    "company": "American Water Works",
+    "filed_date": "2026-11-05",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000160/0001410636-26-000160-index.html",
+    "form": "8-K",
+    "item_descriptions": "Other Events",
+    "items": "8.01",
+    "report_date": "2026-11-02",
+    "ticker": "AWK"
+  },
+  {
     "accession_number": "0000822416-26-000041",
     "cik": "0000822416",
     "company": "PulteGroup",
@@ -430,6 +490,30 @@
     "items": "2.02, 9.01",
     "report_date": "2026-10-30",
     "ticker": "FRT"
+  },
+  {
+    "accession_number": "0001104659-26-121322",
+    "cik": "0001551152",
+    "company": "AbbVie",
+    "filed_date": "2026-11-02",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926121322/0001104659-26-121322-index.html",
+    "form": "8-K",
+    "item_descriptions": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers",
+    "items": "5.02",
+    "report_date": "2026-10-28",
+    "ticker": "ABBV"
+  },
+  {
+    "accession_number": "0001020569-26-000081",
+    "cik": "0001020569",
+    "company": "Iron Mountain",
+    "filed_date": "2026-11-05",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1020569/000102056926000081/0001020569-26-000081-index.html",
+    "form": "8-K",
+    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
+    "items": "2.02, 9.01",
+    "report_date": "2026-11-05",
+    "ticker": "IRM"
   },
   {
     "accession_number": "0000764622-26-000049",
@@ -468,6 +552,42 @@
     "ticker": "ALGN"
   },
   {
+    "accession_number": "0001041061-26-000195",
+    "cik": "0001041061",
+    "company": "Yum! Brands",
+    "filed_date": "2026-11-03",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000195/0001041061-26-000195-index.html",
+    "form": "8-K",
+    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
+    "items": "2.02, 9.01",
+    "report_date": "2026-11-03",
+    "ticker": "YUM"
+  },
+  {
+    "accession_number": "0001032208-26-000051",
+    "cik": "0001032208",
+    "company": "Sempra",
+    "filed_date": "2026-11-05",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1032208/000103220826000051/0001032208-26-000051-index.html",
+    "form": "8-K",
+    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
+    "items": "2.02, 9.01",
+    "report_date": "2026-11-05",
+    "ticker": "SRE"
+  },
+  {
+    "accession_number": "0001402057-26-000113",
+    "cik": "0001402057",
+    "company": "CDW Corporation",
+    "filed_date": "2026-11-04",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205726000113/0001402057-26-000113-index.html",
+    "form": "8-K",
+    "item_descriptions": "Results of Operations and Financial Condition; Other Events; Financial Statements and Exhibits",
+    "items": "2.02, 8.01, 9.01",
+    "report_date": "2026-11-04",
+    "ticker": "CDW"
+  },
+  {
     "accession_number": "0001701605-26-000033",
     "cik": "0001701605",
     "company": "Baker Hughes",
@@ -478,125 +598,5 @@
     "items": "2.02, 7.01",
     "report_date": "2026-10-27",
     "ticker": "BKR"
-  },
-  {
-    "accession_number": "0001335258-26-000038",
-    "cik": "0001335258",
-    "company": "Live Nation Entertainment",
-    "filed_date": "2026-09-25",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1335258/000133525826000038/0001335258-26-000038-index.html",
-    "form": "8-K",
-    "item_descriptions": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers; Other Events; Financial Statements and Exhibits",
-    "items": "5.02, 8.01, 9.01",
-    "report_date": "2026-09-25",
-    "ticker": "LYV"
-  },
-  {
-    "accession_number": "0001628280-26-065997",
-    "cik": "0000713676",
-    "company": "PNC Financial Services",
-    "filed_date": "2026-10-15",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026065997/0001628280-26-065997-index.html",
-    "form": "8-K",
-    "item_descriptions": "Regulation FD Disclosure; Financial Statements and Exhibits",
-    "items": "7.01, 9.01",
-    "report_date": "2026-10-15",
-    "ticker": "PNC"
-  },
-  {
-    "accession_number": "0001193125-26-431976",
-    "cik": "0001120193",
-    "company": "Nasdaq, Inc.",
-    "filed_date": "2026-10-26",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1120193/000119312526431976/0001193125-26-431976-index.html",
-    "form": "8-K",
-    "item_descriptions": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers; Financial Statements and Exhibits",
-    "items": "5.02, 9.01",
-    "report_date": "2026-10-21",
-    "ticker": "NDAQ"
-  },
-  {
-    "accession_number": "0001035443-26-000069",
-    "cik": "0001035443",
-    "company": "Alexandria Real Estate Equities",
-    "filed_date": "2026-09-24",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544326000069/0001035443-26-000069-index.html",
-    "form": "8-K",
-    "item_descriptions": "Entry into a Material Definitive Agreement; Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-    "items": "1.01, 2.03",
-    "report_date": "2026-09-24",
-    "ticker": "ARE"
-  },
-  {
-    "accession_number": "0001609711-26-000117",
-    "cik": "0001609711",
-    "company": "GoDaddy",
-    "filed_date": "2026-10-29",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000117/0001609711-26-000117-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-10-29",
-    "ticker": "GDDY"
-  },
-  {
-    "accession_number": "0001104659-26-113282",
-    "cik": "0000866374",
-    "company": "Flex Ltd.",
-    "filed_date": "2026-10-02",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/866374/000110465926113282/0001104659-26-113282-index.html",
-    "form": "8-K",
-    "item_descriptions": "Entry into a Material Definitive Agreement; Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant; Financial Statements and Exhibits",
-    "items": "1.01, 2.03, 9.01",
-    "report_date": "2026-09-29",
-    "ticker": "FLEX"
-  },
-  {
-    "accession_number": "0001104659-26-117036",
-    "cik": "0000055785",
-    "company": "Kimberly-Clark",
-    "filed_date": "2026-10-20",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926117036/0001104659-26-117036-index.html",
-    "form": "8-K",
-    "item_descriptions": "Other Events; Financial Statements and Exhibits",
-    "items": "8.01, 9.01",
-    "report_date": "2026-10-19",
-    "ticker": "KMB"
-  },
-  {
-    "accession_number": "0001373715-26-000092",
-    "cik": "0001373715",
-    "company": "ServiceNow",
-    "filed_date": "2026-10-28",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/0001373715-26-000092-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-10-28",
-    "ticker": "NOW"
-  },
-  {
-    "accession_number": "0000063754-26-000326",
-    "cik": "0000063754",
-    "company": "McCormick & Company",
-    "filed_date": "2026-10-01",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000326/0000063754-26-000326-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-10-01",
-    "ticker": "MKC"
-  },
-  {
-    "accession_number": "0001104659-26-112129",
-    "cik": "0000004127",
-    "company": "Skyworks Solutions",
-    "filed_date": "2026-09-30",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/4127/000110465926112129/0001104659-26-112129-index.html",
-    "form": "8-K",
-    "item_descriptions": "Other Events; Financial Statements and Exhibits",
-    "items": "8.01, 9.01",
-    "report_date": "2026-09-30",
-    "ticker": "SWKS"
   }
 ]

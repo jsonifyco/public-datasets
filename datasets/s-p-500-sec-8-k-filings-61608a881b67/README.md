@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published table contains 690 filing rows\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
+SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published dataset contains 946 rows across all tables\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/s-p-500-sec-8-k-filings-61608a881b67?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-11-02T08:04:25.770540Z
+- Last published: 2026-11-09T08:04:47.841284Z
 
 ## The brief
 
-> I need this data: SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published table contains 690 filing rows\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
+> I need this data: SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published dataset contains 946 rows across all tables\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
 
 Summary from the public dataset description.
 
 ## S&amp;P 500 SEC 8\-K filings / main
 
-690 total rows · 50 sampled · Output revision 4
-Published: 2026-11-02T08:04:25.770540Z · Producing pipeline version: 1
+946 total rows · 50 sampled · Output revision 5
+Published: 2026-11-09T08:04:47.841284Z · Producing pipeline version: 1
 
 [CSV sample](outputs/2a3d98f94699/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/2a3d98f94699/main-0d6e4079e367/sample.json) · [Schema](outputs/2a3d98f94699/main-0d6e4079e367/schema.json)
 

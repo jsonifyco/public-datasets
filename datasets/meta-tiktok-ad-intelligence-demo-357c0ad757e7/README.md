@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore 50 published ad records with creative details, landing\-page resolution, store signals, AI copy analysis, and review\-priority scores\.
+Explore 288 published ad records with creative details, landing\-page resolution, store signals, AI copy analysis, and review\-priority scores\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 4
-- Last published: 2026-11-08T13:13:59.367780Z
+- Active pipeline version: 5
+- Last published: 2026-11-09T12:20:15.420061Z
 
 ## The brief
 
-> I need this data: Explore 50 published ad records with creative details, landing\-page resolution, store signals, AI copy analysis, and review\-priority scores\.
+> I need this data: Explore 288 published ad records with creative details, landing\-page resolution, store signals, AI copy analysis, and review\-priority scores\.
 
 Summary from the public dataset description.
 
 ## Ad intelligence history / ad\_snapshots
 
-50 total rows · 10 sampled · Output revision 3
-Published: 2026-11-08T13:13:59.367780Z · Producing pipeline version: 4
+288 total rows · 50 sampled · Output revision 4
+Published: 2026-11-09T12:20:15.420061Z · Producing pipeline version: 5
 
 [CSV sample](outputs/0eb37107b8f9/ad-snapshots-3b139d619469/sample.csv) · [JSON sample](outputs/0eb37107b8f9/ad-snapshots-3b139d619469/sample.json) · [Schema](outputs/0eb37107b8f9/ad-snapshots-3b139d619469/schema.json)
 
 | ad\_id | ad\_key | ad\_url | advertiser | advertising\_objective | ai\_analysis | ai\_angle | ai\_hook |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 92f58731d3efc52a49789e57d78ec93501c90b26eb2f476d26fc676b21d521d7 | AppLovin:92f58731d3efc52a49789e57d78ec93501c90b26eb2f476d26fc676b21d521d7 | [https://res1\.applovin\.com/o33c3075/1a83e4e1fbef708807afaa31bc8603ceb5543b78\_v1\_raw\.html](<https://res1.applovin.com/o33c3075/1a83e4e1fbef708807afaa31bc8603ceb5543b78_v1_raw.html>) | Crazy Brick Destroyer | None | None | None | None |
-| 16b1e2d9d52db21d06e2f4d821706645ea12a3b725f6e609aac934f63a2bc92c | AppLovin:16b1e2d9d52db21d06e2f4d821706645ea12a3b725f6e609aac934f63a2bc92c | [https://res1\.applovin\.com/ob7cb6fc/d6232641ba18a60853fac6a47a1796b8cfbb50ed\_v1\_raw\.html](<https://res1.applovin.com/ob7cb6fc/d6232641ba18a60853fac6a47a1796b8cfbb50ed_v1_raw.html>) | Paradise Paws | None | None | None | None |
-| 4b71288952242d1184f9d8c4f1f09fc7c83bd61f720c520b909c3c04364e0450 | AppLovin:4b71288952242d1184f9d8c4f1f09fc7c83bd61f720c520b909c3c04364e0450 | [https://res1\.applovin\.com/obafd3e5/1702767c1b665b2a4a1cea584873f1e744896cf7\_v1\_raw\.html](<https://res1.applovin.com/obafd3e5/1702767c1b665b2a4a1cea584873f1e744896cf7_v1_raw.html>) | Best Friends | None | None | None | None |
-| 1879405500602514 | TikTok:1879405500602514 | [https://library\.tiktok\.com/ads/detail/?ad\_id=1879405500602514](<https://library.tiktok.com/ads/detail/?ad_id=1879405500602514>) | HUDA BEAUTY DMCC | Sales | Le texte compare un produit pour les lèvres à un burger\. | Comparaison humoristique entre un produit de beauté et un burger\. | Huda Beauty Lip Stain vs\. Burger |
-| 1781844100499457 | TikTok:1781844100499457 | [https://library\.tiktok\.com/ads/detail/?ad\_id=1781844100499457](<https://library.tiktok.com/ads/detail/?ad_id=1781844100499457>) | Nissou | Sales | Le texte présente simplement le nom « Nissou beauty »\. | Présentation de la marque ou de l’activité beauté\. | Nissou beauty |
+| 1881367653830049 | TikTok:1881367653830049 | [https://library\.tiktok\.com/ads/detail/?ad\_id=1881367653830049](<https://library.tiktok.com/ads/detail/?ad_id=1881367653830049>) | COMFRT LLC | None | None | None | None |
+| 2201107990434306 | Meta:2201107990434306 | [https://www\.facebook\.com/ads/library/?id=2201107990434306](<https://www.facebook.com/ads/library/?id=2201107990434306>) | Jimmy Joy | None | None | None | None |
+| 1365469815244831 | Meta:1365469815244831 | [https://www\.facebook\.com/ads/library/?id=1365469815244831](<https://www.facebook.com/ads/library/?id=1365469815244831>) | Flare Audio | None | None | None | None |
+| 1156397686513440 | Meta:1156397686513440 | [https://www\.facebook\.com/ads/library/?id=1156397686513440](<https://www.facebook.com/ads/library/?id=1156397686513440>) | Gymshark | None | None | None | None |
+| 793010916668135 | Meta:793010916668135 | [https://www\.facebook\.com/ads/library/?id=793010916668135](<https://www.facebook.com/ads/library/?id=793010916668135>) | Flare Audio | None | None | None | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -135,6 +135,7 @@ flowchart LR
 - 2026-10-22T12:58:44.653800Z: v2: Add a small Shopify catalogue sample discovered from the collected ads, retaining daily product prices and public variant availability\.
 - 2026-10-22T13:05:59.678826Z: v3: Fix false product matches on generic storefront pages and stale offers, so unresolved ads do not receive a product ranking bonus\.
 - 2026-11-08T13:13:10.328518Z: v4: Added selectable public AppLovin curated creative examples alongside Meta and TikTok, with app names, formats and direct creative links\. Campaign dates and current delivery remain unknown; existing collection defaults and schedule are preserved\.
+- 2026-11-09T11:46:45.852114Z: v5: Added competitor sampling for Meta and TikTok with fuller ad details and conservative product enrichment\. Ads remain visible when their details or landing pages cannot be retrieved\.
 
 ## Recorded repairs
 

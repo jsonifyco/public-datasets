@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 1,890 rows; its publication timestamp does not establish when the observations were collected\.
+Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 2,362 rows; its publication timestamp does not establish when the observations were collected\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/clinks-irish-wine-and-spirits-price-tracker-ece8b068e56b?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
+- Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-08T08:10:24.579718Z
+- Last published: 2026-11-09T08:07:45.304456Z
 
 ## The brief
 
-> I need this data: Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 1,890 rows; its publication timestamp does not establish when the observations were collected\.
+> I need this data: Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 2,362 rows; its publication timestamp does not establish when the observations were collected\.
 
 Summary from the public dataset description.
 
 ## Clinks Irish drinks prices / prices
 
-1,890 total rows · 50 sampled · Output revision 6
-Published: 2026-11-08T08:10:24.579718Z · Producing pipeline version: 5
+2,362 total rows · 50 sampled · Output revision 7
+Published: 2026-11-09T08:07:45.304456Z · Producing pipeline version: 5
 
 [CSV sample](outputs/bb7e3522209b/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/bb7e3522209b/prices-fe81f9390ffe/sample.json) · [Schema](outputs/bb7e3522209b/prices-fe81f9390ffe/schema.json)
 
 | abv | brand | category | collected\_at | in\_stock | price\_eur | product\_name | product\_url |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 40 | Absolut | vodka | 2026\-11\-09T08:00:49\.378211\+00:00 | True | 31 | Absolut Grapefruit Vodka 70cl | [https://www\.obrienswine\.ie/products/absolut\-grapefruit\-70cl\-btl](<https://www.obrienswine.ie/products/absolut-grapefruit-70cl-btl>) |
 | 16 | Coole Swan | liqueur | 2026\-11\-07T08:13:27\.182337\+00:00 | True | 26 | Coole Swan Superior Irish Cream Liqueur 700ml | [https://www\.dunnesstoresgrocery\.com/sm/delivery/rsid/258/product/coole\-swan\-superior\-irish\-cream\-liqueur\-700ml\-id\-100173115](<https://www.dunnesstoresgrocery.com/sm/delivery/rsid/258/product/coole-swan-superior-irish-cream-liqueur-700ml-id-100173115>) |
 | 17\.5 | Baileys | liqueur | 2026\-11\-07T08:12:02\.617319\+00:00 | True | 15\.99 | Baileys Chocolate Cream Liqueur 50cl | [https://www\.obrienswine\.ie/products/baileys\-chocolate\-50cl](<https://www.obrienswine.ie/products/baileys-chocolate-50cl>) |
 | 13 | Errazuriz | wine red | 2026\-11\-08T08:01:25\.124768\+00:00 | True | 12\.5 | Errazuriz Reserva Estate Cabernet Sauvignon 75cl | [https://www\.dunnesstoresgrocery\.com/sm/delivery/rsid/258/product/errazuriz\-reserva\-estate\-cabernet\-sauvignon\-75cl\-id\-100344095](<https://www.dunnesstoresgrocery.com/sm/delivery/rsid/258/product/errazuriz-reserva-estate-cabernet-sauvignon-75cl-id-100344095>) |
-| None | Conde de Valdemar | wine | 2026\-11\-07T08:13:52\.452923\+00:00 | True | 45 | Conde Valdemar Reserva &amp; Gran Reserva Twin Pack | [https://molloys\.ie/products/conde\-de\-valdemar\-reserva\-gran\-reserva\-twin\-pack](<https://molloys.ie/products/conde-de-valdemar-reserva-gran-reserva-twin-pack>) |
-| 13\.5 | Luna Argenta | wine red | 2026\-11\-08T08:00:43\.075502\+00:00 | True | 19\.99 | Luna Argenta | [https://www\.obrienswine\.ie/products/luna\-argenta](<https://www.obrienswine.ie/products/luna-argenta>) |
+| 37\.5 | Smirnoff | vodka | 2026\-11\-09T08:02:13\.789416\+00:00 | True | 19\.25 | Smirnoff Vodka Bottle \(50 cl\) | [https://shop\.supervalu\.ie/sm/delivery/rsid/1733/product/smirnoff\-vodka\-bottle\-50\-cl\-id\-1306905000](<https://shop.supervalu.ie/sm/delivery/rsid/1733/product/smirnoff-vodka-bottle-50-cl-id-1306905000>) |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

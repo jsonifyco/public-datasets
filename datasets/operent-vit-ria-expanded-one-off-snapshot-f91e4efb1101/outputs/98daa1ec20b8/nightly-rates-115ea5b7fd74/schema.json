@@ -1,0 +1,66 @@
+[
+  {
+    "name": "available",
+    "type": "boolean"
+  },
+  {
+    "name": "bedrooms",
+    "type": "integer"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "date",
+    "type": "text"
+  },
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "max_guests",
+    "type": "integer"
+  },
+  {
+    "name": "min_nights",
+    "type": "integer"
+  },
+  {
+    "name": "neighbourhood",
+    "type": "text"
+  },
+  {
+    "name": "nightly_price",
+    "type": "double precision"
+  },
+  {
+    "name": "property_type",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "review_count",
+    "type": "integer"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  }
+]

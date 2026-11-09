@@ -1,107 +1,7 @@
 [
   {
-    "base_price_eur": 508220,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
-    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
-    "cpv": [
-      "72500000"
-    ],
-    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR).",
-    "form_type_code": "competition",
-    "location": "Lisboa",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-10-26",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/737784-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-02T18:00:59Z",
-    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR) (20260251)",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/737784-2026"
-  },
-  {
-    "base_price_eur": 400930,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
-    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
-    "cpv": [
-      "72500000"
-    ],
-    "description": "(DAG) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I.P. (PRR) (20260267).",
-    "form_type_code": "competition",
-    "location": "Lisboa",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-10-26",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/739600-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-02T18:00:59Z",
-    "title": "(DAG) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I.P. (PRR) (20260267)",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/739600-2026"
-  },
-  {
-    "base_price_eur": 611735,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
-    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
-    "cpv": [
-      "72500000"
-    ],
-    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR).",
-    "form_type_code": "competition",
-    "location": "Lisboa",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-10-26",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/738528-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-02T18:00:59Z",
-    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR) (20260268)",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/738528-2026"
-  },
-  {
-    "base_price_eur": 385000,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
-    "contracting_entity": "Unidade Local de Saúde de Entre Douro e Vouga, EPE",
-    "cpv": [
-      "72260000"
-    ],
-    "description": "Aquisição de Plataforma de Telemonitorização para os doentes com insuficiência Cardíaca.",
-    "form_type_code": "competition",
-    "location": "União das Freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-10-26",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/738253-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-03T23:59:59Z",
-    "title": "Aquisição de Plataforma de Telemonitorização para os doentes com insuficiência Cardíaca",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/738253-2026"
-  },
-  {
-    "base_price_eur": 1530000,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
-    "contracting_entity": "Universidade Nova de Lisboa",
-    "cpv": [
-      "72268000"
-    ],
-    "description": "Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM & AIS da área de Pré-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365.",
-    "form_type_code": "competition",
-    "location": "União das Freguesias de Carcavelos e Parede",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-10-26",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/738005-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-06T19:00:59Z",
-    "title": "Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM & AIS da área de Pré-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/738005-2026"
-  },
-  {
     "base_price_eur": 1396240,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
     "contracting_entity": "Instituto dos Registos e do Notariado, IP",
     "cpv": [
       "72000000"
@@ -120,48 +20,8 @@
     "url": "https://ted.europa.eu/pt/notice/-/detail/745093-2026"
   },
   {
-    "base_price_eur": 611735,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
-    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
-    "cpv": [
-      "72500000"
-    ],
-    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR).",
-    "form_type_code": "competition",
-    "location": "Lisboa",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-11-02",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/757036-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-09T18:00:59Z",
-    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR) (20260268)",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/757036-2026"
-  },
-  {
-    "base_price_eur": 508220,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
-    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
-    "cpv": [
-      "72500000"
-    ],
-    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR).",
-    "form_type_code": "competition",
-    "location": "Lisboa",
-    "notice_subtype_code": "16",
-    "notice_type_code": "cn-standard",
-    "procedure_type": "open",
-    "published_date": "2026-11-02",
-    "source": "ted.europa.eu",
-    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/757609-2026/pdf\", \"CES…",
-    "submission_deadline": "2026-11-09T18:00:59Z",
-    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR) (20260251)",
-    "url": "https://ted.europa.eu/pt/notice/-/detail/757609-2026"
-  },
-  {
     "base_price_eur": 400930,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
     "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
     "cpv": [
       "72500000"
@@ -180,8 +40,48 @@
     "url": "https://ted.europa.eu/pt/notice/-/detail/758045-2026"
   },
   {
+    "base_price_eur": 508220,
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
+    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
+    "cpv": [
+      "72500000"
+    ],
+    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR).",
+    "form_type_code": "competition",
+    "location": "Lisboa",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-11-02",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/757609-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-09T18:00:59Z",
+    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento+, do INFARMED, I.P. (PRR) (20260251)",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/757609-2026"
+  },
+  {
+    "base_price_eur": 611735,
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
+    "contracting_entity": "Serviços Partilhados do Ministério da Saúde, EPE",
+    "cpv": [
+      "72500000"
+    ],
+    "description": "Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR).",
+    "form_type_code": "competition",
+    "location": "Lisboa",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-11-02",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/757036-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-09T18:00:59Z",
+    "title": "(DAG) Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção+, do INFARMED, I.P. (PRR) (20260268)",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/757036-2026"
+  },
+  {
     "base_price_eur": 168652.2,
-    "checked_at": "2026-11-08T06:02:44.421411+00:00",
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
     "contracting_entity": "Autoridade Nacional de Segurança Rodoviária",
     "cpv": [
       "72260000"
@@ -198,5 +98,105 @@
     "submission_deadline": "2026-11-10T23:59:59Z",
     "title": "CPi 15/ANSR/2026 - Aquisição de licenciamento Microsoft Fabric em ambiente Microsoft Azure (CSP) para suporte ao projeto Data & Analytics",
     "url": "https://ted.europa.eu/pt/notice/-/detail/745603-2026"
+  },
+  {
+    "base_price_eur": 230000,
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
+    "contracting_entity": "Unidade Local de Saúde de Viseu Dão-Lafões, EPE",
+    "cpv": [
+      "72500000"
+    ],
+    "description": "Serviços de Manutenção da Rede Informática – ULSVDL.",
+    "form_type_code": "competition",
+    "location": "Freguesia de Viseu",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-11-02",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/758049-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-12T18:00:59Z",
+    "title": "Serviços de Manutenção da Rede Informática – ULSVDL",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/758049-2026"
+  },
+  {
+    "base_price_eur": 1530000,
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
+    "contracting_entity": "Universidade Nova de Lisboa",
+    "cpv": [
+      "72268000"
+    ],
+    "description": "Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM & AIS da área de Pré-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365.",
+    "form_type_code": "competition",
+    "location": "União das Freguesias de Carcavelos e Parede",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-11-06",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/772642-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-13T19:00:59Z",
+    "title": "Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM & AIS da área de Pré-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/772642-2026"
+  },
+  {
+    "base_price_eur": 1879570,
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
+    "contracting_entity": "Município de Lisboa",
+    "cpv": [
+      "72268000"
+    ],
+    "description": "Aquisição de Subscrições de Software Técnico CAD e BIM e Serviços Conexos.",
+    "form_type_code": "competition",
+    "location": "Lisboa",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-11-05",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/768062-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-17T17:00:59Z",
+    "title": "Aquisição de Subscrições de Software Técnico CAD e BIM e Serviços Conexos",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/768062-2026"
+  },
+  {
+    "base_price_eur": 744876,
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
+    "contracting_entity": "Município da Maia",
+    "cpv": [
+      "30121300"
+    ],
+    "description": "CONTRATAÇÃO, POR LOTES DE LOCAÇÃO OPERACIONAL DE EQUIPAMENTO: LOTE 1 - EQUIPAMENTO DE CÓPIA/IMPRESSÃO/DIGITALIZAÇÃO, INCLUINDO SOFTWARE DE GESTÃO, ASSISTÊNCIA TÉCNICA, FORNECIMENTO DE CONSUMÍVEIS E UM VOLUME MENSAL DE TIRAGEM PARA OS EDIFÍCIOS DO MUNICÍPIO E ESCOLAS EB1/JI; LOTE 2 - EQUIPAMENTO DE CÓPIA/IMPRESSÃO/DIGITALIZAÇÃO, INCLUINDO ASSISTÊNCIA TÉCNICA, FORNECIMENTO DE CONSUMÍVEIS E UM VOLUME MENSAL DE TIRAGEM PARA AS ESCOLAS EB2/3 E SECUNDÁRIAS.",
+    "form_type_code": "competition",
+    "location": "Cidade da Maia",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-10-27",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/741317-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-22T23:59:59Z",
+    "title": "CONTRATAÇÃO, POR LOTES DE LOCAÇÃO OPERACIONAL DE EQUIPAMENTO:",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/741317-2026"
+  },
+  {
+    "base_price_eur": 295000,
+    "checked_at": "2026-11-09T06:09:17.116353+00:00",
+    "contracting_entity": "Gabinete de Planeamento, Políticas e Administração Geral",
+    "cpv": [
+      "30200000"
+    ],
+    "description": "Aquisição de Computadores Portáteis, Periféricos e Acessórios para afetação a trabalhadores do Gabinete de Planeamento, Políticas e Administração Geral (GPP) e membros dos gabinetes ministeriais.",
+    "form_type_code": "competition",
+    "location": "Lisboa",
+    "notice_subtype_code": "16",
+    "notice_type_code": "cn-standard",
+    "procedure_type": "open",
+    "published_date": "2026-11-09",
+    "source": "ted.europa.eu",
+    "source_record": "{\"links\": {\"pdf\": {\"BUL\": \"https://ted.europa.eu/bg/notice/777302-2026/pdf\", \"CES…",
+    "submission_deadline": "2026-11-24T23:59:59Z",
+    "title": "Aquisição de Computadores Portáteis, Periféricos e Acessórios para afetação a trabalhadores do Gabinete de Planeamento, Políticas e Administração Geral (GPP) e membros dos gabinetes ministeriais.",
+    "url": "https://ted.europa.eu/pt/notice/-/detail/777302-2026"
   }
 ]

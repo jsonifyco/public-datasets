@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Portugal IT tender notices from TED, with publication dates, deadlines, contracting entities, CPV codes and published estimated values\. The published dataset contains 160 rows\.
+Portugal IT tender notices from TED, with publication dates, deadlines, contracting entities, CPV codes and published estimated values\. The published dataset contains 156 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/it-tenders-pt-fc238e58914d?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
+- Refresh: On demand
 - Active pipeline version: 4
-- Last published: 2026-11-08T06:02:48.835415Z
+- Last published: 2026-11-09T06:09:22.261148Z
 
 ## The brief
 
-> I need this data: Portugal IT tender notices from TED, with publication dates, deadlines, contracting entities, CPV codes and published estimated values\. The published dataset contains 160 rows\.
+> I need this data: Portugal IT tender notices from TED, with publication dates, deadlines, contracting entities, CPV codes and published estimated values\. The published dataset contains 156 rows\.
 
 Summary from the public dataset description.
 
 ## Portugal IT tenders / Tenders
 
-80 total rows · 10 sampled · Output revision 8
-Published: 2026-11-08T06:02:48.835415Z · Producing pipeline version: 4
+78 total rows · 10 sampled · Output revision 9
+Published: 2026-11-09T06:09:22.261148Z · Producing pipeline version: 4
 
 [CSV sample](outputs/cebd25590c7c/tenders-7e626c78fe5c/sample.csv) · [JSON sample](outputs/cebd25590c7c/tenders-7e626c78fe5c/sample.json) · [Schema](outputs/cebd25590c7c/tenders-7e626c78fe5c/schema.json)
 
 | Buyer | CPV | Data notes | Deadline Lisbon | Estimated value EUR | Notice type | Procedure | Published date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Agência para a Gestão do Sistema Educativo, IP | 72400000 | EUR estimate not published; No submission deadline published | None | None | Contract award / result notice | oth\-mult | 2026\-11\-06 |
-| Serviços Partilhados do Ministério da Saúde, EPE | 72500000 | None | 2026\-11\-02T18:00:59\+00:00 | 508220 | Contract notice | Open procedure | 2026\-10\-26 |
-| Centro Social e Paroquial do Bom Jesus de Ponta Delgada | 30200000; 32000000; 33100000; 33192000; 33192100; 33192300; 33192600; 37400000; 39100000; 39113000; 39121100; 39130000; 39142000; 39143112; 39291000 | EUR estimate not published; No submission deadline published | None | None | Contract award / result notice | Open procedure | 2026\-10\-27 |
-| Banco Português de Fomento, SA | 72320000 | No submission deadline published | None | 400000 | Contract award / result notice | Open procedure | 2026\-11\-03 |
-| Instituto Nacional de Emergência Médica, IP | 48311100 | None | 2026\-12\-02T23:59:59\+00:00 | 387745 | Contract notice | Open procedure | 2026\-11\-04 |
+| Município de Alter do Chão | 30200000 | None | 2026\-12\-01T17:00:59\+00:00 | 225000 | Contract notice | Open procedure | 2026\-11\-02 |
+| Autoridade Tributária e Aduaneira | 72200000 | No submission deadline published | None | 168000 | Contract notice | Restricted procedure | 2026\-10\-29 |
+| Universidade Nova de Lisboa | 72510000 | No submission deadline published | None | 1975000 | Contract notice | Restricted procedure | 2026\-11\-04 |
+| Instituto de Gestão Financeira e Equipamentos da Justiça, IP | 72910000 | None | 2026\-12\-04T23:59:59\+00:00 | 855400 | Contract notice | Open procedure | 2026\-11\-04 |
+| SPMS, EPE \- Serviços Partilhados do Ministério da Saúde, EPE | 30230000 | No submission deadline published | None | 92391\.5 | Contract award / result notice | Restricted procedure | 2026\-10\-28 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Portugal IT tenders / it\_tenders\_pt
 
-80 total rows · 10 sampled · Output revision 8
-Published: 2026-11-08T06:02:48.835415Z · Producing pipeline version: 4
+78 total rows · 10 sampled · Output revision 9
+Published: 2026-11-09T06:09:22.261148Z · Producing pipeline version: 4
 
 [CSV sample](outputs/cebd25590c7c/it-tenders-pt-d565827789da/sample.csv) · [JSON sample](outputs/cebd25590c7c/it-tenders-pt-d565827789da/sample.json) · [Schema](outputs/cebd25590c7c/it-tenders-pt-d565827789da/schema.json)
 
 | base\_price\_eur | checked\_at | contracting\_entity | cpv | description | form\_type\_code | location | notice\_subtype\_code |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 508220 | 2026\-11\-08T06:02:44\.421411\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
-| 400930 | 2026\-11\-08T06:02:44\.421411\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | \(DAG\) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I\.P\. \(PRR\) \(20260267\)\. | competition | Lisboa | 16 |
-| 611735 | 2026\-11\-08T06:02:44\.421411\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
-| 385000 | 2026\-11\-08T06:02:44\.421411\+00:00 | Unidade Local de Saúde de Entre Douro e Vouga, EPE | \["72260000"\] | Aquisição de Plataforma de Telemonitorização para os doentes com insuficiência Cardíaca\. | competition | União das Freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo | 16 |
-| 1530000 | 2026\-11\-08T06:02:44\.421411\+00:00 | Universidade Nova de Lisboa | \["72268000"\] | Aquisição de serviços para a conceção, desenvolvimento, implementação, suporte e manutenção do projeto CRM &amp; AIS da área de Pré\-Experiência da NOVA SBE, com base em tecnologia Microsoft Dynamics 365\. | competition | União das Freguesias de Carcavelos e Parede | 16 |
+| 1396240 | 2026\-11\-09T06:09:17\.116353\+00:00 | Instituto dos Registos e do Notariado, IP | \["72000000"\] | Aquisição de serviços de implementação de infraestrutura de plataforma como serviço \(IAAS, PAAS E SAAS\) e serviços de consultoria para a operação e monitorização da plataforma BUPI CLOUD 2027\. | competition | A prestação dos serviços será efetuada em modo híbrido, estando prevista a presença da equipa técnica da entidade adjudicatária nas instalações em Lisboa do IRN, I\.P\. ou IGFEJ | 16 |
+| 400930 | 2026\-11\-09T06:09:17\.116353\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | \(DAG\) Aquisição de serviços de desenvolvimento do novo website do INFARMED, I\.P\. \(PRR\) \(20260267\)\. | competition | Lisboa | 16 |
+| 508220 | 2026\-11\-09T06:09:17\.116353\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Licenciamento\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
+| 611735 | 2026\-11\-09T06:09:17\.116353\+00:00 | Serviços Partilhados do Ministério da Saúde, EPE | \["72500000"\] | Aquisição de serviços de desenvolvimento de novas funcionalidades no Portal Inspeção\+, do INFARMED, I\.P\. \(PRR\)\. | competition | Lisboa | 16 |
+| 168652\.2 | 2026\-11\-09T06:09:17\.116353\+00:00 | Autoridade Nacional de Segurança Rodoviária | \["72260000"\] | Aquisição de licenciamento Microsoft Fabric em ambiente Microsoft Azure \(CSP\) para suporte ao projeto Data &amp; Analytics\. | competition | Freguesia de Barcarena | 16 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

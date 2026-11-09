@@ -6,9 +6,9 @@ Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatre
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
+- Refresh: On demand
 - Active pipeline version: 3
-- Last published: 2026-11-08T09:06:30.634419Z
+- Last published: 2026-11-09T09:21:38.987092Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Law firm events / events
 
-86 total rows · 10 sampled · Output revision 6
-Published: 2026-11-08T09:06:30.634419Z · Producing pipeline version: 3
+86 total rows · 10 sampled · Output revision 7
+Published: 2026-11-09T09:21:38.987092Z · Producing pipeline version: 3
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | A colloquium marking the 40th anniversary of the Portuguese Companies Code and the 20th anniversary of its major 2006 reform\. VdA's Paulo Olavo Cunha is on the scientific committee and will speak and moderate panels\. The event continues in Lisbon after an earlier session in Porto on 26 October\. | None | 2026\-11\-02 | Colloquium “Católica and Four Decades of the Portuguese Companies Code” | None | [https://www\.vda\.pt/en/media/events/colloquium\-catolica\-and\-four\-decades\-of\-the\-portuguese\-companies\-code/28875/](<https://www.vda.pt/en/media/events/colloquium-catolica-and-four-decades-of-the-portuguese-companies-code/28875/>) | VdA |
-| None | Sessão do ciclo de cinema da PLMJ, com exibição do filme A Grande Ambição, numa curadoria especial da RISIFilm\. | None | 2026\-02\-02 | Ciclo de cinema na PLMJ \| A Grande Ambição | 19:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Ciclo\-de\-cinema\-na\-PLMJ\-A\-Grande\-Ambicao/34269/](<https://www.plmj.com/pt/conhecimento/eventos/Ciclo-de-cinema-na-PLMJ-A-Grande-Ambicao/34269/>) | PLMJ |
-| None | Conferência organizada pela Morais Leitão/Instituto Miguel Galvão Teles e Catarina Monteiro Pires, por ocasião dos 60 anos do Código Civil Português, sobre a evolução do direito civil português e os desafios futuros\. | None | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
-| None | Uma manhã dedicada a discutir o futuro do teletrabalho e os seus impactos na organização das empresas, com especialistas de vários setores e a participação da ministra do Trabalho, Solidariedade e Segurança Social\. | None | 2025\-10\-14 | Teletrabalho em Portugal: desafios e oportunidades do futuro | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Teletrabalho\-em\-Portugal\-desafios\-e\-oportunidades\-do\-futuro/34063/](<https://www.plmj.com/pt/conhecimento/eventos/Teletrabalho-em-Portugal-desafios-e-oportunidades-do-futuro/34063/>) | PLMJ |
-| None | Filipe Vasconcelos Fernandes will participate in the conference and join a 3:00 p\.m\. panel discussion, “The Iberian Example in the Energy Transition\.” The conference will address energy\-sector topics including electrification, security of supply and the transformation of the electricity system\. | None | 2026\-10\-21 | ELECPOR Full Power 2026 Conference | None | [https://www\.vda\.pt/en/media/events/elecpor\-full\-power\-2026\-conference/28835/](<https://www.vda.pt/en/media/events/elecpor-full-power-2026-conference/28835/>) | VdA |
+| None | Primeira edição do Africa Day da PLMJ, com uma mesa\-redonda sobre o papel de África no contexto geopolítico, oportunidades de investimento e Portugal como plataforma para investir em África, seguida de networking e partilha de ideias\. | None | 2026\-05\-25 | Africa Day na PLMJ | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Africa\-Day\-na\-PLMJ/34526/](<https://www.plmj.com/pt/conhecimento/eventos/Africa-Day-na-PLMJ/34526/>) | PLMJ |
+| None | Carina Branco participa no Congresso de Infraestruturas Digitais: Regulação e Poder, dedicado à análise do enquadramento jurídico das infraestruturas digitais e das relações de poder associadas\. Integra, a 28 de outubro, um painel sobre identidade digital, certificação e proveniência de conteúdos\. | 2026\-10\-28 | 2026\-10\-27 | Congresso de Infraestruturas Digitais: Regulação e Poder | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Carina\-Branco\-e\-oradora\-no\-Congresso\-de\-Infraestruturas\-Digitais\-Regulacao\-e\-Poder/27187/](<https://www.mlgts.pt/pt/conhecimento/noticias/Carina-Branco-e-oradora-no-Congresso-de-Infraestruturas-Digitais-Regulacao-e-Poder/27187/>) | Morais Leitão |
+| None | A one\-day conference hosted by PLMJ bringing together judges, regulators, academics, lawyers and financial\-market representatives from Brazil and Europe to discuss current issues in capital markets, financial regulation and related topics\. | None | 2026\-06\-04 | 3º encontro entre o Judiciário, o Mercado Financeiro e a Academia: a experiência portuguesa e brasileira | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/3\-encontro\-entre\-o\-Judiciario\-o\-Mercado\-Financeiro\-e\-a\-Academia\-a\-experiencia\-portuguesa\-e/34549/](<https://www.plmj.com/pt/conhecimento/eventos/3-encontro-entre-o-Judiciario-o-Mercado-Financeiro-e-a-Academia-a-experiencia-portuguesa-e/34549/>) | PLMJ |
+| None | Inauguração da exposição «um olhar itinerante \- obbras da coleção da Fundação PLMJ», que apresenta um percurso pelo território acompanhado pela Fundação e pela arte contemporânea dos países da CPLP\. A exposição fica aberta ao público até 5 de abril de 2026\. | 2026\-04\-05 | 2025\-10\-17 | Fundação PLMJ inaugura "um olhar itinerante" no BAG Leiria | 18:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/Fundacao\-PLMJ\-inaugura\-um\-olhar\-itinerante\-no\-BAG\-Leiria/34098/](<https://www.plmj.com/pt/conhecimento/eventos/Fundacao-PLMJ-inaugura-um-olhar-itinerante-no-BAG-Leiria/34098/>) | PLMJ |
+| None | Conferência sobre a revisão de 2026 do Código dos Contratos Públicos e a perspetiva de reforma do Direito Europeu\. Jorge Pação intervém e modera painéis, e Pedro Costa Gonçalves participa numa conferência temática; ambos no dia 4 de novembro\. Organizada pelo Instituto de Ciências Jurídico\-Políticas e pelo Lisbon Public Law Research Centre da Faculdade de Direito da Universidade de Lisboa\. | 2026\-11\-05 | 2026\-11\-04 | VI Jornadas de Direito dos Contratos Públicos | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Pedro\-Costa\-Goncalves\-e\-Jorge\-Pacao\-sao\-oradores\-nas\-VI\-Jornadas\-de\-Direito\-dos\-Contratos\-Publicos/27191/](<https://www.mlgts.pt/pt/conhecimento/noticias/Pedro-Costa-Goncalves-e-Jorge-Pacao-sao-oradores-nas-VI-Jornadas-de-Direito-dos-Contratos-Publicos/27191/>) | Morais Leitão |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

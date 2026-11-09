@@ -6,9 +6,9 @@ Booking\.com hotel offers with stay dates, room details, displayed prices and ho
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/241-travel-last-minute-booking-com-hotel-rates-8055aed53e5f?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
+- Refresh: On demand
 - Active pipeline version: 1
-- Last published: 2026-11-08T06:03:52.063201Z
+- Last published: 2026-11-09T06:14:08.519161Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## 241\.travel last\-minute hotel rates / rates
 
-240 total rows · 50 sampled · Output revision 3
-Published: 2026-11-08T06:03:52.063201Z · Producing pipeline version: 1
+240 total rows · 50 sampled · Output revision 4
+Published: 2026-11-09T06:14:08.519161Z · Producing pipeline version: 1
 
 [CSV sample](outputs/5b91c807a520/rates-ff24aad2c015/sample.csv) · [JSON sample](outputs/5b91c807a520/rates-ff24aad2c015/sample.json) · [Schema](outputs/5b91c807a520/rates-ff24aad2c015/schema.json)
 
 | breakfast\_included | check\_in | city | collected\_at | currency | deal\_discount\_badge\_text | district | free\_cancellation |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | 2026\-11\-10 | Lisbon | 2026\-11\-08T06:03:48\.776621\+00:00 | EUR | None | Santa Maria Maior, Lisbon | None |
-| None | 2026\-11\-08 | Munich | 2026\-11\-08T06:03:26\.414547\+00:00 | EUR | None | Ludwigsvorstadt, Munich | None |
-| None | 2026\-11\-10 | Munich | 2026\-11\-08T06:03:35\.784872\+00:00 | EUR | None | Neuhausen \- Nymphenburg, Munich | None |
-| None | 2026\-11\-09 | Vienna | 2026\-11\-08T06:01:01\.680745\+00:00 | EUR | None | 01\. Innere Stadt, Vienna | None |
-| None | 2026\-11\-10 | Salzburg | 2026\-11\-08T06:01:27\.643446\+00:00 | EUR | Limited\-time Deal | Salzburg | None |
+| None | 2026\-11\-10 | Vienna | 2026\-11\-09T06:12:24\.000732\+00:00 | EUR | Booking\.com pays | 01\. Innere Stadt, Vienna | None |
+| None | 2026\-11\-11 | Lisbon | 2026\-11\-09T06:14:00\.386014\+00:00 | EUR | Limited\-time Deal | Parque das Nacoes, Lisbon | None |
+| True | 2026\-11\-09 | Lisbon | 2026\-11\-09T06:13:51\.525397\+00:00 | EUR | Late Escape Deal | Alcântara, Lisbon | None |
+| None | 2026\-11\-10 | Munich | 2026\-11\-09T06:13:36\.865833\+00:00 | EUR | None | Ludwigsvorstadt, Munich | None |
+| None | 2026\-11\-09 | Vienna | 2026\-11\-09T06:12:21\.413845\+00:00 | EUR | Bonus savings; Booking\.com pays | 14\. Penzing, Vienna | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

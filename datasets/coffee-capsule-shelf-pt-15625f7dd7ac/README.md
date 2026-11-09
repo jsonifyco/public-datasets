@@ -6,9 +6,9 @@ Coffee product listings for Portugal, with displayed prices, promotions, stock s
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/coffee-capsule-shelf-pt-15625f7dd7ac?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 3
-- Last published: 2026-11-03T22:19:46.120672Z
+- Last published: 2026-11-09T06:33:55.941367Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## coffee\_capsules\_pt / coffee\_capsules\_pt
 
-1,178 total rows · 50 sampled · Output revision 3
-Published: 2026-11-03T22:19:46.120672Z · Producing pipeline version: 3
+1,178 total rows · 50 sampled · Output revision 4
+Published: 2026-11-09T06:33:55.941367Z · Producing pipeline version: 3
 
 [CSV sample](outputs/81e025c05626/coffee-capsules-pt-8f6158b2d472/sample.csv) · [JSON sample](outputs/81e025c05626/coffee-capsules-pt-8f6158b2d472/sample.json) · [Schema](outputs/81e025c05626/coffee-capsules-pt-8f6158b2d472/schema.json)
 
 | brand | compatible\_system | format | in\_stock | pack\_size | pack\_unit | price\_eur | price\_per\_capsule\_eur |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Delta Q | Delta Q | capsule | True | 10 | capsules | 3\.99 | 0\.399 |
-| Nescafé Dolce Gusto | Dolce Gusto | capsule | True | 16 | capsules | 6\.99 | 0\.436875 |
-| Sical | n/a | beans | True | 1000 | g | 24\.99 | None |
-| Nescafé Dolce Gusto | Dolce Gusto | capsule | True | 30 | capsules | 10\.49 | 0\.349667 |
-| L'OR | Nespresso Original | capsule | True | 10 | capsules | 4\.99 | 0\.499 |
+| Lavazza | n/a | ground | True | 250 | g | 6\.99 | None |
+| Café D'Or | Nespresso Original | capsule | True | 20 | capsules | 3\.75 | 0\.1875 |
+| Nescafé Dolce Gusto | Dolce Gusto | capsule | True | None | capsules | 21\.99 | None |
+| Lavazza | Nespresso Original | capsule | True | 60 | capsules | 25\.49 | 0\.424833 |
+| Nescafé Dolce Gusto | Dolce Gusto | capsule | True | None | capsules | 6\.59 | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Apartment sale listing prices per m² from ZAP Imóveis, Viva Real and OLX in São Paulo and Vitória\. The published dataset contains 180 rows\.
+Apartment sale listing prices per m² from ZAP Imóveis, Viva Real and OLX in São Paulo and Vitória\. The published dataset contains 540 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
-- Active pipeline version: 2
-- Last published: 2026-11-08T10:01:33.588598Z
+- Refresh: On demand
+- Active pipeline version: 3
+- Last published: 2026-11-09T12:51:52.148844Z
 
 ## The brief
 
-> I need this data: Apartment sale listing prices per m² from ZAP Imóveis, Viva Real and OLX in São Paulo and Vitória\. The published dataset contains 180 rows\.
+> I need this data: Apartment sale listing prices per m² from ZAP Imóveis, Viva Real and OLX in São Paulo and Vitória\. The published dataset contains 540 rows\.
 
 Summary from the public dataset description.
 
 ## Domus apartment price history / observations
 
-180 total rows · 50 sampled · Output revision 3
-Published: 2026-11-08T10:01:33.588598Z · Producing pipeline version: 2
+540 total rows · 50 sampled · Output revision 5
+Published: 2026-11-09T12:51:52.148844Z · Producing pipeline version: 3
 
 [CSV sample](outputs/e3922300bff0/observations-bfc5a6b45b6a/sample.csv) · [JSON sample](outputs/e3922300bff0/observations-bfc5a6b45b6a/sample.json) · [Schema](outputs/e3922300bff0/observations-bfc5a6b45b6a/schema.json)
 
 | neighbourhood | address\_text | latitude | longitude | area\_total\_m2 | bedrooms | bathrooms | parking\_spaces |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vila das Mercês | Rua Léo de Morais, 231 \- Vila das Mercês, São Paulo \- SP | \-23\.629794 | \-46\.603132 | None | 2 | 1 | 1 |
 | Alto da Lapa | Rua Acopiara, 138 \- Alto da Lapa, São Paulo \- SP | \-23\.533924 | \-46\.71533 | None | 3 | 4 | 2 |
-| Enseada do Suá | Rua Taciano Abaurre, 60 \- Enseada do Suá, Vitória \- ES | \-20\.314778 | \-40\.295735 | None | 3 | 3 | 2 |
-| Vila Progresso Zona Leste | Rua Jequirana de Goiás, 572 \- Vila Progresso Zona Leste, São Paulo \- SP | \-23\.51783 | \-46\.428986 | None | 2 | 1 | 1 |
-| Jardim da Penha | Jardim da Penha, Vitória, ES, 29060030 | \-20\.285264 | \-40\.291704 | None | 2 | 2 | 1 |
-| Belém | Rua Doutor Fomm, 329 \- Belém, São Paulo \- SP | \-23\.546676 | \-46\.595077 | None | 2 | 1 | 1 |
+| Lapa | Avenida Raimundo Pereira de Magalhães, 909 \- Lapa, São Paulo \- SP | \-23\.511689 | \-46\.714409 | None | 1 | 1 | 1 |
+| Chácara Maria Trindade | Rua Enéas Camargo, 326 \- Chácara Maria Trindade, São Paulo \- SP | \-23\.416053 | \-46\.806489 | None | 2 | 1 | 0 |
+| Jardim Camburi | Jardim Camburi, Vitória, ES, 29090580 | \-20\.249501 | \-40\.270255 | None | 3 | 2 | 2 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -86,6 +86,7 @@ flowchart LR
 
 - 2026-11-06T19:31:40.541797Z: v1: Created a daily apartment sale sample across three Brazilian portals and two cities, with useful\-area pricing and dated history\.
 - 2026-11-06T19:56:19.717245Z: v2: OLX now follows additional search pages when needed to fill the São Paulo sample without including other cities\.
+- 2026-11-09T12:47:52.403127Z: v3: Added an expanded one\-off snapshot option with neighbourhood spread, keeping the usual daily sample at ten listings per portal and city\.
 
 ## Recorded repairs
 

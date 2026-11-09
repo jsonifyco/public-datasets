@@ -2,17 +2,17 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\. The published dataset contains 171,865 rows across product and category tables; observation dates are recorded where available\.
+Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
-- Active pipeline version: 46
+- Refresh: On demand
+- Active pipeline version: 54
 - Last published: 2026-11-02T14:53:40.285101Z
 
 ## The brief
 
-> I need this data: Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\. The published dataset contains 171,865 rows across product and category tables; observation dates are recorded where available\.
+> I need this data: Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\.
 
 Summary from the public dataset description.
 
@@ -206,11 +206,18 @@ flowchart LR
 - 2026-11-02T13:23:47.887899Z: v44: Mon Marché refreshes now record explicitly removed categories without stopping the catalogue update, while continuing to collect current categories for the selected Paris delivery address\.
 - 2026-11-02T14:44:19.956852Z: v45: Auchan marketplace listings now produce separate seller\-labelled offers with their own prices, without Paris\-store attribution\.
 - 2026-11-02T14:50:19.287869Z: v46: Auchan products sold by Auchan itself now retain their collected store offers, while third\-party sellers remain separate marketplace offers\.
+- 2026-11-09T05:06:29.284975Z: v47: Uses an alternate French connection for Carrefour to reduce interrupted updates, with the existing connection retained as a fallback\. Paris Auteuil store checks and product coverage remain unchanged\.
+- 2026-11-09T06:37:33.915973Z: v48: Improves E\.Leclerc Convention access with a verified alternate connection and more time for postcode suggestions to load\. Existing store checks and category coverage requirements are preserved\.
+- 2026-11-09T06:46:51.550591Z: v49: Handles delayed cookie prompts during E\.Leclerc store selection and retries unfinished postcode searches before selecting Convention\.
+- 2026-11-09T06:55:14.122377Z: v50: Waits for the exact Convention catalogue data to load before collecting, avoiding failures caused by a slow menu link\.
+[More history on the dataset page](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9#history)
 
 ## Recorded repairs
 
 - 2026-11-02T03:32:29.338093Z: no change
 - 2026-11-02T03:39:06.490363Z: temporary blocker
+- 2026-11-09T02:02:34.022135Z: no change
+- 2026-11-09T02:05:00.796561Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9?action=get) — CSV or JSON · Email required
 

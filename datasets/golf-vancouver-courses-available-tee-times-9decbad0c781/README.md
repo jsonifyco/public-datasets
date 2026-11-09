@@ -6,7 +6,7 @@ Public online booking\-page data for Vancouver\-area golf tee times and advertis
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/golf-vancouver-courses-available-tee-times-9decbad0c781?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 9
 - Last published: 2026-11-02T15:13:21.865652Z
 

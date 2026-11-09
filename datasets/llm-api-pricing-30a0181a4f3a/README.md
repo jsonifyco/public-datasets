@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1 million tokens\. The published table contains 2,487 rows\.
+LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1 million tokens\. The published table contains 3,390 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llm-api-pricing-30a0181a4f3a?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 9
-- Last published: 2026-11-02T06:01:58.217204Z
+- Last published: 2026-11-09T06:11:59.795571Z
 
 ## The brief
 
-> I need this data: LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1 million tokens\. The published table contains 2,487 rows\.
+> I need this data: LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1 million tokens\. The published table contains 3,390 rows\.
 
 Summary from the public dataset description.
 
 ## LLM API token prices / main
 
-2,487 total rows · 50 sampled · Output revision 13
-Published: 2026-11-02T06:01:58.217204Z · Producing pipeline version: 9
+3,390 total rows · 50 sampled · Output revision 14
+Published: 2026-11-09T06:11:59.795571Z · Producing pipeline version: 9
 
 [CSV sample](outputs/65257665d6fa/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/65257665d6fa/main-0d6e4079e367/sample.json) · [Schema](outputs/65257665d6fa/main-0d6e4079e367/schema.json)
 
 | captured\_date | platform | model\_maker | model | deployment\_type | input\_usd\_per\_1m | output\_usd\_per\_1m | cached\_input\_usd\_per\_1m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-02 | Gemini API | Google | Gemini 2\.5 Flash | standard | 0\.3 | 2\.5 | 0\.03 |
-| 2026\-10\-30 | Azure | OpenAI | GPT chat latest 07012026 | data zone | 5\.5 | 33 | 0\.55 |
-| 2026\-11\-02 | OpenRouter | anthracite\-org | anthracite\-org/magnum\-v4\-72b | standard | 2\.5 | 5 | None |
-| 2026\-10\-30 | OpenRouter | Zhipu AI | z\-ai/glm\-5\.3:batch | standard | 0\.45 | 2 | 0\.1 |
-| 2026\-11\-02 | Together API | Not stated | Reflection Beam | standard | 0\.4 | 1\.2 | 0\.04 |
+| 2026\-11\-02 | OpenRouter | tencent | tencent/hy\-mt2\-7b | standard | 0\.074 | 0\.295 | None |
+| 2026\-11\-02 | Azure | OpenAI | FW GPT\-OSS\-120B | data zone | 0\.165 | 0\.66 | 0\.082 |
+| 2026\-10\-30 | OpenRouter | OpenAI | openai/gpt\-oss\-safeguard\-20b | standard | 0\.075 | 0\.3 | 0\.0375 |
+| 2026\-11\-02 | Vertex AI | Google | Gemini 3\.8 Flash | global | 0\.75 | 3\.75 | 0\.075 |
+| 2026\-11\-09 | Together API | Not stated | Ternary Bonsai 27B | standard | 0 | 0 | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

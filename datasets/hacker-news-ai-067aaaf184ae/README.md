@@ -2,13 +2,13 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A Hacker News stories dataset with story details and AI or Not AI tags based on each story’s title, URL, and post text\.
+A Hacker News stories dataset with story details and AI or Not AI tags based on each story’s title, URL, and post text\. The published dataset contains 30 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/hacker-news-ai-067aaaf184ae?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-02T09:04:03.677197Z
+- Last published: 2026-11-09T09:11:23.908539Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Original request to Jason.
 
 ## Hacker News AI Story Tags / stories
 
-30 total rows · 10 sampled · Output revision 210
-Published: 2026-11-02T09:04:03.677197Z · Producing pipeline version: 5
+30 total rows · 10 sampled · Output revision 211
+Published: 2026-11-09T09:11:23.908539Z · Producing pipeline version: 5
 
 [CSV sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.csv) · [JSON sample](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/sample.json) · [Schema](outputs/e4bf8da6eaee/stories-ccc5ed3d0215/schema.json)
 
 | author | collected\_at | comment\_count | feed | hn\_url | is\_ai | published\_at | rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Anon84 | 2026\-11\-02T09:02:57\.277964\+00:00 | 70 | top | [https://news\.ycombinator\.com/item?id=50325454](<https://news.ycombinator.com/item?id=50325454>) | True | 2026\-11\-01T13:24:49\+00:00 | 18 |
-| n\_plus\_1\_acc | 2026\-11\-02T09:03:43\.922076\+00:00 | 55 | top | [https://news\.ycombinator\.com/item?id=50324371](<https://news.ycombinator.com/item?id=50324371>) | False | 2026\-11\-01T10:44:20\+00:00 | 28 |
-| ecares | 2026\-11\-02T09:03:54\.875538\+00:00 | 205 | top | [https://news\.ycombinator\.com/item?id=50320963](<https://news.ycombinator.com/item?id=50320963>) | False | 2026\-10\-31T22:41:06\+00:00 | 29 |
-| LecroJS | 2026\-11\-02T09:01:41\.923426\+00:00 | 489 | top | [https://news\.ycombinator\.com/item?id=50328896](<https://news.ycombinator.com/item?id=50328896>) | False | 2026\-11\-01T19:35:27\+00:00 | 6 |
-| misswaterfairy | 2026\-11\-02T09:03:23\.219798\+00:00 | 150 | top | [https://news\.ycombinator\.com/item?id=50331402](<https://news.ycombinator.com/item?id=50331402>) | False | 2026\-11\-02T00:17:27\+00:00 | 21 |
+| surprisetalk | 2026\-11\-09T09:08:51\.263608\+00:00 | 3 | top | [https://news\.ycombinator\.com/item?id=50373768](<https://news.ycombinator.com/item?id=50373768>) | False | 2026\-11\-05T01:15:15\+00:00 | 12 |
+| niceguitars | 2026\-11\-09T09:09:42\.294040\+00:00 | 0 | top | [https://news\.ycombinator\.com/item?id=50420599](<https://news.ycombinator.com/item?id=50420599>) | False | 2026\-11\-09T03:15:17\+00:00 | 19 |
+| xmddmx | 2026\-11\-09T09:08:18\.642752\+00:00 | 278 | top | [https://news\.ycombinator\.com/item?id=50416158](<https://news.ycombinator.com/item?id=50416158>) | False | 2026\-11\-08T19:20:32\+00:00 | 7 |
+| Bluestein | 2026\-11\-09T09:09:22\.237786\+00:00 | 0 | top | [https://news\.ycombinator\.com/item?id=50404428](<https://news.ycombinator.com/item?id=50404428>) | False | 2026\-11\-07T13:35:16\+00:00 | 13 |
+| edward | 2026\-11\-09T09:10:55\.889881\+00:00 | 80 | top | [https://news\.ycombinator\.com/item?id=50416456](<https://news.ycombinator.com/item?id=50416456>) | False | 2026\-11\-08T19:48:32\+00:00 | 27 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -1,7 +1,77 @@
 [
   {
     "currency": "GBP",
-    "fetched_at_utc": "2026-11-02T10:26:16.106966Z",
+    "fetched_at_utc": "2026-11-09T09:21:59.281507Z",
+    "item": "Neverfull MM Monogram cherry (M46987)",
+    "notes": "UK displayed price includes VAT. stock_flag=in_stock; purchase button: Add to Shopping Bag.",
+    "price": 1460,
+    "source": "Louis Vuitton United Kingdom",
+    "url": "https://uk.louisvuitton.com/eng-gb/products/neverfull-mm-tote-bag-monogram-nvprod5350101v/M46987",
+    "variant_qty": 1
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-09T09:24:57.486708Z",
+    "item": "Neverfull PM Monogram (M46979)",
+    "notes": "Displayed US price; applicable sales tax may be added at checkout. stock_flag=unknown; live purchase button unavailable; online stock not verified.",
+    "price": 2160,
+    "source": "Louis Vuitton United States",
+    "url": "https://us.louisvuitton.com/eng-us/products/neverfull-pm-monogram-nvprod5350107v/M46979",
+    "variant_qty": 1
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-09T09:24:15.296717Z",
+    "item": "Neverfull MM Damier Ebene (N40599)",
+    "notes": "Displayed US price; applicable sales tax may be added at checkout. stock_flag=unknown; live purchase button unavailable; online stock not verified.",
+    "price": 2240,
+    "source": "Louis Vuitton United States",
+    "url": "https://us.louisvuitton.com/eng-us/products/neverfull-mm-damier-ebene-nvprod5350102v/N40599",
+    "variant_qty": 1
+  },
+  {
+    "currency": "EUR",
+    "fetched_at_utc": "2026-11-09T09:24:44.763734Z",
+    "item": "Neverfull MM Damier Ebene (N40599)",
+    "notes": "Germany displayed price includes VAT (Mehrwertsteuer). stock_flag=in_stock; purchase button: In den Warenkorb.",
+    "price": 1550,
+    "source": "Louis Vuitton Germany",
+    "url": "https://de.louisvuitton.com/deu-de/produkte/neverfull-mm-damier-ebene-nvprod5350102v/N40599",
+    "variant_qty": 1
+  },
+  {
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-09T09:25:32.671592Z",
+    "item": "Neverfull GM Monogram (M46978)",
+    "notes": "Displayed US price; applicable sales tax may be added at checkout. stock_flag=unknown; live purchase button unavailable; online stock not verified.",
+    "price": 2310,
+    "source": "Louis Vuitton United States",
+    "url": "https://us.louisvuitton.com/eng-us/products/neverfull-gm-monogram-nvprod5350104v/M46978",
+    "variant_qty": 1
+  },
+  {
+    "currency": "GBP",
+    "fetched_at_utc": "2026-11-09T09:24:58.178549Z",
+    "item": "Neverfull PM Monogram (M46979)",
+    "notes": "UK displayed price includes VAT. stock_flag=in_stock; purchase button: Add to Shopping Bag.",
+    "price": 1410,
+    "source": "Louis Vuitton United Kingdom",
+    "url": "https://uk.louisvuitton.com/eng-gb/products/neverfull-pm-tote-bag-monogram-nvprod5350107v/M46979",
+    "variant_qty": 1
+  },
+  {
+    "currency": "EUR",
+    "fetched_at_utc": "2026-11-09T09:24:57.313199Z",
+    "item": "Neverfull PM Monogram (M46979)",
+    "notes": "France displayed price includes VAT (TTC). stock_flag=in_stock; purchase button: Ajouter au panier.",
+    "price": 1500,
+    "source": "Louis Vuitton France",
+    "url": "https://fr.louisvuitton.com/fra-fr/produits/sac-neverfull-pm-monogram-nvprod5350107v/M46979",
+    "variant_qty": 1
+  },
+  {
+    "currency": "GBP",
+    "fetched_at_utc": "2026-11-09T09:25:32.770151Z",
     "item": "Neverfull GM Monogram (M46978)",
     "notes": "UK displayed price includes VAT. stock_flag=in_stock; purchase button: Add to Shopping Bag.",
     "price": 1500,
@@ -11,92 +81,22 @@
   },
   {
     "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:25:46.905768Z",
-    "item": "Neverfull MM Damier Ebene (N40599)",
-    "notes": "France displayed price includes VAT (TTC). stock_flag=in_stock; purchase button: Ajouter au panier.",
-    "price": 1550,
-    "source": "Louis Vuitton France",
-    "url": "https://fr.louisvuitton.com/fra-fr/produits/sac-neverfull-mm-damier-ebene-nvprod5350102v/N40599",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:26:06.257035Z",
-    "item": "Neverfull MM Damier Azur (N40604)",
-    "notes": "Germany displayed price includes VAT (Mehrwertsteuer). stock_flag=in_stock; purchase button: In den Warenkorb.",
-    "price": 1550,
-    "source": "Louis Vuitton Germany",
-    "url": "https://de.louisvuitton.com/deu-de/produkte/neverfull-mm-damier-azur-canvas-nvprod5350103v/N40604",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:25:35.584392Z",
-    "item": "Neverfull MM Monogram cherry (M46987)",
-    "notes": "France displayed price includes VAT (TTC). stock_flag=in_stock; purchase button: Ajouter au panier.",
-    "price": 1550,
-    "source": "Louis Vuitton France",
-    "url": "https://fr.louisvuitton.com/fra-fr/produits/sac-neverfull-mm-monogram-nvprod5350101v/M46987",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:25:46.469081Z",
-    "item": "Neverfull MM Damier Ebene (N40599)",
-    "notes": "Germany displayed price includes VAT (Mehrwertsteuer). stock_flag=in_stock; purchase button: In den Warenkorb.",
-    "price": 1550,
-    "source": "Louis Vuitton Germany",
-    "url": "https://de.louisvuitton.com/deu-de/produkte/neverfull-mm-damier-ebene-nvprod5350102v/N40599",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:25:22.929943Z",
-    "item": "Neverfull MM Monogram cherry (M46987)",
-    "notes": "Germany displayed price includes VAT (Mehrwertsteuer). stock_flag=in_stock; purchase button: In den Warenkorb.",
-    "price": 1550,
-    "source": "Louis Vuitton Germany",
-    "url": "https://de.louisvuitton.com/deu-de/produkte/neverfull-mm-monogram-nvprod5350101v/M46987",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:26:12.194569Z",
-    "item": "Neverfull GM Monogram (M46978)",
+    "fetched_at_utc": "2026-11-09T09:25:29.050334Z",
+    "item": "Neverfull PM Monogram (M46979)",
     "notes": "Germany displayed price includes VAT (Mehrwertsteuer). stock_flag=unknown; live purchase button unavailable; online stock not verified.",
-    "price": 1600,
+    "price": 1500,
     "source": "Louis Vuitton Germany",
-    "url": "https://de.louisvuitton.com/deu-de/produkte/neverfull-gm-monogram-nvprod5350104v/M46978",
+    "url": "https://de.louisvuitton.com/deu-de/produkte/neverfull-pm-monogram-nvprod5350107v/M46979",
     "variant_qty": 1
   },
   {
-    "currency": "GBP",
-    "fetched_at_utc": "2026-11-02T10:25:51.460655Z",
-    "item": "Neverfull MM Damier Ebene (N40599)",
-    "notes": "UK displayed price includes VAT. stock_flag=in_stock; purchase button: Add to Shopping Bag.",
-    "price": 1460,
-    "source": "Louis Vuitton United Kingdom",
-    "url": "https://uk.louisvuitton.com/eng-gb/products/neverfull-mm-tote-bag-damier-ebene-nvprod5350102v/N40599",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:25:36.865778Z",
-    "item": "Neverfull MM Monogram rose beige (M46975)",
-    "notes": "Germany displayed price includes VAT (Mehrwertsteuer). stock_flag=unknown; live purchase button unavailable; online stock not verified.",
-    "price": 1550,
-    "source": "Louis Vuitton Germany",
-    "url": "https://de.louisvuitton.com/deu-de/produkte/neverfull-mm-monogram-nvprod5350101v/M46975",
-    "variant_qty": 1
-  },
-  {
-    "currency": "GBP",
-    "fetched_at_utc": "2026-11-02T10:25:24.072708Z",
+    "currency": "USD",
+    "fetched_at_utc": "2026-11-09T09:21:57.663167Z",
     "item": "Neverfull MM Monogram cherry (M46987)",
-    "notes": "UK displayed price includes VAT. stock_flag=unknown; live purchase button unavailable; online stock not verified.",
-    "price": 1460,
-    "source": "Louis Vuitton United Kingdom",
-    "url": "https://uk.louisvuitton.com/eng-gb/products/neverfull-mm-tote-bag-monogram-nvprod5350101v/M46987",
+    "notes": "Displayed US price; applicable sales tax may be added at checkout. stock_flag=unknown; live purchase button unavailable; online stock not verified.",
+    "price": 2240,
+    "source": "Louis Vuitton United States",
+    "url": "https://us.louisvuitton.com/eng-us/products/neverfull-mm-monogram-nvprod5350101v/M46987",
     "variant_qty": 1
   }
 ]

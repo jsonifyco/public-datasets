@@ -1,102 +1,102 @@
 [
   {
     "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:31:28.223980+00:00",
-    "item": "Gusti Sac à dos en cuir - Sac à dos Sac de jour Sac d'extérieur Cuir véritable Homme/Femme",
-    "notes": "{\"ASIN\": \"B074DZPJQ2\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
-    "price": 124.95,
-    "source": "amazon.fr",
-    "url": "https://www.amazon.fr/dp/B074DZPJQ2",
-    "variant_qty": 2
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:27:52.605668+00:00",
-    "item": "Gusti Leder Outlet Rucksack (SO7_M120-1-1_17441)",
-    "notes": "{\"ASIN\": null, \"strike_through_RRP\": 94.95, \"outlet\": true, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Shopify selectable variants on this listing\", \"price_basis\": \"German storefront displayed price; shipping excluded\"}",
-    "price": 64.95,
-    "source": "gusti-leder.de",
-    "url": "https://gusti-leder.de/products/outlet-rucksack-10",
+    "fetched_at_utc": "2026-11-09T08:07:45.555693+00:00",
+    "item": "Gusti Cityrucksack Leder - Lena kleiner Rucksack Vintage Braun Leder Damen",
+    "notes": "{\"ASIN\": \"B00XVSG3GS\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
+    "price": 63.85,
+    "source": "amazon.de",
+    "url": "https://www.amazon.de/dp/B00XVSG3GS",
     "variant_qty": 1
   },
   {
     "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:28:08.305497+00:00",
-    "item": "Gusti Leder Milo New Rolltop Rucksack aus Leder für Damen und Herren, 15-Zoll-Laptopfach, 13 L, mit verstecktem AirTag-Fach, Flaschenhalter, 3 Reißverschlussfächern und abnehmbarer Tasche, Braun",
-    "notes": "{\"ASIN\": \"B0DSJFZHYL\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
-    "price": 114.95,
+    "fetched_at_utc": "2026-11-09T08:08:18.405934+00:00",
+    "item": "STILORD Charlie Vintage Lederrucksack Braun Mittelgroßer Daypack für Damen Herren 13,3 Zoll Laptop Rucksack aus Echtem Leder Farbe:Cognac - braun",
+    "notes": "{\"ASIN\": \"B07RBTWJ48\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"STILORD\"}",
+    "price": 119.9,
     "source": "amazon.de",
-    "url": "https://www.amazon.de/dp/B0DSJFZHYL",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:30:36.991664+00:00",
-    "item": "Berliner Bags Rolltop Rucksack Utrecht Vintage, Lederrucksack - Braun",
-    "notes": "{\"ASIN\": \"B0728HSB8K\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"BerlinerBags\"}",
-    "price": 159.99,
-    "source": "amazon.de",
-    "url": "https://www.amazon.de/dp/B0728HSB8K",
+    "url": "https://www.amazon.de/dp/B07RBTWJ48",
     "variant_qty": 6
   },
   {
     "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:32:23.176574+00:00",
-    "item": "Gusti Leder Sac à dos « Gitta » Rolltop - Sac à dos en cuir de chèvre marron - Vintage - Avec fermeture éclair et fermeture magnétique - 8-10 l - Pour le quotidien et l'université",
-    "notes": "{\"ASIN\": \"B0CS37733F\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
+    "fetched_at_utc": "2026-11-09T08:06:12.326994+00:00",
+    "item": "Gusti Leder Alena (2M39-20-2wp)",
+    "notes": "{\"ASIN\": null, \"strike_through_RRP\": 164.95, \"outlet\": false, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Shopify selectable variants on this listing\", \"price_basis\": \"German storefront displayed price; shipping excluded\"}",
+    "price": 99.95,
+    "source": "gusti-leder.de",
+    "url": "https://gusti-leder.de/products/lederrucksack-rucksack-cityrucksack-2m39-20-2wp",
+    "variant_qty": 1
+  },
+  {
+    "currency": "EUR",
+    "fetched_at_utc": "2026-11-09T08:09:16.445000+00:00",
+    "item": "Gusti Valja Sac à dos en cuir pour homme et femme Noir, marron, taille unique",
+    "notes": "{\"ASIN\": \"B0D86YR14Z\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
+    "price": 104.95,
+    "source": "amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D86YR14Z",
+    "variant_qty": 1
+  },
+  {
+    "currency": "EUR",
+    "fetched_at_utc": "2026-11-09T08:11:12.536975+00:00",
+    "item": "Gusti Zaino in pelle Leder da donna e da uomo – Zaino vintage realizzato a mano in vera pelle di capra, versatile come zaino per laptop in pelle, ampio spazio di stivaggio, design boho retrò",
+    "notes": "{\"ASIN\": \"B01AT48ZUS\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
+    "price": 99.95,
+    "source": "amazon.it",
+    "url": "https://www.amazon.it/dp/B01AT48ZUS",
+    "variant_qty": 1
+  },
+  {
+    "currency": "EUR",
+    "fetched_at_utc": "2026-11-09T08:06:14.149851+00:00",
+    "item": "Gusti Leder Outlet Rucksack (SO27_2M40-20-3wp_16713)",
+    "notes": "{\"ASIN\": null, \"strike_through_RRP\": 99.95, \"outlet\": true, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Shopify selectable variants on this listing\", \"price_basis\": \"German storefront displayed price; shipping excluded\"}",
+    "price": 69.99,
+    "source": "gusti-leder.de",
+    "url": "https://gusti-leder.de/products/outlet-rucksack-26",
+    "variant_qty": 1
+  },
+  {
+    "currency": "EUR",
+    "fetched_at_utc": "2026-11-09T08:10:17.733695+00:00",
+    "item": "GUSTI sac à dos en cuir - Wendy dos voyage",
+    "notes": "{\"ASIN\": \"B09JSWFXX1\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
     "price": 89.95,
     "source": "amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CS37733F",
+    "url": "https://www.amazon.fr/dp/B09JSWFXX1",
     "variant_qty": 1
   },
   {
     "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:31:57.595397+00:00",
-    "item": "Gusti Sac à dos en cuir - Sac à dos Sac de jour Sac d'extérieur Cuir véritable Homme/Femme",
-    "notes": "{\"ASIN\": \"B00ECBCWJK\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
-    "price": 109.95,
-    "source": "amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00ECBCWJK",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:28:50.996428+00:00",
-    "item": "Gusti Leder Henning – Unisex Brauner Rolltop-Lederrucksack, mit AirTag-Fach, Schlüsselhalter, Reißverschluss-Innentasche, Geheimfach, wasserdichtem Innenmaterial und verstellbaren Tragegurten, 13 L",
-    "notes": "{\"ASIN\": \"B08TLSG7PS\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
-    "price": 109.95,
-    "source": "amazon.de",
-    "url": "https://www.amazon.de/dp/B08TLSG7PS",
-    "variant_qty": 3
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:35:02.325890+00:00",
-    "item": "Gusti Zaino in pelle - Kelly Zaino vintage donne marrone pelle",
-    "notes": "{\"ASIN\": \"B0DVC8QN75\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
-    "price": 94.95,
-    "source": "amazon.it",
-    "url": "https://www.amazon.it/dp/B0DVC8QN75",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:27:53.872080+00:00",
-    "item": "Gusti Leder Kieran (2M82-20-39)",
-    "notes": "{\"ASIN\": null, \"strike_through_RRP\": 159.95, \"outlet\": false, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Shopify selectable variants on this listing\", \"price_basis\": \"German storefront displayed price; shipping excluded\"}",
-    "price": 104.95,
-    "source": "gusti-leder.de",
-    "url": "https://gusti-leder.de/products/kurierrucksack-lederrucksack-mit-reissverschluss-und-schnalle-diebstahlsicher-designed-in-berlin-schwarz-leder-damen-herren-2m82-20-39",
-    "variant_qty": 1
-  },
-  {
-    "currency": "EUR",
-    "fetched_at_utc": "2026-11-02T10:34:17.932688+00:00",
+    "fetched_at_utc": "2026-11-09T08:12:07.016420+00:00",
     "item": "Gusti Leder Marty Zaino In Pelle Marrone Per Donna Con Fodera In Cotone E Spalline Imbottite Regolabili Per Laptop Fino A 15,6 Pollici",
     "notes": "{\"ASIN\": \"B0FSF5Q4GK\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
     "price": 159.95,
     "source": "amazon.it",
     "url": "https://www.amazon.it/dp/B0FSF5Q4GK",
+    "variant_qty": 1
+  },
+  {
+    "currency": "EUR",
+    "fetched_at_utc": "2026-11-09T08:11:37.328063+00:00",
+    "item": "Gusti Leder Milo New Zaino rolltop in pelle uomo donna, scomparto laptop 15 pollici, 13 L, tasca AirTag nascosta, portaborraccia, 3 tasche con zip, marrone",
+    "notes": "{\"ASIN\": \"B0DSJFZHYL\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
+    "price": 124.95,
+    "source": "amazon.it",
+    "url": "https://www.amazon.it/dp/B0DSJFZHYL",
+    "variant_qty": 1
+  },
+  {
+    "currency": "EUR",
+    "fetched_at_utc": "2026-11-09T08:09:51.967120+00:00",
+    "item": "Gusti sac à dos cuir - Henning marron cuir véritable loisir homme femme vintage rétro sac baroudeur unisexe 12L (Brun)",
+    "notes": "{\"ASIN\": \"B08TLSG7PS\", \"strike_through_RRP\": null, \"outlet\": null, \"stock\": \"in_stock\", \"variant_qty_basis\": \"Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported\", \"outlet_basis\": \"Not provided by Amazon; null is unknown\", \"price_basis\": \"Regional product displayed offer; shipping and conditional coupons excluded\", \"brand\": \"Gusti\"}",
+    "price": 109.95,
+    "source": "amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08TLSG7PS",
     "variant_qty": 1
   }
 ]

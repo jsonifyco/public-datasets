@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A published dataset of leather backpack listings from Gusti Leder Germany and Amazon Germany, France and Italy\. Prices are displayed in euros; shipping and conditional coupons are excluded\.
+A published dataset of leather backpack listings from Gusti Leder Germany and Amazon Germany, France and Italy\. The published table contains 56 rows\. Prices are displayed in euros; shipping and conditional coupons are excluded\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/leather-backpack-prices-gusti-leder-shop-vs-amazon-de-fr-it-e57e10e2e1b5?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 1
-- Last published: 2026-11-02T10:35:13.486479Z
+- Last published: 2026-11-09T08:13:10.547866Z
 
 ## The brief
 
-> I need this data: A published dataset of leather backpack listings from Gusti Leder Germany and Amazon Germany, France and Italy\. Prices are displayed in euros; shipping and conditional coupons are excluded\.
+> I need this data: A published dataset of leather backpack listings from Gusti Leder Germany and Amazon Germany, France and Italy\. The published table contains 56 rows\. Prices are displayed in euros; shipping and conditional coupons are excluded\.
 
 Summary from the public dataset description.
 
 ## Leather backpack prices: Gusti Leder shop vs Amazon DE/FR/IT / backpacks
 
-52 total rows · 10 sampled · Output revision 1
-Published: 2026-11-02T10:35:13.486479Z · Producing pipeline version: 1
+56 total rows · 10 sampled · Output revision 2
+Published: 2026-11-09T08:13:10.547866Z · Producing pipeline version: 1
 
 [CSV sample](outputs/2a8b5246fae2/backpacks-3ad734d4decb/sample.csv) · [JSON sample](outputs/2a8b5246fae2/backpacks-3ad734d4decb/sample.json) · [Schema](outputs/2a8b5246fae2/backpacks-3ad734d4decb/schema.json)
 
 | source | url | item | variant\_qty | price | currency | fetched\_at\_utc | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| amazon\.fr | [https://www\.amazon\.fr/dp/B074DZPJQ2](<https://www.amazon.fr/dp/B074DZPJQ2>) | Gusti Sac à dos en cuir \- Sac à dos Sac de jour Sac d'extérieur Cuir véritable Homme/Femme | 2 | 124\.95 | EUR | 2026\-11\-02T10:31:28\.223980\+00:00 | \{"ASIN": "B074DZPJQ2", "strike\_through\_RRP": null, "outlet": null, "stock": "in\_stock", "variant\_qty\_basis": "Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported", "outlet\_basis": "Not provided by Amazon; null is unknown", "price\_basis": "Regional product displayed offer; shipping and conditional coupons excluded", "brand": "Gusti"} |
-| gusti\-leder\.de | [https://gusti\-leder\.de/products/outlet\-rucksack\-10](<https://gusti-leder.de/products/outlet-rucksack-10>) | Gusti Leder Outlet Rucksack \(SO7\_M120\-1\-1\_17441\) | 1 | 64\.95 | EUR | 2026\-11\-02T10:27:52\.605668\+00:00 | \{"ASIN": null, "strike\_through\_RRP": 94\.95, "outlet": true, "stock": "in\_stock", "variant\_qty\_basis": "Shopify selectable variants on this listing", "price\_basis": "German storefront displayed price; shipping excluded"} |
-| amazon\.de | [https://www\.amazon\.de/dp/B0DSJFZHYL](<https://www.amazon.de/dp/B0DSJFZHYL>) | Gusti Leder Milo New Rolltop Rucksack aus Leder für Damen und Herren, 15\-Zoll\-Laptopfach, 13 L, mit verstecktem AirTag\-Fach, Flaschenhalter, 3 Reißverschlussfächern und abnehmbarer Tasche, Braun | 1 | 114\.95 | EUR | 2026\-11\-02T10:28:08\.305497\+00:00 | \{"ASIN": "B0DSJFZHYL", "strike\_through\_RRP": null, "outlet": null, "stock": "in\_stock", "variant\_qty\_basis": "Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported", "outlet\_basis": "Not provided by Amazon; null is unknown", "price\_basis": "Regional product displayed offer; shipping and conditional coupons excluded", "brand": "Gusti"} |
-| amazon\.de | [https://www\.amazon\.de/dp/B0728HSB8K](<https://www.amazon.de/dp/B0728HSB8K>) | Berliner Bags Rolltop Rucksack Utrecht Vintage, Lederrucksack \- Braun | 6 | 159\.99 | EUR | 2026\-11\-02T10:30:36\.991664\+00:00 | \{"ASIN": "B0728HSB8K", "strike\_through\_RRP": null, "outlet": null, "stock": "in\_stock", "variant\_qty\_basis": "Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported", "outlet\_basis": "Not provided by Amazon; null is unknown", "price\_basis": "Regional product displayed offer; shipping and conditional coupons excluded", "brand": "BerlinerBags"} |
-| amazon\.fr | [https://www\.amazon\.fr/dp/B0CS37733F](<https://www.amazon.fr/dp/B0CS37733F>) | Gusti Leder Sac à dos « Gitta » Rolltop \- Sac à dos en cuir de chèvre marron \- Vintage \- Avec fermeture éclair et fermeture magnétique \- 8\-10 l \- Pour le quotidien et l'université | 1 | 89\.95 | EUR | 2026\-11\-02T10:32:23\.176574\+00:00 | \{"ASIN": "B0CS37733F", "strike\_through\_RRP": null, "outlet": null, "stock": "in\_stock", "variant\_qty\_basis": "Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported", "outlet\_basis": "Not provided by Amazon; null is unknown", "price\_basis": "Regional product displayed offer; shipping and conditional coupons excluded", "brand": "Gusti"} |
+| amazon\.de | [https://www\.amazon\.de/dp/B00XVSG3GS](<https://www.amazon.de/dp/B00XVSG3GS>) | Gusti Cityrucksack Leder \- Lena kleiner Rucksack Vintage Braun Leder Damen | 1 | 63\.85 | EUR | 2026\-11\-09T08:07:45\.555693\+00:00 | \{"ASIN": "B00XVSG3GS", "strike\_through\_RRP": null, "outlet": null, "stock": "in\_stock", "variant\_qty\_basis": "Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported", "outlet\_basis": "Not provided by Amazon; null is unknown", "price\_basis": "Regional product displayed offer; shipping and conditional coupons excluded", "brand": "Gusti"} |
+| amazon\.de | [https://www\.amazon\.de/dp/B07RBTWJ48](<https://www.amazon.de/dp/B07RBTWJ48>) | STILORD Charlie Vintage Lederrucksack Braun Mittelgroßer Daypack für Damen Herren 13,3 Zoll Laptop Rucksack aus Echtem Leder Farbe:Cognac \- braun | 6 | 119\.9 | EUR | 2026\-11\-09T08:08:18\.405934\+00:00 | \{"ASIN": "B07RBTWJ48", "strike\_through\_RRP": null, "outlet": null, "stock": "in\_stock", "variant\_qty\_basis": "Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported", "outlet\_basis": "Not provided by Amazon; null is unknown", "price\_basis": "Regional product displayed offer; shipping and conditional coupons excluded", "brand": "STILORD"} |
+| gusti\-leder\.de | [https://gusti\-leder\.de/products/lederrucksack\-rucksack\-cityrucksack\-2m39\-20\-2wp](<https://gusti-leder.de/products/lederrucksack-rucksack-cityrucksack-2m39-20-2wp>) | Gusti Leder Alena \(2M39\-20\-2wp\) | 1 | 99\.95 | EUR | 2026\-11\-09T08:06:12\.326994\+00:00 | \{"ASIN": null, "strike\_through\_RRP": 164\.95, "outlet": false, "stock": "in\_stock", "variant\_qty\_basis": "Shopify selectable variants on this listing", "price\_basis": "German storefront displayed price; shipping excluded"} |
+| amazon\.fr | [https://www\.amazon\.fr/dp/B0D86YR14Z](<https://www.amazon.fr/dp/B0D86YR14Z>) | Gusti Valja Sac à dos en cuir pour homme et femme Noir, marron, taille unique | 1 | 104\.95 | EUR | 2026\-11\-09T08:09:16\.445000\+00:00 | \{"ASIN": "B0D86YR14Z", "strike\_through\_RRP": null, "outlet": null, "stock": "in\_stock", "variant\_qty\_basis": "Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported", "outlet\_basis": "Not provided by Amazon; null is unknown", "price\_basis": "Regional product displayed offer; shipping and conditional coupons excluded", "brand": "Gusti"} |
+| amazon\.it | [https://www\.amazon\.it/dp/B01AT48ZUS](<https://www.amazon.it/dp/B01AT48ZUS>) | Gusti Zaino in pelle Leder da donna e da uomo – Zaino vintage realizzato a mano in vera pelle di capra, versatile come zaino per laptop in pelle, ampio spazio di stivaggio, design boho retrò | 1 | 99\.95 | EUR | 2026\-11\-09T08:11:12\.536975\+00:00 | \{"ASIN": "B01AT48ZUS", "strike\_through\_RRP": null, "outlet": null, "stock": "in\_stock", "variant\_qty\_basis": "Distinct reported selectable ASINs including current listing; minimum observed count when no siblings reported", "outlet\_basis": "Not provided by Amazon; null is unknown", "price\_basis": "Regional product displayed offer; shipping and conditional coupons excluded", "brand": "Gusti"} |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

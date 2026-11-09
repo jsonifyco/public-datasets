@@ -6,7 +6,7 @@ Dairy and egg listings from Streets Market on Uber Eats, Safeway in Georgetown, 
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/dc-grocery-dairy-and-egg-prices-feb64fb083cc?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 3
 - Last published: 2026-11-02T14:33:32.069897Z
 

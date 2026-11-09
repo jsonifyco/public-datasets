@@ -2,17 +2,17 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Short drama app data for ReelShort, DramaBox and FreeReels: 71,875 catalogue rows, charts and coin packs\. Published 2 November 2026\.
+Short drama app data for ReelShort, DramaBox and FreeReels:
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/short-drama-charts-and-catalogue-c3bee033d5c1?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
+- Refresh: On demand
 - Active pipeline version: 17
 - Last published: 2026-11-02T16:00:17.688087Z
 
 ## The brief
 
-> I need this data: Short drama app data for ReelShort, DramaBox and FreeReels: 71,875 catalogue rows, charts and coin packs\. Published 2 November 2026\.
+> I need this data: Short drama app data for ReelShort, DramaBox and FreeReels:
 
 Summary from the public dataset description.
 

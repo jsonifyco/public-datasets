@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Portugal2030 grant notices with status, deadlines, funding allocations, programmes, objectives and linked documents\. The published table contains 1,505 rows\.
+Portugal2030 grant notices with status, deadlines, funding allocations, programmes, objectives and linked documents\. The published grants table contains 1,511 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/portugal2030-grants-59ddd491d0c8?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-11-04T17:20:23.274499Z
+- Last published: 2026-11-09T09:31:42.756325Z
 
 ## The brief
 
-> I need this data: Portugal2030 grant notices with status, deadlines, funding allocations, programmes, objectives and linked documents\. The published table contains 1,505 rows\.
+> I need this data: Portugal2030 grant notices with status, deadlines, funding allocations, programmes, objectives and linked documents\. The published grants table contains 1,511 rows\.
 
 Summary from the public dataset description.
 
 ## Portugal2030 grants / grants
 
-1,505 total rows · 50 sampled · Output revision 1
-Published: 2026-11-04T17:20:23.274499Z · Producing pipeline version: 1
+1,511 total rows · 50 sampled · Output revision 2
+Published: 2026-11-09T09:31:42.756325Z · Producing pipeline version: 1
 
 [CSV sample](outputs/e9a98cba63ca/grants-73e665dc07cd/sample.csv) · [JSON sample](outputs/e9a98cba63ca/grants-73e665dc07cd/sample.json) · [Schema](outputs/e9a98cba63ca/grants-73e665dc07cd/schema.json)
 
 | notice\_id | notice\_code | grant\_name | status | source\_status | grant\_url | source\_url | checked\_at |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 33430 | NORTE2030\-2024\-70 | Mobilidade sustentável \(IT\) \- Bolsa de Overbooking Condicionado | closed | Fechado | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2024%2F10%2F336873fc\-a677\-491d\-b683\-04f0a2f91102%2Fd5c94ec3\-696a\-41d1\-899b\-ff4079bd95de&amp;filename=Aviso\_Overbooking\_MobilidadeSustent%C3%A1vel\+%28IT%29\_AprovCD30\-10\-2024\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2024%2F10%2F336873fc-a677-491d-b683-04f0a2f91102%2Fd5c94ec3-696a-41d1-899b-ff4079bd95de&amp;filename=Aviso_Overbooking_MobilidadeSustent%C3%A1vel+%28IT%29_AprovCD30-10-2024.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-04T17:16:05\.080708\+00:00 |
-| 6921 | NORTE2030\-2023\-2 | Parcerias para a Inovação Social – Desenvolvimento de competências em crianças e jovens | closed | Fechado | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2023%2F9%2Fc83a585c\-13bc\-499a\-acb2\-54f81f3f9c8b%2Faa977b8a\-548c\-471d\-9eba\-2828c28c2050&amp;filename=Aviso\_Parcerias\+Inova%C3%A7%C3%A3o\+Social\_Geral\_25setembro\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2023%2F9%2Fc83a585c-13bc-499a-acb2-54f81f3f9c8b%2Faa977b8a-548c-471d-9eba-2828c28c2050&amp;filename=Aviso_Parcerias+Inova%C3%A7%C3%A3o+Social_Geral_25setembro.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-04T17:16:05\.080708\+00:00 |
-| 33306 | ALT2030\-2024\-37 | Ciclo Urbano da Água \- Reutilização, resiliência, modernização e descarbonização | closed | Fechado | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2024%2F11%2F7ad1f441\-b684\-4adb\-b4f7\-9bbc054872bb%2Fd6e2b5fa\-82bf\-4289\-8e20\-4236eb1d618b&amp;filename=ALT2030\-2024\-37\_V2\_29\.11\.2024\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2024%2F11%2F7ad1f441-b684-4adb-b4f7-9bbc054872bb%2Fd6e2b5fa-82bf-4289-8e20-4236eb1d618b&amp;filename=ALT2030-2024-37_V2_29.11.2024.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-04T17:16:05\.080708\+00:00 |
-| 33515 | NORTE2030\-2024\-96 | Especialização inteligente, redes e capacitação institucional \- Plataformas Regionais de Especialização Inteligente \(PREI\) | closed | Fechado | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2024%2F12%2F3e5029f9\-7c8b\-4a00\-a513\-35fc25b83229%2Fa9e2205e\-f1bb\-402a\-aa12\-a025ea7c4b86&amp;filename=Aviso\+NORTE2030\-2024\-96\_Especializa%C3%A7%C3%A3o\+inteligente%2C\+redes\+e\+capacita%C3%A7%C3%A3o\+institucional\+\-\+Plataformas\+Regionais\+de\+Especializa%C3%A7%C3%A3o\+Inteligente\+%28PREI%29\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2024%2F12%2F3e5029f9-7c8b-4a00-a513-35fc25b83229%2Fa9e2205e-f1bb-402a-aa12-a025ea7c4b86&amp;filename=Aviso+NORTE2030-2024-96_Especializa%C3%A7%C3%A3o+inteligente%2C+redes+e+capacita%C3%A7%C3%A3o+institucional+-+Plataformas+Regionais+de+Especializa%C3%A7%C3%A3o+Inteligente+%28PREI%29.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-04T17:16:05\.080708\+00:00 |
-| 33055 | NORTE2030\-2024\-15 | Eficiência energética na administração regional | open | Aberto | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2024%2F5%2Fe344f173\-fdfa\-42c3\-8776\-0f551412e72a%2Ff5a8f7e5\-9ec6\-4464\-a76f\-5cdb57763e78&amp;filename=Aviso\+EE\+AR\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2024%2F5%2Fe344f173-fdfa-42c3-8776-0f551412e72a%2Ff5a8f7e5-9ec6-4464-a76f-5cdb57763e78&amp;filename=Aviso+EE+AR.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-04T17:16:05\.080708\+00:00 |
+| 33105 | MPr\-2024\-8 | SACCCT \- Proteção da propriedade intelectual e industrial | closed | Fechado | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2024%2F11%2F40709378\-ce36\-456f\-a8db\-6ff7c139336e%2F39c9a799\-0e1e\-4a61\-9b34\-2a7abb32d660&amp;filename=MPR\_2024\_8\_SACCCT\+Propriedade\+Industrial\_republica%C3%A7%C3%A3o12nov24\_vfinal\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2024%2F11%2F40709378-ce36-456f-a8db-6ff7c139336e%2F39c9a799-0e1e-4a61-9b34-2a7abb32d660&amp;filename=MPR_2024_8_SACCCT+Propriedade+Industrial_republica%C3%A7%C3%A3o12nov24_vfinal.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-09T09:00:57\.882196\+00:00 |
+| 34221 | MAR2030\-2026\-25 | Regime de apoio específico para compensar os operadores do sector das pescas e da aquicultura pelo excecional aumento dos custos de produção  | closed | Fechado | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2026%2F9%2F38423c82\-e33f\-4037\-971d\-1855301760c7%2F83612b55\-e5ee\-4404\-8432\-cddac437833c&amp;filename=MAR2030\_2026\-25\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2026%2F9%2F38423c82-e33f-4037-971d-1855301760c7%2F83612b55-e5ee-4404-8432-cddac437833c&amp;filename=MAR2030_2026-25.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-09T09:00:57\.882196\+00:00 |
+| 33337 | ALT2030\-2024\-38 | Apoio ao Emprego \- Plano Territorial para uma Transição Justa do Alentejo Litoral | closed | Fechado | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2024%2F9%2F2dfc152f\-b4a0\-4ff7\-97a8\-42c0375274c1%2F8d099f24\-cd77\-47e7\-b7a1\-fa31130bc3d8&amp;filename=ALT2030\-2024\-38\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2024%2F9%2F2dfc152f-b4a0-4ff7-97a8-42c0375274c1%2F8d099f24-cd77-47e7-b7a1-fa31130bc3d8&amp;filename=ALT2030-2024-38.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-09T09:00:57\.882196\+00:00 |
+| 7032 | MAR2030\-2023\-21 | Investimentos a Bordo no Domínio da Eficiência Energética, Segurança e Seletividade, Investimentos em Inovação Produtiva e Organizacional das Empresas de Pesca e Ações Coletivas \- Região Autónoma da Madeira | open | Aberto | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2023%2F11%2F6fca8b14\-c9c0\-45c9\-9e55\-79765fc0bdbb%2Fab9aa8d3\-fed4\-489e\-89d6\-8510a074c12f&amp;filename=MAR2030\-2023\-21\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2023%2F11%2F6fca8b14-c9c0-45c9-9e55-79765fc0bdbb%2Fab9aa8d3-fed4-489e-89d6-8510a074c12f&amp;filename=MAR2030-2023-21.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-09T09:00:57\.882196\+00:00 |
+| 7204 | CENTRO2030\-2023\-12 | INFRAESTRUTURAS E EQUIPAMENTOS DE ENSINO SUPERIOR  | closed | Fechado | [https://portugal2030\.pt/wp\-json/avisos/download?container=siag\-prod\-container&amp;path=avisos%2F2023%2F12%2F3f2e5a6d\-947c\-4ec1\-98e4\-e99f1c87a949%2Fecdfd6c2\-6f22\-455e\-aa9c\-f437b5d1298c&amp;filename=CENTRO2030\-2023\-12\.pdf](<https://portugal2030.pt/wp-json/avisos/download?container=siag-prod-container&amp;path=avisos%2F2023%2F12%2F3f2e5a6d-947c-4ec1-98e4-e99f1c87a949%2Fecdfd6c2-6f22-455e-aa9c-f437b5d1298c&amp;filename=CENTRO2030-2023-12.pdf>) | [https://portugal2030\.pt/avisos/](<https://portugal2030.pt/avisos/>) | 2026\-11\-09T09:00:57\.882196\+00:00 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -82,7 +82,8 @@ flowchart LR
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-09T09:05:40.849569Z: no change
+- 2026-11-09T09:06:21.540121Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/portugal2030-grants-59ddd491d0c8?action=get) — CSV or JSON · Email required
 

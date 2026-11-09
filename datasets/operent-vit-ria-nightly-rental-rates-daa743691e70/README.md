@@ -6,9 +6,9 @@ Vitória rental listings with displayed nightly quotes and availability for spec
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/operent-vit-ria-nightly-rental-rates-daa743691e70?action=get) — CSV or JSON · Email required
 
-- Refresh: daily
-- Active pipeline version: 9
-- Last published: 2026-11-08T10:35:05.441108Z
+- Refresh: On demand
+- Active pipeline version: 10
+- Last published: 2026-11-09T10:37:15.874612Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Vitória nightly rental rates / nightly\_rates
 
-960 total rows · 50 sampled · Output revision 3
-Published: 2026-11-08T10:35:05.441108Z · Producing pipeline version: 9
+960 total rows · 50 sampled · Output revision 4
+Published: 2026-11-09T10:37:15.874612Z · Producing pipeline version: 10
 
 [CSV sample](outputs/de4b65c24d43/nightly-rates-115ea5b7fd74/sample.csv) · [JSON sample](outputs/de4b65c24d43/nightly-rates-115ea5b7fd74/sample.json) · [Schema](outputs/de4b65c24d43/nightly-rates-115ea5b7fd74/schema.json)
 
 | available | bedrooms | collected\_at | currency | date | listing\_id | listing\_url | max\_guests |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| False | 1 | 2026\-11\-08T10:22:13\.415471\+00:00 | BRL | 2026\-12\-06 | 9649466 | [https://www\.booking\.com/hotel/br/flat\-praia\-do\-canto\-apart\.html](<https://www.booking.com/hotel/br/flat-praia-do-canto-apart.html>) | 2 |
-| False | 1 | 2026\-11\-08T09:57:19\.938819\+00:00 | BRL | 2026\-11\-27 | 8067157 | [https://www\.booking\.com/hotel/br/praia\-do\-canto\-apart\-vitoria\.html](<https://www.booking.com/hotel/br/praia-do-canto-apart-vitoria.html>) | 4 |
-| True | 1 | 2026\-11\-08T09:07:30\.804500\+00:00 | BRL | 2026\-11\-13 | 2842150 | [https://www\.booking\.com/hotel/br/apart\-quartier\-latin\-vitoria\-espirito\-santo1\.html](<https://www.booking.com/hotel/br/apart-quartier-latin-vitoria-espirito-santo1.html>) | 5 |
-| True | 1 | 2026\-11\-08T10:01:48\.143757\+00:00 | BRL | 2026\-11\-30 | 12233624 | [https://www\.booking\.com/hotel/br/praia\-do\-canto\-apart\-vista\-para\-o\-mar\-102a\.html](<https://www.booking.com/hotel/br/praia-do-canto-apart-vista-para-o-mar-102a.html>) | 4 |
-| True | 1 | 2026\-11\-08T09:07:43\.564318\+00:00 | BRL | 2026\-11\-13 | 1497988894417555510 | [https://www\.airbnb\.com/rooms/1497988894417555510](<https://www.airbnb.com/rooms/1497988894417555510>) | 4 |
+| False | 1 | 2026\-11\-09T09:22:18\.056810\+00:00 | BRL | 2026\-11\-10 | 53531609 | [https://www\.airbnb\.com/rooms/53531609](<https://www.airbnb.com/rooms/53531609>) | 2 |
+| False | 1 | 2026\-11\-09T10:19:15\.711621\+00:00 | BRL | 2026\-12\-02 | 15035911 | [https://www\.booking\.com/hotel/br/flat\-praia\-comfort\-camburi\.html](<https://www.booking.com/hotel/br/flat-praia-comfort-camburi.html>) | 4 |
+| False | 1 | 2026\-11\-09T09:32:51\.082204\+00:00 | BRL | 2026\-11\-14 | 1694320411842196266 | [https://www\.airbnb\.com/rooms/1694320411842196266](<https://www.airbnb.com/rooms/1694320411842196266>) | 4 |
+| False | 1 | 2026\-11\-09T10:01:29\.312448\+00:00 | BRL | 2026\-11\-23 | 1216800404584520733 | [https://www\.airbnb\.com/rooms/1216800404584520733](<https://www.airbnb.com/rooms/1216800404584520733>) | 2 |
+| False | 1 | 2026\-11\-09T09:34:48\.613465\+00:00 | BRL | 2026\-11\-15 | 1728577633890495345 | [https://www\.airbnb\.com/rooms/1728577633890495345](<https://www.airbnb.com/rooms/1728577633890495345>) | 4 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -94,6 +94,7 @@ flowchart LR
 - 2026-11-06T22:27:51.478293Z: v7: Fixed the final completeness check so interrupted collections can save their verified results after recovery\.
 - 2026-11-08T09:37:47.987878Z: v8: Added a final fallback for Booking\.com pages that remain blocked or incomplete, preserving exact stay checks and existing results\.
 - 2026-11-08T10:16:36.478563Z: v9: Recover incomplete Booking\.com pages with a fresh browser while retaining strict stay validation\.
+- 2026-11-09T09:51:55.678435Z: v10: Confirm Vitória from the property's own address when Booking\.com city links are missing\.
 
 ## Recorded repairs
 
@@ -101,6 +102,10 @@ flowchart LR
 - 2026-11-07T09:17:13.686705Z: repaired
 - 2026-11-08T09:34:43.129053Z: no change
 - 2026-11-08T09:37:55.192548Z: repaired
+- 2026-11-09T09:45:51.528294Z: no change
+- 2026-11-09T09:49:53.516901Z: no change
+- 2026-11-09T09:52:05.944888Z: repaired
+- 2026-11-09T09:52:14.375658Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/operent-vit-ria-nightly-rental-rates-daa743691e70?action=get) — CSV or JSON · Email required
 

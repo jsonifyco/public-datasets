@@ -1,0 +1,110 @@
+[
+  {
+    "name": "availability_delivery",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "current_price",
+    "type": "double precision"
+  },
+  {
+    "name": "discount_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "listing_key",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "marketplace",
+    "type": "text"
+  },
+  {
+    "name": "observation_key",
+    "type": "text"
+  },
+  {
+    "name": "official_brand_store",
+    "type": "boolean"
+  },
+  {
+    "name": "page_number",
+    "type": "integer"
+  },
+  {
+    "name": "popularity_text",
+    "type": "text"
+  },
+  {
+    "name": "position_on_page",
+    "type": "integer"
+  },
+  {
+    "name": "previous_price",
+    "type": "double precision"
+  },
+  {
+    "name": "product_title",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "promo_labels",
+    "type": "jsonb"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "reference_price_type",
+    "type": "text"
+  },
+  {
+    "name": "review_count",
+    "type": "integer"
+  },
+  {
+    "name": "seller_name",
+    "type": "text"
+  },
+  {
+    "name": "set_number",
+    "type": "text"
+  },
+  {
+    "name": "snapshot_date",
+    "type": "text"
+  },
+  {
+    "name": "sponsored",
+    "type": "boolean"
+  },
+  {
+    "name": "unverified_fields",
+    "type": "jsonb"
+  }
+]

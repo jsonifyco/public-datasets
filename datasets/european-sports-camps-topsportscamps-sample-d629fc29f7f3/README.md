@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore 197 listed European kids’ and teens’ sports camp sessions, with details on sports, locations, dates, ages, prices and booking\. The published table does not provide a snapshot date\.
+Explore 196 listed European kids’ and teens’ sports camp sessions, with details on sports, locations, dates, ages, prices and booking\. The published table does not provide a snapshot date\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/european-sports-camps-topsportscamps-sample-d629fc29f7f3?action=get) — CSV or JSON · Email required
 
-- Refresh: weekly
-- Active pipeline version: 2
-- Last published: 2026-11-06T21:12:05.289398Z
+- Refresh: On demand
+- Active pipeline version: 3
+- Last published: 2026-11-09T06:30:10.521922Z
 
 ## The brief
 
-> I need this data: Explore 197 listed European kids’ and teens’ sports camp sessions, with details on sports, locations, dates, ages, prices and booking\. The published table does not provide a snapshot date\.
+> I need this data: Explore 196 listed European kids’ and teens’ sports camp sessions, with details on sports, locations, dates, ages, prices and booking\. The published table does not provide a snapshot date\.
 
 Summary from the public dataset description.
 
 ## European youth sports camp comparison / camps
 
-197 total rows · 50 sampled · Output revision 2
-Published: 2026-11-06T21:12:05.289398Z · Producing pipeline version: 2
+196 total rows · 50 sampled · Output revision 3
+Published: 2026-11-09T06:30:10.521922Z · Producing pipeline version: 3
 
 [CSV sample](outputs/8330c18adb3f/camps-0791d7813900/sample.csv) · [JSON sample](outputs/8330c18adb3f/camps-0791d7813900/sample.json) · [Schema](outputs/8330c18adb3f/camps-0791d7813900/schema.json)
 
 | age\_max | age\_min | availability\_status | booking\_url | camp\_name | city\_venue | collected\_at | country |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 17 | 10 | ended; archived organiser listing; Price not published as a full package total; daily tariffs published\. | [https://bookwhen\.com/tennistigetrs](<https://bookwhen.com/tennistigetrs>) | October Half Term Camp 2026 — Pro Camp | Preston Park Public Courts, Brighton, BN1 6SD | 2026\-11\-06T21:10:29\.858035\+00:00 | United Kingdom |
-| 16 | 7 | upcoming; Registration link published\. | [https://campusexperienceformbuilder\-20114335218\.catalystserverless\.eu/app/?utm\_source=direct&amp;utm\_medium=](<https://campusexperienceformbuilder-20114335218.catalystserverless.eu/app/?utm_source=direct&amp;utm_medium=>) | Campus ONE Full\-Day | Real Madrid City, Valdebebas, Madrid | 2026\-11\-06T21:11:24\.568443\+00:00 | Spain |
-| 16 | 9 | upcoming; Available camp dates listed: 2027\-06\-27 to 2027\-07\-03, 2027\-07\-04 to 2027\-07\-10, 2027\-07\-11 to 2027\-07\-17, 2027\-07\-18 to 2027\-07\-24, 2027\-07\-25 to 2027\-07\-31, and 2027\-08\-01 to 2027\-08\-07\. Apply Now; availability is not specified for individual dates\. | [https://www\.exsportise\.co\.uk/book\-now](<https://www.exsportise.co.uk/book-now>) | Tennis Summer Sports Camp \+ English Language — Worth School | Worth School, London, UK | 2026\-11\-06T21:09:57\.485151\+00:00 | United Kingdom |
-| None | None | ended; archived organiser listing; ; full two\-week total not published; weekly rates retained in inclusions | [https://uznometni\.lv/nometnes/elite\-basketball\-camp26/registracija?locale=lv](<https://uznometni.lv/nometnes/elite-basketball-camp26/registracija?locale=lv>) | Elite Basketball Camp 2026 — Residential | Aizkraukle — Aizkraukle Sports Centre; accommodation at Hotel Vilar | 2026\-11\-06T21:11:49\.668970\+00:00 | Latvia |
-| 15 | 7 | upcoming; Registration available; registration deadline 2027\-04\-26\. Price is the standard full camp package; optional extras cost extra\. | [https://frmclinics\.com/vfb\-rehau\-2027](<https://frmclinics.com/vfb-rehau-2027>) | Fundación Real Madrid Clinic at VfB Rehau | VfB Rehau, Sportplatz, Höllbachweg 8, 95111 Rehau | 2026\-11\-06T21:09:38\.836056\+00:00 | Germany |
+| 14 | 7 | upcoming; Date conflict: the page’s 2027 dates list gives 12–16 July 2027, while another session\-date line says 12–16 July 2026\. The page’s repeated 2027 schedule identifies this as the 2027 session\. Registration by phone or email; no online booking link provided\. Minimum 15 children; full activity programme published two weeks before camp\. | [https://www\.facebook\.com/stuntthekids](<https://www.facebook.com/stuntthekids>) | Stunt The Kids – July session | Jelgava — Sporta un atpūtas komplekss “Ideju Pilna Sala”, Aku ceļš 2A | 2026\-11\-09T06:29:28\.846041\+00:00 | Latvia |
+| None | None | ended; archived organiser listing; team/academy registration required; Applications open; team/academy registration required\. Edition\-specific price is €1,960 per athlete; generic FAQ price of €1,950 conflicts and is not used\. | [https://www\.slbenfica\.pt/en\-us/atividades/road\-to\-benfica\-campus](<https://www.slbenfica.pt/en-us/atividades/road-to-benfica-campus>) | Road to Benfica Campus — Autumn Edition | Benfica Campus, Seixal; tournament in the Lisbon region | 2026\-11\-09T06:29:23\.010210\+00:00 | Portugal |
+| 17 | 9 | upcoming; Dates and registration listed for 2027\. | [https://campusexperienceformbuilder\-20114335218\.catalystserverless\.eu/app/?utm\_source=direct&amp;utm\_medium=](<https://campusexperienceformbuilder-20114335218.catalystserverless.eu/app/?utm_source=direct&amp;utm_medium=>) | Campus MAX Residential | Autónoma de Madrid and Universidad Europea de Madrid, Madrid | 2026\-11\-09T06:29:15\.756184\+00:00 | Spain |
+| 17 | 9 | upcoming; Dates and registration listed for 2027\. | [https://campusexperienceformbuilder\-20114335218\.catalystserverless\.eu/app/?utm\_source=direct&amp;utm\_medium=](<https://campusexperienceformbuilder-20114335218.catalystserverless.eu/app/?utm_source=direct&amp;utm_medium=>) | Campus ONE Residential | Autónoma de Madrid and Universidad Europea de Madrid, Madrid | 2026\-11\-09T06:29:15\.756184\+00:00 | Spain |
+| 16 | 7 | upcoming; Booking opening soon; registration interest link is an on\-page anchor, not a registration URL | None | Summer Skills Basketball Camp \- Wk 1 | William Ellis School, Highgate Road, London NW5 1RN | 2026\-11\-09T06:28:02\.233568\+00:00 | United Kingdom |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -91,10 +91,14 @@ flowchart LR
 
 - 2026-11-06T19:44:04.257067Z: v1: Created the six\-organiser comparison sample and preserved the official Estonia registration form in booking links\.
 - 2026-11-06T20:56:34.048619Z: v2: Expanded the sports camp comparison to 28 organisers across seven countries, including Latvia, Lithuania and Estonia\. Weekly refreshes retain ended camps and flag conflicting source dates\.
+- 2026-11-09T06:16:22.761640Z: v3: Fixed reading of Pro\-Coaching course dates and full\-package prices when the organiser’s page uses an inline layout\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-09T06:09:25.589975Z: no change
+- 2026-11-09T06:10:00.662452Z: no change
+- 2026-11-09T06:10:51.630645Z: repaired
+- 2026-11-09T06:16:30.635847Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/european-sports-camps-topsportscamps-sample-d629fc29f7f3?action=get) — CSV or JSON · Email required
 

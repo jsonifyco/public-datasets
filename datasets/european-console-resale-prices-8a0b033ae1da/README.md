@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Console listing price observations with condition, sale status, model matching and euro\-converted prices\. The published dataset contains 410 rows\.
+Console listing price observations with condition, sale status, model matching and euro\-converted prices\. The published dataset contains 510 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/european-console-resale-prices-8a0b033ae1da?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 2
-- Last published: 2026-11-05T15:04:19.911305Z
+- Active pipeline version: 4
+- Last published: 2026-11-09T13:47:13.272603Z
 
 ## The brief
 
-> I need this data: Console listing price observations with condition, sale status, model matching and euro\-converted prices\. The published dataset contains 410 rows\.
+> I need this data: Console listing price observations with condition, sale status, model matching and euro\-converted prices\. The published dataset contains 510 rows\.
 
 Summary from the public dataset description.
 
 ## European console resale prices / prices
 
-410 total rows · 50 sampled · Output revision 2
-Published: 2026-11-05T15:04:19.911305Z · Producing pipeline version: 2
+510 total rows · 50 sampled · Output revision 3
+Published: 2026-11-09T13:47:13.272603Z · Producing pipeline version: 4
 
 [CSV sample](outputs/100624b69213/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/100624b69213/prices-fe81f9390ffe/sample.json) · [Schema](outputs/100624b69213/prices-fe81f9390ffe/schema.json)
 
@@ -97,10 +97,14 @@ flowchart LR
 
 - 2026-11-05T14:04:45.743497Z: v1: Adds a weekly console\-price demo across European marketplaces, with eBay US sold prices alongside\. Records exact model matches, condition, euro prices and visible dates\.
 - 2026-11-05T14:37:30.871629Z: v2: Adds listing photos and standardized condition categories while retaining original condition wording\. Improves larger listing selections so each saved link comes directly from the source\.
+- 2026-11-09T10:14:57.377643Z: v3: Fixed Leboncoin console discovery to read listing titles correctly when the search page uses nested labels\.
+- 2026-11-09T13:46:54.327557Z: v4: Other markets can now update when Back Market Germany has no verified PS5 offer\. Germany is shown explicitly as unavailable, without a price or comparison eligibility\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-09T09:59:42.740531Z: no change
+- 2026-11-09T10:01:40.675781Z: no change
+- 2026-11-09T10:02:58.568740Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/european-console-resale-prices-8a0b033ae1da?action=get) — CSV or JSON · Email required
 

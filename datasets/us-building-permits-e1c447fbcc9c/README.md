@@ -7,7 +7,7 @@ Building permit data for Chicago, New York, Los Angeles, San Francisco, Austin, 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-building-permits-e1c447fbcc9c?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 4
+- Active pipeline version: 5
 - Last published: 2026-11-06T08:00:12.203668Z
 
 ## The brief
@@ -23,13 +23,13 @@ Published: 2026-11-06T08:00:12.203668Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/c9ef3e98e123/permits-f9b6938a67e1/sample.csv) · [JSON sample](outputs/c9ef3e98e123/permits-f9b6938a67e1/sample.json) · [Schema](outputs/c9ef3e98e123/permits-f9b6938a67e1/schema.json)
 
-| address | city | contractor\_business\_name | housing\_units | issue\_date | latitude | longitude | new\_construction |
+| city | state | permit\_number | issue\_date | permit\_type | work\_type | work\_description | address |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 600 E GRAND AVE | Chicago | None | None | 2026\-10\-26 | 41\.892094136861786 | \-87\.61156988394656 | True |
-| 474 PROSPECT AVENUE | New York | T\.S\.M\. MECHANICAL CORP | None | 2026\-10\-19 | 40\.659164 | \-73\.982321 | None |
-| 10547 N WHITE OAK AVE | Los Angeles | None | None | 2026\-10\-19 | 34\.26266 | \-118\.52005 | False |
-| 1261 Rhode Island St | San Francisco | None | 1 | 2026\-10\-19 | 37\.753778646 | \-122\.401201847 | False |
-| 2011 E 11TH ST | Austin | Juneberry Homes | 0 | 2026\-10\-19 | 30\.26520288 | \-97\.71863541 | True |
+| Austin | TX | 2026\-137243 BP | 2026\-10\-19 | Building Permit | New | ePlan: Commercial Expedited Review \- \[PULBLIC PROJECT\] New Construction of Austin Convention Center \- Area 1\. | 500 E 3RD ST |
+| Austin | TX | 2026\-137244 BP | 2026\-10\-19 | Building Permit | New | ePlan: Commercial Expedited Review \- \[PULBLIC PROJECT\] New Construction of Austin Convention Center \- Area 2\. | 500 E 3RD ST |
+| Austin | TX | 2026\-137245 BP | 2026\-10\-19 | Building Permit | New | ePlan: Commercial Expedited Review \- \[PULBLIC PROJECT\] New Construction of Austin Convention Center \- Area 3\. | 500 E 3RD ST |
+| Austin | TX | 2026\-137246 BP | 2026\-10\-19 | Building Permit | New | ePlan: Commercial Expedited Review \- \[PULBLIC PROJECT\] New Construction of Austin Convention Center \- Area 4\. | 500 E 3RD ST |
+| Chicago | IL | 101084976 | 2026\-10\-28 | PERMIT \- NEW CONSTRUCTION | None | DDS 2019 CBC\. NEW CONSTRUCTION, FULL BUILDING PERMIT FOR A 2 STORY BUILDING WITH A MEZZANINE AND NO BASEMENT AS PER PLANS\. OCCUPANCY GROUPS A\-1, A\-3, B, M, S\-1 AND S\-2\. \(NON\-SEPARATED\)\.TYPE 1\-B CONSTRUCTION\. CAISSONS ONLY PERMIT \#101074704\. FOUNDATION\-SUPERSTRUCTURE PERMIT \#101077786\. CONSULTANT REVIEWER: V3 COMPANIES OF IL | 1904 W ADAMS ST |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -37,24 +37,24 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| address | text |
 | city | text |
-| contractor\_business\_name | text |
-| housing\_units | bigint |
+| state | text |
+| permit\_number | text |
 | issue\_date | text |
+| permit\_type | text |
+| work\_type | text |
+| work\_description | text |
+| address | text |
+| zip\_code | text |
+| project\_value\_usd | double precision |
+| contractor\_business\_name | text |
+| permit\_status | text |
+| new\_construction | boolean |
+| housing\_units | bigint |
 | latitude | double precision |
 | longitude | double precision |
-| new\_construction | boolean |
-| permit\_number | text |
-| permit\_status | text |
-| permit\_type | text |
-| project\_value\_usd | double precision |
 | source\_name | text |
 | source\_url | text |
-| state | text |
-| work\_description | text |
-| work\_type | text |
-| zip\_code | text |
 
 ## How the pipeline works
 
@@ -81,7 +81,7 @@ flowchart LR
 - **read\_cities**: Read each supplied public source, paginate issued permits, and count unreadable records\. Boston uses only its CSV download\.
 - **prepare\_batches**: Deduplicate city and permit numbers and prepare small batches for privacy screening and saving\.
 - **collect\_batches**: Screen free text for personal information and retain company names only, saving batches of up to one hundred permits\.
-- **monthly\_limit**: Admit unseen permits within the thirty\-five\-thousand monthly cap while preserving retry eligibility\.
+- **monthly\_limit**: Admit unseen permits within the fifty\-thousand monthly cap while preserving retry eligibility\.
 - **permits**: One issued permit per city and permit number, without personal contact fields\.
 
 ## Version history
@@ -90,6 +90,7 @@ flowchart LR
 - 2026-11-03T08:09:06.157277Z: v2: Use the latest saved permit issue date as the strict cutoff for future updates, preserving the existing fields, exclusions and monthly cap\.
 - 2026-11-06T07:39:15.477569Z: v3: Expanded to eight city permit sources with one unified table, company\-only contractors, weekly fourteen\-day checks and a 35,000 monthly cap\. Initial coverage remains open until source exhaustion and successful publication are verified\.
 - 2026-11-06T07:56:38.278521Z: v4: Corrected San Francisco permit labels, Los Angeles work subtypes, Seattle units\-added mapping and combined New York work types\.
+- 2026-11-10T13:04:40.523715Z: v5: Raised the monthly new\-permit limit from 35,000 to 50,000\. Existing sources, fields, Thursday schedule and fourteen\-day look\-back are unchanged\.
 
 ## Recorded repairs
 

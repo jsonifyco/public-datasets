@@ -1,23 +1,59 @@
 [
   {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  },
+  {
+    "name": "permit_number",
+    "type": "text"
+  },
+  {
+    "name": "issue_date",
+    "type": "text"
+  },
+  {
+    "name": "permit_type",
+    "type": "text"
+  },
+  {
+    "name": "work_type",
+    "type": "text"
+  },
+  {
+    "name": "work_description",
+    "type": "text"
+  },
+  {
     "name": "address",
     "type": "text"
   },
   {
-    "name": "city",
+    "name": "zip_code",
     "type": "text"
+  },
+  {
+    "name": "project_value_usd",
+    "type": "double precision"
   },
   {
     "name": "contractor_business_name",
     "type": "text"
   },
   {
-    "name": "housing_units",
-    "type": "bigint"
+    "name": "permit_status",
+    "type": "text"
   },
   {
-    "name": "issue_date",
-    "type": "text"
+    "name": "new_construction",
+    "type": "boolean"
+  },
+  {
+    "name": "housing_units",
+    "type": "bigint"
   },
   {
     "name": "latitude",
@@ -28,47 +64,11 @@
     "type": "double precision"
   },
   {
-    "name": "new_construction",
-    "type": "boolean"
-  },
-  {
-    "name": "permit_number",
-    "type": "text"
-  },
-  {
-    "name": "permit_status",
-    "type": "text"
-  },
-  {
-    "name": "permit_type",
-    "type": "text"
-  },
-  {
-    "name": "project_value_usd",
-    "type": "double precision"
-  },
-  {
     "name": "source_name",
     "type": "text"
   },
   {
     "name": "source_url",
-    "type": "text"
-  },
-  {
-    "name": "state",
-    "type": "text"
-  },
-  {
-    "name": "work_description",
-    "type": "text"
-  },
-  {
-    "name": "work_type",
-    "type": "text"
-  },
-  {
-    "name": "zip_code",
     "type": "text"
   }
 ]

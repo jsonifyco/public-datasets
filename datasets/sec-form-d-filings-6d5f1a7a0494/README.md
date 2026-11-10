@@ -7,7 +7,7 @@ Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, o
 [Get the full dataset for free](https://www.jsonify.com/datasets/sec-form-d-filings-6d5f1a7a0494?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 3
+- Active pipeline version: 4
 - Last published: 2026-11-09T09:28:19.307975Z
 
 ## The brief
@@ -84,7 +84,7 @@ flowchart LR
 - **published**: Previously saved filings used to exclude existing accession numbers\.
 - **days**: Select SEC daily indexes within the previous ten completed UTC calendar days\.
 - **indexes**: Read each SEC form index and retain only D and D/A filing links\.
-- **reserve**: Deduplicate new filings and reserve no more than 5,000 distinct filings per UTC month\.
+- **reserve**: Deduplicate new filings and reserve no more than 10,000 distinct filings per UTC month\.
 - **filings**: Read and checkpoint each filing, retaining only the specified non\-personal issuer and offering fields\.
 - **validate**: Count skipped documents and verify unique accession numbers before saving the new filing batch\.
 - **filings**: One row per SEC Form D or D/A filing, without people or contact details\.
@@ -94,6 +94,7 @@ flowchart LR
 - 2026-11-05T11:48:34.455281Z: v1: Create private incremental SEC Form D collection with requested fields and monthly limit\.
 - 2026-11-05T11:53:56.561402Z: v2: Resolve primary issuer identity for filings listed under multiple issuers\.
 - 2026-11-05T12:10:52.133260Z: v3: Check the prior ten completed UTC days on every refresh and read fresh SEC indexes to catch late additions\.
+- 2026-11-10T08:03:22.961604Z: v4: Raised the monthly filing limit from 5,000 to 10,000\. All other collection behavior and settings remain unchanged\.
 
 ## Recorded repairs
 

@@ -65,7 +65,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Google Shopping Competitor Prices](datasets/feedance-google-shopping-competitor-prices-b7971db4006b/) | 8,287 | On demand | 2026-11-08T11:20:28.949583Z |
 | [Irish Music Events for Web Summit](datasets/ceolx-web-summit-one-off-snapshot-bcb68c9e2f16/) | 300 | On demand | 2026-11-09T13:20:39.971583Z |
 | [Public Instagram Posts from paul\_hunkin](datasets/instagram-posts-be49f86d2a46/) | 12 | On demand | 2026-10-17T18:08:01.916600Z |
-| [Short Drama Apps: Catalogue, Charts and Coin Prices](datasets/short-drama-charts-and-catalogue-c3bee033d5c1/) | 110,261 | On demand | 2026-11-02T16:00:17.688087Z |
+| [Short Drama Apps: Catalogue, Charts and Coin Prices](datasets/short-drama-charts-and-catalogue-c3bee033d5c1/) | 115,809 | On demand | 2026-11-09T18:29:52.456020Z |
 | [RoomReview London Rental Sample](datasets/roomreview-london-postcode-sample-c52c262c0d84/) | 775 | On demand | 2026-11-09T12:55:06.788862Z |
 | [Lisbon &amp; Cascais €1M\+ Property Listings](datasets/bonte-filipidis-lisbon-cascais-1m-snapshot-c5f15a05fc46/) | 311 | On demand | 2026-11-08T07:57:29.642535Z |
 | [TMview Class 36 Trademarks and Publicly Evidenced Company Websites](datasets/tmview-class-36-brands-and-websites-cabdb479e298/) | 10 | On demand | 2026-10-26T17:23:00.087271Z |
@@ -83,7 +83,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [UK Toothpaste Prices: Boots, Superdrug and Well Pharmacy](datasets/uk-pharmacy-personal-care-demo-ee43bffca794/) | 9 | On demand | 2026-10-26T12:35:41.997095Z |
 | [Amazon Product Reviews and Ratings Sample Dataset](datasets/multi-source-ecommerce-tracking-f31687d4dfcd/) | 3,012 | On demand | 2026-11-01T10:50:38.497991Z |
 | [WDIWF Company Monitors](datasets/wdiwf-company-monitors-f8658ad4c63e/) | 54 | On demand | 2026-10-14T13:14:12.125029Z |
-| [Vitória Airbnb and Booking\.com Nightly Rates](datasets/operent-vit-ria-expanded-one-off-snapshot-f91e4efb1101/) | 2,790 | On demand | 2026-11-09T14:23:29.336648Z |
+| [Vitória Airbnb and Booking\.com Nightly Rates](datasets/operent-vit-ria-expanded-one-off-snapshot-f91e4efb1101/) | 2,790 | On demand | 2026-11-09T21:12:18.908121Z |
 | [Portugal IT Tender Notices](datasets/it-tenders-pt-fc238e58914d/) | 156 | On demand | 2026-11-09T06:09:22.261148Z |
 | [DC Grocery Dairy and Egg Prices](datasets/dc-grocery-dairy-and-egg-prices-feb64fb083cc/) | 457 | On demand | 2026-11-02T14:33:32.069897Z |
 

@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Vitória apartment listings from Airbnb and Booking\.com, with nightly prices, availability, listing details and source\-reported ratings\. The published table contains 2,790 rows\.
+Candidate apartment listings in Vitória from Airbnb and Booking\.com, with nightly quotes, availability, listing details and source\-reported ratings\. The published tables contain 2,790 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/operent-vit-ria-expanded-one-off-snapshot-f91e4efb1101?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 4
-- Last published: 2026-11-09T14:23:29.336648Z
+- Active pipeline version: 5
+- Last published: 2026-11-09T21:12:18.908121Z
 
 ## The brief
 
-> I need this data: Vitória apartment listings from Airbnb and Booking\.com, with nightly prices, availability, listing details and source\-reported ratings\. The published table contains 2,790 rows\.
+> I need this data: Candidate apartment listings in Vitória from Airbnb and Booking\.com, with nightly quotes, availability, listing details and source\-reported ratings\. The published tables contain 2,790 rows\.
 
 Summary from the public dataset description.
 
 ## Vitória expanded one\-off nightly snapshot / nightly\_rates
 
-2,790 total rows · 50 sampled · Output revision 1
-Published: 2026-11-09T14:23:29.336648Z · Producing pipeline version: 4
+2,790 total rows · 50 sampled · Output revision 2
+Published: 2026-11-09T21:12:18.908121Z · Producing pipeline version: 5
 
 [CSV sample](outputs/98daa1ec20b8/nightly-rates-115ea5b7fd74/sample.csv) · [JSON sample](outputs/98daa1ec20b8/nightly-rates-115ea5b7fd74/sample.json) · [Schema](outputs/98daa1ec20b8/nightly-rates-115ea5b7fd74/schema.json)
 
 | available | bedrooms | collected\_at | currency | date | listing\_id | listing\_url | max\_guests |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| False | 2 | 2026\-11\-09T13:13:54\.968007\+00:00 | BRL | 2026\-11\-16 | 824767347536958994 | [https://www\.airbnb\.com/rooms/824767347536958994](<https://www.airbnb.com/rooms/824767347536958994>) | 4 |
-| False | 0 | 2026\-11\-09T13:21:43\.261909\+00:00 | BRL | 2026\-11\-19 | 13130310 | [https://www\.booking\.com/hotel/br/estudio\-908\-conforto\-e\-sofisticacao\-no\-coracao\-de\-jardim\-camburi\.html](<https://www.booking.com/hotel/br/estudio-908-conforto-e-sofisticacao-no-coracao-de-jardim-camburi.html>) | 4 |
-| True | 1 | 2026\-11\-09T14:03:53\.887122\+00:00 | BRL | 2026\-12\-02 | 1639987158805694619 | [https://www\.airbnb\.com/rooms/1639987158805694619](<https://www.airbnb.com/rooms/1639987158805694619>) | 2 |
-| False | 1 | 2026\-11\-09T14:06:26\.895961\+00:00 | BRL | 2026\-12\-03 | 861562115124019216 | [https://www\.airbnb\.com/rooms/861562115124019216](<https://www.airbnb.com/rooms/861562115124019216>) | 2 |
-| False | 2 | 2026\-11\-09T13:24:54\.871613\+00:00 | BRL | 2026\-11\-21 | 824767347536958994 | [https://www\.airbnb\.com/rooms/824767347536958994](<https://www.airbnb.com/rooms/824767347536958994>) | 4 |
+| True | 2 | 2026\-11\-09T20:57:28\.828480\+00:00 | BRL | 2026\-12\-05 | 575338422308214664 | [https://www\.airbnb\.com/rooms/575338422308214664](<https://www.airbnb.com/rooms/575338422308214664>) | 4 |
+| False | 1 | 2026\-11\-09T20:26:18\.472317\+00:00 | BRL | 2026\-11\-20 | 1003570746183939076 | [https://www\.airbnb\.com/rooms/1003570746183939076](<https://www.airbnb.com/rooms/1003570746183939076>) | 3 |
+| False | 1 | 2026\-11\-09T20:53:41\.409697\+00:00 | BRL | 2026\-12\-04 | 1605343771835530637 | [https://www\.airbnb\.com/rooms/1605343771835530637](<https://www.airbnb.com/rooms/1605343771835530637>) | 4 |
+| False | 1 | 2026\-11\-09T18:03:39\.846568\+00:00 | BRL | 2026\-11\-15 | 1303003515196813014 | [https://www\.airbnb\.com/rooms/1303003515196813014](<https://www.airbnb.com/rooms/1303003515196813014>) | 2 |
+| False | 1 | 2026\-11\-09T20:27:53\.986774\+00:00 | BRL | 2026\-11\-21 | 1699204827655414943 | [https://www\.airbnb\.com/rooms/1699204827655414943](<https://www.airbnb.com/rooms/1699204827655414943>) | 3 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -89,6 +89,7 @@ flowchart LR
 - 2026-11-09T12:59:23.969734Z: v2: Corrected source\-based neighbourhood matching in the expanded one\-off snapshot\.
 - 2026-11-09T13:56:40.417884Z: v3: Fixed recognition of Booking\.com’s compact price display so the one\-off snapshot can continue without repeating completed checks\.
 - 2026-11-09T14:16:08.412605Z: v4: Added a fresh\-page retry when Booking\.com ignores the requested currency or stay dates\.
+- 2026-11-09T18:47:14.047025Z: v5: Waits for Booking\.com room details to finish loading and retries incomplete apartment confirmation without weakening source checks\.
 
 ## Recorded repairs
 

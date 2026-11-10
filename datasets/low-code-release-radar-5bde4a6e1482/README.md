@@ -8,7 +8,7 @@ A published dataset of stable GitHub releases for n8n, Appsmith and Budibase, wi
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-09T08:00:55.208787Z
+- Last published: 2026-11-10T08:00:48.456509Z
 
 ## The brief
 
@@ -18,16 +18,16 @@ Summary from the public dataset description.
 
 ## TechWB Low\-Code Releases / releases
 
-3 total rows · 3 sampled · Output revision 28
-Published: 2026-11-09T08:00:55.208787Z · Producing pipeline version: 1
+3 total rows · 3 sampled · Output revision 29
+Published: 2026-11-10T08:00:48.456509Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a4973f437b80/releases-20195541dc5d/sample.csv) · [JSON sample](outputs/a4973f437b80/releases-20195541dc5d/sample.json) · [Schema](outputs/a4973f437b80/releases-20195541dc5d/schema.json)
 
 | checked\_at | published\_at | release\_age\_days | release\_id | release\_name | release\_notes | release\_url | repository |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-09T08:00:49\.785456\+00:00 | 2026\-11\-04T13:10:07Z | 4 | 433939743 | n8n@2\.46\.6 | \#\# \[2\.46\.6\]\([https://github\.com/n8n\-io/n8n/compare/n8n@2\.46\.5\.\.\.n8n@2\.46\.6](<https://github.com/n8n-io/n8n/compare/n8n@2.46.5...n8n@2.46.6>)\) \(2026\-11\-04\)   \#\#\# Bug Fix… | [https://github\.com/n8n\-io/n8n/releases/tag/n8n%402\.46\.6](<https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.6>) | n8n\-io/n8n |
-| 2026\-11\-09T08:00:49\.727529\+00:00 | 2026\-10\-28T18:10:23Z | 11 | 419376922 | Release v2\.6\.0 🌈 | \#\# ⚠️ For EE users, before upgrading to v2\.6\.0 finish existing Temporal workflow runs on v2\.5\.1    Ap… | [https://github\.com/appsmithorg/appsmith/releases/tag/v2\.6\.0](<https://github.com/appsmithorg/appsmith/releases/tag/v2.6.0>) | appsmithorg/appsmith |
-| 2026\-11\-09T08:00:49\.877332\+00:00 | 2026\-10\-19T08:09:46Z | 20 | 417045683 | v3\.50\.0 | \#\# What's Changed \* Bump uuid from 8\.3\.2 to 14\.0\.0 by @dependabot\[bot\] in [https://github\.com/Budibase…](<https://github.com/Budibase%E2%80%A6>) | [https://github\.com/Budibase/budibase/releases/tag/v3\.50\.0](<https://github.com/Budibase/budibase/releases/tag/v3.50.0>) | Budibase/budibase |
+| 2026\-11\-10T08:00:44\.500512\+00:00 | 2026\-10\-19T08:09:46Z | 21 | 417045683 | v3\.50\.0 | \#\# What's Changed \* Bump uuid from 8\.3\.2 to 14\.0\.0 by @dependabot\[bot\] in [https://github\.com/Budibase…](<https://github.com/Budibase%E2%80%A6>) | [https://github\.com/Budibase/budibase/releases/tag/v3\.50\.0](<https://github.com/Budibase/budibase/releases/tag/v3.50.0>) | Budibase/budibase |
+| 2026\-11\-10T08:00:44\.614778\+00:00 | 2026\-10\-28T18:10:23Z | 12 | 419376922 | Release v2\.6\.0 🌈 | \#\# ⚠️ For EE users, before upgrading to v2\.6\.0 finish existing Temporal workflow runs on v2\.5\.1    Ap… | [https://github\.com/appsmithorg/appsmith/releases/tag/v2\.6\.0](<https://github.com/appsmithorg/appsmith/releases/tag/v2.6.0>) | appsmithorg/appsmith |
+| 2026\-11\-10T08:00:44\.538497\+00:00 | 2026\-11\-09T08:25:28Z | 0 | 438881447 | n8n@2\.46\.7 | \#\# \[2\.46\.7\]\([https://github\.com/n8n\-io/n8n/compare/n8n@2\.46\.6\.\.\.n8n@2\.46\.7](<https://github.com/n8n-io/n8n/compare/n8n@2.46.6...n8n@2.46.7>)\) \(2026\-11\-09\)   \#\#\# Bug Fix… | [https://github\.com/n8n\-io/n8n/releases/tag/n8n%402\.46\.7](<https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.7>) | n8n\-io/n8n |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

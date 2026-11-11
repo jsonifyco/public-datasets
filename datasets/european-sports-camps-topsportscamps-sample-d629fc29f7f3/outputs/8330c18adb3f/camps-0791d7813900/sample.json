@@ -17,7 +17,20 @@
     "residential": true,
     "sport": "multi-sport",
     "start_date": "2027-07-12",
-    "whats_included": "[\"Five-day overnight camp for children and young people aged 7–14.\", \"Mo…"
+    "whats_included": [
+      "Five-day overnight camp for children and young people aged 7–14.",
+      "Motorcycle and karting rides and training.",
+      "Physical fitness and coordination training.",
+      "Padel tennis, tennis, football, volleyball, basketball, and team relays.",
+      "Water activities including SUP boards and water karting.",
+      "Self-defence and freestyle wrestling training with a Latvian national team coach.",
+      "Motorcycle stunt show and professional drift driver show.",
+      "Sauna evening, inflatable attractions, and foam party.",
+      "Full catering three times daily plus evening snacks.",
+      "Accommodation at the sports complex in a safe, modern environment.",
+      "Price is €850 per participant; the source says the price includes everything needed for training, entertainment, meals, and accommodation.",
+      "Source: https://gdmoto.lv/stunt-the-kids/"
+    ]
   },
   {
     "age_max": null,
@@ -37,7 +50,21 @@
     "residential": true,
     "sport": "football",
     "start_date": "2026-10-20",
-    "whats_included": "[\"Eligibility: men's and women's teams in the U11 to U19 age groups; tea…"
+    "whats_included": [
+      "Eligibility: men's and women's teams in the U11 to U19 age groups; team registration through a club or academy is required, and individual registrations are not eligible.",
+      "Full-board accommodation",
+      "Participation in the Lisbon Youth Cup or IberCup",
+      "Immersive experience at Benfica Campus",
+      "Official SL Benfica training kit and backpack",
+      "Daily training with qualified Benfica coaches",
+      "Team supervisor available 24/7",
+      "Visit to the Stadium and Museum",
+      "Menus prepared by Benfica’s Nutrition Department",
+      "Sports and health insurance",
+      "Transfers between hotel and Benfica Campus",
+      "Individual assessments and certificate",
+      "Source: https://www.slbenfica.pt/en-us/atividades/road-to-benfica-campus"
+    ]
   },
   {
     "age_max": 17,
@@ -57,7 +84,16 @@
     "residential": true,
     "sport": "football",
     "start_date": "2027-07-11",
-    "whats_included": "[\"For boys and girls aged 9 to 17; designed for participants who already…"
+    "whats_included": [
+      "For boys and girls aged 9 to 17; designed for participants who already have a foundation in football.",
+      "Sunday to Saturday; seven days and six nights in residence.",
+      "More hours of on-field training per day than Campus ONE and a lower coach-to-participant ratio; training is in groups.",
+      "Two training kits (one white and one black), boot bag, backpack, cap, and reusable bottle.",
+      "Residential meals and accommodation; guided Santiago Bernabéu Stadium Tour.",
+      "Price is €1,940 per week, the undiscounted from-price; €1,750 is the early price shown until 15 March 2027.",
+      "Optional extras include airport/station transfers, bus service, extra nights, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 17,
@@ -77,7 +113,17 @@
     "residential": true,
     "sport": "football",
     "start_date": "2027-07-04",
-    "whats_included": "[\"For boys and girls aged 9 to 17.\", \"Sunday to Friday; check-in Sunday …"
+    "whats_included": [
+      "For boys and girls aged 9 to 17.",
+      "Sunday to Friday; check-in Sunday from 17:00; five nights in residence.",
+      "Three training sessions each day, one exclusively in English, one experience activity, and pool.",
+      "Two Adidas Campus Real Madrid kits (shirts, shorts, and socks), backpack, bottle, and cap.",
+      "Full board: breakfast, lunch, afternoon snack, and dinner.",
+      "Guided Santiago Bernabéu Stadium Tour, including museum and official store.",
+      "Price is €1,375 per week, the undiscounted from-price; €1,250 is the early price shown until 15 March 2027.",
+      "Optional extras include airport/station transfers, bus service, extra nights, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 16,
@@ -151,7 +197,19 @@
     "residential": false,
     "sport": "basketball",
     "start_date": "2026-12-21",
-    "whats_included": "[\"Open to boys and girls; open to all interested participants.\", \"Sub14 …"
+    "whats_included": [
+      "Open to boys and girls; open to all interested participants.",
+      "Sub14 birth cohorts: 2013–2014.",
+      "Sub16 birth cohorts: 2011–2012.",
+      "Sub18 birth cohorts: 2009–2010.",
+      "Three days of basketball training focused on learning, fundamental skill development and enjoyment using the NBA Basketball School methodology.",
+      "Daily schedule: 09:00–17:00; lunch break from 12:00 to 14:00.",
+      "Price is for the three-day package and includes camp and lunch.",
+      "Official camp kit: blue game jersey, white game jersey, game shorts and NBA Basketball School ball.",
+      "Insurance and physiotherapy assistance included.",
+      "Limited places; registration is in order of registration.",
+      "Source: https://www.nbabasketballschool.pt/pt/skills"
+    ]
   },
   {
     "age_max": 18,
@@ -171,7 +229,25 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-06-27",
-    "whats_included": "[\"20.5 hours of tennis training; court/player ratio 1:4.\", \"Tennis compe…"
+    "whats_included": [
+      "20.5 hours of tennis training; court/player ratio 1:4.",
+      "Tennis competition on Saturdays.",
+      "Development of mental skills needed to compete.",
+      "10 hours of sports activities.",
+      "5 hours of “Building a Champion” activities.",
+      "8 hours of leisure and recreational activities in Mallorca.",
+      "RNA Games.",
+      "Guided visit to the Rafa Nadal Museum.",
+      "Barbecue dinner and trophy ceremony.",
+      "Lunch and mid-morning snack.",
+      "Welcome pack.",
+      "Players are grouped by age and level.",
+      "7 nights' accommodation in the Academy's supervised residence; check-in and check-out on Sunday.",
+      "Round-trip airport transfer service.",
+      "Medical care, physiotherapy and nutrition services if necessary.",
+      "Full board.",
+      "Source: https://www.rafanadalacademy.com/en/programs/summer-tennis-camp-junior/"
+    ]
   },
   {
     "age_max": 17,
@@ -191,7 +267,17 @@
     "residential": true,
     "sport": "football",
     "start_date": "2027-07-25",
-    "whats_included": "[\"For boys and girls aged 9 to 17.\", \"Sunday to Friday; check-in Sunday …"
+    "whats_included": [
+      "For boys and girls aged 9 to 17.",
+      "Sunday to Friday; check-in Sunday from 17:00; five nights in residence.",
+      "Three training sessions each day, one exclusively in English, one experience activity, and pool.",
+      "Two Adidas Campus Real Madrid kits (shirts, shorts, and socks), backpack, bottle, and cap.",
+      "Full board: breakfast, lunch, afternoon snack, and dinner.",
+      "Guided Santiago Bernabéu Stadium Tour, including museum and official store.",
+      "Price is €1,375 per week, the undiscounted from-price; €1,250 is the early price shown until 15 March 2027.",
+      "Optional extras include airport/station transfers, bus service, extra nights, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": null,
@@ -211,7 +297,19 @@
     "residential": true,
     "sport": "basketball",
     "start_date": "2026-08-17",
-    "whats_included": "[\"For school-age children; no numeric age range stated.\", \"Residential p…"
+    "whats_included": [
+      "For school-age children; no numeric age range stated.",
+      "Residential package: 7 days and 6 nights.",
+      "Three meals per day.",
+      "Two basketball training sessions per day, indoors and outdoors.",
+      "Competitions, tournaments and relay races.",
+      "Hikes and recreational activities.",
+      "Camp T-shirt.",
+      "Bus transport to the camp is available as an optional extra for €15 each way; it must be booked with the camp package.",
+      "Trainers: Š. Stanionis and G. Tumasonis.",
+      "Registration deposit: €150.",
+      "Source: https://nka.lt/stovyklos/nka-skills-camp-2026/"
+    ]
   },
   {
     "age_max": 17,
@@ -231,7 +329,18 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-07-25",
-    "whats_included": "[\"Season template: venue dates are 4 July–7 August 2027; only exact sess…"
+    "whats_included": [
+      "Season template: venue dates are 4 July–7 August 2027; only exact sessions listed under Available camp dates are offered.",
+      "Weekly package fee: £1,885 per week.",
+      "15 hours of English language tuition per week.",
+      "15 hours of tennis coaching per week.",
+      "Tennis coach-to-player ratio of 1:6.",
+      "On-campus accommodation with three meals per day.",
+      "A minimum of one year's playing experience is required.",
+      "English reports and end-of-course certificates.",
+      "Players are assessed at the start of each week and placed into tennis class groups based on ability.",
+      "Source: https://www.exsportise.co.uk/tennis-academy"
+    ]
   },
   {
     "age_max": 16,
@@ -251,7 +360,18 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-07-04",
-    "whats_included": "[\"Season template: venue dates are 27 June–7 August 2027; only exact ses…"
+    "whats_included": [
+      "Season template: venue dates are 27 June–7 August 2027; only exact sessions listed under Available camp dates are offered.",
+      "Weekly package fee: £1,885 per week.",
+      "15 hours of English language tuition per week.",
+      "15 hours of tennis coaching per week.",
+      "Tennis coach-to-player ratio of 1:6.",
+      "On-campus accommodation with three meals per day.",
+      "A minimum of one year's playing experience is required.",
+      "English reports and end-of-course certificates.",
+      "Players are assessed at the start of each week and placed into tennis class groups based on ability.",
+      "Source: https://www.exsportise.co.uk/tennis-academy"
+    ]
   },
   {
     "age_max": 17,
@@ -271,7 +391,17 @@
     "residential": true,
     "sport": "football",
     "start_date": "2027-07-11",
-    "whats_included": "[\"For boys and girls aged 9 to 17.\", \"Sunday to Friday; check-in Sunday …"
+    "whats_included": [
+      "For boys and girls aged 9 to 17.",
+      "Sunday to Friday; check-in Sunday from 17:00; five nights in residence.",
+      "Three training sessions each day, one exclusively in English, one experience activity, and pool.",
+      "Two Adidas Campus Real Madrid kits (shirts, shorts, and socks), backpack, bottle, and cap.",
+      "Full board: breakfast, lunch, afternoon snack, and dinner.",
+      "Guided Santiago Bernabéu Stadium Tour, including museum and official store.",
+      "Price is €1,375 per week, the undiscounted from-price; €1,250 is the early price shown until 15 March 2027.",
+      "Optional extras include airport/station transfers, bus service, extra nights, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 12,
@@ -291,7 +421,21 @@
     "residential": true,
     "sport": "multi-sport",
     "start_date": "2027-06-27",
-    "whats_included": "[\"Age group: 9–12 years.\", \"7 nights.\", \"Accommodation in campsite cabin…"
+    "whats_included": [
+      "Age group: 9–12 years.",
+      "7 nights.",
+      "Accommodation in campsite cabins.",
+      "Four meals daily plus evening snacks by the campfire.",
+      "Experienced teaching and service staff.",
+      "Sauna and hot tub visits.",
+      "Canoe, SUP board and quad bike rental.",
+      "Laser tag and archery equipment rental.",
+      "Sports activities and equipment, team games, group activities, games and competitions.",
+      "Prizes for sports game winners and camp photographs.",
+      "Bedding, pillow and blanket are not included; optional rental is EUR 10 for the camp.",
+      "Optional transport from Riga via Ogre and Aizkraukle to the campsite and return costs EUR 30.",
+      "Source: https://sportanometne.lv/"
+    ]
   },
   {
     "age_max": 18,
@@ -311,7 +455,25 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-06-06",
-    "whats_included": "[\"20.5 hours of tennis training; court/player ratio 1:4.\", \"Tennis compe…"
+    "whats_included": [
+      "20.5 hours of tennis training; court/player ratio 1:4.",
+      "Tennis competition on Saturdays.",
+      "Development of mental skills needed to compete.",
+      "10 hours of sports activities.",
+      "5 hours of “Building a Champion” activities.",
+      "8 hours of leisure and recreational activities in Mallorca.",
+      "RNA Games.",
+      "Guided visit to the Rafa Nadal Museum.",
+      "Barbecue dinner and trophy ceremony.",
+      "Lunch and mid-morning snack.",
+      "Welcome pack.",
+      "Players are grouped by age and level.",
+      "7 nights' accommodation in the Academy's supervised residence; check-in and check-out on Sunday.",
+      "Round-trip airport transfer service.",
+      "Medical care, physiotherapy and nutrition services if necessary.",
+      "Full board.",
+      "Source: https://www.rafanadalacademy.com/en/programs/summer-tennis-camp-junior/"
+    ]
   },
   {
     "age_max": 17,
@@ -331,7 +493,15 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-07-19",
-    "whats_included": "[\"For boys and girls aged 9 to 17; designed for participants who already…"
+    "whats_included": [
+      "For boys and girls aged 9 to 17; designed for participants who already have a foundation in football.",
+      "Monday to Friday, 09:00–19:00.",
+      "More hours of on-field training per day than Campus ONE and a lower coach-to-participant ratio; training is in groups.",
+      "Two training kits (one white and one black), boot bag, backpack, cap, and reusable bottle.",
+      "Price is €1,095 per week, the undiscounted from-price; €995 is the early price shown until 15 March 2027.",
+      "Optional extras include bus service, official Adidas uniform, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 17,
@@ -351,7 +521,18 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-07-04",
-    "whats_included": "[\"Season template: venue dates are 4 July–31 July 2027; only exact sessi…"
+    "whats_included": [
+      "Season template: venue dates are 4 July–31 July 2027; only exact sessions listed under Available camp dates are offered.",
+      "Weekly package fee: £1,885 per week.",
+      "15 hours of English language tuition per week.",
+      "15 hours of tennis coaching per week.",
+      "Tennis coach-to-player ratio of 1:6.",
+      "On-campus accommodation with three meals per day.",
+      "A minimum of one year's playing experience is required.",
+      "English reports and end-of-course certificates.",
+      "Players are assessed at the start of each week and placed into tennis class groups based on ability.",
+      "Source: https://www.exsportise.co.uk/tennis-academy"
+    ]
   },
   {
     "age_max": null,
@@ -371,7 +552,20 @@
     "residential": false,
     "sport": "tennis",
     "start_date": "2027-10-25",
-    "whats_included": "[\"For children and young people; training groups are arranged by age and…"
+    "whats_included": [
+      "For children and young people; training groups are arranged by age and experience.",
+      "Daily tennis training covering technique, strokes, exercises and match practice.",
+      "Daily warm-up and athletic training.",
+      "Lunch during the shared break.",
+      "Camp T-shirt.",
+      "Games at the end of each day.",
+      "Tournament and awards ceremony on the final camp day.",
+      "Shared special event on the final camp evening.",
+      "Guest/nonmember full-week price; members pay €250 per week.",
+      "Individual camp days may be booked subject to availability for €60 per day.",
+      "Optional racket rental: €3 per day or €15 per week.",
+      "Source: https://www.janhofer-tennis.de/tenniscamps"
+    ]
   },
   {
     "age_max": null,
@@ -391,7 +585,20 @@
     "residential": false,
     "sport": "tennis",
     "start_date": "2027-07-19",
-    "whats_included": "[\"For children and young people; training groups are arranged by age and…"
+    "whats_included": [
+      "For children and young people; training groups are arranged by age and experience.",
+      "Daily tennis training covering technique, strokes, exercises and match practice.",
+      "Daily warm-up and athletic training.",
+      "Lunch during the shared break.",
+      "Camp T-shirt.",
+      "Games at the end of each day.",
+      "Tournament and awards ceremony on the final camp day.",
+      "Shared special event on the final camp evening.",
+      "Guest/nonmember full-week price; members pay €250 per week.",
+      "Individual camp days may be booked subject to availability for €60 per day.",
+      "Optional racket rental: €3 per day or €15 per week.",
+      "Source: https://www.janhofer-tennis.de/tenniscamps"
+    ]
   },
   {
     "age_max": 14,
@@ -411,7 +618,19 @@
     "residential": false,
     "sport": "basketball",
     "start_date": "2027-10-26",
-    "whats_included": "[\"Four days of camp and supervision by qualified, vetted coaches.\", \"Tra…"
+    "whats_included": [
+      "Four days of camp and supervision by qualified, vetted coaches.",
+      "Training visits and the opportunity to meet several ProB team players.",
+      "Catered warm lunch, snacks, fruit and water; pizza is ordered on the final camp day.",
+      "Camp T-shirt.",
+      "Certificate.",
+      "Competitions with prizes.",
+      "Two tickets to a 2. Basketball Bundesliga game.",
+      "Daily schedule: 09:00–16:00, with the final day ending at 14:00; check-in is available from 08:45 on the first day.",
+      "The listed €135 is the standard package price; €5 discounts are offered for registration by 2027-06-30, Iserlohn Kangaroos club members, and children registered together in pairs.",
+      "Date conflict: key facts list 2027-10-26 to 2027-10-29, while the description says 2027-11-02 to 2027-11-05; the key-facts dates are used.",
+      "Source: https://iserlohn-kangaroos.de/camp/sparkassen-ostercamp/"
+    ]
   },
   {
     "age_max": 14,
@@ -431,7 +650,21 @@
     "residential": true,
     "sport": "multi-sport",
     "start_date": "2027-06-12",
-    "whats_included": "[\"Age group: 11–14 years.\", \"7 nights.\", \"Accommodation in campsite cabi…"
+    "whats_included": [
+      "Age group: 11–14 years.",
+      "7 nights.",
+      "Accommodation in campsite cabins.",
+      "Four meals daily plus evening snacks by the campfire.",
+      "Experienced teaching and service staff.",
+      "Sauna and hot tub visits.",
+      "Canoe, SUP board and quad bike rental.",
+      "Laser tag and archery equipment rental.",
+      "Sports activities and equipment, team games, group activities, games and competitions.",
+      "Prizes for sports game winners and camp photographs.",
+      "Bedding, pillow and blanket are not included; optional rental is EUR 10 for the camp.",
+      "Optional transport from Riga via Ogre and Aizkraukle to the campsite and return costs EUR 30.",
+      "Source: https://sportanometne.lv/"
+    ]
   },
   {
     "age_max": 16,
@@ -478,7 +711,15 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-07-05",
-    "whats_included": "[\"For boys and girls aged 9 to 17; designed for participants who already…"
+    "whats_included": [
+      "For boys and girls aged 9 to 17; designed for participants who already have a foundation in football.",
+      "Monday to Friday, 09:00–19:00.",
+      "More hours of on-field training per day than Campus ONE and a lower coach-to-participant ratio; training is in groups.",
+      "Two training kits (one white and one black), boot bag, backpack, cap, and reusable bottle.",
+      "Price is €1,095 per week, the undiscounted from-price; €995 is the early price shown until 15 March 2027.",
+      "Optional extras include bus service, official Adidas uniform, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 16,
@@ -498,7 +739,18 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-07-11",
-    "whats_included": "[\"Season template: venue dates are 27 June–7 August 2027; only exact ses…"
+    "whats_included": [
+      "Season template: venue dates are 27 June–7 August 2027; only exact sessions listed under Available camp dates are offered.",
+      "Weekly package fee: £1,885 per week.",
+      "15 hours of English language tuition per week.",
+      "15 hours of tennis coaching per week.",
+      "Tennis coach-to-player ratio of 1:6.",
+      "On-campus accommodation with three meals per day.",
+      "A minimum of one year's playing experience is required.",
+      "English reports and end-of-course certificates.",
+      "Players are assessed at the start of each week and placed into tennis class groups based on ability.",
+      "Source: https://www.exsportise.co.uk/tennis-academy"
+    ]
   },
   {
     "age_max": 16,
@@ -518,7 +770,20 @@
     "residential": false,
     "sport": "basketball",
     "start_date": "2026-08-25",
-    "whats_included": "[\"Professional coaching by HammStars coaches and players\", \"Ability-adju…"
+    "whats_included": [
+      "Professional coaching by HammStars coaches and players",
+      "Ability-adjusted groups for beginners and advanced players",
+      "Exclusive camp equipment",
+      "Lunch, snacks and drinks",
+      "MIP and MVP awards",
+      "Games in the camp league",
+      "Parents' shooting contest on the final camp day",
+      "Free ticket to a home game of the first team",
+      "Price basis: full camp participation fee for non-members; HammStars members pay €160 and siblings pay €140",
+      "Registration deadline: 2026-07-15",
+      "Please provide relevant health or dietary information and jersey size in the registration comments",
+      "Source: https://wp2022.tus59-hammstars.de/?news=ardu-sport-sommercamp-2026-sei-dabei"
+    ]
   },
   {
     "age_max": 17,
@@ -538,7 +803,17 @@
     "residential": true,
     "sport": "football",
     "start_date": "2027-07-18",
-    "whats_included": "[\"For boys and girls aged 9 to 17.\", \"Sunday to Friday; check-in Sunday …"
+    "whats_included": [
+      "For boys and girls aged 9 to 17.",
+      "Sunday to Friday; check-in Sunday from 17:00; five nights in residence.",
+      "Three training sessions each day, one exclusively in English, one experience activity, and pool.",
+      "Two Adidas Campus Real Madrid kits (shirts, shorts, and socks), backpack, bottle, and cap.",
+      "Full board: breakfast, lunch, afternoon snack, and dinner.",
+      "Guided Santiago Bernabéu Stadium Tour, including museum and official store.",
+      "Price is €1,375 per week, the undiscounted from-price; €1,250 is the early price shown until 15 March 2027.",
+      "Optional extras include airport/station transfers, bus service, extra nights, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 17,
@@ -558,7 +833,15 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-07-26",
-    "whats_included": "[\"For boys and girls aged 9 to 17; designed for participants who already…"
+    "whats_included": [
+      "For boys and girls aged 9 to 17; designed for participants who already have a foundation in football.",
+      "Monday to Friday, 09:00–19:00.",
+      "More hours of on-field training per day than Campus ONE and a lower coach-to-participant ratio; training is in groups.",
+      "Two training kits (one white and one black), boot bag, backpack, cap, and reusable bottle.",
+      "Price is €1,095 per week, the undiscounted from-price; €995 is the early price shown until 15 March 2027.",
+      "Optional extras include bus service, official Adidas uniform, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 16,
@@ -578,7 +861,18 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-06-27",
-    "whats_included": "[\"Season template: venue dates are 27 June–7 August 2027; only exact ses…"
+    "whats_included": [
+      "Season template: venue dates are 27 June–7 August 2027; only exact sessions listed under Available camp dates are offered.",
+      "Weekly package fee: £1,885 per week.",
+      "15 hours of English language tuition per week.",
+      "15 hours of tennis coaching per week.",
+      "Tennis coach-to-player ratio of 1:6.",
+      "On-campus accommodation with three meals per day.",
+      "A minimum of one year's playing experience is required.",
+      "English reports and end-of-course certificates.",
+      "Players are assessed at the start of each week and placed into tennis class groups based on ability.",
+      "Source: https://www.exsportise.co.uk/tennis-academy"
+    ]
   },
   {
     "age_max": 17,
@@ -598,7 +892,16 @@
     "residential": true,
     "sport": "football",
     "start_date": "2027-06-27",
-    "whats_included": "[\"For boys and girls aged 9 to 17; designed for participants who already…"
+    "whats_included": [
+      "For boys and girls aged 9 to 17; designed for participants who already have a foundation in football.",
+      "Sunday to Saturday; seven days and six nights in residence.",
+      "More hours of on-field training per day than Campus ONE and a lower coach-to-participant ratio; training is in groups.",
+      "Two training kits (one white and one black), boot bag, backpack, cap, and reusable bottle.",
+      "Residential meals and accommodation; guided Santiago Bernabéu Stadium Tour.",
+      "Price is €1,940 per week, the undiscounted from-price; €1,750 is the early price shown until 15 March 2027.",
+      "Optional extras include airport/station transfers, bus service, extra nights, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 16,
@@ -618,7 +921,16 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-08-02",
-    "whats_included": "[\"For boys and girls aged 7 to 16.\", \"Monday to Friday, 09:00–18:00.\", \"…"
+    "whats_included": [
+      "For boys and girls aged 7 to 16.",
+      "Monday to Friday, 09:00–18:00.",
+      "Three training sessions each day, one exclusively in English, one experience activity, and pool.",
+      "One Adidas Campus Real Madrid kit (shirt, shorts, and socks), backpack, bottle, and cap.",
+      "Snack, lunch, and afternoon snack included.",
+      "Price is €695 per week, the undiscounted from-price; €625 is the early price shown until 15 March 2027.",
+      "Optional extras include bus service, official Adidas uniform, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 16,
@@ -638,7 +950,16 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-07-19",
-    "whats_included": "[\"For boys and girls aged 6 to 16.\", \"Monday to Friday, 09:00–13:15.\", \"…"
+    "whats_included": [
+      "For boys and girls aged 6 to 16.",
+      "Monday to Friday, 09:00–13:15.",
+      "Two training sessions each day, one exclusively in English, and one experience activity.",
+      "One Adidas Campus Real Madrid kit (shirt, shorts, and socks), backpack, bottle, and cap.",
+      "Mid-morning snack included.",
+      "Price is €435 per week, the undiscounted from-price; €395 is the early price shown until 15 March 2027.",
+      "Optional extras include bus service, official Adidas uniform, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": null,
@@ -658,7 +979,17 @@
     "residential": false,
     "sport": "football",
     "start_date": "2026-06-29",
-    "whats_included": "[\"For children born in 2012–2019; cohorts: Infantil (2012–2013), Alevín …"
+    "whats_included": [
+      "For children born in 2012–2019; cohorts: Infantil (2012–2013), Alevín (2014–2015), Benjamín (2016–2017), and Prebenjamín (2018–2019).",
+      "Football sessions and activities led by qualified coaches and educators.",
+      "Two T-shirts and two pairs of shorts for sessions.",
+      "Sports-focused English through games and workshops.",
+      "Activities include ball games, skill exercises, finishing, penalty kicks, and a final four-team mini-tournament.",
+      "Schedule: 10:00–15:00; optional extended hours from 09:00 and/or until 16:00.",
+      "Price is €400 per week; optional extended hours are available, but their price is not stated.",
+      "Participants can visit the national team dressing room, trophy exhibition, and VAR room, and eat at the residence facilities; overnight accommodation is not stated.",
+      "Source: https://rfef.es/es/noticias/ultimas-plazas-del-campus-rfef"
+    ]
   },
   {
     "age_max": 12,
@@ -678,7 +1009,21 @@
     "residential": true,
     "sport": "multi-sport",
     "start_date": "2027-07-18",
-    "whats_included": "[\"Age group: 9–12 years.\", \"7 nights.\", \"Accommodation in campsite cabin…"
+    "whats_included": [
+      "Age group: 9–12 years.",
+      "7 nights.",
+      "Accommodation in campsite cabins.",
+      "Four meals daily plus evening snacks by the campfire.",
+      "Experienced teaching and service staff.",
+      "Sauna and hot tub visits.",
+      "Canoe, SUP board and quad bike rental.",
+      "Laser tag and archery equipment rental.",
+      "Sports activities and equipment, team games, group activities, games and competitions.",
+      "Prizes for sports game winners and camp photographs.",
+      "Bedding, pillow and blanket are not included; optional rental is EUR 10 for the camp.",
+      "Optional transport from Riga via Ogre and Aizkraukle to the campsite and return costs EUR 30.",
+      "Source: https://sportanometne.lv/"
+    ]
   },
   {
     "age_max": 15,
@@ -698,7 +1043,16 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-03-22",
-    "whats_included": "[\"For girls and boys aged 7–15.\", \"Four-day football camp with eight tra…"
+    "whats_included": [
+      "For girls and boys aged 7–15.",
+      "Four-day football camp with eight training sessions following the Fundación Real Madrid Clinic methodology.",
+      "Game analysis with a personalised scorecard.",
+      "Values education and Best Teamplayer award.",
+      "Sports-appropriate nutrition.",
+      "Fundación Real Madrid Clinic jersey set, water bottle, sports bag and adidas training ball.",
+      "Optional extras are not included in the listed price: withdrawal protection (€45), personalised name or player name on the jersey (€20 or €16), and optional equipment.",
+      "Source: https://frmclinics.com/jfv-sassenburg-2027"
+    ]
   },
   {
     "age_max": 16,
@@ -718,7 +1072,16 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-06-14",
-    "whats_included": "[\"For boys and girls aged 7 to 16.\", \"Monday to Friday, 09:00–18:00.\", \"…"
+    "whats_included": [
+      "For boys and girls aged 7 to 16.",
+      "Monday to Friday, 09:00–18:00.",
+      "Three training sessions each day, one exclusively in English, one experience activity, and pool.",
+      "One Adidas Campus Real Madrid kit (shirt, shorts, and socks), backpack, bottle, and cap.",
+      "Snack, lunch, and afternoon snack included.",
+      "Price is €695 per week, the undiscounted from-price; €625 is the early price shown until 15 March 2027.",
+      "Optional extras include bus service, official Adidas uniform, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 17,
@@ -738,7 +1101,18 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-07-18",
-    "whats_included": "[\"Season template: venue dates are 4 July–7 August 2027; only exact sess…"
+    "whats_included": [
+      "Season template: venue dates are 4 July–7 August 2027; only exact sessions listed under Available camp dates are offered.",
+      "Weekly package fee: £1,885 per week.",
+      "15 hours of English language tuition per week.",
+      "15 hours of tennis coaching per week.",
+      "Tennis coach-to-player ratio of 1:6.",
+      "On-campus accommodation with three meals per day.",
+      "A minimum of one year's playing experience is required.",
+      "English reports and end-of-course certificates.",
+      "Players are assessed at the start of each week and placed into tennis class groups based on ability.",
+      "Source: https://www.exsportise.co.uk/tennis-academy"
+    ]
   },
   {
     "age_max": null,
@@ -758,7 +1132,20 @@
     "residential": true,
     "sport": "basketball",
     "start_date": "2026-08-09",
-    "whats_included": "[\"For school-age children; no numeric age range stated.\", \"Residential p…"
+    "whats_included": [
+      "For school-age children; no numeric age range stated.",
+      "Residential package: 7 days and 6 nights.",
+      "Three meals per day.",
+      "Two basketball training sessions per day, indoors and outdoors.",
+      "Competitions, tournaments and relay races.",
+      "Hikes and recreational activities.",
+      "Camp T-shirt.",
+      "Bus transport to the camp is available as an optional extra for €15 each way; it must be booked with the camp package.",
+      "A €15 professional physical preparation coach fee is payable on arrival in addition to the package price.",
+      "Trainers: A. Kanovalovas, M. Raipa, A. Kuzminskas and M. Valatkevičius.",
+      "Registration deposit: €150.",
+      "Source: https://nka.lt/stovyklos/nka-skills-camp-2026/"
+    ]
   },
   {
     "age_max": 17,
@@ -778,7 +1165,20 @@
     "residential": false,
     "sport": "tennis",
     "start_date": "2026-10-27",
-    "whats_included": "[\"Camp dates: Tuesday 27, Wednesday 28 and Thursday 29 October 2026.\", \"…"
+    "whats_included": [
+      "Camp dates: Tuesday 27, Wednesday 28 and Thursday 29 October 2026.",
+      "Pro Camp is for advanced players aged 10 to 17 years.",
+      "Focus on excellence, advanced tactics, competition, technique, performance and matchplay.",
+      "Practice of forehand, backhand, volley, serve, smash and drop shots; focus on topspin, slice and flat serve.",
+      "Tactical approach maximises the quantity and quality of balls hit per session.",
+      "High-intensity programme includes an off-court workout and an in-depth look at tactics and competition.",
+      "Tennis rackets and specialist training equipment are provided.",
+      "Daily session tariffs: 2 hours (10am–12 noon) £20; 3 hours (10am–1pm) £30; 4 hours (10am–2pm) £40. No multi-day package total is published.",
+      "Bring water and snacks; bring lunch for 3- or 4-hour sessions. No nuts, please.",
+      "Children are divided by ability and age; maximum coach-to-pupil ratio is 1:8.",
+      "Bad-weather cancellations are credited or refunded; unattended sessions are non-refundable.",
+      "Source: https://tennistigers.co.uk/courses-clubs/camps-and-holidays-tennis-tigers/"
+    ]
   },
   {
     "age_max": 6,
@@ -822,7 +1222,16 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-05-24",
-    "whats_included": "[\"For girls and boys aged 7 to 15\", \"Five-day football camp with 10 trai…"
+    "whats_included": [
+      "For girls and boys aged 7 to 15",
+      "Five-day football camp with 10 training sessions following the Fundación Real Madrid Clinic methodology",
+      "Match analysis with a personalised scorecard",
+      "Values education and Best Teamplayer award",
+      "Sports-appropriate nutrition",
+      "Fundación Real Madrid Clinic jersey set, water bottle, sports bag and adidas training ball",
+      "Optional extras are not included in the package price: withdrawal protection for €45, personalised name printing for €20, player-name printing for €16, second jersey set for €55, white all-weather jacket for €59, black all-weather jacket for €45, and Real Madrid cap for €22",
+      "Source: https://frmclinics.com/sv-markelfingen-1925-2027"
+    ]
   },
   {
     "age_max": null,
@@ -842,7 +1251,16 @@
     "residential": null,
     "sport": "basketball",
     "start_date": "2027-06-15",
-    "whats_included": "[\"Eligibility: born 2012–2008; boys and girls.\", \"For advanced players w…"
+    "whats_included": [
+      "Eligibility: born 2012–2008; boys and girls.",
+      "For advanced players who already compete at a high level and have serious ambitions to develop toward professional basketball.",
+      "Application and selection required; applicants must submit game footage for evaluation. Coaches assess level, experience, potential, and fit; only 30 players will be selected.",
+      "Five days of high-level basketball development in a competitive environment.",
+      "High-performance coaching, decision-making and game IQ development, competitive training, and individual development.",
+      "Video, coaching feedback, and basketball discussions.",
+      "Training environment emphasizes intensity, discipline, communication, and preparation.",
+      "Source: https://www.globalhoopscamp.com/"
+    ]
   },
   {
     "age_max": null,
@@ -862,7 +1280,16 @@
     "residential": null,
     "sport": "basketball",
     "start_date": "2027-06-08",
-    "whats_included": "[\"Eligibility: born 2016–2008; boys and girls.\", \"Previous basketball ex…"
+    "whats_included": [
+      "Eligibility: born 2016–2008; boys and girls.",
+      "Previous basketball experience required; designed for players who already train regularly in a basketball club or sports school; not designed for complete beginners.",
+      "Five days of international coaching, high-level player development, competition, basketball education, and other camp experiences.",
+      "Player development includes skills, decision-making, basketball IQ, game situations, and individual improvement.",
+      "Competition includes games, challenges, and different competitive formats.",
+      "Basketball education includes coach sessions, guest speakers, video, and basketball discussions.",
+      "International, English-speaking environment with players from different countries.",
+      "Source: https://www.globalhoopscamp.com/"
+    ]
   },
   {
     "age_max": 16,
@@ -882,7 +1309,16 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-06-28",
-    "whats_included": "[\"For boys and girls aged 6 to 16.\", \"Monday to Friday, 09:00–13:15.\", \"…"
+    "whats_included": [
+      "For boys and girls aged 6 to 16.",
+      "Monday to Friday, 09:00–13:15.",
+      "Two training sessions each day, one exclusively in English, and one experience activity.",
+      "One Adidas Campus Real Madrid kit (shirt, shorts, and socks), backpack, bottle, and cap.",
+      "Mid-morning snack included.",
+      "Price is €435 per week, the undiscounted from-price; €395 is the early price shown until 15 March 2027.",
+      "Optional extras include bus service, official Adidas uniform, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 16,
@@ -902,7 +1338,16 @@
     "residential": false,
     "sport": "football",
     "start_date": "2027-07-19",
-    "whats_included": "[\"For boys and girls aged 7 to 16.\", \"Monday to Friday, 09:00–18:00.\", \"…"
+    "whats_included": [
+      "For boys and girls aged 7 to 16.",
+      "Monday to Friday, 09:00–18:00.",
+      "Three training sessions each day, one exclusively in English, one experience activity, and pool.",
+      "One Adidas Campus Real Madrid kit (shirt, shorts, and socks), backpack, bottle, and cap.",
+      "Snack, lunch, and afternoon snack included.",
+      "Price is €695 per week, the undiscounted from-price; €625 is the early price shown until 15 March 2027.",
+      "Optional extras include bus service, official Adidas uniform, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 18,
@@ -922,7 +1367,21 @@
     "residential": false,
     "sport": "tennis",
     "start_date": "2027-07-25",
-    "whats_included": "[\"20.5 hours of tennis training; court/player ratio 1:4.\", \"Tennis compe…"
+    "whats_included": [
+      "20.5 hours of tennis training; court/player ratio 1:4.",
+      "Tennis competition on Saturdays.",
+      "Development of mental skills needed to compete.",
+      "10 hours of sports activities.",
+      "5 hours of “Building a Champion” activities.",
+      "8 hours of leisure and recreational activities in Mallorca.",
+      "RNA Games.",
+      "Guided visit to the Rafa Nadal Museum.",
+      "Barbecue dinner and trophy ceremony.",
+      "Lunch and mid-morning snack.",
+      "Welcome pack.",
+      "Players are grouped by age and level.",
+      "Source: https://www.rafanadalacademy.com/en/programs/summer-tennis-camp-junior/"
+    ]
   },
   {
     "age_max": 16,
@@ -942,7 +1401,18 @@
     "residential": true,
     "sport": "tennis",
     "start_date": "2027-07-25",
-    "whats_included": "[\"Season template: venue dates are 27 June–7 August 2027; only exact ses…"
+    "whats_included": [
+      "Season template: venue dates are 27 June–7 August 2027; only exact sessions listed under Available camp dates are offered.",
+      "Weekly package fee: £1,885 per week.",
+      "15 hours of English language tuition per week.",
+      "15 hours of tennis coaching per week.",
+      "Tennis coach-to-player ratio of 1:6.",
+      "On-campus accommodation with three meals per day.",
+      "A minimum of one year's playing experience is required.",
+      "English reports and end-of-course certificates.",
+      "Players are assessed at the start of each week and placed into tennis class groups based on ability.",
+      "Source: https://www.exsportise.co.uk/tennis-academy"
+    ]
   },
   {
     "age_max": 17,
@@ -962,7 +1432,17 @@
     "residential": true,
     "sport": "football",
     "start_date": "2027-06-20",
-    "whats_included": "[\"For boys and girls aged 9 to 17.\", \"Sunday to Friday; check-in Sunday …"
+    "whats_included": [
+      "For boys and girls aged 9 to 17.",
+      "Sunday to Friday; check-in Sunday from 17:00; five nights in residence.",
+      "Three training sessions each day, one exclusively in English, one experience activity, and pool.",
+      "Two Adidas Campus Real Madrid kits (shirts, shorts, and socks), backpack, bottle, and cap.",
+      "Full board: breakfast, lunch, afternoon snack, and dinner.",
+      "Guided Santiago Bernabéu Stadium Tour, including museum and official store.",
+      "Price is €1,375 per week, the undiscounted from-price; €1,250 is the early price shown until 15 March 2027.",
+      "Optional extras include airport/station transfers, bus service, extra nights, and Campus Protection Plan.",
+      "Source: https://campusexperiencermf.com/en/"
+    ]
   },
   {
     "age_max": 17,
@@ -982,7 +1462,18 @@
     "residential": false,
     "sport": "football",
     "start_date": "2026-08-10",
-    "whats_included": "[\"Two structured training sessions every day, morning and afternoon\", \"T…"
+    "whats_included": [
+      "Two structured training sessions every day, morning and afternoon",
+      "Training led by an official Real Madrid Foundation coach from Spain",
+      "Real Madrid Foundation full training kit: shirt, shorts and socks",
+      "Games and challenges",
+      "Lunch provided daily",
+      "Age-appropriate groups",
+      "Certificate of completion using Real Madrid Foundation methodology",
+      "Day camp running from morning to afternoon; no overnight stay",
+      "Price is €599 for the camp package",
+      "Source: https://www.rmfclinicsestonia.com/en/sign-up"
+    ]
   },
   {
     "age_max": 16,
@@ -1002,7 +1493,21 @@
     "residential": false,
     "sport": "tennis",
     "start_date": "2027-03-30",
-    "whats_included": "[\"Camp dates: Tuesday 30 and Wednesday 31 March and Thursday 1 April 202…"
+    "whats_included": [
+      "Camp dates: Tuesday 30 and Wednesday 31 March and Thursday 1 April 2027.",
+      "Base Camp is open to children aged 8 to 16 years.",
+      "Tennis introduction adapted to the needs of older children.",
+      "Focus on coordination, balance, movement, concentration and confidence.",
+      "Racket, catching and ball skills; introduction to forehand, backhand, volley, serve and smash.",
+      "Tactical approach maximises the quantity and quality of balls hit per session.",
+      "Includes an off-court workout focused on fitness and footwork.",
+      "Tennis rackets and specialist training equipment are provided.",
+      "Daily session tariffs: 2 hours (10am–12 noon) £20; 3 hours (10am–1pm) £30; 4 hours (10am–2pm) £40. No multi-day package total is published.",
+      "Bring water and snacks; bring lunch for 3- or 4-hour sessions. No nuts, please.",
+      "Children are divided by ability and age; maximum coach-to-pupil ratio is 1:8.",
+      "Bad-weather cancellations are credited or refunded; unattended sessions are non-refundable.",
+      "Source: https://tennistigers.co.uk/courses-clubs/camps-and-holidays-tennis-tigers/"
+    ]
   },
   {
     "age_max": null,
@@ -1022,6 +1527,20 @@
     "residential": true,
     "sport": "football",
     "start_date": "2027-03-22",
-    "whats_included": "[\"Eligibility: men's and women's teams in the U11 to U19 age groups; tea…"
+    "whats_included": [
+      "Eligibility: men's and women's teams in the U11 to U19 age groups; team registration through a club or academy is required, and individual registrations are not eligible.",
+      "Full-board accommodation",
+      "Participation in the Lisbon Youth Cup or IberCup",
+      "Immersive experience at Benfica Campus",
+      "Official SL Benfica training kit and backpack",
+      "Daily training with qualified Benfica coaches",
+      "Team supervisor available 24/7",
+      "Visit to the Stadium and Museum",
+      "Menus prepared by Benfica’s Nutrition Department",
+      "Sports and health insurance",
+      "Transfers between hotel and Benfica Campus",
+      "Individual assessments and certificate",
+      "Source: https://www.slbenfica.pt/en-us/atividades/road-to-benfica-campus"
+    ]
   }
 ]

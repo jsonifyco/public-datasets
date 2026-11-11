@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Job postings from AI companies, including OpenAI, Anthropic and Cohere, with titles, teams, locations, workplace types and published salary ranges\. The published tables contain 5,262 rows\.
+AI company job postings from 42 companies incl\. OpenAI, Anthropic and Cohere: title, team, location, workplace type and published salary ranges, updated weekly\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-company-job-postings-5bae5dc811a8?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Job postings from AI companies, including OpenAI, Anthropic and Cohere, with tit
 
 ## The brief
 
-> I need this data: Job postings from AI companies, including OpenAI, Anthropic and Cohere, with titles, teams, locations, workplace types and published salary ranges\. The published tables contain 5,262 rows\.
+> I need this data: AI company job postings from 42 companies incl\. OpenAI, Anthropic and Cohere: title, team, location, workplace type and published salary ranges, updated weekly\.
 
 Summary from the public dataset description.
 
@@ -26,10 +26,10 @@ Published: 2026-11-09T07:02:07.554096Z · Producing pipeline version: 4
 | first\_seen\_date | company | ats | board | posting\_id | title | department | team |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026\-11\-09 | Scale AI | greenhouse | scaleai | 4750929005 | Quality Operations Lead, Gen AI | Gen AI Operations | None |
-| 2026\-10\-30 | Sierra | ashby | sierra | d0e78ab0\-92ac\-4fec\-a667\-837fa371b1db | Software Engineer, Agent \(New Grad 2027\) | Early Career | Agent Engineering New Grad |
 | 2026\-11\-09 | Baseten | ashby | baseten | 67a47938\-5cb8\-40c9\-b027\-3c2879f74c00 | Engineering Manager, Site Reliability Engineering | EPD | SRE |
 | 2026\-11\-09 | OpenAI | ashby | openai | f363932f\-2820\-4056\-9786\-14cb697f4a93 | Engineering Manager, API Multicloud | Applied AI | Applied AI Engineering |
 | 2026\-11\-09 | Cohere | ashby | cohere | 0cf19dbd\-bfa9\-425f\-a357\-e2bd874bb489 | Data Annotation Specialist, Safety | Data Quality \(Contract\) | Safety Annotation |
+| 2026\-11\-09 | OpenAI | ashby | openai | 80ca9623\-f911\-45fc\-b5dc\-47ccfc60b395 | Presentation Designer, Business Marketing | Marketing | Marketing |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

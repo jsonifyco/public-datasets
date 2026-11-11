@@ -7,7 +7,7 @@ Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan
 [Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 54
+- Active pipeline version: 56
 - Last published: 2026-11-02T14:53:40.285101Z
 
 ## The brief
@@ -218,6 +218,8 @@ flowchart LR
 - 2026-11-02T03:39:06.490363Z: temporary blocker
 - 2026-11-09T02:02:34.022135Z: no change
 - 2026-11-09T02:05:00.796561Z: repaired
+- 2026-11-11T12:35:12.855348Z: no change
+- 2026-11-11T12:36:57.350383Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9?action=get) — CSV or JSON · Email required
 

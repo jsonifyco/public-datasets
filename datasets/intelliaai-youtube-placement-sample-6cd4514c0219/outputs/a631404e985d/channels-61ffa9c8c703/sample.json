@@ -49,7 +49,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "My name is Jeremy Lefebvre and I created the Financial …",
+    "description": "My name is Jeremy Lefebvre and I created the Financial Education Channel as somewhere people from all backgrounds, countries etc can come and learn about Investing, Personal Finance and entrepreneurship!\n\nApply to join my private Stock group & Wealth Group with this link\n\nFAQ\n*What do you do each day?\nNow a days I focus most of my time on finding the next home run stocks, running my stock portfolios, help my private stock group members reach 6 figure, 7 figure and 8 figure milestones, and lastly record Youtube videos! I use to have a real estate marketing company before youtube took off. Before that I was a manager for a company named Quiktrip.\n\n*Wife Kids?\nYes I have a beautiful wife and 2 awesome little boys\n\n*When did you start the Financial Education channel?\nI started in  2016\n\n*Any advice to retail investors?\nDo Research and watch my videos on investing!",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -177,7 +177,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "My name is Ramin Nakisa and I started PensionCraft in 2…",
+    "description": "My name is Ramin Nakisa and I started PensionCraft in 2016 as I felt strongly that I wanted to teach people how to invest well for themselves so they could stop making costly mistakes and losing their money through having to pay unnecessarily high fees.\n\nBefore starting PensionCraft, I worked in investment banking as a strategist and I was a frequent contributor on CNBC and Bloomberg TV. I have written two books about finance and investment: one for professional investors and one that explains how to buy and sell volatility using exchange-traded products.\n\nI publish a new video on YouTube every Saturday and you can join me for a live Q&A on the 1st Thursday of every month at 7pm UK time.\n\nIf you want to learn how to become a better investor then why not join our friendly membership at pensioncraft.com?\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -192,7 +192,36 @@
       "financial news"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://pensioncraft.com\", \"title\": \"Website\"…",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://pensioncraft.com"
+      },
+      {
+        "title": "Many Happy Returns Podcast",
+        "url": "https://many-happy-returns.captivate.fm/listen"
+      },
+      {
+        "title": "Bluesky",
+        "url": "https://bsky.app/profile/pensioncraft.com"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/pension.craft"
+      },
+      {
+        "title": "FaceBook",
+        "url": "https://facebook.com/pensioncraft"
+      },
+      {
+        "title": "X",
+        "url": "https://x.com/PensionCraft"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/@thereal_pensioncraft"
+      }
+    ],
     "observation_id": "channels:UC9OIwUcx-Uss7xj7s1P5XGw:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -271,13 +300,41 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Chef Jean-Pierre is a James Beard–nominated chef, telev…",
+    "description": "Chef Jean-Pierre is a James Beard–nominated chef, television personality, and author of three cookbooks, with 60 years of professional experience.\nHe opened and operated one of America’s Top 100 restaurants for 22 years, later retiring from the restaurant business to open and run a cooking school that trained 42,000 students over 21 years.\nChef Jean-Pierre has hosted over 200 cooking shows distributed on PBS, airing in every television market in the United States, as well as in China and Australia. He has appeared 28 times on The Today Show and has also been a guest on Larry King Live, Regis and Kathie Lee, and The Lifetime Channel.\nAfter several years of retirement, he is now returning to once again teach and entertain with his fun, straightforward approach to gourmet cooking.\nCome learn to cook with Chef Jean-Pierre, where great food, great techniques, and great fun come together. As Chef Jean-Pierre likes to say:  “If you’re not having fun cooking, you’re not doing it right!”\n\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@ChefJeanPierre",
-    "keywords_topics": "[\"Cooking\", \"Gourmet Cooking\", \"Learn to Cook\", \"How to…",
+    "keywords_topics": [
+      "Cooking",
+      "Gourmet Cooking",
+      "Learn to Cook",
+      "How to Cook",
+      "Food",
+      "Recipes",
+      "Meals",
+      "Desserts",
+      "Dinner",
+      "chef",
+      "Food recipes",
+      "pasta",
+      "chicken",
+      "fish",
+      "ChefJeanPierre",
+      "Onyo",
+      "Onyo Meme",
+      "Easy Recipes",
+      "Fun Tutorials",
+      "Learn to Cook",
+      "Easy Dinner Recipes",
+      "Chef Cooks",
+      "Chef Jean Pierre",
+      "Jean Pierre",
+      "Cooking Channel",
+      "easy recipes",
+      "how to cook easy"
+    ],
     "language": "en",
     "links": [
       {
@@ -334,7 +391,40 @@
       "ahorro"
     ],
     "language": "es",
-    "links": "[{\"url\": \"https://youtube.com/@ValueSchoolYT\", \"title\":…",
+    "links": [
+      {
+        "title": "Nuestro nuevo canal de YouTube",
+        "url": "https://youtube.com/@ValueSchoolYT"
+      },
+      {
+        "title": "Visita nuestra web",
+        "url": "https://valueschool.es"
+      },
+      {
+        "title": "¡Síguenos en Twitter!",
+        "url": "https://twitter.com/Value_school"
+      },
+      {
+        "title": "Tik Tok",
+        "url": "https://tiktok.com/@value_school"
+      },
+      {
+        "title": "Nuestro Instagram",
+        "url": "https://instagram.com/value.school"
+      },
+      {
+        "title": "Nuestro Linkedin",
+        "url": "https://es.linkedin.com/company/valueschool"
+      },
+      {
+        "title": "Canal de Telegram",
+        "url": "https://t.me/valueschool_es"
+      },
+      {
+        "title": "Nuestro facebook",
+        "url": "https://es-es.facebook.com/valueschool"
+      }
+    ],
     "observation_id": "channels:UCpLie5obXFdf8T0NG-IRHsA:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -363,7 +453,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "I review technology from the inside. \n\nEcoFlow Global A…",
+    "description": "I review technology from the inside. \n\nEcoFlow Global Ambassador.\n\nSEND ME STUFF: \n125 E Main St. Suite 335\nAmerican Fork, Ut. \n84003\n\nANYTHING SENT TO THE ABOVE ADDRESS will not be returned. \nContact: JerryRigEverything at gmail dot com\n\nVideos are for Entertainment Purposes only.  Attempt any repairs at your own risk. \n\nJerryRigEverything is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -391,7 +481,28 @@
       "most viewed"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://jerryrigeverything.com\", \"title\": \"Je…",
+    "links": [
+      {
+        "title": "JerryRigEverything.com",
+        "url": "https://jerryrigeverything.com"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/zacksjerryrig"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/JerryRigEverything"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/ZacksJerryRig"
+      },
+      {
+        "title": "Mova V70 Ultra Complete",
+        "url": "https://amzn.to/4glQR0M"
+      }
+    ],
     "observation_id": "channels:UCWFKCr40YwOZQx8FHU_ZqqQ:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -420,7 +531,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "RP Strength (Renaissance Periodization) is a company wi…",
+    "description": "RP Strength (Renaissance Periodization) is a company with one mission: to get as many people as possible into the best shape of their lives. We help people transform in 5 specific ways: \n\n1.) Customized hypertrophy training for less than a dollar a day through our RP Hypertrophy App.\n2.) Personalized diet coaching for less than a dollar a day through our RP Diet Coach App.\n3.) Free online fitness education through our YouTube videos, free mini-guides, ebooks, articles, and posts.\n4.) Advanced fitness education through our YouTube members channel and books.\n5.) Elite one-on-one coaching from our team of the world's most highly qualified fitness coaches. \n\nEnjoy as much of our free content as you like, and use the links below to get started!\n\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -478,7 +589,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "In the classic fable The Tortoise and the Hare, the tor…",
+    "description": "In the classic fable The Tortoise and the Hare, the tortoise didn’t win by being the fastest, he won by being consistent. Step by step, he kept moving forward. When it comes to building wealth, the same principle applies. It's not about speed, it's about steady progress over time.\n\nSubscribe to learn more about:\n\n▶︎ Personal Finance\n▶︎ Money & Investing\n▶︎ Building Wealth Slowly\n\nI am not a financial adviser. These videos are for educational and entertainment purposes only.  I am merely sharing my personal opinion.  Please seek professional help when needed.\n\nBrand Partnership - taekim@creatorsagency.co\nOther Inquiries - tae@financialtortoise.com\n\nFinancial Tortoise LLC\n",
     "failure_reason": null,
     "field_issues": {
       "keywords_topics": "Not exposed by normalized response or verified public About view",
@@ -537,7 +648,36 @@
       "cook"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://youtube.com/channel/UC19OYOBqkgVqgTIQ…",
+    "links": [
+      {
+        "title": "Click to Subscribe",
+        "url": "https://youtube.com/channel/UC19OYOBqkgVqgTIQxbsPdlw?reload=9?sub_confirmation=1"
+      },
+      {
+        "title": "My Coookbook",
+        "url": "https://thatdudecancook.com"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/thatdude_cancook"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/Thatdudecancook"
+      },
+      {
+        "title": "Tiktok",
+        "url": "https://tiktok.com/@thatdudecancook?lang=en"
+      },
+      {
+        "title": "Snapchat",
+        "url": "https://t.snapchat.com/G6ZR4TRR"
+      },
+      {
+        "title": "X",
+        "url": "https://x.com/SonnyHurrell"
+      }
+    ],
     "observation_id": "channels:UC19OYOBqkgVqgTIQxbsPdlw:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -572,7 +712,29 @@
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@growingannanas",
-    "keywords_topics": "[\"growingannanas\", \"hiit\", \"home workout\", \"intense hii…",
+    "keywords_topics": [
+      "growingannanas",
+      "hiit",
+      "home workout",
+      "intense hiit",
+      "workout of the day",
+      "hiit workout",
+      "no equipment workout hiit",
+      "at home workout routines",
+      "full body hiit workout no equipment",
+      "no repeat workout no equipment",
+      "new year challenge weight loss",
+      "at home workouts for women",
+      "full body workout men",
+      "calorie killer workout",
+      "30 min hiit workout",
+      "hiit workout at home",
+      "30 minute workout",
+      "30 minute cardio workout",
+      "full body workout at home",
+      "30 minute hiit workout",
+      "full body workout"
+    ],
     "language": "en",
     "links": [
       {
@@ -618,7 +780,34 @@
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@GamingBolt",
-    "keywords_topics": "[\"video games\", \"playstation 5 games\", \"xbox series x g…",
+    "keywords_topics": [
+      "video games",
+      "playstation 5 games",
+      "xbox series x games",
+      "xbox series s games",
+      "xbox games",
+      "playstation games",
+      "pc games",
+      "single player games",
+      "best video games",
+      "top video games",
+      "gamingbolt",
+      "new video games",
+      "video games graphics analysis and comparison",
+      "video game graphics",
+      "ps5 games",
+      "ps4 games",
+      "video game before you buy videos",
+      "video game reviews",
+      "video game updates",
+      "video games lists",
+      "video game editorials",
+      "video games",
+      "gaming",
+      "xbox one games",
+      "gaming videos",
+      "best gaming videos"
+    ],
     "language": "en",
     "links": [
       {
@@ -793,13 +982,42 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Seu dinheiro some igual seu contatinho em época de carn…",
+    "description": "Seu dinheiro some igual seu contatinho em época de carnaval? O salário cai e, do neida, PUFF, já era? \n\nTá tentando fazer renda extra, sair das dívidas ou finalmente começar a investir sem surtar? \n\nAqui na Me Poupe!, a gente fala de grana sem encheção de linguiça, sem economês e sem aquelas dicas óbvias que ninguém aguenta mais.\n\n🤯 Vem aqui pra chorar as pitangas comigo, me agradecer por mudar sua vida, falar com a Nath ou com o time… tô aqui pro que você precisar: atendimento@mepoupe.com\n\n💜 Quer ser parceir@ da desfudência? Clica no link: parcerias@mepoupe.com\n\n👀 É da imprensa? Pode hablar aqui: imprensa@mepoupe.com\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@MePoupe",
-    "keywords_topics": "[\"tesouro direto\", \"ações\", \"empreendedorismo\", \"negóci…",
+    "keywords_topics": [
+      "tesouro direto",
+      "ações",
+      "empreendedorismo",
+      "negócios",
+      "economizar",
+      "investimento para iniciantes",
+      "Nathalia Arcuri",
+      "investimento",
+      "investidor",
+      "investidora",
+      "investir",
+      "renda extra",
+      "me poupe",
+      "tesouro direto",
+      "tesouro selic",
+      "nath",
+      "nath arcuri",
+      "dinheiro",
+      "ações",
+      "fundos imobiliarios",
+      "criptomoedas",
+      "finanças",
+      "renda fixa",
+      "educação financeira",
+      "como ganhar dinheiro",
+      "tesouro direto",
+      "me poupe",
+      "renda variável"
+    ],
     "language": "pt",
     "links": [
       {
@@ -847,13 +1065,44 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "👇 Workout Plans & Cookbook\n\nWho are the B.U.F.F. Dudes?…",
+    "description": "👇 Workout Plans & Cookbook\n\nWho are the B.U.F.F. Dudes? We're brothers Hudson & Brandon White. And on this channel you'll find healthy food recipes, gym exercise tutorials, meal prep ideas, free gym workout routines and a healthy mix of comedy, entertainment and more. All geared towards how to lose fat and build muscle on your journey to becoming a fellow Buff Dude.\n\n\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@buffdudes",
-    "keywords_topics": "[\"Fitness\", \"Health\", \"Lifestyle\", \"Comedy\", \"Gym Comed…",
+    "keywords_topics": [
+      "Fitness",
+      "Health",
+      "Lifestyle",
+      "Comedy",
+      "Gym Comedy",
+      "Gym Funny",
+      "Fitness Challenges",
+      "Workout Challenges",
+      "Food",
+      "Meal Prep",
+      "Food Challenges",
+      "Gym beginner",
+      "exercise tutorial",
+      "workout plan",
+      "12 week plan",
+      "diet challenge",
+      "beginner workout",
+      "bodybuilding",
+      "workout routines",
+      "strength training",
+      "nutrition tips",
+      "fitness motivation",
+      "gym workouts",
+      "muscle building",
+      "healthy lifestyle",
+      "fitness challenges",
+      "workout plans",
+      "fitness vlogging",
+      "weightlifting",
+      "fitness transformations"
+    ],
     "language": "en",
     "links": [
       {
@@ -901,13 +1150,46 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Just a group of mates battling to become awesome home c…",
+    "description": "Just a group of mates battling to become awesome home cooks.\n\nFrom our studio in London, we’re joined by millions of passionate chefs and ‘normals’ around the world to explore, learn and have a laugh around food.\n\nEach week we serve up three new videos for you to devour - catch them on Monday, Wednesday and Sunday at 5pm GMT.\n\nWanna chat about partnering with us? Drop us an email partnerships@sortedfood.com\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@SortedFood",
-    "keywords_topics": "[\"sorted food\", \"Sorted\", \"food\", \"cooking\", \"chefs\", \"…",
+    "keywords_topics": [
+      "sorted food",
+      "Sorted",
+      "food",
+      "cooking",
+      "chefs",
+      "home cooks",
+      "chef vs home cook",
+      "kitchen gadgets",
+      "food review",
+      "taste test",
+      "blind taste test",
+      "cooking challenge",
+      "recipe challenge",
+      "British food",
+      "UK food",
+      "budget vs premium",
+      "cheap vs expensive food",
+      "kitchen equipment",
+      "cooking tips",
+      "food entertainment",
+      "sortedfood",
+      "budget",
+      "cheap",
+      "best",
+      "review",
+      "rank",
+      "pretentious",
+      "recipe",
+      "normals",
+      "global",
+      "world",
+      "eating"
+    ],
     "language": "en",
     "links": [
       {
@@ -955,7 +1237,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Shockingly good tech videos! Presented by Overclock Med…",
+    "description": "Shockingly good tech videos! Presented by Overclock Media\n\nDenki でんき means electricity in Japanese. AKA, the common thread that runs through the devices we can't live without... but also love talking about!\n\nFrom the newest smartphone releases, whacky unboxing and a hint of Japanese pop-culture, Denki isn't your run-of-the-mill channel. Step back and appreciate tech through our lens. \n\nDenki is an Overclock Media, Inc. production.\n\ncontact: ken@overclockmedia.com\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -1008,7 +1290,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "My mission is to provide my viewers with actionable con…",
+    "description": "My mission is to provide my viewers with actionable content that enables them to create financial wealth. My videos are a reflection of my real-world experience as a real estate investor, stock market investor, student of finance, and entrepreneur. \n\nThis channel allows me to share my passion for personal finance, stock market investing, real estate investing, and entrepreneurship. I produce content that I would want to watch, and because of that, I give 100% effort in every video that I make. I also believe in complete transparency and open communication with my audience.\n\nBusiness inquiries - please email:\nsponsorships@whiteboardfinance.com\n\nMy FREE 7 Day Money Roadmap:\nhttps://whiteboardfinance.com/roadmap\n\nJoin My Private Community:\nwww.wbfuniversity.com\n\nFollow me on:\nInstagram - https://www.instagram.com/whiteboardfinance\n",
     "failure_reason": null,
     "field_issues": {
       "keywords_topics": "Not exposed by normalized response or verified public About view",
@@ -1111,7 +1393,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Hi! I'm Maangchi! My channel is all about cooking, eati…",
+    "description": "Hi! I'm Maangchi! My channel is all about cooking, eating, and enjoying Korean cuisine with your family and friends.\n\nCooking wholesome and delicious food and sharing it with loved ones is very important for me, so here you'll find the best of my best recipes. If you like food, and like sharing food with other people, we're going to be instant friends!\n\nThank you for your interest in my recipes & take care!",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -1130,7 +1412,32 @@
       "YouTube video recipe"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://maangchi.com\", \"title\": \"All my recip…",
+    "links": [
+      {
+        "title": "All my recipes",
+        "url": "https://maangchi.com"
+      },
+      {
+        "title": "Maangchi on Twitter",
+        "url": "https://twitter.com/maangchi"
+      },
+      {
+        "title": "Maangchi on Instagram",
+        "url": "https://instagram.com/maangchi"
+      },
+      {
+        "title": "Maangchi on TikTok",
+        "url": "https://tiktok.com/@maangchitime"
+      },
+      {
+        "title": "Maangchi Facebook",
+        "url": "https://facebook.com/maangchi"
+      },
+      {
+        "title": "Maangchi's Amazon author page",
+        "url": "https://amazon.com/Maangchi/e/B004KIBAJ8/ref=sr_ntt_srch_lnk_1?qid=1434029222"
+      }
+    ],
     "observation_id": "channels:UC8gFadPgK2r1ndqLI04Xvvw:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1159,9 +1466,14 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Learn how to cook real deal, authentic Chinese food!  W…",
+    "description": "Learn how to cook real deal, authentic Chinese food!  We post recipes every weekend (unless we happen to be travelling) :)\n\nWe're Steph and Chris - a food-obsessed couple that lives in Shenzhen, China.  Steph is from Guangzhou and loves cooking food from throughout China - you'll usually be watching her behind the wok.  Chris is a long-term expat from America that's been living in China and loving it for the last 12 years - you'll be listening to his explanations and recipe details.\n\nThis channel is all about learning how to cook the same taste that you'd get in China. Our goal for each video is to give you a recipe that would at least get you close to what's made by some of our favorite restaurants here.  Because of that, our recipes are no-holds-barred Chinese when it comes to style and ingredients - but feel free to ask for tips about adaptations and sourcing too!",
     "failure_reason": null,
-    "field_issues": "{\"country\": \"Not exposed by normalized response or veri…",
+    "field_issues": {
+      "country": "Not exposed by normalized response or verified public About view",
+      "keywords_topics": "Not exposed by normalized response or verified public About view",
+      "language": "Curated expected content language; video caption language is recorded separately",
+      "verified": "Not exposed by normalized response or verified public About view"
+    },
     "handle": "@ChineseCookingDemystified",
     "keywords_topics": null,
     "language": "en",
@@ -1203,15 +1515,67 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Cassey Ho is a Designer and Creator whose mission is to…",
+    "description": "Cassey Ho is a Designer and Creator whose mission is to inspire joy and solve problems through innovative product design. With over 20M followers and over 6B views, Cassey has nurtured a community who has watched her build her two brands from scratch. It all started with Blogilates, which began with one Pilates video posted to YouTube in 2009, that eventually turned into a worldwide fitness movement inspiring young women to gain confidence through her fun workouts. In 2016, Cassey launched POPFLEX, an active apparel brand, which highlights her creativity as a designer. Because every single product is developed with so much thoughtfulness, her designs have not only gone viral, they've been granted patents, and have even been seen on celebrities such as Taylor Swift, Lizzo and JVN! In 2025, Cassey launched her second apparel brand, Blogilates, designed exclusively for Target, featuring romantic activewear at affordable prices. \n\nCassey Ho\n300 Beardsley Lane\nSte C101\nAustin, TX 78746\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@blogilates",
-    "keywords_topics": "[\"workout for women\", \"ab workouts\", \"total body workou…",
+    "keywords_topics": [
+      "workout for women",
+      "ab workouts",
+      "total body workout",
+      "lose weight",
+      "free workouts",
+      "pilates",
+      "exercise",
+      "toning",
+      "weight loss",
+      "home workout",
+      "full length workout videos",
+      "free workout videos",
+      "cardio workouts",
+      "how to lose weight",
+      "burn fat",
+      "female workout exercise",
+      "female workout routine",
+      "best workout for women",
+      "workout",
+      "workouts",
+      "best workouts",
+      "best workout"
+    ],
     "language": "en",
-    "links": "[{\"url\": \"https://popflexactive.com\", \"title\": \"POPFLEX…",
+    "links": [
+      {
+        "title": "POPFLEX",
+        "url": "https://popflexactive.com"
+      },
+      {
+        "title": "Blogilates x Target",
+        "url": "https://bit.ly/3Ku6jZ0"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/blogilates"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/@blogilates"
+      },
+      {
+        "title": "Blogilates.com",
+        "url": "https://blogilates.com"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/blogilates"
+      },
+      {
+        "title": "Body by Blogilates App!",
+        "url": "https://bit.ly/bodybyblogilatesapp"
+      }
+    ],
     "observation_id": "channels:UCIJwWYOfsCfz6PjxbONYXSg:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1240,15 +1604,74 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "IGN brings you daily videos about the latest gaming and…",
+    "description": "IGN brings you daily videos about the latest gaming and entertainment news and up to the minute events coverage.\n\nSubscribe to IGN’s YouTube channel for video games, tech, TV, movie news, reviews, exclusive previews, and home-brewed shows like Devs React to Speedruns and IGN Inside Stories.\n\nDaily Fix - Gaming and entertainment news every Monday through Friday.\nIGN First - Exclusive coverage of upcoming games every month.\nDevs React to Speedruns - Weekly on Saturdays.\nIGN Inside Stories - The occasional deep dive featurette\n\nFor more content, visit IGN.com or check out our other channels:\n\nIGN Games - https://www.youtube.com/IGNGames\nIGN Movies and TV - https://www.youtube.com/CineFix\nIGN Guides - https://www.youtube.com/c/IGNGuides\nIGN Game Trailers - https://www.youtube.com/GameTrailers\nIGN Movie Trailers - https://www.youtube.com/IGNMovieTrailers\n\nThis is only a small taste of the videos and content available from IGN. Get more, visit http://www.ign.com\n\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@IGN",
-    "keywords_topics": "[\"IGN\", \"IGN.com\", \"Entertainment\", \"Video Games\", \"Gam…",
+    "keywords_topics": [
+      "IGN",
+      "IGN.com",
+      "Entertainment",
+      "Video Games",
+      "Game",
+      "Reviews",
+      "Movie",
+      "Trailer",
+      "Walkthrough",
+      "cheats",
+      "gameplay",
+      "e3",
+      "gaming",
+      "videogames",
+      "gamer",
+      "videogaming",
+      "video games",
+      "consoles",
+      "game reviews",
+      "video game reviews",
+      "tech",
+      "gear",
+      "trailers",
+      "console",
+      "xbox",
+      "360",
+      "ps3",
+      "playstation",
+      "PC",
+      "wii",
+      "wii u",
+      "3ds",
+      "vita"
+    ],
     "language": "en",
-    "links": "[{\"url\": \"https://ign.com\", \"title\": \"IGN.com\"}, {\"url\"…",
+    "links": [
+      {
+        "title": "IGN.com",
+        "url": "https://ign.com"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/ign"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/ign"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/igndotcom/?hl=en"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/@ign?lang=en"
+      },
+      {
+        "title": "iTunes",
+        "url": "https://itunes.apple.com/us/app/ign-video-game-news-reviews/id284819997?mt=8"
+      }
+    ],
     "observation_id": "channels:UCKy1dAqELo0zrOtPkf0eTMw:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1277,7 +1700,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "I'm Kenji López-Alt. I'm the author of the James Beard …",
+    "description": "I'm Kenji López-Alt. I'm the author of the James Beard award-winning books The Food Lab and The Wok, a New York Times columnist, and a former restaurant worker. I'm also the author of the best-selling children's book, Every Night is Pizza Night.  Get them anywhere you buy your books, or for signed copies shipped anywhere in the world, order them from Book Larder: https://booklarder.com/search?q=kenji%20lopez-alt\n\nJoin my free Patreon to get full recipes and articles: https://www.patreon.com/kenjilopezalt\n\nI have a podcast! It's called The Recipe with Kenji and Deb and I host it with my friend Deb Perelman of Smitten Kitchen. You can get it here: https://www.therecipepodcast.com/\n\nOn this channel you'll mostly find my cooking videos. For food recommendations and other content (mostly around Seattle), check out my alt channel, @JKenjiLopezMain\n\nWhen I'm not writing books or spending time with my family, I like to play music and explore Seattle.\n",
     "failure_reason": null,
     "field_issues": {
       "keywords_topics": "Not exposed by normalized response or verified public About view",
@@ -1287,7 +1710,32 @@
     "handle": "@JKenjiLopezAlt",
     "keywords_topics": null,
     "language": "en",
-    "links": "[{\"url\": \"https://patreon.com/kenjilopezalt\", \"title\": …",
+    "links": [
+      {
+        "title": "Full Recipes and Articles",
+        "url": "https://patreon.com/kenjilopezalt"
+      },
+      {
+        "title": "Order personalized books",
+        "url": "https://booklarder.com/search?q=kenji lopez-alt"
+      },
+      {
+        "title": "Follow me on Instagram",
+        "url": "https://instagram.com/kenjilopezalt/?hl=en"
+      },
+      {
+        "title": "Follow my second channel",
+        "url": "https://youtube.com/channel/UCbznjGMPIXKWvJn-4sVFQBw"
+      },
+      {
+        "title": "Follow my Tik Tok",
+        "url": "https://tiktok.com/@j.kenji.lopezalt"
+      },
+      {
+        "title": "My Website",
+        "url": "https://kenjilopezalt.com"
+      }
+    ],
     "observation_id": "channels:UCqqJQ_cXSat0KIAVfIfKkVA:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1316,7 +1764,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "My name is James Delmage and I provide step-by-step ins…",
+    "description": "My name is James Delmage and I provide step-by-step instructions so you can easily prepare and enjoy New York-style, restaurant-worthy, Italian-American food right in your own kitchen.  My recipes were handed down from my Grandmother to me, and I am so excited to keep her legacy alive by sharing them with you.  Follow me at www.sipandfeast.com for more Italian-inspired recipes.\n\nSubscribe for more!  New Videos every week.  Most weeks on Thursdays. \n\nDisclosure: As an Amazon Associate, I earn from qualifying purchases. \n\n\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -1335,7 +1783,28 @@
       "jim delmage"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://sipandfeast.com/cookbook\", \"title\": \"…",
+    "links": [
+      {
+        "title": "Sip and Feast Cookbook",
+        "url": "https://sipandfeast.com/cookbook"
+      },
+      {
+        "title": "Sip and Feast Website",
+        "url": "https://sipandfeast.com"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/sipandfeast"
+      },
+      {
+        "title": "Patreon",
+        "url": "https://patreon.com/sipandfeast"
+      },
+      {
+        "title": "Newsletter",
+        "url": "https://sipandfeast.com/subscribe"
+      }
+    ],
     "observation_id": "channels:UCbyjYRUS9gADwAGuUxcfVcA:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1385,7 +1854,40 @@
       "mac"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://lttstore.com\", \"title\": \"Our Products…",
+    "links": [
+      {
+        "title": "Our Products",
+        "url": "https://lttstore.com"
+      },
+      {
+        "title": "\"Podcast\"",
+        "url": "https://cms.megaphone.fm/channel/LMG6425578600"
+      },
+      {
+        "title": "Floatplane",
+        "url": "https://floatplane.com/ltt"
+      },
+      {
+        "title": "Labs",
+        "url": "https://lttlabs.com"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/techlinkedyt"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/TechLinked"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/techlinkedyt"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/@techlinkedyt"
+      }
+    ],
     "observation_id": "channels:UCeeFfhMcJa1kjtfZAGskOCA:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1420,9 +1922,66 @@
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@clipset",
-    "keywords_topics": "[\"Clipset\", \"Carolina Denia\", \"Apple\", \"Huawei\", \"Xiaom…",
+    "keywords_topics": [
+      "Clipset",
+      "Carolina Denia",
+      "Apple",
+      "Huawei",
+      "Xiaomi",
+      "Samsung",
+      "review",
+      "unboxing",
+      "fotografia",
+      "gaming",
+      "videojuegos",
+      "nintendo",
+      "playstation",
+      "xbox",
+      "amazon",
+      "google",
+      "windows",
+      "iphone",
+      "ipad",
+      "movil",
+      "tablet",
+      "gadget",
+      "noticias tecnologia",
+      "canal tecnología",
+      "comparativa móviles",
+      "móvil plegable",
+      "ps5",
+      "xbox series",
+      "iphone 15",
+      "galaxy s24",
+      "xiaomi"
+    ],
     "language": "es",
-    "links": "[{\"url\": \"https://clipset.com\", \"title\": \"clipset\"}, {\"…",
+    "links": [
+      {
+        "title": "clipset",
+        "url": "https://clipset.com"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/clipset"
+      },
+      {
+        "title": "tiktok",
+        "url": "https://tiktok.com/@clipset"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/clipset"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/clipset"
+      },
+      {
+        "title": "tienda clipset",
+        "url": "https://amazon.es/shop/clipset"
+      }
+    ],
     "observation_id": "channels:UCYkoAtIMi6oFG_8SO5YrauQ:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1451,14 +2010,33 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Hey all, we're here for one reason - to make your food …",
+    "description": "Hey all, we're here for one reason - to make your food life better. And to entertain you - ok, so I guess that's two reasons. In any case, if you love food that’s big in taste but small in effort, and served with a side of irreverence, you’ve come to the right place. \n\nWatch my videos for easy-to-make recipes, kitchen basics and, if I may say so myself, a lot of fun. The goal is to show you that cooking doesn’t have to be hard, it just has to be delicious.\n--\nPlease SUBSCRIBE and enable notifications to see NEW EPISODES uploaded every MONDAY + WEDNESDAY + FRIDAY\n\nGo to https://shopstcg.com to pick up our products! 🔪🍳\n\nFor instant updates check out the links below and FOLLOW me on social media where you can stay up to date on new episodes and what's going on in my life. THANK YOU!",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately",
       "verified": "Not exposed by normalized response or verified public About view"
     },
     "handle": "@samthecookingguy",
-    "keywords_topics": "[\"youtube cooking channel\", \"best online cooking show\",…",
+    "keywords_topics": [
+      "youtube cooking channel",
+      "best online cooking show",
+      "quick recipes",
+      "easy recipes",
+      "food channel",
+      "cooking videos",
+      "cooking tips",
+      "best cooking channel",
+      "sam the cooking guy",
+      "sam the cooking guy youtube",
+      "sam the cooking guy channel",
+      "recipe videos",
+      "recipes",
+      "cooking",
+      "food",
+      "youtube sam the cooking guy",
+      "sam the cooking guy food",
+      "sam the cooking guy recipes"
+    ],
     "language": "en",
     "links": [
       {
@@ -1510,7 +2088,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "As a 34 year old real estate investor who started worki…",
+    "description": "As a 34 year old real estate investor who started working in real estate shortly after turning 18, with over $120,000,000 in residential sales since 2008, I've created this channel to share my successes, failures, and experiences in real estate, personal finance, and investing news. I'm also obsessed with frugality and credit card churning...a lot. So Subscribe! Because all the cool kids are doing it.  \n\nFeel free to follow me on Snapchat / Instagram: GPStephan",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -1610,7 +2188,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "The Metal Jesus is a long-haired rocker dude who runs a…",
+    "description": "The Metal Jesus is a long-haired rocker dude who runs a popular YouTube channel dedicated to Retro Gaming with a Heavy Metal soundtrack. With the help of the Seattle gaming community he covers Hidden Gems, Buying Guides as well as the popular I HATE U series, Gamer Eats and much more. He was also an employee at mega publisher Sierra On-Line in the 90s and he brings his love of big box PC gaming to his channel as well.  New videos every week!\n\nPatreon: http://www.Patreon.com/MetalJesusRocks\nBluesky: https://bsky.app/profile/metaljesusrocks.bsky.social\nFacebook: http://facebook.com/MetalJesusRocks\nThreads: https://www.threads.net/@metaljesusrocks\nWeb: http://www.MetalJesusRocks.com\nMJR Extras Gameplay Channel: https://www.youtube.com/MJRExtras\nTwitter: https://x.com/metaljesusrocks\n\nBuy Metal Jesus T-shirts: http://shrsl.com/?~9quw",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -1644,7 +2222,28 @@
       "dmp"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://patreon.com/metaljesusrocks\", \"title\"…",
+    "links": [
+      {
+        "title": "Patreon",
+        "url": "https://patreon.com/metaljesusrocks"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/MetalJesusRocks"
+      },
+      {
+        "title": "Bluesky",
+        "url": "https://bsky.app/profile/metaljesusrocks.bsky.social"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/metaljesusrocks"
+      },
+      {
+        "title": "MJR Extras",
+        "url": "https://youtube.com/mjrextras"
+      }
+    ],
     "observation_id": "channels:UCEFymXY4eFCo_AchSpxwyrg:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1673,7 +2272,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Are you looking to improve your finances but don't know…",
+    "description": "Are you looking to improve your finances but don't know where to start? Have you tried but find the content confusing? It doesn't need to be that way!\n\nHave you been struggling to get out of debt? Are you trying to take control of your household budget? Or maybe you want to take your first steps into the world of investing!\nThen this channel is for YOU\n\nTrust me I know how finances can make you feel\nI have messed up plenty of times and want to help you not do the same.\n\nLearning from my experiences and the knowledge I have built up from working in Investing, Debt and taxation-I’m going to  give you the advice I wish I had 10 years ago\n\nVideos will be posted weekly and I promise to deliver quality informative content without the Bull\n\nFor sponsorship enquires please contact me on will@getmost.co.uk\nFor anything else Damientalksmoney@gmail.com \n\n",
     "failure_reason": null,
     "field_issues": {
       "keywords_topics": "Not exposed by normalized response or verified public About view",
@@ -1725,7 +2324,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Criado em 2000 por Rita Lobo, Panelinha é site, editora…",
+    "description": "Criado em 2000 por Rita Lobo, Panelinha é site, editora de livros, produtora de TV,  marca de louças e canal do YouTube. Mas acima de tudo é garantia de receitas que funcionam. Aqui você encontra informações sobre alimentação saudável, dicas culinárias e truques de economia doméstica, além, claro, de receitas em vídeo. \n\nInscreva-se! http://www.youtube.com/sitepanelinha",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -1742,7 +2341,36 @@
       "aprenda a cozinhar"
     ],
     "language": "pt",
-    "links": "[{\"url\": \"https://panelinha.com.br\", \"title\": \"Site Pan…",
+    "links": [
+      {
+        "title": "Site Panelinha",
+        "url": "https://panelinha.com.br"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/panelinha_ritalobo"
+      },
+      {
+        "title": "Instagram da Rita",
+        "url": "https://instagram.com/ritalobo"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/Panelinha"
+      },
+      {
+        "title": "Pinterest",
+        "url": "https://br.pinterest.com/panelinha"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/panelinha"
+      },
+      {
+        "title": "Twitter da Rita",
+        "url": "https://twitter.com/ritalobo"
+      }
+    ],
     "observation_id": "channels:UCfSPnAlDUTiIOAvNOI-a4yQ:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -1771,7 +2399,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Hello! You've found Eurogamer's YouTube channel. Come o…",
+    "description": "Hello! You've found Eurogamer's YouTube channel. Come on in, make yourself at home, and prepare for games, good times and plenty of chaos.\n\nEurogamer has been peddling bad puns about games since 1999, and this is where we make our videos. Join Zoe Delahunty-Light, Jim Trinca and Ian Higton for features, let's plays, serious discussion, less serious discussion and much more. \n\nBecome a member to access custom emojis and exclusive Members-Only videos!\n\nFor business enquiries: sales@gamer-network.net\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -1843,13 +2471,53 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Welcome to the official YouTube channel for Emmymade fo…",
+    "description": "Welcome to the official YouTube channel for Emmymade formerly known as Emmymadeinjapan. \n\nI love learning about our world through food and invite you to come along for the ride. \n\nIf you have something which you think is extra special or unique in some way, or timely for me to try, please send me a direct message here on YouTube, or on FaceBook, and I'll see if I can fit it in. \n\nThanks for your continued support!\n\nHugs,  \nEmmy\n\ncontact: emmy@emmymade.com\n\n👩🏻 Website: https://www.emmymade.com/\n👚 Merch: https://www.bonfire.com/store/emmy-made/\n🌈 Instagram: http://instagram.com/emmymade\n🙃 Facebook: https://www.facebook.com/itsemmymadeinjapan/\n⏰ Tiktok: https://www.tiktok.com/@emmymadetok\n🎂 Cameo: https://www.cameo.com/emmymade\n🐝: emmymade extras: https://www.youtube.com/channel/UCQjEdAaQ0zzbrsD-biel8eg\n\n\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@emmymade",
-    "keywords_topics": "[\"sweets\", \"Japan\", \"candy\", \"Japanese\", \"DIY\", \"how-to…",
+    "keywords_topics": [
+      "sweets",
+      "Japan",
+      "candy",
+      "Japanese",
+      "DIY",
+      "how-to",
+      "tutorial",
+      "eating",
+      "strange",
+      "bizarre",
+      "tasting",
+      "review",
+      "snacks",
+      "emmymade",
+      "Eating?",
+      "Emmy",
+      "cooking",
+      "MRE",
+      "retro recipes",
+      "fruity fruits",
+      "food reviews",
+      "Popin Cookin",
+      "Homesteading",
+      "Hard Times",
+      "Prison Recipes",
+      "historic reviews",
+      "taste tests",
+      "historic recipes",
+      "country taste tests",
+      "recipes",
+      "recipe tests",
+      "reviews",
+      "taste test",
+      "eating",
+      "food",
+      "international",
+      "emmy",
+      "emmymadeinjapan",
+      "cooking show"
+    ],
     "language": "en",
     "links": [
       {
@@ -1956,7 +2624,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Hi there, welcome to my channel! This is where I share …",
+    "description": "Hi there, welcome to my channel! This is where I share my passion for cooking with the world. I started Laura in the Kitchen in 2010 as a way to help share the love of the kitchen with anyone willing to watch an learn.\n\nI had no idea that so many of you would tune in and love to cook with me! I've shared over a thousand recipes here on YouTube, all of them are super yummy, and I hope you enjoy them as much as I do!\n\nAs an immigrant from Italy, my passion for cooking began when I was a child, often remaking my Nonna’s recipes to feel connected to home.\n\nI'm not here to turn you into a perfect chef, just help you navigate the kitchen and make food everyone will love!",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -1981,7 +2649,28 @@
       "#recipe"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://laurainthekitchen.com\", \"title\": \"Lau…",
+    "links": [
+      {
+        "title": "LauraintheKitchen.com",
+        "url": "https://laurainthekitchen.com"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/laurainthekitchen"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/lauraskitchen"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/mrsvitale"
+      },
+      {
+        "title": "Website: LauraintheKitchen.com",
+        "url": "https://laurainthekitchen.com"
+      }
+    ],
     "observation_id": "channels:UCNbngWUqL2eqRw12yAwcICg:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -2010,7 +2699,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Natasha’s Kitchen is all about reliable, family-friendl…",
+    "description": "Natasha’s Kitchen is all about reliable, family-friendly recipes that actually work. From easy weeknight dinners to bakery-style desserts, you’ll find step-by-step video tutorials designed to help you cook with confidence.\n\nCreated by Natasha Kravchuk, New York Times Best-Selling author of Natasha’s Kitchen Cookbook, and trusted by millions of home cooks since 2009.\n\nNew videos every week.\n\nGet the cookbook:\nhttps://natashaskitchen.com/natashas-kitchen-cookbook-cover-reveal/\n\nDisclosure: As an Amazon Associate, I earn from qualifying purchases. \n\nFan Mail Letters:\nNatasha's Kitchen\nPO Box 161\nMeridian, ID 83680\nUSA\n\nPackages/ non-letter mail: \n1200 N. Main St. #161\nMeridian, ID 83680\nUSA\n\n♥Subscribe for more.",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -2122,13 +2811,37 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Want to learn to cook Middle Eastern food like a pro? T…",
+    "description": "Want to learn to cook Middle Eastern food like a pro? This is the place!\n\nAhlan Beekom (Welcome)! We're Obi & Salma, two Egyptian home cooks who are sharing everything we know about Middle Eastern food. We do a ton of research for every recipe, to guarantee you an incredible meal. \n\nSupport us at patreon.com/MiddleEats\n\nFor promotional enquiries please email: team@middleeats.co.uk\n\nSS-52L4T6\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
     },
     "handle": "@MiddleEats",
-    "keywords_topics": "[\"middle eats\", \"middleeats\", \"Middle eastern food\", \"m…",
+    "keywords_topics": [
+      "middle eats",
+      "middleeats",
+      "Middle eastern food",
+      "middle east food",
+      "middle east recipes",
+      "middle eastern recipes",
+      "egyptian food",
+      "egyptian recipes",
+      "lebanese food",
+      "lebanese recipes",
+      "turkish food",
+      "turkish recipes",
+      "ramadan recipes",
+      "ramadan dishes",
+      "arab recipes",
+      "how to cook middle eastern food",
+      "how to cook arab food",
+      "how to cook arab recipes",
+      "Middle eastern recipes english",
+      "Egyptian recipes english",
+      "lebanese recipes english",
+      "arab recipes english",
+      "turkish recipes english"
+    ],
     "language": "en",
     "links": [
       {
@@ -2292,7 +3005,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "I'm Erin Moriarity & welcome to Erin Talks Money. 😊\n\nLe…",
+    "description": "I'm Erin Moriarity & welcome to Erin Talks Money. 😊\n\nLet's talk all things finance. Money, investing, wealth building, with an extra emphasis on retirement related subjects (and social security).  Because the more you understand personal finance, the better life you can live.\n\nPlease note that this channel does not provide financial advice, videos are made for entertainment purposes only.\n\nNew Videos every week.\n\nPlease note that I DO NOT have accounts on X (formerly Twitter) or Facebook and I will NEVER reach out to you through WhatsApp. Please stay vigilant and be aware of imposter accounts. \n\n",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -2352,7 +3065,32 @@
     "handle": "@calimove",
     "keywords_topics": null,
     "language": "en",
-    "links": "[{\"url\": \"https://calimove.com\", \"title\": \"Calisthenics…",
+    "links": [
+      {
+        "title": "Calisthenics App",
+        "url": "https://calimove.com"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/pages/Calisthenic-Movement/154846744637610"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/calimove"
+      },
+      {
+        "title": "Website",
+        "url": "https://calimove.com"
+      },
+      {
+        "title": "Impressum",
+        "url": "https://calimove.com/p/disclosure"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/@calisthenicmovement?lang=de-DE"
+      }
+    ],
     "observation_id": "channels:UCZIIRX8rkNjVpP-oLMHpeDw:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",
@@ -2435,7 +3173,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "TWO CENTS is an educational show about personal finance…",
+    "description": "TWO CENTS is an educational show about personal finance. The show is created and written by Philip Olson, Julia Lorenz-Olson, Andrew Matthews, and Katie Graham.\n\nHosts Philip and Julia met at UT Austin while studying theater and were married in 2007 (while still students). He was licensed as an investment advisor in 2011 and received his CFP credentials in 2015. Julia started several small businesses before transitioning to the mortgage industry. In 2015 they founded SOLSTICE WEALTH, a fee-only financial planning firm dedicated to entrepreneurs and artists.\n\nAndrew Matthews and Katie Graham (also married IRL) direct, produce edit, and animate Two Cents. Together they’ve worked on multiple films including ZERO CHARISMA and BEST WORST MOVIE. Andrew has directed other PBSDS channel shows IT’S OKAY TO BE SMART and IT’S LIT. Katie was a YouTube vlogger back in 2006 making over 100 videos under the user name K80blog.",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -2484,7 +3222,13 @@
     },
     "description": "",
     "failure_reason": null,
-    "field_issues": "{\"country\": \"Not exposed by normalized response or veri…",
+    "field_issues": {
+      "country": "Not exposed by normalized response or verified public About view",
+      "keywords_topics": "Not exposed by normalized response or verified public About view",
+      "language": "Curated expected content language; video caption language is recorded separately",
+      "uploads": "PipelinePrimitiveError: source.call failed: RuntimeError: AnyAPI request failed (HTTP 502); do not blindly retry",
+      "verified": "Not exposed by normalized response or verified public About view"
+    },
     "handle": "@TheMoneyGuyShow",
     "keywords_topics": null,
     "language": "en",
@@ -2517,7 +3261,7 @@
       "videos_expected": 3000,
       "videos_succeeded": 2647
     },
-    "description": "Ali-A // Subscribe and join the #AliAarmy!\n\n► Welcome t…",
+    "description": "Ali-A // Subscribe and join the #AliAarmy!\n\n► Welcome to the best place for gaming news and gameplays! \n\nThis is my place to share videos of me having fun playing games! I play on the Playstation 4 (PS4), Xbox One (XB1), Xbox 360, PS3 and even Wii U. Sometimes I'll play other games too!\n\n► Check out my videos and \"Subscribe\" to see more - Enjoy! :D\n\n(For serious business enquires please contact: AliA@optalent.com)",
     "failure_reason": null,
     "field_issues": {
       "language": "Curated expected content language; video caption language is recorded separately"
@@ -2534,7 +3278,48 @@
       "fortnite update"
     ],
     "language": "en",
-    "links": "[{\"url\": \"https://ali-a.shop\", \"title\": \"*NEW* Merch!\"}…",
+    "links": [
+      {
+        "title": "*NEW* Merch!",
+        "url": "https://ali-a.shop"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/OMGitsAliA"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/@alia"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://instagram.com/alia"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://facebook.com/pages/Ali-A/153344868102361"
+      },
+      {
+        "title": "My recording device!",
+        "url": "https://e.lga.to/a"
+      },
+      {
+        "title": "My controllers!",
+        "url": "https://youtube.com/ScufGamingTV"
+      },
+      {
+        "title": "My headset!",
+        "url": "https://turtlebeach.com"
+      },
+      {
+        "title": "Improve your aim!",
+        "url": "https://kontrolfreek.com/?a_aid=ali-a&utm_source=aff&utm_medium=referral&utm_campaign=ali-a"
+      },
+      {
+        "title": "My gaming gear!",
+        "url": "https://en.roccat.org"
+      }
+    ],
     "observation_id": "channels:UCYVinkwSX7szARULgYpvhLw:2026-11-07T14:22:45.226389+00:00",
     "observed_at": "2026-11-07T14:22:45.226389+00:00",
     "record_type": "channels",

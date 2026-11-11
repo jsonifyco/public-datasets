@@ -1,0 +1,106 @@
+[
+  {
+    "name": "venue_id",
+    "type": "text"
+  },
+  {
+    "name": "venue_name",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "area",
+    "type": "text"
+  },
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "website",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "wheelchair_entrance",
+    "type": "text"
+  },
+  {
+    "name": "step_free_access",
+    "type": "text"
+  },
+  {
+    "name": "accessible_toilet",
+    "type": "text"
+  },
+  {
+    "name": "accessible_parking",
+    "type": "text"
+  },
+  {
+    "name": "accessible_seating",
+    "type": "text"
+  },
+  {
+    "name": "hearing_loop",
+    "type": "text"
+  },
+  {
+    "name": "accessibility_notes",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_ids",
+    "type": "jsonb"
+  },
+  {
+    "name": "listing_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "all_observations",
+    "type": "jsonb"
+  },
+  {
+    "name": "attribute_sources",
+    "type": "jsonb"
+  },
+  {
+    "name": "conflicts",
+    "type": "jsonb"
+  },
+  {
+    "name": "has_conflict",
+    "type": "boolean"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "web_check_note",
+    "type": "text"
+  },
+  {
+    "name": "source_checks",
+    "type": "jsonb"
+  },
+  {
+    "name": "possible_duplicate_ids",
+    "type": "jsonb"
+  },
+  {
+    "name": "excluded_unverified_evidence_count",
+    "type": "integer"
+  }
+]

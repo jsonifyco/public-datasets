@@ -7,7 +7,7 @@
     "evidence_quote": "Vice Chairman Natt with a second from Secretary Tucker made a motion to dismiss from the challenge voter #19 London Shannon. Motion carried unanimously.",
     "meeting_date": "2026-09-01",
     "meeting_location": "Forsyth County Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040",
-    "meeting_summary": "The board adopted its agenda and Augus…",
+    "meeting_summary": "The board adopted its agenda and August minutes, set conditional advance-voting hours for a December runoff, added a standing State Election Board activity agenda item, and heard voter challenges. It voted on challenges involving individual voters, then adjourned.",
     "meeting_time": "9 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -29,7 +29,7 @@
     "schedule_url": null,
     "seconded_by": "Anita Tucker",
     "source_index_url": "https://www.forsythco.com/government/forsyth-county-meetings/?view=past&meeting-group%5B0%5D=40",
-    "source_notes": "The hearing heading describes an Augus…",
+    "source_notes": "The hearing heading describes an August 26 challenge with 26 names, but the recorded motions identify voters numbered through #28. The State Election Board activity motion refers to an October 4 regular meeting, while the minutes elsewhere identify the next regular meeting as October 6. The motion to dismiss the challenge for voter #25 is recorded as failed with three named opponents but without a numerical tally.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -44,10 +44,10 @@
     "board": "Board of Voter Registrations and Elections",
     "checked_at": "2026-11-01T21:22:08.471464+00:00",
     "county": "Gwinnett",
-    "evidence_quote": "Code: OP | Challenged: TIFFANY EBLING …",
+    "evidence_quote": "Code: OP | Challenged: TIFFANY EBLING | Action: Accept Aceptar | Motion: O'Lenick | Second: Mirandola | Vote: 5 - 0 - 0 | Result: Passes Pases | Hancock: Yes / Sí | Mirandola: Yes / Sí | O'Lenick: Yes / Sí | Porter: Yes / Sí | Bray: Yes / Sí",
     "meeting_date": "2026-05-23",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board approved the agenda, voted t…",
+    "meeting_summary": "The board approved the agenda, voted to table a provisional registration pending additional information, voted to take it off the table after receiving information, and adjourned. The attached roll-call chart also records 133 individual challenged/provisional ballot decisions.",
     "meeting_time": "10:00am",
     "meeting_type": "other",
     "members_present": [
@@ -61,7 +61,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260523/m_57511_05.23.2026_BRE_Official_Meeting_Minutes___Provisionals___Chart.pdf",
     "motion": "Accept challenged/provisional ballot for TIFFANY EBLING (OP)",
     "motion_number": 33,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock: Yes / Sí",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola: Yes / Sí",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O'Lenick: Yes / Sí",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter: Yes / Sí",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray: Yes / Sí",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Alice O’Lenick",
     "record_id": "beb2bd0ab4d5bdfd-33",
@@ -69,7 +95,7 @@
     "schedule_url": null,
     "seconded_by": "Loretta Mirandola",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": " Attached roll-call chart evidence is …",
+    "source_notes": " Attached roll-call chart evidence is transcribed as exact column-header/cell pairs, not a continuous prose quotation. Registration identifiers are omitted. Named votes come from individual labeled cells, not the tally. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/314",
@@ -87,7 +113,7 @@
     "evidence_quote": "A motion was made by Chair Grant and seconded by Vice Chair Walker to adjourn the Regular Board Meeting. The vote was unanimous, and the motion carried.",
     "meeting_date": "2026-05-12",
     "meeting_location": "7946 North McDonough Street, Jonesboro, GA 30236",
-    "meeting_summary": "The board amended and adopted the agen…",
+    "meeting_summary": "The board amended and adopted the agenda, approved April 14 minutes, approved advance voting locations and hours for the June 16 runoff, scheduled May 22 special called meetings, authorized removal of 124 deceased voters from the rolls, and entered and returned from executive session before adjourning.",
     "meeting_time": "4:30 PM",
     "meeting_type": "regular",
     "members_present": [
@@ -108,7 +134,7 @@
     "schedule_url": null,
     "seconded_by": "Vice Chair Walker",
     "source_index_url": "https://www.claytoncountyga.gov/government/board-of-commissioners/county-boards/elections-and-registration-board/",
-    "source_notes": "Chair Grant made several motions and p…",
+    "source_notes": "Chair Grant made several motions and participated in discussion but is omitted from the PRESENT list. The report refers to both Deputy Director Brown and Director Brown, while Director Dozier is listed as not present. Agenda item 10 was amended to address July 28 advance voting sites, but the recorded motion under item 10 schedules May 22 special called meetings; no motion approving the July 28 sites is recorded. Document status: official_summary; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -126,7 +152,7 @@
     "evidence_quote": "Chair Grant made a motion to close the regular session at 5:10 PM and convene into executive session to discuss litigation and personnel matters. The motion was seconded by Vice Chair Walker and passed by a unanimous vote of 5-0.",
     "meeting_date": "2026-06-22",
     "meeting_location": "7946 North McDonough Street, Jonesboro, GA 30236",
-    "meeting_summary": "The board amended and adopted the agen…",
+    "meeting_summary": "The board amended and adopted the agenda, approved minutes from three prior meetings, and received operational and legislative updates. It convened an executive session to discuss litigation and personnel matters, reconvened in open meeting, and adjourned.",
     "meeting_time": "4:30 PM",
     "meeting_type": "regular",
     "members_present": [
@@ -148,7 +174,7 @@
     "schedule_url": null,
     "seconded_by": "Arvis Walker",
     "source_index_url": "https://www.claytoncountyga.gov/government/board-of-commissioners/county-boards/elections-and-registration-board/",
-    "source_notes": "Chair Dominique Grant arrived at 4:35 …",
+    "source_notes": "Chair Dominique Grant arrived at 4:35 PM at the start of Item 4. The record says the amended agenda passed 5-0 under Item 3, before her stated arrival. The record also says the chair entertained a motion to reconvene in open meeting but does not identify who made that motion.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -166,7 +192,7 @@
     "evidence_quote": "Secretary Tucker with a second from Vice Chairman Natt made a motion to adopt the minutes as prepared by staff. Motion carried unanimously.",
     "meeting_date": "2026-07-07",
     "meeting_location": "Forsyth County Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040",
-    "meeting_summary": "The board approved an amended agenda a…",
+    "meeting_summary": "The board approved an amended agenda and five sets of prior minutes; set advance voting locations, hours, drop box arrangements and certification meeting dates for the November general election and December runoff; addressed special elections, candidate qualifying and bylaws; and adjourned.",
     "meeting_time": "9 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -188,7 +214,7 @@
     "schedule_url": null,
     "seconded_by": "Joel Natt",
     "source_index_url": "https://www.forsythco.com/government/forsyth-county-meetings/?view=past&meeting-group%5B0%5D=40",
-    "source_notes": "The minutes are signed and certified c…",
+    "source_notes": "The minutes are signed and certified correct on August 4, 2026. The record says the board returned to the tabled candidate-qualifying discussion after finishing the agenda, although the related motions appear under the special-election item before the subsequent referendum and bylaws items.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -206,7 +232,7 @@
     "evidence_quote": "Vice Chairman Natt with a second from Secretary Tucker made a motion to dismiss from the challenge voter #4 Sarah Brady. Motion carried unanimously.",
     "meeting_date": "2026-03-30",
     "meeting_location": "Forsyth County Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040",
-    "meeting_summary": "The board amended and adopted the agen…",
+    "meeting_summary": "The board amended and adopted the agenda, heard two Bartelski voter challenges, voted on the challenged voters, entered executive session to discuss litigation, and adjourned. Advance-voting locations and costs were discussed without a motion.",
     "meeting_time": "8:30 a.m.",
     "meeting_type": "special",
     "members_present": [
@@ -228,7 +254,7 @@
     "schedule_url": null,
     "seconded_by": "Anita Tucker",
     "source_index_url": "https://www.forsythco.com/government/forsyth-county-meetings/?view=past&meeting-group%5B0%5D=40",
-    "source_notes": "Max Clavijo is listed as present but w…",
+    "source_notes": "Max Clavijo is listed as present but was absent for the two agenda-adoption votes and joined during item IV.A. The minutes call this a special called meeting but label the recessed and resumed meeting a regular meeting. The signed certification uses Deborah Stair and Maximo E. Clavijo, while the attendance list uses Debbie Stair and Max Clavijo.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -246,7 +272,7 @@
     "evidence_quote": "It was moved by Vice Chair Glade and seconded by Member Adams to adjourn the meeting. Motion carried unanimously. 9:50 am.",
     "meeting_date": "2026-08-03",
     "meeting_location": "Northside Cherokee/Bluffs Conference Center, 1130 Bluffs Parkway, Canton GA, 30114",
-    "meeting_summary": "The board approved its agenda and minu…",
+    "meeting_summary": "The board approved its agenda and minutes from two prior meetings, dispensed with reading a 46-name voter challenge list, and approved removing those 46 names from the voter registration rolls. The director reported on the Election Equipment Specifications and Standards Committee. The board adjourned at 9:50 am.",
     "meeting_time": "9:32 am",
     "meeting_type": "regular",
     "members_present": [
@@ -300,7 +326,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260121/m_42500_01.21.2026_BRE_Committees_Meeting_Minutes_OFFICIAL.pdf",
     "motion": "Propose 12 advance in-person voting locations for a vote at the 6:00pm regular board meeting, to be used for the primary every day from April 27 through May 15, 2026, from 7:00am to 7:00pm.",
     "motion_number": 2,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock- YES",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola- YES",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O’Lenick- YES",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter- YES",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray- YES",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Alice O’Lenick",
     "record_id": "9d4c0295110a00b7-2",
@@ -326,7 +378,7 @@
     "evidence_quote": "Motion by Ms. Watkins to approve the August 4, 2026 and August 10, 2026 meeting minutes. Second by Ms. Efrat. Motion Passed 5-0.",
     "meeting_date": "2026-09-14",
     "meeting_location": "100 Cherokee Street",
-    "meeting_summary": "The board approved the agenda and prio…",
+    "meeting_summary": "The board approved the agenda and prior meeting minutes, continued the temporary polling location for Dobbins 02, changed the temporary polling location for Elizabeth 03, and moved a ballot drop box from Milford Recreation Center to Gritters Library. It received election operations updates and entered and reconvened from executive session.",
     "meeting_time": "3:00 p.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -366,7 +418,7 @@
     "evidence_quote": "{Action: APPROVE; Motion: MIRANDOLA Second: PORTER Vote: 3-2-0; Hancock- NO; Mirandola- YES; O’Lenick- NO; Porter- YES; Bray- YES}",
     "meeting_date": "2026-08-25",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board approved the agenda and four…",
+    "meeting_summary": "The board approved the agenda and four sets of prior minutes, authorized six additional registrar offices to receive absentee ballots, approved unsealing election documents, recessed and reconvened, approved computation, canvassing and tabulation of special election runoff results, denied a proposed meeting rescheduling, and adjourned.",
     "meeting_time": "6:30pm",
     "meeting_type": "regular",
     "members_present": [
@@ -380,7 +432,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260825/m_10175_08.25.2026_BRE_Special_Called_Meeting_Minutes_OFFICIAL.pdf",
     "motion": "Authorize additional registrar offices at the six AIP locations without drop boxes to receive absentee-by-mail ballots under O.C.G.A. § 21-2-382(a) for the November general election and December runoff.",
     "motion_number": 6,
-    "named_votes": "[{\"vote\": \"no\", \"member_name\": \"David …",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock- NO",
+        "member_name": "David Hancock",
+        "vote": "no"
+      },
+      {
+        "evidence_quote": "Mirandola- YES",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O’Lenick- NO",
+        "member_name": "Alice O’Lenick",
+        "vote": "no"
+      },
+      {
+        "evidence_quote": "Porter- YES",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray- YES",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Loretta Mirandola",
     "record_id": "cb67c702c64f4ad8-6",
@@ -437,7 +515,7 @@
     "board": "Board of Registration and Elections",
     "checked_at": "2026-11-01T21:18:48.472463+00:00",
     "county": "Fulton",
-    "evidence_quote": "There being no further business, Chair…",
+    "evidence_quote": "There being no further business, Chair Allen entertained a motion to adjourn. Mrs. Crawford moved to adjourn the meeting; Ms. Adams seconded the motion. There being no further business on the agenda, the Board adjourned the meeting at 6:47 p.m.",
     "meeting_date": "2026-06-16",
     "meeting_location": null,
     "meeting_summary": "The board approved an amended agenda and changed the June 22 meeting time from 11 a.m. to 1 p.m. It discussed ballot rescanning procedures and financial disclosure requirements, received an election update, and adjourned.",
@@ -476,7 +554,7 @@
     "board": "Board of Registration and Elections",
     "checked_at": "2026-11-02T10:47:39.194080+00:00",
     "county": "DeKalb",
-    "evidence_quote": "Chair Swift moved to approve the minut…",
+    "evidence_quote": "Chair Swift moved to approve the minutes of the regularly scheduled meeting held on August 3, 2026, and special called meetings held on August 28, 2026 and August 31, 2026. The motion was seconded by Vice Chair Abhiraman and approved unanimously.",
     "meeting_date": "2026-09-10",
     "meeting_location": null,
     "meeting_summary": "The board approved the agenda and minutes from three prior meetings, heard public comments and the director’s report, briefly adjourned and reconvened, and later adjourned.",
@@ -516,7 +594,7 @@
     "board": "Board of Elections and Voter Registration",
     "checked_at": "2026-11-02T10:54:46.919983+00:00",
     "county": "Cherokee",
-    "evidence_quote": "Review of the Returns for the Cherokee…",
+    "evidence_quote": "Review of the Returns for the Cherokee County General Primary – Non-Partisan: After discussion, the Board members find that the number of ballots cast as of 3:00 PM does not exceed the number of active registered voters in Cherokee County. The Board acknowledges that there are four provisional ballots remaining to be counted, and that all UOCAVA ballots received have been processed. Also, all ballots requiring adjudication have been processed. Member Glade made a motion to approve the findings above; Second by Member Little. Motion carries 3-0.",
     "meeting_date": "2026-05-22",
     "meeting_location": "Board of Elections Office, 193 Lamar Haley Parkway, Canton, GA 30114",
     "meeting_summary": "At a special called meeting, the board approved the agenda and precertification findings for the Democratic, Republican, and Non-Partisan Cherokee County General Primary returns, then adjourned.",
@@ -529,7 +607,7 @@
     ],
     "minutes_status": "approved",
     "minutes_url": "https://cherokeegavotes.com/wp-content/uploads/2026/07/Signed-May-22-2026-BOER-Minutes-Review-of-Returns.pdf",
-    "motion": "Approve the precertification findings …",
+    "motion": "Approve the precertification findings for the Non-Partisan General Primary returns: ballots cast as of 3:00 PM did not exceed active registered voters; four provisional ballots remained to be counted; and all received UOCAVA ballots and ballots requiring adjudication had been processed.",
     "motion_number": 4,
     "named_votes": [],
     "outcome": "passed",
@@ -557,7 +635,7 @@
     "evidence_quote": "After the executive session, Chair Allen entertained a motion to reconvene from the executive session. The motion was made by Mr. Selby, seconded by Ms. Adams, and carried by a unanimous vote of 4-0.",
     "meeting_date": "2026-07-16",
     "meeting_location": null,
-    "meeting_summary": "The board amended its agenda, approved…",
+    "meeting_summary": "The board amended its agenda, approved four prior meeting minutes, called the November 3 ESPLOST election, authorized preparation of TSPLOST call language and scheduled a special meeting. It discussed operations, advance voting locations, financial disclosures and election reconciliation, then held an executive session.",
     "meeting_time": "11:00 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -578,7 +656,7 @@
     "schedule_url": null,
     "seconded_by": "Julie Adams",
     "source_index_url": "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/registration-and-elections-board/previous-meetings",
-    "source_notes": "The agenda amendment refers to the TSP…",
+    "source_notes": "The agenda amendment refers to the TSPLOST call as item #5, but the minutes label item #5 the Monthly Operations Report and discuss the TSPLOST call under item #6. The item #6 recording URL differs from the meeting-specific URL used elsewhere by one character.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://www.youtube.com/watch?v=D8xNbpfp1oQ",
@@ -596,7 +674,7 @@
     "evidence_quote": "Mr. Bowden moved to approve the agenda, and the motion was seconded by Ms. Lowman. The motion passed unanimously.",
     "meeting_date": "2026-08-03",
     "meeting_location": null,
-    "meeting_summary": "The board approved the agenda and prio…",
+    "meeting_summary": "The board approved the agenda and prior meeting minutes, certified the July 28 special election, recessed to execute certification documents, resumed, approved polling place changes and authorized special municipal elections for Brookhaven and Doraville. It also received operational and legislative updates and adjourned.",
     "meeting_time": "12:10 PM",
     "meeting_type": "regular",
     "members_present": [
@@ -618,7 +696,7 @@
     "schedule_url": null,
     "seconded_by": "Dele Lowman",
     "source_index_url": "https://dekalbcountyga.gov/departments/voter-registration-and-elections/leadership-board-members-meetings",
-    "source_notes": "The header states an end time of 12:51…",
+    "source_notes": "The header states an end time of 12:51 PM, but the adjournment entry states 6:02 p.m. The polling place changes motion is recorded as passing unanimously despite having no second. The minutes also describe a request to schedule a July 28 pre-certification meeting for July 30, dates preceding this August 3 meeting.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://dekalbcountyga.granicus.com/player/clip/5068?view_id=2&redirect=true",
@@ -633,10 +711,10 @@
     "board": "Board of Elections and Registration",
     "checked_at": "2026-11-02T10:45:27.759649+00:00",
     "county": "Cobb",
-    "evidence_quote": "Motion by Ms. Efrat to accept hand-del…",
+    "evidence_quote": "Motion by Ms. Efrat to accept hand-delivered absentee by mail ballots between the end of Advance Voting and Election Day on Saturday, May 16 from 9 a.m. to 5 p.m., Sunday, May 17 from 12 p.m. to 5 p.m., and Monday, May 18 from 8 a.m. to 5 p.m. Second by Ms. Watkins. Motion Passed 4-0. Mr. Turner was not in attendance.",
     "meeting_date": "2026-04-27",
     "meeting_location": "995 Roswell Street",
-    "meeting_summary": "The board approved the agenda, permane…",
+    "meeting_summary": "The board approved the agenda, permanent and temporary polling location changes, and specified hours for accepting hand-delivered absentee ballots at the Elections Office. It tabled discussion of accepting those ballots at advance voting locations without drop boxes until May 26, then entered and exited executive session.",
     "meeting_time": "6:00 p.m.",
     "meeting_type": "special",
     "members_present": [
@@ -672,10 +750,10 @@
     "board": "Board of Voter Registrations and Elections",
     "checked_at": "2026-11-01T21:22:08.471464+00:00",
     "county": "Gwinnett",
-    "evidence_quote": "Code: OP | Challenged: CHAPMAN WALSH |…",
+    "evidence_quote": "Code: OP | Challenged: CHAPMAN WALSH | Action: Accept Aceptar | Motion: O'Lenick | Second: Porter | Vote: 5 - 0 - 0 | Result: Passes Pases | Hancock: Yes / Sí | Mirandola: Yes / Sí | O'Lenick: Yes / Sí | Porter: Yes / Sí | Bray: Yes / Sí",
     "meeting_date": "2026-05-23",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board approved the agenda, voted t…",
+    "meeting_summary": "The board approved the agenda, voted to table a provisional registration pending additional information, voted to take it off the table after receiving information, and adjourned. The attached roll-call chart also records 133 individual challenged/provisional ballot decisions.",
     "meeting_time": "10:00am",
     "meeting_type": "other",
     "members_present": [
@@ -689,7 +767,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260523/m_57511_05.23.2026_BRE_Official_Meeting_Minutes___Provisionals___Chart.pdf",
     "motion": "Accept challenged/provisional ballot for CHAPMAN WALSH (OP)",
     "motion_number": 102,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock: Yes / Sí",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola: Yes / Sí",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O'Lenick: Yes / Sí",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter: Yes / Sí",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray: Yes / Sí",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Alice O’Lenick",
     "record_id": "beb2bd0ab4d5bdfd-102",
@@ -697,7 +801,7 @@
     "schedule_url": null,
     "seconded_by": "Richard Porter",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": " Attached roll-call chart evidence is …",
+    "source_notes": " Attached roll-call chart evidence is transcribed as exact column-header/cell pairs, not a continuous prose quotation. Registration identifiers are omitted. Named votes come from individual labeled cells, not the tally. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/314",
@@ -712,10 +816,10 @@
     "board": "Board of Voter Registrations and Elections",
     "checked_at": "2026-11-01T21:22:08.471464+00:00",
     "county": "Gwinnett",
-    "evidence_quote": "Code: OP | Challenged: VICTORIA YOUNG …",
+    "evidence_quote": "Code: OP | Challenged: VICTORIA YOUNG | Action: Accept Aceptar | Motion: O'Lenick | Second: Mirandola | Vote: 5 - 0 - 0 | Result: Passes Pases | Hancock: Yes / Sí | Mirandola: Yes / Sí | O'Lenick: Yes / Sí | Porter: Yes / Sí | Bray: Yes / Sí",
     "meeting_date": "2026-05-23",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board approved the agenda, voted t…",
+    "meeting_summary": "The board approved the agenda, voted to table a provisional registration pending additional information, voted to take it off the table after receiving information, and adjourned. The attached roll-call chart also records 133 individual challenged/provisional ballot decisions.",
     "meeting_time": "10:00am",
     "meeting_type": "other",
     "members_present": [
@@ -729,7 +833,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260523/m_57511_05.23.2026_BRE_Official_Meeting_Minutes___Provisionals___Chart.pdf",
     "motion": "Accept challenged/provisional ballot for VICTORIA YOUNG (OP)",
     "motion_number": 54,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock: Yes / Sí",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola: Yes / Sí",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O'Lenick: Yes / Sí",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter: Yes / Sí",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray: Yes / Sí",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Alice O’Lenick",
     "record_id": "beb2bd0ab4d5bdfd-54",
@@ -737,7 +867,7 @@
     "schedule_url": null,
     "seconded_by": "Loretta Mirandola",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": " Attached roll-call chart evidence is …",
+    "source_notes": " Attached roll-call chart evidence is transcribed as exact column-header/cell pairs, not a continuous prose quotation. Registration identifiers are omitted. Named votes come from individual labeled cells, not the tally. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/314",
@@ -752,10 +882,10 @@
     "board": "Board of Elections",
     "checked_at": "2026-11-02T10:53:06.069070+00:00",
     "county": "Chatham",
-    "evidence_quote": "Motion by Mr. Hall, seconded by Ms. He…",
+    "evidence_quote": "Motion by Mr. Hall, seconded by Ms. Heimes that the Minutes of the July meeting be approved. Mrs. Brown clarified that this meeting would include a public comment session, which Mr. Mahoney confirmed. He added that he and Chairman McRae had determined that it was best to suspend the public comment session for the joint meeting to shorten it. Mr. Mahoney called for the vote and the minutes were unanimously approved.",
     "meeting_date": "2026-08-10",
     "meeting_location": "1117 Eisenhower Drive, Suite F, Multipurpose room",
-    "meeting_summary": "The board approved the July 2026 minut…",
+    "meeting_summary": "The board approved the July 2026 minutes and City Church as the new polling location for precinct 2-09. Staff reported on election preparations, finances and facilities. The board held public comment and an executive session before adjourning.",
     "meeting_time": "3:30 P.M.",
     "meeting_type": "regular",
     "members_present": [
@@ -795,7 +925,7 @@
     "evidence_quote": "A motion was made by Board Member Wesley and seconded by Board Member Hope to allow Mr. Hussey to remain on the voter roll due to documentation that was provided to the Board of Registration. The vote was unanimous, and motion carried.",
     "meeting_date": "2026-03-20",
     "meeting_location": "7946 North McDonough Street, Jonesboro, GA 30236",
-    "meeting_summary": "The board adopted the agenda, approved…",
+    "meeting_summary": "The board adopted the agenda, approved minutes from three prior meetings, voted to retain Mr. Hussey and remove Ms. Lilly from the voter roll, and approved removal of 1,356 deceased voters. Staff provided election and facilities updates.",
     "meeting_time": "3:30 PM",
     "meeting_type": "regular",
     "members_present": [
@@ -834,7 +964,7 @@
     "evidence_quote": "Secretary Tucker with a second from Assistant Secretary Stair made a motion to dismiss from the challenge voter #13 Tawny Keeton. Motion carried 3-2 with Vice Chairman Natt and Member Clavijo opposed.",
     "meeting_date": "2026-03-30",
     "meeting_location": "Forsyth County Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040",
-    "meeting_summary": "The board amended and adopted the agen…",
+    "meeting_summary": "The board amended and adopted the agenda, heard two Bartelski voter challenges, voted on the challenged voters, entered executive session to discuss litigation, and adjourned. Advance-voting locations and costs were discussed without a motion.",
     "meeting_time": "8:30 a.m.",
     "meeting_type": "special",
     "members_present": [
@@ -867,7 +997,7 @@
     "schedule_url": null,
     "seconded_by": "Debbie Stair",
     "source_index_url": "https://www.forsythco.com/government/forsyth-county-meetings/?view=past&meeting-group%5B0%5D=40",
-    "source_notes": "Max Clavijo is listed as present but w…",
+    "source_notes": "Max Clavijo is listed as present but was absent for the two agenda-adoption votes and joined during item IV.A. The minutes call this a special called meeting but label the recessed and resumed meeting a regular meeting. The signed certification uses Deborah Stair and Maximo E. Clavijo, while the attendance list uses Debbie Stair and Max Clavijo.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -885,7 +1015,7 @@
     "evidence_quote": "{Action: Approve; Motion: MIRANDOLA Second: BRAY Vote: 4-0-0; Hancock-YES; Mirandola- YES; O’Lenick-ABSENT; Porter- YES; Bray- YES}",
     "meeting_date": "2026-05-22",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board amended and approved the age…",
+    "meeting_summary": "The board amended and approved the agenda to add a brief supervisor update, approved the 2027 operational budget, and adjourned. The agenda also listed precertification of the May 19, 2026 election results, but no motion on precertification was recorded.",
     "meeting_time": "3:00pm",
     "meeting_type": "certification",
     "members_present": [
@@ -898,7 +1028,28 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260522/m_68186_05.22.2026_BRE_Official_Meeting_Minutes___Precertification.pdf",
     "motion": "Approve the 2027 operational budget.",
     "motion_number": 2,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock-YES",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola- YES",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter- YES",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray- YES",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Loretta Mirandola",
     "record_id": "7c5006d68604420f-2",
@@ -906,7 +1057,7 @@
     "schedule_url": null,
     "seconded_by": "Amy Bray",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": "The English and Spanish descriptions o…",
+    "source_notes": "The English and Spanish descriptions of the May 19 election differ: the English calls it a General Primary Nonpartisan Election, while the Spanish calls it a special primary election. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/313",
@@ -921,7 +1072,7 @@
     "board": "Board of Voter Registrations and Elections",
     "checked_at": "2026-11-02T11:05:00.724683+00:00",
     "county": "Forsyth",
-    "evidence_quote": "Secretary Tucker with a second from As…",
+    "evidence_quote": "Secretary Tucker with a second from Assistant Secretary Stair made a motion to accept the recommendation from staff to accept provisional ballots #19 and #20 because the voters did provide their photo ID to the office by the deadline. Motion carried 3-0 with Vice Chairman Natt and Member Clavijo absent.",
     "meeting_date": "2026-06-23",
     "meeting_location": "Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, GA 30040",
     "meeting_summary": "The board reviewed turnout and provisional ballots for the June 16 general primary runoff, approved processing certain provisional ballots, rejected two improperly delivered absentee ballots, and certified the final election results.",
@@ -962,7 +1113,7 @@
     "evidence_quote": "Vice Chairman Natt with a second from Secretary Tucker made a motion that early tabulation shall take place no earlier than 10 a.m. on Election Day, Tuesday, May 19, 2026.",
     "meeting_date": "2026-04-07",
     "meeting_location": "Forsyth County Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040",
-    "meeting_summary": "The board adopted its agenda and March…",
+    "meeting_summary": "The board adopted its agenda and March 9 minutes, amended and approved its March 30 minutes, set election meeting and absentee-ballot processing times, postponed an advance-voting location decision, considered recording meetings and polling-place signs, and scheduled a voter-roll hearing.",
     "meeting_time": "9 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -984,7 +1135,7 @@
     "schedule_url": null,
     "seconded_by": "Anita Tucker",
     "source_index_url": "https://www.forsythco.com/government/forsyth-county-meetings/?view=past&meeting-group%5B0%5D=40",
-    "source_notes": "The motion to adopt the March 30 minut…",
+    "source_notes": "The motion to adopt the March 30 minutes as prepared was followed by a motion to postpone the item; no vote on the original adoption motion is recorded. No result is recorded for the early-tabulation motion. The polling-place signs motion was amended before the recorded vote; no separate result is recorded for the original wording. The recording motion is reported as failing 1-3 with one abstention.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -1002,7 +1153,7 @@
     "evidence_quote": "Chair Allen entertained a motion that the Board of Registration and Elections probable cause does not exist. The motion was made by Mr. Selby, seconded by Mrs. Crawford, and carried by a vote of 3-0, Abstention Adams.",
     "meeting_date": "2026-08-13",
     "meeting_location": null,
-    "meeting_summary": "The board amended the agenda, approved…",
+    "meeting_summary": "The board amended the agenda, approved prior minutes and municipal election agreements, adopted a financial disclosure resolution, discontinued routine daily pickup of advance-voting ballots, established a bifurcated public-comment format, and found no probable cause in a voter challenge.",
     "meeting_time": "11:00 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1029,7 +1180,7 @@
     "schedule_url": null,
     "seconded_by": "Teresa Crawford",
     "source_index_url": "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/registration-and-elections-board/previous-meetings",
-    "source_notes": "The challenge-hearing timestamp is pri…",
+    "source_notes": "The challenge-hearing timestamp is printed as “1:23:30- 2:224:44,” with an apparent malformed end time. Under item #5, the labels “Link” and “Timestamp” appear reversed. The minutes list approval of advance-voting locations as item #9 but record no motion on that item.",
     "state": "Georgia",
     "video_timestamp": "1:23:30- 2:224:44",
     "video_url": "https://www.youtube.com/watch?v=suHmYOOwsu0",
@@ -1047,7 +1198,7 @@
     "evidence_quote": "Vice Chairman Natt with a second from Secretary Tucker made a motion to adopt the agenda as reamended. Motion carried unanimously.",
     "meeting_date": "2026-02-23",
     "meeting_location": "Forsyth County Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040",
-    "meeting_summary": "The board amended and adopted its agen…",
+    "meeting_summary": "The board amended and adopted its agenda, approved Election Day polling-place changes for the Chestatee and South Forsyth precincts, conditionally designated polling places for the Matt and Hightower precincts, and approved advance voting at Sharon Springs Park Community Building. It also received updates on proposed election legislation and Soil and Water Conservation Commission qualifying.",
     "meeting_time": "9 a.m.",
     "meeting_type": "special",
     "members_present": [
@@ -1087,7 +1238,7 @@
     "evidence_quote": "Vice Chairman Natt with a second from Member Clavijo made a motion to uphold the challenge and remove from the rolls voter #2 David Karger. Motion carried 3-2 with Secretary Tucker and Assistant Secretary Stair opposed.",
     "meeting_date": "2026-08-04",
     "meeting_location": "Forsyth County Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040",
-    "meeting_summary": "The board adopted the agenda and July …",
+    "meeting_summary": "The board adopted the agenda and July minutes, postponed a decision on advance voting for a possible December runoff, and approved publication of two proposed bylaws changes. It considered voter challenges and registration qualifications, recessed for an executive session, and adjourned.",
     "meeting_time": "9 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1101,7 +1252,18 @@
     "minutes_url": "https://www.forsythco.com/app/uploads/2026/07/08.04.2026-Meeting-Minutes-Signed-UA.pdf",
     "motion": "Uphold the challenge and remove voter #2 David Karger from the rolls.",
     "motion_number": 8,
-    "named_votes": "[{\"vote\": \"no\", \"member_name\": \"Anita …",
+    "named_votes": [
+      {
+        "evidence_quote": "Secretary Tucker and Assistant Secretary Stair opposed",
+        "member_name": "Anita Tucker",
+        "vote": "no"
+      },
+      {
+        "evidence_quote": "Secretary Tucker and Assistant Secretary Stair opposed",
+        "member_name": "Debbie Stair",
+        "vote": "no"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Joel Natt",
     "record_id": "f8597991ee4ff673-8",
@@ -1109,7 +1271,7 @@
     "schedule_url": null,
     "seconded_by": "Max Clavijo",
     "source_index_url": "https://www.forsythco.com/government/forsyth-county-meetings/?view=past&meeting-group%5B0%5D=40",
-    "source_notes": "The minutes list the hearing agenda it…",
+    "source_notes": "The minutes list the hearing agenda items as IX A then IX B, but record a motion to discuss IX B before IX A; the subsequent motion narratives appear under IX A before IX B. The minutes also record a motion to remove voters from the rolls under IX A after stating that the challenger wished to withdraw that challenge.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -1124,10 +1286,10 @@
     "board": "Board of Voter Registrations and Elections",
     "checked_at": "2026-11-01T21:22:08.471464+00:00",
     "county": "Gwinnett",
-    "evidence_quote": "Code: OP | Challenged: CHRISTINA HOWEL…",
+    "evidence_quote": "Code: OP | Challenged: CHRISTINA HOWELL | Action: Accept Aceptar | Motion: O'Lenick | Second: Mirandola | Vote: 5 - 0 - 0 | Result: Passes Pases | Hancock: Yes / Sí | Mirandola: Yes / Sí | O'Lenick: Yes / Sí | Porter: Yes / Sí | Bray: Yes / Sí",
     "meeting_date": "2026-05-23",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board approved the agenda, voted t…",
+    "meeting_summary": "The board approved the agenda, voted to table a provisional registration pending additional information, voted to take it off the table after receiving information, and adjourned. The attached roll-call chart also records 133 individual challenged/provisional ballot decisions.",
     "meeting_time": "10:00am",
     "meeting_type": "other",
     "members_present": [
@@ -1141,7 +1303,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260523/m_57511_05.23.2026_BRE_Official_Meeting_Minutes___Provisionals___Chart.pdf",
     "motion": "Accept challenged/provisional ballot for CHRISTINA HOWELL (OP)",
     "motion_number": 99,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock: Yes / Sí",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola: Yes / Sí",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O'Lenick: Yes / Sí",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter: Yes / Sí",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray: Yes / Sí",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Alice O’Lenick",
     "record_id": "beb2bd0ab4d5bdfd-99",
@@ -1149,7 +1337,7 @@
     "schedule_url": null,
     "seconded_by": "Loretta Mirandola",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": " Attached roll-call chart evidence is …",
+    "source_notes": " Attached roll-call chart evidence is transcribed as exact column-header/cell pairs, not a continuous prose quotation. Registration identifiers are omitted. Named votes come from individual labeled cells, not the tally. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/314",
@@ -1167,7 +1355,7 @@
     "evidence_quote": "VICE CHAIR KENNEDY MADE A MOTION TO ALLOW DIRECTOR AND STAFF TO APPROVE ANY POTENTIAL POLLING PLACE CHANGES. MEMBER COCHRAN MADE A SECOND. UNANIMOUSLY APPROVED.",
     "meeting_date": "2026-05-19",
     "meeting_location": null,
-    "meeting_summary": "The board adopted the agenda, approved…",
+    "meeting_summary": "The board adopted the agenda, approved the April 14 minutes, corrected the May 13 minutes, authorized the director and staff to approve potential polling place changes for the June 16 runoff, tabled discussion of municipal IGAs, and voted to recess.",
     "meeting_time": "6:00 P.M.",
     "meeting_type": "regular",
     "members_present": [
@@ -1207,7 +1395,7 @@
     "evidence_quote": "Motion by Ms. Watkins to approve the amended calendar as presented. Second by Ms. Fisher. Motion Passed 5-0.",
     "meeting_date": "2026-01-12",
     "meeting_location": "100 Cherokee Street",
-    "meeting_summary": "The board amended its agenda, recommen…",
+    "meeting_summary": "The board amended its agenda, recommended approval of City of Marietta boundary changes, approved prior meeting minutes, appointed Michael D’Itri interim elections director, amended its 2026 meeting calendar, and approved advance in-person voting hours and locations for the March 10 special election.",
     "meeting_time": "3:00 p.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1247,7 +1435,7 @@
     "evidence_quote": "Motion by Ms. Fisher to approve the agenda as presented. Second by Ms. Efrat. Motion passed 3-0.",
     "meeting_date": "2026-07-13",
     "meeting_location": "100 Cherokee Street",
-    "meeting_summary": "The board approved the agenda and amen…",
+    "meeting_summary": "The board approved the agenda and amended June meeting minutes, received election office updates, adopted an amended policy for preparing to certify election returns, and called a November 3, 2026 special election for a SPLOST referendum. A motion to table the policy failed for lack of a second.",
     "meeting_time": "3:00 p.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1285,7 +1473,7 @@
     "evidence_quote": "{Action: APPROVE; Motion: O’LENICK Second: MIRANDOLA Vote: 5-0-0; Hancock-YES; Mirandola-\n           YES; O’Lenick-YES; Porter-YES; Bray-YES}",
     "meeting_date": "2026-07-15",
     "meeting_location": "Gwinnett County Justice and Administration Center, Auditorium, 75 Langley Drive, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board amended its agenda, approved…",
+    "meeting_summary": "The board amended its agenda, approved four prior meeting minutes, removed seven voters from consideration at a voter examination hearing, approved advance voting plans and election appointments, tabled an absentee-ballot return proposal, approved pre-election weekend ballot acceptance hours, and adjourned.",
     "meeting_time": "6:00pm",
     "meeting_type": "regular",
     "members_present": [
@@ -1299,7 +1487,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260715/m_42036_07.15.2026_Regular_Scheduled_Meeting_Minutes_OFFICIAL.pdf",
     "motion": "Approve the June 16, 2026 BRE special called meeting minutes.",
     "motion_number": 2,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock-YES",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola-\n           YES",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O’Lenick-YES",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter-YES",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray-YES",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Alice O’Lenick",
     "record_id": "edc6962dfbe1ff4e-2",
@@ -1307,7 +1521,7 @@
     "schedule_url": null,
     "seconded_by": "Loretta Mirandola",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": "The Spanish action block for the agend…",
+    "source_notes": "The Spanish action block for the agenda amendment names Mirandola as mover and Bray as seconder, contradicting the English block’s O’Lenick and Hancock. The minutes list Executive Session after the recorded 8:08pm adjournment but record no executive-session motion. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/333",
@@ -1325,7 +1539,7 @@
     "evidence_quote": "A motion was made by Vice Chair Walker, seconded by Board Member Wesley to Approve the Regular Board Meeting Minutes on February 10, 2026. The vote was unanimous, and motion carried.",
     "meeting_date": "2026-03-20",
     "meeting_location": "7946 North McDonough Street, Jonesboro, GA 30236",
-    "meeting_summary": "The board adopted the agenda, approved…",
+    "meeting_summary": "The board adopted the agenda, approved minutes from three prior meetings, voted to retain Mr. Hussey and remove Ms. Lilly from the voter roll, and approved removal of 1,356 deceased voters. Staff provided election and facilities updates.",
     "meeting_time": "3:30 PM",
     "meeting_type": "regular",
     "members_present": [
@@ -1364,7 +1578,7 @@
     "evidence_quote": "Chair Allen entertained a motion to approve the Absentee Drop-Off Proposal with Flipper Temple Church pending legal research. The motion was made by Mrs. Crawford, seconded by Mr. Selby and carried by a unanimous vote of 3-1, Nay Adams.",
     "meeting_date": "2026-03-16",
     "meeting_location": null,
-    "meeting_summary": "The board amended and approved its age…",
+    "meeting_summary": "The board amended and approved its agenda, approved an absentee ballot drop-off proposal pending legal research, and called a special election for Fulton County Commission District 4 for November 3, 2026. It did not convene in executive session.",
     "meeting_time": "1:00 p.m.",
     "meeting_type": "special",
     "members_present": [
@@ -1391,7 +1605,7 @@
     "schedule_url": null,
     "seconded_by": "Douglass Selby",
     "source_index_url": "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/registration-and-elections-board/previous-meetings",
-    "source_notes": "The title says “SPECIAL MEETING,” whil…",
+    "source_notes": "The title says “SPECIAL MEETING,” while the opening sentence calls it a “Regular Session.” The absentee drop-off vote is described as “unanimous” despite a 3-1 tally and an explicitly named nay. Four members are listed as present, but the agenda-approval tally is 3-0. The agenda amendment places the Commission District 4 discussion at item #5, while its heading is numbered #4.",
     "state": "Georgia",
     "video_timestamp": "5:45-38:30",
     "video_url": "https://www.youtube.com/watch?v=KNazIPMfM_0",
@@ -1406,10 +1620,10 @@
     "board": "Board of Voter Registrations and Elections",
     "checked_at": "2026-11-01T21:22:08.471464+00:00",
     "county": "Gwinnett",
-    "evidence_quote": "Code: OP | Challenged: BRIAN MILLS | A…",
+    "evidence_quote": "Code: OP | Challenged: BRIAN MILLS | Action: Accept Aceptar | Motion: O'Lenick | Second: Mirandola | Vote: 5 - 0 - 0 | Result: Passes Pases | Hancock: Yes / Sí | Mirandola: Yes / Sí | O'Lenick: Yes / Sí | Porter: Yes / Sí | Bray: Yes / Sí",
     "meeting_date": "2026-05-23",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board approved the agenda, voted t…",
+    "meeting_summary": "The board approved the agenda, voted to table a provisional registration pending additional information, voted to take it off the table after receiving information, and adjourned. The attached roll-call chart also records 133 individual challenged/provisional ballot decisions.",
     "meeting_time": "10:00am",
     "meeting_type": "other",
     "members_present": [
@@ -1423,7 +1637,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260523/m_57511_05.23.2026_BRE_Official_Meeting_Minutes___Provisionals___Chart.pdf",
     "motion": "Accept challenged/provisional ballot for BRIAN MILLS (OP)",
     "motion_number": 94,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock: Yes / Sí",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola: Yes / Sí",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O'Lenick: Yes / Sí",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter: Yes / Sí",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray: Yes / Sí",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Alice O’Lenick",
     "record_id": "beb2bd0ab4d5bdfd-94",
@@ -1431,7 +1671,7 @@
     "schedule_url": null,
     "seconded_by": "Loretta Mirandola",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": " Attached roll-call chart evidence is …",
+    "source_notes": " Attached roll-call chart evidence is transcribed as exact column-header/cell pairs, not a continuous prose quotation. Registration identifiers are omitted. Named votes come from individual labeled cells, not the tally. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/314",
@@ -1449,7 +1689,7 @@
     "evidence_quote": "MEMBER COCHRAN MADE A MOTION TO CERTIFY THE 2026 NONPARTISAN GENERAL ELECTION. MEMBER SHEAT MADE A SECOND. UNANIMOUSLY APPROVED.",
     "meeting_date": "2026-05-26",
     "meeting_location": null,
-    "meeting_summary": "The board adopted the agenda and certi…",
+    "meeting_summary": "The board adopted the agenda and certified the 2026 Democratic and Republican general primaries, the nonpartisan general election, and the Hall County special election. The special election certification passed 3-1; the other motions were unanimously approved.",
     "meeting_time": "2:30 P.M.",
     "meeting_type": "certification",
     "members_present": [
@@ -1470,7 +1710,7 @@
     "schedule_url": null,
     "seconded_by": "Gala Sheats",
     "source_index_url": "https://www.hallcounty.org/790/Public-Notices-Meeting-Minutes",
-    "source_notes": "The minutes explicitly state that Vice…",
+    "source_notes": "The minutes explicitly state that Vice Chair David Kennedy was absent but do not provide a roll-call list of members present; the letterhead roster is not proof of attendance. The certification motions for the Democratic and Republican primaries and the nonpartisan election spell the seconder's surname “SHEAT,” while the roster and other motions use “Sheats.” Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -1488,7 +1728,7 @@
     "evidence_quote": "Chair Allen entertained a motion to vote to get a legal written opinion on whether members can restrict access to election material. The motion was made by Ms. Adams, Failed for lack of seconded.",
     "meeting_date": "2026-01-08",
     "meeting_location": null,
-    "meeting_summary": "The board amended and approved its age…",
+    "meeting_summary": "The board amended and approved its agenda, approved minutes from six December 2025 meetings, received an operations report, considered two motions requesting written legal opinions that failed for lack of a second, tabled discussion of the canvassing policy, reviewed the 2026 election calendar, held an executive session on litigation, and adjourned.",
     "meeting_time": "11:00 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1527,7 +1767,7 @@
     "evidence_quote": "MEMBER SHEATS MADE A MOTION TO ADOPT THE AGENDA. MEMBER COCHRAN MADE A SECOND. UNANIMOUSLY APPROVED.",
     "meeting_date": "2026-02-10",
     "meeting_location": null,
-    "meeting_summary": "The board approved the agenda and Janu…",
+    "meeting_summary": "The board approved the agenda and January 13 minutes; resolutions, calls, and notices for the Gainesville City Ward 1 special election and Hall County Schools ESPLOST; updated bylaws; and the March 17 meeting date. The voter challenge was withdrawn, and the distilled-spirits referendum item was withdrawn without board action.",
     "meeting_time": "6:00 P.M.",
     "meeting_type": "regular",
     "members_present": [
@@ -1567,7 +1807,7 @@
     "evidence_quote": "MEMBER COCHRAN MADE A MOTION TO APPROVE THE CALL. MEMBER HALL MADE A SECOND. UNANIMOUSLY APPROVED.",
     "meeting_date": "2026-08-04",
     "meeting_location": "Fourth floor, Hall County Government Center, 2875 Browns Bridge Road, Gainesville, GA",
-    "meeting_summary": "At a special called meeting, the board…",
+    "meeting_summary": "At a special called meeting, the board amended its agenda, approved resolutions, calls and notices for City of Gainesville special elections under HB 1601 and HB 1602, authorized revisions to HB 1341 election documents and their submission to the Gainesville Times, and adjourned.",
     "meeting_time": "5:30 pm",
     "meeting_type": "special",
     "members_present": [
@@ -1588,7 +1828,7 @@
     "schedule_url": null,
     "seconded_by": "Kim Hall",
     "source_index_url": "https://www.hallcounty.org/790/Public-Notices-Meeting-Minutes",
-    "source_notes": "The heading is dated July 29, 2026, bu…",
+    "source_notes": "The heading is dated July 29, 2026, but the draft minutes identify the meeting as August 4, 2026. Agenda item 10 concerns the HB 1602 notice, while its recorded motion says to approve the call. Document status: draft; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -1603,10 +1843,10 @@
     "board": "Board of Voter Registrations and Elections",
     "checked_at": "2026-11-01T21:22:08.471464+00:00",
     "county": "Gwinnett",
-    "evidence_quote": "Code: OP | Challenged: TYTIANHA MOULDS…",
+    "evidence_quote": "Code: OP | Challenged: TYTIANHA MOULDS | Action: Accept Aceptar | Motion: Mirandola | Second: O'Lenick | Vote: 5 - 0 - 0 | Result: Passes Pases | Hancock: Yes / Sí | Mirandola: Yes / Sí | O'Lenick: Yes / Sí | Porter: Yes / Sí | Bray: Yes / Sí",
     "meeting_date": "2026-05-23",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board approved the agenda, voted t…",
+    "meeting_summary": "The board approved the agenda, voted to table a provisional registration pending additional information, voted to take it off the table after receiving information, and adjourned. The attached roll-call chart also records 133 individual challenged/provisional ballot decisions.",
     "meeting_time": "10:00am",
     "meeting_type": "other",
     "members_present": [
@@ -1620,7 +1860,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260523/m_57511_05.23.2026_BRE_Official_Meeting_Minutes___Provisionals___Chart.pdf",
     "motion": "Accept challenged/provisional ballot for TYTIANHA MOULDS (OP)",
     "motion_number": 118,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock: Yes / Sí",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola: Yes / Sí",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O'Lenick: Yes / Sí",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter: Yes / Sí",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray: Yes / Sí",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Loretta Mirandola",
     "record_id": "beb2bd0ab4d5bdfd-118",
@@ -1628,7 +1894,7 @@
     "schedule_url": null,
     "seconded_by": "Alice O’Lenick",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": " Attached roll-call chart evidence is …",
+    "source_notes": " Attached roll-call chart evidence is transcribed as exact column-header/cell pairs, not a continuous prose quotation. Registration identifiers are omitted. Named votes come from individual labeled cells, not the tally. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/314",
@@ -1646,7 +1912,7 @@
     "evidence_quote": "Chair Allen entertained a motion to change the emergency polling place change SS01 & SS01A. The motion was made by Mrs. Crawford, seconded by Mr. Selby, and carried by a unanimous vote of 4-0.",
     "meeting_date": "2026-05-14",
     "meeting_location": null,
-    "meeting_summary": "The board amended and approved its age…",
+    "meeting_summary": "The board amended and approved its agenda, approved three prior meeting minutes, discontinued the absentee-ballot drop-off pilot at advance-voting locations, approved an emergency polling-place change, adopted a public-comment policy with a revised speaker-card deadline, and amended its 2026 meeting schedule. It also received operations and communications updates, met in executive session, and adjourned.",
     "meeting_time": "11:00 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1685,7 +1951,7 @@
     "evidence_quote": "Secretary Tucker with a second from Assistant Secretary Stair made a motion to dismiss from the challenge voter #6 Alyson Maxwell. Motion carried 3-2 with Natt and Clavijo opposed.",
     "meeting_date": "2026-09-01",
     "meeting_location": "Forsyth County Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, Georgia 30040",
-    "meeting_summary": "The board adopted its agenda and Augus…",
+    "meeting_summary": "The board adopted its agenda and August minutes, set conditional advance-voting hours for a December runoff, added a standing State Election Board activity agenda item, and heard voter challenges. It voted on challenges involving individual voters, then adjourned.",
     "meeting_time": "9 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1718,7 +1984,7 @@
     "schedule_url": null,
     "seconded_by": "Debbie Stair",
     "source_index_url": "https://www.forsythco.com/government/forsyth-county-meetings/?view=past&meeting-group%5B0%5D=40",
-    "source_notes": "The hearing heading describes an Augus…",
+    "source_notes": "The hearing heading describes an August 26 challenge with 26 names, but the recorded motions identify voters numbered through #28. The State Election Board activity motion refers to an October 4 regular meeting, while the minutes elsewhere identify the next regular meeting as October 6. The motion to dismiss the challenge for voter #25 is recorded as failed with three named opponents but without a numerical tally.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -1736,7 +2002,7 @@
     "evidence_quote": "Vice Chairman Natt with a second from Chairman Luth made a motion to adjourn the meeting at 1:51 a.m. on Wednesday, May 20. Motion carried 4-0 with Secretary Tucker absent.",
     "meeting_date": "2026-05-19",
     "meeting_location": "Voter Registrations & Elections Office, 1201 Sawnee Drive, Cumming, GA 30040",
-    "meeting_summary": "The board convened to compute and canv…",
+    "meeting_summary": "The board convened to compute and canvass votes from the May 19, 2026 election. It recessed for tabulation, entered unofficial and incomplete election results into the official record, postponed other business, directed staff to publish the reports, and adjourned early on May 20.",
     "meeting_time": "7 p.m.",
     "meeting_type": "other",
     "members_present": [
@@ -1757,7 +2023,7 @@
     "schedule_url": null,
     "seconded_by": "Barbara Luth",
     "source_index_url": "https://www.forsythco.com/government/forsyth-county-meetings/?view=past&meeting-group%5B0%5D=40",
-    "source_notes": "Vice Chairman Natt and Director Smith …",
+    "source_notes": "Vice Chairman Natt and Director Smith arrived after 7:00 p.m.; Secretary Tucker was absent. The minutes record a recess motion at 7:02 p.m., but later say Natt restated an initial recess motion at 7:00 p.m. because it was not captured by the tape recorder. The meeting resumed at 1:48 a.m. on May 20.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -1772,10 +2038,10 @@
     "board": "Board of Elections",
     "checked_at": "2026-11-02T10:51:32.460710+00:00",
     "county": "Chatham",
-    "evidence_quote": "Mrs. Brown motioned to accept the Pre-…",
+    "evidence_quote": "Mrs. Brown motioned to accept the Pre-Certification SOP, seconded by Mr. Hall. Ms. Jones pointed out the heading of the SOP included Voter Registration and asked if they are involved in certification. Ms. Schreiner said they are not involved, that would be removed from the heading and had been included accidentally as she had been working from another county’s template. Mr. Mahoney clarified that both departments work closely to reconcile elections, but they are not included in the certification process.\nHe called for the vote and motion passed unanimously.",
     "meeting_date": "2026-03-09",
     "meeting_location": "1117 Eisenhower Drive, Suite F, Multipurpose room",
-    "meeting_summary": "The board approved the February minute…",
+    "meeting_summary": "The board approved the February minutes, accepted Pick Up and Go Karrier as its transportation vendor, approved a pre-certification standard operating procedure, and approved collocating precincts 5-08 and 5-11. Staff reported on election preparations, and the board adjourned.",
     "meeting_time": "3:30 P.M.",
     "meeting_type": "regular",
     "members_present": [
@@ -1815,7 +2081,7 @@
     "evidence_quote": "Chair Allen entertained a motion to approve the minutes as listed. The motion was made by Mrs. Crawford, seconded by Mr. Selby, and carried by a unanimous vote of 4-0.",
     "meeting_date": "2026-02-12",
     "meeting_location": null,
-    "meeting_summary": "The board amended its agenda, approved…",
+    "meeting_summary": "The board amended its agenda, approved prior minutes, adopted a resolution seeking to delay implementation of Senate Bill 189, approved polling place relocations and advance voting arrangements, met in executive session, ratified a petition against the FBI, and adjusted advance voting hours.",
     "meeting_time": "11:00 a.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1836,7 +2102,7 @@
     "schedule_url": null,
     "seconded_by": "Douglass Selby",
     "source_index_url": "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/registration-and-elections-board/previous-meetings",
-    "source_notes": "Ms. Adams stepped away before the exec…",
+    "source_notes": "Ms. Adams stepped away before the executive-session motion, which passed 3-0; the minutes do not state when she returned. The motion to reconvene lists Mrs. Crawford as both maker and seconder. The minutes state that the meeting began at 11:00 a.m. and adjourned at 1:42 p.m., while agenda timestamps extend beyond two hours.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://www.youtube.com/watch?v=wr_h6cyfFTY",
@@ -1851,10 +2117,10 @@
     "board": "Board of Voter Registrations and Elections",
     "checked_at": "2026-11-01T21:22:08.471464+00:00",
     "county": "Gwinnett",
-    "evidence_quote": "Code: PR | Challenged: ALEXA GOMEZ | A…",
+    "evidence_quote": "Code: PR | Challenged: ALEXA GOMEZ | Action: Not Accept No aceptar | Motion: Mirandola | Second: O'Lenick | Vote: 5 - 0 - 0 | Result: Passes Pases | Hancock: Yes / Sí | Mirandola: Yes / Sí | O'Lenick: Yes / Sí | Porter: Yes / Sí | Bray: Yes / Sí",
     "meeting_date": "2026-05-23",
     "meeting_location": "Gwinnett County Voter Registrations & Elections Beauty P. Baldwin Building, 455 Grayson Hwy, Suite 200, Lawrenceville, Georgia 30046",
-    "meeting_summary": "The board approved the agenda, voted t…",
+    "meeting_summary": "The board approved the agenda, voted to table a provisional registration pending additional information, voted to take it off the table after receiving information, and adjourned. The attached roll-call chart also records 133 individual challenged/provisional ballot decisions.",
     "meeting_time": "10:00am",
     "meeting_type": "other",
     "members_present": [
@@ -1868,7 +2134,33 @@
     "minutes_url": "https://www.gwinnettcounty.com/static/upload/bac/6/20260523/m_57511_05.23.2026_BRE_Official_Meeting_Minutes___Provisionals___Chart.pdf",
     "motion": "Not Accept challenged/provisional ballot for ALEXA GOMEZ (PR)",
     "motion_number": 26,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"David…",
+    "named_votes": [
+      {
+        "evidence_quote": "Hancock: Yes / Sí",
+        "member_name": "David Hancock",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Mirandola: Yes / Sí",
+        "member_name": "Loretta Mirandola",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "O'Lenick: Yes / Sí",
+        "member_name": "Alice O’Lenick",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Porter: Yes / Sí",
+        "member_name": "Richard Porter",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "Bray: Yes / Sí",
+        "member_name": "Amy Bray",
+        "vote": "yes"
+      }
+    ],
     "outcome": "passed",
     "proposed_by": "Loretta Mirandola",
     "record_id": "beb2bd0ab4d5bdfd-26",
@@ -1876,7 +2168,7 @@
     "schedule_url": null,
     "seconded_by": "Alice O’Lenick",
     "source_index_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/6/2026",
-    "source_notes": " Attached roll-call chart evidence is …",
+    "source_notes": " Attached roll-call chart evidence is transcribed as exact column-header/cell pairs, not a continuous prose quotation. Registration identifiers are omitted. Named votes come from individual labeled cells, not the tally. Document status: published_minutes; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": "https://play.champds.com/gwinnettcoga/event/314",
@@ -1894,7 +2186,7 @@
     "evidence_quote": null,
     "meeting_date": "2026-04-17",
     "meeting_location": "Training room of the Elections and Voter Registration building, Henry County, Georgia",
-    "meeting_summary": "The board lacked a quorum, so it took …",
+    "meeting_summary": "The board lacked a quorum, so it took no action on the agenda, prior meeting minutes, or the proposed cancellation of the April 20 meeting. The director’s report was presented for information, and the meeting was adjourned without a recorded motion.",
     "meeting_time": "1:00 p.m.",
     "meeting_type": "regular",
     "members_present": [
@@ -1913,7 +2205,7 @@
     "schedule_url": null,
     "seconded_by": null,
     "source_index_url": "https://www.henrycountyga.gov/agendaminutes",
-    "source_notes": "The minutes state that no action was t…",
+    "source_notes": "The minutes state that no action was taken on the proposed cancellation of the April 20 meeting because a quorum was absent, but later announce that the April 20 meeting was cancelled. Document status: published_minutes; not represented as approved minutes. No formal motions recorded in this document.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,
@@ -1945,7 +2237,33 @@
     "minutes_url": "https://dekalbcountyga.gov/sites/default/files/2026-09/BRE%20Agenda%20-%2006.23.26%20Minutes%20-%20FINAL.docx",
     "motion": "Amend the agenda to add a resolution for decision.",
     "motion_number": 2,
-    "named_votes": "[{\"vote\": \"yes\", \"member_name\": \"Travi…",
+    "named_votes": [
+      {
+        "evidence_quote": "2 yeas (Bowden, Lee)",
+        "member_name": "Travis Bowden",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "2 yeas (Bowden, Lee)",
+        "member_name": "Gail Lee",
+        "vote": "yes"
+      },
+      {
+        "evidence_quote": "3 nays (Abhiraman, Lowman, Swift)",
+        "member_name": "Vasu Abhiraman",
+        "vote": "no"
+      },
+      {
+        "evidence_quote": "3 nays (Abhiraman, Lowman, Swift)",
+        "member_name": "Dele Lowman",
+        "vote": "no"
+      },
+      {
+        "evidence_quote": "3 nays (Abhiraman, Lowman, Swift)",
+        "member_name": "Karli Swift",
+        "vote": "no"
+      }
+    ],
     "outcome": "failed",
     "proposed_by": "Gail Lee",
     "record_id": "c95efef75edf9e85-2",
@@ -1971,7 +2289,7 @@
     "evidence_quote": "A motion was made by Chair Grant and seconded by Vice Chair Walker to enter into Executive Session to discuss personnel and litigation matters. The motion passed unanimously. The Board entered Executive Session at 5:01 PM.",
     "meeting_date": "2026-05-12",
     "meeting_location": "7946 North McDonough Street, Jonesboro, GA 30236",
-    "meeting_summary": "The board amended and adopted the agen…",
+    "meeting_summary": "The board amended and adopted the agenda, approved April 14 minutes, approved advance voting locations and hours for the June 16 runoff, scheduled May 22 special called meetings, authorized removal of 124 deceased voters from the rolls, and entered and returned from executive session before adjourning.",
     "meeting_time": "4:30 PM",
     "meeting_type": "regular",
     "members_present": [
@@ -1992,7 +2310,7 @@
     "schedule_url": null,
     "seconded_by": "Vice Chair Walker",
     "source_index_url": "https://www.claytoncountyga.gov/government/board-of-commissioners/county-boards/elections-and-registration-board/",
-    "source_notes": "Chair Grant made several motions and p…",
+    "source_notes": "Chair Grant made several motions and participated in discussion but is omitted from the PRESENT list. The report refers to both Deputy Director Brown and Director Brown, while Director Dozier is listed as not present. Agenda item 10 was amended to address July 28 advance voting sites, but the recorded motion under item 10 schedules May 22 special called meetings; no motion approving the July 28 sites is recorded. Document status: official_summary; not represented as approved minutes.",
     "state": "Georgia",
     "video_timestamp": null,
     "video_url": null,

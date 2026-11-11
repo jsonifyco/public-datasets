@@ -43,6 +43,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [8\-K Filings Dataset: S&amp;P 500 Current Reports](datasets/s-p-500-sec-8-k-filings-61608a881b67/) | 946 | weekly | 2026-11-09T08:04:47.841284Z |
 | [TikTok and YouTube Shorts Posts with Music Credits](datasets/social-posts-and-music-credits-618da9615d86/) | 25 | On demand | 2026-10-21T14:32:02.901284Z |
 | [Meta Quest App Catalogue and Charts](datasets/meta-quest-catalogue-and-charts-64282414adae/) | 13,060 | On demand | 2026-11-08T04:48:01.869925Z |
+| [Google Shopping Catalog Discovery](datasets/feedance-google-shopping-catalog-discovery-68fe77c792b8/) | 150 | daily | 2026-11-11T21:08:28.714861Z |
 | [Paris Supermarket Prices and Product Catalogue](datasets/supermarket-products-in-paris-6bb96540e5f9/) | 171,865 | On demand | 2026-11-02T14:53:40.285101Z |
 | [Louis Vuitton Neverfull Prices by Country](datasets/louis-vuitton-neverfull-prices-by-country-6bce6c1fc1cf/) | 24 | On demand | 2026-11-09T09:25:41.805200Z |
 | [INTELLIAAI YouTube Placement Sample](datasets/intelliaai-youtube-placement-sample-6cd4514c0219/) | 2,800 | On demand | 2026-11-08T05:19:30.148851Z |
@@ -63,7 +64,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [AI Lab Research Feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |
 | [Supermarket Franchise Keyword and AI Prompt Volumes](datasets/supermarket-franchise-keyword-and-ai-prompt-volumes-a3f8157e871e/) | 16 | On demand | 2026-10-31T11:20:11.061198Z |
 | [US Baseball Team Decision\-Maker Contacts: School, Youth and Minor\-League Teams](datasets/us-baseball-team-decision-maker-contacts-b0b0de74ab33/) | 1,000 | On demand | 2026-10-22T14:59:13.945962Z |
-| [Google Shopping Competitor Prices](datasets/feedance-google-shopping-competitor-prices-b7971db4006b/) | 8,287 | On demand | 2026-11-08T11:20:28.949583Z |
+| [Google Shopping Competitor Prices](datasets/feedance-google-shopping-competitor-prices-b7971db4006b/) | 9,316 | daily | 2026-11-11T21:58:34.847100Z |
 | [Irish Music Events for Web Summit](datasets/ceolx-web-summit-one-off-snapshot-bcb68c9e2f16/) | 300 | On demand | 2026-11-09T13:20:39.971583Z |
 | [Public Instagram Posts from paul\_hunkin](datasets/instagram-posts-be49f86d2a46/) | 12 | On demand | 2026-10-17T18:08:01.916600Z |
 | [Short Drama Apps: Catalogue, Charts and Coin Prices](datasets/short-drama-charts-and-catalogue-c3bee033d5c1/) | 115,809 | On demand | 2026-11-09T18:29:52.456020Z |

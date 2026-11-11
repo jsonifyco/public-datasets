@@ -167,7 +167,9 @@
     "observations_merged": 1,
     "phone": null,
     "possible_duplicate": false,
-    "practice_evidence": "[\"Zoe is a Mindfulness and Mindful Self-Compassion teacher…",
+    "practice_evidence": [
+      "Zoe is a Mindfulness and Mindful Self-Compassion teacher, accredited counsellor-psychotherapist and supervisor of mindfulness teachers. She has been practising meditation and yoga since 1996. Zoe trained to teach Mindful Self-Compassion with the Centre for Mindful Self-Compassion (CMSC) and has been running mindfulness and self-compassion programmes since 2010."
+    ],
     "practitioner_key": "8474e447414d1ccc444bfe21",
     "profile_urls": [],
     "qualifications": "Accredited counsellor-psychotherapist; trained to teach Mindful Self-Compassion with the Centre for Mindful Self-Compassion",

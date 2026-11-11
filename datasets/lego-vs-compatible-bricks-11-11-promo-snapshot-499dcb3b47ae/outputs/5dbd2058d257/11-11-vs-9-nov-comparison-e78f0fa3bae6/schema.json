@@ -1,0 +1,94 @@
+[
+  {
+    "name": "section",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "marketplace",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "bigint"
+  },
+  {
+    "name": "offers_9_nov",
+    "type": "bigint"
+  },
+  {
+    "name": "offers_11_nov",
+    "type": "bigint"
+  },
+  {
+    "name": "discounted_items_9_nov",
+    "type": "bigint"
+  },
+  {
+    "name": "discounted_items_11_nov",
+    "type": "bigint"
+  },
+  {
+    "name": "median_discount_pct_9_nov",
+    "type": "numeric"
+  },
+  {
+    "name": "median_discount_pct_11_nov",
+    "type": "numeric"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "set_number",
+    "type": "text"
+  },
+  {
+    "name": "product_title",
+    "type": "text"
+  },
+  {
+    "name": "seller_name",
+    "type": "text"
+  },
+  {
+    "name": "price_9_nov",
+    "type": "double precision"
+  },
+  {
+    "name": "price_11_nov",
+    "type": "double precision"
+  },
+  {
+    "name": "price_drop",
+    "type": "numeric"
+  },
+  {
+    "name": "price_drop_pct",
+    "type": "numeric"
+  },
+  {
+    "name": "offer_key",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "baseline_product_url",
+    "type": "text"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  }
+]

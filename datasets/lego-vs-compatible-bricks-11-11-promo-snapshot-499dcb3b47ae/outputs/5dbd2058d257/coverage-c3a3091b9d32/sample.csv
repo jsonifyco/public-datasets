@@ -2,50 +2,50 @@ brand,captured_at,country,listing_url,marketplace,note,observed_cards,page_numbe
 Mould King,2026-11-09T15:48:30.377461+00:00,BG,https://www.emag.bg/search/mould%20king/p6,eMAG,PipelinePrimitiveError; PipelinePrimitiveError; PipelinePrimitiveError: fetch_html failed: domain emag.bg in fetch backoff (recently blocked all backends); retry in 1584s,0,6,0,2026-11-09,unverified_access
 Pantasy,2026-11-09T15:48:30.376807+00:00,RO,https://www.emag.ro/search/pantasy/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,4,0,2026-11-09,no_qualified_rows
 LEGO,2026-11-09T15:48:30.374659+00:00,PL,https://allegro.pl/listing?string=klocki%20LEGO&p=1,Allegro,PipelinePrimitiveError,73,1,71,2026-11-09,observed
+LEGO,2026-11-11T10:05:38.927096+00:00,TR,https://www.trendyol.com/sr?q=LEGO&pi=8,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,8,36,2026-11-11,observed
+Cada,2026-11-11T10:05:38.926784+00:00,TR,https://www.trendyol.com/sr?q=Cada&pi=5,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,5,12,2026-11-11,observed
 Playmobil,2026-11-09T15:48:30.376884+00:00,TR,https://www.trendyol.com/sr?q=Playmobil&pi=4,Trendyol,PipelinePrimitiveError,34,4,33,2026-11-09,observed
+Cada,2026-11-11T10:05:38.926121+00:00,RO,https://www.emag.ro/search/cada/p3,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,3,70,2026-11-11,observed
 Mould King,2026-11-09T15:48:30.376685+00:00,BG,https://www.emag.bg/search/mould%20king/p4,eMAG,PipelinePrimitiveError,60,4,17,2026-11-09,observed
+Playmobil,2026-11-11T10:05:38.926357+00:00,TR,https://www.trendyol.com/sr?q=Playmobil&pi=3,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,3,35,2026-11-11,observed
 Mega,2026-11-09T15:48:30.377510+00:00,BG,https://www.emag.bg/search/mega/p6,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,6,34,2026-11-09,observed
 Cobi,2026-11-09T15:48:30.376186+00:00,TR,https://www.trendyol.com/sr?q=Cobi&pi=3,Trendyol,PipelinePrimitiveError,36,3,0,2026-11-09,no_qualified_rows
 Playmobil,2026-11-09T15:48:30.375981+00:00,BG,https://www.emag.bg/search/playmobil/p2,eMAG,PipelinePrimitiveError; PipelinePrimitiveError; PipelinePrimitiveError: fetch_html failed: proxy: HTTPStatusError: Client error '410 Gone' for url 'https://www.emag.bg/search/playmobil/p2' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/410,0,2,0,2026-11-09,unverified_access
+Cada,2026-11-11T10:05:38.926157+00:00,TR,https://www.trendyol.com/sr?q=Cada&pi=3,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,3,14,2026-11-11,observed
 Cobi,2026-11-09T15:48:30.376167+00:00,RO,https://www.emag.ro/search/cobi/p3,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,3,28,2026-11-09,observed
+LEGO,2026-11-11T10:05:38.927079+00:00,RO,https://www.emag.ro/search/lego/p8,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,8,58,2026-11-11,observed
+Cada,2026-11-11T10:05:38.926504+00:00,TR,https://www.trendyol.com/sr?q=Cada&pi=4,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,4,14,2026-11-11,observed
 Cada,2026-11-09T15:48:30.376189+00:00,BG,https://www.emag.bg/search/cada/p3,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,3,53,2026-11-09,observed
+LEGO,2026-11-11T10:05:38.926010+00:00,PL,https://allegro.pl/listing?string=klocki%20LEGO&p=3,Allegro,PipelinePrimitiveError; PipelinePrimitiveError: Browser provider request failed: Every eligible browser provider failed initial navigation: bro: Bro initial navigation failed on the selected proxy route (no fallbacks configured): blocked:bot_detection; browserbase: Browserbase navigation returned ,0,3,0,2026-11-11,unverified_access
+LEGO,2026-11-11T10:05:38.927106+00:00,RO,https://www.emag.ro/search/lego/p9,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,9,71,2026-11-11,observed
+Lumibricks,2026-11-11T10:05:38.926566+00:00,BG,https://www.emag.bg/search/lumibricks/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,4,15,2026-11-11,observed
+Mega,2026-11-11T10:05:38.925416+00:00,PL,https://allegro.pl/listing?string=klocki%20Mega&p=1,Allegro,PipelinePrimitiveError,66,1,39,2026-11-11,observed
 Mega,2026-11-09T15:48:30.376431+00:00,RO,https://www.emag.ro/search/mega/p3,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,3,20,2026-11-09,observed
 LEGO,2026-11-09T15:48:30.377684+00:00,BG,https://www.emag.bg/search/lego/p8,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,8,59,2026-11-09,observed
+Cobi,2026-11-11T10:05:38.926114+00:00,TR,https://www.trendyol.com/sr?q=Cobi&pi=3,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,3,0,2026-11-11,no_qualified_rows
 Mould King,2026-11-09T15:48:30.375012+00:00,BG,https://www.emag.bg/search/mould%20king,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,1,43,2026-11-09,observed
+Playmobil,2026-11-11T10:05:38.926627+00:00,RO,https://www.emag.ro/search/playmobil/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,4,60,2026-11-11,observed
 Mega,2026-11-09T15:48:30.376811+00:00,BG,https://www.emag.bg/search/mega/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,4,27,2026-11-09,observed
 LEGO,2026-11-09T15:48:30.378010+00:00,BG,https://www.emag.bg/search/lego/p12,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,12,60,2026-11-09,observed
+LEGO,2026-11-11T10:05:38.925640+00:00,TR,https://www.trendyol.com/sr?q=LEGO&pi=2,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,2,36,2026-11-11,observed
 LEGO,2026-11-09T15:48:30.377720+00:00,RO,https://www.emag.ro/search/lego/p8,eMAG,PipelinePrimitiveError,72,8,71,2026-11-09,observed
+Pantasy,2026-11-11T10:05:38.926279+00:00,RO,https://www.emag.ro/search/pantasy/p3,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,3,39,2026-11-11,observed
 Lumibricks,2026-11-09T15:48:30.376761+00:00,BG,https://www.emag.bg/search/lumibricks/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,69,4,19,2026-11-09,observed
+Playmobil,2026-11-11T10:05:38.925454+00:00,BG,https://www.emag.bg/search/playmobil,eMAG,PipelinePrimitiveError; PipelinePrimitiveError; PipelinePrimitiveError: fetch_html failed: massive blocked/challenge HTML: captcha,0,1,0,2026-11-11,unverified_access
 Cobi,2026-11-09T15:48:30.375677+00:00,TR,https://www.trendyol.com/sr?q=Cobi&pi=2,Trendyol,PipelinePrimitiveError,36,2,0,2026-11-09,no_qualified_rows
 Cada,2026-11-09T15:48:30.375720+00:00,RO,https://www.emag.ro/search/cada/p2,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,2,72,2026-11-09,observed
 Playmobil,2026-11-09T15:48:30.376481+00:00,TR,https://www.trendyol.com/sr?q=Playmobil&pi=3,Trendyol,PipelinePrimitiveError,36,3,35,2026-11-09,observed
+Pantasy,2026-11-11T10:05:38.925321+00:00,BG,https://www.emag.bg/search/pantasy,eMAG,PipelinePrimitiveError,72,1,38,2026-11-11,observed
 LEGO,2026-11-09T15:48:30.378093+00:00,TR,https://www.trendyol.com/sr?q=LEGO&pi=12,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,12,36,2026-11-09,observed
+LEGO,2026-11-11T10:05:38.927076+00:00,TR,https://www.trendyol.com/sr?q=LEGO&pi=7,Trendyol,ValueError; ValueError; PipelinePrimitiveError: fetch_html failed: browserbase unusable source response: Empty rendered page; no evidence of blocking or outage,0,7,0,2026-11-11,unverified_access
 Pantasy,2026-11-09T15:48:30.377161+00:00,BG,https://www.emag.bg/search/pantasy/p5,eMAG,Listing snapshot; delivery is not a checkout guarantee.,3,5,0,2026-11-09,no_qualified_rows
+Pantasy,2026-11-11T10:05:38.926596+00:00,RO,https://www.emag.ro/search/pantasy/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,4,13,2026-11-11,observed
+Cobi,2026-11-11T10:05:38.926070+00:00,BG,https://www.emag.bg/search/cobi/p3,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,3,49,2026-11-11,observed
+Playmobil,2026-11-11T10:05:38.926325+00:00,RO,https://www.emag.ro/search/playmobil/p3,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,3,59,2026-11-11,observed
 Cada,2026-11-09T15:48:30.376618+00:00,RO,https://www.emag.ro/search/cada/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,4,70,2026-11-09,observed
+Cada,2026-11-11T10:05:38.925730+00:00,PL,https://allegro.pl/listing?string=klocki%20Cada&p=2,Allegro,PipelinePrimitiveError,24,2,22,2026-11-11,observed
 LEGO,2026-11-09T15:48:30.374586+00:00,BG,https://www.emag.bg/search/lego,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,1,67,2026-11-09,observed
+Playmobil,2026-11-11T10:05:38.925989+00:00,TR,https://www.trendyol.com/sr?q=Playmobil&pi=2,Trendyol,ValueError,36,2,35,2026-11-11,observed
+Mould King,2026-11-11T10:05:38.926790+00:00,BG,https://www.emag.bg/search/mould%20king/p5,eMAG,PipelinePrimitiveError; PipelinePrimitiveError; PipelinePrimitiveError: fetch_html failed: massive blocked/challenge HTML: captcha,0,5,0,2026-11-11,unverified_access
 LEGO,2026-11-09T15:48:30.377786+00:00,BG,https://www.emag.bg/search/lego/p9,eMAG,PipelinePrimitiveError,72,9,59,2026-11-09,observed
 Mega,2026-11-09T15:48:30.375340+00:00,PL,https://allegro.pl/listing?string=klocki%20Mega&p=1,Allegro,Listing snapshot; delivery is not a checkout guarantee.,62,1,39,2026-11-09,observed
-Mega,2026-11-09T15:48:30.377168+00:00,BG,https://www.emag.bg/search/mega/p5,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,5,27,2026-11-09,observed
-LEGO,2026-11-09T15:48:30.377925+00:00,BG,https://www.emag.bg/search/lego/p11,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,11,58,2026-11-09,observed
-LEGO,2026-11-09T15:48:30.377337+00:00,TR,https://www.trendyol.com/sr?q=LEGO&pi=6,Trendyol,PipelinePrimitiveError,36,6,36,2026-11-09,observed
-Cobi,2026-11-09T15:48:30.374875+00:00,TR,https://www.trendyol.com/sr?q=Cobi&pi=1,Trendyol,PipelinePrimitiveError,36,1,2,2026-11-09,observed
-Cobi,2026-11-09T15:48:30.374801+00:00,PL,https://allegro.pl/listing?string=klocki%20Cobi&p=1,Allegro,PipelinePrimitiveError,73,1,70,2026-11-09,observed
-Cobi,2026-11-09T15:48:30.376607+00:00,TR,https://www.trendyol.com/sr?q=Cobi&pi=4,Trendyol,PipelinePrimitiveError,28,4,0,2026-11-09,no_qualified_rows
-Playmobil,2026-11-09T15:48:30.375381+00:00,BG,https://www.emag.bg/search/playmobil,eMAG,PipelinePrimitiveError; PipelinePrimitiveError; PipelinePrimitiveError: fetch_html failed: proxy: HTTPStatusError: Client error '410 Gone' for url 'https://www.emag.bg/search/playmobil' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/410,0,1,0,2026-11-09,unverified_access
-Cobi,2026-11-09T15:48:30.374796+00:00,BG,https://www.emag.bg/search/cobi,eMAG,PipelinePrimitiveError; PipelinePrimitiveError; PipelinePrimitiveError: fetch_html failed: proxy: HTTPStatusError: Client error '410 Gone' for url 'https://www.emag.bg/search/cobi' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/410,0,1,0,2026-11-09,unverified_access
-Cobi,2026-11-09T15:48:30.375648+00:00,PL,https://allegro.pl/listing?string=klocki%20Cobi&p=2,Allegro,Listing snapshot; delivery is not a checkout guarantee.,13,2,13,2026-11-09,observed
-Cobi,2026-11-09T15:48:30.375658+00:00,RO,https://www.emag.ro/search/cobi/p2,eMAG,Listing snapshot; delivery is not a checkout guarantee.,68,2,28,2026-11-09,observed
-Playmobil,2026-11-09T15:48:30.375996+00:00,RO,https://www.emag.ro/search/playmobil/p2,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,2,60,2026-11-09,observed
-Pantasy,2026-11-09T15:48:30.375298+00:00,RO,https://www.emag.ro/search/pantasy,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,1,49,2026-11-09,observed
-Cada,2026-11-09T15:48:30.376612+00:00,BG,https://www.emag.bg/search/cada/p4,eMAG,PipelinePrimitiveError; PipelinePrimitiveError; PipelinePrimitiveError: fetch_html failed: domain emag.bg in fetch backoff (recently blocked all backends); retry in 566s,0,4,0,2026-11-09,unverified_access
-Mould King,2026-11-09T15:48:30.375134+00:00,TR,https://www.trendyol.com/sr?q=Mould%20King&pi=1,Trendyol,PipelinePrimitiveError,36,1,20,2026-11-09,observed
-Mould King,2026-11-09T15:48:30.376340+00:00,TR,https://www.trendyol.com/sr?q=Mould%20King&pi=3,Trendyol,Listing snapshot; delivery is not a checkout guarantee.,36,3,11,2026-11-09,observed
-LEGO,2026-11-09T15:48:30.377958+00:00,RO,https://www.emag.ro/search/lego/p11,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,11,60,2026-11-09,observed
-Playmobil,2026-11-09T15:48:30.376849+00:00,RO,https://www.emag.ro/search/playmobil/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,4,56,2026-11-09,observed
-Playmobil,2026-11-09T15:48:30.375427+00:00,RO,https://www.emag.ro/search/playmobil,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,1,61,2026-11-09,observed
-Mega,2026-11-09T15:48:30.375366+00:00,RO,https://www.emag.ro/search/mega,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,1,13,2026-11-09,observed
-LEGO,2026-11-09T15:48:30.375525+00:00,PL,https://allegro.pl/listing?string=klocki%20LEGO&p=2,Allegro,Listing snapshot; delivery is not a checkout guarantee.,72,2,59,2026-11-09,observed
-Mega,2026-11-09T15:48:30.377534+00:00,RO,https://www.emag.ro/search/mega/p6,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,6,18,2026-11-09,observed
-Cobi,2026-11-09T15:48:30.376578+00:00,RO,https://www.emag.ro/search/cobi/p4,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,4,39,2026-11-09,observed
-LEGO,2026-11-09T15:48:30.376909+00:00,BG,https://www.emag.bg/search/lego/p5,eMAG,Listing snapshot; delivery is not a checkout guarantee.,60,5,59,2026-11-09,observed
-Mega,2026-11-09T15:48:30.375333+00:00,BG,https://www.emag.bg/search/mega,eMAG,Listing snapshot; delivery is not a checkout guarantee.,72,1,4,2026-11-09,observed

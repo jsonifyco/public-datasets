@@ -160,6 +160,22 @@
     "product_code": "GZT"
   },
   {
+    "applicant": "Epi-Minder Pty, Ltd.",
+    "applicant_city": "Melbourne",
+    "applicant_country": "AU",
+    "applicant_state": "",
+    "clearance_type": "Traditional",
+    "date_received": "2026-07-08",
+    "decision": "Substantially Equivalent",
+    "decision_date": "2026-10-29",
+    "device_class": "2",
+    "device_name": "Minder® System",
+    "fda_record_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K262318",
+    "k_number": "K262318",
+    "medical_specialty": "Neurology",
+    "product_code": "SEM"
+  },
+  {
     "applicant": "Becton, Dickinson and Company",
     "applicant_city": "Franklin Lakes",
     "applicant_country": "US",
@@ -782,21 +798,5 @@
     "k_number": "K251454",
     "medical_specialty": "Dental",
     "product_code": "NXC"
-  },
-  {
-    "applicant": "Cortechs Labs, Inc.",
-    "applicant_city": "San Diego",
-    "applicant_country": "US",
-    "applicant_state": "CA",
-    "clearance_type": "Traditional",
-    "date_received": "2026-06-09",
-    "decision": "Substantially Equivalent",
-    "decision_date": "2026-08-12",
-    "device_class": "2",
-    "device_name": "NeuroQuant PET",
-    "fda_record_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261916",
-    "k_number": "K261916",
-    "medical_specialty": "Radiology",
-    "product_code": "LLZ"
   }
 ]

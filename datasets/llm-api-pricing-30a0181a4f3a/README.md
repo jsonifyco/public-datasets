@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1 million tokens\. The published table contains 3,390 rows\.
+Weekly LLM API token prices from 10 platforms, incl\. OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch per 1M tokens\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llm-api-pricing-30a0181a4f3a?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and
 
 ## The brief
 
-> I need this data: LLM API list prices for text models on Vertex AI, Azure, Gemini API, Mistral and Cohere: input, output, cached and batch prices per 1 million tokens\. The published table contains 3,390 rows\.
+> I need this data: Weekly LLM API token prices from 10 platforms, incl\. OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch per 1M tokens\.
 
 Summary from the public dataset description.
 
@@ -25,11 +25,11 @@ Published: 2026-11-09T06:11:59.795571Z · Producing pipeline version: 9
 
 | captured\_date | platform | model\_maker | model | deployment\_type | input\_usd\_per\_1m | output\_usd\_per\_1m | cached\_input\_usd\_per\_1m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-02 | OpenRouter | tencent | tencent/hy\-mt2\-7b | standard | 0\.074 | 0\.295 | None |
-| 2026\-11\-02 | Azure | OpenAI | FW GPT\-OSS\-120B | data zone | 0\.165 | 0\.66 | 0\.082 |
-| 2026\-10\-30 | OpenRouter | OpenAI | openai/gpt\-oss\-safeguard\-20b | standard | 0\.075 | 0\.3 | 0\.0375 |
-| 2026\-11\-02 | Vertex AI | Google | Gemini 3\.8 Flash | global | 0\.75 | 3\.75 | 0\.075 |
 | 2026\-11\-09 | Together API | Not stated | Ternary Bonsai 27B | standard | 0 | 0 | None |
+| 2026\-11\-09 | Azure | Microsoft | Phi\-3 Mini 128K Instruct | standard | 0\.13 | 0\.52 | None |
+| 2026\-11\-09 | Azure | OpenAI | o3\-pro | global | 20 | 80 | None |
+| 2026\-11\-09 | OpenRouter | liquid | liquid/lfm\-3\-1\.7b:free | standard | 0 | 0 | None |
+| 2026\-11\-09 | Anthropic API | Anthropic | Claude Haiku 4\.5 | standard | 1 | 5 | 0\.1 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

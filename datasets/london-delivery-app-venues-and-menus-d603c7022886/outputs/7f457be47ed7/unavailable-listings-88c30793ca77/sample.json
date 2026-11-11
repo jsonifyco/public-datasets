@@ -2,7 +2,57 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T21:45:53.424133+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"162457\", \"venue_key\": \"Deliveroo|162457\", \"venue_name\": \"Buns\", \"client_guid\": \"a…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "ad35e1c9-f43f-494c-93ae-2ba8c8e02556",
+      "discovered_in_areas": [
+        "51.56777,-0.00052",
+        "51.56777,-0.02938",
+        "51.56777,0.02834",
+        "51.58576,-0.00052",
+        "51.58576,-0.02938",
+        "51.58576,-0.05824",
+        "51.58576,0.02834",
+        "51.58576,0.05720",
+        "51.60374,-0.00052",
+        "51.60374,-0.02938",
+        "51.60374,0.02834",
+        "51.60374,0.05720",
+        "51.60374,0.08606",
+        "51.62173,-0.00052",
+        "51.62173,-0.02938",
+        "51.62173,0.02834",
+        "51.63971,-0.00052"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.56777,
+        "longitude": -0.02938
+      },
+      "venue_id": "162457",
+      "venue_key": "Deliveroo|162457",
+      "venue_name": "Buns"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -15,7 +65,55 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T01:58:00.581760+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"310583\", \"venue_key\": \"Deliveroo|310583\", \"venue_name\": \"Roosters Spot\", \"client_…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "f6305db5-dd64-4fd2-bc4b-3d14e2b57b50",
+      "discovered_in_areas": [
+        "51.56777,-0.00052",
+        "51.56777,-0.02938",
+        "51.56777,-0.05824",
+        "51.58576,-0.00052",
+        "51.58576,-0.02938",
+        "51.58576,-0.05824",
+        "51.58576,0.02834",
+        "51.60374,-0.00052",
+        "51.60374,-0.02938",
+        "51.60374,0.02834",
+        "51.60374,0.05720",
+        "51.62173,-0.00052",
+        "51.62173,-0.02938",
+        "51.62173,0.02834",
+        "51.63971,-0.00052"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.56777,
+        "longitude": -0.05824
+      },
+      "venue_id": "310583",
+      "venue_key": "Deliveroo|310583",
+      "venue_name": "Roosters Spot"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -28,7 +126,47 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T11:10:06.436128+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"657\", \"venue_key\": \"Deliveroo|657\", \"venue_name\": \"Mazar\", \"client_guid\": \"bed463…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "bed46367-2a31-4e81-81ac-732ffa84248f",
+      "discovered_in_areas": [
+        "51.45986,-0.14482",
+        "51.45986,-0.17368",
+        "51.45986,-0.20254",
+        "51.47784,-0.14482",
+        "51.47784,-0.17368",
+        "51.47784,-0.20254",
+        "51.49583,-0.17368"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.459856,
+        "longitude": -0.20254
+      },
+      "venue_id": "657",
+      "venue_key": "Deliveroo|657",
+      "venue_name": "Mazar"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -41,7 +179,48 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T12:20:43.950155+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"694120\", \"venue_key\": \"Deliveroo|694120\", \"venue_name\": \" 2Love Tea and Coffee Ho…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "54ccb953-1853-45a2-98fb-0a86a3cc2c07",
+      "discovered_in_areas": [
+        "51.44187,-0.14482",
+        "51.44187,-0.17368",
+        "51.44187,-0.20254",
+        "51.45986,-0.14482",
+        "51.45986,-0.17368",
+        "51.45986,-0.20254",
+        "51.47784,-0.14482",
+        "51.47784,-0.17368"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.441871,
+        "longitude": -0.20254
+      },
+      "venue_id": "694120",
+      "venue_key": "Deliveroo|694120",
+      "venue_name": " 2Love Tea and Coffee House"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -54,7 +233,54 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T08:29:13.963105+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"56223\", \"venue_key\": \"Deliveroo|56223\", \"venue_name\": \"DoDough Pizza\", \"client_gu…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "5abb6522-bb45-46dd-89df-31af80ef2d92",
+      "discovered_in_areas": [
+        "51.62173,-0.17368",
+        "51.62173,-0.20254",
+        "51.62173,-0.23140",
+        "51.62173,-0.26026",
+        "51.62173,-0.28912",
+        "51.63971,-0.14482",
+        "51.63971,-0.17368",
+        "51.63971,-0.23140",
+        "51.63971,-0.26026",
+        "51.65770,-0.11596",
+        "51.65770,-0.14482",
+        "51.65770,-0.17368",
+        "51.65770,-0.20254",
+        "51.67568,-0.14482"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.621727,
+        "longitude": -0.28912
+      },
+      "venue_id": "56223",
+      "venue_key": "Deliveroo|56223",
+      "venue_name": "DoDough Pizza"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -67,7 +293,45 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T03:07:58.618293+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"357930\", \"venue_key\": \"Deliveroo|357930\", \"venue_name\": \"Sushi Kanbina \", \"client…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "eda83c89-a3e8-45d7-ac40-ea1242acff8c",
+      "discovered_in_areas": [
+        "51.49583,-0.17368",
+        "51.49583,-0.20254",
+        "51.51381,-0.17368",
+        "51.51381,-0.20254",
+        "51.53180,-0.20254"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.495827,
+        "longitude": -0.20254
+      },
+      "venue_id": "357930",
+      "venue_key": "Deliveroo|357930",
+      "venue_name": "Sushi Kanbina "
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -80,7 +344,64 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T13:12:07.786863+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"717611\", \"venue_key\": \"Deliveroo|717611\", \"venue_name\": \"Aso Rock Express\", \"clie…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "893096ea-93e5-4c6b-9780-b8dbde541a09",
+      "discovered_in_areas": [
+        "51.51381,0.23036",
+        "51.53180,0.20150",
+        "51.53180,0.23036",
+        "51.53180,0.25922",
+        "51.54978,0.17264",
+        "51.54978,0.20150",
+        "51.54978,0.23036",
+        "51.54978,0.25922",
+        "51.54978,0.28808",
+        "51.54978,0.31694",
+        "51.56777,0.14378",
+        "51.56777,0.17264",
+        "51.56777,0.20150",
+        "51.56777,0.23036",
+        "51.56777,0.25922",
+        "51.56777,0.28808",
+        "51.58576,0.14378",
+        "51.58576,0.17264",
+        "51.58576,0.20150",
+        "51.58576,0.23036",
+        "51.58576,0.25922",
+        "51.60374,0.14378",
+        "51.60374,0.17264",
+        "51.60374,0.23036"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.513813,
+        "longitude": 0.230361
+      },
+      "venue_id": "717611",
+      "venue_key": "Deliveroo|717611",
+      "venue_name": "Aso Rock Express"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -93,7 +414,58 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T08:18:14.674434+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"553486\", \"venue_key\": \"Deliveroo|553486\", \"venue_name\": \"Colombo Taste\", \"client_…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "f115ac26-34fa-4041-a792-841999b150e9",
+      "discovered_in_areas": [
+        "51.51381,-0.28912",
+        "51.51381,-0.31798",
+        "51.51381,-0.34684",
+        "51.51381,-0.37570",
+        "51.53180,-0.26026",
+        "51.53180,-0.28912",
+        "51.53180,-0.31798",
+        "51.53180,-0.34684",
+        "51.53180,-0.37570",
+        "51.54978,-0.26026",
+        "51.54978,-0.28912",
+        "51.54978,-0.31798",
+        "51.54978,-0.34684",
+        "51.54978,-0.37570",
+        "51.56777,-0.28912",
+        "51.56777,-0.31798",
+        "51.56777,-0.34684",
+        "51.56777,-0.37570"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.513813,
+        "longitude": -0.3757
+      },
+      "venue_id": "553486",
+      "venue_key": "Deliveroo|553486",
+      "venue_name": "Colombo Taste"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -106,7 +478,59 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T02:50:43.946399+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"348227\", \"venue_key\": \"Deliveroo|348227\", \"venue_name\": \"Yaprak Stanmore\", \"clien…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "d1f557c8-c243-47d5-a7d0-b61c179442d9",
+      "discovered_in_areas": [
+        "51.58576,-0.28912",
+        "51.58576,-0.31798",
+        "51.58576,-0.34684",
+        "51.58576,-0.37570",
+        "51.58576,-0.40456",
+        "51.60374,-0.23140",
+        "51.60374,-0.26026",
+        "51.60374,-0.28912",
+        "51.60374,-0.31798",
+        "51.60374,-0.34684",
+        "51.60374,-0.37570",
+        "51.60374,-0.40456",
+        "51.62173,-0.23140",
+        "51.62173,-0.26026",
+        "51.62173,-0.28912",
+        "51.62173,-0.31798",
+        "51.62173,-0.34684",
+        "51.63971,-0.23140",
+        "51.63971,-0.26026"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.585755,
+        "longitude": -0.40456
+      },
+      "venue_id": "348227",
+      "venue_key": "Deliveroo|348227",
+      "venue_name": "Yaprak Stanmore"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -119,7 +543,530 @@
   {
     "app_name": "Uber Eats",
     "checked_at": "2026-11-08T00:27:10.120623+00:00",
-    "discovery_record": "{\"app_name\": \"Uber Eats\", \"location\": {\"address\": \"Unit 2 - 120 Chrisp Street, London, EMEA E14 6NL\", \"latitude\": 51.514…",
+    "discovery_record": {
+      "app_name": "Uber Eats",
+      "canonical_venue_id": "venue_a5fc522d72e35d24ab36e80e3407bea1",
+      "discovered_in_areas": [
+        "51.35194,0.14378",
+        "51.36993,-0.00052",
+        "51.36993,0.02834",
+        "51.36993,0.05720",
+        "51.36993,0.08606",
+        "51.36993,0.11492",
+        "51.36993,0.14378",
+        "51.38791,-0.00052",
+        "51.38791,-0.02938",
+        "51.38791,-0.05824",
+        "51.38791,-0.08710",
+        "51.38791,0.02834",
+        "51.38791,0.05720",
+        "51.38791,0.08606",
+        "51.38791,0.11492",
+        "51.38791,0.14378",
+        "51.40590,-0.00052",
+        "51.40590,-0.02938",
+        "51.40590,-0.05824",
+        "51.40590,-0.31798",
+        "51.40590,-0.34684",
+        "51.40590,0.02834",
+        "51.40590,0.05720",
+        "51.40590,0.08606",
+        "51.40590,0.11492",
+        "51.40590,0.14378",
+        "51.42388,-0.00052",
+        "51.42388,-0.34684",
+        "51.42388,0.02834",
+        "51.42388,0.05720",
+        "51.42388,0.08606",
+        "51.42388,0.11492",
+        "51.42388,0.14378",
+        "51.44187,-0.00052",
+        "51.44187,-0.02938",
+        "51.44187,0.02834",
+        "51.44187,0.05720",
+        "51.44187,0.08606",
+        "51.44187,0.11492",
+        "51.44187,0.14378",
+        "51.44187,0.17264",
+        "51.45986,-0.00052",
+        "51.45986,-0.02938",
+        "51.45986,-0.05824",
+        "51.45986,-0.08710",
+        "51.45986,-0.11596",
+        "51.45986,-0.14482",
+        "51.45986,-0.17368",
+        "51.45986,-0.20254",
+        "51.45986,-0.31798",
+        "51.45986,0.02834",
+        "51.45986,0.05720",
+        "51.45986,0.08606",
+        "51.45986,0.11492",
+        "51.45986,0.14378",
+        "51.45986,0.17264",
+        "51.45986,0.20150",
+        "51.47784,-0.00052",
+        "51.47784,-0.02938",
+        "51.47784,-0.05824",
+        "51.47784,-0.14482",
+        "51.47784,-0.17368",
+        "51.47784,-0.28912",
+        "51.47784,-0.31798",
+        "51.47784,-0.34684",
+        "51.47784,-0.37570",
+        "51.47784,0.02834",
+        "51.47784,0.05720",
+        "51.47784,0.08606",
+        "51.47784,0.11492",
+        "51.47784,0.14378",
+        "51.47784,0.17264",
+        "51.47784,0.20150",
+        "51.49583,-0.00052",
+        "51.49583,-0.02938",
+        "51.49583,-0.05824",
+        "51.49583,-0.08710",
+        "51.49583,-0.11596",
+        "51.49583,-0.37570",
+        "51.49583,-0.40456",
+        "51.49583,0.02834",
+        "51.49583,0.05720",
+        "51.49583,0.08606",
+        "51.49583,0.11492",
+        "51.49583,0.14378",
+        "51.49583,0.17264",
+        "51.51381,-0.00052",
+        "51.51381,-0.02938",
+        "51.51381,-0.05824",
+        "51.51381,-0.08710",
+        "51.51381,-0.11596",
+        "51.51381,-0.34684",
+        "51.51381,-0.37570",
+        "51.51381,0.02834",
+        "51.51381,0.05720",
+        "51.51381,0.08606",
+        "51.51381,0.11492",
+        "51.51381,0.14378",
+        "51.51381,0.17264",
+        "51.53180,-0.00052",
+        "51.53180,-0.02938",
+        "51.53180,-0.05824",
+        "51.53180,-0.08710",
+        "51.53180,-0.37570",
+        "51.53180,0.02834",
+        "51.53180,0.05720",
+        "51.53180,0.08606",
+        "51.53180,0.11492",
+        "51.53180,0.14378",
+        "51.53180,0.17264",
+        "51.53180,0.20150",
+        "51.53180,0.23036",
+        "51.53180,0.25922",
+        "51.54978,-0.00052",
+        "51.54978,-0.02938",
+        "51.54978,-0.05824",
+        "51.54978,-0.08710",
+        "51.54978,-0.11596",
+        "51.54978,-0.40456",
+        "51.54978,-0.43342",
+        "51.54978,0.02834",
+        "51.54978,0.05720",
+        "51.54978,0.08606",
+        "51.54978,0.11492",
+        "51.54978,0.14378",
+        "51.54978,0.17264",
+        "51.54978,0.20150",
+        "51.54978,0.23036",
+        "51.54978,0.25922",
+        "51.56777,-0.00052",
+        "51.56777,-0.02938",
+        "51.56777,-0.05824",
+        "51.56777,-0.08710",
+        "51.56777,-0.11596",
+        "51.56777,-0.14482",
+        "51.56777,-0.40456",
+        "51.56777,-0.43342",
+        "51.56777,-0.46228",
+        "51.56777,0.02834",
+        "51.56777,0.05720",
+        "51.56777,0.08606",
+        "51.56777,0.11492",
+        "51.56777,0.14378",
+        "51.56777,0.17264",
+        "51.56777,0.20150",
+        "51.56777,0.23036",
+        "51.58576,-0.00052",
+        "51.58576,-0.02938",
+        "51.58576,-0.05824",
+        "51.58576,-0.08710",
+        "51.58576,-0.11596",
+        "51.58576,-0.14482",
+        "51.58576,-0.40456",
+        "51.58576,-0.43342",
+        "51.58576,0.02834",
+        "51.58576,0.05720",
+        "51.58576,0.08606",
+        "51.58576,0.11492",
+        "51.58576,0.14378",
+        "51.58576,0.17264",
+        "51.58576,0.20150",
+        "51.58576,0.23036",
+        "51.58576,0.25922",
+        "51.60374,-0.00052",
+        "51.60374,-0.02938",
+        "51.60374,-0.05824",
+        "51.60374,-0.08710",
+        "51.60374,-0.11596",
+        "51.60374,-0.14482",
+        "51.60374,-0.17368",
+        "51.60374,-0.20254",
+        "51.60374,-0.23140",
+        "51.60374,-0.26026",
+        "51.60374,-0.28912",
+        "51.60374,-0.31798",
+        "51.60374,-0.34684",
+        "51.60374,-0.37570",
+        "51.60374,-0.40456",
+        "51.60374,0.02834",
+        "51.60374,0.05720",
+        "51.60374,0.08606",
+        "51.60374,0.11492",
+        "51.60374,0.14378",
+        "51.60374,0.17264",
+        "51.60374,0.20150",
+        "51.60374,0.23036",
+        "51.62173,-0.00052",
+        "51.62173,-0.02938",
+        "51.62173,-0.05824",
+        "51.62173,-0.08710",
+        "51.62173,-0.11596",
+        "51.62173,-0.14482",
+        "51.62173,-0.17368",
+        "51.62173,-0.20254",
+        "51.62173,-0.23140",
+        "51.62173,-0.26026",
+        "51.62173,-0.28912",
+        "51.62173,-0.31798",
+        "51.62173,-0.34684",
+        "51.62173,0.02834",
+        "51.62173,0.14378",
+        "51.62173,0.20150",
+        "51.62173,0.23036",
+        "51.63971,-0.00052",
+        "51.63971,-0.02938",
+        "51.63971,-0.05824",
+        "51.63971,-0.08710",
+        "51.63971,-0.11596",
+        "51.63971,-0.14482",
+        "51.63971,-0.17368",
+        "51.63971,-0.20254",
+        "51.63971,-0.23140",
+        "51.63971,-0.26026",
+        "51.65770,-0.02938",
+        "51.65770,-0.05824",
+        "51.65770,-0.08710",
+        "51.65770,-0.11596",
+        "51.65770,-0.14482",
+        "51.65770,-0.17368",
+        "51.65770,-0.20254",
+        "51.65770,-0.23140",
+        "51.67568,-0.02938",
+        "51.67568,-0.05824",
+        "51.67568,-0.08710",
+        "51.67568,-0.11596",
+        "51.67568,-0.14482"
+      ],
+      "discovered_in_modes": [
+        "delivery",
+        "pickup"
+      ],
+      "discovery": {
+        "categories": [
+          {
+            "keyName": "pizza",
+            "name": "pizza",
+            "uuid": "pizza"
+          },
+          {
+            "keyName": "fishandchips",
+            "name": "fishandchips",
+            "uuid": "fishandchips"
+          },
+          {
+            "keyName": "vegetarian",
+            "name": "vegetarian",
+            "uuid": "vegetarian"
+          },
+          {
+            "keyName": "Halal",
+            "name": "Halal",
+            "uuid": "Halal"
+          },
+          {
+            "keyName": "Burger",
+            "name": "Burgers",
+            "uuid": "7c39b0c5-c7f2-445f-b5a4-2d3358cf0774"
+          }
+        ],
+        "enabledFulfillmentTypes": [
+          "DELIVERY_THIRD_PARTY",
+          "PICKUP"
+        ],
+        "isOrderable": false,
+        "location": {
+          "address": {
+            "address1": "Unit 2 - 120 Chrisp Street",
+            "city": "London",
+            "country": "GB",
+            "formattedAddress": "Unit 2 - 120 Chrisp Street, London, EMEA E14 6NL",
+            "postalCode": "E14 6NL",
+            "region": "EMEA"
+          },
+          "latitude": 51.5146786,
+          "longitude": -0.0147279
+        },
+        "rawRatingStats": {
+          "ratingCount": "54",
+          "storeRatingScore": 3.5806451612903225
+        },
+        "slug": "buffalo",
+        "title": "Buffalo",
+        "uuid": "2113a771-d5b5-595b-9e12-7be5128d87be"
+      },
+      "discovery_audit": {
+        "app_name": "Uber Eats",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.605208+00:00",
+        "completed_searches": 75471,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 32495,
+        "distinct_source_venues": 32593,
+        "pages": 248454,
+        "pickup_only_venues": 98,
+        "pickup_venues": 23470,
+        "query_count": 74675,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "delivery",
+      "location": {
+        "address": "Unit 2 - 120 Chrisp Street, London, EMEA E14 6NL",
+        "latitude": 51.5146786,
+        "longitude": -0.0147279,
+        "postcode": "E14 6NL",
+        "postcode_basis": "source_field",
+        "postcode_status": "complete",
+        "source_postcode": "E14 6NL"
+      },
+      "menu_availability_evidence": {
+        "catalog_sections": {
+          "241225e0-f387-4bc8-b947-a5214a782616": [
+            {
+              "catalogSectionUUID": "241225e0-f387-4bc8-b947-a5214a782616",
+              "payload": {
+                "emptyStatePayload": {
+                  "emptystateviewmodel": {
+                    "badge": {
+                      "customBadgeData": {
+                        "badgeIllustration": {
+                          "illustration": {
+                            "type": "urlImage",
+                            "urlImage": {
+                              "dayImageUrl": "https://cn-geo1.uber.com/static/mobile-content/eats/presentation-mobile-web-shared/error_ice_cream@2x.png",
+                              "dimensions": {
+                                "height": {
+                                  "pointValue": 96,
+                                  "type": "pointValue"
+                                },
+                                "width": {
+                                  "pointValue": 113,
+                                  "type": "pointValue"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "type": "customBadgeData"
+                    },
+                    "headline": {
+                      "accessibilityText": "All items are out of stock here",
+                      "richTextElements": [
+                        {
+                          "text": {
+                            "predefinedDecorations": null,
+                            "text": {
+                              "color": "CONTENT_PRIMARY",
+                              "font": {
+                                "style": "HEADING_X_SMALL",
+                                "weight": "MEDIUM"
+                              },
+                              "text": "All items are out of stock here"
+                            }
+                          },
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    "paragraph": {
+                      "accessibilityText": "Check back later for updates",
+                      "richTextElements": [
+                        {
+                          "text": {
+                            "predefinedDecorations": null,
+                            "text": {
+                              "color": "CONTENT_PRIMARY",
+                              "font": {
+                                "style": "PARAGRAPH_DEFAULT",
+                                "weight": "NORMAL"
+                              },
+                              "text": "Check back later for updates"
+                            }
+                          },
+                          "type": "text"
+                        }
+                      ]
+                    }
+                  },
+                  "sectionUUID": "8b6d4c1f-63ba-4722-8755-9d5124484e9b",
+                  "spanCount": 0
+                },
+                "type": "emptyStatePayload"
+              },
+              "type": "EMPTY_STATE"
+            }
+          ]
+        },
+        "checked_at": "2026-11-08T00:27:10.120612+00:00",
+        "dining_mode": "DELIVERY",
+        "is_orderable": false,
+        "venue_id": "2113a771-d5b5-595b-9e12-7be5128d87be"
+      },
+      "postcode_compact": "E146NL",
+      "search_context": {
+        "latitude": 51.405899,
+        "longitude": -0.34684
+      },
+      "source_url": "https://www.ubereats.com/store/buffalo/IROncdW1WVueEnvlEo2Hvg",
+      "venue_id": "2113a771-d5b5-595b-9e12-7be5128d87be",
+      "venue_key": "Uber Eats|2113a771-d5b5-595b-9e12-7be5128d87be",
+      "venue_match": {
+        "evidence": {},
+        "method_version": "1.0",
+        "review_candidates": [],
+        "status": "unmatched"
+      },
+      "venue_name": "Buffalo",
+      "venue_record": {
+        "acquisition_method": "android_app_api",
+        "app_name": "Uber Eats",
+        "canonical_venue_id": "venue_a5fc522d72e35d24ab36e80e3407bea1",
+        "categories": [
+          {
+            "category_id": "food_type.pizza",
+            "dimension": "food_type",
+            "name": "Pizza"
+          },
+          {
+            "category_id": "venue_attribute.vegetarian_options",
+            "dimension": "venue_attribute",
+            "name": "Vegetarian Options"
+          },
+          {
+            "category_id": "venue_attribute.halal_options",
+            "dimension": "venue_attribute",
+            "name": "Halal Options"
+          },
+          {
+            "category_id": "food_type.burgers",
+            "dimension": "food_type",
+            "name": "Burgers"
+          }
+        ],
+        "category_context": {
+          "basis": "source_category",
+          "mapping_status": "partial",
+          "source_labels": [
+            "pizza",
+            "fishandchips",
+            "vegetarian",
+            "Halal",
+            "Burgers"
+          ],
+          "taxonomy_version": "1.0",
+          "unmapped_labels": [
+            "fishandchips"
+          ]
+        },
+        "collected_at": "2026-11-05T19:59:29.104032+00:00",
+        "delivery": {
+          "available": null,
+          "eta": {
+            "max_minutes": null,
+            "min_minutes": null,
+            "status": "not_provided"
+          },
+          "fee": {
+            "amount": null,
+            "bands": null,
+            "currency": "GBP",
+            "status": "not_collected"
+          },
+          "minimum_order": {
+            "amount": null,
+            "currency": "GBP",
+            "status": "not_collected"
+          },
+          "source_data": {}
+        },
+        "delivery_context": {
+          "latitude": 51.405899,
+          "longitude": -0.34684,
+          "postcode": null
+        },
+        "hours": {
+          "current_notice": null,
+          "delivery_date_schedule": [],
+          "schedule": [],
+          "status": "not_collected"
+        },
+        "location": {
+          "address": "Unit 2 - 120 Chrisp Street, London, EMEA E14 6NL",
+          "latitude": 51.5146786,
+          "longitude": -0.0147279,
+          "postcode": "E14 6NL",
+          "postcode_basis": "source_field",
+          "postcode_status": "complete",
+          "source_postcode": "E14 6NL"
+        },
+        "menu_counts": {
+          "items": 0,
+          "priced_entries": 0
+        },
+        "menu_scope": "Menu entries returned by the app API for this delivery context",
+        "rating": {
+          "count": {
+            "qualifier": "not_provided",
+            "source_text": null,
+            "value": null
+          },
+          "scale_max": null,
+          "scale_status": "not_verified",
+          "status": "not_provided",
+          "value": null
+        },
+        "source_url": "https://www.ubereats.com/store/buffalo/IROncdW1WVueEnvlEo2Hvg",
+        "venue_id": "2113a771-d5b5-595b-9e12-7be5128d87be",
+        "venue_key": "Uber Eats|2113a771-d5b5-595b-9e12-7be5128d87be",
+        "venue_match": {
+          "evidence": {},
+          "method_version": "1.0",
+          "review_candidates": [],
+          "status": "unmatched"
+        },
+        "venue_name": "Buffalo"
+      }
+    },
     "failed_stage": "menus",
     "london_membership": "confirmed",
     "menu_availability_evidence": null,
@@ -132,7 +1079,52 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T06:48:42.588730+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"491925\", \"venue_key\": \"Deliveroo|491925\", \"venue_name\": \"Holy Cow! Vegan Indian\",…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "a0df3223-ec52-46af-a68d-227bddc19819",
+      "discovered_in_areas": [
+        "51.33396,-0.17368",
+        "51.33396,-0.31798",
+        "51.35194,-0.17368",
+        "51.35194,-0.20254",
+        "51.35194,-0.31798",
+        "51.36993,-0.20254",
+        "51.36993,-0.28912",
+        "51.38791,-0.23140",
+        "51.38791,-0.28912",
+        "51.40590,-0.26026",
+        "51.40590,-0.28912",
+        "51.40590,-0.31798"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.333957,
+        "longitude": -0.31798
+      },
+      "venue_id": "491925",
+      "venue_key": "Deliveroo|491925",
+      "venue_name": "Holy Cow! Vegan Indian"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -145,7 +1137,55 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T14:06:59.583024+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"746\", \"venue_key\": \"Deliveroo|746\", \"venue_name\": \"Ma Goa\", \"client_guid\": \"60e88…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "60e8847d-2a91-40f2-902c-d69768c4e027",
+      "discovered_in_areas": [
+        "51.42388,-0.20254",
+        "51.42388,-0.23140",
+        "51.42388,-0.26026",
+        "51.42388,-0.28912",
+        "51.44187,-0.20254",
+        "51.44187,-0.23140",
+        "51.44187,-0.26026",
+        "51.44187,-0.28912",
+        "51.45986,-0.20254",
+        "51.45986,-0.23140",
+        "51.45986,-0.26026",
+        "51.45986,-0.28912",
+        "51.47784,-0.20254",
+        "51.47784,-0.23140",
+        "51.47784,-0.26026"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.423885,
+        "longitude": -0.28912
+      },
+      "venue_id": "746",
+      "venue_key": "Deliveroo|746",
+      "venue_name": "Ma Goa"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -158,7 +1198,49 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T10:33:11.948163+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"636264\", \"venue_key\": \"Deliveroo|636264\", \"venue_name\": \"Hampstead Local Grocery …",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "46ebdb73-4790-4690-af0a-5b446909bc31",
+      "discovered_in_areas": [
+        "51.54978,-0.14482",
+        "51.54978,-0.17368",
+        "51.54978,-0.20254",
+        "51.56777,-0.14482",
+        "51.56777,-0.17368",
+        "51.56777,-0.20254",
+        "51.58576,-0.14482",
+        "51.58576,-0.17368",
+        "51.58576,-0.20254"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.549784,
+        "longitude": -0.20254
+      },
+      "venue_id": "636264",
+      "venue_key": "Deliveroo|636264",
+      "venue_name": "Hampstead Local Grocery Store"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -171,7 +1253,42 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T22:59:51.252564+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"219526\", \"venue_key\": \"Deliveroo|219526\", \"venue_name\": \"FAB Thai Street Food\", \"…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "44e67289-1b14-4bed-977c-ed4dad70e99d",
+      "discovered_in_areas": [
+        "51.51381,-0.08710",
+        "51.53180,-0.08710"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.513813,
+        "longitude": -0.0871
+      },
+      "venue_id": "219526",
+      "venue_key": "Deliveroo|219526",
+      "venue_name": "FAB Thai Street Food"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -184,7 +1301,61 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T09:46:13.593106+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"611154\", \"venue_key\": \"Deliveroo|611154\", \"venue_name\": \"Mojen\", \"client_guid\": \"…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "a0df3223-ec52-46af-a68d-227bddc19819",
+      "discovered_in_areas": [
+        "51.33396,-0.31798",
+        "51.35194,-0.31798",
+        "51.36993,-0.28912",
+        "51.38791,-0.23140",
+        "51.38791,-0.28912",
+        "51.40590,-0.23140",
+        "51.40590,-0.26026",
+        "51.40590,-0.28912",
+        "51.40590,-0.31798",
+        "51.40590,-0.34684",
+        "51.42388,-0.26026",
+        "51.42388,-0.28912",
+        "51.42388,-0.31798",
+        "51.42388,-0.34684",
+        "51.42388,-0.37570",
+        "51.42388,-0.40456",
+        "51.44187,-0.26026",
+        "51.44187,-0.28912",
+        "51.44187,-0.34684",
+        "51.44187,-0.37570",
+        "51.44187,-0.40456"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.333957,
+        "longitude": -0.31798
+      },
+      "venue_id": "611154",
+      "venue_key": "Deliveroo|611154",
+      "venue_name": "Mojen"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -197,7 +1368,43 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T22:44:03.283972+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"20756\", \"venue_key\": \"Deliveroo|20756\", \"venue_name\": \"Benihana Covent Garden\", \"…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "205427db-1a17-4cca-83cd-c25e89e632a6",
+      "discovered_in_areas": [
+        "51.49583,-0.11596",
+        "51.49583,-0.14482",
+        "51.51381,-0.14482"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.495827,
+        "longitude": -0.14482
+      },
+      "venue_id": "20756",
+      "venue_key": "Deliveroo|20756",
+      "venue_name": "Benihana Covent Garden"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -210,7 +1417,43 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T13:54:32.913193+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"739260\", \"venue_key\": \"Deliveroo|739260\", \"venue_name\": \"Charco Charco Yakiniku\",…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "3b3dc656-3565-47a1-b83e-963108d02746",
+      "discovered_in_areas": [
+        "51.51381,-0.11596",
+        "51.53180,-0.11596",
+        "51.53180,-0.14482"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.513813,
+        "longitude": -0.11596
+      },
+      "venue_id": "739260",
+      "venue_key": "Deliveroo|739260",
+      "venue_name": "Charco Charco Yakiniku"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -223,7 +1466,72 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T15:02:38.184512+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"773351\", \"venue_key\": \"Deliveroo|773351\", \"venue_name\": \"Crispy Cod \", \"client_gu…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "ac68abde-21d7-4cf7-981b-1e8757461d3c",
+      "discovered_in_areas": [
+        "51.36993,0.05720",
+        "51.36993,0.08606",
+        "51.36993,0.11492",
+        "51.38791,-0.00052",
+        "51.38791,0.02834",
+        "51.38791,0.05720",
+        "51.38791,0.08606",
+        "51.38791,0.11492",
+        "51.38791,0.14378",
+        "51.40590,-0.00052",
+        "51.40590,0.02834",
+        "51.40590,0.05720",
+        "51.40590,0.08606",
+        "51.40590,0.11492",
+        "51.40590,0.14378",
+        "51.42388,-0.02938",
+        "51.42388,0.05720",
+        "51.42388,0.08606",
+        "51.42388,0.11492",
+        "51.42388,0.14378",
+        "51.44187,0.02834",
+        "51.44187,0.05720",
+        "51.44187,0.08606",
+        "51.44187,0.11492",
+        "51.44187,0.14378",
+        "51.44187,0.17264",
+        "51.45986,-0.00052",
+        "51.45986,0.11492",
+        "51.45986,0.14378",
+        "51.45986,0.17264",
+        "51.47784,0.02834",
+        "51.47784,0.14378"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.369928,
+        "longitude": 0.057201
+      },
+      "venue_id": "773351",
+      "venue_key": "Deliveroo|773351",
+      "venue_name": "Crispy Cod "
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -236,7 +1544,44 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T20:26:38.273948+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"104061\", \"venue_key\": \"Deliveroo|104061\", \"venue_name\": \"PITTABUN Marylebone\", \"c…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "f350e7ff-0625-4916-aed6-89fff499be2e",
+      "discovered_in_areas": [
+        "51.51381,-0.14482",
+        "51.51381,-0.17368",
+        "51.53180,-0.14482",
+        "51.53180,-0.17368"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.513813,
+        "longitude": -0.17368
+      },
+      "venue_id": "104061",
+      "venue_key": "Deliveroo|104061",
+      "venue_name": "PITTABUN Marylebone"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -249,7 +1594,46 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T05:32:34.716719+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"444427\", \"venue_key\": \"Deliveroo|444427\", \"venue_name\": \"Easy Burger \", \"client_g…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "eda83c89-a3e8-45d7-ac40-ea1242acff8c",
+      "discovered_in_areas": [
+        "51.49583,-0.17368",
+        "51.49583,-0.20254",
+        "51.51381,-0.17368",
+        "51.51381,-0.20254",
+        "51.51381,-0.23140",
+        "51.53180,-0.20254"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.495827,
+        "longitude": -0.20254
+      },
+      "venue_id": "444427",
+      "venue_key": "Deliveroo|444427",
+      "venue_name": "Easy Burger "
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -262,7 +1646,70 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T22:51:06.537810+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"213545\", \"venue_key\": \"Deliveroo|213545\", \"venue_name\": \"Mammas Pizza.\", \"client_…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "c0d87044-97b9-4971-939b-c8cb7b6b57e6",
+      "discovered_in_areas": [
+        "51.31597,-0.08710",
+        "51.31597,-0.11596",
+        "51.33396,-0.08710",
+        "51.33396,-0.11596",
+        "51.33396,-0.14482",
+        "51.35194,-0.02938",
+        "51.35194,-0.05824",
+        "51.35194,-0.08710",
+        "51.35194,-0.11596",
+        "51.35194,-0.14482",
+        "51.36993,-0.02938",
+        "51.36993,-0.05824",
+        "51.36993,-0.08710",
+        "51.36993,-0.11596",
+        "51.36993,-0.14482",
+        "51.38791,-0.00052",
+        "51.38791,-0.02938",
+        "51.38791,-0.05824",
+        "51.38791,-0.08710",
+        "51.38791,-0.11596",
+        "51.38791,-0.14482",
+        "51.40590,-0.00052",
+        "51.40590,-0.02938",
+        "51.40590,-0.08710",
+        "51.40590,-0.11596",
+        "51.40590,-0.14482",
+        "51.42388,-0.02938",
+        "51.42388,-0.05824",
+        "51.42388,-0.08710",
+        "51.42388,-0.11596"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.315971,
+        "longitude": -0.11596
+      },
+      "venue_id": "213545",
+      "venue_key": "Deliveroo|213545",
+      "venue_name": "Mammas Pizza."
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -275,7 +1722,53 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T10:31:08.367943+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"635000\", \"venue_key\": \"Deliveroo|635000\", \"venue_name\": \"Chocolate Villa\", \"clien…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "d3b58032-86f8-4ec9-ac4e-7611fecdc881",
+      "discovered_in_areas": [
+        "51.54978,-0.00052",
+        "51.54978,-0.02938",
+        "51.54978,0.02834",
+        "51.56777,-0.00052",
+        "51.56777,-0.02938",
+        "51.56777,-0.05824",
+        "51.56777,0.02834",
+        "51.58576,-0.00052",
+        "51.58576,-0.02938",
+        "51.58576,0.02834",
+        "51.60374,-0.00052",
+        "51.60374,-0.02938",
+        "51.60374,0.02834"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.549784,
+        "longitude": -0.02938
+      },
+      "venue_id": "635000",
+      "venue_key": "Deliveroo|635000",
+      "venue_name": "Chocolate Villa"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -288,7 +1781,49 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T03:30:08.633126+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"371404\", \"venue_key\": \"Deliveroo|371404\", \"venue_name\": \"Anju\", \"client_guid\": \"c…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "c5dd5ea3-0a1f-459c-8c0a-6e62c566fdf9",
+      "discovered_in_areas": [
+        "51.56777,-0.05824",
+        "51.56777,-0.08710",
+        "51.56777,-0.11596",
+        "51.58576,-0.05824",
+        "51.58576,-0.08710",
+        "51.58576,-0.11596",
+        "51.58576,-0.14482",
+        "51.60374,-0.14482",
+        "51.62173,-0.11596"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.56777,
+        "longitude": -0.11596
+      },
+      "venue_id": "371404",
+      "venue_key": "Deliveroo|371404",
+      "venue_name": "Anju"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -301,7 +1836,57 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T21:29:37.715831+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"149037\", \"venue_key\": \"Deliveroo|149037\", \"venue_name\": \"Pizza Rocco\", \"client_gu…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "e045ab0a-4fd5-4ee8-8080-1198e3f25cf5",
+      "discovered_in_areas": [
+        "51.40590,-0.17368",
+        "51.40590,-0.20254",
+        "51.40590,-0.23140",
+        "51.40590,-0.26026",
+        "51.42388,-0.14482",
+        "51.42388,-0.17368",
+        "51.42388,-0.20254",
+        "51.42388,-0.23140",
+        "51.42388,-0.26026",
+        "51.44187,-0.17368",
+        "51.44187,-0.20254",
+        "51.44187,-0.23140",
+        "51.44187,-0.26026",
+        "51.45986,-0.17368",
+        "51.45986,-0.20254",
+        "51.45986,-0.23140",
+        "51.45986,-0.26026"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.405899,
+        "longitude": -0.26026
+      },
+      "venue_id": "149037",
+      "venue_key": "Deliveroo|149037",
+      "venue_name": "Pizza Rocco"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -314,7 +1899,43 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T01:15:57.070590+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"290626\", \"venue_key\": \"Deliveroo|290626\", \"venue_name\": \"Chewy Gooey\", \"client_gu…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "e7657551-952d-44bf-a8d5-9699e817849a",
+      "discovered_in_areas": [
+        "51.49583,-0.05824",
+        "51.51381,-0.05824",
+        "51.51381,-0.08710"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.495827,
+        "longitude": -0.05824
+      },
+      "venue_id": "290626",
+      "venue_key": "Deliveroo|290626",
+      "venue_name": "Chewy Gooey"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -327,7 +1948,50 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T21:22:31.851642+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"143844\", \"venue_key\": \"Deliveroo|143844\", \"venue_name\": \"PFC Original\", \"client_g…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "a7633f49-5358-4acb-bf66-f10a12345cd2",
+      "discovered_in_areas": [
+        "51.54978,-0.08710",
+        "51.54978,-0.11596",
+        "51.56777,-0.05824",
+        "51.56777,-0.08710",
+        "51.56777,-0.11596",
+        "51.56777,-0.14482",
+        "51.58576,-0.05824",
+        "51.58576,-0.08710",
+        "51.58576,-0.11596",
+        "51.58576,-0.14482"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.549784,
+        "longitude": -0.11596
+      },
+      "venue_id": "143844",
+      "venue_key": "Deliveroo|143844",
+      "venue_name": "PFC Original"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -340,7 +2004,43 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T03:35:08.678630+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"374925\", \"venue_key\": \"Deliveroo|374925\", \"venue_name\": \"Pinsa Pizza\", \"client_gu…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "205427db-1a17-4cca-83cd-c25e89e632a6",
+      "discovered_in_areas": [
+        "51.49583,-0.11596",
+        "51.49583,-0.14482",
+        "51.51381,-0.11596"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.495827,
+        "longitude": -0.14482
+      },
+      "venue_id": "374925",
+      "venue_key": "Deliveroo|374925",
+      "venue_name": "Pinsa Pizza"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -353,7 +2053,56 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T08:52:40.621417+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"577378\", \"venue_key\": \"Deliveroo|577378\", \"venue_name\": \"The Refectory Thai Kitch…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "244e59e4-81f9-4d97-8e6f-f67cf0964372",
+      "discovered_in_areas": [
+        "51.54978,-0.17368",
+        "51.54978,-0.20254",
+        "51.54978,-0.23140",
+        "51.56777,-0.17368",
+        "51.56777,-0.20254",
+        "51.56777,-0.23140",
+        "51.58576,-0.14482",
+        "51.58576,-0.17368",
+        "51.58576,-0.20254",
+        "51.60374,-0.17368",
+        "51.60374,-0.20254",
+        "51.60374,-0.23140",
+        "51.60374,-0.26026",
+        "51.62173,-0.17368",
+        "51.62173,-0.20254",
+        "51.62173,-0.23140"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.549784,
+        "longitude": -0.2314
+      },
+      "venue_id": "577378",
+      "venue_key": "Deliveroo|577378",
+      "venue_name": "The Refectory Thai Kitchen"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -366,7 +2115,69 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T02:58:55.712861+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"353619\", \"venue_key\": \"Deliveroo|353619\", \"venue_name\": \"Town Cafe\", \"client_guid…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "bc811074-e309-49f1-a832-2aa29e98295d",
+      "discovered_in_areas": [
+        "51.44187,-0.40456",
+        "51.44187,-0.43342",
+        "51.45986,-0.37570",
+        "51.45986,-0.40456",
+        "51.45986,-0.43342",
+        "51.45986,-0.46228",
+        "51.47784,-0.37570",
+        "51.47784,-0.40456",
+        "51.47784,-0.43342",
+        "51.47784,-0.46228",
+        "51.47784,-0.49114",
+        "51.49583,-0.37570",
+        "51.49583,-0.40456",
+        "51.49583,-0.43342",
+        "51.49583,-0.46228",
+        "51.51381,-0.34684",
+        "51.51381,-0.37570",
+        "51.51381,-0.40456",
+        "51.51381,-0.43342",
+        "51.51381,-0.46228",
+        "51.53180,-0.37570",
+        "51.53180,-0.40456",
+        "51.53180,-0.43342",
+        "51.53180,-0.46228",
+        "51.54978,-0.40456",
+        "51.54978,-0.43342",
+        "51.54978,-0.46228",
+        "51.56777,-0.43342",
+        "51.56777,-0.46228"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.441871,
+        "longitude": -0.43342
+      },
+      "venue_id": "353619",
+      "venue_key": "Deliveroo|353619",
+      "venue_name": "Town Cafe"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -379,7 +2190,63 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T10:13:18.781409+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"625031\", \"venue_key\": \"Deliveroo|625031\", \"venue_name\": \"CXI Love Food\", \"client_…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "0051edae-fa9e-42b8-ad65-4be611c19d50",
+      "discovered_in_areas": [
+        "51.53180,-0.26026",
+        "51.53180,-0.28912",
+        "51.53180,-0.31798",
+        "51.54978,-0.23140",
+        "51.54978,-0.26026",
+        "51.54978,-0.28912",
+        "51.54978,-0.31798",
+        "51.54978,-0.34684",
+        "51.56777,-0.23140",
+        "51.56777,-0.26026",
+        "51.56777,-0.28912",
+        "51.56777,-0.31798",
+        "51.56777,-0.34684",
+        "51.58576,-0.28912",
+        "51.58576,-0.31798",
+        "51.58576,-0.34684",
+        "51.58576,-0.37570",
+        "51.60374,-0.23140",
+        "51.60374,-0.26026",
+        "51.60374,-0.28912",
+        "51.60374,-0.31798",
+        "51.60374,-0.34684",
+        "51.62173,-0.28912"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.531799,
+        "longitude": -0.31798
+      },
+      "venue_id": "625031",
+      "venue_key": "Deliveroo|625031",
+      "venue_name": "CXI Love Food"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -392,7 +2259,43 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T10:09:01.943147+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"622838\", \"venue_key\": \"Deliveroo|622838\", \"venue_name\": \"Monte Forte @ The Hatch …",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "707dd45f-f027-4bf1-b7b5-07cb284c9775",
+      "discovered_in_areas": [
+        "51.29799,-0.11596",
+        "51.31597,-0.11596",
+        "51.31597,-0.14482"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.297986,
+        "longitude": -0.11596
+      },
+      "venue_id": "622838",
+      "venue_key": "Deliveroo|622838",
+      "venue_name": "Monte Forte @ The Hatch "
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -405,7 +2308,47 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T15:01:41.327167+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"772870\", \"venue_key\": \"Deliveroo|772870\", \"venue_name\": \"Bubblemania\", \"client_gu…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "eb778dde-5df0-4f27-a310-7ea77d018f2d",
+      "discovered_in_areas": [
+        "51.53180,-0.14482",
+        "51.53180,-0.17368",
+        "51.54978,-0.11596",
+        "51.54978,-0.14482",
+        "51.54978,-0.17368",
+        "51.56777,-0.14482",
+        "51.56777,-0.17368"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.531799,
+        "longitude": -0.17368
+      },
+      "venue_id": "772870",
+      "venue_key": "Deliveroo|772870",
+      "venue_name": "Bubblemania"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -418,7 +2361,49 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T01:13:57.701623+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"289863\", \"venue_key\": \"Deliveroo|289863\", \"venue_name\": \"Chick & Dip - Fried Chic…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "3be935b5-e2a8-499e-804f-5b5892cab70a",
+      "discovered_in_areas": [
+        "51.44187,-0.14482",
+        "51.44187,-0.17368",
+        "51.44187,-0.20254",
+        "51.44187,-0.23140",
+        "51.45986,-0.14482",
+        "51.45986,-0.17368",
+        "51.45986,-0.20254",
+        "51.47784,-0.14482",
+        "51.47784,-0.17368"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.441871,
+        "longitude": -0.2314
+      },
+      "venue_id": "289863",
+      "venue_key": "Deliveroo|289863",
+      "venue_name": "Chick & Dip - Fried Chicken from the Creators of Dip & Flip"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -431,7 +2416,53 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T11:52:14.874656+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"680623\", \"venue_key\": \"Deliveroo|680623\", \"venue_name\": \"General Bilimoria's Cant…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "a0751fed-8aaa-4468-aca7-d3c50b0485d9",
+      "discovered_in_areas": [
+        "51.58576,0.02834",
+        "51.58576,0.05720",
+        "51.58576,0.08606",
+        "51.60374,-0.00052",
+        "51.60374,0.02834",
+        "51.60374,0.05720",
+        "51.60374,0.08606",
+        "51.60374,0.11492",
+        "51.60374,0.14378",
+        "51.62173,-0.00052",
+        "51.62173,-0.02938",
+        "51.62173,0.02834",
+        "51.63971,-0.00052"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.585755,
+        "longitude": 0.028341
+      },
+      "venue_id": "680623",
+      "venue_key": "Deliveroo|680623",
+      "venue_name": "General Bilimoria's Canteen"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -444,7 +2475,56 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T03:18:40.888733+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"365113\", \"venue_key\": \"Deliveroo|365113\", \"venue_name\": \"EatFan x Railway Telegra…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "7136512c-0bdb-406b-9872-cacaf563016a",
+      "discovered_in_areas": [
+        "51.38791,-0.00052",
+        "51.38791,-0.02938",
+        "51.38791,0.02834",
+        "51.40590,-0.00052",
+        "51.40590,-0.02938",
+        "51.40590,0.02834",
+        "51.42388,-0.02938",
+        "51.42388,-0.05824",
+        "51.42388,-0.08710",
+        "51.44187,-0.02938",
+        "51.44187,-0.05824",
+        "51.44187,-0.08710",
+        "51.45986,-0.00052",
+        "51.45986,-0.02938",
+        "51.45986,-0.05824",
+        "51.45986,-0.08710"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.387914,
+        "longitude": -0.02938
+      },
+      "venue_id": "365113",
+      "venue_key": "Deliveroo|365113",
+      "venue_name": "EatFan x Railway Telegraph"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -457,7 +2537,43 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T01:56:33.009139+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"309483\", \"venue_key\": \"Deliveroo|309483\", \"venue_name\": \"Cojean\", \"client_guid\": …",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "5fd0f744-c1fd-4bcd-876e-8c0a9bd0e440",
+      "discovered_in_areas": [
+        "51.49583,-0.08710",
+        "51.51381,-0.08710",
+        "51.53180,-0.08710"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.495827,
+        "longitude": -0.0871
+      },
+      "venue_id": "309483",
+      "venue_key": "Deliveroo|309483",
+      "venue_name": "Cojean"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -470,7 +2586,43 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T15:33:34.009973+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"789414\", \"venue_key\": \"Deliveroo|789414\", \"venue_name\": \"Sushi Tachi\", \"client_gu…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "5fd0f744-c1fd-4bcd-876e-8c0a9bd0e440",
+      "discovered_in_areas": [
+        "51.49583,-0.05824",
+        "51.49583,-0.08710",
+        "51.51381,-0.08710"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.495827,
+        "longitude": -0.0871
+      },
+      "venue_id": "789414",
+      "venue_key": "Deliveroo|789414",
+      "venue_name": "Sushi Tachi"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -483,7 +2635,44 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T11:35:07.819650+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"671562\", \"venue_key\": \"Deliveroo|671562\", \"venue_name\": \"Vegan Chicken\", \"client_…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "ec712532-6224-4eec-b6d8-b5ab8d993835",
+      "discovered_in_areas": [
+        "51.54978,-0.05824",
+        "51.54978,-0.08710",
+        "51.56777,-0.05824",
+        "51.56777,-0.08710"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.549784,
+        "longitude": -0.0871
+      },
+      "venue_id": "671562",
+      "venue_key": "Deliveroo|671562",
+      "venue_name": "Vegan Chicken"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -496,7 +2685,63 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T03:34:31.175562+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"374611\", \"venue_key\": \"Deliveroo|374611\", \"venue_name\": \"Rostokoko - Authentic Ro…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "1308843a-9714-41ec-9cf5-0229958f8662",
+      "discovered_in_areas": [
+        "51.54978,-0.26026",
+        "51.54978,-0.28912",
+        "51.56777,-0.20254",
+        "51.56777,-0.23140",
+        "51.56777,-0.26026",
+        "51.56777,-0.28912",
+        "51.56777,-0.31798",
+        "51.58576,-0.20254",
+        "51.58576,-0.26026",
+        "51.58576,-0.28912",
+        "51.58576,-0.31798",
+        "51.60374,-0.20254",
+        "51.60374,-0.23140",
+        "51.60374,-0.26026",
+        "51.60374,-0.28912",
+        "51.60374,-0.31798",
+        "51.62173,-0.20254",
+        "51.62173,-0.23140",
+        "51.62173,-0.26026",
+        "51.62173,-0.28912",
+        "51.62173,-0.31798",
+        "51.63971,-0.23140",
+        "51.63971,-0.26026"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.549784,
+        "longitude": -0.28912
+      },
+      "venue_id": "374611",
+      "venue_key": "Deliveroo|374611",
+      "venue_name": "Rostokoko - Authentic Rotisserie Chicken"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -509,7 +2754,54 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T00:31:18.672944+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"272124\", \"venue_key\": \"Deliveroo|272124\", \"venue_name\": \"VegaBibi\", \"client_guid\"…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "0673ed74-aaaa-480a-96dd-fd5c26c01dc5",
+      "discovered_in_areas": [
+        "51.56777,-0.08710",
+        "51.56777,-0.11596",
+        "51.56777,-0.14482",
+        "51.58576,-0.08710",
+        "51.58576,-0.11596",
+        "51.58576,-0.14482",
+        "51.58576,-0.17368",
+        "51.60374,-0.14482",
+        "51.60374,-0.17368",
+        "51.62173,-0.11596",
+        "51.62173,-0.17368",
+        "51.63971,-0.11596",
+        "51.63971,-0.14482",
+        "51.63971,-0.17368"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.56777,
+        "longitude": -0.14482
+      },
+      "venue_id": "272124",
+      "venue_key": "Deliveroo|272124",
+      "venue_name": "VegaBibi"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -522,7 +2814,61 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T10:16:24.903484+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"626877\", \"venue_key\": \"Deliveroo|626877\", \"venue_name\": \"SUMER Restaurant & Shish…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "a0df3223-ec52-46af-a68d-227bddc19819",
+      "discovered_in_areas": [
+        "51.33396,-0.31798",
+        "51.35194,-0.20254",
+        "51.35194,-0.31798",
+        "51.36993,-0.20254",
+        "51.36993,-0.28912",
+        "51.38791,-0.23140",
+        "51.38791,-0.26026",
+        "51.38791,-0.28912",
+        "51.40590,-0.20254",
+        "51.40590,-0.23140",
+        "51.40590,-0.26026",
+        "51.40590,-0.28912",
+        "51.40590,-0.31798",
+        "51.40590,-0.34684",
+        "51.42388,-0.20254",
+        "51.42388,-0.23140",
+        "51.42388,-0.26026",
+        "51.42388,-0.28912",
+        "51.42388,-0.31798",
+        "51.44187,-0.26026",
+        "51.44187,-0.28912"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.333957,
+        "longitude": -0.31798
+      },
+      "venue_id": "626877",
+      "venue_key": "Deliveroo|626877",
+      "venue_name": "SUMER Restaurant & Shisha Lounge"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -535,7 +2881,60 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T20:36:46.979776+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"112753\", \"venue_key\": \"Deliveroo|112753\", \"venue_name\": \"Jaipur Restaurant\", \"cli…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "221ae6d7-10e7-4773-a057-49d8229d45b5",
+      "discovered_in_areas": [
+        "51.56777,0.05720",
+        "51.56777,0.08606",
+        "51.56777,0.11492",
+        "51.58576,-0.00052",
+        "51.58576,0.02834",
+        "51.58576,0.05720",
+        "51.58576,0.08606",
+        "51.58576,0.11492",
+        "51.58576,0.14378",
+        "51.58576,0.17264",
+        "51.60374,-0.00052",
+        "51.60374,0.02834",
+        "51.60374,0.05720",
+        "51.60374,0.08606",
+        "51.60374,0.11492",
+        "51.60374,0.14378",
+        "51.60374,0.17264",
+        "51.62173,-0.00052",
+        "51.62173,0.02834",
+        "51.63971,-0.00052"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.56777,
+        "longitude": 0.057201
+      },
+      "venue_id": "112753",
+      "venue_key": "Deliveroo|112753",
+      "venue_name": "Jaipur Restaurant"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -548,7 +2947,51 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T01:38:48.754943+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"300969\", \"venue_key\": \"Deliveroo|300969\", \"venue_name\": \"Baz & Fred’s Pizza\", \"cl…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "99d944a9-0540-455a-b89f-f93ea119bf4d",
+      "discovered_in_areas": [
+        "51.42388,-0.08710",
+        "51.44187,-0.05824",
+        "51.44187,-0.08710",
+        "51.44187,-0.11596",
+        "51.44187,-0.14482",
+        "51.45986,-0.05824",
+        "51.45986,-0.08710",
+        "51.45986,-0.11596",
+        "51.45986,-0.14482",
+        "51.47784,-0.08710",
+        "51.47784,-0.11596"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.423885,
+        "longitude": -0.0871
+      },
+      "venue_id": "300969",
+      "venue_key": "Deliveroo|300969",
+      "venue_name": "Baz & Fred’s Pizza"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -561,7 +3004,49 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T21:55:57.801980+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"168673\", \"venue_key\": \"Deliveroo|168673\", \"venue_name\": \"En Root\", \"client_guid\":…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "a9c424bb-b1ba-47a2-a767-32bfe9c524f8",
+      "discovered_in_areas": [
+        "51.42388,-0.11596",
+        "51.44187,-0.08710",
+        "51.44187,-0.11596",
+        "51.44187,-0.14482",
+        "51.45986,-0.08710",
+        "51.45986,-0.11596",
+        "51.45986,-0.14482",
+        "51.47784,-0.11596",
+        "51.47784,-0.14482"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.423885,
+        "longitude": -0.11596
+      },
+      "venue_id": "168673",
+      "venue_key": "Deliveroo|168673",
+      "venue_name": "En Root"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -574,7 +3059,54 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T16:43:23.586280+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"824813\", \"venue_key\": \"Deliveroo|824813\", \"venue_name\": \"Salih \", \"client_guid\": …",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "f4c31bb8-ccb1-40b3-85f8-ea7530f8dda2",
+      "discovered_in_areas": [
+        "51.40590,-0.00052",
+        "51.40590,0.02834",
+        "51.40590,0.05720",
+        "51.42388,-0.02938",
+        "51.42388,0.05720",
+        "51.44187,-0.02938",
+        "51.44187,-0.05824",
+        "51.44187,0.08606",
+        "51.45986,-0.00052",
+        "51.45986,-0.02938",
+        "51.45986,-0.05824",
+        "51.47784,-0.00052",
+        "51.47784,-0.02938",
+        "51.47784,0.02834"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.405899,
+        "longitude": -0.000519
+      },
+      "venue_id": "824813",
+      "venue_key": "Deliveroo|824813",
+      "venue_name": "Salih "
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -587,7 +3119,67 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-04T21:16:36.155317+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"139739\", \"venue_key\": \"Deliveroo|139739\", \"venue_name\": \"Sevaa Pure Vegetarian\", …",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "6233f12c-7e14-4b9c-8b45-6e4ff71998b8",
+      "discovered_in_areas": [
+        "51.54978,-0.28912",
+        "51.54978,-0.31798",
+        "51.54978,-0.34684",
+        "51.54978,-0.37570",
+        "51.56777,-0.26026",
+        "51.56777,-0.28912",
+        "51.56777,-0.31798",
+        "51.56777,-0.34684",
+        "51.56777,-0.37570",
+        "51.56777,-0.40456",
+        "51.58576,-0.28912",
+        "51.58576,-0.31798",
+        "51.58576,-0.34684",
+        "51.58576,-0.37570",
+        "51.58576,-0.40456",
+        "51.58576,-0.43342",
+        "51.60374,-0.26026",
+        "51.60374,-0.28912",
+        "51.60374,-0.31798",
+        "51.60374,-0.34684",
+        "51.60374,-0.37570",
+        "51.60374,-0.40456",
+        "51.62173,-0.26026",
+        "51.62173,-0.28912",
+        "51.62173,-0.31798",
+        "51.62173,-0.34684",
+        "51.63971,-0.26026"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.549784,
+        "longitude": -0.3757
+      },
+      "venue_id": "139739",
+      "venue_key": "Deliveroo|139739",
+      "venue_name": "Sevaa Pure Vegetarian"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -600,7 +3192,49 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T13:05:40.205948+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"714689\", \"venue_key\": \"Deliveroo|714689\", \"venue_name\": \"Its Thecha\", \"client_gui…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "99d944a9-0540-455a-b89f-f93ea119bf4d",
+      "discovered_in_areas": [
+        "51.42388,-0.08710",
+        "51.44187,-0.05824",
+        "51.44187,-0.08710",
+        "51.44187,-0.11596",
+        "51.45986,-0.05824",
+        "51.45986,-0.08710",
+        "51.45986,-0.11596",
+        "51.47784,-0.08710",
+        "51.47784,-0.11596"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.423885,
+        "longitude": -0.0871
+      },
+      "venue_id": "714689",
+      "venue_key": "Deliveroo|714689",
+      "venue_name": "Its Thecha"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -613,7 +3247,62 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T01:19:08.718098+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"292450\", \"venue_key\": \"Deliveroo|292450\", \"venue_name\": \"Yoriya\", \"client_guid\": …",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "a0df3223-ec52-46af-a68d-227bddc19819",
+      "discovered_in_areas": [
+        "51.33396,-0.31798",
+        "51.35194,-0.31798",
+        "51.36993,-0.28912",
+        "51.38791,-0.23140",
+        "51.38791,-0.28912",
+        "51.40590,-0.23140",
+        "51.40590,-0.26026",
+        "51.40590,-0.28912",
+        "51.40590,-0.31798",
+        "51.40590,-0.34684",
+        "51.42388,-0.23140",
+        "51.42388,-0.26026",
+        "51.42388,-0.28912",
+        "51.42388,-0.31798",
+        "51.42388,-0.34684",
+        "51.42388,-0.37570",
+        "51.42388,-0.40456",
+        "51.44187,-0.26026",
+        "51.44187,-0.28912",
+        "51.44187,-0.34684",
+        "51.44187,-0.37570",
+        "51.45986,-0.31798"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.333957,
+        "longitude": -0.31798
+      },
+      "venue_id": "292450",
+      "venue_key": "Deliveroo|292450",
+      "venue_name": "Yoriya"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -626,7 +3315,42 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T05:03:34.817801+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"426613\", \"venue_key\": \"Deliveroo|426613\", \"venue_name\": \"Pastrami Dog\", \"client_g…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "86b1e01b-f54a-4a80-bbcd-d3f5222c1a3c",
+      "discovered_in_areas": [
+        "51.53180,-0.05824",
+        "51.53180,-0.08710"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.531799,
+        "longitude": -0.0871
+      },
+      "venue_id": "426613",
+      "venue_key": "Deliveroo|426613",
+      "venue_name": "Pastrami Dog"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,
@@ -639,7 +3363,53 @@
   {
     "app_name": "Deliveroo",
     "checked_at": "2026-11-05T13:17:23.198187+00:00",
-    "discovery_record": "{\"app_name\": \"Deliveroo\", \"venue_id\": \"720842\", \"venue_key\": \"Deliveroo|720842\", \"venue_name\": \"AL-Baik Chicken\", \"clien…",
+    "discovery_record": {
+      "app_name": "Deliveroo",
+      "client_guid": "20fc6d6b-fcb4-449b-9e12-d4104bb4408e",
+      "discovered_in_areas": [
+        "51.51381,-0.00052",
+        "51.51381,0.02834",
+        "51.51381,0.05720",
+        "51.53180,-0.00052",
+        "51.53180,0.02834",
+        "51.53180,0.05720",
+        "51.54978,-0.00052",
+        "51.54978,-0.02938",
+        "51.54978,0.02834",
+        "51.54978,0.05720",
+        "51.56777,-0.00052",
+        "51.56777,0.02834",
+        "51.56777,0.05720"
+      ],
+      "discovered_in_modes": [
+        "pickup"
+      ],
+      "discovery_audit": {
+        "app_name": "Deliveroo",
+        "area_count": 398,
+        "checked_at": "2026-11-04T17:30:47.598699+00:00",
+        "completed_searches": 796,
+        "coverage_status": "configured_delivery_and_pickup_searches_completed",
+        "delivery_venues": 24549,
+        "distinct_source_venues": 48734,
+        "pages": 796,
+        "pickup_only_venues": 24185,
+        "pickup_venues": 42413,
+        "query_count": 0,
+        "unresolved_limitations": [
+          "Location-conditioned discovery is not an independently verified platform-wide census.",
+          "Venue counts precede Greater London boundary filtering."
+        ]
+      },
+      "discovery_mode": "pickup",
+      "search_context": {
+        "latitude": 51.513813,
+        "longitude": -0.000519
+      },
+      "venue_id": "720842",
+      "venue_key": "Deliveroo|720842",
+      "venue_name": "AL-Baik Chicken"
+    },
     "failed_stage": "venue_details",
     "london_membership": "unverified",
     "menu_availability_evidence": null,

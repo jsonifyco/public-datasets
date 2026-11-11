@@ -18,7 +18,35 @@
     "price_note": null,
     "source": "Entertainment.ie",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-11-21\", \"genre\": nu…",
+    "source_observations": [
+      {
+        "artist/headliner": "Woah! Mama!",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-21",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Entertainment.ie:44957:2026-11-21",
+        "event_name": "Woah! Mama!",
+        "event_url": "https://entertainment.ie/events/event/show-cork/coughlans-live-bar-cork/woah-mama/music-44957",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "22:00",
+        "price_max_eur": 0,
+        "price_min_eur": 0,
+        "price_note": null,
+        "source": "Entertainment.ie",
+        "source_event_id": "44957",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Listed under Date; not identified as doors or show time.",
+        "venue": "Coughlan's Live Bar Cork"
+      }
+    ],
     "source_urls": [
       "https://entertainment.ie/events/event/show-cork/coughlans-live-bar-cork/woah-mama/music-44957"
     ],
@@ -47,7 +75,37 @@
     "price_note": null,
     "source": "Dolans",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Limerick\", \"date\": \"2026-11-27\", \"genre\"…",
+    "source_observations": [
+      {
+        "artist/headliner": "Pa Sheehy",
+        "city": "Limerick",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Limerick",
+        "date": "2026-11-27",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Dolans:871601:2026-11-27",
+        "event_name": "Pa Sheehy",
+        "event_url": "https://www.dolans.ie/gigs-events-live-music-listings/2026/11/27/pa-sheehy",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Dolans",
+        "source_event_id": "871601",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://dolans.yapsody.com/event/index/871601/pa-sheehy"
+        ],
+        "time_note": "Event time is not labelled as doors or stage time.",
+        "venue": "Dolans Warehouse"
+      }
+    ],
     "source_urls": [
       "https://www.dolans.ie/gigs-events-live-music-listings/2026/11/27/pa-sheehy"
     ],
@@ -76,7 +134,35 @@
     "price_note": "FREE! Tickets are available on the door.",
     "source": "Róisín Dubh",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Galway\", \"date\": \"2026-11-09\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Bounce",
+        "city": "Galway",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Galway",
+        "date": "2026-11-09",
+        "detail_status": "event detail verified",
+        "doors_time": "20:00",
+        "event_id": "Róisín Dubh:81587:2026-11-09",
+        "event_name": "Bounce",
+        "event_url": "https://roisindubh.net/listings/bounce-2026-11-09-200000-81587",
+        "genre": "Club night",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": "FREE! Tickets are available on the door.",
+        "source": "Róisín Dubh",
+        "source_event_id": "81587",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Unlabelled event time.",
+        "venue": "Róisín Dubh"
+      }
+    ],
     "source_urls": [
       "https://roisindubh.net/listings/bounce-2026-11-09-200000-81587"
     ],
@@ -105,7 +191,62 @@
     "price_note": null,
     "source": "Cyprus Avenue | Entertainment.ie",
     "source_count": 2,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-11-20\", \"genre\": \"I…",
+    "source_observations": [
+      {
+        "artist/headliner": "Highstool Prophets",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-20",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Cyprus Avenue:11195881:2026-11-20",
+        "event_name": "Highstool Prophets",
+        "event_url": "https://www.cyprusavenue.ie/gigs/highstool-prophets-11195881",
+        "genre": "Irish folk",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 30,
+        "price_min_eur": 30,
+        "price_note": null,
+        "source": "Cyprus Avenue",
+        "source_event_id": "11195881",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "sold out",
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "Cyprus Avenue"
+      },
+      {
+        "artist/headliner": "Highstool Prophets",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-20",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Entertainment.ie:41800:2026-11-20",
+        "event_name": "Highstool Prophets",
+        "event_url": "https://entertainment.ie/events/event/show-cork/cyprus-avenue/highstool-prophets/music-41800",
+        "genre": "Irish folk",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:00",
+        "price_max_eur": 30,
+        "price_min_eur": 30,
+        "price_note": null,
+        "source": "Entertainment.ie",
+        "source_event_id": "41800",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Listed as Date time; not identified as doors or show time.",
+        "venue": "Cyprus Avenue"
+      }
+    ],
     "source_urls": [
       "https://entertainment.ie/events/event/show-cork/cyprus-avenue/highstool-prophets/music-41800",
       "https://www.cyprusavenue.ie/gigs/highstool-prophets-11195881"
@@ -135,7 +276,37 @@
     "price_note": null,
     "source": "Cyprus Avenue",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-11-14\", \"genre\": \"H…",
+    "source_observations": [
+      {
+        "artist/headliner": "DJ Jean",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-14",
+        "detail_status": "event detail verified",
+        "doors_time": "23:00",
+        "event_id": "Cyprus Avenue:11195791:2026-11-14",
+        "event_name": "DJ Jean",
+        "event_url": "https://www.cyprusavenue.ie/gigs/dj-jean-11195791",
+        "genre": "House",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 20,
+        "price_min_eur": 20,
+        "price_note": null,
+        "source": "Cyprus Avenue",
+        "source_event_id": "11195791",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.eventbrite.ie/e/dj-jean-tickets-1987091218325"
+        ],
+        "time_note": null,
+        "venue": "Cyprus Avenue"
+      }
+    ],
     "source_urls": [
       "https://www.cyprusavenue.ie/gigs/dj-jean-11195791"
     ],
@@ -164,7 +335,37 @@
     "price_note": "From €48.70 including booking fee and €2 restoration levy.",
     "source": "3Olympia",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-28\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Swae Lee",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-28",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "3Olympia:0433bdf62b270b17:2026-11-28",
+        "event_name": "Swae Lee",
+        "event_url": "https://www.3olympia.ie/whats-on/swae-lee",
+        "genre": "Hip-hop",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 48.7,
+        "price_note": "From €48.70 including booking fee and €2 restoration levy.",
+        "source": "3Olympia",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/198239/5310433"
+        ],
+        "time_note": "Approximate stage times will be posted when received from production.",
+        "venue": "3Olympia Theatre"
+      }
+    ],
     "source_urls": [
       "https://www.3olympia.ie/whats-on/swae-lee"
     ],
@@ -193,7 +394,35 @@
     "price_note": null,
     "source": "Cyprus Avenue",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-11-21\", \"genre\": nu…",
+    "source_observations": [
+      {
+        "artist/headliner": "Shobsy",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-21",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Cyprus Avenue:11199183:2026-11-21",
+        "event_name": "Shobsy",
+        "event_url": "https://www.cyprusavenue.ie/gigs/shobsy-11199183",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 15,
+        "price_min_eur": 15,
+        "price_note": null,
+        "source": "Cyprus Avenue",
+        "source_event_id": "11199183",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "Wavelength (Cyprus Avenue Rooftop)"
+      }
+    ],
     "source_urls": [
       "https://www.cyprusavenue.ie/gigs/shobsy-11199183"
     ],
@@ -222,7 +451,37 @@
     "price_note": null,
     "source": "Vicar Street",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-30\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Christy Moore",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-30",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Vicar Street:2323:2026-11-30",
+        "event_name": "Christy Moore",
+        "event_url": "https://www.vicarstreet.com/thelist-dashboard/show/2323-christy-moore-1788251840-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-30-Nov-2026.html",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Vicar Street",
+        "source_event_id": "2323",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/christy-moore-dublin-30-11-2026/event/1800651FBCB4F223"
+        ],
+        "time_note": null,
+        "venue": "Vicar Street"
+      }
+    ],
     "source_urls": [
       "https://www.vicarstreet.com/thelist-dashboard/show/2323-christy-moore-1788251840-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-30-Nov-2026.html"
     ],
@@ -251,7 +510,37 @@
     "price_note": "From €24.99",
     "source": "TradFest",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2027-01-21\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Luka Bloom",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2027-01-21",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "TradFest:d42c0629390978f3:2027-01-21",
+        "event_name": "Luka Bloom",
+        "event_url": "https://tradfest.com/artist-lineup/luka-bloom",
+        "genre": "Folk",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": null,
+        "price_min_eur": 24.99,
+        "price_note": "From €24.99",
+        "source": "TradFest",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://tradfest.ticketsolve.com/ticketbooth/shows/1173694933"
+        ],
+        "time_note": "Listed under Discover the events; not labelled as doors or show time.",
+        "venue": "St Maelruain’s Church"
+      }
+    ],
     "source_urls": [
       "https://tradfest.com/artist-lineup/luka-bloom"
     ],
@@ -280,7 +569,35 @@
     "price_note": null,
     "source": "Cyprus Avenue",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-12-03\", \"genre\": \"C…",
+    "source_observations": [
+      {
+        "artist/headliner": "One Night In Nashville",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-12-03",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Cyprus Avenue:11195926:2026-12-03",
+        "event_name": "One Night In Nashville",
+        "event_url": "https://www.cyprusavenue.ie/gigs/one-night-in-nashville-11195926",
+        "genre": "Country",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 22.5,
+        "price_min_eur": 22.5,
+        "price_note": null,
+        "source": "Cyprus Avenue",
+        "source_event_id": "11195926",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "Cyprus Avenue"
+      }
+    ],
     "source_urls": [
       "https://www.cyprusavenue.ie/gigs/one-night-in-nashville-11195926"
     ],
@@ -309,7 +626,39 @@
     "price_note": "From €43.20 including booking fee and €2 restoration levy",
     "source": "3Olympia",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-12-14\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Razorlight",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-12-14",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "3Olympia:6d1851261c35e33d:2026-12-14",
+        "event_name": "Razorlight",
+        "event_url": "https://www.3olympia.ie/whats-on/razorlight",
+        "genre": "Rock, indie",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 43.2,
+        "price_note": "From €43.20 including booking fee and €2 restoration levy",
+        "source": "3Olympia",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "The Molotovs"
+        ],
+        "ticket_status": "few left",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/198239/932937"
+        ],
+        "time_note": null,
+        "venue": "3Olympia Theatre"
+      }
+    ],
     "source_urls": [
       "https://www.3olympia.ie/whats-on/razorlight"
     ],
@@ -342,7 +691,68 @@
     "price_note": "Price from €36.85 including booking fee and €2 restoration levy.",
     "source": "3Olympia | Ticketmaster.ie",
     "source_count": 2,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-11\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "MUNA",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-11",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "3Olympia:3291f5e88e02b573:2026-11-11",
+        "event_name": "MUNA",
+        "event_url": "https://www.3olympia.ie/whats-on/muna",
+        "genre": "indie-pop",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 36.85,
+        "price_note": "Price from €36.85 including booking fee and €2 restoration levy.",
+        "source": "3Olympia",
+        "source_event_id": null,
+        "start_time": "21:10",
+        "support_acts": [
+          "EMMMA"
+        ],
+        "ticket_status": "sold out",
+        "ticket_urls": [],
+        "time_note": "Stage time subject to change.",
+        "venue": "3Olympia Theatre"
+      },
+      {
+        "artist/headliner": "MUNA",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": null,
+        "date": "2026-11-11",
+        "detail_status": "calendar verified; event detail unavailable",
+        "doors_time": null,
+        "event_id": "Ticketmaster.ie:180064A5B326F0EE:2026-11-11",
+        "event_name": "MUNA",
+        "event_url": "https://www.ticketmaster.ie/muna-dublin-11-11-2026/event/180064A5B326F0EE",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Ticketmaster.ie",
+        "source_event_id": "180064A5B326F0EE",
+        "start_time": null,
+        "support_acts": [
+          "EMMMA"
+        ],
+        "ticket_status": "few left",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/muna-dublin-11-11-2026/event/180064A5B326F0EE"
+        ],
+        "time_note": "Unlabelled listing time.",
+        "venue": "3Olympia Theatre"
+      }
+    ],
     "source_urls": [
       "https://www.3olympia.ie/whats-on/muna",
       "https://www.ticketmaster.ie/muna-dublin-11-11-2026/event/180064A5B326F0EE"
@@ -374,7 +784,62 @@
     "price_note": null,
     "source": "Cyprus Avenue | Entertainment.ie",
     "source_count": 2,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-11-28\", \"genre\": nu…",
+    "source_observations": [
+      {
+        "artist/headliner": "Duke Special",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-28",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Cyprus Avenue:11196644:2026-11-28",
+        "event_name": "Duke Special - Songs From The Deep Forest 20th Anniversary Show",
+        "event_url": "https://www.cyprusavenue.ie/gigs/duke-special-songs-from-the-deep-forest-20th-anniversary-show-11196644",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 27.5,
+        "price_min_eur": 27.5,
+        "price_note": null,
+        "source": "Cyprus Avenue",
+        "source_event_id": "11196644",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "Cyprus Avenue"
+      },
+      {
+        "artist/headliner": "Duke Special",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-28",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Entertainment.ie:42188:2026-11-28",
+        "event_name": "Duke Special",
+        "event_url": "https://entertainment.ie/events/event/show-cork/cyprus-avenue/duke-special/music-42188",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:00",
+        "price_max_eur": 27.5,
+        "price_min_eur": 27.5,
+        "price_note": null,
+        "source": "Entertainment.ie",
+        "source_event_id": "42188",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Listed under Date; not identified as doors or show time.",
+        "venue": "Cyprus Avenue"
+      }
+    ],
     "source_urls": [
       "https://entertainment.ie/events/event/show-cork/cyprus-avenue/duke-special/music-42188",
       "https://www.cyprusavenue.ie/gigs/duke-special-songs-from-the-deep-forest-20th-anniversary-show-11196644"
@@ -404,7 +869,39 @@
     "price_note": null,
     "source": "3Arena",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-21\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Noah Kahan",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-21",
+        "detail_status": "event detail verified",
+        "doors_time": "18:30",
+        "event_id": "3Arena:74304bfadcc901c3:2026-11-21",
+        "event_name": "Noah Kahan",
+        "event_url": "https://3arena.ie/events/noah-kahan",
+        "genre": "Folk",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 99.9,
+        "price_note": null,
+        "source": "3Arena",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "Bella Kay"
+        ],
+        "ticket_status": "sold out",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/197033/5233848"
+        ],
+        "time_note": null,
+        "venue": "3Arena"
+      }
+    ],
     "source_urls": [
       "https://3arena.ie/events/noah-kahan"
     ],
@@ -435,7 +932,37 @@
     "price_note": "All ticket prices include a booking charge.",
     "source": "Dolans",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Limerick\", \"date\": \"2026-12-02\", \"genre\"…",
+    "source_observations": [
+      {
+        "artist/headliner": "Aaron Rowe",
+        "city": "Limerick",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Limerick",
+        "date": "2026-12-02",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Dolans:877411:2026-12-02",
+        "event_name": "Aaron Rowe-VENUE UPGRADE",
+        "event_url": "https://www.dolans.ie/gigs-events-live-music-listings/2026/12/2/aaron-rowe",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": "All ticket prices include a booking charge.",
+        "source": "Dolans",
+        "source_event_id": "877411",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://dolanspresents.yapsody.com/event/index/877411/aaron-rowe"
+        ],
+        "time_note": "Event time is not labelled as doors or stage time; 22:30 is the listed end time.",
+        "venue": "Live at the Big Top"
+      }
+    ],
     "source_urls": [
       "https://www.dolans.ie/gigs-events-live-music-listings/2026/12/2/aaron-rowe"
     ],
@@ -464,7 +991,35 @@
     "price_note": null,
     "source": "TradFest",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2027-01-21\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Flook",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2027-01-21",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "TradFest:384303b61a36d685:2027-01-21",
+        "event_name": "Flook 30th Anniversary",
+        "event_url": "https://tradfest.com/artist-lineup/flook-30th-anniversary",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 29.99,
+        "price_note": null,
+        "source": "TradFest",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "sold out",
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "The Pepper Canister Church"
+      }
+    ],
     "source_urls": [
       "https://tradfest.com/artist-lineup/flook-30th-anniversary"
     ],
@@ -493,7 +1048,35 @@
     "price_note": "€7 at the doors.",
     "source": "Róisín Dubh",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Galway\", \"date\": \"2026-11-17\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Ted & Joe",
+        "city": "Galway",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Galway",
+        "date": "2026-11-17",
+        "detail_status": "event detail verified",
+        "doors_time": "23:00",
+        "event_id": "Róisín Dubh:81458:2026-11-17",
+        "event_name": "Silent Disco On Tuesdays",
+        "event_url": "https://roisindubh.net/listings/silent-disco-on-tuesdays-2026-11-17-200000-81458",
+        "genre": "Silent disco",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "23:00",
+        "price_max_eur": 7,
+        "price_min_eur": 7,
+        "price_note": "€7 at the doors.",
+        "source": "Róisín Dubh",
+        "source_event_id": "81458",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Listing time is unlabelled; event detail specifies doors at 23:00.",
+        "venue": "Róisín Dubh"
+      }
+    ],
     "source_urls": [
       "https://roisindubh.net/listings/silent-disco-on-tuesdays-2026-11-17-200000-81458"
     ],
@@ -522,7 +1105,37 @@
     "price_note": "50c per ticket service charge applies.",
     "source": "Whelan's",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-14\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Bec O’Malley",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-14",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Whelan's:0c89107aa18d7602:2026-11-14",
+        "event_name": "Bec O’Malley",
+        "event_url": "https://www.whelanslive.com/event/bec-omalley-14-11-26",
+        "genre": "Country, indie",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:30",
+        "price_max_eur": 17,
+        "price_min_eur": 17,
+        "price_note": "50c per ticket service charge applies.",
+        "source": "Whelan's",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.whelanslive.com/ticket/bec-omalley-14-11-26"
+        ],
+        "time_note": "Time listed without a doors or show label.",
+        "venue": "Whelan's Upstairs"
+      }
+    ],
     "source_urls": [
       "https://www.whelanslive.com/event/bec-omalley-14-11-26"
     ],
@@ -551,7 +1164,35 @@
     "price_note": null,
     "source": "Róisín Dubh",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Galway\", \"date\": \"2026-11-11\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "KhakiKid",
+        "city": "Galway",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Galway",
+        "date": "2026-11-11",
+        "detail_status": "event detail verified",
+        "doors_time": "20:00",
+        "event_id": "Róisín Dubh:81308:2026-11-11",
+        "event_name": "KhakiKid",
+        "event_url": "https://roisindubh.net/listings/khakikid-2026-11-11-200000-81308",
+        "genre": "Alt-rap",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": 25,
+        "price_min_eur": 25,
+        "price_note": null,
+        "source": "Róisín Dubh",
+        "source_event_id": "81308",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "sold out",
+        "ticket_urls": [],
+        "time_note": "Unlabelled event time.",
+        "venue": "Róisín Dubh"
+      }
+    ],
     "source_urls": [
       "https://roisindubh.net/listings/khakikid-2026-11-11-200000-81308"
     ],
@@ -580,7 +1221,37 @@
     "price_note": "€1 per ticket service charge applies.",
     "source": "Whelan's",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-22\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Pauric O’Meara",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-22",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Whelan's:3ef8bb02a81112da:2026-11-22",
+        "event_name": "Pauric O’Meara",
+        "event_url": "https://www.whelanslive.com/event/pauric-omeara",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": 16.5,
+        "price_min_eur": 16.5,
+        "price_note": "€1 per ticket service charge applies.",
+        "source": "Whelan's",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.whelanslive.com/ticket/pauric-omeara"
+        ],
+        "time_note": "Time listed without a doors or show label.",
+        "venue": "Whelan's Main Venue"
+      }
+    ],
     "source_urls": [
       "https://www.whelanslive.com/event/pauric-omeara"
     ],
@@ -609,7 +1280,35 @@
     "price_note": null,
     "source": "Entertainment.ie",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-11-27\", \"genre\": nu…",
+    "source_observations": [
+      {
+        "artist/headliner": "Clodagh Quirke & Cathal Fitz",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-27",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Entertainment.ie:44418:2026-11-27",
+        "event_name": "Clodagh Quirke & Cathal Fitz",
+        "event_url": "https://entertainment.ie/events/event/show-cork/coughlans-live-bar-cork/clodagh-quirke-cathal-fitz/music-44418",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": 15,
+        "price_min_eur": 15,
+        "price_note": null,
+        "source": "Entertainment.ie",
+        "source_event_id": "44418",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Listed under Date; not identified as doors or show time.",
+        "venue": "Coughlan's Live Bar Cork"
+      }
+    ],
     "source_urls": [
       "https://entertainment.ie/events/event/show-cork/coughlans-live-bar-cork/clodagh-quirke-cathal-fitz/music-44418"
     ],
@@ -638,7 +1337,37 @@
     "price_note": "€1 per ticket service charge applies.",
     "source": "Whelan's",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-24\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Spike Fuck",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-24",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Whelan's:8055464caa609507:2026-11-24",
+        "event_name": "Spike Fuck",
+        "event_url": "https://www.whelanslive.com/event/spike-fuck",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": 20,
+        "price_min_eur": 20,
+        "price_note": "€1 per ticket service charge applies.",
+        "source": "Whelan's",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.whelanslive.com/ticket/spike-fuck"
+        ],
+        "time_note": "Time listed without a doors or show label.",
+        "venue": "Whelan's Upstairs"
+      }
+    ],
     "source_urls": [
       "https://www.whelanslive.com/event/spike-fuck"
     ],
@@ -667,7 +1396,35 @@
     "price_note": "€7 at the doors.",
     "source": "Róisín Dubh",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Galway\", \"date\": \"2026-11-24\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Ted & Joe",
+        "city": "Galway",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Galway",
+        "date": "2026-11-24",
+        "detail_status": "event detail verified",
+        "doors_time": "23:00",
+        "event_id": "Róisín Dubh:81459:2026-11-24",
+        "event_name": "Silent Disco On Tuesdays",
+        "event_url": "https://roisindubh.net/listings/silent-disco-on-tuesdays-2026-11-24-200000-81459",
+        "genre": "Silent disco",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "23:00",
+        "price_max_eur": 7,
+        "price_min_eur": 7,
+        "price_note": "€7 at the doors.",
+        "source": "Róisín Dubh",
+        "source_event_id": "81459",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Unlabelled event time.",
+        "venue": "Róisín Dubh"
+      }
+    ],
     "source_urls": [
       "https://roisindubh.net/listings/silent-disco-on-tuesdays-2026-11-24-200000-81459"
     ],
@@ -696,7 +1453,40 @@
     "price_note": "50c per ticket service charge applies.",
     "source": "Whelan's",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-30\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "The Kyd G",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-30",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Whelan's:1c7c83ece89f2bc1:2026-11-30",
+        "event_name": "The Kyd G",
+        "event_url": "https://www.whelanslive.com/event/the-kyd-g",
+        "genre": "Hip-hop, R&B, trap, Brazilian phonk",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": 12,
+        "price_min_eur": 8,
+        "price_note": "50c per ticket service charge applies.",
+        "source": "Whelan's",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "$ONA BLUE",
+          "COSMIC"
+        ],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.whelanslive.com/ticket/the-kyd-g"
+        ],
+        "time_note": "Time listed without a doors or show label.",
+        "venue": "Whelan's Upstairs"
+      }
+    ],
     "source_urls": [
       "https://www.whelanslive.com/event/the-kyd-g"
     ],
@@ -728,7 +1518,39 @@
     "price_note": null,
     "source": "Button Factory",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-18\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Sarah Jane Morris",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-18",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Button Factory:f06f22dd415e04af:2026-11-18",
+        "event_name": "CURVEBALL: Sarah Jane Morris",
+        "event_url": "https://www.buttonfactory.ie/shows/2026/11/18/sarah-jane-morris",
+        "genre": "jazz and soul",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Button Factory",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "Suzanne Rhatigan"
+        ],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.eventbrite.ie/e/sarah-jane-morris-live-at-curveball-tickets-2001245963549"
+        ],
+        "time_note": "Unlabelled time; the page also lists 23:00 on 2026-11-19 but does not confirm a separate performance that day.",
+        "venue": "Button Factory"
+      }
+    ],
     "source_urls": [
       "https://www.buttonfactory.ie/shows/2026/11/18/sarah-jane-morris"
     ],
@@ -759,7 +1581,37 @@
     "price_note": null,
     "source": "The Academy",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-17\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "MEEK",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-17",
+        "detail_status": "venue calendar verified",
+        "doors_time": null,
+        "event_id": "The Academy:1800649CDE376481:2026-11-17",
+        "event_name": "MEEK",
+        "event_url": "https://www.ticketmaster.ie/meek-dublin-17-11-2026/event/1800649CDE376481",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "The Academy",
+        "source_event_id": "1800649CDE376481",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/meek-dublin-17-11-2026/event/1800649CDE376481"
+        ],
+        "time_note": "Unlabelled listing time.",
+        "venue": "The Academy Green Room"
+      }
+    ],
     "source_urls": [
       "https://www.ticketmaster.ie/meek-dublin-17-11-2026/event/1800649CDE376481"
     ],
@@ -788,7 +1640,37 @@
     "price_note": "Tickets priced from €52.85 to €161.55 inclusive.",
     "source": "3Arena",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-24\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Phoebe Bridgers",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-24",
+        "detail_status": "event detail verified",
+        "doors_time": "18:30",
+        "event_id": "3Arena:de785eb9074eb727:2026-11-24",
+        "event_name": "Phoebe Bridgers",
+        "event_url": "https://3arena.ie/events/phoebe-bridgers",
+        "genre": "Indie",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 161.55,
+        "price_min_eur": 52.85,
+        "price_note": "Tickets priced from €52.85 to €161.55 inclusive.",
+        "source": "3Arena",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "Isaac Wood"
+        ],
+        "ticket_status": "sold out",
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "3Arena"
+      }
+    ],
     "source_urls": [
       "https://3arena.ie/events/phoebe-bridgers"
     ],
@@ -819,7 +1701,37 @@
     "price_note": null,
     "source": "Dolans",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Limerick\", \"date\": \"2026-11-26\", \"genre\"…",
+    "source_observations": [
+      {
+        "artist/headliner": "Liam O’Brien and Brian McCann",
+        "city": "Limerick",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Limerick",
+        "date": "2026-11-26",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Dolans:877491:2026-11-26",
+        "event_name": "A New York State of Mind The Music of Tony Bennett and Billy Joel",
+        "event_url": "https://www.dolans.ie/gigs-events-live-music-listings/2026/11/26/a-new-york-state-of-mind-the-music-of-tony-bennett-and-billy-joel",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Dolans",
+        "source_event_id": "877491",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://dolans.yapsody.com/event/index/877491/A-New-York-State-of-Mind"
+        ],
+        "time_note": "Unlabelled event time; not confirmed as doors or stage time.",
+        "venue": "Dolans Upstairs"
+      }
+    ],
     "source_urls": [
       "https://www.dolans.ie/gigs-events-live-music-listings/2026/11/26/a-new-york-state-of-mind-the-music-of-tony-bennett-and-billy-joel"
     ],
@@ -848,7 +1760,40 @@
     "price_note": "50c per ticket service charge applies.",
     "source": "Whelan's",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-16\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Stephen Codd",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-16",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Whelan's:9e2d0b97188a431c:2026-11-16",
+        "event_name": "Stephen Codd",
+        "event_url": "https://www.whelanslive.com/event/stephen-codd",
+        "genre": "Indie rock, pop",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": 11,
+        "price_min_eur": 11,
+        "price_note": "50c per ticket service charge applies.",
+        "source": "Whelan's",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "Louis Judge",
+          "Scheriff"
+        ],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.whelanslive.com/ticket/stephen-codd"
+        ],
+        "time_note": "Time listed without a doors or show label.",
+        "venue": "Whelan's Upstairs"
+      }
+    ],
     "source_urls": [
       "https://www.whelanslive.com/event/stephen-codd"
     ],
@@ -880,7 +1825,62 @@
     "price_note": null,
     "source": "Cyprus Avenue | Entertainment.ie",
     "source_count": 2,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-11-13\", \"genre\": nu…",
+    "source_observations": [
+      {
+        "artist/headliner": "Khakikid",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-13",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Cyprus Avenue:11199777:2026-11-13",
+        "event_name": "Khakikid",
+        "event_url": "https://www.cyprusavenue.ie/gigs/khakikid-11199777",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 22.5,
+        "price_min_eur": 22.5,
+        "price_note": null,
+        "source": "Cyprus Avenue",
+        "source_event_id": "11199777",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "Cyprus Avenue"
+      },
+      {
+        "artist/headliner": "Khakikid",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-13",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Entertainment.ie:43079:2026-11-13",
+        "event_name": "Khakikid",
+        "event_url": "https://entertainment.ie/events/event/show-cork/cyprus-avenue/khakikid/music-43079",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:00",
+        "price_max_eur": 22.5,
+        "price_min_eur": 22.5,
+        "price_note": null,
+        "source": "Entertainment.ie",
+        "source_event_id": "43079",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Listed with date; not identified as doors or show time.",
+        "venue": "Cyprus Avenue"
+      }
+    ],
     "source_urls": [
       "https://entertainment.ie/events/event/show-cork/cyprus-avenue/khakikid/music-43079",
       "https://www.cyprusavenue.ie/gigs/khakikid-11199777"
@@ -910,7 +1910,37 @@
     "price_note": null,
     "source": "National Stadium",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-25\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Paris Paloma",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-25",
+        "detail_status": "listing verified; detail enrichment unavailable",
+        "doors_time": null,
+        "event_id": "National Stadium:180064989CA9DB6B:2026-11-25",
+        "event_name": "Paris Paloma",
+        "event_url": "https://www.ticketmaster.ie/paris-paloma-25-11-2026/event/180064989CA9DB6B",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "National Stadium",
+        "source_event_id": "180064989CA9DB6B",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/paris-paloma-25-11-2026/event/180064989CA9DB6B"
+        ],
+        "time_note": null,
+        "venue": "National Stadium"
+      }
+    ],
     "source_urls": [
       "https://www.ticketmaster.ie/paris-paloma-25-11-2026/event/180064989CA9DB6B"
     ],
@@ -942,7 +1972,91 @@
     "price_note": null,
     "source": "Cyprus Avenue | Entertainment.ie | Eventbrite",
     "source_count": 3,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-11-29\", \"genre\": nu…",
+    "source_observations": [
+      {
+        "artist/headliner": "Ash",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-29",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Cyprus Avenue:11200033:2026-11-29",
+        "event_name": "Ash - 1977 30th Anniversary Tour",
+        "event_url": "https://www.cyprusavenue.ie/gigs/ash-1977-30th-anniversary-tour-11200033",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 36,
+        "price_min_eur": 36,
+        "price_note": null,
+        "source": "Cyprus Avenue",
+        "source_event_id": "11200033",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "Cyprus Avenue"
+      },
+      {
+        "artist/headliner": "Ash",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-29",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Entertainment.ie:43236:2026-11-29",
+        "event_name": "Ash",
+        "event_url": "https://entertainment.ie/events/event/show-cork/cyprus-avenue/ash/music-43236",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:00",
+        "price_max_eur": 36,
+        "price_min_eur": 36,
+        "price_note": null,
+        "source": "Entertainment.ie",
+        "source_event_id": "43236",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": "Listed with the date; not identified as doors or show time.",
+        "venue": "Cyprus Avenue"
+      },
+      {
+        "artist/headliner": "ASH",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-11-29",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Eventbrite:1993546521310:2026-11-29",
+        "event_name": "ASH",
+        "event_url": "https://www.eventbrite.ie/e/ash-tickets-1993546521310",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:00",
+        "price_max_eur": 39.6,
+        "price_min_eur": 39.6,
+        "price_note": null,
+        "source": "Eventbrite",
+        "source_event_id": "1993546521310",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "few left",
+        "ticket_urls": [
+          "https://www.eventbrite.ie/e/ash-tickets-1993546521310"
+        ],
+        "time_note": "Unlabelled event time; listing shows 7 PM–10:30 PM",
+        "venue": "Cyprus Avenue"
+      }
+    ],
     "source_urls": [
       "https://entertainment.ie/events/event/show-cork/cyprus-avenue/ash/music-43236",
       "https://www.cyprusavenue.ie/gigs/ash-1977-30th-anniversary-tour-11200033",
@@ -973,7 +2087,37 @@
     "price_note": null,
     "source": "Ticketmaster.ie",
     "source_count": 1,
-    "source_observations": "[{\"city\": null, \"date\": \"2026-11-09\", \"genre\": null…",
+    "source_observations": [
+      {
+        "artist/headliner": "John McNicholl",
+        "city": null,
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Kerry",
+        "date": "2026-11-09",
+        "detail_status": "calendar verified; event detail unavailable",
+        "doors_time": null,
+        "event_id": "Ticketmaster.ie:180064ACE81BD610:2026-11-09",
+        "event_name": "John McNicholl Dance",
+        "event_url": "https://www.ticketmaster.ie/john-mcnicholl-dance-co-kerry-09-11-2026/event/180064ACE81BD610",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Ticketmaster.ie",
+        "source_event_id": "180064ACE81BD610",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "few left",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/john-mcnicholl-dance-co-kerry-09-11-2026/event/180064ACE81BD610"
+        ],
+        "time_note": "Unlabelled listing time.",
+        "venue": "Gleneagle Arena"
+      }
+    ],
     "source_urls": [
       "https://www.ticketmaster.ie/john-mcnicholl-dance-co-kerry-09-11-2026/event/180064ACE81BD610"
     ],
@@ -1002,7 +2146,35 @@
     "price_note": null,
     "source": "Cyprus Avenue",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2026-12-27\", \"genre\": nu…",
+    "source_observations": [
+      {
+        "artist/headliner": "Chasing Abbey",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2026-12-27",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Cyprus Avenue:11202802:2026-12-27",
+        "event_name": "Chasing Abbey",
+        "event_url": "https://www.cyprusavenue.ie/gigs/chasing-abbey-11202802",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": 28,
+        "price_min_eur": 28,
+        "price_note": null,
+        "source": "Cyprus Avenue",
+        "source_event_id": "11202802",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "Cyprus Avenue"
+      }
+    ],
     "source_urls": [
       "https://www.cyprusavenue.ie/gigs/chasing-abbey-11202802"
     ],
@@ -1031,7 +2203,39 @@
     "price_note": null,
     "source": "The Academy",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-12-03\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Enter Shikari",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-12-03",
+        "detail_status": "venue calendar verified",
+        "doors_time": null,
+        "event_id": "The Academy:180064D0A1B4A61A:2026-12-03",
+        "event_name": "Enter Shikari",
+        "event_url": "https://www.ticketmaster.ie/enter-shikari-03-12-2026/event/180064D0A1B4A61A",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "19:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "The Academy",
+        "source_event_id": "180064D0A1B4A61A",
+        "start_time": null,
+        "support_acts": [
+          "Girlfriend"
+        ],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/enter-shikari-03-12-2026/event/180064D0A1B4A61A"
+        ],
+        "time_note": "Unlabelled listing time.",
+        "venue": "The Academy"
+      }
+    ],
     "source_urls": [
       "https://www.ticketmaster.ie/enter-shikari-03-12-2026/event/180064D0A1B4A61A"
     ],
@@ -1062,7 +2266,37 @@
     "price_note": null,
     "source": "Vicar Street",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-12\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Brian Kennedy",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-12",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Vicar Street:2271:2026-11-12",
+        "event_name": "Brian Kennedy",
+        "event_url": "https://www.vicarstreet.com/thelist-dashboard/show/2271-brian-kennedy-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-12-Nov-2026.html",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Vicar Street",
+        "source_event_id": "2271",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/brian-kennedy-dublin-12-11-2026/event/1800648F92F7CFD5"
+        ],
+        "time_note": null,
+        "venue": "Vicar Street"
+      }
+    ],
     "source_urls": [
       "https://www.vicarstreet.com/thelist-dashboard/show/2271-brian-kennedy-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-12-Nov-2026.html"
     ],
@@ -1091,7 +2325,37 @@
     "price_note": null,
     "source": "Vicar Street",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-12-06\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Moncrieff",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-12-06",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Vicar Street:2349:2026-12-06",
+        "event_name": "Moncrieff",
+        "event_url": "https://www.vicarstreet.com/component/thelist/show/2349-moncrieff-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-06-Dec-2026.html?Itemid=2349",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Vicar Street",
+        "source_event_id": "2349",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/moncrieff-06-12-2026/event/18006541BA7EE21C"
+        ],
+        "time_note": null,
+        "venue": "Vicar Street"
+      }
+    ],
     "source_urls": [
       "https://www.vicarstreet.com/component/thelist/show/2349-moncrieff-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-06-Dec-2026.html?Itemid=2349"
     ],
@@ -1120,7 +2384,37 @@
     "price_note": null,
     "source": "3Arena",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-12-16\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Kneecap",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-12-16",
+        "detail_status": "event detail verified",
+        "doors_time": "18:30",
+        "event_id": "3Arena:705296e2cc2e9410:2026-12-16",
+        "event_name": "Kneecap",
+        "event_url": "https://3arena.ie/events/kneecap",
+        "genre": "Hip-Hop/Rap",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 68.2,
+        "price_note": null,
+        "source": "3Arena",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/197033/5309006"
+        ],
+        "time_note": null,
+        "venue": "3Arena"
+      }
+    ],
     "source_urls": [
       "https://3arena.ie/events/kneecap"
     ],
@@ -1149,7 +2443,37 @@
     "price_note": "Including booking fee; subject to service charge/facility fee.",
     "source": "Vicar Street",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2027-01-26\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Jose Gonzalez",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2027-01-26",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Vicar Street:2339:2027-01-26",
+        "event_name": "Jose Gonzalez",
+        "event_url": "https://www.vicarstreet.com/component/thelist/show/2339-jose-gonzalez-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-26-Jan-2027.html?Itemid=2339",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 41.7,
+        "price_note": "Including booking fee; subject to service charge/facility fee.",
+        "source": "Vicar Street",
+        "source_event_id": "2339",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/jose-gonzalez-26-01-2027/event/18006531A582B627"
+        ],
+        "time_note": null,
+        "venue": "Vicar Street"
+      }
+    ],
     "source_urls": [
       "https://www.vicarstreet.com/component/thelist/show/2339-jose-gonzalez-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-26-Jan-2027.html?Itemid=2339"
     ],
@@ -1178,7 +2502,41 @@
     "price_note": "Booking fees apply.",
     "source": "Cork Opera House",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Cork\", \"date\": \"2027-02-04\", \"genre\": nu…",
+    "source_observations": [
+      {
+        "artist/headliner": "Mike Denver",
+        "city": "Cork",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Cork",
+        "date": "2027-02-04",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Cork Opera House:5317:2027-02-04",
+        "event_name": "Mike Denver 2027",
+        "event_url": "https://www.corkoperahouse.ie/whats-on/mike-denver-2027",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": 36,
+        "price_min_eur": 36,
+        "price_note": "Booking fees apply.",
+        "source": "Cork Opera House",
+        "source_event_id": "5317",
+        "start_time": null,
+        "support_acts": [
+          "Cliona Hagan",
+          "Derek Burke"
+        ],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.corkoperahouse.ie/booking?event-id=5317&instances-id=154801",
+          "https://www.corkoperahouse.ie/whats-on/mike-denver-2027"
+        ],
+        "time_note": "Time listed without a doors or show-time label.",
+        "venue": "Cork Opera House"
+      }
+    ],
     "source_urls": [
       "https://www.corkoperahouse.ie/whats-on/mike-denver-2027"
     ],
@@ -1210,7 +2568,37 @@
     "price_note": null,
     "source": "The Academy",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-13\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Alan Fitzpatrick",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-13",
+        "detail_status": "venue calendar verified",
+        "doors_time": null,
+        "event_id": "The Academy:10703478:2026-11-13",
+        "event_name": "Index: Alan Fitzpatrick",
+        "event_url": "https://dice.fm/partner/tickets/event/oemlkr-alan-fitzpatrick-13th-nov-index-dublin-dublin-tickets?dice_id=10703478&dice_channel=web&dice_tags=organic&dice_campaign=INDEX&dice_feature=mio_marketing",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "23:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "The Academy",
+        "source_event_id": "10703478",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://dice.fm/partner/tickets/event/oemlkr-alan-fitzpatrick-13th-nov-index-dublin-dublin-tickets?dice_id=10703478&dice_channel=web&dice_tags=organic&dice_campaign=INDEX&dice_feature=mio_marketing"
+        ],
+        "time_note": "Unlabelled listing time.",
+        "venue": "The Academy"
+      }
+    ],
     "source_urls": [
       "https://dice.fm/partner/tickets/event/oemlkr-alan-fitzpatrick-13th-nov-index-dublin-dublin-tickets?dice_id=10703478&dice_channel=web&dice_tags=organic&dice_campaign=INDEX&dice_feature=mio_marketing"
     ],
@@ -1239,7 +2627,39 @@
     "price_note": "Price from €33.00 including booking fee and €2 restoration levy.",
     "source": "3Olympia",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-21\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Camille O’Sullivan",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-21",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "3Olympia:b9da7bf63a7726b1:2026-11-21",
+        "event_name": "Camille O’Sullivan: The Art Of Falling Apart",
+        "event_url": "https://www.3olympia.ie/whats-on/camille-osullivan",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 33,
+        "price_note": "Price from €33.00 including booking fee and €2 restoration levy.",
+        "source": "3Olympia",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "Earl Slick"
+        ],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/198239/1055712"
+        ],
+        "time_note": "Approximate stage times will be posted when received from production.",
+        "venue": "3Olympia Theatre"
+      }
+    ],
     "source_urls": [
       "https://www.3olympia.ie/whats-on/camille-osullivan"
     ],
@@ -1270,7 +2690,37 @@
     "price_note": "Price from €67.70",
     "source": "3Arena",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-30\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Interpol and Bloc Party",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-30",
+        "detail_status": "event detail verified",
+        "doors_time": "18:00",
+        "event_id": "3Arena:6bfb16190c31731d:2026-11-30",
+        "event_name": "Interpol and Bloc Party",
+        "event_url": "https://3arena.ie/events/bloc-party",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 67.7,
+        "price_note": "Price from €67.70",
+        "source": "3Arena",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/197033/863768"
+        ],
+        "time_note": null,
+        "venue": "3Arena"
+      }
+    ],
     "source_urls": [
       "https://3arena.ie/events/bloc-party"
     ],
@@ -1299,7 +2749,37 @@
     "price_note": null,
     "source": "Dolans",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Limerick\", \"date\": \"2026-12-04\", \"genre\"…",
+    "source_observations": [
+      {
+        "artist/headliner": "The Alvin Purple Experience",
+        "city": "Limerick",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Limerick",
+        "date": "2026-12-04",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Dolans:874417:2026-12-04",
+        "event_name": "The Alvin Purple Experience",
+        "event_url": "https://www.dolans.ie/gigs-events-live-music-listings/2026/12/4/the-alvin-purple-experience",
+        "genre": "Glam rock",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Dolans",
+        "source_event_id": "874417",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://dolans.yapsody.com/event/index/874417/the-alvin-purple-experience"
+        ],
+        "time_note": "Event page lists 20:00–23:30 without identifying doors or stage times.",
+        "venue": "Dolans Warehouse"
+      }
+    ],
     "source_urls": [
       "https://www.dolans.ie/gigs-events-live-music-listings/2026/12/4/the-alvin-purple-experience"
     ],
@@ -1328,7 +2808,37 @@
     "price_note": "Price from €62.35",
     "source": "3Arena",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-12-07\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Sex Pistols featuring Frank Carter",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-12-07",
+        "detail_status": "event detail verified",
+        "doors_time": "18:30",
+        "event_id": "3Arena:e8367768b2275397:2026-12-07",
+        "event_name": "Sex Pistols featuring Frank Carter",
+        "event_url": "https://3arena.ie/events/sex-pistols-featuring-frank-carter",
+        "genre": "Rock, Punk",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 62.35,
+        "price_note": "Price from €62.35",
+        "source": "3Arena",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/197033/5518009"
+        ],
+        "time_note": null,
+        "venue": "3Arena"
+      }
+    ],
     "source_urls": [
       "https://3arena.ie/events/sex-pistols-featuring-frank-carter"
     ],
@@ -1357,7 +2867,39 @@
     "price_note": "€1 per ticket service charge applies.",
     "source": "Whelan's",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-18\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Fat Dog",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-18",
+        "detail_status": "event detail verified",
+        "doors_time": null,
+        "event_id": "Whelan's:425454ccd7816645:2026-11-18",
+        "event_name": "Fat Dog",
+        "event_url": "https://www.whelanslive.com/event/fat-dog",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": "20:00",
+        "price_max_eur": 29,
+        "price_min_eur": 29,
+        "price_note": "€1 per ticket service charge applies.",
+        "source": "Whelan's",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "Nixer"
+        ],
+        "ticket_status": "on sale",
+        "ticket_urls": [
+          "https://www.whelanslive.com/ticket/fat-dog"
+        ],
+        "time_note": "Time listed without a doors or show label.",
+        "venue": "Whelan's Main Venue"
+      }
+    ],
     "source_urls": [
       "https://www.whelanslive.com/event/fat-dog"
     ],
@@ -1388,7 +2930,35 @@
     "price_note": null,
     "source": "Róisín Dubh",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Galway\", \"date\": \"2026-11-14\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Powerhaus",
+        "city": "Galway",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Galway",
+        "date": "2026-11-14",
+        "detail_status": "event detail verified",
+        "doors_time": "23:00",
+        "event_id": "Róisín Dubh:81113:2026-11-14",
+        "event_name": "Powerhaus",
+        "event_url": "https://roisindubh.net/listings/powerhuas-2026-11-14-230000-81113",
+        "genre": "Drag DJ",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Róisín Dubh",
+        "source_event_id": "81113",
+        "start_time": "23:00",
+        "support_acts": [],
+        "ticket_status": null,
+        "ticket_urls": [],
+        "time_note": null,
+        "venue": "Róisín Dubh (Top Bar)"
+      }
+    ],
     "source_urls": [
       "https://roisindubh.net/listings/powerhuas-2026-11-14-230000-81113"
     ],
@@ -1417,7 +2987,37 @@
     "price_note": null,
     "source": "Vicar Street",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-12-05\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Block Rockin Beats",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-12-05",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "Vicar Street:2333:2026-12-05",
+        "event_name": "Block Rockin Beats",
+        "event_url": "https://www.vicarstreet.com/component/thelist/show/2333-block-rockin-beats-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-05-Dec-2026.html?Itemid=2333",
+        "genre": "Dance",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": null,
+        "price_note": null,
+        "source": "Vicar Street",
+        "source_event_id": "2333",
+        "start_time": null,
+        "support_acts": [],
+        "ticket_status": "sold out",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/block-rockin-beats-05-12-2026/event/18006529BA2ED9D1"
+        ],
+        "time_note": null,
+        "venue": "Vicar Street"
+      }
+    ],
     "source_urls": [
       "https://www.vicarstreet.com/component/thelist/show/2333-block-rockin-beats-live-in-vicar-street-58-59-thomas-street-Dublin-8-on-05-Dec-2026.html?Itemid=2333"
     ],
@@ -1446,7 +3046,39 @@
     "price_note": "Price from €53.00 including booking fee and €2 restoration levy",
     "source": "3Olympia",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-23\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Shinedown",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-23",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "3Olympia:d944d9ff45899832:2026-11-23",
+        "event_name": "Shinedown",
+        "event_url": "https://www.3olympia.ie/whats-on/shinedown",
+        "genre": "Rock",
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 53,
+        "price_note": "Price from €53.00 including booking fee and €2 restoration levy",
+        "source": "3Olympia",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "Those Damn Crows"
+        ],
+        "ticket_status": "few left",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/198239/880497"
+        ],
+        "time_note": null,
+        "venue": "3Olympia Theatre"
+      }
+    ],
     "source_urls": [
       "https://www.3olympia.ie/whats-on/shinedown"
     ],
@@ -1477,7 +3109,39 @@
     "price_note": "Price from €46.20 including booking fee & €2 restoration levy",
     "source": "3Olympia",
     "source_count": 1,
-    "source_observations": "[{\"city\": \"Dublin\", \"date\": \"2026-11-24\", \"genre\": …",
+    "source_observations": [
+      {
+        "artist/headliner": "Blossoms",
+        "city": "Dublin",
+        "collected_at": "2026-11-09T12:57:56.940398+00:00",
+        "county": "Dublin",
+        "date": "2026-11-24",
+        "detail_status": "event detail verified",
+        "doors_time": "19:00",
+        "event_id": "3Olympia:f433c34dc3c0a384:2026-11-24",
+        "event_name": "Blossoms",
+        "event_url": "https://www.3olympia.ie/whats-on/blossoms",
+        "genre": null,
+        "in_ireland": true,
+        "is_music": true,
+        "listed_time": null,
+        "price_max_eur": null,
+        "price_min_eur": 46.2,
+        "price_note": "Price from €46.20 including booking fee & €2 restoration levy",
+        "source": "3Olympia",
+        "source_event_id": null,
+        "start_time": null,
+        "support_acts": [
+          "Arkayla"
+        ],
+        "ticket_status": "few left",
+        "ticket_urls": [
+          "https://www.ticketmaster.ie/venueartist/198239/2097211"
+        ],
+        "time_note": null,
+        "venue": "3Olympia Theatre"
+      }
+    ],
     "source_urls": [
       "https://www.3olympia.ie/whats-on/blossoms"
     ],

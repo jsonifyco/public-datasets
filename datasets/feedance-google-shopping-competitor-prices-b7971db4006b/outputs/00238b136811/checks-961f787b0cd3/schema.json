@@ -1,0 +1,66 @@
+[
+  {
+    "name": "browser_pagination_requests",
+    "type": "jsonb"
+  },
+  {
+    "name": "catalog_id",
+    "type": "text"
+  },
+  {
+    "name": "comparison_summaries_excluded",
+    "type": "integer"
+  },
+  {
+    "name": "complete",
+    "type": "boolean"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "discovery_required",
+    "type": "boolean"
+  },
+  {
+    "name": "empty_source_placeholders",
+    "type": "integer"
+  },
+  {
+    "name": "live_more_control",
+    "type": "boolean"
+  },
+  {
+    "name": "mapping_status",
+    "type": "text"
+  },
+  {
+    "name": "offers_count",
+    "type": "integer"
+  },
+  {
+    "name": "pagination_terminal",
+    "type": "text"
+  },
+  {
+    "name": "product_id",
+    "type": "text"
+  },
+  {
+    "name": "reason",
+    "type": "text"
+  },
+  {
+    "name": "requests",
+    "type": "jsonb"
+  },
+  {
+    "name": "scanned_at",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  }
+]

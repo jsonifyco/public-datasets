@@ -1,0 +1,82 @@
+[
+  {
+    "name": "availability",
+    "type": "text"
+  },
+  {
+    "name": "condition",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "is_marketplace_seller",
+    "type": "boolean"
+  },
+  {
+    "name": "list_price",
+    "type": "double precision"
+  },
+  {
+    "name": "match_confidence",
+    "type": "double precision"
+  },
+  {
+    "name": "match_method",
+    "type": "text"
+  },
+  {
+    "name": "offer_title",
+    "type": "text"
+  },
+  {
+    "name": "offer_url",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "product_id",
+    "type": "text"
+  },
+  {
+    "name": "promo_text",
+    "type": "text"
+  },
+  {
+    "name": "scanned_at",
+    "type": "text"
+  },
+  {
+    "name": "seller_domain",
+    "type": "text"
+  },
+  {
+    "name": "seller_name",
+    "type": "text"
+  },
+  {
+    "name": "shipping_cost",
+    "type": "double precision"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "total_price",
+    "type": "double precision"
+  },
+  {
+    "name": "vat_included",
+    "type": "text"
+  }
+]

@@ -1,0 +1,2 @@
+basis,cpu_seconds,elapsed_seconds,peak_rss_kib,scanned_at
+"full_collection: Collector-process CPU delta and lifetime peak RSS. Peak RSS multiplied by elapsed time is an upper-bound memory-time model, not a runtime invoice; hosted browser costs are separate.",26.861913948,1438.3384930156171,160704,2026-11-11T21:58:27.096205+00:00

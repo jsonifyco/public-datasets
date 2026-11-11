@@ -1,0 +1,38 @@
+[
+  {
+    "name": "product",
+    "type": "jsonb"
+  },
+  {
+    "name": "mapping",
+    "type": "jsonb"
+  },
+  {
+    "name": "scanned_at",
+    "type": "text"
+  },
+  {
+    "name": "cards",
+    "type": "jsonb"
+  },
+  {
+    "name": "raw_offer_arrays",
+    "type": "jsonb"
+  },
+  {
+    "name": "check",
+    "type": "jsonb"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "reason",
+    "type": "text"
+  },
+  {
+    "name": "flag",
+    "type": "boolean"
+  }
+]

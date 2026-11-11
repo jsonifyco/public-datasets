@@ -1,0 +1,22 @@
+[
+  {
+    "name": "basis",
+    "type": "text"
+  },
+  {
+    "name": "cpu_seconds",
+    "type": "double precision"
+  },
+  {
+    "name": "elapsed_seconds",
+    "type": "double precision"
+  },
+  {
+    "name": "peak_rss_kib",
+    "type": "integer"
+  },
+  {
+    "name": "scanned_at",
+    "type": "text"
+  }
+]

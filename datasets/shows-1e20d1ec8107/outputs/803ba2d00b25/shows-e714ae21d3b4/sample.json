@@ -13,7 +13,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2550,
+        "country": "GB",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2550,
+        "country": "US",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000022263/42000022263.jpg?t=1784888527857",
     "data_note": "observed title metadata",
@@ -29,7 +44,40 @@
       "BG"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Meant for Your Love\", \"ge…",
+    "localised_details": [
+      {
+        "displayed_views": "745K",
+        "genres": [
+          "Secret Crush",
+          "Love After Breakup",
+          "Redemption",
+          "Modern",
+          "Romance",
+          "BG"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Meant for Your Love",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "745K",
+        "genres": [
+          "Secret Crush",
+          "Love After Breakup",
+          "Redemption",
+          "Modern",
+          "Romance",
+          "BG"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Meant for Your Love",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -58,7 +106,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3180,
+        "country": "GB",
+        "free_episodes": 7,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3180,
+        "country": "US",
+        "free_episodes": 7,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000007566/5d310bcc-aa2c-4021-8a27-597b33291116.jpg",
     "data_note": "observed title metadata",
@@ -69,7 +132,30 @@
       "Action"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"The World's Deadliest Bod…",
+    "localised_details": [
+      {
+        "displayed_views": "526007",
+        "genres": [
+          "Action"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "The World's Deadliest Body Guard",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "526007",
+        "genres": [
+          "Action"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "The World's Deadliest Body Guard",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -121,7 +207,24 @@
       "Favorit Grup"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Gila, Hebat Banget si Put…",
+    "localised_details": [
+      {
+        "displayed_views": "4.8M",
+        "genres": [
+          "Pembalikan Identitas",
+          "Serangan Balik",
+          "Balas Dendam",
+          "Keluarga",
+          "Keadilan",
+          "Favorit Grup"
+        ],
+        "locale": "ID",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Gila, Hebat Banget si Putri",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "ID",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -361,7 +464,24 @@
       "Realeza"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"O Taberneiro Reivindicado…",
+    "localised_details": [
+      {
+        "displayed_views": "463K",
+        "genres": [
+          "Fraco a Forte",
+          "Viagem no Tempo",
+          "Intrigas Familiares",
+          "Criança perdida",
+          "Zé Ninguém",
+          "Realeza"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "O Taberneiro Reivindicado pela Imperatriz",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -390,7 +510,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3180,
+        "country": "GB",
+        "free_episodes": 13,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3180,
+        "country": "US",
+        "free_episodes": 13,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-mps.crazymaplestudios.com/images/08b35a90-2f5a-11f1-acb2-c14bef828c82.jpg",
     "data_note": "observed title metadata",
@@ -401,7 +536,30 @@
       "Historical"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Thirty Days to Love or Di…",
+    "localised_details": [
+      {
+        "displayed_views": "500473",
+        "genres": [
+          "Historical"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Thirty Days to Love or Die",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "500473",
+        "genres": [
+          "Historical"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Thirty Days to Love or Die",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -453,7 +611,24 @@
       "Takdir Cinta"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Siasat Cinta Sang Istri R…",
+    "localised_details": [
+      {
+        "displayed_views": "25.1K",
+        "genres": [
+          "Balas Dendam",
+          "Pembalikan Identitas",
+          "Intrik Keluarga",
+          "Wanita Mandiri",
+          "Cinta Terlarang",
+          "Takdir Cinta"
+        ],
+        "locale": "ID",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Siasat Cinta Sang Istri Rahasia",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "ID",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -504,7 +679,23 @@
       "Pria Dominan"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Dewa Tersembunyi\", \"genre…",
+    "localised_details": [
+      {
+        "displayed_views": "13M",
+        "genres": [
+          "Pembalikan Identitas",
+          "Kultivasi",
+          "Balas Dendam",
+          "Fantasi",
+          "Pria Dominan"
+        ],
+        "locale": "ID",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Dewa Tersembunyi",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "ID",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -552,7 +743,20 @@
       "Vingança"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Terceira Vida da Herdeira…",
+    "localised_details": [
+      {
+        "displayed_views": "1.1M",
+        "genres": [
+          "Segunda Chance",
+          "Vingança"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Terceira Vida da Herdeira",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -603,7 +807,23 @@
       "Wanita Kuat"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Malam Tanpa Penyesalan\", …",
+    "localised_details": [
+      {
+        "displayed_views": "201K",
+        "genres": [
+          "Balas Dendam",
+          "Serangan Balik",
+          "Wanita Karier",
+          "Modern",
+          "Wanita Kuat"
+        ],
+        "locale": "ID",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Malam Tanpa Penyesalan",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "ID",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -624,7 +844,24 @@
     "available_locales": [
       "BR"
     ],
-    "chart_appearances": "[{\"list\": \"MASCULINO\", \"note\": \"local…",
+    "chart_appearances": [
+      {
+        "list": "MASCULINO",
+        "list_id": "604:618",
+        "locale": "BR",
+        "note": "locale-based; not storefront-verified",
+        "observed_on": "2026-10-26",
+        "position": 10
+      },
+      {
+        "list": "POPULAR",
+        "list_id": "597:610",
+        "locale": "BR",
+        "note": "locale-based; not storefront-verified",
+        "observed_on": "2026-10-26",
+        "position": 8
+      }
+    ],
     "chart_list_appearances": 2,
     "coins_per_episode": null,
     "coins_to_finish": null,
@@ -651,7 +888,20 @@
       "Pós-Casamento"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"O Punho do Destino(Dublad…",
+    "localised_details": [
+      {
+        "displayed_views": "11.1M",
+        "genres": [
+          "Identidade Oculta",
+          "Pós-Casamento"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "O Punho do Destino(Dublado)",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -680,7 +930,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3300,
+        "country": "GB",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3300,
+        "country": "US",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000019461/42000019461.jpg?t=1782984499064",
     "data_note": "observed title metadata",
@@ -696,7 +961,40 @@
       "Royalty"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Woof, Your Majesty! Be My…",
+    "localised_details": [
+      {
+        "displayed_views": "795K",
+        "genres": [
+          "Hidden Identity",
+          "Counterattack",
+          "Palace Intrigue",
+          "BG",
+          "Romance",
+          "Royalty"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Woof, Your Majesty! Be My Forever",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "795K",
+        "genres": [
+          "Hidden Identity",
+          "Counterattack",
+          "Palace Intrigue",
+          "BG",
+          "Romance",
+          "Royalty"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Woof, Your Majesty! Be My Forever",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -718,14 +1016,46 @@
       "GB",
       "US"
     ],
-    "chart_appearances": "[{\"list\": \"TV SERIES\", \"note\": \"local…",
+    "chart_appearances": [
+      {
+        "list": "TV SERIES",
+        "list_id": "41011846",
+        "locale": "GB",
+        "note": "locale-based; not storefront-verified",
+        "observed_on": "2026-10-26",
+        "position": 13
+      },
+      {
+        "list": "TV SERIES",
+        "list_id": "41010716",
+        "locale": "US",
+        "note": "locale-based; not storefront-verified",
+        "observed_on": "2026-10-26",
+        "position": 13
+      }
+    ],
     "chart_list_appearances": 2,
     "coins_per_episode": 0,
     "coins_to_finish": 0,
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 0,
+        "cost_to_finish_coins": 0,
+        "country": "GB",
+        "free_episodes": 112,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 0,
+        "cost_to_finish_coins": 0,
+        "country": "US",
+        "free_episodes": 112,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-mps.crazymaplestudios.com/images/010c7800-b6cd-11ef-a2d6-41216ff1602c.jpg",
     "data_note": "observed title metadata",
@@ -736,7 +1066,30 @@
       "Family Drama"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Mariana & Scarlett [Origi…",
+    "localised_details": [
+      {
+        "displayed_views": "471729",
+        "genres": [
+          "Family Drama"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Mariana & Scarlett [Original]",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "471729",
+        "genres": [
+          "Family Drama"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Mariana & Scarlett [Original]",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -765,7 +1118,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3480,
+        "country": "GB",
+        "free_episodes": 11,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3480,
+        "country": "US",
+        "free_episodes": 11,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/201100000300006797/52e2bd93-6aa1-4dae-a09d-519251a71567.jpg",
     "data_note": "observed title metadata",
@@ -776,7 +1144,30 @@
       "New Adult"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"My Forbidden Professor\", …",
+    "localised_details": [
+      {
+        "displayed_views": "525157",
+        "genres": [
+          "New Adult"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "My Forbidden Professor",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "525157",
+        "genres": [
+          "New Adult"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "My Forbidden Professor",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -824,7 +1215,20 @@
       "Balas Dendam"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Pengantin Tak Terduga San…",
+    "localised_details": [
+      {
+        "displayed_views": "1033061",
+        "genres": [
+          "Kesempatan Kedua",
+          "Balas Dendam"
+        ],
+        "locale": "ID",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Pengantin Tak Terduga Sang CEO(Sulih Suara)",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "ID",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -872,7 +1276,20 @@
       "Mimado por Todos"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Sua Rosa Selvagem(Dublado…",
+    "localised_details": [
+      {
+        "displayed_views": "158783",
+        "genres": [
+          "Segunda Chance",
+          "Mimado por Todos"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Sua Rosa Selvagem(Dublado)",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -901,7 +1318,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3240,
+        "country": "GB",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 3240,
+        "country": "US",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005831/813ecee4-75cb-45c9-a535-813437a8bf9c.jpg",
     "data_note": "observed title metadata",
@@ -912,7 +1344,30 @@
       "LGBTQ+"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Love Caught Fangs and Cla…",
+    "localised_details": [
+      {
+        "displayed_views": "2363925",
+        "genres": [
+          "LGBTQ+"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Love Caught Fangs and Claws",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "2363925",
+        "genres": [
+          "LGBTQ+"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Love Caught Fangs and Claws",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -941,7 +1396,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1620,
+        "country": "GB",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1620,
+        "country": "US",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-mps.crazymaplestudios.com/images/66b29620-ef99-11f0-84ad-6b5693b490dc.jpg",
     "data_note": "observed title metadata",
@@ -952,7 +1422,30 @@
       "Family Drama"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Buried in His Lies\", \"gen…",
+    "localised_details": [
+      {
+        "displayed_views": "438143",
+        "genres": [
+          "Family Drama"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Buried in His Lies",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "438143",
+        "genres": [
+          "Family Drama"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Buried in His Lies",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -981,7 +1474,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3050,
+        "country": "GB",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3050,
+        "country": "US",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000020309/42000020309.jpg?t=1786412689677",
     "data_note": "observed title metadata",
@@ -997,7 +1505,40 @@
       "Underdog Story"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Married Into His Obsessio…",
+    "localised_details": [
+      {
+        "displayed_views": "608K",
+        "genres": [
+          "Secret Baby",
+          "Love After Marriage",
+          "Mistaken Identity",
+          "Forced Love",
+          "Billionaire",
+          "Underdog Story"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Married Into His Obsession",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "608K",
+        "genres": [
+          "Secret Baby",
+          "Love After Marriage",
+          "Mistaken Identity",
+          "Forced Love",
+          "Billionaire",
+          "Underdog Story"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Married Into His Obsession",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1044,7 +1585,19 @@
       "Divórcio"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Ajoelhe-se pelo Retorno d…",
+    "localised_details": [
+      {
+        "displayed_views": "681900",
+        "genres": [
+          "Divórcio"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Ajoelhe-se pelo Retorno da Minha Esposa Tola",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1096,7 +1649,24 @@
       "Reencarnação"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Perdi os Quilos, Ganhei o…",
+    "localised_details": [
+      {
+        "displayed_views": "556K",
+        "genres": [
+          "Romântico",
+          "Reviravolta",
+          "Motivacional",
+          "Vingança",
+          "Contra-ataque",
+          "Reencarnação"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Perdi os Quilos, Ganhei o Reino",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1184,7 +1754,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 5100,
+        "country": "GB",
+        "free_episodes": 15,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 5100,
+        "country": "US",
+        "free_episodes": 15,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-mps.crazymaplestudios.com/images/1a407ad0-e1ce-11ee-94ca-b3f9375866ba.jpg",
     "data_note": "observed title metadata",
@@ -1195,7 +1780,30 @@
       "Billionaire"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Flash-Married to My Right…",
+    "localised_details": [
+      {
+        "displayed_views": "859313",
+        "genres": [
+          "Billionaire"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Flash-Married to My Rightful Fiancé",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "859313",
+        "genres": [
+          "Billionaire"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Flash-Married to My Rightful Fiancé",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1224,7 +1832,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1980,
+        "country": "GB",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1980,
+        "country": "US",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/201300000000005161/234726a5-98b9-4da7-aa65-63d2cf44481e.jpg",
     "data_note": "observed title metadata",
@@ -1235,7 +1858,30 @@
       "Playing Dumb"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Debt of Desire and Love w…",
+    "localised_details": [
+      {
+        "displayed_views": "1995515",
+        "genres": [
+          "Playing Dumb"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Debt of Desire and Love with a Billionaire",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "1995515",
+        "genres": [
+          "Playing Dumb"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Debt of Desire and Love with a Billionaire",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1325,7 +1971,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2500,
+        "country": "GB",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2500,
+        "country": "US",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000030805/42000030805.jpg?t=1792030814676",
     "data_note": "observed title metadata",
@@ -1341,7 +2002,40 @@
       "Supernatural"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Zombie World Delivery Man…",
+    "localised_details": [
+      {
+        "displayed_views": "32.4K",
+        "genres": [
+          "Underdog Story",
+          "Gamified World",
+          "Apocalypse",
+          "A Nobody",
+          "The Chosen One",
+          "Supernatural"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Zombie World Delivery Man",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "32.4K",
+        "genres": [
+          "Underdog Story",
+          "Gamified World",
+          "Apocalypse",
+          "A Nobody",
+          "The Chosen One",
+          "Supernatural"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Zombie World Delivery Man",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1388,7 +2082,19 @@
       "Local de trabalho"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Meu Chefe Bilionário Não …",
+    "localised_details": [
+      {
+        "displayed_views": "2086500",
+        "genres": [
+          "Local de trabalho"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Meu Chefe Bilionário Não Me Deixa Pedir Demissão",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1417,7 +2123,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1740,
+        "country": "GB",
+        "free_episodes": 7,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1740,
+        "country": "US",
+        "free_episodes": 7,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000008947/1d16b8ec-f0e3-4c62-9bdf-65c8e7a9cfea.jpg",
     "data_note": "observed title metadata",
@@ -1428,7 +2149,30 @@
       "Billionaire"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"One Night with My Boyfrie…",
+    "localised_details": [
+      {
+        "displayed_views": "1644399",
+        "genres": [
+          "Billionaire"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "One Night with My Boyfriend's Brother: The Mafia Don",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "1644399",
+        "genres": [
+          "Billionaire"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "One Night with My Boyfriend's Brother: The Mafia Don",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1457,7 +2201,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 0,
+        "cost_to_finish_coins": 0,
+        "country": "GB",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 0,
+        "cost_to_finish_coins": 0,
+        "country": "US",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-mps.crazymaplestudios.com/images/1bbc2240-cf37-11ef-9487-233a2ec55662.jpg",
     "data_note": "observed title metadata",
@@ -1468,7 +2227,30 @@
       "Reality Show"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"ReelTalk EP4-The Reel Mag…",
+    "localised_details": [
+      {
+        "displayed_views": "372388",
+        "genres": [
+          "Reality Show"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "ReelTalk EP4-The Reel Magic and High Notes",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "372388",
+        "genres": [
+          "Reality Show"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "ReelTalk EP4-The Reel Magic and High Notes",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1520,7 +2302,24 @@
       "Bangkitnya Orang Biasa"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Bosnya Seratus Ribu Anak …",
+    "localised_details": [
+      {
+        "displayed_views": "1.2M",
+        "genres": [
+          "Serangan Balik",
+          "Balas Dendam",
+          "Kekuatan Khusus",
+          "Modern",
+          "Pria Dominan",
+          "Bangkitnya Orang Biasa"
+        ],
+        "locale": "ID",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Bosnya Seratus Ribu Anak Buah",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "ID",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1568,7 +2367,20 @@
       "Teka-Teki Identitas"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Suami Kontrakku Ternyata …",
+    "localised_details": [
+      {
+        "displayed_views": "12.1M",
+        "genres": [
+          "Balas Dendam",
+          "Teka-Teki Identitas"
+        ],
+        "locale": "ID",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Suami Kontrakku Ternyata Naga",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "ID",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1597,7 +2409,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 4140,
+        "country": "GB",
+        "free_episodes": 11,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 4140,
+        "country": "US",
+        "free_episodes": 11,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-mps.crazymaplestudios.com/images/36f03c50-470f-11ef-a96f-c3bf05c2bf9d.jpg",
     "data_note": "observed title metadata",
@@ -1608,7 +2435,30 @@
       "Divorce"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"CEO, That Intern is Actua…",
+    "localised_details": [
+      {
+        "displayed_views": "5814982",
+        "genres": [
+          "Divorce"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "CEO, That Intern is Actually Your Wife",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "5814982",
+        "genres": [
+          "Divorce"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "CEO, That Intern is Actually Your Wife",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1660,7 +2510,24 @@
       "Wanita Kuat"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Asistenku Ternyata Sultan…",
+    "localised_details": [
+      {
+        "displayed_views": "292K",
+        "genres": [
+          "Pembalikan Identitas",
+          "Balas Dendam",
+          "Intrik Keluarga",
+          "Wanita Karier",
+          "Modern",
+          "Wanita Kuat"
+        ],
+        "locale": "ID",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Asistenku Ternyata Sultan",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "ID",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1748,7 +2615,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2200,
+        "country": "GB",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2200,
+        "country": "US",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000020802/42000020802.jpg?t=1783668335297",
     "data_note": "observed title metadata",
@@ -1764,7 +2646,40 @@
       "BG"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Back for Vengeance, Back …",
+    "localised_details": [
+      {
+        "displayed_views": "92.1K",
+        "genres": [
+          "Innocent Damsel",
+          "Second Chance",
+          "Revenge",
+          "Modern",
+          "Romance",
+          "BG"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Back for Vengeance, Back to You",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "92.1K",
+        "genres": [
+          "Innocent Damsel",
+          "Second Chance",
+          "Revenge",
+          "Modern",
+          "Romance",
+          "BG"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Back for Vengeance, Back to You",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1793,7 +2708,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 1800,
+        "country": "GB",
+        "free_episodes": 6,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 1800,
+        "country": "US",
+        "free_episodes": 6,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000021137/42000021137.jpg?t=1784093798292",
     "data_note": "observed title metadata",
@@ -1809,7 +2739,40 @@
       "BG"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"His Sick Obsession, My Re…",
+    "localised_details": [
+      {
+        "displayed_views": "378K",
+        "genres": [
+          "Winning Her Back",
+          "Rebirth",
+          "All-Too-Late",
+          "Historical",
+          "Romance",
+          "BG"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "His Sick Obsession, My Rebirth of Freedom（DUBBED）",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "378K",
+        "genres": [
+          "Winning Her Back",
+          "Rebirth",
+          "All-Too-Late",
+          "Historical",
+          "Romance",
+          "BG"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "His Sick Obsession, My Rebirth of Freedom（DUBBED）",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1856,7 +2819,19 @@
       "Mitologia"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Tempestade Carmesim: O Vi…",
+    "localised_details": [
+      {
+        "displayed_views": "5238794",
+        "genres": [
+          "Mitologia"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Tempestade Carmesim: O Vingador Solitário",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1944,7 +2919,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3050,
+        "country": "GB",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3050,
+        "country": "US",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000007919/42000007919.jpg?t=1773825695866",
     "data_note": "observed title metadata",
@@ -1960,7 +2950,40 @@
       "Tough Guy"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Total Retribution: All De…",
+    "localised_details": [
+      {
+        "displayed_views": "959K",
+        "genres": [
+          "A Nobody",
+          "Revenge",
+          "Underdog Story",
+          "Modern",
+          "Powerful Male Lead",
+          "Tough Guy"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Total Retribution: All Debts Come Due",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "959K",
+        "genres": [
+          "A Nobody",
+          "Revenge",
+          "Underdog Story",
+          "Modern",
+          "Powerful Male Lead",
+          "Tough Guy"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Total Retribution: All Debts Come Due",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -1989,7 +3012,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 2820,
+        "country": "GB",
+        "free_episodes": 13,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 2820,
+        "country": "US",
+        "free_episodes": 13,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-mps.crazymaplestudios.com/images/173342b0-00fc-11f1-84ad-6b5693b490dc.jpg",
     "data_note": "observed title metadata",
@@ -2000,7 +3038,30 @@
       "Royalty"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"The Princess Who Walked A…",
+    "localised_details": [
+      {
+        "displayed_views": "1157429",
+        "genres": [
+          "Royalty"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "The Princess Who Walked Away",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "1157429",
+        "genres": [
+          "Royalty"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "The Princess Who Walked Away",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -2158,7 +3219,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement unavailable",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": null,
+        "cost_to_finish_coins": null,
+        "country": "GB",
+        "free_episodes": 75,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": null,
+        "cost_to_finish_coins": null,
+        "country": "US",
+        "free_episodes": 75,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://static-v1.mydramawave.com/vt/prod/cover/c6296ffa-350d-4757-bc65-6bf250ce9566.jpg?image_process=quality,85/resize,w_600/format,webp",
     "data_note": "observed title metadata",
@@ -2170,7 +3246,32 @@
       "Serendipity"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Hidden Tycoon, Unmasked L…",
+    "localised_details": [
+      {
+        "displayed_views": "18.1M",
+        "genres": [
+          "Revenge",
+          "Serendipity"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Hidden Tycoon, Unmasked Love",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "18.1M",
+        "genres": [
+          "Revenge",
+          "Serendipity"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Hidden Tycoon, Unmasked Love",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -2199,7 +3300,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2550,
+        "country": "GB",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 2550,
+        "country": "US",
+        "free_episodes": 9,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000027989/42000027989.jpg?t=1789528105979",
     "data_note": "observed title metadata",
@@ -2215,7 +3331,40 @@
       "Comeback Story"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Reborn to Build, Not to B…",
+    "localised_details": [
+      {
+        "displayed_views": "688K",
+        "genres": [
+          "Rebirth",
+          "Underdog Story",
+          "Independent Woman",
+          "Betrayal",
+          "Strong-Willed",
+          "Comeback Story"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Reborn to Build, Not to Beg",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "688K",
+        "genres": [
+          "Rebirth",
+          "Underdog Story",
+          "Independent Woman",
+          "Betrayal",
+          "Strong-Willed",
+          "Comeback Story"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Reborn to Build, Not to Beg",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -2244,7 +3393,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement unavailable",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": null,
+        "cost_to_finish_coins": null,
+        "country": "GB",
+        "free_episodes": 31,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": null,
+        "cost_to_finish_coins": null,
+        "country": "US",
+        "free_episodes": 31,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://static-v1.mydramawave.com/vt/prod/cover/5c6ef902-14d6-4f76-a9e1-a8edd4ad5bc5.jpg?image_process=quality,85/resize,w_600/format,webp",
     "data_note": "observed title metadata",
@@ -2256,7 +3420,32 @@
       "Serendipity"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"He Is My Father's Friend\"…",
+    "localised_details": [
+      {
+        "displayed_views": "28.8M",
+        "genres": [
+          "Enemies to Lovers",
+          "Serendipity"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "He Is My Father's Friend",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "28.8M",
+        "genres": [
+          "Enemies to Lovers",
+          "Serendipity"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "He Is My Father's Friend",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -2285,7 +3474,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1140,
+        "country": "GB",
+        "free_episodes": 6,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 60,
+        "cost_to_finish_coins": 1140,
+        "country": "US",
+        "free_episodes": 6,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005588/84a5659b-ba72-4981-ab78-3bb6635927ad.jpg",
     "data_note": "observed title metadata",
@@ -2296,7 +3500,30 @@
       "High Fantasy"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"She Left The Ashes Behind…",
+    "localised_details": [
+      {
+        "displayed_views": "3982111",
+        "genres": [
+          "High Fantasy"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "She Left The Ashes Behind",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "3982111",
+        "genres": [
+          "High Fantasy"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "She Left The Ashes Behind",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -2343,7 +3570,19 @@
       "Crime"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"Garçom com quem me casei …",
+    "localised_details": [
+      {
+        "displayed_views": "1320293",
+        "genres": [
+          "Crime"
+        ],
+        "locale": "BR",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "Garçom com quem me casei era um figurão",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "BR",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",
@@ -2372,7 +3611,22 @@
     "conflicting_cost_observations": false,
     "cost_locales": "GB,US",
     "cost_note": "coin requirement observed; cash cost unverified",
-    "cost_observations": "[{\"country\": \"GB\", \"run_date\": \"2026-…",
+    "cost_observations": [
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3700,
+        "country": "GB",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      },
+      {
+        "coin_price_per_episode": 50,
+        "cost_to_finish_coins": 3700,
+        "country": "US",
+        "free_episodes": 8,
+        "run_date": "2026-10-26"
+      }
+    ],
     "cost_observed_on": "2026-10-26",
     "cover_url": "https://hwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000009032/42000009032.jpg?t=1775127591654",
     "data_note": "observed title metadata",
@@ -2388,7 +3642,40 @@
       "Independent Woman"
     ],
     "last_seen": "2026-10-26",
-    "localised_details": "[{\"title\": \"My Rules: Never Love, Nev…",
+    "localised_details": [
+      {
+        "displayed_views": "1.4M",
+        "genres": [
+          "Strong Heroine",
+          "Playing Dumb",
+          "Love After Breakup",
+          "Modern",
+          "Career Woman",
+          "Independent Woman"
+        ],
+        "locale": "GB",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "My Rules: Never Love, Never Lose",
+        "views_note": "locale-based; not storefront-verified"
+      },
+      {
+        "displayed_views": "1.4M",
+        "genres": [
+          "Strong Heroine",
+          "Playing Dumb",
+          "Love After Breakup",
+          "Modern",
+          "Career Woman",
+          "Independent Woman"
+        ],
+        "locale": "US",
+        "observed_on": "2026-10-26",
+        "original_title": null,
+        "title": "My Rules: Never Love, Never Lose",
+        "views_note": "locale-based; not storefront-verified"
+      }
+    ],
     "name_locale": "US",
     "name_observed_on": "2026-10-26",
     "observed_on": "2026-10-26",

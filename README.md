@@ -19,7 +19,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Brazilian Apartment Prices per m²](datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4/) | 540 | On demand | 2026-11-09T12:51:52.148844Z |
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 3,390 | weekly | 2026-11-09T06:11:59.795571Z |
-| [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 3,233 | daily | 2026-11-10T06:02:08.050570Z |
+| [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 3,488 | daily | 2026-11-11T06:02:15.994432Z |
 | [LlamaIndex Module Guides Articles](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Meta and TikTok Ad Intelligence Demo: Ads, Products, and Creative Signals](datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7/) | 288 | On demand | 2026-11-09T12:20:15.420061Z |
 | [INTELLIAAI YouTube Search Placement Discovery](datasets/intelliaai-youtube-search-placement-discovery-3611412d36d3/) | 1,703 | On demand | 2026-11-07T20:17:07.106600Z |
@@ -37,7 +37,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Streaming Subscription Prices by Country: Official Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 7,036 | weekly | 2026-11-10T06:41:40.331008Z |
 | [AI Company Job Postings Data](datasets/ai-company-job-postings-5bae5dc811a8/) | 5,262 | weekly | 2026-11-09T07:02:07.554096Z |
 | [Low\-Code Release Radar: n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-10T08:00:48.456509Z |
-| [Portugal Insolvency Notices](datasets/insolvency-notices-pt-5cf39e22f64e/) | 590 | daily | 2026-11-10T08:47:30.889657Z |
+| [Portugal Insolvency Notices](datasets/insolvency-notices-pt-5cf39e22f64e/) | 590 | daily | 2026-11-11T06:21:28.549145Z |
 | [Jivamukti Yoga Barcelona Team and Instagram Directory](datasets/jivamukti-barcelona-team-instagram-5f425fa222f9/) | 8 | On demand | 2026-10-23T15:24:45.459748Z |
 | [8\-K Filings Dataset: S&amp;P 500 Current Reports](datasets/s-p-500-sec-8-k-filings-61608a881b67/) | 946 | weekly | 2026-11-09T08:04:47.841284Z |
 | [TikTok and YouTube Shorts Posts with Music Credits](datasets/social-posts-and-music-credits-618da9615d86/) | 25 | On demand | 2026-10-21T14:32:02.901284Z |
@@ -46,7 +46,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Louis Vuitton Neverfull Prices by Country](datasets/louis-vuitton-neverfull-prices-by-country-6bce6c1fc1cf/) | 24 | On demand | 2026-11-09T09:25:41.805200Z |
 | [INTELLIAAI YouTube Placement Sample](datasets/intelliaai-youtube-placement-sample-6cd4514c0219/) | 2,800 | On demand | 2026-11-08T05:19:30.148851Z |
 | [SEC Form D Filings Search: Private Offering Notices](datasets/sec-form-d-filings-6d5f1a7a0494/) | 1,813 | weekly | 2026-11-09T09:28:19.307975Z |
-| [FDA 510\(k\) Database: Clearance Decisions](datasets/fda-510-k-clearance-decisions-77a1978440d2/) | 3,217 | weekly | 2026-11-04T06:02:28.185864Z |
+| [FDA 510\(k\) Database: Clearance Decisions](datasets/fda-510-k-clearance-decisions-77a1978440d2/) | 3,312 | weekly | 2026-11-11T06:01:57.770892Z |
 | [Srixon Golf Ball Prices in France](datasets/srixon-golf-ball-prices-france-780021c9d370/) | 77 | On demand | 2026-11-09T08:05:37.744570Z |
 | [Last\-Minute Booking\.com Hotel Rates](datasets/241-travel-last-minute-booking-com-hotel-rates-8055aed53e5f/) | 240 | On demand | 2026-11-09T06:14:08.519161Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
@@ -79,7 +79,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Leather Backpack Prices: Gusti Leder and Amazon](datasets/leather-backpack-prices-gusti-leder-shop-vs-amazon-de-fr-it-e57e10e2e1b5/) | 56 | On demand | 2026-11-09T08:13:10.547866Z |
 | [AI Hiring Radar](datasets/ai-hiring-radar-e7adb9b7e394/) | 75 | On demand | 2026-11-09T09:05:18.599120Z |
 | [Irish Wine and Spirits Price Tracker](datasets/clinks-irish-wine-and-spirits-price-tracker-ece8b068e56b/) | 2,362 | On demand | 2026-11-09T08:07:45.304456Z |
-| [Weekly U\.S\. Diesel and Gas Price History](datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4/) | 2,120 | weekly | 2026-11-04T06:00:35.648158Z |
+| [Weekly U\.S\. Diesel and Gas Price History](datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4/) | 2,160 | weekly | 2026-11-11T06:01:03.609834Z |
 | [UK Toothpaste Prices: Boots, Superdrug and Well Pharmacy](datasets/uk-pharmacy-personal-care-demo-ee43bffca794/) | 9 | On demand | 2026-10-26T12:35:41.997095Z |
 | [Amazon Product Reviews and Ratings Sample Dataset](datasets/multi-source-ecommerce-tracking-f31687d4dfcd/) | 3,012 | On demand | 2026-11-01T10:50:38.497991Z |
 | [WDIWF Company Monitors](datasets/wdiwf-company-monitors-f8658ad4c63e/) | 54 | On demand | 2026-10-14T13:14:12.125029Z |

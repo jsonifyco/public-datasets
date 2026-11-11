@@ -118,7 +118,20 @@
     "coverage_note": "Recent public press releases, not all police incidents.",
     "current_signals": 1,
     "detail_failure_count": 3,
-    "detail_failures": "[{\"url\": \"https://www.guardiacivil.es/es/destacados/noticias/Desarticulada-u…",
+    "detail_failures": [
+      {
+        "failure": "Article or warning retrieval, date verification or parsing failed (ValueError).",
+        "url": "https://www.guardiacivil.es/es/destacados/noticias/Desarticulada-una-organizacion-internacional-que-suplantaba-identidades-para-declarar-beneficios-de-apuestas-online-por-toda-Espana/"
+      },
+      {
+        "failure": "Article or warning retrieval, date verification or parsing failed (ValueError).",
+        "url": "https://www.guardiacivil.es/es/destacados/noticias/Intervenidos-mas-de-mil-kilogramos-de-cocaina-ocultos-en-un-pesquero-en-el-puerto-de-Santa-Pola-Alicante/"
+      },
+      {
+        "failure": "Article or warning retrieval, date verification or parsing failed (ValueError).",
+        "url": "https://www.guardiacivil.es/es/destacados/noticias/Dos-detenidos-en-Tenerife-por-impulsar-saqueos-sabotajes-y-agresiones-en-el-marco-del-movimiento-Blocus/"
+      }
+    ],
     "duplicate_links": null,
     "excluded_count": 6,
     "failure": null,

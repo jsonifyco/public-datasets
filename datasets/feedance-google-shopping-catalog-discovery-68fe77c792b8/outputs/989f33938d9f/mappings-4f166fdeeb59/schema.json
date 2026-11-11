@@ -1,0 +1,126 @@
+[
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "candidate",
+    "type": "text"
+  },
+  {
+    "name": "candidate_cards",
+    "type": "jsonb"
+  },
+  {
+    "name": "canonical_title",
+    "type": "text"
+  },
+  {
+    "name": "catalog_id",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "discovered_at",
+    "type": "text"
+  },
+  {
+    "name": "failure_reason",
+    "type": "text"
+  },
+  {
+    "name": "fetch_status",
+    "type": "text"
+  },
+  {
+    "name": "gid",
+    "type": "text"
+  },
+  {
+    "name": "gtin",
+    "type": "text"
+  },
+  {
+    "name": "identity_evidence",
+    "type": "text"
+  },
+  {
+    "name": "identity_source_url",
+    "type": "text"
+  },
+  {
+    "name": "last_verified_at",
+    "type": "text"
+  },
+  {
+    "name": "match_confidence",
+    "type": "double precision"
+  },
+  {
+    "name": "match_method",
+    "type": "text"
+  },
+  {
+    "name": "match_reason",
+    "type": "text"
+  },
+  {
+    "name": "matched_title",
+    "type": "text"
+  },
+  {
+    "name": "matching_tokens",
+    "type": "jsonb"
+  },
+  {
+    "name": "mpn",
+    "type": "text"
+  },
+  {
+    "name": "own_price",
+    "type": "text"
+  },
+  {
+    "name": "pid",
+    "type": "text"
+  },
+  {
+    "name": "popularity_evidence",
+    "type": "text"
+  },
+  {
+    "name": "popularity_source_url",
+    "type": "text"
+  },
+  {
+    "name": "product_id",
+    "type": "text"
+  },
+  {
+    "name": "requests",
+    "type": "jsonb"
+  },
+  {
+    "name": "sku_id",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  }
+]

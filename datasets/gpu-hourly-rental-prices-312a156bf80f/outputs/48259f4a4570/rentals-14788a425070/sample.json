@@ -43,7 +43,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": ", US",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "B200"
   },
@@ -163,7 +163,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "Czechia, CZ",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "H100 PCIE"
   },
@@ -547,7 +547,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "Czechia, CZ",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "H100 SXM"
   },
@@ -595,7 +595,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "Czechia, CZ",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "H200 NVL"
   },
@@ -619,7 +619,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "New Mexico, US",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "H200 NVL"
   },
@@ -787,7 +787,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "California, US",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "B200"
   },
@@ -883,7 +883,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "Czechia, CZ",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "H100 PCIE"
   },
@@ -907,7 +907,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "United Kingdom, GB",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "A100 PCIE"
   },
@@ -1027,7 +1027,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "Oregon, US",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "B200"
   },
@@ -1075,7 +1075,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "Czechia, CZ",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "A100 SXM4"
   },
@@ -1099,7 +1099,7 @@
     "provider": "Vast.ai",
     "purchase_model": "on_demand",
     "region": "Texas, US",
-    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%2…",
+    "source_url": "https://console.vast.ai/api/v0/bundles/?q=%7B%22verified%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22rentable%22%3A%20%7B%22eq%22%3A%20true%7D%2C%20%22type%22%3A%20%22on-demand%22%2C%20%22limit%22%3A%20100%2C%20%22gpu_name%22%3A%20%7B%22in%22%3A%20%5B%22A100%20PCIE%22%2C%20%22A100%20SXM4%22%2C%20%22H100%20SXM%22%2C%20%22H100%20PCIE%22%2C%20%22B200%22%2C%20%22H200%22%2C%20%22H200%20NVL%22%2C%20%22L40S%22%2C%20%22MI300X%22%5D%7D%7D",
     "tax_note": "Not stated",
     "variant": "A100 SXM4"
   },

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "accommodation_category",
+    "type": "text"
+  },
+  {
+    "name": "checked_date",
+    "type": "text"
+  },
+  {
+    "name": "classification_basis",
+    "type": "text"
+  },
+  {
+    "name": "hotel",
+    "type": "text"
+  },
+  {
+    "name": "image_category",
+    "type": "text"
+  },
+  {
+    "name": "image_description",
+    "type": "text"
+  },
+  {
+    "name": "image_id",
+    "type": "text"
+  },
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "room_type",
+    "type": "text"
+  },
+  {
+    "name": "room_url",
+    "type": "text"
+  }
+]

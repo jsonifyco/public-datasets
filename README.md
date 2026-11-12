@@ -15,10 +15,13 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Hacker News AI Story Tags](datasets/hacker-news-ai-067aaaf184ae/) | 30 | On demand | 2026-11-09T09:11:23.908539Z |
 | [Consumer AI Subscription Prices](datasets/consumer-ai-subscription-prices-0db1533e818f/) | 2,742 | On demand | 2026-11-09T06:36:42.884357Z |
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
+| [Allegro Poland LEGO Seller Prices](datasets/allegro-poland-lego-seller-prices-111dc8b854b2/) | 681 | On demand | 2026-11-12T11:38:22.240043Z |
 | [Lisbon Venue Accessibility](datasets/lisbon-venue-accessibility-14d9f76469c1/) | 298 | On demand | 2026-11-11T12:59:22.049505Z |
 | [Coffee Capsule Prices in Portugal](datasets/coffee-capsule-shelf-pt-15625f7dd7ac/) | 1,178 | On demand | 2026-11-09T06:33:55.941367Z |
+| [Iberian Endurance Events](datasets/aurea77-iberian-endurance-events-15c76f799e90/) | 394 | On demand | 2026-11-11T20:40:20.829684Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [Brazilian Apartment Prices per m²](datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4/) | 540 | On demand | 2026-11-09T12:51:52.148844Z |
+| [Food and Cosmetics Ingredient Sample](datasets/mira-food-and-cosmetics-ingredients-1ee6c67a58e6/) | 400 | On demand | 2026-11-10T22:45:51.688202Z |
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 3,390 | weekly | 2026-11-09T06:11:59.795571Z |
 | [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 3,740 | daily | 2026-11-12T06:02:26.711715Z |
@@ -34,7 +37,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Prevailing Wage Rates: CA, WA, MO and NY, Updated Weekly](datasets/prevailing-wage-rates-us-states-47b2aa83a625/) | 39,052 | weekly | 2026-11-12T10:11:53.118879Z |
 | [LEGO vs Compatible Bricks: Marketplace Price and Promotion Data](datasets/lego-vs-compatible-bricks-11-11-promo-snapshot-499dcb3b47ae/) | 8,109 | On demand | 2026-11-11T10:18:52.467955Z |
 | [Travel eSIM Plans and Prices](datasets/aviso-travel-esim-price-tracker-4a8066232783/) | 81,050 | On demand | 2026-11-09T06:46:39.091556Z |
-| [Law Firm Events](datasets/law-firm-events-4c408bd04e11/) | 86 | On demand | 2026-11-09T09:21:38.987092Z |
+| [Law Firm Events](datasets/law-firm-events-4c408bd04e11/) | 19 | On demand | 2026-11-12T16:06:47.875487Z |
 | [Lisbon and Porto Home Listings and Prices](datasets/habita-review-lisbon-and-porto-homes-4c9bbbd1ad17/) | 1,473 | On demand | 2026-11-09T08:11:43.911185Z |
 | [Portugal Regulatory Radar](datasets/regulatory-radar-pt-54c83384de63/) | 72 | On demand | 2026-11-09T06:12:01.246329Z |
 | [Portugal2030 Grant Notices](datasets/portugal2030-grants-59ddd491d0c8/) | 1,511 | weekly | 2026-11-09T09:31:42.756325Z |

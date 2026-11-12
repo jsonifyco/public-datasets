@@ -40,6 +40,10 @@
     "type": "text"
   },
   {
+    "name": "legal_evidence",
+    "type": "text"
+  },
+  {
     "name": "listing_url",
     "type": "text"
   },
@@ -49,6 +53,14 @@
   },
   {
     "name": "organizer",
+    "type": "text"
+  },
+  {
+    "name": "organizer_evidence",
+    "type": "text"
+  },
+  {
+    "name": "portugal_evidence",
     "type": "text"
   },
   {

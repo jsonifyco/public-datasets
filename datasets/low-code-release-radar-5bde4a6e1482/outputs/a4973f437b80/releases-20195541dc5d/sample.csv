@@ -1,23 +1,78 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-11-11T08:00:47.229080+00:00,2026-11-09T08:21:35Z,1,438878222,n8n@2.47.3,"## [2.47.3](https://github.com/n8n-io/n8n/compare/n8n@2.47.2...n8n@2.47.3) (2026-11-09)
+2026-11-12T08:01:06.171497+00:00,2026-10-28T18:10:23Z,14,419376922,Release v2.6.0 🌈,"## ⚠️ For EE users, before upgrading to v2.6.0 finish existing Temporal workflow runs on v2.5.1
+
+Appsmith is moving to a new workflow engine. Runs that started on the old Temporal engine cannot be relied on to resume or finish after upgrading to v2.6.0.
+
+A **run** is one execution of a workflow. This includes executions waiting for a person to approve a request, even when they are not actively processing anything.
+
+**What to do before upgrading:**
+
+1. Upgrade to **v2.5.1** first if you are on an earlier version.
+2. Let all runs on Temporal finish, including any waiting for approval. Stop a run only if you are willing to abandon its remaining work.
+3. In **Admin Settings → Instance → Admin central**, review and acknowledge the **v2.5.0 · Workflow Engine Transition** checkpoint. Follow the [workflow engine transition guide](https://docs.appsmith.com/getting-started/setup/instance-management/upgrade-checkpoint-v2.5.0-temporal).
+4. Upgrade to **v2.6.0**.
+
+**Possible downtime:** the upgrade check can prevent the entire Appsmith server from starting if it finds pending approval requests from the old engine. Complete the steps above before upgrading; do not rely on the startup check to find every unfinished run.
+
+If startup is blocked by this checkpoint, return to **v2.5.1**, finish or deliberately stop the affected runs, complete the checkpoint, and retry the upgrade.
+
+## 🔐 Brotli security fix (CVE-2026-111497):
+
+Appsmith v2.6.0 includes the fix for a vulnerability in the Node.js Brotli decoder. Processing maliciously crafted Brotli-compressed data can corrupt memory and potentially cause a service crash, expose process memory, or allow remote code execution. Self-hosted customers should upgrade to v2.6.0 to receive the fix. See the [Node.js security advisory](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases) for details.
+
+## ⚠️ Important Upgrade Notes
+
+- Customized `docker.env` files must contain resolved literal values. Shell expressions stop startup with a redacted diagnostic. Move JVM options from `docker.env` to Docker Compose or Helm environment configuration before upgrading. `OTEL_*` names, including the documented trace exporter endpoints, are now accepted. Generated defaults and Admin Settings values need no changes. ([#42225](https://github.com/appsmithorg/appsmith/pull/42225), [#42422](https://github.com/appsmithorg/appsmith/pull/42422))
+- Redis queries must use a static command name. A binding in the command name returns a query configuration error. Binding values stay inside a single argument. ([#42465](https://github.com/appsmithorg/appsmith/pull/42465))
+- The DynamoDB plugin now uses AWS SDK for Java 2.55.9. A region must contain only letters, digits, and hyphens, and be at most 63 characters. Responses can include additional keys; existing keys and values stay the same. If the server sets `AWS_ENDPOINT_URL`, `AWS_ENDPOINT_URL_DYNAMODB`, `AWS_USE_FIPS_ENDPOINT`, or `AWS_USE_DUALSTACK_ENDPOINT`, the plugin now honors them. ([#42346](https://github.com/appsmithorg/appsmith/pull/42346))
+
+## 🔐 Security
+
+- Updated bundled dependencies to address reported vulnerabilities. ([#42444](https://github.com/appsmithorg/appsmith/pull/42444), [#42449](https://github.com/appsmithorg/appsmith/pull/42449), [#42466](https://github.com/appsmithorg/appsmith/pull/42466), [#42475](https://github.com/appsmithorg/appsmith/pull/42475), [#42492](https://github.com/appsmithorg/appsmith/pull/42492))
+- Editor-mode page and layout reads now require edit permission and return the draft. View mode still requires read permission and returns the published page. ([#42425](https://github.com/appsmithorg/appsmith/pull/42425))
+- Updating an application or datasource now keeps the workspace it was created in. ([#42462](https://github.com/appsmithorg/appsmith/pull/42462))
+- Creating a workspace now ignores a client-supplied id, policies, and permission groups. The server generates them. ([#42478](https://github.com/appsmithorg/appsmith/pull/42478))
+- Redis query bindings stay inside one command argument, so a bound value cannot add extra arguments. ([#42465](https://github.com/appsmithorg/appsmith/pull/42465))
+
+## 🛠️ Reliability
+
+- Public apps again receive the configured Google Maps key, so Map widgets work for anonymous viewers. ([#42440](https://github.com/appsmithorg/appsmith/pull/42440))
+- Saving datasource credentials now drops that datasource's cached connection on every server pod. ([#42430](https://github.com/appsmithorg/appsmith/pull/42430))
+- Closing an evicted datasource connection no longer runs on the shared request thread, so one hung database no longer stalls health checks. ([#42450](https://github.com/appsmithorg/appsmith/pull/42450))
+- Page views are recorded when a page is opened, not when the editor loads layout DSL. ([#42429](https://github.com/appsmithorg/appsmith/pull/42429))
+- Nested DynamoDB request objects, including transaction items and index settings, are now built the same way every time. ([#42346](https://github.com/appsmithorg/appsmith/pull/42346))
+
+## ✨ New Features & Enhancements
+
+- MCP structured SQL filters can test `isNull` and `notNull`. ([#42491](https://github.com/appsmithorg/appsmith/pull/42491))
+- MCP structured SQL filters can group conditions with `anyOf`, which compiles to OR and is combined with the other filters. ([#42495](https://github.com/appsmithorg/appsmith/pull/42495))
+- MCP structured SQL `like` can match contains, prefix, suffix, or exact text. PostgreSQL queries can use `ilike`. ([#42496](https://github.com/appsmithorg/appsmith/pull/42496))
+
+## 🎨 UI & Widget Improvements
+
+- In App Settings → Navigation, **Show logo** and **Show application title** no longer switch themselves while a save is in progress. ([#42488](https://github.com/appsmithorg/appsmith/pull/42488))
+
+## 🔧 Git, Deployment & Configuration
+
+- `docker.env` now accepts `OTEL_*` names, including the documented OpenTelemetry trace exporter endpoints. An externally set `OTEL_*` value still overrides the file on restart. ([#42422](https://github.com/appsmithorg/appsmith/pull/42422))
+- Browser telemetry is now sent for builders only. Anonymous visitors and end users of published apps are no longer tracked in the browser. ([#42353](https://github.com/appsmithorg/appsmith/pull/42353))",https://github.com/appsmithorg/appsmith/releases/tag/v2.6.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.6.0
+2026-11-12T08:01:06.201969+00:00,2026-11-11T08:40:16Z,0,441420906,n8n@2.47.4,"## [2.47.4](https://github.com/n8n-io/n8n/compare/n8n@2.47.3...n8n@2.47.4) (2026-11-11)
 
 
 ### Bug Fixes
 
-* **core:** Only allow users who can edit a workflow to own its migration findings ([#43101](https://github.com/n8n-io/n8n/issues/43101)) ([cff4342](https://github.com/n8n-io/n8n/commit/cff43429ed34fadf95d0c688d7325db8e9df5c72))
-* **core:** Retire stale scheduled tasks in repeated batches in each reaper pass ([#43096](https://github.com/n8n-io/n8n/issues/43096)) ([4ba6e50](https://github.com/n8n-io/n8n/commit/4ba6e50a8a1e54e1dc9db261d12283b4cfba49a5))
-
-
-### Features
-
-* Open the migration report filtered to the recipient from notification emails ([#43095](https://github.com/n8n-io/n8n/issues/43095)) ([a83b981](https://github.com/n8n-io/n8n/commit/a83b9812a5e04f429e64faa0d4f82396c6970264))
+* **core:** Keep expression transfers working after built-in replacements ([#43360](https://github.com/n8n-io/n8n/issues/43360)) ([b110abb](https://github.com/n8n-io/n8n/commit/b110abb47e9286c57c0452746de8ccb2b35e0f29))
+* **core:** Keep observational memory running after a user stops a HITL card ([#43225](https://github.com/n8n-io/n8n/issues/43225)) ([353a342](https://github.com/n8n-io/n8n/commit/353a342ba9f750c2135941930f3d7ee49a08890c))
+* **core:** Match bare node references across expression engines ([#43358](https://github.com/n8n-io/n8n/issues/43358)) ([989975c](https://github.com/n8n-io/n8n/commit/989975ce2b29392c24ca9bbe8187e4ab6a8368b9))
+* **Edit Image Node:** Register font once instead of on every text operation ([#43348](https://github.com/n8n-io/n8n/issues/43348)) ([dc9b2d0](https://github.com/n8n-io/n8n/commit/dc9b2d085e82218deb9947a1d5505b46cce31006))
+* **editor:** Widen the migration report notify owner column ([#43432](https://github.com/n8n-io/n8n/issues/43432)) ([c0688f4](https://github.com/n8n-io/n8n/commit/c0688f462941497fe0bca1404d354b0e7505d40a))
 
 <!-- This is an auto-generated description by cubic. -->
-<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/43154?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/43154?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F43154&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
+<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/43460?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/43460?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F43460&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
 <!-- End of auto-generated description by cubic. -->
 
-",https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.3,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.47.3
-2026-11-11T08:00:47.140414+00:00,2026-11-10T16:40:12Z,0,440627454,v4.0.0,"## What's Changed
+",https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.4,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.47.4
+2026-11-12T08:01:06.254498+00:00,2026-11-10T16:40:12Z,1,440627454,v4.0.0,"## What's Changed
 * Persist AI_AGENT and AUTOMATION_STEP platform actions locally by @jvcalderon in https://github.com/Budibase/budibase/pull/19587
 * Enrich AUTOMATION_STEP action telemetry with automation run context by @jvcalderon in https://github.com/Budibase/budibase/pull/19570
 * Infer agent-session container status (active/waiting/completed/failed) by @jvcalderon in https://github.com/Budibase/budibase/pull/19616
@@ -111,60 +166,3 @@ checked_at,published_at,release_age_days,release_id,release_name,release_notes,r
 * @EazyHood made their first contribution in https://github.com/Budibase/budibase/pull/19918
 
 **Full Changelog**: https://github.com/Budibase/budibase/compare/v3.51.0...v4.0.0",https://github.com/Budibase/budibase/releases/tag/v4.0.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.0.0
-2026-11-11T08:00:47.178836+00:00,2026-10-28T18:10:23Z,13,419376922,Release v2.6.0 🌈,"## ⚠️ For EE users, before upgrading to v2.6.0 finish existing Temporal workflow runs on v2.5.1
-
-Appsmith is moving to a new workflow engine. Runs that started on the old Temporal engine cannot be relied on to resume or finish after upgrading to v2.6.0.
-
-A **run** is one execution of a workflow. This includes executions waiting for a person to approve a request, even when they are not actively processing anything.
-
-**What to do before upgrading:**
-
-1. Upgrade to **v2.5.1** first if you are on an earlier version.
-2. Let all runs on Temporal finish, including any waiting for approval. Stop a run only if you are willing to abandon its remaining work.
-3. In **Admin Settings → Instance → Admin central**, review and acknowledge the **v2.5.0 · Workflow Engine Transition** checkpoint. Follow the [workflow engine transition guide](https://docs.appsmith.com/getting-started/setup/instance-management/upgrade-checkpoint-v2.5.0-temporal).
-4. Upgrade to **v2.6.0**.
-
-**Possible downtime:** the upgrade check can prevent the entire Appsmith server from starting if it finds pending approval requests from the old engine. Complete the steps above before upgrading; do not rely on the startup check to find every unfinished run.
-
-If startup is blocked by this checkpoint, return to **v2.5.1**, finish or deliberately stop the affected runs, complete the checkpoint, and retry the upgrade.
-
-## 🔐 Brotli security fix (CVE-2026-111497):
-
-Appsmith v2.6.0 includes the fix for a vulnerability in the Node.js Brotli decoder. Processing maliciously crafted Brotli-compressed data can corrupt memory and potentially cause a service crash, expose process memory, or allow remote code execution. Self-hosted customers should upgrade to v2.6.0 to receive the fix. See the [Node.js security advisory](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases) for details.
-
-## ⚠️ Important Upgrade Notes
-
-- Customized `docker.env` files must contain resolved literal values. Shell expressions stop startup with a redacted diagnostic. Move JVM options from `docker.env` to Docker Compose or Helm environment configuration before upgrading. `OTEL_*` names, including the documented trace exporter endpoints, are now accepted. Generated defaults and Admin Settings values need no changes. ([#42225](https://github.com/appsmithorg/appsmith/pull/42225), [#42422](https://github.com/appsmithorg/appsmith/pull/42422))
-- Redis queries must use a static command name. A binding in the command name returns a query configuration error. Binding values stay inside a single argument. ([#42465](https://github.com/appsmithorg/appsmith/pull/42465))
-- The DynamoDB plugin now uses AWS SDK for Java 2.55.9. A region must contain only letters, digits, and hyphens, and be at most 63 characters. Responses can include additional keys; existing keys and values stay the same. If the server sets `AWS_ENDPOINT_URL`, `AWS_ENDPOINT_URL_DYNAMODB`, `AWS_USE_FIPS_ENDPOINT`, or `AWS_USE_DUALSTACK_ENDPOINT`, the plugin now honors them. ([#42346](https://github.com/appsmithorg/appsmith/pull/42346))
-
-## 🔐 Security
-
-- Updated bundled dependencies to address reported vulnerabilities. ([#42444](https://github.com/appsmithorg/appsmith/pull/42444), [#42449](https://github.com/appsmithorg/appsmith/pull/42449), [#42466](https://github.com/appsmithorg/appsmith/pull/42466), [#42475](https://github.com/appsmithorg/appsmith/pull/42475), [#42492](https://github.com/appsmithorg/appsmith/pull/42492))
-- Editor-mode page and layout reads now require edit permission and return the draft. View mode still requires read permission and returns the published page. ([#42425](https://github.com/appsmithorg/appsmith/pull/42425))
-- Updating an application or datasource now keeps the workspace it was created in. ([#42462](https://github.com/appsmithorg/appsmith/pull/42462))
-- Creating a workspace now ignores a client-supplied id, policies, and permission groups. The server generates them. ([#42478](https://github.com/appsmithorg/appsmith/pull/42478))
-- Redis query bindings stay inside one command argument, so a bound value cannot add extra arguments. ([#42465](https://github.com/appsmithorg/appsmith/pull/42465))
-
-## 🛠️ Reliability
-
-- Public apps again receive the configured Google Maps key, so Map widgets work for anonymous viewers. ([#42440](https://github.com/appsmithorg/appsmith/pull/42440))
-- Saving datasource credentials now drops that datasource's cached connection on every server pod. ([#42430](https://github.com/appsmithorg/appsmith/pull/42430))
-- Closing an evicted datasource connection no longer runs on the shared request thread, so one hung database no longer stalls health checks. ([#42450](https://github.com/appsmithorg/appsmith/pull/42450))
-- Page views are recorded when a page is opened, not when the editor loads layout DSL. ([#42429](https://github.com/appsmithorg/appsmith/pull/42429))
-- Nested DynamoDB request objects, including transaction items and index settings, are now built the same way every time. ([#42346](https://github.com/appsmithorg/appsmith/pull/42346))
-
-## ✨ New Features & Enhancements
-
-- MCP structured SQL filters can test `isNull` and `notNull`. ([#42491](https://github.com/appsmithorg/appsmith/pull/42491))
-- MCP structured SQL filters can group conditions with `anyOf`, which compiles to OR and is combined with the other filters. ([#42495](https://github.com/appsmithorg/appsmith/pull/42495))
-- MCP structured SQL `like` can match contains, prefix, suffix, or exact text. PostgreSQL queries can use `ilike`. ([#42496](https://github.com/appsmithorg/appsmith/pull/42496))
-
-## 🎨 UI & Widget Improvements
-
-- In App Settings → Navigation, **Show logo** and **Show application title** no longer switch themselves while a save is in progress. ([#42488](https://github.com/appsmithorg/appsmith/pull/42488))
-
-## 🔧 Git, Deployment & Configuration
-
-- `docker.env` now accepts `OTEL_*` names, including the documented OpenTelemetry trace exporter endpoints. An externally set `OTEL_*` value still overrides the file on restart. ([#42422](https://github.com/appsmithorg/appsmith/pull/42422))
-- Browser telemetry is now sent for builders only. Anonymous visitors and end users of published apps are no longer tracked in the browser. ([#42353](https://github.com/appsmithorg/appsmith/pull/42353))",https://github.com/appsmithorg/appsmith/releases/tag/v2.6.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.6.0

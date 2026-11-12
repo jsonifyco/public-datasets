@@ -7,7 +7,7 @@ Google Shopping competitor prices: a published dataset with 9,316 rows across it
 [Get the full dataset for free](https://www.jsonify.com/datasets/feedance-google-shopping-competitor-prices-b7971db4006b?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
-- Active pipeline version: 12
+- Active pipeline version: 13
 - Last published: 2026-11-11T21:58:34.847100Z
 
 ## The brief
@@ -257,12 +257,13 @@ flowchart LR
   n7 --> n8
   n0 --> n2
   n1 --> n2
+  n1 --> n3
 ```
 
 - **mappings**: Saved mapping rows\. If no table is bound yet, use the persistent discovery mapping store\.
 - **products**: Original 150 product\-country rows, preserved with their identifiers and evidence\.
 - **load\_products**: Read all original product\-country inputs; tracking reads persistent catalog mappings without performing discovery\.
-- **track**: Read mapped catalog pages and every Buying options page, verify unchanged title, and retain offer differences with reduced confidence\.
+- **track**: Share one anonymous HTTP session across each country and retain each product outcome separately, recovering failed HTTP products with the established browser path\.
 - **start\_normalize**: Start resource timing for reprocessing when acquisition was reused; retain full\-run timing for fresh collection\.
 - **normalize**: Normalize retained seller observations without any source requests or model calls\.
 - **measure**: Record measured process CPU seconds, elapsed seconds and peak resident memory for transparent modeled compute costing\.
@@ -285,6 +286,7 @@ flowchart LR
 - 2026-11-07T21:59:48.848609Z: v10: Product pages that load without seller quotes are now checked twice and recorded as missing seller details, allowing the other matching groups to finish\.
 - 2026-11-08T09:04:33.002431Z: v11: Add another same\-country connection for Google Shopping seller pages when existing connections fail\. Preserve all product checks and seller coverage\.
 - 2026-11-11T21:34:04.330004Z: v12: Rebuild catalog\-only daily tracking while preserving cumulative offer and coverage history, excluding comparison summaries and lowering confidence for variant conflicts\.
+- 2026-11-11T23:10:26.473129Z: v13: Reuse anonymous HTTP sessions across products in each country and retain the established browser collection when a product fails HTTP validation\. Keep every product outcome, full seller pagination and failed\-attempt diagnostics\.
 
 ## Recorded repairs
 

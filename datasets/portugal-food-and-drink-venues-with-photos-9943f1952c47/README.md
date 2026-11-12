@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Food and drink venue listings from Google Maps, with venue details and photo\-related fields\. The published venues table contains 12 rows; photo details may be available where provided\.
+Food and drink venue listings from Google Maps, with venue details and photo\-related fields\. The published venues table contains 6,314 rows; photo details may be available where provided\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/portugal-food-and-drink-venues-with-photos-9943f1952c47?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 11
-- Last published: 2026-11-06T15:06:13.370601Z
+- Last published: 2026-11-12T05:07:43.947520Z
 
 ## The brief
 
-> I need this data: Food and drink venue listings from Google Maps, with venue details and photo\-related fields\. The published venues table contains 12 rows; photo details may be available where provided\.
+> I need this data: Food and drink venue listings from Google Maps, with venue details and photo\-related fields\. The published venues table contains 6,314 rows; photo details may be available where provided\.
 
 Summary from the public dataset description.
 
 ## Portugal food and drink venues / venues
 
-12 total rows · 10 sampled · Output revision 6
-Published: 2026-11-06T15:06:13.370601Z · Producing pipeline version: Unknown
+6,314 total rows · 50 sampled · Output revision 7
+Published: 2026-11-12T05:07:43.947520Z · Producing pipeline version: 11
 
 [CSV sample](outputs/11031619bf36/venues-bc318ecbb352/sample.csv) · [JSON sample](outputs/11031619bf36/venues-bc318ecbb352/sample.json) · [Schema](outputs/11031619bf36/venues-bc318ecbb352/schema.json)
 
 | address | amenities | categories | collected\_at | collected\_review\_count | collection\_area | credit\_cards\_accepted | description |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Taberna do São Paulo, Rua de S\. Paulo 196, 1200\-109 Lisboa | \[\{"name": "Assisted listening devices", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible car park", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible entrance", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible seating", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible toilet", "group": "Accessibility", "enabled": false}\] | \["Portuguese restaurant"\] | 2026\-11\-06T15:04:45\.203142\+00:00 | 5 | Lisbon sample | None | None |
-| Daily Dose Lisboa \(Speciality Coffee\), R\. do Alecrim 26 D, 1200\-018 Lisboa | \[\] | \["Coffee shop", "Bakery", "Breakfast restaurant", "Brunch restaurant", "Restaurant", "Tea house"\] | 2026\-11\-06T15:04:43\.320641\+00:00 | 5 | Lisbon sample | None | None |
-| Noitada Bar &amp; Tapas, R\. Nova do Carvalho 7, 1200\-161 Lisboa | \[\{"name": "Wheelchair\-accessible entrance", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible seating", "group": "Accessibility", "enabled": true}\] | \["Bar", "Cocktail bar", "Gastropub", "Lounge bar", "Night club", "Restaurant"\] | 2026\-11\-06T15:04:43\.798085\+00:00 | 5 | Lisbon sample | None | None |
-| Santa Marta, R\. de Santa Marta 61, 1150\-294 Lisboa | \[\{"name": "Wheelchair\-accessible entrance", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible seating", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible toilet", "group": "Accessibility", "enabled": true}\] | \["Mediterranean restaurant", "Restaurant"\] | 2026\-11\-06T15:04:45\.203142\+00:00 | 5 | Lisbon sample | None | None |
-| Episode \- coffee place, R\. Artilharia 1 44B, 1250\-040 Lisboa | \[\] | \["Coffee shop"\] | 2026\-11\-06T15:04:43\.320641\+00:00 | 5 | Lisbon sample | None | None |
+| Rubro Avenida, R\. Rodrigues Sampaio 33 35, 1150\-278 Lisboa | \[\{"name": "Wheelchair\-accessible entrance", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible seating", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible toilet", "group": "Accessibility", "enabled": true}\] | \["Restaurant", "Event venue"\] | 2026\-11\-08T21:51:22\.761887\+00:00 | 30 | Lisbon | None | None |
+| Grupo Desportivo e Recreativo Dona Leonor, R\. Mateus Vicente, 1500\-000 Lisboa | \[\{"name": "Wheelchair\-accessible car park", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible entrance", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible seating", "group": "Accessibility", "enabled": true}\] | \["Portuguese restaurant"\] | 2026\-11\-08T04:27:19\.922518\+00:00 | 11 | Lisbon | None | None |
+| Madam Bo – Dumpling Bar, R\. Maestro Pedro de Freitas Branco 26B, 1250\-158 Lisboa | \[\{"name": "Wheelchair\-accessible car park", "group": "Accessibility", "enabled": false}, \{"name": "Wheelchair\-accessible entrance", "group": "Accessibility", "enabled": false}, \{"name": "Wheelchair\-accessible seating", "group": "Accessibility", "enabled": false}, \{"name": "Wheelchair\-accessible toilet", "group": "Accessibility", "enabled": false}\] | \["Dumpling restaurant", "Asian restaurant", "Bar", "Brunch restaurant", "Chinese restaurant", "Chinese takeaway", "Dim sum restaurant", "Lunch restaurant", "Pan\-Asian restaurant", "Restaurant"\] | 2026\-11\-10T23:22:22\.083097\+00:00 | 30 | Lisbon | None | None |
+| Cais no Bacalhau, Rua do Arsenal 158, 1100\-041 Lisboa | \[\] | \["Restaurant", "Portuguese restaurant"\] | 2026\-11\-08T22:29:02\.274823\+00:00 | 30 | Lisbon | None | None |
+| Mezze, R\. Ângela Pinto 40D 22/23, 1900\-069 Lisboa | \[\{"name": "Wheelchair\-accessible entrance", "group": "Accessibility", "enabled": true}, \{"name": "Wheelchair\-accessible seating", "group": "Accessibility", "enabled": true}\] | \["Middle Eastern restaurant", "Restaurant"\] | 2026\-11\-08T09:35:15\.645173\+00:00 | 30 | Lisbon | None | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

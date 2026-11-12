@@ -1,0 +1,62 @@
+[
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "distances",
+    "type": "jsonb"
+  },
+  {
+    "name": "entry_price",
+    "type": "text"
+  },
+  {
+    "name": "event_name",
+    "type": "text"
+  },
+  {
+    "name": "organiser",
+    "type": "text"
+  },
+  {
+    "name": "region",
+    "type": "text"
+  },
+  {
+    "name": "registration_url",
+    "type": "text"
+  },
+  {
+    "name": "scraped_at",
+    "type": "text"
+  },
+  {
+    "name": "source_name",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "sources",
+    "type": "jsonb"
+  },
+  {
+    "name": "sport",
+    "type": "text"
+  },
+  {
+    "name": "start_date",
+    "type": "text"
+  }
+]

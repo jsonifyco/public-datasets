@@ -1,0 +1,2057 @@
+[
+  {
+    "city": "Vila Nova de Cerveira",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "25 km",
+      "45 km"
+    ],
+    "entry_price": "10 €",
+    "event_name": "MTB – \"ROTA DA GÁVEA\"",
+    "organiser": null,
+    "region": "Viana do Castelo",
+    "registration_url": "https://sinctime.com/evento/559",
+    "scraped_at": "2026-11-11T20:30:59.089668+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/mtb-rota-da-gavea/",
+    "sources": [
+      {
+        "city": "Vila Nova de Cerveira",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "25 km",
+          "45 km"
+        ],
+        "entry_price": "10 €",
+        "event_name": "MTB – \"ROTA DA GÁVEA\"",
+        "organiser": null,
+        "region": "Viana do Castelo",
+        "registration_url": "https://sinctime.com/evento/559",
+        "scraped_at": "2026-11-11T20:30:59.089668+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/mtb-rota-da-gavea/",
+        "sport": "cycling",
+        "start_date": "2026-11-22"
+      }
+    ],
+    "sport": "cycling",
+    "start_date": "2026-11-22"
+  },
+  {
+    "city": "Plano de la Feria",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "14 km",
+      "23 km"
+    ],
+    "entry_price": "19.0–23.0",
+    "event_name": "Epora Trail",
+    "organiser": "Club Mar Alegre y la Compañía de Romanos SPQR de Montoro",
+    "region": "Córdoba",
+    "registration_url": "https://www.eporatrail.com/",
+    "scraped_at": "2026-11-11T20:28:33.488533+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/epora-trail/",
+    "sources": [
+      {
+        "city": "Plano de la Feria",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "14 km",
+          "23 km"
+        ],
+        "entry_price": "19.0–23.0",
+        "event_name": "Epora Trail",
+        "organiser": "Club Mar Alegre y la Compañía de Romanos SPQR de Montoro",
+        "region": "Córdoba",
+        "registration_url": "https://www.eporatrail.com/",
+        "scraped_at": "2026-11-11T20:28:33.488533+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/epora-trail/",
+        "sport": "trail",
+        "start_date": "2026-11-15"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-11-15"
+  },
+  {
+    "city": "León",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "7 km"
+    ],
+    "entry_price": "13.0",
+    "event_name": "San Silvestre Popular Ciudad de Leon",
+    "organiser": "Concejalía de Deportes del Ayuntamiento de León, Delegación Leonesa de Atletismo y Sprint Atletismo León",
+    "region": "León",
+    "registration_url": "https://www.sansilvestreleon.com/como-inscribirte/",
+    "scraped_at": "2026-11-11T20:34:16.549883+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/san-silvestre-popular-ciudad-de-leon/",
+    "sources": [
+      {
+        "city": "León",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "7 km"
+        ],
+        "entry_price": "13.0",
+        "event_name": "San Silvestre Popular Ciudad de Leon",
+        "organiser": "Concejalía de Deportes del Ayuntamiento de León, Delegación Leonesa de Atletismo y Sprint Atletismo León",
+        "region": "León",
+        "registration_url": "https://www.sansilvestreleon.com/como-inscribirte/",
+        "scraped_at": "2026-11-11T20:34:16.549883+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/san-silvestre-popular-ciudad-de-leon/",
+        "sport": "running",
+        "start_date": "2026-12-27"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-27"
+  },
+  {
+    "city": "Figueira da Foz",
+    "country": "Portugal",
+    "currency": null,
+    "distances": [
+      "10 km"
+    ],
+    "entry_price": null,
+    "event_name": "Campeonatos Nacionais de 10km em Estrada (Sub-20, Absolutos e Veteranos)",
+    "organiser": null,
+    "region": null,
+    "registration_url": null,
+    "scraped_at": "2026-11-11T20:21:28.787407+00:00",
+    "source_name": "Federação Portuguesa de Atletismo",
+    "source_url": "https://fpatletismo.pt/calendario-anual/",
+    "sources": [
+      {
+        "city": "Figueira da Foz",
+        "country": "Portugal",
+        "currency": null,
+        "distances": [
+          "10 km"
+        ],
+        "entry_price": null,
+        "event_name": "Campeonatos Nacionais de 10km em Estrada (Sub-20, Absolutos e Veteranos)",
+        "organiser": null,
+        "region": null,
+        "registration_url": null,
+        "scraped_at": "2026-11-11T20:21:28.787407+00:00",
+        "source_name": "Federação Portuguesa de Atletismo",
+        "source_url": "https://fpatletismo.pt/calendario-anual/",
+        "sport": "running",
+        "start_date": "2027-01-16"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2027-01-16"
+  },
+  {
+    "city": "Via de l'Imperi Romà",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "5 km",
+      "10 km"
+    ],
+    "entry_price": "12.0–16.0",
+    "event_name": "Tarraco Health Race",
+    "organiser": "Col·legi Oficial de Metges de Tarragona",
+    "region": "Tarragona",
+    "registration_url": "https://www.rockthesport.com/ca/esdeveniment/tarraco-health-race-2026/inscripcio/selecciona-tarifa",
+    "scraped_at": "2026-11-11T20:30:43.209563+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/tarraco-health-race/",
+    "sources": [
+      {
+        "city": "Via de l'Imperi Romà",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "5 km",
+          "10 km"
+        ],
+        "entry_price": "12.0–16.0",
+        "event_name": "Tarraco Health Race",
+        "organiser": "Col·legi Oficial de Metges de Tarragona",
+        "region": "Tarragona",
+        "registration_url": "https://www.rockthesport.com/ca/esdeveniment/tarraco-health-race-2026/inscripcio/selecciona-tarifa",
+        "scraped_at": "2026-11-11T20:30:43.209563+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/tarraco-health-race/",
+        "sport": "running",
+        "start_date": "2026-11-22"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-22"
+  },
+  {
+    "city": "Cristo del Otero",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "7 km",
+      "12 km"
+    ],
+    "entry_price": "15.0",
+    "event_name": "Trail Tres Cerros Palentinos",
+    "organiser": "Club Deportivo Puentecillas Palencia",
+    "region": "Palencia",
+    "registration_url": "https://trailtrescerros.blogspot.com/p/inscripciones.html",
+    "scraped_at": "2026-11-11T20:30:43.209672+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/trail-tres-cerros-palentinos/",
+    "sources": [
+      {
+        "city": "Cristo del Otero",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "7 km",
+          "12 km"
+        ],
+        "entry_price": "15.0",
+        "event_name": "Trail Tres Cerros Palentinos",
+        "organiser": "Club Deportivo Puentecillas Palencia",
+        "region": "Palencia",
+        "registration_url": "https://trailtrescerros.blogspot.com/p/inscripciones.html",
+        "scraped_at": "2026-11-11T20:30:43.209672+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/trail-tres-cerros-palentinos/",
+        "sport": "trail",
+        "start_date": "2026-11-22"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-11-22"
+  },
+  {
+    "city": "Lamego",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "10 km"
+    ],
+    "entry_price": "5 € — 7 €",
+    "event_name": "São Silvestre Run - Lamego",
+    "organiser": null,
+    "region": "Viseu",
+    "registration_url": "https://racefinder.pt/en/event/sao-silvestre-run-lamego/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:36:52.609848+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/sao-silvestre-run-lamego/",
+    "sources": [
+      {
+        "city": "Lamego",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "10 km"
+        ],
+        "entry_price": "5 € — 7 €",
+        "event_name": "São Silvestre Run - Lamego",
+        "organiser": null,
+        "region": "Viseu",
+        "registration_url": "https://racefinder.pt/en/event/sao-silvestre-run-lamego/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:36:52.609848+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/sao-silvestre-run-lamego/",
+        "sport": "running",
+        "start_date": "2026-12-19"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-19"
+  },
+  {
+    "city": "Llaurí",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "16 km"
+    ],
+    "entry_price": "20.0",
+    "event_name": "Volta Muntanya de Llaurí",
+    "organiser": "C.A. Llaurí",
+    "region": "Valencia",
+    "registration_url": "https://web.rockthesport.com/es/event/11-vmll-volta-muntanya-de-llauri-lmvs-2627",
+    "scraped_at": "2026-11-11T20:36:11.388070+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/volta-muntanya-de-llauri/",
+    "sources": [
+      {
+        "city": "Llaurí",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "16 km"
+        ],
+        "entry_price": "20.0",
+        "event_name": "Volta Muntanya de Llaurí",
+        "organiser": "C.A. Llaurí",
+        "region": "Valencia",
+        "registration_url": "https://web.rockthesport.com/es/event/11-vmll-volta-muntanya-de-llauri-lmvs-2627",
+        "scraped_at": "2026-11-11T20:36:11.388070+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/volta-muntanya-de-llauri/",
+        "sport": "trail",
+        "start_date": "2027-01-30"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2027-01-30"
+  },
+  {
+    "city": "Palma",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "5 km",
+      "10 km",
+      "15 km"
+    ],
+    "entry_price": "14.0–16.0",
+    "event_name": "Cursa WASP Marina Mallorca Portitxol",
+    "organiser": "Club Marathon Mallorca",
+    "region": "Illes Balears",
+    "registration_url": "https://www.elitechip.net/es/competiciones/7566135",
+    "scraped_at": "2026-11-11T20:35:56.122628+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/cursa-snip-marina-mallorca-portitxol/",
+    "sources": [
+      {
+        "city": "Palma",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "5 km",
+          "10 km",
+          "15 km"
+        ],
+        "entry_price": "14.0–16.0",
+        "event_name": "Cursa WASP Marina Mallorca Portitxol",
+        "organiser": "Club Marathon Mallorca",
+        "region": "Illes Balears",
+        "registration_url": "https://www.elitechip.net/es/competiciones/7566135",
+        "scraped_at": "2026-11-11T20:35:56.122628+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/cursa-snip-marina-mallorca-portitxol/",
+        "sport": "running",
+        "start_date": "2027-01-24"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2027-01-24"
+  },
+  {
+    "city": "Touça, Vila Nova de Foz Côa",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "19 km",
+      "40 km"
+    ],
+    "entry_price": "12 € — 17 €",
+    "event_name": "Azeitona MTB Ride 2026",
+    "organiser": null,
+    "region": "Guarda",
+    "registration_url": "https://racefinder.pt/en/event/azeitona-mtb-ride-2026/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:28:46.719707+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/azeitona-mtb-ride-2026/",
+    "sources": [
+      {
+        "city": "Touça, Vila Nova de Foz Côa",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "19 km",
+          "40 km"
+        ],
+        "entry_price": "12 € — 17 €",
+        "event_name": "Azeitona MTB Ride 2026",
+        "organiser": null,
+        "region": "Guarda",
+        "registration_url": "https://racefinder.pt/en/event/azeitona-mtb-ride-2026/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:28:46.719707+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/azeitona-mtb-ride-2026/",
+        "sport": "cycling",
+        "start_date": "2026-11-15"
+      }
+    ],
+    "sport": "cycling",
+    "start_date": "2026-11-15"
+  },
+  {
+    "city": "Lourinhã",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "26 km",
+      "13 km",
+      "10 km",
+      "Kids Trail"
+    ],
+    "entry_price": "Free–20 €",
+    "event_name": "2nd Carrossel do Planalto das Cesaredas 2026",
+    "organiser": null,
+    "region": "Lisboa",
+    "registration_url": "https://racefinder.pt/en/event/2nd-carrossel-do-planalto-das-cesaredas-2026/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:32:57.336343+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/2nd-carrossel-do-planalto-das-cesaredas-2026/",
+    "sources": [
+      {
+        "city": "Lourinhã",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "26 km",
+          "13 km",
+          "10 km",
+          "Kids Trail"
+        ],
+        "entry_price": "Free–20 €",
+        "event_name": "2nd Carrossel do Planalto das Cesaredas 2026",
+        "organiser": null,
+        "region": "Lisboa",
+        "registration_url": "https://racefinder.pt/en/event/2nd-carrossel-do-planalto-das-cesaredas-2026/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:32:57.336343+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/2nd-carrossel-do-planalto-das-cesaredas-2026/",
+        "sport": "trail",
+        "start_date": "2026-12-01"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-12-01"
+  },
+  {
+    "city": "Alverca do Ribatejo and Sobralinho",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "30 km"
+    ],
+    "entry_price": "22 €",
+    "event_name": "12th Rota das Tasquinhas 2026",
+    "organiser": "BTT Apogma",
+    "region": null,
+    "registration_url": "https://racefinder.pt/en/event/12th-rota-das-tasquinhas-2026/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:28:33.488586+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/12th-rota-das-tasquinhas-2026/",
+    "sources": [
+      {
+        "city": "Alverca do Ribatejo and Sobralinho",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "30 km"
+        ],
+        "entry_price": "22 €",
+        "event_name": "12th Rota das Tasquinhas 2026",
+        "organiser": "BTT Apogma",
+        "region": null,
+        "registration_url": "https://racefinder.pt/en/event/12th-rota-das-tasquinhas-2026/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:28:33.488586+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/12th-rota-das-tasquinhas-2026/",
+        "sport": "cycling",
+        "start_date": "2026-11-15"
+      }
+    ],
+    "sport": "cycling",
+    "start_date": "2026-11-15"
+  },
+  {
+    "city": "Arrifana",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "10 km"
+    ],
+    "entry_price": "8 € — 12 €",
+    "event_name": "São Silvestre de Arrifana",
+    "organiser": null,
+    "region": "Aveiro",
+    "registration_url": "https://racefinder.pt/en/event/sao-silvestre-de-arrifana-2/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:36:24.575264+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/sao-silvestre-de-arrifana-2/",
+    "sources": [
+      {
+        "city": "Arrifana",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "10 km"
+        ],
+        "entry_price": "8 € — 12 €",
+        "event_name": "São Silvestre de Arrifana",
+        "organiser": null,
+        "region": "Aveiro",
+        "registration_url": "https://racefinder.pt/en/event/sao-silvestre-de-arrifana-2/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:36:24.575264+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/sao-silvestre-de-arrifana-2/",
+        "sport": "running",
+        "start_date": "2026-12-13"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-13"
+  },
+  {
+    "city": "Melilla",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "21.0975 km",
+      "10 km",
+      "5 km",
+      "21.097 km"
+    ],
+    "entry_price": "15.0",
+    "event_name": "XIV Media Maratón y 10K Melilla Ciudad del Deporte",
+    "organiser": "Consejería de Educación, Juventud y Deporte de la Ciudad Autónoma de Melilla",
+    "region": "Melilla",
+    "registration_url": "https://eventos.runrunsports.com/inscripcion/xiii-media-maraton",
+    "scraped_at": "2026-11-11T20:27:40.585813+00:00",
+    "source_name": "Real Federación Española de Atletismo",
+    "source_url": "https://atletismorfea.es/calendario/campeonato/xiv-media-maraton-y-10k-melilla-ciudad-del-deporte",
+    "sources": [
+      {
+        "city": "Melilla",
+        "country": "Spain",
+        "currency": null,
+        "distances": [
+          "21.0975 km",
+          "10 km"
+        ],
+        "entry_price": null,
+        "event_name": "XIV Media Maratón y 10K Melilla Ciudad del Deporte",
+        "organiser": null,
+        "region": null,
+        "registration_url": "https://eventos.runrunsports.com/inscripcion/xiii-media-maraton",
+        "scraped_at": "2026-11-11T20:27:40.585813+00:00",
+        "source_name": "Real Federación Española de Atletismo",
+        "source_url": "https://atletismorfea.es/calendario/campeonato/xiv-media-maraton-y-10k-melilla-ciudad-del-deporte",
+        "sport": "running",
+        "start_date": "2026-11-15"
+      },
+      {
+        "city": "Melilla",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "5 km",
+          "10 km",
+          "21.097 km"
+        ],
+        "entry_price": "15.0",
+        "event_name": "Media Maratón Ciudad de Melilla",
+        "organiser": "Consejería de Educación, Juventud y Deporte de la Ciudad Autónoma de Melilla",
+        "region": "Melilla",
+        "registration_url": "https://www.rockthesport.com/es/evento/mediamelilla",
+        "scraped_at": "2026-11-11T20:28:20.484259+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/media-maraton-ciudad-de-melilla/",
+        "sport": "running",
+        "start_date": "2026-11-15"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-15"
+  },
+  {
+    "city": "Espinho",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "5 km",
+      "10 km"
+    ],
+    "entry_price": "8 € — 16 €",
+    "event_name": "São Silvestre de Espinho",
+    "organiser": null,
+    "region": "Aveiro",
+    "registration_url": "https://racefinder.pt/en/event/sao-silvestre-de-espinho/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:38:14.420727+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/sao-silvestre-de-espinho/",
+    "sources": [
+      {
+        "city": "Espinho",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "5 km",
+          "10 km"
+        ],
+        "entry_price": "8 € — 16 €",
+        "event_name": "São Silvestre de Espinho",
+        "organiser": null,
+        "region": "Aveiro",
+        "registration_url": "https://racefinder.pt/en/event/sao-silvestre-de-espinho/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:38:14.420727+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/sao-silvestre-de-espinho/",
+        "sport": "running",
+        "start_date": "2027-01-03"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2027-01-03"
+  },
+  {
+    "city": "Santa Lucía de Tirajana",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "5 km",
+      "10 km",
+      "21.097 km"
+    ],
+    "entry_price": "10.0–20.0",
+    "event_name": "Media Maratón Alcalde Camilo Sánchez",
+    "organiser": "Ayuntamiento de Santa Lucía de Tirajana",
+    "region": "Las Palmas",
+    "registration_url": "https://mediacamilo.trackingsport.com/events/modalidades.xhtml",
+    "scraped_at": "2026-11-11T20:29:43.025746+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/media-maraton-alcalde-camilo-sanchez/",
+    "sources": [
+      {
+        "city": "Santa Lucía de Tirajana",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "5 km",
+          "10 km",
+          "21.097 km"
+        ],
+        "entry_price": "10.0–20.0",
+        "event_name": "Media Maratón Alcalde Camilo Sánchez",
+        "organiser": "Ayuntamiento de Santa Lucía de Tirajana",
+        "region": "Las Palmas",
+        "registration_url": "https://mediacamilo.trackingsport.com/events/modalidades.xhtml",
+        "scraped_at": "2026-11-11T20:29:43.025746+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/media-maraton-alcalde-camilo-sanchez/",
+        "sport": "running",
+        "start_date": "2026-11-21"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-21"
+  },
+  {
+    "city": "Villar del Olmo",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "16 km"
+    ],
+    "entry_price": "16.0",
+    "event_name": "Trail del Cocido Villareño",
+    "organiser": "Ayuntamiento de Villar del Olmo",
+    "region": "Madrid",
+    "registration_url": "https://web.rockthesport.com/es/event/iii-trail-del-cocido-villareno",
+    "scraped_at": "2026-11-11T20:35:56.122661+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/trail-del-cocido-villareno/",
+    "sources": [
+      {
+        "city": "Villar del Olmo",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "16 km"
+        ],
+        "entry_price": "16.0",
+        "event_name": "Trail del Cocido Villareño",
+        "organiser": "Ayuntamiento de Villar del Olmo",
+        "region": "Madrid",
+        "registration_url": "https://web.rockthesport.com/es/event/iii-trail-del-cocido-villareno",
+        "scraped_at": "2026-11-11T20:35:56.122661+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/trail-del-cocido-villareno/",
+        "sport": "trail",
+        "start_date": "2027-01-24"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2027-01-24"
+  },
+  {
+    "city": "Puerto Serrano",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "18 km",
+      "29 km"
+    ],
+    "entry_price": "29.0",
+    "event_name": "CxM Toleta",
+    "organiser": null,
+    "region": "Cádiz",
+    "registration_url": "https://inscripciones.tecnocrono.com/inscripcion/vi-cxm-toleta/inscripcion_datos/",
+    "scraped_at": "2026-11-11T20:30:26.115448+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/cxm-toleta/",
+    "sources": [
+      {
+        "city": "Puerto Serrano",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "18 km",
+          "29 km"
+        ],
+        "entry_price": "29.0",
+        "event_name": "CxM Toleta",
+        "organiser": null,
+        "region": "Cádiz",
+        "registration_url": "https://inscripciones.tecnocrono.com/inscripcion/vi-cxm-toleta/inscripcion_datos/",
+        "scraped_at": "2026-11-11T20:30:26.115448+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/cxm-toleta/",
+        "sport": "trail",
+        "start_date": "2026-11-22"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-11-22"
+  },
+  {
+    "city": "Lisboa",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "21 km",
+      "10 km",
+      "4 km",
+      "500 m"
+    ],
+    "entry_price": "8 € — 110 €",
+    "event_name": "GENERALI TRANQUILIDADE HALF MARATHON OF DISCOVERIES",
+    "organiser": null,
+    "region": null,
+    "registration_url": "https://meiamaratonadosdescobrimentos.com/",
+    "scraped_at": "2026-11-11T20:31:57.553170+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/generali-tranquilidade-half-marathon-of-discoveries/",
+    "sources": [
+      {
+        "city": "Lisboa",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "21 km",
+          "10 km",
+          "4 km",
+          "500 m"
+        ],
+        "entry_price": "8 € — 110 €",
+        "event_name": "GENERALI TRANQUILIDADE HALF MARATHON OF DISCOVERIES",
+        "organiser": null,
+        "region": null,
+        "registration_url": "https://meiamaratonadosdescobrimentos.com/",
+        "scraped_at": "2026-11-11T20:31:57.553170+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/generali-tranquilidade-half-marathon-of-discoveries/",
+        "sport": "running",
+        "start_date": "2026-11-29"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-29"
+  },
+  {
+    "city": "Cieza",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "11.3 km",
+      "21.097 km"
+    ],
+    "entry_price": "16.0",
+    "event_name": "Media Maratón Ciudad de Cieza",
+    "organiser": "Hermandad de Santa María Magdalena",
+    "region": "Murcia",
+    "registration_url": "https://www.alcanzatumeta.es/xxxvii-media-maraton-ciudad-de-cieza-y-xvii-11-3k-solidarios-2026",
+    "scraped_at": "2026-11-11T20:34:16.549779+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/media-maraton-ciudad-de-cieza-y-xvii-11-3k-solidarios/",
+    "sources": [
+      {
+        "city": "Cieza",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "11.3 km",
+          "21.097 km"
+        ],
+        "entry_price": "16.0",
+        "event_name": "Media Maratón Ciudad de Cieza",
+        "organiser": "Hermandad de Santa María Magdalena",
+        "region": "Murcia",
+        "registration_url": "https://www.alcanzatumeta.es/xxxvii-media-maraton-ciudad-de-cieza-y-xvii-11-3k-solidarios-2026",
+        "scraped_at": "2026-11-11T20:34:16.549779+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/media-maraton-ciudad-de-cieza-y-xvii-11-3k-solidarios/",
+        "sport": "running",
+        "start_date": "2026-12-20"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-20"
+  },
+  {
+    "city": "Arroyomolinos",
+    "country": "Spain",
+    "currency": null,
+    "distances": null,
+    "entry_price": null,
+    "event_name": "Copa De España CX Tr3ce Bike Arroyomolinos",
+    "organiser": null,
+    "region": "Madrid",
+    "registration_url": null,
+    "scraped_at": "2026-11-11T20:21:15.949648+00:00",
+    "source_name": "Real Federación Española de Ciclismo",
+    "source_url": "https://rfec.com/es/smartweb/seccion/noticia/rfec/ciclocross/62224-Calendario-de-la-Copa-de-Espana-de-CX-2026-y-del-Campeonato-de-Espana-de-CX-2028",
+    "sources": [
+      {
+        "city": "Arroyomolinos",
+        "country": "Spain",
+        "currency": null,
+        "distances": null,
+        "entry_price": null,
+        "event_name": "Copa De España CX Tr3ce Bike Arroyomolinos",
+        "organiser": null,
+        "region": "Madrid",
+        "registration_url": null,
+        "scraped_at": "2026-11-11T20:21:15.949648+00:00",
+        "source_name": "Real Federación Española de Ciclismo",
+        "source_url": "https://rfec.com/es/smartweb/seccion/noticia/rfec/ciclocross/62224-Calendario-de-la-Copa-de-Espana-de-CX-2026-y-del-Campeonato-de-Espana-de-CX-2028",
+        "sport": "cycling",
+        "start_date": "2027-01-03"
+      }
+    ],
+    "sport": "cycling",
+    "start_date": "2027-01-03"
+  },
+  {
+    "city": "Vila Nova de Cerveira",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "10 km",
+      "5 km"
+    ],
+    "entry_price": "6 € — 10 €",
+    "event_name": "São Silvestre Vila Nova de Cerveira 2026",
+    "organiser": null,
+    "region": "Viana do Castelo",
+    "registration_url": "https://racefinder.pt/en/event/sao-silvestre-vila-nova-de-cerveira-2026/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:36:52.610076+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/sao-silvestre-vila-nova-de-cerveira-2026/",
+    "sources": [
+      {
+        "city": "Vila Nova de Cerveira",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "10 km",
+          "5 km"
+        ],
+        "entry_price": "6 € — 10 €",
+        "event_name": "São Silvestre Vila Nova de Cerveira 2026",
+        "organiser": null,
+        "region": "Viana do Castelo",
+        "registration_url": "https://racefinder.pt/en/event/sao-silvestre-vila-nova-de-cerveira-2026/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:36:52.610076+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/sao-silvestre-vila-nova-de-cerveira-2026/",
+        "sport": "running",
+        "start_date": "2026-12-19"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-19"
+  },
+  {
+    "city": "Fuentes de ebro",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "5 km",
+      "10 km"
+    ],
+    "entry_price": "14.0",
+    "event_name": "10K y 5K Fuentes de Ebro",
+    "organiser": null,
+    "region": "Zaragoza",
+    "registration_url": "https://fartlecksport.com/10k-fuentes-de-ebro/inscribete/",
+    "scraped_at": "2026-11-11T20:32:44.337565+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/10k-y-5k-fuentes-de-ebro/",
+    "sources": [
+      {
+        "city": "Fuentes de ebro",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "5 km",
+          "10 km"
+        ],
+        "entry_price": "14.0",
+        "event_name": "10K y 5K Fuentes de Ebro",
+        "organiser": null,
+        "region": "Zaragoza",
+        "registration_url": "https://fartlecksport.com/10k-fuentes-de-ebro/inscribete/",
+        "scraped_at": "2026-11-11T20:32:44.337565+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/10k-y-5k-fuentes-de-ebro/",
+        "sport": "running",
+        "start_date": "2026-12-12"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-12"
+  },
+  {
+    "city": "Eivissa",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "10 km"
+    ],
+    "entry_price": "20.0",
+    "event_name": "10K Ibiza-Platja d’en Bossa",
+    "organiser": null,
+    "region": "Illes Balears",
+    "registration_url": "https://www.avaibooksports.com/inscripcion/10k-ibiza-platja-d-en-bossa-3/",
+    "scraped_at": "2026-11-11T20:37:06.827828+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/10k-ibiza-platja-d-en-bossa/",
+    "sources": [
+      {
+        "city": "Eivissa",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "10 km"
+        ],
+        "entry_price": "20.0",
+        "event_name": "10K Ibiza-Platja d’en Bossa",
+        "organiser": null,
+        "region": "Illes Balears",
+        "registration_url": "https://www.avaibooksports.com/inscripcion/10k-ibiza-platja-d-en-bossa-3/",
+        "scraped_at": "2026-11-11T20:37:06.827828+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/10k-ibiza-platja-d-en-bossa/",
+        "sport": "running",
+        "start_date": "2027-02-07"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2027-02-07"
+  },
+  {
+    "city": "Peniche",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "10 km",
+      "5 km",
+      "500 m"
+    ],
+    "entry_price": "6 € — 14 €",
+    "event_name": "8th GRANDE PRÉMIO PENICHE A CORRER",
+    "organiser": null,
+    "region": "Leiria",
+    "registration_url": "https://racefinder.pt/en/event/8th-grande-premio-peniche-a-correr/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:38:29.613442+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/8th-grande-premio-peniche-a-correr/",
+    "sources": [
+      {
+        "city": "Peniche",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "10 km",
+          "5 km",
+          "500 m"
+        ],
+        "entry_price": "6 € — 14 €",
+        "event_name": "8th GRANDE PRÉMIO PENICHE A CORRER",
+        "organiser": null,
+        "region": "Leiria",
+        "registration_url": "https://racefinder.pt/en/event/8th-grande-premio-peniche-a-correr/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:38:29.613442+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/8th-grande-premio-peniche-a-correr/",
+        "sport": "running",
+        "start_date": "2027-01-10"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2027-01-10"
+  },
+  {
+    "city": "Casinos",
+    "country": "Spain",
+    "currency": null,
+    "distances": [
+      "10 km"
+    ],
+    "entry_price": null,
+    "event_name": "10K Dulces de Casinos",
+    "organiser": "Ayuntamiento de Casinos",
+    "region": "Valencia",
+    "registration_url": null,
+    "scraped_at": "2026-11-11T20:31:28.222632+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/10k-dulces-de-casinos/",
+    "sources": [
+      {
+        "city": "Casinos",
+        "country": "Spain",
+        "currency": null,
+        "distances": [
+          "10 km"
+        ],
+        "entry_price": null,
+        "event_name": "10K Dulces de Casinos",
+        "organiser": "Ayuntamiento de Casinos",
+        "region": "Valencia",
+        "registration_url": null,
+        "scraped_at": "2026-11-11T20:31:28.222632+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/10k-dulces-de-casinos/",
+        "sport": "running",
+        "start_date": "2026-11-28"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-28"
+  },
+  {
+    "city": "Instalaciones de Penyeta Roja",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "11 km",
+      "21 km"
+    ],
+    "entry_price": "16.0–21.0",
+    "event_name": "Cursa Tombatossals Trails de Castelló",
+    "organiser": "Club d'Atletisme Tombatossals",
+    "region": "Castellón",
+    "registration_url": "https://www.rockthesport.com/es/evento/cursa-tombatossals-trails-de-castello-2026/inscripcion/selecciona-tarifa?utm_source=rockthesport&utm_medium=calendar&utm_campaign=rts-calendar-free-promo",
+    "scraped_at": "2026-11-11T20:33:32.933117+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/cursa-tombatossals-trails-de-castello/",
+    "sources": [
+      {
+        "city": "Instalaciones de Penyeta Roja",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "11 km",
+          "21 km"
+        ],
+        "entry_price": "16.0–21.0",
+        "event_name": "Cursa Tombatossals Trails de Castelló",
+        "organiser": "Club d'Atletisme Tombatossals",
+        "region": "Castellón",
+        "registration_url": "https://www.rockthesport.com/es/evento/cursa-tombatossals-trails-de-castello-2026/inscripcion/selecciona-tarifa?utm_source=rockthesport&utm_medium=calendar&utm_campaign=rts-calendar-free-promo",
+        "scraped_at": "2026-11-11T20:33:32.933117+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/cursa-tombatossals-trails-de-castello/",
+        "sport": "trail",
+        "start_date": "2026-12-13"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-12-13"
+  },
+  {
+    "city": "Constância",
+    "country": "Portugal",
+    "currency": null,
+    "distances": [
+      "300 m",
+      "800 m",
+      "1.3 km",
+      "2.6 km",
+      "4.1 km",
+      "10 km",
+      "7 km",
+      "3 km"
+    ],
+    "entry_price": "Free",
+    "event_name": "11th São Silvestre Solidária Constância Run – BrigMec",
+    "organiser": null,
+    "region": "Santarém",
+    "registration_url": "https://www.trilhoperdido.com/evento/11-Corrida-Sao-Silvestre-Solidaria-Constancia-BrigMec",
+    "scraped_at": "2026-11-11T20:35:42.451780+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/11th-sao-silvestre-solidaria-constancia-run-brigmec/",
+    "sources": [
+      {
+        "city": "Constância",
+        "country": "Portugal",
+        "currency": null,
+        "distances": [
+          "300 m",
+          "800 m",
+          "1.3 km",
+          "2.6 km",
+          "4.1 km",
+          "10 km"
+        ],
+        "entry_price": "Free",
+        "event_name": "11th São Silvestre Solidária Constância Run – BrigMec",
+        "organiser": null,
+        "region": "Santarém",
+        "registration_url": "https://www.trilhoperdido.com/evento/11-Corrida-Sao-Silvestre-Solidaria-Constancia-BrigMec",
+        "scraped_at": "2026-11-11T20:35:42.451780+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/11th-sao-silvestre-solidaria-constancia-run-brigmec/",
+        "sport": "running",
+        "start_date": "2026-12-12"
+      },
+      {
+        "city": "Constância",
+        "country": "Portugal",
+        "currency": null,
+        "distances": [
+          "300 m",
+          "800 m",
+          "1.3 km",
+          "2.6 km",
+          "4.1 km",
+          "10 km",
+          "7 km",
+          "3 km"
+        ],
+        "entry_price": "Free; requires donation of goods",
+        "event_name": "11th São Silvestre Solidária Constância – Brigada Mecanizada 2026",
+        "organiser": null,
+        "region": "Santarém",
+        "registration_url": "https://www.trilhoperdido.com",
+        "scraped_at": "2026-11-11T20:35:42.451940+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/11th-sao-silvestre-solidaria-constancia-brigada-mecanizada-2026/",
+        "sport": "running",
+        "start_date": "2026-12-12"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-12"
+  },
+  {
+    "city": "Tondela",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "10 km",
+      "5 km"
+    ],
+    "entry_price": "7,50 € — 15 €",
+    "event_name": "São Silvestre de Tondela 2027",
+    "organiser": "STOP and GO Events",
+    "region": "Viseu",
+    "registration_url": "https://stopandgo.net/en/events/sao-silvestre-de-tondela-2027",
+    "scraped_at": "2026-11-11T20:38:14.420695+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/sao-silvestre-de-tondela-2027/",
+    "sources": [
+      {
+        "city": "Tondela",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "10 km",
+          "5 km"
+        ],
+        "entry_price": "7,50 € — 15 €",
+        "event_name": "São Silvestre de Tondela 2027",
+        "organiser": "STOP and GO Events",
+        "region": "Viseu",
+        "registration_url": "https://stopandgo.net/en/events/sao-silvestre-de-tondela-2027",
+        "scraped_at": "2026-11-11T20:38:14.420695+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/sao-silvestre-de-tondela-2027/",
+        "sport": "running",
+        "start_date": "2027-01-02"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2027-01-02"
+  },
+  {
+    "city": "Santa Cruz das Flores",
+    "country": "Portugal",
+    "currency": null,
+    "distances": [
+      "6 km",
+      "3 km",
+      "1.5 km"
+    ],
+    "entry_price": null,
+    "event_name": "Christmas Run – Santa Cruz das Flores 2026",
+    "organiser": null,
+    "region": "Azores",
+    "registration_url": "https://racefinder.pt/en/event/christmas-run-santa-cruz-das-flores-2026/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:35:00.485457+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/christmas-run-santa-cruz-das-flores-2026/",
+    "sources": [
+      {
+        "city": "Santa Cruz das Flores",
+        "country": "Portugal",
+        "currency": null,
+        "distances": [
+          "6 km",
+          "3 km",
+          "1.5 km"
+        ],
+        "entry_price": null,
+        "event_name": "Christmas Run – Santa Cruz das Flores 2026",
+        "organiser": null,
+        "region": "Azores",
+        "registration_url": "https://racefinder.pt/en/event/christmas-run-santa-cruz-das-flores-2026/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:35:00.485457+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/christmas-run-santa-cruz-das-flores-2026/",
+        "sport": "running",
+        "start_date": "2026-12-08"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-08"
+  },
+  {
+    "city": "Guadalajara",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "11 km",
+      "21.097 km"
+    ],
+    "entry_price": "19.0",
+    "event_name": "Media Maraton Guadalajara",
+    "organiser": "Club Atletismo La Esperanza",
+    "region": "Guadalajara",
+    "registration_url": "https://www.clubatletismolaesperanza.es/lamediadeguada/inscripciones/",
+    "scraped_at": "2026-11-11T20:31:57.553421+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/media-maraton-guadalajara/",
+    "sources": [
+      {
+        "city": "Guadalajara",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "11 km",
+          "21.097 km"
+        ],
+        "entry_price": "19.0",
+        "event_name": "Media Maraton Guadalajara",
+        "organiser": "Club Atletismo La Esperanza",
+        "region": "Guadalajara",
+        "registration_url": "https://www.clubatletismolaesperanza.es/lamediadeguada/inscripciones/",
+        "scraped_at": "2026-11-11T20:31:57.553421+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/media-maraton-guadalajara/",
+        "sport": "running",
+        "start_date": "2026-11-29"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-29"
+  },
+  {
+    "city": "Jerez de la Frontera",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "8.5 km"
+    ],
+    "entry_price": "10.0",
+    "event_name": "Carrera Popular Ciudad de Jerez",
+    "organiser": "Servicio de Deportes del Ayuntamiento de Jerez de la Frontera",
+    "region": "Cádiz",
+    "registration_url": "https://www.runnink.com/book/111",
+    "scraped_at": "2026-11-11T20:28:20.484459+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/carrera-popular-ciudad-de-jerez/",
+    "sources": [
+      {
+        "city": "Jerez de la Frontera",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "8.5 km"
+        ],
+        "entry_price": "10.0",
+        "event_name": "Carrera Popular Ciudad de Jerez",
+        "organiser": "Servicio de Deportes del Ayuntamiento de Jerez de la Frontera",
+        "region": "Cádiz",
+        "registration_url": "https://www.runnink.com/book/111",
+        "scraped_at": "2026-11-11T20:28:20.484459+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/carrera-popular-ciudad-de-jerez/",
+        "sport": "running",
+        "start_date": "2026-11-15"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-15"
+  },
+  {
+    "city": "Ílhavo",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "5 km running",
+      "20 km cycling",
+      "2.5 km running"
+    ],
+    "entry_price": "20 € — 25 €",
+    "event_name": "4th Duathlon Ílhavo",
+    "organiser": null,
+    "region": "Aveiro",
+    "registration_url": "https://sinctime.com/evento/511",
+    "scraped_at": "2026-11-11T20:28:59.849621+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/4th-duathlon-ilhavo/",
+    "sources": [
+      {
+        "city": "Ílhavo",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "5 km running",
+          "20 km cycling",
+          "2.5 km running"
+        ],
+        "entry_price": "20 € — 25 €",
+        "event_name": "4th Duathlon Ílhavo",
+        "organiser": null,
+        "region": "Aveiro",
+        "registration_url": "https://sinctime.com/evento/511",
+        "scraped_at": "2026-11-11T20:28:59.849621+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/4th-duathlon-ilhavo/",
+        "sport": "other",
+        "start_date": "2026-11-15"
+      }
+    ],
+    "sport": "other",
+    "start_date": "2026-11-15"
+  },
+  {
+    "city": "Valença",
+    "country": "Portugal",
+    "currency": null,
+    "distances": null,
+    "entry_price": null,
+    "event_name": "Campeonatos Nacionais de Corta-Mato (Sub-14, Sub-16, Sub-18, Sub-20, Absolutos e Estafeta Mista)",
+    "organiser": "Federação Portuguesa de Atletismo",
+    "region": null,
+    "registration_url": null,
+    "scraped_at": "2026-11-11T20:26:50.066416+00:00",
+    "source_name": "Federação Portuguesa de Atletismo",
+    "source_url": "https://fpatletismo.pt/geral/2026/10/campeonatos-nacionais-de-corta-mato-sub-14-sub-16-sub-18-sub-20-absolutos-e-estafeta-mista/",
+    "sources": [
+      {
+        "city": "Valença",
+        "country": "Portugal",
+        "currency": null,
+        "distances": null,
+        "entry_price": null,
+        "event_name": "Campeonatos Nacionais de Corta-Mato (Sub-14, Sub-16, Sub-18, Sub-20, Absolutos e Estafeta Mista)",
+        "organiser": "Federação Portuguesa de Atletismo",
+        "region": null,
+        "registration_url": null,
+        "scraped_at": "2026-11-11T20:26:50.066416+00:00",
+        "source_name": "Federação Portuguesa de Atletismo",
+        "source_url": "https://fpatletismo.pt/geral/2026/10/campeonatos-nacionais-de-corta-mato-sub-14-sub-16-sub-18-sub-20-absolutos-e-estafeta-mista/",
+        "sport": "running",
+        "start_date": "2026-11-22"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-22"
+  },
+  {
+    "city": "Ibiza",
+    "country": "Spain",
+    "currency": null,
+    "distances": null,
+    "entry_price": null,
+    "event_name": "3 días Trail Ibiza - Ultra Ibiza",
+    "organiser": null,
+    "region": null,
+    "registration_url": null,
+    "scraped_at": "2026-11-11T20:28:20.484325+00:00",
+    "source_name": "Real Federación Española de Atletismo",
+    "source_url": "https://atletismorfea.es/calendario/campeonato/3-dias-trail-ibiza-ultra-ibiza-2",
+    "sources": [
+      {
+        "city": "Ibiza",
+        "country": "Spain",
+        "currency": null,
+        "distances": null,
+        "entry_price": null,
+        "event_name": "3 días Trail Ibiza - Ultra Ibiza",
+        "organiser": null,
+        "region": null,
+        "registration_url": null,
+        "scraped_at": "2026-11-11T20:28:20.484325+00:00",
+        "source_name": "Real Federación Española de Atletismo",
+        "source_url": "https://atletismorfea.es/calendario/campeonato/3-dias-trail-ibiza-ultra-ibiza-2",
+        "sport": "trail",
+        "start_date": "2026-11-28"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-11-28"
+  },
+  {
+    "city": "Ponta do Sol",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "25 km",
+      "14 km"
+    ],
+    "entry_price": "17 € — 32 €",
+    "event_name": "ADN Race Ponta do Sol",
+    "organiser": null,
+    "region": "Madeira",
+    "registration_url": "https://racefinder.pt/en/event/adn-race-ponta-do-sol-2/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:30:26.115271+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/adn-race-ponta-do-sol-2/",
+    "sources": [
+      {
+        "city": "Ponta do Sol",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "25 km",
+          "14 km"
+        ],
+        "entry_price": "17 € — 32 €",
+        "event_name": "ADN Race Ponta do Sol",
+        "organiser": null,
+        "region": "Madeira",
+        "registration_url": "https://racefinder.pt/en/event/adn-race-ponta-do-sol-2/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:30:26.115271+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/adn-race-ponta-do-sol-2/",
+        "sport": "trail",
+        "start_date": "2026-11-22"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-11-22"
+  },
+  {
+    "city": "Vila Nova de Tazem",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "16 km",
+      "8 km"
+    ],
+    "entry_price": "10 € — 14 €",
+    "event_name": "1st Trail Entre Vinhas e o Mondego 2026",
+    "organiser": null,
+    "region": "Guarda",
+    "registration_url": "https://racefinder.pt/en/event/1st-trail-entre-vinhas-e-o-mondego-2026/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:28:33.488702+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/1st-trail-entre-vinhas-e-o-mondego-2026/",
+    "sources": [
+      {
+        "city": "Vila Nova de Tazem",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "16 km",
+          "8 km"
+        ],
+        "entry_price": "10 € — 14 €",
+        "event_name": "1st Trail Entre Vinhas e o Mondego 2026",
+        "organiser": null,
+        "region": "Guarda",
+        "registration_url": "https://racefinder.pt/en/event/1st-trail-entre-vinhas-e-o-mondego-2026/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:28:33.488702+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/1st-trail-entre-vinhas-e-o-mondego-2026/",
+        "sport": "trail",
+        "start_date": "2026-11-15"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-11-15"
+  },
+  {
+    "city": null,
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "21.097 km"
+    ],
+    "entry_price": "19.0",
+    "event_name": "Media Maratón Sevilla Los Palacios",
+    "organiser": null,
+    "region": "Sevilla",
+    "registration_url": "https://www.cruzandolameta.es/ver/media-maraton-sevilla-los-palacios-2026---2559/",
+    "scraped_at": "2026-11-11T20:33:11.362155+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/edicion-media-maraton-sevilla-los-palacios/",
+    "sources": [
+      {
+        "city": null,
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "21.097 km"
+        ],
+        "entry_price": "19.0",
+        "event_name": "Media Maratón Sevilla Los Palacios",
+        "organiser": null,
+        "region": "Sevilla",
+        "registration_url": "https://www.cruzandolameta.es/ver/media-maraton-sevilla-los-palacios-2026---2559/",
+        "scraped_at": "2026-11-11T20:33:11.362155+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/edicion-media-maraton-sevilla-los-palacios/",
+        "sport": "running",
+        "start_date": "2026-12-13"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-13"
+  },
+  {
+    "city": null,
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "5 km",
+      "10 km"
+    ],
+    "entry_price": "8.0–15.0",
+    "event_name": "10K Valencia Ibercaja by Kiprun",
+    "organiser": "C.A. 10K Valencia",
+    "region": "Valencia",
+    "registration_url": "https://registration.10kvalencia.com/inscripcion/10k-valencia-ibercaja-by-kiprun-2027/inscripcion_datos/",
+    "scraped_at": "2026-11-11T20:35:00.486026+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/10k-valencia-ibercaja-by-kiprun/",
+    "sources": [
+      {
+        "city": null,
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "5 km",
+          "10 km"
+        ],
+        "entry_price": "8.0–15.0",
+        "event_name": "10K Valencia Ibercaja by Kiprun",
+        "organiser": "C.A. 10K Valencia",
+        "region": "Valencia",
+        "registration_url": "https://registration.10kvalencia.com/inscripcion/10k-valencia-ibercaja-by-kiprun-2027/inscripcion_datos/",
+        "scraped_at": "2026-11-11T20:35:00.486026+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/10k-valencia-ibercaja-by-kiprun/",
+        "sport": "running",
+        "start_date": "2027-01-10"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2027-01-10"
+  },
+  {
+    "city": "Mancor de la Vall",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "12 km",
+      "27 km"
+    ],
+    "entry_price": "19.0–35.0",
+    "event_name": "Mancor Xtreme",
+    "organiser": "club Montaura Trail y el Ajuntament de Mancor de la Vall",
+    "region": "Illes Balears",
+    "registration_url": "https://cxmmancorextreme.com/es/inscripciones/",
+    "scraped_at": "2026-11-11T20:35:14.540814+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/mancor-xtreme/",
+    "sources": [
+      {
+        "city": "Mancor de la Vall",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "12 km",
+          "27 km"
+        ],
+        "entry_price": "19.0–35.0",
+        "event_name": "Mancor Xtreme",
+        "organiser": "club Montaura Trail y el Ajuntament de Mancor de la Vall",
+        "region": "Illes Balears",
+        "registration_url": "https://cxmmancorextreme.com/es/inscripciones/",
+        "scraped_at": "2026-11-11T20:35:14.540814+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/mancor-xtreme/",
+        "sport": "trail",
+        "start_date": "2027-01-10"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2027-01-10"
+  },
+  {
+    "city": null,
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "21.097 km"
+    ],
+    "entry_price": "18.0",
+    "event_name": "Media Maratón de Córdoba",
+    "organiser": "Instituto Municipal de Deportes de Córdoba - IMDECO y el Ayuntamiento de Córdoba",
+    "region": "Córdoba",
+    "registration_url": "https://mmcordoba.cruzandolameta.es/",
+    "scraped_at": "2026-11-11T20:32:13.094978+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/media-maraton-de-cordoba/",
+    "sources": [
+      {
+        "city": null,
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "21.097 km"
+        ],
+        "entry_price": "18.0",
+        "event_name": "Media Maratón de Córdoba",
+        "organiser": "Instituto Municipal de Deportes de Córdoba - IMDECO y el Ayuntamiento de Córdoba",
+        "region": "Córdoba",
+        "registration_url": "https://mmcordoba.cruzandolameta.es/",
+        "scraped_at": "2026-11-11T20:32:13.094978+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/media-maraton-de-cordoba/",
+        "sport": "running",
+        "start_date": "2026-11-29"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-29"
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "7.7 km"
+    ],
+    "entry_price": "15.0",
+    "event_name": "Carrera de la Mujer Central Lechera Asturiana Barcelona",
+    "organiser": null,
+    "region": "Barcelona",
+    "registration_url": "https://www.carreradelamujer.com/muj-eventos-disponibles",
+    "scraped_at": "2026-11-11T20:30:59.089110+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/carrera-de-la-mujer-central-lechera-asturiana-barcelona/",
+    "sources": [
+      {
+        "city": "Barcelona",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "7.7 km"
+        ],
+        "entry_price": "15.0",
+        "event_name": "Carrera de la Mujer Central Lechera Asturiana Barcelona",
+        "organiser": null,
+        "region": "Barcelona",
+        "registration_url": "https://www.carreradelamujer.com/muj-eventos-disponibles",
+        "scraped_at": "2026-11-11T20:30:59.089110+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/carrera-de-la-mujer-central-lechera-asturiana-barcelona/",
+        "sport": "running",
+        "start_date": "2026-11-22"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-22"
+  },
+  {
+    "city": "Burgos",
+    "country": "Spain",
+    "currency": null,
+    "distances": null,
+    "entry_price": null,
+    "event_name": "XXII Cross Internacional de Atapuerca",
+    "organiser": "Diputación Provincial de Burgos (Instituto Provincial para el Deporte y Juventud), Ayuntamiento de Atapuerca, Federación de Atletismo de Castilla y León, and Real Federación Española de Atletismo",
+    "region": null,
+    "registration_url": null,
+    "scraped_at": "2026-11-11T20:27:50.014914+00:00",
+    "source_name": "Real Federación Española de Atletismo",
+    "source_url": "https://atletismorfea.es/calendario/campeonato/xxii-cross-internacional-de-atapuerca",
+    "sources": [
+      {
+        "city": "Burgos",
+        "country": "Spain",
+        "currency": null,
+        "distances": null,
+        "entry_price": null,
+        "event_name": "XXII Cross Internacional de Atapuerca",
+        "organiser": "Diputación Provincial de Burgos (Instituto Provincial para el Deporte y Juventud), Ayuntamiento de Atapuerca, Federación de Atletismo de Castilla y León, and Real Federación Española de Atletismo",
+        "region": null,
+        "registration_url": null,
+        "scraped_at": "2026-11-11T20:27:50.014914+00:00",
+        "source_name": "Real Federación Española de Atletismo",
+        "source_url": "https://atletismorfea.es/calendario/campeonato/xxii-cross-internacional-de-atapuerca",
+        "sport": "running",
+        "start_date": "2026-11-21"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-21"
+  },
+  {
+    "city": "São Pedro do Sul",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "19 km",
+      "10 km"
+    ],
+    "entry_price": "€12–€18",
+    "event_name": "Trail da Cárcoda São Pedro do Sul",
+    "organiser": null,
+    "region": "Viseu",
+    "registration_url": "https://racefinder.pt/en/event/trail-da-carcoda-sao-pedro-do-sul/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:32:13.095004+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/trail-da-carcoda-sao-pedro-do-sul/",
+    "sources": [
+      {
+        "city": "São Pedro do Sul",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "19 km",
+          "10 km"
+        ],
+        "entry_price": "€12–€18",
+        "event_name": "Trail da Cárcoda São Pedro do Sul",
+        "organiser": null,
+        "region": "Viseu",
+        "registration_url": "https://racefinder.pt/en/event/trail-da-carcoda-sao-pedro-do-sul/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:32:13.095004+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/trail-da-carcoda-sao-pedro-do-sul/",
+        "sport": "trail",
+        "start_date": "2026-11-29"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-11-29"
+  },
+  {
+    "city": "Cartagena",
+    "country": "Spain",
+    "currency": "EUR",
+    "distances": [
+      "10 km"
+    ],
+    "entry_price": "14.0",
+    "event_name": "Carrera Solidaria Puerto de Cartagena 10KCPC",
+    "organiser": "Club Runtritón Cartagena",
+    "region": "Murcia",
+    "registration_url": "https://www.alcanzatumeta.es/xi-10kcpc-carrera-solidaria-puerto-de-cartagena-2026",
+    "scraped_at": "2026-11-11T20:28:59.849736+00:00",
+    "source_name": "REKO",
+    "source_url": "https://reko-app.com/carreras/carrera-solidaria-puerto-de-cartagena-10kcpc/",
+    "sources": [
+      {
+        "city": "Cartagena",
+        "country": "Spain",
+        "currency": "EUR",
+        "distances": [
+          "10 km"
+        ],
+        "entry_price": "14.0",
+        "event_name": "Carrera Solidaria Puerto de Cartagena 10KCPC",
+        "organiser": "Club Runtritón Cartagena",
+        "region": "Murcia",
+        "registration_url": "https://www.alcanzatumeta.es/xi-10kcpc-carrera-solidaria-puerto-de-cartagena-2026",
+        "scraped_at": "2026-11-11T20:28:59.849736+00:00",
+        "source_name": "REKO",
+        "source_url": "https://reko-app.com/carreras/carrera-solidaria-puerto-de-cartagena-10kcpc/",
+        "sport": "running",
+        "start_date": "2026-11-21"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-11-21"
+  },
+  {
+    "city": "Seia",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "15 km"
+    ],
+    "entry_price": "15 €",
+    "event_name": "7th Trail Cabeça Aldeia Natal",
+    "organiser": null,
+    "region": "Guarda",
+    "registration_url": "https://racefinder.pt/en/event/7th-trail-cabeca-aldeia-natal/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:37:56.062336+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/7th-trail-cabeca-aldeia-natal/",
+    "sources": [
+      {
+        "city": "Seia",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "15 km"
+        ],
+        "entry_price": "15 €",
+        "event_name": "7th Trail Cabeça Aldeia Natal",
+        "organiser": null,
+        "region": "Guarda",
+        "registration_url": "https://racefinder.pt/en/event/7th-trail-cabeca-aldeia-natal/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:37:56.062336+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/7th-trail-cabeca-aldeia-natal/",
+        "sport": "trail",
+        "start_date": "2026-12-27"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-12-27"
+  },
+  {
+    "city": "Guarda",
+    "country": "Portugal",
+    "currency": null,
+    "distances": [
+      "9 km",
+      "3 km",
+      "2 km",
+      "1.2 km",
+      "0.4 km"
+    ],
+    "entry_price": "Free",
+    "event_name": "3rd São Silvestre da Guarda | 48th Grande Prémio de Atletismo da Guarda",
+    "organiser": null,
+    "region": null,
+    "registration_url": "https://racefinder.pt/en/event/3rd-sao-silvestre-da-guarda-48th-grande-premio-de-atletismo-da-guarda/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:36:24.575192+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/3rd-sao-silvestre-da-guarda-48th-grande-premio-de-atletismo-da-guarda/",
+    "sources": [
+      {
+        "city": "Guarda",
+        "country": "Portugal",
+        "currency": null,
+        "distances": [
+          "9 km",
+          "3 km",
+          "2 km",
+          "1.2 km",
+          "0.4 km"
+        ],
+        "entry_price": "Free",
+        "event_name": "3rd São Silvestre da Guarda | 48th Grande Prémio de Atletismo da Guarda",
+        "organiser": null,
+        "region": null,
+        "registration_url": "https://racefinder.pt/en/event/3rd-sao-silvestre-da-guarda-48th-grande-premio-de-atletismo-da-guarda/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:36:24.575192+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/3rd-sao-silvestre-da-guarda-48th-grande-premio-de-atletismo-da-guarda/",
+        "sport": "running",
+        "start_date": "2026-12-13"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2026-12-13"
+  },
+  {
+    "city": "Santa Maria da Feira",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "21 km",
+      "12 km"
+    ],
+    "entry_price": "7 € — 12 €",
+    "event_name": "Rabanada Trail",
+    "organiser": "Associação Bravos e Bravitas",
+    "region": "Aveiro",
+    "registration_url": "https://racefinder.pt/en/event/rabanada-trail/#race-day-info-list",
+    "scraped_at": "2026-11-11T20:35:56.122645+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/rabanada-trail/",
+    "sources": [
+      {
+        "city": "Santa Maria da Feira",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "21 km",
+          "12 km"
+        ],
+        "entry_price": "7 € — 12 €",
+        "event_name": "Rabanada Trail",
+        "organiser": "Associação Bravos e Bravitas",
+        "region": "Aveiro",
+        "registration_url": "https://racefinder.pt/en/event/rabanada-trail/#race-day-info-list",
+        "scraped_at": "2026-11-11T20:35:56.122645+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/rabanada-trail/",
+        "sport": "trail",
+        "start_date": "2026-12-12"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-12-12"
+  },
+  {
+    "city": "Ferreira do Zêzere",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "48.9 km",
+      "33.6 km",
+      "22.3 km",
+      "12.8 km"
+    ],
+    "entry_price": "from 20 €",
+    "event_name": "Zêzere Trail",
+    "organiser": null,
+    "region": "Santarém",
+    "registration_url": "https://lap2go.com/pt/event/trail-zezere-2026",
+    "scraped_at": "2026-11-11T20:27:25.306724+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/zezere-trail/",
+    "sources": [
+      {
+        "city": "Ferreira do Zêzere",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "48.9 km",
+          "33.6 km",
+          "22.3 km",
+          "12.8 km"
+        ],
+        "entry_price": "from 20 €",
+        "event_name": "Zêzere Trail",
+        "organiser": null,
+        "region": "Santarém",
+        "registration_url": "https://lap2go.com/pt/event/trail-zezere-2026",
+        "scraped_at": "2026-11-11T20:27:25.306724+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/zezere-trail/",
+        "sport": "trail",
+        "start_date": "2026-11-14"
+      }
+    ],
+    "sport": "trail",
+    "start_date": "2026-11-14"
+  },
+  {
+    "city": "Torres Vedras",
+    "country": "Portugal",
+    "currency": "EUR",
+    "distances": [
+      "21 km",
+      "10 km",
+      "5 km",
+      "Kids Race"
+    ],
+    "entry_price": "2 € — 15 €",
+    "event_name": "ARENA SHOPPING HALF MARATHON OF TORRES VEDRAS",
+    "organiser": null,
+    "region": "Lisboa",
+    "registration_url": "https://xistarca.pt/eventos/arena-shopping-meia-maratona-torres-vedras-2027",
+    "scraped_at": "2026-11-11T20:38:46.323934+00:00",
+    "source_name": "RaceFinder",
+    "source_url": "https://racefinder.pt/en/event/arena-shopping-half-marathon-of-torres-vedras/",
+    "sources": [
+      {
+        "city": "Torres Vedras",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "21 km",
+          "10 km",
+          "5 km"
+        ],
+        "entry_price": "2 € — 15 €",
+        "event_name": "ARENA SHOPPING HALF MARATHON OF TORRES VEDRAS",
+        "organiser": null,
+        "region": "Lisboa",
+        "registration_url": "https://xistarca.pt/eventos/arena-shopping-meia-maratona-torres-vedras-2027",
+        "scraped_at": "2026-11-11T20:38:46.323934+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/arena-shopping-half-marathon-of-torres-vedras/",
+        "sport": "running",
+        "start_date": "2027-01-10"
+      },
+      {
+        "city": "Torres Vedras",
+        "country": "Portugal",
+        "currency": "EUR",
+        "distances": [
+          "21 km",
+          "10 km",
+          "5 km",
+          "Kids Race"
+        ],
+        "entry_price": "€5–€18",
+        "event_name": "Arena Shopping Half Marathon Torres Vedras",
+        "organiser": null,
+        "region": "Lisboa",
+        "registration_url": "https://xistarca.pt/eventos/arena-shopping-meia-maratona-torres-vedras-2027",
+        "scraped_at": "2026-11-11T20:38:46.323994+00:00",
+        "source_name": "RaceFinder",
+        "source_url": "https://racefinder.pt/en/event/arena-shopping-half-marathon-torres-vedras/",
+        "sport": "running",
+        "start_date": "2027-01-10"
+      }
+    ],
+    "sport": "running",
+    "start_date": "2027-01-10"
+  }
+]

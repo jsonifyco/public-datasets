@@ -1,0 +1,58 @@
+[
+  {
+    "name": "basic_hourly_rate_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "classification",
+    "type": "text"
+  },
+  {
+    "name": "county_or_area",
+    "type": "text"
+  },
+  {
+    "name": "determination_id",
+    "type": "text"
+  },
+  {
+    "name": "effective_date",
+    "type": "text"
+  },
+  {
+    "name": "expiration_date",
+    "type": "text"
+  },
+  {
+    "name": "first_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "fringe_benefits_hourly_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "overtime_hourly_rate_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "source_name",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  },
+  {
+    "name": "total_hourly_rate_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "trade",
+    "type": "text"
+  }
+]

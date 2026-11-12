@@ -1,0 +1,98 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "coordinate_basis",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "floor_area_basis",
+    "type": "text"
+  },
+  {
+    "name": "floor_area_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "footprint_area_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "last_transaction_date",
+    "type": "text"
+  },
+  {
+    "name": "last_transaction_price_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  },
+  {
+    "name": "parcel_building_id",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "source_use_type",
+    "type": "text"
+  },
+  {
+    "name": "transaction_coverage",
+    "type": "text"
+  },
+  {
+    "name": "transaction_id",
+    "type": "text"
+  },
+  {
+    "name": "transaction_price_scope",
+    "type": "text"
+  },
+  {
+    "name": "units",
+    "type": "integer"
+  },
+  {
+    "name": "units_basis",
+    "type": "text"
+  },
+  {
+    "name": "use_type",
+    "type": "text"
+  },
+  {
+    "name": "year_built",
+    "type": "integer"
+  }
+]

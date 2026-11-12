@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 3,488 rows\.
+Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 3,740 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 7
-- Last published: 2026-11-11T06:02:15.994432Z
+- Last published: 2026-11-12T06:02:26.711715Z
 
 ## The brief
 
-> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 3,488 rows\.
+> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 3,740 rows\.
 
 Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-3,488 total rows · 50 sampled · Output revision 20
-Published: 2026-11-11T06:02:15.994432Z · Producing pipeline version: 7
+3,740 total rows · 50 sampled · Output revision 21
+Published: 2026-11-12T06:02:26.711715Z · Producing pipeline version: 7
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| B200 | NVIDIA HGX B200 | HGX B200 system | Global | Global | on\_demand | No fixed term | 7\.69 |
-| B200 | B200 | Marketplace offer 58096796 | , US | US | on\_demand | No fixed term | 35\.00208333333333 |
-| H100 | Nvidia H100 | a3\-highgpu\-8g | Provider list \(region unspecified\) | Global | commitment | 3 years | 38\.864383195 |
-| A100 | Nvidia A100 | a2\-ultragpu\-1g | Provider list \(region unspecified\) | Global | commitment | 3 years | 3\.499997559 |
-| MI300X | AMD MI300X 192GB | AMD MI300X 192GB | Global | Global | on\_demand | No fixed term | 3\.45 |
+| H100 | Nvidia H100 | a3\-megagpu\-8g | Provider list \(region unspecified\) | Global | calendar\_mode | DWS Calendar Mode reservation | 44 |
+| H200 | H200 NVL | Marketplace offer 48217153 | Japan, JP | JP | on\_demand | No fixed term | 4\.135555555555556 |
+| H100 | Nvidia H100 | a3\-megagpu\-8g | Provider list \(region unspecified\) | Global | spot | Interruptible, no fixed term | 45\.598604712 |
+| A100 | A100 SXM4 | Marketplace offer 49067605 | Texas, US | US | on\_demand | No fixed term | 1\.2044444444444444 |
+| A100 | Nvidia A100 | a2\-highgpu\-1g | Provider list \(region unspecified\) | Global | flex\_start | DWS Flex\-start scheduling | 2 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

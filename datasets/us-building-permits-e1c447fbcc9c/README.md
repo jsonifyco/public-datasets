@@ -1,25 +1,25 @@
-# Building Permit Data: 8 US Cities, Updated Weekly
+# Building Permit Data: Eight US Cities
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Building permit data for Chicago, New York, Los Angeles, San Francisco, Austin, Seattle, Boston and Denver: permit type, work, address, project value\.
+A combined table of building permits from Chicago, New York City, Los Angeles, San Francisco, Austin, Seattle, Boston and Denver\. Includes permit type, work description, address and project value where published\. Current published table: 24,842 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-building-permits-e1c447fbcc9c?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 5
-- Last published: 2026-11-06T08:00:12.203668Z
+- Last published: 2026-11-12T06:11:33.173475Z
 
 ## The brief
 
-> I need this data: Building permit data for Chicago, New York, Los Angeles, San Francisco, Austin, Seattle, Boston and Denver: permit type, work, address, project value\.
+> I need this data: A combined table of building permits from Chicago, New York City, Los Angeles, San Francisco, Austin, Seattle, Boston and Denver\. Includes permit type, work description, address and project value where published\. Current published table: 24,842 rows\.
 
 Summary from the public dataset description.
 
 ## US building permits / permits
 
-19,016 total rows · 50 sampled · Output revision 18
-Published: 2026-11-06T08:00:12.203668Z · Producing pipeline version: Unknown
+24,842 total rows · 50 sampled · Output revision 19
+Published: 2026-11-12T06:11:33.173475Z · Producing pipeline version: 5
 
 [CSV sample](outputs/c9ef3e98e123/permits-f9b6938a67e1/sample.csv) · [JSON sample](outputs/c9ef3e98e123/permits-f9b6938a67e1/sample.json) · [Schema](outputs/c9ef3e98e123/permits-f9b6938a67e1/schema.json)
 
@@ -50,7 +50,7 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | contractor\_business\_name | text |
 | permit\_status | text |
 | new\_construction | boolean |
-| housing\_units | bigint |
+| housing\_units | integer |
 | latitude | double precision |
 | longitude | double precision |
 | source\_name | text |

@@ -53,7 +53,7 @@
   },
   {
     "name": "housing_units",
-    "type": "bigint"
+    "type": "integer"
   },
   {
     "name": "latitude",

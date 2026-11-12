@@ -1,0 +1,54 @@
+[
+  {
+    "name": "condition",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "listed_total_with_delivery_pln",
+    "type": "double precision"
+  },
+  {
+    "name": "observed_at_utc",
+    "type": "text"
+  },
+  {
+    "name": "offer_id",
+    "type": "text"
+  },
+  {
+    "name": "offer_title",
+    "type": "text"
+  },
+  {
+    "name": "offer_url",
+    "type": "text"
+  },
+  {
+    "name": "price_pln",
+    "type": "double precision"
+  },
+  {
+    "name": "seller",
+    "type": "text"
+  },
+  {
+    "name": "set_name",
+    "type": "text"
+  },
+  {
+    "name": "set_number",
+    "type": "text"
+  },
+  {
+    "name": "source_page",
+    "type": "text"
+  },
+  {
+    "name": "third_party_seller",
+    "type": "boolean"
+  }
+]

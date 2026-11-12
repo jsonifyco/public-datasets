@@ -1,0 +1,78 @@
+[
+  {
+    "name": "allergens",
+    "type": "text"
+  },
+  {
+    "name": "allergens_basis",
+    "type": "text"
+  },
+  {
+    "name": "barcode",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "captured_date",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "crosscheck_ingredient_comparison",
+    "type": "text"
+  },
+  {
+    "name": "crosscheck_ingredients",
+    "type": "text"
+  },
+  {
+    "name": "crosscheck_product_name",
+    "type": "text"
+  },
+  {
+    "name": "crosscheck_source",
+    "type": "text"
+  },
+  {
+    "name": "crosscheck_status",
+    "type": "text"
+  },
+  {
+    "name": "crosscheck_url",
+    "type": "text"
+  },
+  {
+    "name": "ingredients",
+    "type": "text"
+  },
+  {
+    "name": "ingredients_parsed",
+    "type": "jsonb"
+  },
+  {
+    "name": "ingredients_status",
+    "type": "text"
+  },
+  {
+    "name": "product_name",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "retailer",
+    "type": "text"
+  }
+]

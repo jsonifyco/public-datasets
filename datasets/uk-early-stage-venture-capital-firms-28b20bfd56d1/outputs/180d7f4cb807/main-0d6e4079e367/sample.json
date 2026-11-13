@@ -1,0 +1,102 @@
+[
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://dawncapital.com",
+    "focus": "B2B technology",
+    "name": "Dawn Capital",
+    "notes": "Website describes investing in early founders and states a London address; precise initial rounds not stated.",
+    "stages": "Early stage (precise rounds not stated)",
+    "uk_location": "London",
+    "website": "https://dawncapital.com"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://localglobe.vc; https://ukiz.co.uk/investors",
+    "focus": "UK and European technology",
+    "name": "LocalGlobe",
+    "notes": "Official website plus UKIZ directory corroboration for location and/or stages.",
+    "stages": "Pre-seed; seed",
+    "uk_location": "London",
+    "website": "https://localglobe.vc"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://firstminute.capital",
+    "focus": "European technology founders, particularly AI and deep tech",
+    "name": "firstminute capital",
+    "notes": "London address and investment stage stated on official website.",
+    "stages": "Inception; seed",
+    "uk_location": "London",
+    "website": "https://firstminute.capital"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://northstarventures.co.uk; https://ukiz.co.uk/investors; https://seedtable.com/investors/northstar-ventures?sector=health",
+    "focus": "Early-stage technology, life sciences and climate businesses in the North East",
+    "name": "Northstar Ventures",
+    "notes": "Official site and linked public directory/news evidence. Broader-stage mandate where indicated.",
+    "stages": "Pre-seed; seed",
+    "uk_location": "Newcastle upon Tyne",
+    "website": "https://northstarventures.co.uk"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://oxfordscienceenterprises.com",
+    "focus": "Deep tech, life sciences, and healthtech",
+    "name": "Oxford Science Enterprises",
+    "notes": "Official website states Oxford base and investment range.",
+    "stages": "Pre-seed to growth",
+    "uk_location": "Oxford",
+    "website": "https://oxfordscienceenterprises.com"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://haatch.com; https://parsers.vc/fund/haatch.com/#1; https://seedtable.com/investors/haatch; https://www.cbinsights.com/investor/haatch#1",
+    "focus": "B2B software, fintech and vertical SaaS",
+    "name": "Haatch",
+    "notes": "Official mandate; UK location corroborated by the linked public sources.",
+    "stages": "Pre-seed; seed",
+    "uk_location": "Stamford, Lincolnshire",
+    "website": "https://haatch.com"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://ekavc.com; https://www.gp-intel.com/gp/eka-ventures; https://altss.com/profile/eka-ventures; https://itbrief.co.uk/story/eka-ventures-raises-usd-107-million-for-second-fund#1",
+    "focus": "Consumer health, wellbeing and sustainability",
+    "name": "Eka Ventures",
+    "notes": "Official mandate; UK location corroborated by the linked public sources.",
+    "stages": "Pre-seed; seed",
+    "uk_location": "London",
+    "website": "https://ekavc.com"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://bethnalgreenventures.com; https://www.bethnalgreenventures.com/blog/apply-for-the-bgv-autumn-2025-tech-for-good-programme",
+    "focus": "Technology addressing social and environmental problems",
+    "name": "Bethnal Green Ventures",
+    "notes": "Official site and linked public directory/news evidence. Broader-stage mandate where indicated.",
+    "stages": "Pre-seed; early stage",
+    "uk_location": "London",
+    "website": "https://bethnalgreenventures.com"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://episode1.com",
+    "focus": "B2B software, with emphasis on AI and infrastructure",
+    "name": "Episode 1",
+    "notes": "Website states pre-seed/seed criteria and London registered address.",
+    "stages": "Pre-seed and seed",
+    "uk_location": "London",
+    "website": "https://episode1.com"
+  },
+  {
+    "checked_date": "2026-11-12",
+    "evidence_urls": "https://conceptventures.vc; https://seedtable.com/investors/concept-ventures; https://profiles.crustdata.com/company/concept-ventures; https://uktech.news/funding/concept-ventures-closes-new-fund-20250930",
+    "focus": "Generalist technology",
+    "name": "Concept Ventures",
+    "notes": "Official mandate; UK location corroborated by the linked public sources.",
+    "stages": "Pre-seed",
+    "uk_location": "London",
+    "website": "https://conceptventures.vc"
+  }
+]

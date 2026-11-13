@@ -1,0 +1,34 @@
+[
+  {
+    "name": "checked_date",
+    "type": "text"
+  },
+  {
+    "name": "evidence_urls",
+    "type": "text"
+  },
+  {
+    "name": "focus",
+    "type": "text"
+  },
+  {
+    "name": "name",
+    "type": "text"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  },
+  {
+    "name": "stages",
+    "type": "text"
+  },
+  {
+    "name": "uk_location",
+    "type": "text"
+  },
+  {
+    "name": "website",
+    "type": "text"
+  }
+]

@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published table contains 7,036 rows\.
+Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country from official pricing pages, with ad tier, features and source links\. Updated weekly\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Streaming subscription plans and prices by country, sourced from official servic
 
 ## The brief
 
-> I need this data: Streaming subscription plans and prices by country, sourced from official service pages and other cited sources\. The published table contains 7,036 rows\.
+> I need this data: Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country from official pricing pages, with ad tier, features and source links\. Updated weekly\.
 
 Summary from the public dataset description.
 

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "applicant",
+    "type": "text"
+  },
+  {
+    "name": "application_reference",
+    "type": "text"
+  },
+  {
+    "name": "authority",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "decision_date",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "floor_area",
+    "type": "text"
+  },
+  {
+    "name": "key_dates",
+    "type": "text"
+  },
+  {
+    "name": "mw_it_load",
+    "type": "text"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  },
+  {
+    "name": "qualifying_date",
+    "type": "text"
+  },
+  {
+    "name": "recency_basis",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "site_address",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "status_detail",
+    "type": "text"
+  },
+  {
+    "name": "submitted_date",
+    "type": "text"
+  },
+  {
+    "name": "supporting_url",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

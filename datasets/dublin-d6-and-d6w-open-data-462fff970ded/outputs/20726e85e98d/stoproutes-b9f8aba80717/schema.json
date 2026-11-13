@@ -1,0 +1,38 @@
+[
+  {
+    "name": "agency_id",
+    "type": "text"
+  },
+  {
+    "name": "licence",
+    "type": "text"
+  },
+  {
+    "name": "licence_url",
+    "type": "text"
+  },
+  {
+    "name": "route_id",
+    "type": "text"
+  },
+  {
+    "name": "route_long_name",
+    "type": "text"
+  },
+  {
+    "name": "route_short_name",
+    "type": "text"
+  },
+  {
+    "name": "service_date",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "stop_id",
+    "type": "text"
+  }
+]

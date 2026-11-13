@@ -1,0 +1,70 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "attribution",
+    "type": "text"
+  },
+  {
+    "name": "county",
+    "type": "text"
+  },
+  {
+    "name": "eircode",
+    "type": "text"
+  },
+  {
+    "name": "enrolment",
+    "type": "integer"
+  },
+  {
+    "name": "enrolment_census_date",
+    "type": "text"
+  },
+  {
+    "name": "enrolment_year",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "level",
+    "type": "text"
+  },
+  {
+    "name": "licence",
+    "type": "text"
+  },
+  {
+    "name": "licence_evidence_url",
+    "type": "text"
+  },
+  {
+    "name": "licence_url",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "name",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "school_id",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

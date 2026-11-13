@@ -1,0 +1,92 @@
+[
+  {
+    "address": "1 COWPER RD, RATHMINES, DUBLIN 6",
+    "latitude": 53.31540161033141,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.264635765538276,
+    "sale_id": "sale:2de7223b71900c18",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "109 HAROLDS CROSS COTTAGES, HAROLDS CROSS, DUBLIN 6",
+    "latitude": 53.32808243781118,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.274927688333931,
+    "sale_id": "sale:cbf4ba6105e7235f",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "30 ANNESLEY PARK, RANELAGH, DUBLIN 6",
+    "latitude": 53.31959704392352,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.256261780535251,
+    "sale_id": "sale:ac936feccb155de7",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "12 TUDOR RD, RATHMINES, DUBLIN 6",
+    "latitude": 53.31704342236232,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.253159369613501,
+    "sale_id": "sale:e757ff9fd20eaad1",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "29 TERENURE ROAD EAST, RATHGAR, DUBLIN 6",
+    "latitude": 53.31119533020577,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.276112725494448,
+    "sale_id": "sale:bb7fdd84779d14c3",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "30 CHARLESTON AVE, RANELAGH, DUBLIN 6",
+    "latitude": 53.32309726745611,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.258177483522646,
+    "sale_id": "sale:5cfaf92cbdcce938",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "71 BRIGHTON SQ, RATHGAR, DUBLIN 6",
+    "latitude": 53.31434077046693,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.280249113770252,
+    "sale_id": "sale:e946ea8692ae039a",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "8 BESSBOROUGH PARADE, DUBLIN 6, DUBLIN",
+    "latitude": 53.32786849005372,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.262633497361564,
+    "sale_id": "sale:b203572f4994e517",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "23 GROSVENOR PLACE, RATHMINES, DUBLIN 6",
+    "latitude": 53.32125814891856,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.271816341004625,
+    "sale_id": "sale:0c4c65ebc56768b8",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  },
+  {
+    "address": "11 CHARLEVILLE RD, RATHMINES, DUBLIN 6",
+    "latitude": 53.32254390136822,
+    "licence": "PSRA reuse conditions (free reuse with attribution and restrictions; not CC BY)",
+    "licence_url": "https://www.psr.ie/re-use-of-public-sector-information/",
+    "longitude": -6.268263266429948,
+    "sale_id": "sale:c3af0a6b3233c901",
+    "source_url": "https://www.propertypriceregister.ie/website/npsra/ppr/npsra-ppr.nsf/Downloads/PPR-ALL.zip/$FILE/PPR-ALL.zip"
+  }
+]

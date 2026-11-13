@@ -1,0 +1,42 @@
+[
+  {
+    "name": "distance_m",
+    "type": "double precision"
+  },
+  {
+    "name": "licence",
+    "type": "text"
+  },
+  {
+    "name": "licence_url",
+    "type": "text"
+  },
+  {
+    "name": "method",
+    "type": "text"
+  },
+  {
+    "name": "planning_id",
+    "type": "text"
+  },
+  {
+    "name": "planning_licence_url",
+    "type": "text"
+  },
+  {
+    "name": "planning_source_url",
+    "type": "text"
+  },
+  {
+    "name": "radius_m",
+    "type": "integer"
+  },
+  {
+    "name": "sale_id",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

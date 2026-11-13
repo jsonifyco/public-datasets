@@ -1,0 +1,90 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "application_type",
+    "type": "text"
+  },
+  {
+    "name": "attribution",
+    "type": "text"
+  },
+  {
+    "name": "council",
+    "type": "text"
+  },
+  {
+    "name": "decision",
+    "type": "text"
+  },
+  {
+    "name": "decision_date",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "grant_date",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "licence",
+    "type": "text"
+  },
+  {
+    "name": "licence_url",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "planning_id",
+    "type": "text"
+  },
+  {
+    "name": "received_date",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "reference",
+    "type": "text"
+  },
+  {
+    "name": "source_dataset_url",
+    "type": "text"
+  },
+  {
+    "name": "source_extract_date",
+    "type": "text"
+  },
+  {
+    "name": "source_locations",
+    "type": "text"
+  },
+  {
+    "name": "source_point_count",
+    "type": "integer"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "address_original",
+    "type": "text"
+  },
+  {
+    "name": "attribution",
+    "type": "text"
+  },
+  {
+    "name": "county",
+    "type": "text"
+  },
+  {
+    "name": "eircode",
+    "type": "text"
+  },
+  {
+    "name": "geocode_licence",
+    "type": "text"
+  },
+  {
+    "name": "geocode_licence_url",
+    "type": "text"
+  },
+  {
+    "name": "geocode_match_address",
+    "type": "text"
+  },
+  {
+    "name": "geocode_method",
+    "type": "text"
+  },
+  {
+    "name": "geocode_planning_ids",
+    "type": "text"
+  },
+  {
+    "name": "geocode_source_url",
+    "type": "text"
+  },
+  {
+    "name": "geocode_status",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "licence",
+    "type": "text"
+  },
+  {
+    "name": "licence_url",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "nearest_bus_stop_distance_m",
+    "type": "double precision"
+  },
+  {
+    "name": "nearest_bus_stop_id",
+    "type": "text"
+  },
+  {
+    "name": "nearest_bus_stop_name",
+    "type": "text"
+  },
+  {
+    "name": "nearest_school_distance_m",
+    "type": "double precision"
+  },
+  {
+    "name": "nearest_school_id",
+    "type": "text"
+  },
+  {
+    "name": "nearest_school_level",
+    "type": "text"
+  },
+  {
+    "name": "nearest_school_name",
+    "type": "text"
+  },
+  {
+    "name": "not_full_market_price",
+    "type": "boolean"
+  },
+  {
+    "name": "planning_count_500m",
+    "type": "integer"
+  },
+  {
+    "name": "planning_scope",
+    "type": "text"
+  },
+  {
+    "name": "price_eur",
+    "type": "integer"
+  },
+  {
+    "name": "property_condition",
+    "type": "text"
+  },
+  {
+    "name": "property_description",
+    "type": "text"
+  },
+  {
+    "name": "property_size_description",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "retrieved_date",
+    "type": "text"
+  },
+  {
+    "name": "sale_date",
+    "type": "text"
+  },
+  {
+    "name": "sale_id",
+    "type": "text"
+  },
+  {
+    "name": "sample_selection",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "vat_exclusive",
+    "type": "boolean"
+  }
+]

@@ -20,6 +20,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Lisbon Venue Accessibility](datasets/lisbon-venue-accessibility-14d9f76469c1/) | 298 | On demand | 2026-11-11T12:59:22.049505Z |
 | [Coffee Capsule Prices in Portugal](datasets/coffee-capsule-shelf-pt-15625f7dd7ac/) | 1,178 | On demand | 2026-11-09T06:33:55.941367Z |
 | [Iberian Endurance Events](datasets/aurea77-iberian-endurance-events-15c76f799e90/) | 394 | On demand | 2026-11-11T20:40:20.829684Z |
+| [Companies Hiring at Scale in Poland](datasets/companies-hiring-at-scale-in-poland-50-open-roles-1be11bee1c95/) | 96 | On demand | 2026-11-13T18:22:40.358613Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [Brazilian Apartment Prices per m²](datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4/) | 540 | On demand | 2026-11-09T12:51:52.148844Z |
 | [Food and Cosmetics Ingredient Sample](datasets/mira-food-and-cosmetics-ingredients-1ee6c67a58e6/) | 400 | On demand | 2026-11-10T22:45:51.688202Z |

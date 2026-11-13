@@ -1,0 +1,82 @@
+[
+  {
+    "name": "availability",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "colour",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "current_price",
+    "type": "double precision"
+  },
+  {
+    "name": "discount_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "gender",
+    "type": "text"
+  },
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "is_new_arrival",
+    "type": "boolean"
+  },
+  {
+    "name": "is_on_sale",
+    "type": "boolean"
+  },
+  {
+    "name": "original_price",
+    "type": "double precision"
+  },
+  {
+    "name": "product_name",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "size_availability",
+    "type": "jsonb"
+  },
+  {
+    "name": "sizes",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_category",
+    "type": "text"
+  },
+  {
+    "name": "source_page",
+    "type": "text"
+  },
+  {
+    "name": "storefront",
+    "type": "text"
+  }
+]

@@ -1,0 +1,2437 @@
+[
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:08:01.372691+00:00",
+    "category": "Dresses & jumpsuits",
+    "colour": "Off White",
+    "currency": "EUR",
+    "current_price": 39.99,
+    "discount_pct": 33.34,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37053278-02-001",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 59.99,
+    "product_name": "Baggy jumpsuit with belt",
+    "product_url": "https://shop.mango.com/nl/en/p/women/dresses-and-jumpsuits/jumpsuits/baggy-jumpsuit-with-belt/37053278/02/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "Dresses and jumpsuits",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Our Legacy",
+    "captured_at": "2026-11-10T12:17:24.537382+00:00",
+    "category": "Outerwear & tailoring",
+    "colour": "Deep Pangoa Issue Wool",
+    "currency": "EUR",
+    "current_price": 1100,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://ourlegacy.centracdn.net/client/dynamic/images/15356_54374d273a-m4261eds_1-rtail-big.jpg",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "EXTENDED WHALE COAT",
+    "product_url": "https://www.ourlegacy.com/extended-whale-coat-deep-pangoa-issue-wool",
+    "size_availability": [
+      {
+        "availability": "low_stock",
+        "size": "44"
+      },
+      {
+        "availability": "low_stock",
+        "size": "46"
+      },
+      {
+        "availability": "low_stock",
+        "size": "48"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "50"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "52"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "54"
+      }
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "source_category": "MENS / OUTERWEAR / Coats",
+    "source_page": "https://www.ourlegacy.com/mens/new-arrivals",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:21:55.969862+00:00",
+    "category": "Footwear",
+    "colour": "Silver",
+    "currency": "EUR",
+    "current_price": 39.99,
+    "discount_pct": 28.58,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37061373-PL-052",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 55.99,
+    "product_name": "Crochet ankle strap ballerinas",
+    "product_url": "https://shop.mango.com/nl/en/p/women/shoes/ballet-flats/crochet-ankle-strap-ballerinas/37061373/PL/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "35"
+      },
+      {
+        "availability": "low_stock",
+        "size": "36"
+      },
+      {
+        "availability": "low_stock",
+        "size": "37"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "38"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "39"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "40"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "41"
+      },
+      {
+        "availability": "in_stock",
+        "size": "42"
+      }
+    ],
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "source_category": "Shoes",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T13:42:18.151836+00:00",
+    "category": "Outerwear & tailoring",
+    "colour": "Black / White",
+    "currency": "EUR",
+    "current_price": 25.99,
+    "discount_pct": 43.44,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/58db/1b5c/05fc4b28b389/3b2e6e346eeb/02753622064-f1/02753622064-f1.jpg?ts=1786974375497",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 45.95,
+    "product_name": "OVERSIZE HOUNDSTOOTH DOUBLE-BREASTED BLAZER",
+    "product_url": "https://www.zara.com/nl/en/oversized-double-breasted-blazer-p02753522.html?v1=587000326",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "S"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "M"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "L"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "BLAZER",
+    "source_page": "https://www.zara.com/nl/en/woman-special-prices-l1314.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T12:46:53.417499+00:00",
+    "category": "Knitwear",
+    "colour": "Dark plum",
+    "currency": "EUR",
+    "current_price": 99.95,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://static.zara.net/assets/public/8e81/8b6c/7d9c42a1b4cb/e605aa56328a/02893300672-f1/02893300672-f1.jpg?ts=1793810750988",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "100% CASHMERE REGULAR FIT JUMPER",
+    "product_url": "https://www.zara.com/nl/en/100-cashmere-regular-fit-jumper-p02893300.html?v1=560830070",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "SWEATER",
+    "source_page": "https://www.zara.com/nl/en/man-new-in-l711.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T19:56:34.994682+00:00",
+    "category": "Shorts",
+    "colour": "Light Blue",
+    "currency": "EUR",
+    "current_price": 35.99,
+    "discount_pct": 21.74,
+    "gender": "men",
+    "image_url": "https://media.mango.com/is/image/punto/37071411-TC-001",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 45.99,
+    "product_name": "Slim-fit denim bermuda shorts",
+    "product_url": "https://shop.mango.com/nl/en/p/men/shorts/denim-bermuda-shorts/slim-fit-denim-bermuda-shorts/37071411/TC/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "38"
+      },
+      {
+        "availability": "in_stock",
+        "size": "40"
+      },
+      {
+        "availability": "in_stock",
+        "size": "42"
+      },
+      {
+        "availability": "in_stock",
+        "size": "44"
+      },
+      {
+        "availability": "in_stock",
+        "size": "46"
+      },
+      {
+        "availability": "in_stock",
+        "size": "48"
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
+    "source_category": "Shorts",
+    "source_page": "https://shop.mango.com/nl/en/c/men/promotion/106c5d6d",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:21:21.655620+00:00",
+    "category": "Jeans",
+    "colour": "Dark Blue",
+    "currency": "EUR",
+    "current_price": 29.99,
+    "discount_pct": 40.01,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37091347-TO-001",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 49.99,
+    "product_name": "Denim pants with bow belt",
+    "product_url": "https://shop.mango.com/nl/en/p/women/trousers/casual/denim-pants-with-bow-belt/37091347/TO/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "32"
+      },
+      {
+        "availability": "in_stock",
+        "size": "34"
+      },
+      {
+        "availability": "in_stock",
+        "size": "36"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "38"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "40"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "42"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "44"
+      },
+      {
+        "availability": "in_stock",
+        "size": "46"
+      }
+    ],
+    "sizes": [
+      "32",
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "source_category": "Trousers",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T18:06:59.676410+00:00",
+    "category": "Outerwear & tailoring",
+    "colour": "Night Blue",
+    "currency": "EUR",
+    "current_price": 129.99,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://media.mango.com/is/image/punto/37037885-57-010",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Handmade jacket in a wool blend with pockets",
+    "product_url": "https://shop.mango.com/nl/en/p/men/jackets/jackets/handmade-jacket-in-a-wool-blend-with-pockets/37037885/57/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XXL"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source_category": "Jackets",
+    "source_page": "https://shop.mango.com/nl/en/c/men/new-now/a4e1e34a",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T13:02:49.274152+00:00",
+    "category": "Trousers & leggings",
+    "colour": "Multicoloured",
+    "currency": "EUR",
+    "current_price": 19.99,
+    "discount_pct": 44.39,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/8b29/8152/f9d2434fb5b4/9550556c849e/02770151330-f1/02770151330-f1.jpg?ts=1785244003172",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 35.95,
+    "product_name": "STRIPED CULOTTES",
+    "product_url": "https://www.zara.com/nl/en/striped-culottes-p02770151.html?v1=557419608",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "TROUSERS",
+    "source_page": "https://www.zara.com/nl/en/woman-special-prices-l1314.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Our Legacy",
+    "captured_at": "2026-11-10T18:43:18.489622+00:00",
+    "category": "Shirts & blouses",
+    "colour": "Quiet Greige Stripe Mist Weave",
+    "currency": "EUR",
+    "current_price": 460,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://ourlegacy.centracdn.net/client/dynamic/images/15460_d8387bae3e-m4262pqg_2-rtail-big.jpg",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "PRIVATE SHIRT",
+    "product_url": "https://www.ourlegacy.com/private-shirt-quiet-greige-stripe-mist-weave",
+    "size_availability": [
+      {
+        "availability": "low_stock",
+        "size": "44"
+      },
+      {
+        "availability": "low_stock",
+        "size": "46"
+      },
+      {
+        "availability": "low_stock",
+        "size": "48"
+      },
+      {
+        "availability": "low_stock",
+        "size": "50"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "52"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "54"
+      }
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "source_category": "MENS / SHIRTING",
+    "source_page": "https://www.ourlegacy.com/mens/new-arrivals",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T20:24:12.638155+00:00",
+    "category": "Trousers & leggings",
+    "colour": "Black",
+    "currency": "EUR",
+    "current_price": 25.95,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/dbd1/f7e6/64fb43918a46/c3384bfc63ef/03641859800-f1/03641859800-f1.jpg?ts=1793890178313",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "STRAIGHT-LEG TROUSERS WITH BELT LOOPS",
+    "product_url": "https://www.zara.com/nl/en/straight-leg-trousers-with-tab-detail-p03641859.html?v1=578532072",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "TROUSERS",
+    "source_page": "https://www.zara.com/nl/en/woman-creativity-newin-l18378.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T23:18:48.007947+00:00",
+    "category": "Outerwear & tailoring",
+    "colour": "Open Blue",
+    "currency": "EUR",
+    "current_price": 89.99,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://media.mango.com/is/image/punto/37025840-TS-500",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Padded gilet, 100% cotton",
+    "product_url": "https://shop.mango.com/nl/en/p/men/jackets/denim/padded-gilet--100-cotton/37025840/TS/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "Jackets",
+    "source_page": "https://shop.mango.com/nl/en/c/men/new-now/a4e1e34a",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:21:31.046975+00:00",
+    "category": "Skirts",
+    "colour": "White",
+    "currency": "EUR",
+    "current_price": 25.99,
+    "discount_pct": 35.01,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37042529-01-001",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 39.99,
+    "product_name": "Semi-transparent floral crochet skirt",
+    "product_url": "https://shop.mango.com/nl/en/p/women/skirts/knitwear/semi-transparent-floral-crochet-skirt/37042529/01/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XXS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XXL"
+      }
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source_category": "Skirts",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T20:19:31.332056+00:00",
+    "category": "Knitwear",
+    "colour": "Medium Brown",
+    "currency": "EUR",
+    "current_price": 35.99,
+    "discount_pct": 21.74,
+    "gender": "men",
+    "image_url": "https://media.mango.com/is/image/punto/37031369-35-002",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 45.99,
+    "product_name": "Slim fit polo with neck detail",
+    "product_url": "https://shop.mango.com/nl/en/p/men/polos/short-sleeve/slim-fit-polo-with-neck-detail/37031369/35/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XXL"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source_category": "Polos",
+    "source_page": "https://shop.mango.com/nl/en/c/men/promotion/106c5d6d",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:20:46.877930+00:00",
+    "category": "Knitwear",
+    "colour": "Navy",
+    "currency": "EUR",
+    "current_price": 35.99,
+    "discount_pct": 21.74,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37024116-56-001",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 45.99,
+    "product_name": "Striped mixed-material jumper",
+    "product_url": "https://shop.mango.com/nl/en/p/women/sweaters-and-cardigans/striped/striped-mixed-material-jumper/37024116/56/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XXS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XXL"
+      }
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source_category": "Sweaters and cardigans",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:21:44.651469+00:00",
+    "category": "Tops & T-shirts",
+    "colour": "Chocolate",
+    "currency": "EUR",
+    "current_price": 12.99,
+    "discount_pct": 56.69,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37091370-32-003",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 29.99,
+    "product_name": "Textured top with bead detail on the back",
+    "product_url": "https://shop.mango.com/nl/en/p/women/tops/textured-top-with-bead-detail-on-the-back/37091370/32/00",
+    "size_availability": [
+      {
+        "availability": "out_of_stock",
+        "size": "XXS"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "low_stock",
+        "size": "S"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "low_stock",
+        "size": "XL"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XXL"
+      }
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source_category": "Tops",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T12:58:41.358788+00:00",
+    "category": "Jeans",
+    "colour": "Indigo",
+    "currency": "EUR",
+    "current_price": 55.95,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://static.zara.net/assets/public/abfa/178d/8b3c4c59bc75/86f2de06f7d5/03991345405-f1/03991345405-f1.jpg?ts=1793810746466",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "STRAIGHT-LEG JEANS",
+    "product_url": "https://www.zara.com/nl/en/straight-leg-jeans-p03991345.html?v1=596601627",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "38"
+      },
+      {
+        "availability": "in_stock",
+        "size": "40"
+      },
+      {
+        "availability": "in_stock",
+        "size": "42"
+      },
+      {
+        "availability": "in_stock",
+        "size": "44"
+      },
+      {
+        "availability": "in_stock",
+        "size": "46"
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "source_category": "TROUSERS",
+    "source_page": "https://www.zara.com/nl/en/man-new-in-l711.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T18:16:05.161923+00:00",
+    "category": "Dresses & jumpsuits",
+    "colour": "Black",
+    "currency": "EUR",
+    "current_price": 35.99,
+    "discount_pct": 21.74,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37065861-99-101",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 45.99,
+    "product_name": "Wrap knitted dress",
+    "product_url": "https://shop.mango.com/nl/en/p/women/dresses-and-jumpsuits/black/wrap-knitted-dress/37065861/99/01",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "Dresses and jumpsuits",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:22:04.269341+00:00",
+    "category": "Shorts",
+    "colour": "Blue",
+    "currency": "EUR",
+    "current_price": 25.99,
+    "discount_pct": 35.01,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37031494-52-002",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 39.99,
+    "product_name": "Striped straight-fit shorts",
+    "product_url": "https://shop.mango.com/nl/en/p/women/shorts-and-bermuda-shorts/casual/striped-straight-fit-shorts/37031494/52/00",
+    "size_availability": [
+      {
+        "availability": "low_stock",
+        "size": "32"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "34"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "36"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "38"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "40"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "42"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "44"
+      },
+      {
+        "availability": "in_stock",
+        "size": "46"
+      }
+    ],
+    "sizes": [
+      "32",
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "source_category": "Shorts and Bermuda Shorts",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T13:11:00.075151+00:00",
+    "category": "Knitwear",
+    "colour": "Grey marl",
+    "currency": "EUR",
+    "current_price": 129,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://static.zara.net/assets/public/9681/7841/aa144038ba4b/4ecc8f05f95b/02893350803-f1/02893350803-f1.jpg?ts=1793013253455",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "100% CASHMERE V-NECK JUMPER",
+    "product_url": "https://www.zara.com/nl/en/100-cashmere-v-neck-jumper-p02893350.html?v1=550771801",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "coming_soon",
+        "size": "L"
+      },
+      {
+        "availability": "coming_soon",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "SWEATER",
+    "source_page": "https://www.zara.com/nl/en/man-new-in-l711.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "out_of_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T23:46:07.492404+00:00",
+    "category": "Knitwear",
+    "colour": "Black",
+    "currency": "EUR",
+    "current_price": 39.95,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/72ab/9fe1/1e6e47d1a33c/6db65f80f94a/04331110800-f1/04331110800-f1.jpg?ts=1793096107556",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "METALLIC THREAD KNIT JUMPER WITH SHOULDER PADS",
+    "product_url": "https://www.zara.com/nl/en/metallic-thread-knit-jumper-with-shoulder-pads-p04331110.html?v1=610115662",
+    "size_availability": [
+      {
+        "availability": "out_of_stock",
+        "size": "S"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "M"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "SWEATER",
+    "source_page": "https://www.zara.com/nl/en/woman-creativity-newin-l18378.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T22:57:57.834536+00:00",
+    "category": "Underwear & lingerie",
+    "colour": "Black",
+    "currency": "EUR",
+    "current_price": 59.95,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/a830/4394/079d490bb6d7/efdff713bf01/01758800800-f1/01758800800-f1.jpg?ts=1793888999592",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "COMBINED LACE CORSET BRA",
+    "product_url": "https://www.zara.com/nl/en/combined-lace-corset-bra-p01758800.html?v1=580450467",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "70B"
+      },
+      {
+        "availability": "in_stock",
+        "size": "75B"
+      },
+      {
+        "availability": "in_stock",
+        "size": "80B"
+      },
+      {
+        "availability": "in_stock",
+        "size": "85B"
+      },
+      {
+        "availability": "in_stock",
+        "size": "70C"
+      },
+      {
+        "availability": "in_stock",
+        "size": "75C"
+      },
+      {
+        "availability": "in_stock",
+        "size": "75D"
+      },
+      {
+        "availability": "in_stock",
+        "size": "70D"
+      }
+    ],
+    "sizes": [
+      "70B",
+      "75B",
+      "80B",
+      "85B",
+      "70C",
+      "75C",
+      "75D",
+      "70D"
+    ],
+    "source_category": "BRA",
+    "source_page": "https://www.zara.com/nl/en/woman-creativity-newin-l18378.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T13:15:57.809971+00:00",
+    "category": "Outerwear & tailoring",
+    "colour": "Dark Heather Grey",
+    "currency": "EUR",
+    "current_price": 159.99,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37098639-96-102",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Manteco checked wool coat",
+    "product_url": "https://shop.mango.com/nl/en/p/women/coats/coats/manteco-checked-wool-coat/37098639/96/01",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "Coats",
+    "source_page": "https://shop.mango.com/nl/en/c/women/new-now/56b5c5ed",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T23:27:12.046795+00:00",
+    "category": "Trousers & leggings",
+    "colour": "Black",
+    "currency": "EUR",
+    "current_price": 69.95,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://static.zara.net/assets/public/11c2/04e1/33604d69aa3c/ca239d01b991/00706323800-f1/00706323800-f1.jpg?ts=1793033245614",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "STRAIGHT-LEG WOOL BLEND SUIT TROUSERS",
+    "product_url": "https://www.zara.com/nl/en/straight-leg-wool-blend-suit-trousers-p00706323.html?v1=596916998",
+    "size_availability": [
+      {
+        "availability": "coming_soon",
+        "size": "38"
+      },
+      {
+        "availability": "in_stock",
+        "size": "40"
+      },
+      {
+        "availability": "in_stock",
+        "size": "42"
+      },
+      {
+        "availability": "in_stock",
+        "size": "44"
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "source_category": "TROUSERS",
+    "source_page": "https://www.zara.com/nl/en/man-new-in-l711.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T12:35:01.495095+00:00",
+    "category": "Trousers & leggings",
+    "colour": "Dark navy",
+    "currency": "EUR",
+    "current_price": 22.99,
+    "discount_pct": 53.97,
+    "gender": "men",
+    "image_url": "https://static.zara.net/assets/public/9d21/1627/25ee4f028d50/1a33e83a3f33/00706409422-f1/00706409422-f1.jpg?ts=1783497067006",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 49.95,
+    "product_name": "REGULAR FIT CHECK SUIT TROUSERS",
+    "product_url": "https://www.zara.com/nl/en/check-suit-regular-fit-trousers-p00706409.html?v1=545475114",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "38"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "40"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "42"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "44"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "46"
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "source_category": "TROUSERS",
+    "source_page": "https://www.zara.com/nl/en/man-special-prices-l806.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T12:32:55.215774+00:00",
+    "category": "Tops & T-shirts",
+    "colour": "Brown",
+    "currency": "EUR",
+    "current_price": 39.95,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://static.zara.net/assets/public/a3cf/80e4/030841d89b56/eb088fcbcdeb/04231347700-f1/04231347700-f1.jpg?ts=1793810741271",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "SUPIMA® STRIPED JACQUARD T-SHIRT",
+    "product_url": "https://www.zara.com/nl/en/supima--striped-jacquard-t-shirt-p04231347.html?v1=580816788",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "T-SHIRT",
+    "source_page": "https://www.zara.com/nl/en/man-new-in-l711.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T22:10:45.179435+00:00",
+    "category": "Dresses & jumpsuits",
+    "colour": "Burnt Orange",
+    "currency": "EUR",
+    "current_price": 45.99,
+    "discount_pct": 34.29,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37044116-28-007",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 69.99,
+    "product_name": "Printed dress with ruched detailing",
+    "product_url": "https://shop.mango.com/nl/en/p/women/dresses-and-jumpsuits/dresses/printed-dress-with-ruched-detailing/37044116/28/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "Dresses and jumpsuits",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Acne Studios",
+    "captured_at": "2026-11-10T12:51:46.403844+00:00",
+    "category": "Shirts & blouses",
+    "colour": "Indigo blue",
+    "currency": "EUR",
+    "current_price": 1400,
+    "discount_pct": 0,
+    "gender": "men; women",
+    "image_url": "https://www.acnestudios.com/dw/image/v2/AAXV_PRD/on/demandware.static/-/Sites-acne-product-catalog/default/dwd8fb344b/images/CB/CB0136-/2000x/CB0136-135_UNISEX-WOMAN_A.jpg?sw=750&sh=1125",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Cashmere Denim Shirt",
+    "product_url": "https://www.acnestudios.com/nl/en/rw-ux-shir000002/CB0136-135.html",
+    "size_availability": [
+      {
+        "availability": "out_of_stock",
+        "size": "XXS/XXXS"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XS/XXS"
+      },
+      {
+        "availability": "low_stock",
+        "size": "S/XS"
+      },
+      {
+        "availability": "low_stock",
+        "size": "M/S"
+      },
+      {
+        "availability": "low_stock",
+        "size": "L/M"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XL/L"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XXL/XL"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XXXL/XXL"
+      }
+    ],
+    "sizes": [
+      "XXS/XXXS",
+      "XS/XXS",
+      "S/XS",
+      "M/S",
+      "L/M",
+      "XL/L",
+      "XXL/XL",
+      "XXXL/XXL"
+    ],
+    "source_category": "Shirts",
+    "source_page": "https://www.acnestudios.com/nl/en/man/new-arrivals/\nhttps://www.acnestudios.com/nl/en/woman/new-arrivals/",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T23:17:47.537982+00:00",
+    "category": "Dresses & jumpsuits",
+    "colour": "Black",
+    "currency": "EUR",
+    "current_price": 39.95,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/3f43/b346/f6da4ca287ed/32759e64a075/02157235800-f1/02157235800-f1.jpg?ts=1793881566103",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "FLORAL JACQUARD BOW SHORT DRESS",
+    "product_url": "https://www.zara.com/nl/en/short-floral-jacquard-bow-dress-p02157235.html?v1=575940121",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS-S"
+      },
+      {
+        "availability": "coming_soon",
+        "size": "M-L"
+      }
+    ],
+    "sizes": [
+      "XS-S",
+      "M-L"
+    ],
+    "source_category": "DRESS",
+    "source_page": "https://www.zara.com/nl/en/woman-creativity-newin-l18378.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:19:45.751327+00:00",
+    "category": "Shorts",
+    "colour": "Vanilla",
+    "currency": "EUR",
+    "current_price": 35.99,
+    "discount_pct": 21.74,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37091417-10-001",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 45.99,
+    "product_name": "Pinstripe pleated Bermuda shorts",
+    "product_url": "https://shop.mango.com/nl/en/p/women/shorts-and-bermuda-shorts/bermuda-shorts/pinstripe-pleated-bermuda-shorts/37091417/10/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "32"
+      },
+      {
+        "availability": "in_stock",
+        "size": "34"
+      },
+      {
+        "availability": "in_stock",
+        "size": "36"
+      },
+      {
+        "availability": "in_stock",
+        "size": "38"
+      },
+      {
+        "availability": "in_stock",
+        "size": "40"
+      },
+      {
+        "availability": "in_stock",
+        "size": "42"
+      },
+      {
+        "availability": "in_stock",
+        "size": "44"
+      },
+      {
+        "availability": "low_stock",
+        "size": "46"
+      }
+    ],
+    "sizes": [
+      "32",
+      "34",
+      "36",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "source_category": "Shorts and Bermuda Shorts",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T21:00:56.415825+00:00",
+    "category": "Outerwear & tailoring",
+    "colour": "Grey",
+    "currency": "EUR",
+    "current_price": 79.99,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37059137-92-002",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Velvet jacket with buttons",
+    "product_url": "https://shop.mango.com/nl/en/p/women/blazers/oversized/velvet-jacket-with-buttons/37059137/92/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XXS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XXL"
+      }
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source_category": "Blazers",
+    "source_page": "https://shop.mango.com/nl/en/c/women/new-now/56b5c5ed",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T13:42:17.850112+00:00",
+    "category": "Outerwear & tailoring",
+    "colour": "Black / White",
+    "currency": "EUR",
+    "current_price": 25.99,
+    "discount_pct": 43.44,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/58db/1b5c/05fc4b28b389/3b2e6e346eeb/02753622064-f1/02753622064-f1.jpg?ts=1786974375497",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 45.95,
+    "product_name": "OVERSIZE HOUNDSTOOTH DOUBLE-BREASTED BLAZER",
+    "product_url": "https://www.zara.com/nl/en/oversized-double-breasted-blazer-p02753522.html?v1=594137671",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "S"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "M"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "L"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "BLAZER",
+    "source_page": "https://www.zara.com/nl/en/woman-special-prices-l1314.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-11T00:43:10.153839+00:00",
+    "category": "Knitwear",
+    "colour": "Black / White",
+    "currency": "EUR",
+    "current_price": 99.95,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/2b3b/c335/e37f490f9cde/1e563db4ae7e/02142292084-f1/02142292084-f1.jpg?ts=1793699520223",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "100% WOOL Cable-knit Jumper",
+    "product_url": "https://www.zara.com/nl/en/100-wool-cable-knit-jumper-p02142292.html?v1=583785622",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS-S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M-L"
+      }
+    ],
+    "sizes": [
+      "XS-S",
+      "M-L"
+    ],
+    "source_category": "SWEATER",
+    "source_page": "https://www.zara.com/nl/en/woman-creativity-newin-l18378.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:24:07.653933+00:00",
+    "category": "Nightwear & loungewear",
+    "colour": "Pastel Yellow",
+    "currency": "EUR",
+    "current_price": 18.99,
+    "discount_pct": 26.93,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/27081321-11-001",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 25.99,
+    "product_name": "Cotton top with lace straps",
+    "product_url": "https://shop.mango.com/nl/en/p/women/pyjamas/pyjama-shirts/cotton-top-with-lace-straps/27081321/11/00",
+    "size_availability": [
+      {
+        "availability": "out_of_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "Pyjamas",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Our Legacy",
+    "captured_at": "2026-11-10T12:44:01.672633+00:00",
+    "category": "Footwear",
+    "colour": "Heated Deep Black Leather",
+    "currency": "EUR",
+    "current_price": 560,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://ourlegacy.centracdn.net/client/dynamic/images/15719_85293e049f-a4267nde_1-rtail-big.jpg",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "NAOTO CLOG",
+    "product_url": "https://www.ourlegacy.com/naoto-clog-heated-deep-black-leather",
+    "size_availability": [
+      {
+        "availability": "out_of_stock",
+        "size": "35"
+      },
+      {
+        "availability": "low_stock",
+        "size": "36"
+      },
+      {
+        "availability": "low_stock",
+        "size": "37"
+      },
+      {
+        "availability": "low_stock",
+        "size": "38"
+      },
+      {
+        "availability": "low_stock",
+        "size": "39"
+      },
+      {
+        "availability": "low_stock",
+        "size": "40"
+      },
+      {
+        "availability": "low_stock",
+        "size": "41"
+      },
+      {
+        "availability": "low_stock",
+        "size": "42"
+      },
+      {
+        "availability": "low_stock",
+        "size": "43"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "44"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "45"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "46"
+      }
+    ],
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "source_category": "FOOTWEAR / Mens Footwear / Mules",
+    "source_page": "https://www.ourlegacy.com/womens/new-arrivals",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T13:25:38.795574+00:00",
+    "category": "Bags",
+    "colour": "Brown",
+    "currency": "EUR",
+    "current_price": 200,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://media.mango.com/is/image/punto/37057903-30-500",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Bowling-style bag, 100% leather",
+    "product_url": "https://shop.mango.com/nl/en/p/men/backpacks-and-bags/bags/bowling-style-bag--100-leather/37057903/30/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "One size"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "source_category": "Backpacks and bags",
+    "source_page": "https://shop.mango.com/nl/en/c/men/new-now/a4e1e34a",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:23:49.204779+00:00",
+    "category": "Skirts",
+    "colour": "Brown",
+    "currency": "EUR",
+    "current_price": 55.99,
+    "discount_pct": 30,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/27064446-30-007",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 79.99,
+    "product_name": "Ruffled chiffon skirt",
+    "product_url": "https://shop.mango.com/nl/en/p/women/skirts/long/ruffled-chiffon-skirt/27064446/30/00",
+    "size_availability": [
+      {
+        "availability": "out_of_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "Skirts",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:24:11.716041+00:00",
+    "category": "Nightwear & loungewear",
+    "colour": "White",
+    "currency": "EUR",
+    "current_price": 25.99,
+    "discount_pct": 27.79,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/27003332-01-002",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 35.99,
+    "product_name": "Striped pyjama shorts",
+    "product_url": "https://shop.mango.com/nl/en/p/women/pyjamas/trousers/striped-pyjama-shorts/27003332/01/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "Pyjamas",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:20:27.652420+00:00",
+    "category": "Tops & T-shirts",
+    "colour": "Ecru",
+    "currency": "EUR",
+    "current_price": 19.99,
+    "discount_pct": 50.01,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37031529-05-002",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 39.99,
+    "product_name": "Lace detail knit top",
+    "product_url": "https://shop.mango.com/nl/en/p/women/tops/knitwear/lace-detail-knit-top/37031529/05/00",
+    "size_availability": [
+      {
+        "availability": "low_stock",
+        "size": "XXS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      },
+      {
+        "availability": "low_stock",
+        "size": "XXL"
+      }
+    ],
+    "sizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "source_category": "Tops",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T13:21:46.366182+00:00",
+    "category": "Accessories",
+    "colour": "Orange",
+    "currency": "EUR",
+    "current_price": 25.99,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/47041387-20-016",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Embossed flower earrings",
+    "product_url": "https://shop.mango.com/nl/en/p/women/jewellery/party/embossed-flower-earrings/47041387/20/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "One size"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "source_category": "Jewellery",
+    "source_page": "https://shop.mango.com/nl/en/c/women/new-now/56b5c5ed",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Our Legacy",
+    "captured_at": "2026-11-10T12:11:32.570019+00:00",
+    "category": "Knitwear",
+    "colour": "Black Superfine Merino",
+    "currency": "EUR",
+    "current_price": 390,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://ourlegacy.centracdn.net/client/dynamic/images/15476_f4927ffcc4-m4263bb_3-rtail-big.jpg",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "BARE TANK",
+    "product_url": "https://www.ourlegacy.com/bare-tank-black-superfine-merino",
+    "size_availability": [
+      {
+        "availability": "low_stock",
+        "size": "44"
+      },
+      {
+        "availability": "low_stock",
+        "size": "46"
+      },
+      {
+        "availability": "low_stock",
+        "size": "48"
+      },
+      {
+        "availability": "low_stock",
+        "size": "50"
+      },
+      {
+        "availability": "low_stock",
+        "size": "52"
+      },
+      {
+        "availability": "low_stock",
+        "size": "54"
+      }
+    ],
+    "sizes": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "source_category": "MENS / KNITWEAR",
+    "source_page": "https://www.ourlegacy.com/mens/new-arrivals",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T19:07:09.618085+00:00",
+    "category": "Bags",
+    "colour": "Black",
+    "currency": "EUR",
+    "current_price": 59.99,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37019143-99-125",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Faux-leather handbag",
+    "product_url": "https://shop.mango.com/nl/en/p/women/bags/party/faux-leather-handbag/37019143/99/01",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "One size"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "source_category": "Bags",
+    "source_page": "https://shop.mango.com/nl/en/c/women/new-now/56b5c5ed",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T01:54:24.808617+00:00",
+    "category": "Knitwear",
+    "colour": "Vanilla",
+    "currency": "EUR",
+    "current_price": 35.99,
+    "discount_pct": 21.74,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37015891-10-002",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 45.99,
+    "product_name": "Openwork knit sweater",
+    "product_url": "https://shop.mango.com/nl/en/p/women/sweaters-and-cardigans/sweaters/openwork-knit-sweater/37015891/10/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "Sweaters and cardigans",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T12:03:13.621830+00:00",
+    "category": "Skirts",
+    "colour": "Mustard",
+    "currency": "EUR",
+    "current_price": 49.99,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37089129-15-001",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Lace midi skirt",
+    "product_url": "https://shop.mango.com/nl/en/p/women/skirts/midi/lace-midi-skirt/37089129/15/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "36"
+      },
+      {
+        "availability": "in_stock",
+        "size": "38"
+      },
+      {
+        "availability": "in_stock",
+        "size": "40"
+      }
+    ],
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "source_category": "Skirts",
+    "source_page": "https://shop.mango.com/nl/en/c/women/new-now/56b5c5ed",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T12:07:36.369013+00:00",
+    "category": "Skirts",
+    "colour": "Black",
+    "currency": "EUR",
+    "current_price": 69.99,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37039131-99-004",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "Asymmetric skirt with sequin embroidery",
+    "product_url": "https://shop.mango.com/nl/en/p/women/skirts/party/asymmetric-skirt-with-sequin-embroidery/37039131/99/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "XS"
+      },
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "Skirts",
+    "source_page": "https://shop.mango.com/nl/en/c/women/new-now/56b5c5ed",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T20:26:06.160890+00:00",
+    "category": "Footwear",
+    "colour": "Leather",
+    "currency": "EUR",
+    "current_price": 39.99,
+    "discount_pct": 28.58,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/37071396-CU-900",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 55.99,
+    "product_name": "Leather strap sandals with buckles",
+    "product_url": "https://shop.mango.com/nl/en/p/women/shoes/leather-shoes/leather-strap-sandals-with-buckles/37071396/CU/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "35"
+      },
+      {
+        "availability": "in_stock",
+        "size": "36"
+      },
+      {
+        "availability": "in_stock",
+        "size": "37"
+      },
+      {
+        "availability": "in_stock",
+        "size": "38"
+      },
+      {
+        "availability": "in_stock",
+        "size": "39"
+      },
+      {
+        "availability": "in_stock",
+        "size": "40"
+      },
+      {
+        "availability": "in_stock",
+        "size": "41"
+      },
+      {
+        "availability": "low_stock",
+        "size": "42"
+      }
+    ],
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "source_category": "Shoes",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-10T23:33:53.799780+00:00",
+    "category": "Shirts & blouses",
+    "colour": "Deep Dark Blue",
+    "currency": "EUR",
+    "current_price": 60,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://media.mango.com/is/image/punto/37095875-BB-002",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "100% cotton denim shirt",
+    "product_url": "https://shop.mango.com/nl/en/p/men/shirts/denim/100-cotton-denim-shirt/37095875/BB/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "in_stock",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "Shirts",
+    "source_page": "https://shop.mango.com/nl/en/c/men/new-now/a4e1e34a",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T18:46:20.783883+00:00",
+    "category": "Knitwear",
+    "colour": "Brown",
+    "currency": "EUR",
+    "current_price": 139,
+    "discount_pct": 0,
+    "gender": "men",
+    "image_url": "https://static.zara.net/assets/public/c5ce/dfa1/022d40279203/8f7fb9070bc0/02893354700-f1/02893354700-f1.jpg?ts=1793271669799",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "100% CASHMERE KNIT POLO SHIRT",
+    "product_url": "https://www.zara.com/nl/en/100-cashmere-knit-polo-p02893354.html?v1=550775803",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      },
+      {
+        "availability": "coming_soon",
+        "size": "XL"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "source_category": "SWEATER",
+    "source_page": "https://www.zara.com/nl/en/man-new-in-l711.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Zara",
+    "captured_at": "2026-11-10T20:43:59.150880+00:00",
+    "category": "Tops & T-shirts",
+    "colour": "Grey green",
+    "currency": "EUR",
+    "current_price": 15.95,
+    "discount_pct": 0,
+    "gender": "women",
+    "image_url": "https://static.zara.net/assets/public/1d65/171c/28054c278489/f3f576096c3b/03641855916-f1/03641855916-f1.jpg?ts=1788787787941",
+    "is_new_arrival": true,
+    "is_on_sale": false,
+    "original_price": null,
+    "product_name": "LONG SLEEVE BODYSUIT",
+    "product_url": "https://www.zara.com/nl/en/long-sleeve-bodysuit-p03641855.html?v1=610629284",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "in_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "BODYSUIT",
+    "source_page": "https://www.zara.com/nl/en/woman-creativity-newin-l18378.html",
+    "storefront": "Netherlands"
+  },
+  {
+    "availability": "in_stock",
+    "brand": "Mango",
+    "captured_at": "2026-11-11T02:24:32.335500+00:00",
+    "category": "Outerwear & tailoring",
+    "colour": "Vanilla",
+    "currency": "EUR",
+    "current_price": 55.99,
+    "discount_pct": 44,
+    "gender": "women",
+    "image_url": "https://media.mango.com/is/image/punto/17038267-10-001",
+    "is_new_arrival": false,
+    "is_on_sale": true,
+    "original_price": 99.99,
+    "product_name": "Hood puffer coat",
+    "product_url": "https://shop.mango.com/nl/en/p/women/coats/quilted-coatspadded/hood-puffer-coat/17038267/10/00",
+    "size_availability": [
+      {
+        "availability": "in_stock",
+        "size": "S"
+      },
+      {
+        "availability": "in_stock",
+        "size": "M"
+      },
+      {
+        "availability": "out_of_stock",
+        "size": "L"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "source_category": "Coats",
+    "source_page": "https://shop.mango.com/nl/en/c/women/promotion/7914393e",
+    "storefront": "Netherlands"
+  }
+]

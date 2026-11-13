@@ -1,0 +1,11 @@
+captured_at,category,chart_country,notes,shows_read,source,status,url
+2026-11-10T11:07:12+00:00,Top Podcasts,PT,Public chart could not be read; no ranks supplied. primitive_http_error,0,Spotify Charts,Unavailable,https://podcastcharts.byspotify.com/pt/top-podcasts
+2026-11-10T11:07:10+00:00,Comedy,US,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/us/rss/toppodcasts/limit=12/genre=1303/json
+2026-11-10T11:07:10+00:00,Society & Culture,US,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/us/rss/toppodcasts/limit=12/genre=1324/json
+2026-11-10T11:07:11+00:00,Comedy,DE,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/de/rss/toppodcasts/limit=12/genre=1303/json
+2026-11-10T11:07:11+00:00,Comedy,PT,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/pt/rss/toppodcasts/limit=12/genre=1303/json
+2026-11-10T11:07:10+00:00,Comedy,UK,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/gb/rss/toppodcasts/limit=12/genre=1303/json
+2026-11-10T11:07:11+00:00,Technology,PT,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/pt/rss/toppodcasts/limit=12/genre=1318/json
+2026-11-10T11:07:12+00:00,Comedy,BR,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/br/rss/toppodcasts/limit=12/genre=1303/json
+2026-11-10T11:07:11+00:00,Society & Culture,DE,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/de/rss/toppodcasts/limit=12/genre=1324/json
+2026-11-10T11:07:12+00:00,Society & Culture,BR,"Category chart ranks refer to this chart snapshot, not overall chart rank.",12,Apple Podcasts,Readable,https://itunes.apple.com/br/rss/toppodcasts/limit=12/genre=1324/json

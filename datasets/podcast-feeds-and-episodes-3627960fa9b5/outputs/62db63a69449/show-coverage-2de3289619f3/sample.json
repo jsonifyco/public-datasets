@@ -1,0 +1,502 @@
+[
+  {
+    "captured_at": "2026-11-10T11:07:17+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/baywatch-berlin/id1488376434?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://baywatch-berlin.podigee.io/feed/mp3",
+    "show_title": "Baywatch Berlin",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:52+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/VMP1684715893",
+    "show_title": "On with Kara Swisher",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:57+00:00",
+    "directory_url": "https://podcasts.apple.com/pt/podcast/lex-fridman-podcast/id1434243584?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://lexfridman.com/feed/podcast/",
+    "show_title": "Lex Fridman Podcast",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:44+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/the-cal-newport-show/id1515786216?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://rss.pdrl.fm/2d4b16/feeds.simplecast.com/_IjaDYAj",
+    "show_title": "The Cal Newport Show",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:52+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/kaulitz-hills-senf-aus-hollywood/id1694338196?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/GLT9787442816",
+    "show_title": "Kaulitz Hills - Senf aus Hollywood",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:46+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.simplecast.com/hNaFxXpO",
+    "show_title": "SmartLess",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:43+00:00",
+    "directory_url": "https://podcasts.apple.com/pt/podcast/45-graus/id1292782109?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://www.omnycontent.com/d/playlist/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/e7ef25e4-c0ce-4491-b242-b29200d2a3a5/714b5ae6-019f-481c-a560-b29200d2a3b7/podcast.rss",
+    "show_title": "45 Graus",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:21+00:00",
+    "directory_url": "https://podcasts.apple.com/gb/podcast/uncanny/id1589938734?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://podcasts.files.bbci.co.uk/m0010x7c.rss",
+    "show_title": "Uncanny",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:37+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/feinstoff/id1840106949?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://feinstoff.podigee.io/feed/mp3",
+    "show_title": "feinstoff",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:17+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/GLT1412515089",
+    "show_title": "The Joe Rogan Experience",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:26+00:00",
+    "directory_url": "https://podcasts.apple.com/br/podcast/hipsters-ponto-tech/id1133325943?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://hipsters.tech/feed/podcast/",
+    "show_title": "Hipsters Ponto Tech",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:31+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/wait-wait-dont-tell-me/id121493804?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://feeds.npr.org/344098539/podcast.xml",
+    "show_title": "Wait Wait... Don't Tell Me!",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:16+00:00",
+    "directory_url": "https://podcasts.apple.com/pt/podcast/a-vida-dupla-do-espi%C3%A3o-traidor/id6792864997?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://www.omnycontent.com/d/playlist/b04d3ae5-22c4-41b6-b20a-aa54000ba759/48e83e47-2f21-4352-8b5d-b48d0134f5a8/436a1aff-18db-4a4f-ace5-b48d0134fa43/podcast.rss",
+    "show_title": "A Vida Dupla do Espião Traidor",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:21+00:00",
+    "directory_url": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-a-fish/id840986946?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://audioboom.com/channels/2399216.rss",
+    "show_title": "No Such Thing As A Fish",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:01+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/good-hang-with-amy-poehler",
+    "show_title": "Good Hang with Amy Poehler",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:44+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/the-binge-free-shelley-jensen/id1578324041?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://rss.pdrl.fm/ca33ec/feeds.megaphone.fm/witnessed",
+    "show_title": "The Binge: Free Shelley Jensen",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:31+00:00",
+    "directory_url": "https://podcasts.apple.com/gb/podcast/the-affair-with-anna-williamson/id1804881003?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://feeds.acast.com/public/shows/69aac129c2eb2fc3ab23ac4c",
+    "show_title": "The Affair…with Anna Williamson",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:26+00:00",
+    "directory_url": "https://podcasts.apple.com/pt/podcast/bem-vindo-a-mais-um-epis%C3%B3dio-de/id1768998321?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://rss.podplaystudio.com/3371.xml",
+    "show_title": "Bem-vindo a mais um episódio de.",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:57+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/edeltalk-mit-dominik-kevin/id1444619566?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.nexx.cloud/12381/PNPAN7FYIU0ZBFW",
+    "show_title": "Edeltalk - mit Dominik & Kevin",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:10:00+00:00",
+    "directory_url": "https://podcastindex.org/podcast/276768",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.fireside.fm/scienceforsport/rss",
+    "show_title": "Science for Sport Podcast",
+    "source": "Podcast Index",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:33+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/armchair-expert-with-dax-shepard/id1345682353?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://rss.art19.com/armchair-expert",
+    "show_title": "Armchair Expert with Dax Shepard",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:21+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/stuff-you-should-know/id278981407?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
+    "show_title": "Stuff You Should Know",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:52+00:00",
+    "directory_url": "https://podcasts.apple.com/gb/podcast/the-louis-theroux-podcast/id1725833532?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/GLT1948741183",
+    "show_title": "The Louis Theroux Podcast",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:43+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/apfelfunk/id1081146940?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss",
+    "show_title": "Apfelfunk",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:51+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/h%C3%B6rbar-rust/id162372493?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://hoerbar-rust-radioeins-rbbm.podigee.io/feed/mp3",
+    "show_title": "Hörbar Rust",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:12+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/einschlafen-mit-biografien/id1795899553?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://einschlafen-mit-biografien.podigee.io/feed/mp3",
+    "show_title": "Einschlafen mit Biografien",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:18+00:00",
+    "directory_url": "https://podcasts.apple.com/gb/podcast/american-alchemy-with-jesse-michels/id1771917740?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://rss.pdrl.fm/d763df/feeds.megaphone.fm/jessemichels",
+    "show_title": "American Alchemy with Jesse Michels",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:30+00:00",
+    "directory_url": "https://podcasts.apple.com/br/podcast/a-fonte/id1629477731?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://gigahertz.fm/podcasts/afonte/feed.rss",
+    "show_title": "A Fonte",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:31+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/mit-den-waffeln-einer-frau/id1481054140?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://waffelneinerfrau-itunes.podigee.io/feed/mp3",
+    "show_title": "Mit den Waffeln einer Frau",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:17+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://www.thisamericanlife.org/podcast/rss.xml",
+    "show_title": "This American Life",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:26+00:00",
+    "directory_url": "https://podcasts.apple.com/br/podcast/macmagazine-no-ar/id547137017?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://macmagazine.com.br/feed/podcast/",
+    "show_title": "MacMagazine no Ar",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:30+00:00",
+    "directory_url": "https://podcasts.apple.com/pt/podcast/o-futuro-do-futuro/id1544733330?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://www.omnycontent.com/d/playlist/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/4b9bdaab-3c0c-43c6-bf3e-ad8e00d1101c/88b5c308-ff0f-4adf-8d01-ad8e00d11026/podcast.rss",
+    "show_title": "O Futuro do Futuro",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:16+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.simplecast.com/6J0Ivoq9",
+    "show_title": "Giggly Squad",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:46+00:00",
+    "directory_url": "https://podcasts.apple.com/br/podcast/r%C3%A1dio-novelo-apresenta/id1653631116?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/NPP6869883964",
+    "show_title": "Rádio Novelo Apresenta",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:12+00:00",
+    "directory_url": "https://podcasts.apple.com/br/podcast/intelig%C3%AAncia-ltda/id1566207871?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://anchor.fm/s/6cf4d5a0/podcast/rss",
+    "show_title": "Inteligência Ltda.",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:51+00:00",
+    "directory_url": "https://podcastindex.org/podcast/82455",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.simplecast.com/h5JFP4N_",
+    "show_title": "Human Centered",
+    "source": "Podcast Index",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:16+00:00",
+    "directory_url": "https://podcasts.apple.com/pt/podcast/fuso/id1484433661?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:721739224/sounds.rss",
+    "show_title": "FUSO",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:52+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/freak-show/id277518737?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.metaebene.me/freakshow/mp3",
+    "show_title": "Freak Show",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:10:00+00:00",
+    "directory_url": "https://podcastindex.org/podcast/220402",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/SUPERDATASCIENCEPTYLTD9836501887",
+    "show_title": "Super Data Science: ML & AI Podcast with Jon Krohn",
+    "source": "Podcast Index",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:26+00:00",
+    "directory_url": "https://podcasts.apple.com/pt/podcast/waveform-the-mkbhd-podcast/id1474429475?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://feeds.megaphone.fm/STU4418364045",
+    "show_title": "Waveform: The MKBHD Podcast",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:46+00:00",
+    "directory_url": "https://podcasts.apple.com/gb/podcast/the-romesh-ranganathan-show/id1838594107?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/romesh",
+    "show_title": "The Romesh Ranganathan Show",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:18+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/machine-gods/id6812430636?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.npr.org/g-s1-143588/podcast.xml",
+    "show_title": "Machine Gods",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:12+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/search-engine/id1614253637?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/search-engine",
+    "show_title": "Search Engine",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:18+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/talk-ohne-gast/id1371996866?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://www.fritz.de/programm/podcasts/talk-ohne-gast.xml/feed=podcast.xml",
+    "show_title": "Talk ohne Gast",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:44+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/computer-und-kommunikation/id173754605?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml",
+    "show_title": "Computer und Kommunikation",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:21+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/fest-flauschig/id1765742605?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/GLT4060321204",
+    "show_title": "Fest & Flauschig",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:37+00:00",
+    "directory_url": "https://podcasts.apple.com/br/podcast/aprenda-filosofia/id1791529448?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 0,
+    "rss_feed_url": "https://feeds.acast.com/public/shows/6778234577d7a3f73acccde2",
+    "show_title": "Aprenda Filosofia",
+    "source": "Apple Podcasts",
+    "status": "Readable; not selected after sample target reached"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:01+00:00",
+    "directory_url": "https://podcasts.apple.com/us/podcast/ted-radio-hour/id523121474?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.npr.org/510298/podcast.xml",
+    "show_title": "TED Radio Hour",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:09:12+00:00",
+    "directory_url": "https://podcasts.apple.com/de/podcast/hobbylos/id1749309634?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.megaphone.fm/GLT8915357524",
+    "show_title": "Hobbylos",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  },
+  {
+    "captured_at": "2026-11-10T11:08:52+00:00",
+    "directory_url": "https://podcasts.apple.com/gb/podcast/luanna-the-podcast/id1496019465?uo=4",
+    "episode_rows_available": 3,
+    "episode_rows_selected": 3,
+    "rss_feed_url": "https://feeds.captivate.fm/luanna-the-podcast/",
+    "show_title": "LuAnna: The Podcast",
+    "source": "Apple Podcasts",
+    "status": "readable"
+  }
+]

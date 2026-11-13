@@ -1,0 +1,102 @@
+[
+  {
+    "captured_at": "2026-11-10T11:07:12+00:00",
+    "category": "Top Podcasts",
+    "chart_country": "PT",
+    "notes": "Public chart could not be read; no ranks supplied. primitive_http_error",
+    "shows_read": 0,
+    "source": "Spotify Charts",
+    "status": "Unavailable",
+    "url": "https://podcastcharts.byspotify.com/pt/top-podcasts"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:10+00:00",
+    "category": "Comedy",
+    "chart_country": "US",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/us/rss/toppodcasts/limit=12/genre=1303/json"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:10+00:00",
+    "category": "Society & Culture",
+    "chart_country": "US",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/us/rss/toppodcasts/limit=12/genre=1324/json"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:11+00:00",
+    "category": "Comedy",
+    "chart_country": "DE",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/de/rss/toppodcasts/limit=12/genre=1303/json"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:11+00:00",
+    "category": "Comedy",
+    "chart_country": "PT",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/pt/rss/toppodcasts/limit=12/genre=1303/json"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:10+00:00",
+    "category": "Comedy",
+    "chart_country": "UK",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/gb/rss/toppodcasts/limit=12/genre=1303/json"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:11+00:00",
+    "category": "Technology",
+    "chart_country": "PT",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/pt/rss/toppodcasts/limit=12/genre=1318/json"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:12+00:00",
+    "category": "Comedy",
+    "chart_country": "BR",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/br/rss/toppodcasts/limit=12/genre=1303/json"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:11+00:00",
+    "category": "Society & Culture",
+    "chart_country": "DE",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/de/rss/toppodcasts/limit=12/genre=1324/json"
+  },
+  {
+    "captured_at": "2026-11-10T11:07:12+00:00",
+    "category": "Society & Culture",
+    "chart_country": "BR",
+    "notes": "Category chart ranks refer to this chart snapshot, not overall chart rank.",
+    "shows_read": 12,
+    "source": "Apple Podcasts",
+    "status": "Readable",
+    "url": "https://itunes.apple.com/br/rss/toppodcasts/limit=12/genre=1324/json"
+  }
+]

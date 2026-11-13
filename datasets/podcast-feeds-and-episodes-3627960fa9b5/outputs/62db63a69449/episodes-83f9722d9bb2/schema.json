@@ -1,0 +1,98 @@
+[
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "chart_appearances",
+    "type": "text"
+  },
+  {
+    "name": "chart_country",
+    "type": "text"
+  },
+  {
+    "name": "chart_rank",
+    "type": "integer"
+  },
+  {
+    "name": "directory_show_title",
+    "type": "text"
+  },
+  {
+    "name": "directory_url",
+    "type": "text"
+  },
+  {
+    "name": "duration_original",
+    "type": "text"
+  },
+  {
+    "name": "duration_seconds",
+    "type": "integer"
+  },
+  {
+    "name": "enclosure_audio_url",
+    "type": "text"
+  },
+  {
+    "name": "episode_guid",
+    "type": "text"
+  },
+  {
+    "name": "episode_id",
+    "type": "text"
+  },
+  {
+    "name": "episode_publish_date",
+    "type": "text"
+  },
+  {
+    "name": "episode_publish_date_original",
+    "type": "text"
+  },
+  {
+    "name": "episode_title",
+    "type": "text"
+  },
+  {
+    "name": "episode_url",
+    "type": "text"
+  },
+  {
+    "name": "missing_fields",
+    "type": "text"
+  },
+  {
+    "name": "publisher",
+    "type": "text"
+  },
+  {
+    "name": "quality_flags",
+    "type": "text"
+  },
+  {
+    "name": "rss_categories",
+    "type": "text"
+  },
+  {
+    "name": "rss_feed_url",
+    "type": "text"
+  },
+  {
+    "name": "show_id",
+    "type": "text"
+  },
+  {
+    "name": "show_title",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  }
+]

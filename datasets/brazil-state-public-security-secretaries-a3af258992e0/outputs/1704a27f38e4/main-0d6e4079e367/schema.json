@@ -1,0 +1,58 @@
+[
+  {
+    "name": "checked_date",
+    "type": "text"
+  },
+  {
+    "name": "contact_source_url",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "department",
+    "type": "text"
+  },
+  {
+    "name": "department_website",
+    "type": "text"
+  },
+  {
+    "name": "leadership_source_url",
+    "type": "text"
+  },
+  {
+    "name": "office_address",
+    "type": "text"
+  },
+  {
+    "name": "office_email",
+    "type": "text"
+  },
+  {
+    "name": "office_phone",
+    "type": "text"
+  },
+  {
+    "name": "secretary_name",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "uf",
+    "type": "text"
+  },
+  {
+    "name": "verification_note",
+    "type": "text"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Aldi_NL_price",
+    "type": "text"
+  },
+  {
+    "name": "Aldi_NL_promo_price",
+    "type": "text"
+  },
+  {
+    "name": "Dirk_price",
+    "type": "text"
+  },
+  {
+    "name": "Dirk_promo_price",
+    "type": "text"
+  },
+  {
+    "name": "EAN",
+    "type": "text"
+  },
+  {
+    "name": "Jumbo_price",
+    "type": "text"
+  },
+  {
+    "name": "Jumbo_promo_price",
+    "type": "text"
+  },
+  {
+    "name": "Lidl_NL_price",
+    "type": "text"
+  },
+  {
+    "name": "Lidl_NL_promo_price",
+    "type": "text"
+  },
+  {
+    "name": "PLUS_price",
+    "type": "text"
+  },
+  {
+    "name": "PLUS_promo_price",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "canonical_product_id",
+    "type": "text"
+  },
+  {
+    "name": "captured_date",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "match_method",
+    "type": "text"
+  },
+  {
+    "name": "pack_size",
+    "type": "text"
+  },
+  {
+    "name": "product_name",
+    "type": "text"
+  },
+  {
+    "name": "retailer_count",
+    "type": "integer"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "coverage_note",
+    "type": "text"
+  },
+  {
+    "name": "dairy_rows",
+    "type": "integer"
+  },
+  {
+    "name": "drinks_rows",
+    "type": "integer"
+  },
+  {
+    "name": "ean_rows",
+    "type": "integer"
+  },
+  {
+    "name": "fresh_rows",
+    "type": "integer"
+  },
+  {
+    "name": "household_rows",
+    "type": "integer"
+  },
+  {
+    "name": "matched_products",
+    "type": "integer"
+  },
+  {
+    "name": "price_rows",
+    "type": "integer"
+  },
+  {
+    "name": "retailer",
+    "type": "text"
+  },
+  {
+    "name": "snacks_rows",
+    "type": "integer"
+  }
+]

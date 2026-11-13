@@ -1,0 +1,74 @@
+[
+  {
+    "coverage_note": "Priced public assortment/offer subset; unpriced listings excluded; no exact matches in this sample",
+    "dairy_rows": 1,
+    "drinks_rows": 5,
+    "ean_rows": 31,
+    "fresh_rows": 86,
+    "household_rows": 0,
+    "matched_products": 0,
+    "price_rows": 107,
+    "retailer": "Lidl NL",
+    "snacks_rows": 15
+  },
+  {
+    "coverage_note": "Public default online/in-store prices; no selected postcode or local stock guarantee",
+    "dairy_rows": 140,
+    "drinks_rows": 137,
+    "ean_rows": 645,
+    "fresh_rows": 129,
+    "household_rows": 100,
+    "matched_products": 47,
+    "price_rows": 656,
+    "retailer": "Jumbo",
+    "snacks_rows": 150
+  },
+  {
+    "coverage_note": "Public default online/in-store prices; no selected postcode or local stock guarantee",
+    "dairy_rows": 177,
+    "drinks_rows": 177,
+    "ean_rows": 0,
+    "fresh_rows": 178,
+    "household_rows": 177,
+    "matched_products": 51,
+    "price_rows": 888,
+    "retailer": "Dirk",
+    "snacks_rows": 179
+  },
+  {
+    "coverage_note": "Public pages direct customers to the app for current offers; no current product-price catalogue collected",
+    "dairy_rows": 0,
+    "drinks_rows": 0,
+    "ean_rows": 0,
+    "fresh_rows": 0,
+    "household_rows": 0,
+    "matched_products": 0,
+    "price_rows": 0,
+    "retailer": "Picnic",
+    "snacks_rows": 0
+  },
+  {
+    "coverage_note": "Public default online/in-store prices; no selected postcode or local stock guarantee",
+    "dairy_rows": 120,
+    "drinks_rows": 125,
+    "ean_rows": 594,
+    "fresh_rows": 103,
+    "household_rows": 120,
+    "matched_products": 59,
+    "price_rows": 594,
+    "retailer": "PLUS",
+    "snacks_rows": 126
+  },
+  {
+    "coverage_note": "Public default online/in-store prices; no selected postcode or local stock guarantee",
+    "dairy_rows": 132,
+    "drinks_rows": 109,
+    "ean_rows": 0,
+    "fresh_rows": 177,
+    "household_rows": 69,
+    "matched_products": 5,
+    "price_rows": 755,
+    "retailer": "Aldi NL",
+    "snacks_rows": 268
+  }
+]

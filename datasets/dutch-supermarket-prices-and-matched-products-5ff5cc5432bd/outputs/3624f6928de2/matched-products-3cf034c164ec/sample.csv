@@ -1,0 +1,11 @@
+Aldi_NL_price,Aldi_NL_promo_price,Dirk_price,Dirk_promo_price,EAN,Jumbo_price,Jumbo_promo_price,Lidl_NL_price,Lidl_NL_promo_price,PLUS_price,PLUS_promo_price,brand,canonical_product_id,captured_date,currency,match_method,pack_size,product_name,retailer_count
+,,2.29,,5000112646115,2.55,,,,2.59,,Fanta,product_f680b1243861,2026-11-09,EUR,"exact brand, variant and pack",1.5 L,Fanta Orange,3
+,,1.69,,7622210656490,,,,,1.85,1.0,Milka,product_24ed708c3886,2026-11-09,EUR,"exact brand, variant and pack",100 g,Milka Chocoladereep oreo,2
+,,,,8712800147008,1.79,,,,1.79,1.0,Campina,product_3ebf91e900b7,2026-11-09,EUR,EAN and pack,1 liter,Campina Langlekker halfvolle melk,2
+,,2.15,,8720157401223,,,,,2.29,,Coolbest,product_2393663a6461,2026-11-09,EUR,"exact brand, variant and pack",1 liter,Coolbest Fruitdrink mango,2
+,,1.87,0.99,8712800035626,1.99,,,,,,Optimel,product_5517ba2eff65,2026-11-09,EUR,"exact brand, variant and pack",1L,Optimel Drinkyoghurt framboos 0% vet,2
+,,1.44,,8718989028404,,,,,1.59,,Zuivelmeester,product_0621366d3191,2026-11-09,EUR,"exact brand, variant and pack",2 liter,Zuivelmeester Halfvolle melk,2
+,,,,5000112605136,2.59,,,,2.75,,Sprite,product_769127a2c6ae,2026-11-09,EUR,EAN and pack,1.5 L,Sprite Lemon-Lime No Sugar,2
+,,2.75,,8720157467472,2.89,,,,2.89,,Dubbelfrisss,product_e5501f28d41e,2026-11-09,EUR,"exact brand, variant and pack",1.5 L,Dubbelfrisss Appel & perzik,3
+,,1.55,,7622202261626,,,,,1.75,1.0,Milka,product_fff1000b185d,2026-11-09,EUR,"exact brand, variant and pack",90 g,Milka Chocoladereep gebroken hazelnoten,2
+,,5.55,,7622201135010,,,,,5.79,,Côte d'Or,product_b8ca52feeba2,2026-11-09,EUR,"exact brand, variant and pack",200 g,Côte d'Or Bonbonbloc praline wit,2

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "daily_price",
+    "type": "double precision"
+  },
+  {
+    "name": "host_name",
+    "type": "text"
+  },
+  {
+    "name": "host_type",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "make",
+    "type": "text"
+  },
+  {
+    "name": "model",
+    "type": "text"
+  },
+  {
+    "name": "pickup_location",
+    "type": "text"
+  },
+  {
+    "name": "price_basis",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "trip_count",
+    "type": "integer"
+  },
+  {
+    "name": "trip_end",
+    "type": "text"
+  },
+  {
+    "name": "trip_start",
+    "type": "text"
+  },
+  {
+    "name": "year",
+    "type": "integer"
+  }
+]

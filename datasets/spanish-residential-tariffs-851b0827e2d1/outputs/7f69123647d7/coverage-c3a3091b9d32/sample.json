@@ -1,0 +1,92 @@
+[
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 0,
+    "plans_kept": 2,
+    "provider": "Iberdrola",
+    "scraped_at": "2026-11-11T20:41:15.682131+00:00",
+    "source_url": "https://www.iberdrola.es/luz/tarifas/plan-online-tres-periodos",
+    "status": "collected"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 0,
+    "plans_kept": 0,
+    "provider": "Podo",
+    "scraped_at": "2026-11-11T20:42:00.539587+00:00",
+    "source_url": "https://www.mipodo.com/tarifas-luz/mercado",
+    "status": "no_readable_core_price"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 0,
+    "plans_kept": 2,
+    "provider": "Pepeenergy",
+    "scraped_at": "2026-11-11T20:41:10.280209+00:00",
+    "source_url": "https://www.pepeenergy.com/tarifas-luz/tarifa-estable-luz",
+    "status": "collected"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 0,
+    "plans_kept": 0,
+    "provider": "Repsol",
+    "scraped_at": "2026-11-11T20:40:58.192366+00:00",
+    "source_url": "https://www.repsol.es/particulares/hogar/luz-y-gas/tarifas/tarifa-sin-horarios/",
+    "status": "no_readable_core_price"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 0,
+    "plans_kept": 1,
+    "provider": "Endesa",
+    "scraped_at": "2026-11-11T20:41:04.145480+00:00",
+    "source_url": "https://www.endesa.com/es/luz-y-gas/luz/conecta-de-endesa",
+    "status": "collected"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 1,
+    "plans_kept": 0,
+    "provider": "Endesa",
+    "scraped_at": "2026-11-11T20:41:23.177184+00:00",
+    "source_url": "https://www.endesa.com/es/luz-y-gas/luz/one/tarifa-one-luz-3periodos",
+    "status": "no_readable_core_price"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 2,
+    "plans_kept": 1,
+    "provider": "Endesa",
+    "scraped_at": "2026-11-11T20:41:22.829484+00:00",
+    "source_url": "https://www.endesa.com/es/luz-y-gas/luz/one/tarifa-one-luz",
+    "status": "collected"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 0,
+    "plans_kept": 1,
+    "provider": "Som Energia",
+    "scraped_at": "2026-11-11T20:41:11.978996+00:00",
+    "source_url": "https://www.somenergia.coop/es/tarifas-luz/domestico-periodos",
+    "status": "collected"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 0,
+    "plans_kept": 6,
+    "provider": "Octopus Spain",
+    "scraped_at": "2026-11-11T20:40:57.469367+00:00",
+    "source_url": "https://octopusenergy.es/precios",
+    "status": "collected"
+  },
+  {
+    "detail": "Complete core-price offers retained; personalised quotes, historical averages and unreadable prices excluded.",
+    "plans_dropped": 1,
+    "plans_kept": 0,
+    "provider": "Som Energia",
+    "scraped_at": "2026-11-11T20:42:13.072120+00:00",
+    "source_url": "https://www.somenergia.coop/es/tarifas-luz/domestico-indexada",
+    "status": "no_readable_core_price"
+  }
+]

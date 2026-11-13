@@ -1,0 +1,30 @@
+[
+  {
+    "name": "detail",
+    "type": "text"
+  },
+  {
+    "name": "plans_dropped",
+    "type": "integer"
+  },
+  {
+    "name": "plans_kept",
+    "type": "integer"
+  },
+  {
+    "name": "provider",
+    "type": "text"
+  },
+  {
+    "name": "scraped_at",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  }
+]

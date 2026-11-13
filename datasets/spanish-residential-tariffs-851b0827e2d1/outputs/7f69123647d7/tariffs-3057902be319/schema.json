@@ -1,0 +1,102 @@
+[
+  {
+    "name": "energy_eur_kwh",
+    "type": "double precision"
+  },
+  {
+    "name": "energy_p1_eur_kwh",
+    "type": "double precision"
+  },
+  {
+    "name": "energy_p2_eur_kwh",
+    "type": "double precision"
+  },
+  {
+    "name": "energy_p3_eur_kwh",
+    "type": "double precision"
+  },
+  {
+    "name": "index_formula",
+    "type": "text"
+  },
+  {
+    "name": "monthly_fee_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "monthly_fee_taxes_included",
+    "type": "boolean"
+  },
+  {
+    "name": "permanence_contract",
+    "type": "text"
+  },
+  {
+    "name": "plan_id",
+    "type": "text"
+  },
+  {
+    "name": "plan_name",
+    "type": "text"
+  },
+  {
+    "name": "power_p1",
+    "type": "double precision"
+  },
+  {
+    "name": "power_p2",
+    "type": "double precision"
+  },
+  {
+    "name": "power_unit",
+    "type": "text"
+  },
+  {
+    "name": "price_evidence",
+    "type": "text"
+  },
+  {
+    "name": "price_notes",
+    "type": "text"
+  },
+  {
+    "name": "price_type",
+    "type": "text"
+  },
+  {
+    "name": "product_type",
+    "type": "text"
+  },
+  {
+    "name": "promo_discount",
+    "type": "text"
+  },
+  {
+    "name": "provider",
+    "type": "text"
+  },
+  {
+    "name": "scraped_at",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "taxes_included",
+    "type": "boolean"
+  },
+  {
+    "name": "telecom_monthly_price_eur",
+    "type": "text"
+  },
+  {
+    "name": "telecom_speed_data",
+    "type": "text"
+  },
+  {
+    "name": "valid_from",
+    "type": "text"
+  }
+]

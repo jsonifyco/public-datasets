@@ -1,0 +1,94 @@
+[
+  {
+    "name": "careers_count_note",
+    "type": "text"
+  },
+  {
+    "name": "careers_page_count",
+    "type": "bigint"
+  },
+  {
+    "name": "careers_page_url",
+    "type": "text"
+  },
+  {
+    "name": "company_domain",
+    "type": "text"
+  },
+  {
+    "name": "company_name",
+    "type": "text"
+  },
+  {
+    "name": "example_job_titles",
+    "type": "jsonb"
+  },
+  {
+    "name": "hybrid_share",
+    "type": "double precision"
+  },
+  {
+    "name": "indeed_count",
+    "type": "bigint"
+  },
+  {
+    "name": "indeed_count_note",
+    "type": "text"
+  },
+  {
+    "name": "indeed_source_url",
+    "type": "text"
+  },
+  {
+    "name": "industry",
+    "type": "jsonb"
+  },
+  {
+    "name": "metrics_basis",
+    "type": "text"
+  },
+  {
+    "name": "most_recent_posting_date",
+    "type": "text"
+  },
+  {
+    "name": "open_roles_total",
+    "type": "bigint"
+  },
+  {
+    "name": "pracuj_count",
+    "type": "bigint"
+  },
+  {
+    "name": "pracuj_distinct_job_groups",
+    "type": "bigint"
+  },
+  {
+    "name": "pracuj_source_url",
+    "type": "text"
+  },
+  {
+    "name": "profile_url",
+    "type": "text"
+  },
+  {
+    "name": "remote_share",
+    "type": "double precision"
+  },
+  {
+    "name": "scraped_at",
+    "type": "text"
+  },
+  {
+    "name": "top_3_job_functions",
+    "type": "jsonb"
+  },
+  {
+    "name": "top_locations",
+    "type": "jsonb"
+  },
+  {
+    "name": "website",
+    "type": "text"
+  }
+]

@@ -1,0 +1,423 @@
+[
+  {
+    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
+    "careers_page_count": null,
+    "careers_page_url": "https://sii.pl/oferty-pracy/",
+    "company_domain": "sii.pl",
+    "company_name": "Sii Sp. z o.o.",
+    "example_job_titles": [
+      "Associate Business Manager – sektor Public & Utilities (f/m/x)",
+      "Senior ServiceNow Developer (f/m/x)",
+      "Python Test Automation Engineer with AWS (f/m/x)"
+    ],
+    "hybrid_share": 0.9053,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Sii+Polska%22&l=Polska",
+    "industry": [
+      "Doradztwo/Konsulting",
+      "Informatyka/Programowanie",
+      "Inżynieria/Konstrukcje/Technologia"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 1489,
+    "pracuj_count": 1489,
+    "pracuj_distinct_job_groups": 184,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20000761&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/sii-polska,s9nqcie,pl",
+    "remote_share": 0.769,
+    "scraped_at": "2026-11-13T17:57:10.229556+00:00",
+    "top_3_job_functions": [
+      "Software Development & Engineering",
+      "Data & Analytics",
+      "IT Consulting & Systems"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Wrocław",
+      "Poznań",
+      "Łódź"
+    ],
+    "website": "https://sii.pl"
+  },
+  {
+    "careers_count_note": "Wyniki 1 – 20 z 1288",
+    "careers_page_count": 1288,
+    "careers_page_url": "https://careers.jeronimomartins.com/Biedronka/search/?locale=pl_PL",
+    "company_domain": "biedronka.pl",
+    "company_name": "Biedronka (Jeronimo Martins Polska S.A.)",
+    "example_job_titles": [
+      "Sprzedawca-kasjer (m/k) | Mile widziane osoby z niepełnosprawnością",
+      "Sprzedawca - Lada Tradycyjna (m/k) | Mile widziane osoby z niepełnosprawnością",
+      "Kierownik sklepu (m/k)"
+    ],
+    "hybrid_share": 0,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Biedronka%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 1288,
+    "pracuj_count": 215,
+    "pracuj_distinct_job_groups": 210,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=921&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/biedronka,qrflle9,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:58:17.351985+00:00",
+    "top_3_job_functions": [
+      "Retail Sales",
+      "Retail Management",
+      "Supply Chain and Logistics"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Olsztyn",
+      "Nowa Wola (pow. piaseczyński)",
+      "Nowy Konik (pow. miński)",
+      "Leoncin (pow. nowodworski)"
+    ],
+    "website": "https://www.biedronka.pl/"
+  },
+  {
+    "careers_count_note": "No easy public careers link found on the employer profile.",
+    "careers_page_count": null,
+    "careers_page_url": null,
+    "company_domain": "capgemini.com",
+    "company_name": "Capgemini Polska",
+    "example_job_titles": [
+      "Project Manager (Custom Application Development, with German)",
+      "Business Analyst (with German)",
+      "Senior Consultant (Workday Integration)"
+    ],
+    "hybrid_share": 1,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Capgemini+%22&l=Polska",
+    "industry": [
+      "Informatyka/Programowanie",
+      "Bankowość/Finanse/Ekonomia",
+      "Doradztwo/Konsulting"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 589,
+    "pracuj_count": 589,
+    "pracuj_distinct_job_groups": 149,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18804842%2C20002367%2C20049398%2C20158356%2C20208904&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/capgemini,y2bsot1,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:56:51.053151+00:00",
+    "top_3_job_functions": [
+      "Software Engineering & Development",
+      "IT Consulting & Architecture",
+      "IT Operations & Infrastructure"
+    ],
+    "top_locations": [
+      "Wrocław",
+      "Gdańsk",
+      "Poznań",
+      "Kraków",
+      "Warszawa"
+    ],
+    "website": "https://www.capgemini.com/pl-pl/"
+  },
+  {
+    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
+    "careers_page_count": null,
+    "careers_page_url": "https://kariera.stokrotka.pl/oferty-pracy/",
+    "company_domain": "stokrotka.pl",
+    "company_name": "Stokrotka Sp. z o.o.",
+    "example_job_titles": [
+      "Magazynier / Magazynierka – Kompletacja Towaru",
+      "Kierowca kat. C / Kierowczyni kat. C",
+      "Pracownik / Pracownica Sklepu - również dla osób z orzeczeniem o niepełnosprawności"
+    ],
+    "hybrid_share": 0,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Stokrotka%22&l=Polska",
+    "industry": [
+      "Handel detaliczny",
+      "Logistyka/Dystrybucja"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 354,
+    "pracuj_count": 354,
+    "pracuj_distinct_job_groups": 26,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20000415&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/stokrotka,dq4od23,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:56:37.210913+00:00",
+    "top_3_job_functions": [
+      "Retail Sales and Store Operations",
+      "Retail Management",
+      "Warehouse and Logistics"
+    ],
+    "top_locations": [
+      "Lublin",
+      "Psary (pow. będziński)",
+      "Koszalin",
+      "Łódź",
+      "Pruszków"
+    ],
+    "website": "https://stokrotka.pl/"
+  },
+  {
+    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
+    "careers_page_count": null,
+    "careers_page_url": "https://www.nn.pl/kariera/lista-ofert",
+    "company_domain": "nn.pl",
+    "company_name": "Nationale-Nederlanden",
+    "example_job_titles": [
+      "Młodszy Menadżer / Młodsza Menadżerka Zespołu Sprzedaży (nowy zespół)",
+      "Analityko-Tester Systemowy / Analityko-Testerka Systemowa",
+      "Doradca / Doradczyni Klienta"
+    ],
+    "hybrid_share": 0.8121,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Nationale-Nederlanden+%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia",
+      "Ubezpieczenia"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 346,
+    "pracuj_count": 346,
+    "pracuj_distinct_job_groups": 15,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18800763&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/nationale-nederlanden,wzfqmr9,pl",
+    "remote_share": 0.0376,
+    "scraped_at": "2026-11-13T17:56:39.433906+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Customer Service",
+      "Management"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Poznań",
+      "Bydgoszcz",
+      "Gdańsk",
+      "Lublin"
+    ],
+    "website": "https://www.nn.pl"
+  },
+  {
+    "careers_count_note": "No easy public careers link found on the employer profile.",
+    "careers_page_count": null,
+    "careers_page_url": null,
+    "company_domain": "randstad.pl",
+    "company_name": "Randstad Polska Sp. z o.o.",
+    "example_job_titles": [
+      "Doradca techniczno-handlowy (branża mięsna/dodatki spożywcze) k/m/x",
+      "Працівник складу з UDT (k/m)",
+      "Specjalista / tka ds. Rozwoju Sprzedaży"
+    ],
+    "hybrid_share": 0.1174,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Randstad+Polska%22&l=Polska",
+    "industry": [
+      "Agencje pracy tymczasowej",
+      "Doradztwo/Konsulting",
+      "Human Resources"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 247,
+    "pracuj_count": 247,
+    "pracuj_distinct_job_groups": 225,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=13645018&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/randstad-polska,qo8gyt9,pl",
+    "remote_share": 0.0162,
+    "scraped_at": "2026-11-13T17:57:05.635301+00:00",
+    "top_3_job_functions": [
+      "Manufacturing & Production",
+      "Warehousing & Logistics",
+      "Sales & Business Development"
+    ],
+    "top_locations": [
+      "Wrocław",
+      "Warszawa",
+      "Kraków",
+      "Łódź",
+      "Poznań"
+    ],
+    "website": "https://www.randstad.pl/"
+  },
+  {
+    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
+    "careers_page_count": null,
+    "careers_page_url": "https://www.uniqa.pl/kariera/",
+    "company_domain": "uniqa.pl",
+    "company_name": "Grupa UNIQA",
+    "example_job_titles": [
+      "Ekspertka/ Ekspert ds. Transformacji Procesów Biznesowych",
+      "Doradca Ubezpieczeniowy K/M (sieci wyłączne) - Nowa kariera zaczyna się tutaj!",
+      "Przedstawiciel Ubezpieczeniowy / Przedstawicielka Ubezpieczeniowa"
+    ],
+    "hybrid_share": 0.0571,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22UNIQA%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia",
+      "Ubezpieczenia"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 245,
+    "pracuj_count": 245,
+    "pracuj_distinct_job_groups": 32,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20002512%2C20006696%2C20022074%2C20130067&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/uniqa,nfpj7gd,pl",
+    "remote_share": 0.4327,
+    "scraped_at": "2026-11-13T17:56:47.125088+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Information Technology",
+      "Insurance Claims"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Łódź",
+      "Wrocław",
+      "Katowice",
+      "Koszalin"
+    ],
+    "website": "https://www.uniqa.pl"
+  },
+  {
+    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
+    "careers_page_count": null,
+    "careers_page_url": "https://kariera.netto.pl/rekrutacja/",
+    "company_domain": "netto.pl",
+    "company_name": "Netto Sp. z o.o.",
+    "example_job_titles": [
+      "Pracownik Magazynowy - operator (k/m/x)",
+      "Specjalista ds. Szkoleń i Rozwoju (k/m/x)",
+      "Pracownik wykładający towar (k/m/x)"
+    ],
+    "hybrid_share": 0.0211,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Netto+Sp.+z+o.o.%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 237,
+    "pracuj_count": 237,
+    "pracuj_distinct_job_groups": 237,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20002146&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/netto-sp-z-o-o,ayg2vpa,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:57:15.579986+00:00",
+    "top_3_job_functions": [
+      "Retail",
+      "Operations",
+      "Human Resources"
+    ],
+    "top_locations": [
+      "Szczecin",
+      "Warszawa",
+      "Poznań",
+      "Łódź",
+      "Wrocław"
+    ],
+    "website": "https://netto.pl/"
+  },
+  {
+    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
+    "careers_page_count": null,
+    "careers_page_url": "https://careeratamrest.com/pl/join-us/",
+    "company_domain": "amrest.eu",
+    "company_name": "AmRest",
+    "example_job_titles": [
+      "Pracownik / Pracowniczka Restauracji KFC Brzeg",
+      "Pracownik / Pracowniczka Restauracji KFC Kierzno Północ MOP S8",
+      "Pracownik / Pracowniczka Restauracji KFC Morzęcino Wschód BP MOP S5"
+    ],
+    "hybrid_share": 0.0088,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22AmRest%22&l=Polska",
+    "industry": [
+      "Katering/Gastronomia"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 226,
+    "pracuj_count": 226,
+    "pracuj_distinct_job_groups": 226,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18804603%2C20074555%2C20375664%2C20375665%2C20375666%2C1074249841&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/amrest,fojsynm,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:57:01.679552+00:00",
+    "top_3_job_functions": [
+      "Food Service",
+      "Retail Operations",
+      "Management"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Gdańsk",
+      "Szczecin",
+      "Wrocław"
+    ],
+    "website": "https://www.amrest.eu/pl"
+  },
+  {
+    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
+    "careers_page_count": null,
+    "careers_page_url": "https://karieranabank.pl/search/?createNewAlert=false&q=&optionsFacetsDD_department=",
+    "company_domain": "pekao.com.pl",
+    "company_name": "Bank Pekao S.A.",
+    "example_job_titles": [
+      "Ekspert / Ekspertka w Zespole Obsługi Kredytowej MŚP",
+      "Główny Specjalista / Główna Specjalistka ds. Finansowania Projektów Inwestycyjnych",
+      "Analityk / Analityczka Biznesowy/a w Departamencie Strategii i Transformacji Bankowości Detalicznej"
+    ],
+    "hybrid_share": 0.5795,
+    "indeed_count": null,
+    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Bank+Pekao%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia",
+      "Informatyka/Programowanie",
+      "Ubezpieczenia"
+    ],
+    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 195,
+    "pracuj_count": 195,
+    "pracuj_distinct_job_groups": 102,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=1081&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/bank-pekao,wuqxuna,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:58:10.200207+00:00",
+    "top_3_job_functions": [
+      "Sales and Customer Service",
+      "Banking and Finance",
+      "Operations"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Łódź",
+      "Poznań",
+      "Szczecin"
+    ],
+    "website": "https://www.pekao.com.pl/"
+  }
+]

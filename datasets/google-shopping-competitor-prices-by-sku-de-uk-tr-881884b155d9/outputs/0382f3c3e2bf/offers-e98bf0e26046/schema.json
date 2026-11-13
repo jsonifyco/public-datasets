@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Availability",
+    "type": "text"
+  },
+  {
+    "name": "Condition",
+    "type": "text"
+  },
+  {
+    "name": "Country",
+    "type": "text"
+  },
+  {
+    "name": "Currency",
+    "type": "text"
+  },
+  {
+    "name": "List price",
+    "type": "double precision"
+  },
+  {
+    "name": "Marketplace seller",
+    "type": "boolean"
+  },
+  {
+    "name": "Match confidence",
+    "type": "double precision"
+  },
+  {
+    "name": "Match method",
+    "type": "text"
+  },
+  {
+    "name": "Observed at",
+    "type": "text"
+  },
+  {
+    "name": "Offer URL",
+    "type": "text"
+  },
+  {
+    "name": "Price",
+    "type": "double precision"
+  },
+  {
+    "name": "Product",
+    "type": "text"
+  },
+  {
+    "name": "Promotion",
+    "type": "text"
+  },
+  {
+    "name": "SKU",
+    "type": "text"
+  },
+  {
+    "name": "Seller",
+    "type": "text"
+  },
+  {
+    "name": "Seller domain",
+    "type": "text"
+  },
+  {
+    "name": "Shipping",
+    "type": "double precision"
+  },
+  {
+    "name": "Status",
+    "type": "text"
+  },
+  {
+    "name": "Total price",
+    "type": "double precision"
+  },
+  {
+    "name": "VAT included",
+    "type": "text"
+  }
+]

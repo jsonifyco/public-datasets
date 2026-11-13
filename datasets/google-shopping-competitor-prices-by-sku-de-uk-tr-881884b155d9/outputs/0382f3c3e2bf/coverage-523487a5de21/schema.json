@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Browser pagination requests",
+    "type": "jsonb"
+  },
+  {
+    "name": "Catalog ID",
+    "type": "text"
+  },
+  {
+    "name": "Comparison summaries excluded",
+    "type": "integer"
+  },
+  {
+    "name": "Complete",
+    "type": "boolean"
+  },
+  {
+    "name": "Country",
+    "type": "text"
+  },
+  {
+    "name": "Discovery required",
+    "type": "boolean"
+  },
+  {
+    "name": "Empty source placeholders",
+    "type": "integer"
+  },
+  {
+    "name": "Mapping status",
+    "type": "text"
+  },
+  {
+    "name": "More offers control",
+    "type": "boolean"
+  },
+  {
+    "name": "Observed at",
+    "type": "text"
+  },
+  {
+    "name": "Offer count",
+    "type": "integer"
+  },
+  {
+    "name": "Pagination terminal",
+    "type": "text"
+  },
+  {
+    "name": "Reason",
+    "type": "text"
+  },
+  {
+    "name": "Requests",
+    "type": "jsonb"
+  },
+  {
+    "name": "SKU",
+    "type": "text"
+  },
+  {
+    "name": "Status",
+    "type": "text"
+  }
+]

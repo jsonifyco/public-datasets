@@ -1,0 +1,50 @@
+[
+  {
+    "name": "source_name",
+    "type": "text"
+  },
+  {
+    "name": "category_url",
+    "type": "text"
+  },
+  {
+    "name": "route_url",
+    "type": "text"
+  },
+  {
+    "name": "category_name",
+    "type": "text"
+  },
+  {
+    "name": "retailer",
+    "type": "text"
+  },
+  {
+    "name": "store_name",
+    "type": "text"
+  },
+  {
+    "name": "store_address",
+    "type": "text"
+  },
+  {
+    "name": "store_id",
+    "type": "text"
+  },
+  {
+    "name": "location_scope",
+    "type": "text"
+  },
+  {
+    "name": "store_url",
+    "type": "text"
+  },
+  {
+    "name": "category_id",
+    "type": "text"
+  },
+  {
+    "name": "category_level",
+    "type": "integer"
+  }
+]

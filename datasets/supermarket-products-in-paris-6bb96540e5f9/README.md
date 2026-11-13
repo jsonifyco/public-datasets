@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\.
+Product listings and prices from French supermarket retailers, including Carrefour, E\.Leclerc, Auchan, Intermarché, Super U and Monoprix\. The published tables contain 174,200 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 62
-- Last published: 2026-11-02T14:53:40.285101Z
+- Active pipeline version: 66
+- Last published: 2026-11-12T21:39:00.849257Z
 
 ## The brief
 
-> I need this data: Paris supermarket product listings and prices from Carrefour, E\.Leclerc, Auchan, Intermarché, Super U, Monoprix and other retailers\.
+> I need this data: Product listings and prices from French supermarket retailers, including Carrefour, E\.Leclerc, Auchan, Intermarché, Super U and Monoprix\. The published tables contain 174,200 rows\.
 
 Summary from the public dataset description.
 
 ## Supermarket Products in France / products
 
-169,176 total rows · 50 sampled · Output revision 5
-Published: 2026-11-02T14:53:40.285101Z · Producing pipeline version: 46
+170,556 total rows · 50 sampled · Output revision 8
+Published: 2026-11-12T21:39:00.841915Z · Producing pipeline version: 66
 
 [CSV sample](outputs/5bba15b41143/products-0a3e27b8ca81/sample.csv) · [JSON sample](outputs/5bba15b41143/products-0a3e27b8ca81/sample.json) · [Schema](outputs/5bba15b41143/products-0a3e27b8ca81/schema.json)
 
@@ -62,8 +62,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Supermarket Products in France / categories
 
-2,689 total rows · 50 sampled · Output revision 5
-Published: 2026-11-02T14:53:40.285101Z · Producing pipeline version: 46
+2,608 total rows · 50 sampled · Output revision 8
+Published: 2026-11-12T21:39:00.841915Z · Producing pipeline version: 66
 
 [CSV sample](outputs/5bba15b41143/categories-a6216ea03e57/sample.csv) · [JSON sample](outputs/5bba15b41143/categories-a6216ea03e57/sample.json) · [Schema](outputs/5bba15b41143/categories-a6216ea03e57/schema.json)
 
@@ -93,6 +93,40 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | category\_url | text |
 | started\_at | text |
 | completed\_at | text |
+
+## Supermarket Products in Paris / departments
+
+1,036 total rows · 50 sampled · Output revision 3
+Published: 2026-11-12T21:39:00.849257Z · Producing pipeline version: 66
+
+[CSV sample](outputs/732f571c43aa/departments-fc3bfaaef787/sample.csv) · [JSON sample](outputs/732f571c43aa/departments-fc3bfaaef787/sample.json) · [Schema](outputs/732f571c43aa/departments-fc3bfaaef787/schema.json)
+
+| source\_name | category\_url | route\_url | category\_name | retailer | store\_name | store\_address | store\_id |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Auchan | [https://www\.auchan\.fr/oeufs\-produits\-laitiers/ca\-n01](<https://www.auchan.fr/oeufs-produits-laitiers/ca-n01>) | [https://www\.auchan\.fr/oeufs\-produits\-laitiers/ca\-n01](<https://www.auchan.fr/oeufs-produits-laitiers/ca-n01>) | Produits laitiers, oeufs, fromages | Auchan | Auchan Click&amp;Collect Supermarché Tolbiac\-Paris | 204 Rue de Tolbiac, 75013 Paris | 6197 |
+| Courses U | [https://www\.coursesu\.com/c/chocolats\-de\-noel/chocolats\-et\-specialites\-a\-offrir/liqueurs](<https://www.coursesu.com/c/chocolats-de-noel/chocolats-et-specialites-a-offrir/liqueurs>) | [https://www\.coursesu\.com/c/chocolats\-de\-noel/chocolats\-et\-specialites\-a\-offrir/liqueurs](<https://www.coursesu.com/c/chocolats-de-noel/chocolats-et-specialites-a-offrir/liqueurs>) | Liqueurs | Super U | Super U Paris Custine | 48B rue Custine, 75018 | 20015 |
+| Courses U | [https://www\.coursesu\.com/c/produits\-laitiers\-oeufs\-et\-fromages/fromages\-a\-deguster/fromages\-enfant\-et\-portions\-individuelles](<https://www.coursesu.com/c/produits-laitiers-oeufs-et-fromages/fromages-a-deguster/fromages-enfant-et-portions-individuelles>) | [https://www\.coursesu\.com/c/produits\-laitiers\-oeufs\-et\-fromages/fromages\-a\-deguster/fromages\-enfant\-et\-portions\-individuelles](<https://www.coursesu.com/c/produits-laitiers-oeufs-et-fromages/fromages-a-deguster/fromages-enfant-et-portions-individuelles>) | Fromages enfant et portions individuelles | Super U | Super U Paris Custine | 48B rue Custine, 75018 | 20015 |
+| Courses U | [https://www\.coursesu\.com/c/entretien\-et\-nettoyage/nettoyants/eponge\-et\-tampon](<https://www.coursesu.com/c/entretien-et-nettoyage/nettoyants/eponge-et-tampon>) | [https://www\.coursesu\.com/c/entretien\-et\-nettoyage/nettoyants/eponge\-et\-tampon](<https://www.coursesu.com/c/entretien-et-nettoyage/nettoyants/eponge-et-tampon>) | Eponge et tampon | Super U | Super U Paris Custine | 48B rue Custine, 75018 | 20015 |
+| Courses U | [https://www\.coursesu\.com/c/viandes\-poissons/traiteur\-de\-la\-mer/aperitif\-et\-crevettes\-decortiquees](<https://www.coursesu.com/c/viandes-poissons/traiteur-de-la-mer/aperitif-et-crevettes-decortiquees>) | [https://www\.coursesu\.com/c/viandes\-poissons/traiteur\-de\-la\-mer/aperitif\-et\-crevettes\-decortiquees](<https://www.coursesu.com/c/viandes-poissons/traiteur-de-la-mer/aperitif-et-crevettes-decortiquees>) | Apéritif et crevettes décortiquées | Super U | Super U Paris Custine | 48B rue Custine, 75018 | 20015 |
+
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
+
+### Schema
+
+| Column | Type |
+| --- | --- |
+| source\_name | text |
+| category\_url | text |
+| route\_url | text |
+| category\_name | text |
+| retailer | text |
+| store\_name | text |
+| store\_address | text |
+| store\_id | text |
+| location\_scope | text |
+| store\_url | text |
+| category\_id | text |
+| category\_level | integer |
 
 ## How the pipeline works
 

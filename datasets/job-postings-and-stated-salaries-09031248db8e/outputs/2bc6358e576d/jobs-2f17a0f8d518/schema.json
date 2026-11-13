@@ -1,0 +1,122 @@
+[
+  {
+    "name": "annualisation_basis",
+    "type": "text"
+  },
+  {
+    "name": "annualised_salary_max",
+    "type": "double precision"
+  },
+  {
+    "name": "annualised_salary_min",
+    "type": "double precision"
+  },
+  {
+    "name": "canonical_job_id",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "company",
+    "type": "text"
+  },
+  {
+    "name": "compensation_notes",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "employer_job_url",
+    "type": "text"
+  },
+  {
+    "name": "job_id",
+    "type": "text"
+  },
+  {
+    "name": "location",
+    "type": "text"
+  },
+  {
+    "name": "period",
+    "type": "text"
+  },
+  {
+    "name": "posted_date",
+    "type": "text"
+  },
+  {
+    "name": "requisition_id",
+    "type": "text"
+  },
+  {
+    "name": "role_family",
+    "type": "text"
+  },
+  {
+    "name": "salary_basis",
+    "type": "text"
+  },
+  {
+    "name": "salary_evidence",
+    "type": "text"
+  },
+  {
+    "name": "salary_evidence_url",
+    "type": "text"
+  },
+  {
+    "name": "salary_max",
+    "type": "double precision"
+  },
+  {
+    "name": "salary_min",
+    "type": "double precision"
+  },
+  {
+    "name": "salary_payments_per_year",
+    "type": "numeric"
+  },
+  {
+    "name": "salary_period_evidence",
+    "type": "text"
+  },
+  {
+    "name": "seniority",
+    "type": "text"
+  },
+  {
+    "name": "skills",
+    "type": "jsonb"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "work_arrangement",
+    "type": "text"
+  }
+]

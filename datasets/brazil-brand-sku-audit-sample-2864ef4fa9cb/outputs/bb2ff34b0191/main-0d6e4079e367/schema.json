@@ -1,0 +1,86 @@
+[
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "detail_captured_at",
+    "type": "text"
+  },
+  {
+    "name": "evidence_url",
+    "type": "text"
+  },
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "key_attributes",
+    "type": "jsonb"
+  },
+  {
+    "name": "list_was_price_brl",
+    "type": "double precision"
+  },
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "listing_title",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "marketplace",
+    "type": "text"
+  },
+  {
+    "name": "official_store_flag",
+    "type": "boolean"
+  },
+  {
+    "name": "price_brl",
+    "type": "double precision"
+  },
+  {
+    "name": "price_terms",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "review_count",
+    "type": "integer"
+  },
+  {
+    "name": "review_count_basis",
+    "type": "text"
+  },
+  {
+    "name": "search_captured_at",
+    "type": "text"
+  },
+  {
+    "name": "seller_id",
+    "type": "text"
+  },
+  {
+    "name": "seller_name",
+    "type": "text"
+  },
+  {
+    "name": "source_brand",
+    "type": "text"
+  }
+]

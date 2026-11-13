@@ -1,0 +1,94 @@
+[
+  {
+    "name": "area",
+    "type": "text"
+  },
+  {
+    "name": "base_marina",
+    "type": "text"
+  },
+  {
+    "name": "cabins",
+    "type": "integer"
+  },
+  {
+    "name": "captured_date",
+    "type": "text"
+  },
+  {
+    "name": "charter_company",
+    "type": "text"
+  },
+  {
+    "name": "check_in",
+    "type": "text"
+  },
+  {
+    "name": "check_out",
+    "type": "text"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "island_or_region",
+    "type": "text"
+  },
+  {
+    "name": "length_m",
+    "type": "double precision"
+  },
+  {
+    "name": "marketplace",
+    "type": "text"
+  },
+  {
+    "name": "price_notes",
+    "type": "text"
+  },
+  {
+    "name": "source_price_basis",
+    "type": "text"
+  },
+  {
+    "name": "source_yacht_type",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "vat_excluded",
+    "type": "boolean"
+  },
+  {
+    "name": "weekly_price_high_season_eur",
+    "type": "text"
+  },
+  {
+    "name": "weekly_price_low_season_eur",
+    "type": "text"
+  },
+  {
+    "name": "weekly_search_price_eur",
+    "type": "text"
+  },
+  {
+    "name": "yacht_model",
+    "type": "text"
+  },
+  {
+    "name": "yacht_name",
+    "type": "text"
+  },
+  {
+    "name": "yacht_type",
+    "type": "text"
+  }
+]

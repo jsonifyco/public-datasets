@@ -1,73 +1,5 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-11-13T08:01:06.483289+00:00,2026-11-12T17:45:16Z,0,427059508,Release v2.7.0 🌈,"## ⚠️ Important Upgrade Notes
-
-- Helm chart: if you set some `probes` keys, the keys you did not set now take the new defaults (10 s period, 5 s timeout). If you tuned `failureThreshold` for the old 60 s period, also set `periodSeconds: 60`. Probe values that are not positive integers now fail `helm install` and `helm upgrade`. Quoted numbers such as `""5""` still work. ([#42571](https://github.com/appsmithorg/appsmith/pull/42571))
-- `navigateTo` to a page name that no longer exists now fails with ""Enter a valid URL or page name"", even when a parameter value contains a dot. Before, it opened the name as a web address, such as `https://OldPage?file=report.pdf`. A one-word host such as `intranet` with a dotted parameter now fails too. Use a full URL instead. ([#42513](https://github.com/appsmithorg/appsmith/pull/42513))
-
-## 🔐 Security
-
-- Updated bundled dependencies to address a reported vulnerability. ([#42502](https://github.com/appsmithorg/appsmith/pull/42502))
-- Reading an app's custom JS libraries now requires read access to that app. ([#42431](https://github.com/appsmithorg/appsmith/pull/42431))
-- Turning on **Make application forkable** now requires export permission on the app. Users with edit access can still turn it off and make other changes. ([#42411](https://github.com/appsmithorg/appsmith/pull/42411))
-- S3-compatible and DynamoDB datasources now follow the restricted host policy that already covers REST, GraphQL, Elasticsearch, Redis and SMTP. A datasource whose endpoint host is blocked fails to save, test or run with `Host not allowed.` ([#42527](https://github.com/appsmithorg/appsmith/pull/42527))
-
-## 🛠️ Reliability
-
-- Deleting a Git-connected app returns as soon as the app is removed. Local repository cleanup runs afterwards, so a slow disk no longer makes the delete time out and leave the app card in place. ([#42519](https://github.com/appsmithorg/appsmith/pull/42519))
-- MCP `read_pages` returns a `layoutId` for every page. Parallel page reads are no longer refused by the token check, a failed read is retried once, and a page that still fails reports why. ([#42360](https://github.com/appsmithorg/appsmith/pull/42360), [#42529](https://github.com/appsmithorg/appsmith/pull/42529))
-- MCP refuses inputs that used to give broken or wrong results. Examples: unbalanced braces in `wire_event` call arguments, a page from another app in layout tools, and a structured SQL filter on a column named like a SQL keyword. ([#42536](https://github.com/appsmithorg/appsmith/pull/42536), [#42537](https://github.com/appsmithorg/appsmith/pull/42537))
-- MCP layout updates are refused when the page changed after the agent read it. ([#42538](https://github.com/appsmithorg/appsmith/pull/42538))
-
-## ✨ New Features & Enhancements
-
-- **Table auto height:** set the Table's **Height** to **Auto Height** (or **Auto Height with limits**) and choose **Rows per page**. The table grows to fit those rows and the page scrolls instead of the table. Existing tables stay **Fixed**. ([#42489](https://github.com/appsmithorg/appsmith/pull/42489), [#42585](https://github.com/appsmithorg/appsmith/pull/42585))
-- App Settings → Navigation has **Show share** and **Show all apps** toggles to hide those buttons in the published app. Both are on by default. Sharing permissions do not change. ([#42487](https://github.com/appsmithorg/appsmith/pull/42487))
-- Page export (page menu → **Export**) has **Select All** in every section: JS objects, Databases, Queries and Custom libraries. ([#42453](https://github.com/appsmithorg/appsmith/pull/42453))
-- Button Group buttons can show a tooltip, as the Button widget does. ([#42583](https://github.com/appsmithorg/appsmith/pull/42583))
-- JSON Form has a **Title font color** setting under Style → Color. ([#42565](https://github.com/appsmithorg/appsmith/pull/42565))
-- MCP structured SQL can show a fallback value for a NULL column with `coalesce`. ([#42497](https://github.com/appsmithorg/appsmith/pull/42497))
-- MCP structured SQL can filter aggregated groups with `having`. ([#42503](https://github.com/appsmithorg/appsmith/pull/42503))
-- MCP structured SQL can split a delimited column and count each item, on PostgreSQL. ([#42504](https://github.com/appsmithorg/appsmith/pull/42504))
-- MCP `get_action` returns the SQL of a query that MCP wrote, as long as nobody changed it in the editor. ([#42505](https://github.com/appsmithorg/appsmith/pull/42505))
-- New MCP tool `set_page_visibility` hides or shows a page. The home page cannot be hidden. ([#42506](https://github.com/appsmithorg/appsmith/pull/42506))
-- MCP navigate events can pass URL parameters, such as the id of the selected row. ([#42507](https://github.com/appsmithorg/appsmith/pull/42507))
-- Removing widgets through MCP now needs the user's approval (`prepare_remove_widgets`, `confirm_remove_widgets`), as deleting a page or query already does. ([#42509](https://github.com/appsmithorg/appsmith/pull/42509))
-- MCP JS objects can sort, cut, sum, average and group rows, and bucket dates by day, week or month. ([#42511](https://github.com/appsmithorg/appsmith/pull/42511))
-- MCP can build conditional forms: defaults and limits that depend on a choice, date math, fields shown or required in one case, a submit button disabled until the form is valid, and the signed-in user's name or email. ([#42540](https://github.com/appsmithorg/appsmith/pull/42540))
-- MCP can read JS objects written in the editor. Where approval is set up, it can replace them after the user approves. ([#42538](https://github.com/appsmithorg/appsmith/pull/42538))
-- MCP writes JS objects as readable, formatted code. ([#42549](https://github.com/appsmithorg/appsmith/pull/42549))
-- MCP structured queries produce a runnable body on Oracle and use strict values in MongoDB queries. ([#42538](https://github.com/appsmithorg/appsmith/pull/42538))
-
-## 🎨 UI & Widget Improvements
-
-- Table CSV and Excel downloads write plain text for HTML columns, not raw HTML. ([#42557](https://github.com/appsmithorg/appsmith/pull/42557))
-- Icon Button, Menu Button and Video controls in Table cells fit the row height, so paginated tables no longer need a scrollbar to reach the last row. ([#42570](https://github.com/appsmithorg/appsmith/pull/42570))
-- Turning off infinite scroll in a Table no longer turns on **Allow adding a row**, search, filters and sort. They stay off until you turn them on. ([#42573](https://github.com/appsmithorg/appsmith/pull/42573))
-- The Table Save/Discard column **Disabled** field shows its full binding again. Editing it no longer enables Save/Discard on every row. ([#42589](https://github.com/appsmithorg/appsmith/pull/42589))
-- Resetting a JSON Form keeps an empty Array field empty, so the form stays valid. ([#42226](https://github.com/appsmithorg/appsmith/pull/42226))
-- A required date field in JSON Form shows its error only after the user touches it, like other fields. ([#42514](https://github.com/appsmithorg/appsmith/pull/42514))
-- The workspace logo picker no longer offers SVG, which the server always rejected. JPG files can now be picked. ([#42594](https://github.com/appsmithorg/appsmith/pull/42594))
-- The editor hides the retired Appsmith AI datasource and its queries. The service stopped on September 30, 2026. Ask AI is not affected. ([#42559](https://github.com/appsmithorg/appsmith/pull/42559))
-
-## 🔧 Git, Deployment & Configuration
-
-- Helm chart health probes now run every 10 s with a 5 s timeout. Startup allows 600 s to boot, liveness restarts the container after 180 s of failure, and readiness marks the pod unready after 30 s. Saving admin settings that restart the server no longer gets the container killed. ([#42571](https://github.com/appsmithorg/appsmith/pull/42571))
-- Backups can skip MongoDB collections listed in `APPSMITH_BACKUP_EXCLUDE_COLLECTIONS` (comma-separated). ([#42581](https://github.com/appsmithorg/appsmith/pull/42581))
-- The server logs why it refuses an MCP token, such as an expired or revoked key. It never logs the secret. ([#42593](https://github.com/appsmithorg/appsmith/pull/42593))",https://github.com/appsmithorg/appsmith/releases/tag/v2.7.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.7.0
-2026-11-13T08:01:06.427840+00:00,2026-11-12T08:34:10Z,0,442674271,n8n@2.47.5,"## [2.47.5](https://github.com/n8n-io/n8n/compare/n8n@2.47.4...n8n@2.47.5) (2026-11-12)
-
-
-### Bug Fixes
-
-* **API:** Reject edits to read-only credential nodes in the Public API ([#43555](https://github.com/n8n-io/n8n/issues/43555)) ([404b3df](https://github.com/n8n-io/n8n/commit/404b3dfd1e427f918e1de50eb41cfbfa39f624af))
-* **editor:** Align animated node border corners ([#43549](https://github.com/n8n-io/n8n/issues/43549)) ([1fd6894](https://github.com/n8n-io/n8n/commit/1fd68944f11881dc4602784183ae3ae83e3af33e))
-
-<!-- This is an auto-generated description by cubic. -->
-<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/43602?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/43602?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F43602&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
-<!-- End of auto-generated description by cubic. -->
-
-",https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.5,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.47.5
-2026-11-13T08:01:06.384013+00:00,2026-11-10T16:40:12Z,2,440627454,v4.0.0,"## What's Changed
+2026-11-14T08:00:32.720801+00:00,2026-11-10T16:40:12Z,3,440627454,v4.0.0,"## What's Changed
 * Persist AI_AGENT and AUTOMATION_STEP platform actions locally by @jvcalderon in https://github.com/Budibase/budibase/pull/19587
 * Enrich AUTOMATION_STEP action telemetry with automation run context by @jvcalderon in https://github.com/Budibase/budibase/pull/19570
 * Infer agent-session container status (active/waiting/completed/failed) by @jvcalderon in https://github.com/Budibase/budibase/pull/19616
@@ -161,3 +93,70 @@ checked_at,published_at,release_age_days,release_id,release_name,release_notes,r
 * @EazyHood made their first contribution in https://github.com/Budibase/budibase/pull/19918
 
 **Full Changelog**: https://github.com/Budibase/budibase/compare/v3.51.0...v4.0.0",https://github.com/Budibase/budibase/releases/tag/v4.0.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.0.0
+2026-11-14T08:00:32.598317+00:00,2026-11-12T17:45:16Z,1,427059508,Release v2.7.0 🌈,"## ⚠️ Important Upgrade Notes
+
+- Helm chart: if you set some `probes` keys, the keys you did not set now take the new defaults (10 s period, 5 s timeout). If you tuned `failureThreshold` for the old 60 s period, also set `periodSeconds: 60`. Probe values that are not positive integers now fail `helm install` and `helm upgrade`. Quoted numbers such as `""5""` still work. ([#42571](https://github.com/appsmithorg/appsmith/pull/42571))
+- `navigateTo` to a page name that no longer exists now fails with ""Enter a valid URL or page name"", even when a parameter value contains a dot. Before, it opened the name as a web address, such as `https://OldPage?file=report.pdf`. A one-word host such as `intranet` with a dotted parameter now fails too. Use a full URL instead. ([#42513](https://github.com/appsmithorg/appsmith/pull/42513))
+
+## 🔐 Security
+
+- Updated bundled dependencies to address a reported vulnerability. ([#42502](https://github.com/appsmithorg/appsmith/pull/42502))
+- Reading an app's custom JS libraries now requires read access to that app. ([#42431](https://github.com/appsmithorg/appsmith/pull/42431))
+- Turning on **Make application forkable** now requires export permission on the app. Users with edit access can still turn it off and make other changes. ([#42411](https://github.com/appsmithorg/appsmith/pull/42411))
+- S3-compatible and DynamoDB datasources now follow the restricted host policy that already covers REST, GraphQL, Elasticsearch, Redis and SMTP. A datasource whose endpoint host is blocked fails to save, test or run with `Host not allowed.` ([#42527](https://github.com/appsmithorg/appsmith/pull/42527))
+
+## 🛠️ Reliability
+
+- Deleting a Git-connected app returns as soon as the app is removed. Local repository cleanup runs afterwards, so a slow disk no longer makes the delete time out and leave the app card in place. ([#42519](https://github.com/appsmithorg/appsmith/pull/42519))
+- MCP `read_pages` returns a `layoutId` for every page. Parallel page reads are no longer refused by the token check, a failed read is retried once, and a page that still fails reports why. ([#42360](https://github.com/appsmithorg/appsmith/pull/42360), [#42529](https://github.com/appsmithorg/appsmith/pull/42529))
+- MCP refuses inputs that used to give broken or wrong results. Examples: unbalanced braces in `wire_event` call arguments, a page from another app in layout tools, and a structured SQL filter on a column named like a SQL keyword. ([#42536](https://github.com/appsmithorg/appsmith/pull/42536), [#42537](https://github.com/appsmithorg/appsmith/pull/42537))
+- MCP layout updates are refused when the page changed after the agent read it. ([#42538](https://github.com/appsmithorg/appsmith/pull/42538))
+
+## ✨ New Features & Enhancements
+
+- **Table auto height:** set the Table's **Height** to **Auto Height** (or **Auto Height with limits**) and choose **Rows per page**. The table grows to fit those rows and the page scrolls instead of the table. Existing tables stay **Fixed**. ([#42489](https://github.com/appsmithorg/appsmith/pull/42489), [#42585](https://github.com/appsmithorg/appsmith/pull/42585))
+- App Settings → Navigation has **Show share** and **Show all apps** toggles to hide those buttons in the published app. Both are on by default. Sharing permissions do not change. ([#42487](https://github.com/appsmithorg/appsmith/pull/42487))
+- Page export (page menu → **Export**) has **Select All** in every section: JS objects, Databases, Queries and Custom libraries. ([#42453](https://github.com/appsmithorg/appsmith/pull/42453))
+- Button Group buttons can show a tooltip, as the Button widget does. ([#42583](https://github.com/appsmithorg/appsmith/pull/42583))
+- JSON Form has a **Title font color** setting under Style → Color. ([#42565](https://github.com/appsmithorg/appsmith/pull/42565))
+- MCP structured SQL can show a fallback value for a NULL column with `coalesce`. ([#42497](https://github.com/appsmithorg/appsmith/pull/42497))
+- MCP structured SQL can filter aggregated groups with `having`. ([#42503](https://github.com/appsmithorg/appsmith/pull/42503))
+- MCP structured SQL can split a delimited column and count each item, on PostgreSQL. ([#42504](https://github.com/appsmithorg/appsmith/pull/42504))
+- MCP `get_action` returns the SQL of a query that MCP wrote, as long as nobody changed it in the editor. ([#42505](https://github.com/appsmithorg/appsmith/pull/42505))
+- New MCP tool `set_page_visibility` hides or shows a page. The home page cannot be hidden. ([#42506](https://github.com/appsmithorg/appsmith/pull/42506))
+- MCP navigate events can pass URL parameters, such as the id of the selected row. ([#42507](https://github.com/appsmithorg/appsmith/pull/42507))
+- Removing widgets through MCP now needs the user's approval (`prepare_remove_widgets`, `confirm_remove_widgets`), as deleting a page or query already does. ([#42509](https://github.com/appsmithorg/appsmith/pull/42509))
+- MCP JS objects can sort, cut, sum, average and group rows, and bucket dates by day, week or month. ([#42511](https://github.com/appsmithorg/appsmith/pull/42511))
+- MCP can build conditional forms: defaults and limits that depend on a choice, date math, fields shown or required in one case, a submit button disabled until the form is valid, and the signed-in user's name or email. ([#42540](https://github.com/appsmithorg/appsmith/pull/42540))
+- MCP can read JS objects written in the editor. Where approval is set up, it can replace them after the user approves. ([#42538](https://github.com/appsmithorg/appsmith/pull/42538))
+- MCP writes JS objects as readable, formatted code. ([#42549](https://github.com/appsmithorg/appsmith/pull/42549))
+- MCP structured queries produce a runnable body on Oracle and use strict values in MongoDB queries. ([#42538](https://github.com/appsmithorg/appsmith/pull/42538))
+
+## 🎨 UI & Widget Improvements
+
+- Table CSV and Excel downloads write plain text for HTML columns, not raw HTML. ([#42557](https://github.com/appsmithorg/appsmith/pull/42557))
+- Icon Button, Menu Button and Video controls in Table cells fit the row height, so paginated tables no longer need a scrollbar to reach the last row. ([#42570](https://github.com/appsmithorg/appsmith/pull/42570))
+- Turning off infinite scroll in a Table no longer turns on **Allow adding a row**, search, filters and sort. They stay off until you turn them on. ([#42573](https://github.com/appsmithorg/appsmith/pull/42573))
+- The Table Save/Discard column **Disabled** field shows its full binding again. Editing it no longer enables Save/Discard on every row. ([#42589](https://github.com/appsmithorg/appsmith/pull/42589))
+- Resetting a JSON Form keeps an empty Array field empty, so the form stays valid. ([#42226](https://github.com/appsmithorg/appsmith/pull/42226))
+- A required date field in JSON Form shows its error only after the user touches it, like other fields. ([#42514](https://github.com/appsmithorg/appsmith/pull/42514))
+- The workspace logo picker no longer offers SVG, which the server always rejected. JPG files can now be picked. ([#42594](https://github.com/appsmithorg/appsmith/pull/42594))
+- The editor hides the retired Appsmith AI datasource and its queries. The service stopped on September 30, 2026. Ask AI is not affected. ([#42559](https://github.com/appsmithorg/appsmith/pull/42559))
+
+## 🔧 Git, Deployment & Configuration
+
+- Helm chart health probes now run every 10 s with a 5 s timeout. Startup allows 600 s to boot, liveness restarts the container after 180 s of failure, and readiness marks the pod unready after 30 s. Saving admin settings that restart the server no longer gets the container killed. ([#42571](https://github.com/appsmithorg/appsmith/pull/42571))
+- Backups can skip MongoDB collections listed in `APPSMITH_BACKUP_EXCLUDE_COLLECTIONS` (comma-separated). ([#42581](https://github.com/appsmithorg/appsmith/pull/42581))
+- The server logs why it refuses an MCP token, such as an expired or revoked key. It never logs the secret. ([#42593](https://github.com/appsmithorg/appsmith/pull/42593))",https://github.com/appsmithorg/appsmith/releases/tag/v2.7.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.7.0
+2026-11-14T08:00:32.643298+00:00,2026-11-13T09:44:36Z,0,444055878,n8n@2.47.7,"## [2.47.7](https://github.com/n8n-io/n8n/compare/n8n@2.47.6...n8n@2.47.7) (2026-11-13)
+
+
+### Bug Fixes
+
+* **core:** Stop redacting executions that use global credentials ([#43776](https://github.com/n8n-io/n8n/issues/43776)) ([c067170](https://github.com/n8n-io/n8n/commit/c0671702ca19e108652e5ac0e289e32e0a33e5e4))
+
+<!-- This is an auto-generated description by cubic. -->
+<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/43784?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/43784?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F43784&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
+<!-- End of auto-generated description by cubic. -->
+
+",https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.47.7

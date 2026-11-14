@@ -28,7 +28,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [UK Early\-Stage Venture Capital Firms](datasets/uk-early-stage-venture-capital-firms-28b20bfd56d1/) | 50 | On demand | 2026-11-13T16:00:54.241404Z |
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 3,390 | weekly | 2026-11-09T06:11:59.795571Z |
-| [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 3,984 | daily | 2026-11-13T07:05:57.421841Z |
+| [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 4,256 | daily | 2026-11-14T06:04:11.205954Z |
 | [LlamaIndex Module Guides Articles](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Meta and TikTok Ad Intelligence Demo: Ads, Products, and Creative Signals](datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7/) | 288 | On demand | 2026-11-09T12:20:15.420061Z |
 | [INTELLIAAI YouTube Search Placement Discovery](datasets/intelliaai-youtube-search-placement-discovery-3611412d36d3/) | 1,703 | On demand | 2026-11-07T20:17:07.106600Z |
@@ -50,14 +50,15 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Portugal2030 Grant Notices](datasets/portugal2030-grants-59ddd491d0c8/) | 1,511 | weekly | 2026-11-09T09:31:42.756325Z |
 | [Streaming Subscription Prices by Country: Official Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 7,036 | weekly | 2026-11-10T06:41:40.331008Z |
 | [AI Company Job Postings Data](datasets/ai-company-job-postings-5bae5dc811a8/) | 5,262 | weekly | 2026-11-09T07:02:07.554096Z |
-| [Low\-Code Release Radar: n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-13T08:01:10.124311Z |
-| [Portugal Insolvency Notices](datasets/insolvency-notices-pt-5cf39e22f64e/) | 498 | daily | 2026-11-13T06:24:44.950331Z |
+| [Low\-Code Release Radar: n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-14T08:00:36.672098Z |
+| [Portugal Insolvency Notices](datasets/insolvency-notices-pt-5cf39e22f64e/) | 680 | daily | 2026-11-14T06:35:20.365413Z |
 | [Jivamukti Yoga Barcelona Team and Instagram Directory](datasets/jivamukti-barcelona-team-instagram-5f425fa222f9/) | 8 | On demand | 2026-10-23T15:24:45.459748Z |
 | [Dutch Supermarket Prices and Matched Products](datasets/dutch-supermarket-prices-and-matched-products-5ff5cc5432bd/) | 3,083 | On demand | 2026-11-13T16:02:24.087625Z |
 | [8\-K Filings Dataset: S&amp;P 500 Current Reports](datasets/s-p-500-sec-8-k-filings-61608a881b67/) | 946 | weekly | 2026-11-09T08:04:47.841284Z |
 | [TikTok and YouTube Shorts Posts with Music Credits](datasets/social-posts-and-music-credits-618da9615d86/) | 25 | On demand | 2026-10-21T14:32:02.901284Z |
 | [Meta Quest App Catalogue and Charts](datasets/meta-quest-catalogue-and-charts-64282414adae/) | 13,060 | On demand | 2026-11-08T04:48:01.869925Z |
-| [Google Shopping Catalog Discovery](datasets/feedance-google-shopping-catalog-discovery-68fe77c792b8/) | 150 | daily | 2026-11-13T05:09:01.747211Z |
+| [Interconnection Queue Data: CAISO, NYISO and BPA, Weekly](datasets/us-generator-interconnection-queues-68fb9ee25003/) | 3,520 | weekly | 2026-11-14T08:35:34.806797Z |
+| [Google Shopping Catalog Discovery](datasets/feedance-google-shopping-catalog-discovery-68fe77c792b8/) | 150 | daily | 2026-11-14T05:04:12.200880Z |
 | [Paris Supermarket Prices and Product Catalogue](datasets/supermarket-products-in-paris-6bb96540e5f9/) | 174,200 | On demand | 2026-11-12T21:39:00.849257Z |
 | [Louis Vuitton Neverfull Prices by Country](datasets/louis-vuitton-neverfull-prices-by-country-6bce6c1fc1cf/) | 24 | On demand | 2026-11-09T09:25:41.805200Z |
 | [INTELLIAAI YouTube Placement Sample](datasets/intelliaai-youtube-placement-sample-6cd4514c0219/) | 2,800 | On demand | 2026-11-08T05:19:30.148851Z |

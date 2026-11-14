@@ -20,6 +20,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Lisbon Venue Accessibility](datasets/lisbon-venue-accessibility-14d9f76469c1/) | 298 | On demand | 2026-11-11T12:59:22.049505Z |
 | [Coffee Capsule Prices in Portugal](datasets/coffee-capsule-shelf-pt-15625f7dd7ac/) | 1,178 | On demand | 2026-11-09T06:33:55.941367Z |
 | [Iberian Endurance Events](datasets/aurea77-iberian-endurance-events-15c76f799e90/) | 394 | On demand | 2026-11-11T20:40:20.829684Z |
+| [Marktplaats Car Dealers](datasets/marktplaats-car-dealers-16546ec450b2/) | 50 | weekly | 2026-11-14T18:18:27.556780Z |
 | [Companies Hiring at Scale in Poland](datasets/companies-hiring-at-scale-in-poland-50-open-roles-1be11bee1c95/) | 96 | On demand | 2026-11-13T18:22:40.358613Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [Brazilian Apartment Prices per m²](datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4/) | 540 | On demand | 2026-11-09T12:51:52.148844Z |
@@ -78,6 +79,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [LLM API Pricing: Official Standard Text and Chat Model Rates](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |
 | [Wellness Practitioners in Lisbon, Porto, Barcelona and London](datasets/wellness-practitioners-across-cities-8fedaa1baebd/) | 200 | On demand | 2026-10-22T14:20:21.555858Z |
 | [Portugal Food and Drink Venues with Photos](datasets/portugal-food-and-drink-venues-with-photos-9943f1952c47/) | 6,314 | On demand | 2026-11-12T05:07:43.947520Z |
+| [Google US Weekly Paid Search](datasets/google-us-weekly-paid-search-9accf80e8757/) | 85 | weekly | 2026-11-14T21:23:43.491020Z |
 | [Vancouver Tee Times and Golf Course Prices](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,897 | On demand | 2026-11-02T15:13:21.865652Z |
 | [Turo Classic and Exotic Car Rentals](datasets/turo-classic-and-exotic-car-rentals-9f51f87bf45b/) | 60 | On demand | 2026-11-13T15:58:41.083512Z |
 | [AI Lab Research Feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |

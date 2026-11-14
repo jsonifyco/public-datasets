@@ -1,0 +1,42 @@
+[
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "keyword",
+    "type": "text"
+  },
+  {
+    "name": "merchant",
+    "type": "text"
+  },
+  {
+    "name": "original_price",
+    "type": "double precision"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "product_title",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "integer"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "review_count",
+    "type": "text"
+  }
+]

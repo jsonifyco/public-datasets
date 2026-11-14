@@ -1,0 +1,38 @@
+[
+  {
+    "name": "advertiser_domain",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "display_url",
+    "type": "text"
+  },
+  {
+    "name": "headline",
+    "type": "text"
+  },
+  {
+    "name": "keyword",
+    "type": "text"
+  },
+  {
+    "name": "position_block",
+    "type": "text"
+  },
+  {
+    "name": "position_rank",
+    "type": "integer"
+  },
+  {
+    "name": "sitelinks_offers_text",
+    "type": "text"
+  }
+]

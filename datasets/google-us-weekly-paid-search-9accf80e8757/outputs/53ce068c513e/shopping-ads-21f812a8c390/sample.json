@@ -1,0 +1,122 @@
+[
+  {
+    "collected_at": "2026-11-14T21:19:58.249590+00:00",
+    "currency": "USD",
+    "keyword": "air fryer",
+    "merchant": "Kroger",
+    "original_price": null,
+    "price": 34.99,
+    "product_title": "Chefman TurboFry Touch 6-Quart Easy-View Air Fryer - Thanksgiving Essentials",
+    "rank": 7,
+    "rating": 4.5,
+    "review_count": "575"
+  },
+  {
+    "collected_at": "2026-11-14T21:19:07.253573+00:00",
+    "currency": "USD",
+    "keyword": "air purifier",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 59.89,
+    "product_title": "Renpho Hepa Air Purifier for Large Room up to 1400 Sq.ft, Air Purifier for Allergies and Asthma with Sleep Mode, Remove 99.9% Smokers, Dust, Pet Hair,",
+    "rank": 8,
+    "rating": 4.8,
+    "review_count": "12"
+  },
+  {
+    "collected_at": "2026-11-14T21:23:37.836860+00:00",
+    "currency": "USD",
+    "keyword": "water flosser",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 21.59,
+    "product_title": "Water Flosser,Irrigador Dental with 4 Modes,6 Jet Tips, 300ml Tank & Ipx7 Waterproof Water Flossers for Teeth(White)",
+    "rank": 7,
+    "rating": 4.8,
+    "review_count": "37"
+  },
+  {
+    "collected_at": "2026-11-14T21:19:59.768986+00:00",
+    "currency": "USD",
+    "keyword": "espresso machine",
+    "merchant": "Kohl's",
+    "original_price": null,
+    "price": 449.99,
+    "product_title": "Ninja Luxe Café Mini Espresso Machine & Drip Coffee Maker with Built-in Grinder and Manual Steam Wand, Black",
+    "rank": 10,
+    "rating": 4.7,
+    "review_count": "82"
+  },
+  {
+    "collected_at": "2026-11-14T21:23:37.836860+00:00",
+    "currency": "USD",
+    "keyword": "water flosser",
+    "merchant": "Target",
+    "original_price": null,
+    "price": 39.99,
+    "product_title": "Waterpik Cordless 1000 Water Flosser - Blue/White",
+    "rank": 1,
+    "rating": 4.1,
+    "review_count": "615"
+  },
+  {
+    "collected_at": "2026-11-14T21:19:14.930848+00:00",
+    "currency": "USD",
+    "keyword": "robot vacuum",
+    "merchant": "Kohl's",
+    "original_price": null,
+    "price": 279.99,
+    "product_title": "Shark Navigator Robot Vacuum and Self-Empty Base with Bagless, 60-Day Capacity Self-Empty Base and SmartPath Navigation (RV2120AE), Gray",
+    "rank": 2,
+    "rating": 4,
+    "review_count": "128"
+  },
+  {
+    "collected_at": "2026-11-14T21:19:59.768986+00:00",
+    "currency": "USD",
+    "keyword": "espresso machine",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 64.98,
+    "product_title": "Coffee Maker, 20 Bar Espresso Machine with Milk Frother & Cold Brew, 1250w, 34oz Water Tank, Compact Steel Design, Silver",
+    "rank": 7,
+    "rating": 3.2,
+    "review_count": "56"
+  },
+  {
+    "collected_at": "2026-11-14T21:23:37.836860+00:00",
+    "currency": "USD",
+    "keyword": "water flosser",
+    "merchant": "Coslus",
+    "original_price": null,
+    "price": 39.99,
+    "product_title": "COSLUS E40 Cordless Water Dental Flosser 10-Speed Roll Control - 300ML Portable Oral Irrigator WFP14 for Braces - Black",
+    "rank": 4,
+    "rating": null,
+    "review_count": null
+  },
+  {
+    "collected_at": "2026-11-14T21:19:58.249590+00:00",
+    "currency": "USD",
+    "keyword": "air fryer",
+    "merchant": "SharkNinja",
+    "original_price": 180,
+    "price": 159.99,
+    "product_title": "Ninja Crispi 4-in-1 Glass Air Fryer, Stone Gold | FN101SD | SharkNinja",
+    "rank": 5,
+    "rating": null,
+    "review_count": null
+  },
+  {
+    "collected_at": "2026-11-14T21:19:07.253573+00:00",
+    "currency": "USD",
+    "keyword": "air purifier",
+    "merchant": "QVC",
+    "original_price": null,
+    "price": 49.98,
+    "product_title": "Airvana Tabletop Air Purifier with Permanent Carbon Filter, White",
+    "rank": 4,
+    "rating": null,
+    "review_count": null
+  }
+]

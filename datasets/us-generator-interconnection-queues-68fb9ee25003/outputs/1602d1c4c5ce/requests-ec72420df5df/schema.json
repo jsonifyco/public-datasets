@@ -1,0 +1,86 @@
+[
+  {
+    "name": "capacity_mw",
+    "type": "double precision"
+  },
+  {
+    "name": "county",
+    "type": "text"
+  },
+  {
+    "name": "first_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "fuel_type",
+    "type": "text"
+  },
+  {
+    "name": "interconnection_customer",
+    "type": "text"
+  },
+  {
+    "name": "operator",
+    "type": "text"
+  },
+  {
+    "name": "point_of_interconnection",
+    "type": "text"
+  },
+  {
+    "name": "project_name",
+    "type": "text"
+  },
+  {
+    "name": "proposed_in_service_date",
+    "type": "text"
+  },
+  {
+    "name": "queue_date",
+    "type": "text"
+  },
+  {
+    "name": "queue_position",
+    "type": "text"
+  },
+  {
+    "name": "request_date",
+    "type": "text"
+  },
+  {
+    "name": "source_name",
+    "type": "text"
+  },
+  {
+    "name": "source_updated_date",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "study_process",
+    "type": "text"
+  },
+  {
+    "name": "transmission_owner",
+    "type": "text"
+  },
+  {
+    "name": "winter_mw",
+    "type": "double precision"
+  },
+  {
+    "name": "withdrawn_date",
+    "type": "text"
+  }
+]

@@ -29,7 +29,7 @@
   },
   {
     "name": "position_rank",
-    "type": "integer"
+    "type": "bigint"
   },
   {
     "name": "sitelinks_offers_text",

@@ -1,35 +1,35 @@
-# Google US Weekly Paid Search
+# Google US Paid Search
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Google US paid search dataset with 85 published rows: 28 text ads and 57 Shopping listings\. The supplied summary does not verify weekly snapshots or the number of keywords\.
+Google US paid search dataset with 324 published rows: 94 text ads and 230 Shopping listings\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/google-us-weekly-paid-search-9accf80e8757?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 2
-- Last published: 2026-11-14T21:23:43.491020Z
+- Active pipeline version: 3
+- Last published: 2026-11-14T21:48:01.393145Z
 
 ## The brief
 
-> I need this data: Google US paid search dataset with 85 published rows: 28 text ads and 57 Shopping listings\. The supplied summary does not verify weekly snapshots or the number of keywords\.
+> I need this data: Google US paid search dataset with 324 published rows: 94 text ads and 230 Shopping listings\.
 
 Summary from the public dataset description.
 
 ## Google US paid search observations / text\_ads
 
-28 total rows · 10 sampled · Output revision 1
-Published: 2026-11-14T21:23:43.491020Z · Producing pipeline version: 1
+94 total rows · 10 sampled · Output revision 3
+Published: 2026-11-14T21:48:01.393145Z · Producing pipeline version: 3
 
 [CSV sample](outputs/53ce068c513e/text-ads-74d560e8a207/sample.csv) · [JSON sample](outputs/53ce068c513e/text-ads-74d560e8a207/sample.json) · [Schema](outputs/53ce068c513e/text-ads-74d560e8a207/schema.json)
 
 | advertiser\_domain | collected\_at | description | display\_url | headline | keyword | position\_block | position\_rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| merakitech\.com | 2026\-11\-14T21:19:59\.768986\+00:00 | Meraki Gen 2 — Grind, weigh, brew and steam with one machine built for the home barista\. Brew espresso and steam milk at the same time\. | [https://www\.merakitech\.com](<https://www.merakitech.com>) › home\-espresso › meraki | Shop the Meraki Gen 2 | espresso machine | bottom | 1 |
-| amazon\.com | 2026\-11\-14T21:21:15\.240809\+00:00 | Capture 4K Front And 1080P Rear Video With STARVIS 2 Imaging And Night Recording\. Use The 3\.18 Inch Touchscreen And GPS With Fast WiFi And A\.\.\. | [https://www\.amazon\.com](<https://www.amazon.com>) › redtiger › 4k\-starvis | REDTIGER 4K Dash Camera \| 128GB Memory Included | dash cam | bottom | 1 |
-| nespresso\.com | 2026\-11\-14T21:19:59\.768986\+00:00 | Brew All Your Iced Coffee Faves with Up to 40% on Select Vertuo Machines &amp; Pop\+ from $99\. Hurry, This Offer Ends in 5 days\. Shop Now While Supplies Last\. | [https://www\.nespresso\.com](<https://www.nespresso.com>) | Nespresso \- Up to 40% Off Select Machines | espresso machine | top | 2 |
-| emma\-sleep\.nl | 2026\-11\-14T21:20:20\.036137\+00:00 | Emma matrastoppers zijn beschikbaar in alle maten, van 90x200 tot 180x200\. De AirGrid Topper van Emma is de trotse winnaarvan het Gekozen Product van het\.\.\. | [https://www\.emma\-sleep\.nl](<https://www.emma-sleep.nl>) › toppers | op Emma® Toppers \- Black Friday: Tot 50% korting | mattress topper | bottom | 2 |
-| eufy\.com | 2026\-11\-14T21:21:44\.517113\+00:00 | eufy Security—Peace of Mind — Discover eufy's excellence, delivering top\-notch smart home solutions for living\. Empower your\.\.\. | [https://www\.eufy\.com](<https://www.eufy.com>) | eufy \| Built with Care | home security camera | bottom | 2 |
+| amazon\.com | 2026\-11\-14T21:46:50\.578576\+00:00 | Capture 4K Front And 1080P Rear Video With STARVIS 2 Imaging And Night Recording\. Shop REDTIGER F7N Touch 4K Dash Cam With Front And Rear Recording On Amazon\. 4K Uhd Resolution\. 128GB Memory Included\. 18 Months\.\.\. | [https://www\.amazon\.com](<https://www.amazon.com>) › redtiger › 4k\-starvis | amazon\.com \| View The 128GB Camera Bundle | dash cam | top | 2 |
+| chicagotribune\.com | 2026\-11\-14T21:37:53\.080045\+00:00 | We Compared Deco BE63 Tri\-Band WiFi 7 vs Deco X55 AX3000 3\-Pack vs eero Read more | [https://reviews\.chicagotribune\.com](<https://reviews.chicagotribune.com>) › wifi | 5 Best Mesh WiFi Systems 2026 \- There's One Clear Winner Now | mesh wifi router | top | 1 |
+| expertbestreview\.com | 2026\-11\-14T21:47:55\.420111\+00:00 | Top 5 Picks 2026 — Dr\. Rachel tested 5 water flossers over 6 weeks\. One clear winner for sensitive gums\. Read more | [https://www\.expertbestreview\.com](<https://www.expertbestreview.com>) › water\-flosser › top\-5\-2026 | Top 5 Water Flossers Ranked | water flosser | top | 2 |
+| merakitech\.com | 2026\-11\-14T21:40:30\.485414\+00:00 | 9\-Bar Rotary Pump — Brew espresso and steam milk at the same time\. Grind, weigh, brew and steam with one machine built for the home barista\. | [https://www\.merakitech\.com](<https://www.merakitech.com>) | Shop the Meraki Gen 2 | espresso machine | bottom | 2 |
+| bestluggage\.org | 2026\-11\-14T21:46:39\.759306\+00:00 | We tested 8 popular carry\-ons across 20\+ flights\. One clearly beat the rest\. See it here\. Our \#1 scored 9\.7/10 in testing\. See how the other 4 carry\-ons stacked up\. TSA\-Approved Locks\. | [https://www\.bestluggage\.org](<https://www.bestluggage.org>) | Top 5 Carry\-On Bags of 2026 \- Rated 9\.7/10 By Our Testers | carry on luggage | bottom | 1 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -44,23 +44,23 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | headline | text |
 | keyword | text |
 | position\_block | text |
-| position\_rank | integer |
+| position\_rank | bigint |
 | sitelinks\_offers\_text | text |
 
 ## Google US paid search observations / shopping\_ads
 
-57 total rows · 10 sampled · Output revision 1
-Published: 2026-11-14T21:23:43.491020Z · Producing pipeline version: 1
+230 total rows · 50 sampled · Output revision 3
+Published: 2026-11-14T21:48:01.393145Z · Producing pipeline version: 3
 
 [CSV sample](outputs/53ce068c513e/shopping-ads-21f812a8c390/sample.csv) · [JSON sample](outputs/53ce068c513e/shopping-ads-21f812a8c390/sample.json) · [Schema](outputs/53ce068c513e/shopping-ads-21f812a8c390/schema.json)
 
 | collected\_at | currency | keyword | merchant | original\_price | price | product\_title | rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026\-11\-14T21:19:58\.249590\+00:00 | USD | air fryer | Kroger | None | 34\.99 | Chefman TurboFry Touch 6\-Quart Easy\-View Air Fryer \- Thanksgiving Essentials | 7 |
-| 2026\-11\-14T21:19:07\.253573\+00:00 | USD | air purifier | Walmart | None | 59\.89 | Renpho Hepa Air Purifier for Large Room up to 1400 Sq\.ft, Air Purifier for Allergies and Asthma with Sleep Mode, Remove 99\.9% Smokers, Dust, Pet Hair, | 8 |
-| 2026\-11\-14T21:23:37\.836860\+00:00 | USD | water flosser | Walmart | None | 21\.59 | Water Flosser,Irrigador Dental with 4 Modes,6 Jet Tips, 300ml Tank &amp; Ipx7 Waterproof Water Flossers for Teeth\(White\) | 7 |
-| 2026\-11\-14T21:19:59\.768986\+00:00 | USD | espresso machine | Kohl's | None | 449\.99 | Ninja Luxe Café Mini Espresso Machine &amp; Drip Coffee Maker with Built\-in Grinder and Manual Steam Wand, Black | 10 |
-| 2026\-11\-14T21:23:37\.836860\+00:00 | USD | water flosser | Target | None | 39\.99 | Waterpik Cordless 1000 Water Flosser \- Blue/White | 1 |
+| 2026\-11\-14T21:46:39\.759306\+00:00 | USD | carry on luggage | NOBL Travel | None | 289 | Silver Carry On Luggage \- 20\.5" Best Multi Functional Carry On Suitcase with Polycarbonate Shell &amp; Battery Charger with Capacity 35L by NOBL Travel | 1 |
+| 2026\-11\-14T21:46:30\.268001\+00:00 | USD | weighted blanket | Bare Home | 92 | 73\.59 | Bare Home Cotton Weighted Blanket, 12 lb, 48"x72", Sand – Glass Bead Weighted Blanket with Stitched Pockets | 8 |
+| 2026\-11\-14T21:47:01\.404729\+00:00 | USD | portable power station | UDPower | None | 529\.99 | 1200W Portable power Station for Camping \| 1200W Solar Generator for RV Camping | 8 |
+| 2026\-11\-14T21:40:54\.272933\+00:00 | USD | air fryer | Walmart | 70 | 54\.99 | Air Fryer 8 Quart 8qt, 8\-in\-1 Multifunction Cooking Modes, Digital Touch Panel, Easy\-Viewing Window, Max 400 Fast Heat, 1700w, Black | 6 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -104,6 +104,7 @@ flowchart LR
 
 - 2026-11-14T21:18:08.531796Z: v1: Create weekly historical Google US paid\-search observations for the twenty requested keywords, with separate text and Shopping tables\.
 - 2026-11-14T21:27:20.750584Z: v2: Check a second US desktop search when an ad category is absent, improving keyword coverage while keeping existing observations\.
+- 2026-11-14T21:37:27.157497Z: v3: Correct US location handling, collect keywords sequentially, and recover blocked or incomplete captures with a bounded second attempt\.
 
 ## Recorded repairs
 

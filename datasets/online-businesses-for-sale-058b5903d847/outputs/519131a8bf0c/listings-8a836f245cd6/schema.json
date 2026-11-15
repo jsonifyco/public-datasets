@@ -1,0 +1,82 @@
+[
+  {
+    "name": "annual_net_profit_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "annual_revenue_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "asking_price_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "business_type",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "displayed_multiple",
+    "type": "text"
+  },
+  {
+    "name": "listed_date",
+    "type": "text"
+  },
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "marketplace",
+    "type": "text"
+  },
+  {
+    "name": "monetization",
+    "type": "jsonb"
+  },
+  {
+    "name": "monthly_traffic",
+    "type": "double precision"
+  },
+  {
+    "name": "monthly_traffic_metric",
+    "type": "text"
+  },
+  {
+    "name": "monthly_traffic_period",
+    "type": "text"
+  },
+  {
+    "name": "multiple_period",
+    "type": "text"
+  },
+  {
+    "name": "net_profit_period",
+    "type": "text"
+  },
+  {
+    "name": "revenue_period",
+    "type": "text"
+  },
+  {
+    "name": "site_age",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  }
+]

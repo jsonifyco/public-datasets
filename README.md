@@ -87,6 +87,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Brazil State Public Security Secretaries](datasets/brazil-state-public-security-secretaries-a3af258992e0/) | 27 | On demand | 2026-11-13T16:00:08.719539Z |
 | [Supermarket Franchise Keyword and AI Prompt Volumes](datasets/supermarket-franchise-keyword-and-ai-prompt-volumes-a3f8157e871e/) | 16 | On demand | 2026-10-31T11:20:11.061198Z |
 | [US Baseball Team Decision\-Maker Contacts: School, Youth and Minor\-League Teams](datasets/us-baseball-team-decision-maker-contacts-b0b0de74ab33/) | 1,000 | On demand | 2026-10-22T14:59:13.945962Z |
+| [Indian Buybacks and Share\-Price Returns](datasets/indian-buybacks-and-share-price-returns-b5cc3468e4a1/) | 38 | weekly | 2026-11-15T10:40:58.581826Z |
 | [Google Shopping Competitor Prices](datasets/feedance-google-shopping-competitor-prices-b7971db4006b/) | 9,316 | daily | 2026-11-11T21:58:34.847100Z |
 | [Irish Music Events for Web Summit](datasets/ceolx-web-summit-one-off-snapshot-bcb68c9e2f16/) | 300 | On demand | 2026-11-09T13:20:39.971583Z |
 | [Public Instagram Posts from paul\_hunkin](datasets/instagram-posts-be49f86d2a46/) | 12 | On demand | 2026-10-17T18:08:01.916600Z |

@@ -79,7 +79,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [LLM API Pricing: Official Standard Text and Chat Model Rates](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |
 | [Wellness Practitioners in Lisbon, Porto, Barcelona and London](datasets/wellness-practitioners-across-cities-8fedaa1baebd/) | 200 | On demand | 2026-10-22T14:20:21.555858Z |
 | [Portugal Food and Drink Venues with Photos](datasets/portugal-food-and-drink-venues-with-photos-9943f1952c47/) | 6,314 | On demand | 2026-11-12T05:07:43.947520Z |
-| [Google US Weekly Paid Search](datasets/google-us-weekly-paid-search-9accf80e8757/) | 85 | weekly | 2026-11-14T21:23:43.491020Z |
+| [Google US Paid Search](datasets/google-us-weekly-paid-search-9accf80e8757/) | 324 | weekly | 2026-11-14T21:48:01.393145Z |
 | [Vancouver Tee Times and Golf Course Prices](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,897 | On demand | 2026-11-02T15:13:21.865652Z |
 | [Turo Classic and Exotic Car Rentals](datasets/turo-classic-and-exotic-car-rentals-9f51f87bf45b/) | 60 | On demand | 2026-11-13T15:58:41.083512Z |
 | [AI Lab Research Feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |

@@ -1,0 +1,138 @@
+[
+  {
+    "name": "notice_key",
+    "type": "text"
+  },
+  {
+    "name": "company_name",
+    "type": "text"
+  },
+  {
+    "name": "nse_symbol",
+    "type": "text"
+  },
+  {
+    "name": "isin",
+    "type": "text"
+  },
+  {
+    "name": "intimation_date",
+    "type": "text"
+  },
+  {
+    "name": "meeting_date",
+    "type": "text"
+  },
+  {
+    "name": "intimation_filing_url",
+    "type": "text"
+  },
+  {
+    "name": "notice_description",
+    "type": "text"
+  },
+  {
+    "name": "approval_date",
+    "type": "text"
+  },
+  {
+    "name": "buyback_price_inr",
+    "type": "double precision"
+  },
+  {
+    "name": "buyback_size_inr_cr",
+    "type": "double precision"
+  },
+  {
+    "name": "method",
+    "type": "text"
+  },
+  {
+    "name": "source_filing_url",
+    "type": "text"
+  },
+  {
+    "name": "approval_evidence",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "checked_on",
+    "type": "text"
+  },
+  {
+    "name": "event_id",
+    "type": "text"
+  },
+  {
+    "name": "price_source_url",
+    "type": "text"
+  },
+  {
+    "name": "price_basis",
+    "type": "text"
+  },
+  {
+    "name": "close_pre_intimation",
+    "type": "double precision"
+  },
+  {
+    "name": "price_date_pre_intimation",
+    "type": "text"
+  },
+  {
+    "name": "close_approval",
+    "type": "double precision"
+  },
+  {
+    "name": "price_date_approval",
+    "type": "text"
+  },
+  {
+    "name": "close_30d",
+    "type": "double precision"
+  },
+  {
+    "name": "price_date_30d",
+    "type": "text"
+  },
+  {
+    "name": "close_60d",
+    "type": "double precision"
+  },
+  {
+    "name": "price_date_60d",
+    "type": "text"
+  },
+  {
+    "name": "close_90d",
+    "type": "double precision"
+  },
+  {
+    "name": "price_date_90d",
+    "type": "text"
+  },
+  {
+    "name": "pct_pre_intimation_to_approval",
+    "type": "double precision"
+  },
+  {
+    "name": "pct_approval_to_30d",
+    "type": "double precision"
+  },
+  {
+    "name": "pct_approval_to_60d",
+    "type": "double precision"
+  },
+  {
+    "name": "pct_approval_to_90d",
+    "type": "double precision"
+  },
+  {
+    "name": "price_notes",
+    "type": "text"
+  }
+]

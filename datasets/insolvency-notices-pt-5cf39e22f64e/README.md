@@ -8,7 +8,7 @@ Public Citius insolvency notices with process, debtor, court, publication date a
 
 - Refresh: daily
 - Active pipeline version: 7
-- Last published: 2026-11-14T06:35:20.365413Z
+- Last published: 2026-11-15T06:17:39.264057Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Avisos de insolvência / avisos
 
-340 total rows · 50 sampled · Output revision 14
-Published: 2026-11-14T06:35:20.365413Z · Producing pipeline version: 7
+340 total rows · 50 sampled · Output revision 15
+Published: 2026-11-15T06:17:39.264057Z · Producing pipeline version: 7
 
 [CSV sample](outputs/43cb4b753508/avisos-354cde498655/sample.csv) · [JSON sample](outputs/43cb4b753508/avisos-354cde498655/sample.json) · [Schema](outputs/43cb4b753508/avisos-354cde498655/schema.json)
 
 | Distrito | Estado do prazo | NIF ou NIPC | Natureza do devedor | Prazo publicado | Processo | Publicado em | Tipo de anúncio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Porto | Prazo identificado no documento | 271570725 | Pessoa singular | 30 dias; os prazos para reclamação de créditos começam a correr finda a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | 8856/26\.0T8VNG | 2026\-11\-10 | declaração de insolvência |
-| Porto | Prazo não identificado no documento | 150974876 | Pessoa singular | None | 2565/26\.8T8STS | 2026\-11\-13 | Outro |
-| Lisboa | Prazo identificado no documento | 242913695 | Pessoa singular | 30 dias, a contar do fim da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | 18407/26\.1T8SNT | 2026\-11\-12 | declaração de insolvência |
-| Porto | Prazo não identificado no documento | 515721441 | Empresa | None | 1092/26\.8T8AMT\-D | 2026\-11\-10 | Outro |
-| Porto | Prazo identificado no documento | 514564130 | Empresa | No prazo de trinta dias, findos os cinco dias dos éditos contados da publicação deste edital\. | 6437/26\.8T8VNG\-B | 2026\-11\-13 | Outro |
+| Lisboa | Não verificado: documento indisponível | 207763798 | Pessoa singular | None | 2277/26\.2T8VFX | 2026\-11\-13 | Outro |
+| Lisboa | Prazo não identificado no documento | 503823651 | Empresa | None | 896/03\.4TYLSB\-T | 2026\-11\-13 | Outro |
+| Porto | Prazo não identificado no documento | 206646054 | Pessoa singular | None | 1231/26\.9T8AMT | 2026\-11\-10 | encerramento |
+| Lisboa | Prazo não identificado no documento | 509021778 | Empresa | None | 7836/24\.5T8LSB\-F | 2026\-11\-12 | Outro |
+| Lisboa | Não verificado: documento indisponível | 233138242 | Pessoa singular | None | 2868/24\.6T8VFX | 2026\-11\-13 | Outro |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Avisos de insolvência / insolvency\_notices\_pt
 
-340 total rows · 50 sampled · Output revision 14
-Published: 2026-11-14T06:35:20.365413Z · Producing pipeline version: 7
+340 total rows · 50 sampled · Output revision 15
+Published: 2026-11-15T06:17:39.264057Z · Producing pipeline version: 7
 
 [CSV sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.csv) · [JSON sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.json) · [Schema](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/schema.json)
 
 | claims\_deadline | court | debtor\_name | debtor\_nif | debtor\_type | district | insolvency\_administrator | notice\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Vila Franca de Xira \- Tribunal Judicial da Comarca de Lisboa Norte / Juízo de Comércio de Vila Franca de Xira \- Juiz 3 | Márcio Casimiro Lopes Vaz | 212913689 | individual | Lisboa | Martinho Fernandes Luís | other |
-| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 7 | Elisabete Maria Monteiro da Silva | 215071808 | individual | Porto | Andreia Sofia Lopes da Silva Penetra Gonçalves | other |
-| None | Lisboa \- Tribunal Judicial da Comarca de Lisboa / Juízo de Comércio de Lisboa \- Juiz 3 | Pmp Consultores de Engenharia Lda | 510017762 | company | Lisboa | Patrícia Sofia Marques Navalho | encerramento |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 2 | Nelson Manuel Monte Salazar | 217320066 | individual | Lisboa | Maria José Ramos Peres dos Reis | other |
-| 30 dias, a contar do fim da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 6 | Roger Duarte Simões de Oliveira Medeiros | 230586945 | individual | Lisboa | Fernando Marinho Vaz | declaração de insolvência |
+| None | Comarca do Porto Este \- Amarante / Juízo de Comércio de Amarante \- Juiz 1 | Invesil\- Industria de Cardação Lda\. | 500695105 | company | Porto | Maria da Graça Fernandes Simões | other |
+| None | Comarca do Porto Este \- Amarante / Juízo de Comércio de Amarante \- Juiz 4 | Isaura Cidália dos Santos Pinto | 177769890 | individual | Porto | Manuel Jaime Fernandes | other |
+| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 3 | Sara Catarina dos Santos Rodrigues | 252871022 | individual | Lisboa | José Pedro Pires Martins da Silva | encerramento |
+| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 5 | Luis Fernando da Silva Belas | 176983473 | individual | Lisboa | António Francisco Cocco Seixas Soares | other |
+| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 2 | Conchamar Exportações Importações, S\.A\. | 502094400 | company | Lisboa | João Alves Gomes Vilaça | encerramento |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

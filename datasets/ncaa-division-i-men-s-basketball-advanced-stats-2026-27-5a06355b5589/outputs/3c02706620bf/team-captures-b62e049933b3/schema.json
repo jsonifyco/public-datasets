@@ -1,0 +1,102 @@
+[
+  {
+    "name": "adjusted_defensive_efficiency",
+    "type": "double precision"
+  },
+  {
+    "name": "adjusted_offensive_efficiency",
+    "type": "double precision"
+  },
+  {
+    "name": "adjusted_tempo",
+    "type": "double precision"
+  },
+  {
+    "name": "barthag",
+    "type": "double precision"
+  },
+  {
+    "name": "capture_date",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "conference",
+    "type": "text"
+  },
+  {
+    "name": "def_efg_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "def_free_throw_rate",
+    "type": "double precision"
+  },
+  {
+    "name": "def_offensive_rebound_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "def_three_point_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "def_three_point_rate",
+    "type": "double precision"
+  },
+  {
+    "name": "def_turnover_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "efg_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "free_throw_rate",
+    "type": "double precision"
+  },
+  {
+    "name": "games_played",
+    "type": "integer"
+  },
+  {
+    "name": "offensive_rebound_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "rank",
+    "type": "integer"
+  },
+  {
+    "name": "record",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "statistics_status",
+    "type": "text"
+  },
+  {
+    "name": "team",
+    "type": "text"
+  },
+  {
+    "name": "three_point_pct",
+    "type": "double precision"
+  },
+  {
+    "name": "three_point_rate",
+    "type": "double precision"
+  },
+  {
+    "name": "turnover_pct",
+    "type": "double precision"
+  }
+]

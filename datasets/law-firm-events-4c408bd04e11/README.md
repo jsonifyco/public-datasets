@@ -2,33 +2,33 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 19 event records\.
+Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 20 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-12T16:06:47.875487Z
+- Last published: 2026-11-16T09:07:32.344658Z
 
 ## The brief
 
-> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 19 event records\.
+> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 20 event records\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-19 total rows · 10 sampled · Output revision 9
-Published: 2026-11-12T16:06:47.875487Z · Producing pipeline version: 5
+20 total rows · 10 sampled · Output revision 10
+Published: 2026-11-16T09:07:32.344658Z · Producing pipeline version: 5
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| O ano de 2026 é determinado pela data de publicação, 26\.10\.2026; o anúncio indica 25 de novembro\. | Conferência sobre os 60 anos do Código Civil Português, a evolução do direito civil e os desafios da sua revisão ou reforma\. | 2026\-11\-25 | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
 | None | Terceira conversa de um ciclo sobre privacidade no trabalho, dedicada aos limites do acesso do empregador ao conteúdo de dispositivos empresariais, especialmente em investigações internas\. | 2026\-11\-26 | 2026\-11\-26 | Entre a Investigação e a Privacidade: o acesso ao conteúdo dos dispositivos empresariais | 9:00 – 10:30 | [https://www\.cuatrecasas\.com/pt/global/events/investigacao\-privacidade\-acesso\-ao\-conteudo\-dispositivos\-empresariais](<https://www.cuatrecasas.com/pt/global/events/investigacao-privacidade-acesso-ao-conteudo-dispositivos-empresariais>) | Cuatrecasas |
-| None | Formação presencial de 3h30 sobre os deveres legais e regulamentares de prevenção do branqueamento de capitais e do financiamento do terrorismo no setor imobiliário\. | 2026\-10\-27 | 2026\-10\-27 | Morais Leitão participa em formação da APPII Academy sobre prevenção de BC/FT no setor imobiliário | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-em\-formacao\-da\-APPII\-Academy\-sobre\-prevencao\-de\-BCFT\-no\-setor\-imobiliario/27179/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-em-formacao-da-APPII-Academy-sobre-prevencao-de-BCFT-no-setor-imobiliario/27179/>) | Morais Leitão |
-| None | Conferência da PLMJ sobre transparência salarial, diversidade e os desafios para os recursos humanos decorrentes de alterações ao Código do Trabalho\. | None | 2025\-10\-02 | Transparência salarial e diversidade: novos desafios RH | 09:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/Transparencia\-salarial\-e\-diversidade\-novos\-desafios\-RH/34022/](<https://www.plmj.com/pt/conhecimento/eventos/Transparencia-salarial-e-diversidade-novos-desafios-RH/34022/>) | PLMJ |
-| O ano de 2026 é determinado pela data de publicação, 22\.10\.2026; a sessão está marcada para 29 de outubro\. | Apresentação da obra de Isabel Valente Dias sobre a retribuição no direito laboral português, seguida de uma mesa\-redonda sobre temas centrais do livro\. | 2026\-10\-29 | 2026\-10\-29 | Apresentação da obra "A Retribuição no Ordenamento Juslaboral Português" | 17h30 | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Apresentacao\-da\-obra\-A\-Retribuicao\-no\-Ordenamento\-Juslaboral\-Portugues/27178/](<https://www.mlgts.pt/pt/conhecimento/noticias/Apresentacao-da-obra-A-Retribuicao-no-Ordenamento-Juslaboral-Portugues/27178/>) | Morais Leitão |
+| O programa indica 21 de abril; o ano de 2026 consta da listagem oficial do evento\. | Conferência em Lisboa sobre cibersegurança industrial, resiliência do setor industrial português e obrigações regulatórias da Diretiva NIS2\. | 2026\-04\-21 | 2026\-04\-21 | O Futuro da Cibersegurança no Setor Industrial | 9h30 – 13h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/o\-futuro\-da\-ciberseguranca\-no\-setor\-industrial/](<https://abreuadvogados.com/conhecimento/eventos/abreu/o-futuro-da-ciberseguranca-no-setor-industrial/>) | Abreu Advogados |
+| A página indica 17 de março de 2026 como data do evento e refere uma duração de dois dias, mas não indica expressamente a data do segundo dia\. | Quarta edição do Congresso de Direito da Construção, dedicada aos desafios do investimento em infraestruturas, transportes e habitação e à colaboração entre o Estado e o setor privado\. | None | 2026\-03\-17 | IV Congresso da Construção | 08:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/IV\-Congresso\-da\-Construcao/34308/](<https://www.plmj.com/pt/conhecimento/eventos/IV-Congresso-da-Construcao/34308/>) | PLMJ |
 | None | Conferência sobre a economia da defesa, incluindo regulação de sistemas autónomos, financiamento, inovação e contratação pública de defesa e segurança\. | 2026\-05\-26 | 2026\-05\-26 | A nova economia da defesa | 09:00–17:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/A\-nova\-economia\-da\-defesa/34485/](<https://www.plmj.com/pt/conhecimento/eventos/A-nova-economia-da-defesa/34485/>) | PLMJ |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.

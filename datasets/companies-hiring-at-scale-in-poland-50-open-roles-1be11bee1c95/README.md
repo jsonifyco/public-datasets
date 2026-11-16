@@ -8,7 +8,7 @@ A published dataset of 96 companies advertising at least 50 jobs on one public s
 
 - Refresh: On demand
 - Active pipeline version: 1
-- Last published: 2026-11-13T18:22:40.358613Z
+- Last published: 2026-11-16T09:36:41.296141Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## Companies Hiring at Scale in Poland: 50\+ Open Roles / companies
 
-96 total rows · 10 sampled · Output revision 2
-Published: 2026-11-13T18:22:40.358613Z · Producing pipeline version: Unknown
+96 total rows · 10 sampled · Output revision 3
+Published: 2026-11-16T09:36:41.296141Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/bf9089355748/companies-1701cfb023a1/sample.csv) · [JSON sample](outputs/bf9089355748/companies-1701cfb023a1/sample.json) · [Schema](outputs/bf9089355748/companies-1701cfb023a1/schema.json)
 

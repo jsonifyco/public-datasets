@@ -4,7 +4,7 @@
 
 UK and Irish horse racing odds data\. The published dataset contains 41,272 rows across all published tables\. The odds table contains 41,272 rows, with fields for races, runners, bookmakers, prices and collection times\.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa?action=get) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/uk-and-irish-horse-racing-odds-37c92430d0aa?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 3
@@ -16,7 +16,7 @@ UK and Irish horse racing odds data\. The published dataset contains 41,272 rows
 
 Summary from the public dataset description.
 
-## Dilantix Horse Racing Odds / odds
+## UK and Irish horse racing odds / odds
 
 41,272 total rows · 50 sampled · Output revision 36
 Published: 2026-11-09T13:21:36.157670Z · Producing pipeline version: 3
@@ -80,7 +80,7 @@ flowchart LR
 - 2026-11-07T09:16:28.327425Z: no change
 - 2026-11-07T09:18:58.521830Z: repaired
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/dilantix-uk-irish-horse-racing-odds-37c92430d0aa?action=get) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/uk-and-irish-horse-racing-odds-37c92430d0aa?action=get) — CSV or JSON · Email required
 
 [Build your own dataset](https://factory.jsonify.com/setup)
 

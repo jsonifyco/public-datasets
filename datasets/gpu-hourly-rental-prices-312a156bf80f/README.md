@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 4,537 rows\.
+Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 4,817 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 9
-- Last published: 2026-11-15T06:01:22.402692Z
+- Last published: 2026-11-16T06:02:07.257150Z
 
 ## The brief
 
-> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 4,537 rows\.
+> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 4,817 rows\.
 
 Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-4,537 total rows · 50 sampled · Output revision 25
-Published: 2026-11-15T06:01:22.402692Z · Producing pipeline version: 9
+4,817 total rows · 50 sampled · Output revision 26
+Published: 2026-11-16T06:02:07.257150Z · Producing pipeline version: 9
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| H100 | NVIDIA H100 SXM | Instance | Global | Global | on\_demand | No fixed term | 4\.19 |
-| H100 | NVIDIA HGX H100 | NVIDIA HGX H100 | Global list \(region unspecified\) | Global | commitment | 1 year | 3\.26 |
-| B200 | B200 | Marketplace offer 51577286 | Oregon, US | US | on\_demand | No fixed term | 6\.252083333333333 |
-| H200 | NVIDIA HGX H200 | NVIDIA HGX H200 | Global | Global | commitment | 31\-90 days | 4\.15 |
-| B200 | B200 | B200 Serverless | Global | Global | serverless | Not stated | 10\.79 |
+| A100 | NVIDIA A100 40 GB Tensor Core | BM\.GPU4\.8 | Global | Global | on\_demand | No fixed term | 3\.05 |
+| H200 | NVIDIA HGX H200 | NVIDIA HGX H200 | Global | Global | commitment | 3\-30 days | 4\.99 |
+| A100 | Nvidia A100 | a2\-ultragpu\-1g | Provider list \(region unspecified\) | Global | on\_demand | No fixed term | 5\.06879789 |
+| H100 | Nvidia H100 | a3\-highgpu\-8g | Provider list \(region unspecified\) | Global | on\_demand | No fixed term | 88\.490000119 |
+| H100 | H100 SXM | Standard\_ND96is\_H100\_v5 | uksouth | UK | low\_priority | Interruptible, no fixed term | 22\.122 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

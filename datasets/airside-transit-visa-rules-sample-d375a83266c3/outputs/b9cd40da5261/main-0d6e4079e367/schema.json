@@ -1,0 +1,50 @@
+[
+  {
+    "name": "airside_transit_visa_required",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "conditions_exemptions",
+    "type": "text"
+  },
+  {
+    "name": "evidence_excerpt",
+    "type": "text"
+  },
+  {
+    "name": "hub_airports",
+    "type": "text"
+  },
+  {
+    "name": "max_transit_hours",
+    "type": "text"
+  },
+  {
+    "name": "passport_nationality",
+    "type": "text"
+  },
+  {
+    "name": "source_last_updated",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "supporting_source_urls",
+    "type": "text"
+  },
+  {
+    "name": "transit_country",
+    "type": "text"
+  },
+  {
+    "name": "verification_status",
+    "type": "text"
+  }
+]

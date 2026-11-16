@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Google US paid search dataset with 324 published rows: 94 text ads and 230 Shopping listings\.
+Google US paid search dataset with 577 published rows: 173 text ads and 404 Shopping listings\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/google-us-weekly-paid-search-9accf80e8757?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 3
-- Last published: 2026-11-14T21:48:01.393145Z
+- Active pipeline version: 4
+- Last published: 2026-11-16T14:24:19.796937Z
 
 ## The brief
 
-> I need this data: Google US paid search dataset with 324 published rows: 94 text ads and 230 Shopping listings\.
+> I need this data: Google US paid search dataset with 577 published rows: 173 text ads and 404 Shopping listings\.
 
 Summary from the public dataset description.
 
 ## Google US paid search observations / text\_ads
 
-94 total rows · 10 sampled · Output revision 3
-Published: 2026-11-14T21:48:01.393145Z · Producing pipeline version: 3
+173 total rows · 50 sampled · Output revision 4
+Published: 2026-11-16T14:24:19.796937Z · Producing pipeline version: 4
 
 [CSV sample](outputs/53ce068c513e/text-ads-74d560e8a207/sample.csv) · [JSON sample](outputs/53ce068c513e/text-ads-74d560e8a207/sample.json) · [Schema](outputs/53ce068c513e/text-ads-74d560e8a207/schema.json)
 
 | advertiser\_domain | collected\_at | description | display\_url | headline | keyword | position\_block | position\_rank |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| flexispot\.com | 2026\-11\-16T14:01:22\.423085\+00:00 | Alternate between sitting and standing to boost productivity and reduce daily\.\.\. | [https://www\.flexispot\.com](<https://www.flexispot.com>) | FlexiSpot Standing Desks \- Black Friday Sale | standing desk | top | 3 |
+| onuia\.com | 2026\-11\-16T14:14:04\.082115\+00:00 | Black Friday: the Suite Topper is up to 50% off\. Free worldwide shipping\. Shop now\! Twice the fill of a standard topper, box\-stitched so it keeps its depth\. Shop\.\.\. | [https://www\.onuia\.com](<https://www.onuia.com>) › black\-friday › cloud | Black Friday Topper Deal \- Black Friday: Up To 50% Off | mattress topper | bottom | 1 |
 | amazon\.com | 2026\-11\-14T21:46:50\.578576\+00:00 | Capture 4K Front And 1080P Rear Video With STARVIS 2 Imaging And Night Recording\. Shop REDTIGER F7N Touch 4K Dash Cam With Front And Rear Recording On Amazon\. 4K Uhd Resolution\. 128GB Memory Included\. 18 Months\.\.\. | [https://www\.amazon\.com](<https://www.amazon.com>) › redtiger › 4k\-starvis | amazon\.com \| View The 128GB Camera Bundle | dash cam | top | 2 |
 | chicagotribune\.com | 2026\-11\-14T21:37:53\.080045\+00:00 | We Compared Deco BE63 Tri\-Band WiFi 7 vs Deco X55 AX3000 3\-Pack vs eero Read more | [https://reviews\.chicagotribune\.com](<https://reviews.chicagotribune.com>) › wifi | 5 Best Mesh WiFi Systems 2026 \- There's One Clear Winner Now | mesh wifi router | top | 1 |
-| expertbestreview\.com | 2026\-11\-14T21:47:55\.420111\+00:00 | Top 5 Picks 2026 — Dr\. Rachel tested 5 water flossers over 6 weeks\. One clear winner for sensitive gums\. Read more | [https://www\.expertbestreview\.com](<https://www.expertbestreview.com>) › water\-flosser › top\-5\-2026 | Top 5 Water Flossers Ranked | water flosser | top | 2 |
-| merakitech\.com | 2026\-11\-14T21:40:30\.485414\+00:00 | 9\-Bar Rotary Pump — Brew espresso and steam milk at the same time\. Grind, weigh, brew and steam with one machine built for the home barista\. | [https://www\.merakitech\.com](<https://www.merakitech.com>) | Shop the Meraki Gen 2 | espresso machine | bottom | 2 |
-| bestluggage\.org | 2026\-11\-14T21:46:39\.759306\+00:00 | We tested 8 popular carry\-ons across 20\+ flights\. One clearly beat the rest\. See it here\. Our \#1 scored 9\.7/10 in testing\. See how the other 4 carry\-ons stacked up\. TSA\-Approved Locks\. | [https://www\.bestluggage\.org](<https://www.bestluggage.org>) | Top 5 Carry\-On Bags of 2026 \- Rated 9\.7/10 By Our Testers | carry on luggage | bottom | 1 |
+| bose\.com | 2026\-11\-16T14:07:14\.028816\+00:00 | Featuring Classic, Comfortable Design With All\-Day Comfort &amp; Up To 24 Hours Battery Life\. Enjoy A 1 Year Limited Warranty on Select Products From Bose\. | [https://www\.bose\.com](<https://www.bose.com>) › shop › headphones | Bose® Official Site \| $160 Off QC Ultra In Sandstone | noise cancelling headphones | bottom | 2 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -49,8 +49,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Google US paid search observations / shopping\_ads
 
-230 total rows · 50 sampled · Output revision 3
-Published: 2026-11-14T21:48:01.393145Z · Producing pipeline version: 3
+404 total rows · 50 sampled · Output revision 4
+Published: 2026-11-16T14:24:19.796937Z · Producing pipeline version: 4
 
 [CSV sample](outputs/53ce068c513e/shopping-ads-21f812a8c390/sample.csv) · [JSON sample](outputs/53ce068c513e/shopping-ads-21f812a8c390/sample.json) · [Schema](outputs/53ce068c513e/shopping-ads-21f812a8c390/schema.json)
 
@@ -105,10 +105,19 @@ flowchart LR
 - 2026-11-14T21:18:08.531796Z: v1: Create weekly historical Google US paid\-search observations for the twenty requested keywords, with separate text and Shopping tables\.
 - 2026-11-14T21:27:20.750584Z: v2: Check a second US desktop search when an ad category is absent, improving keyword coverage while keeping existing observations\.
 - 2026-11-14T21:37:27.157497Z: v3: Correct US location handling, collect keywords sequentially, and recover blocked or incomplete captures with a bounded second attempt\.
+- 2026-11-16T14:12:27.405556Z: v4: Keep successfully collected ads when checking a second page capture for a missing ad category\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-16T14:06:09.304962Z: no change
+- 2026-11-16T14:06:32.078655Z: repaired
+- 2026-11-16T14:09:59.699018Z: no change
+- 2026-11-16T14:12:38.704940Z: repaired
+- 2026-11-16T14:17:16.483454Z: no change
+- 2026-11-16T14:18:57.367948Z: repaired
+- 2026-11-16T14:22:20.514671Z: no change
+- 2026-11-16T14:22:26.927111Z: repaired
+- 2026-11-16T14:24:43.338371Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/google-us-weekly-paid-search-9accf80e8757?action=get) — CSV or JSON · Email required
 

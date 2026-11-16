@@ -72,6 +72,42 @@
     "review_count": "271"
   },
   {
+    "collected_at": "2026-11-16T14:07:14.028816+00:00",
+    "currency": "USD",
+    "keyword": "noise cancelling headphones",
+    "merchant": "Bose",
+    "original_price": 359,
+    "price": 169,
+    "product_title": "Bose QuietComfort Headphones - Cypress Green",
+    "rank": 1,
+    "rating": 4.6,
+    "review_count": "7k+"
+  },
+  {
+    "collected_at": "2026-11-16T14:15:02.803146+00:00",
+    "currency": "USD",
+    "keyword": "weighted blanket",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 35.49,
+    "product_title": "Teler Weighted Blanket for Adult (20lbs 60.2 inchx80.2 inch Queen Size Grey) ,Cooling Breathable Heavy Blanket, Gray",
+    "rank": 2,
+    "rating": 4.4,
+    "review_count": "22"
+  },
+  {
+    "collected_at": "2026-11-16T14:19:42.409642+00:00",
+    "currency": "USD",
+    "keyword": "dash cam",
+    "merchant": "Target",
+    "original_price": 100,
+    "price": 89.99,
+    "product_title": "Dash Cam Front and Rear 1080p Full HD | Rexing DT2 170° Lens Car Camera",
+    "rank": 3,
+    "rating": 4.6,
+    "review_count": "1k+"
+  },
+  {
     "collected_at": "2026-11-14T21:46:50.578576+00:00",
     "currency": "USD",
     "keyword": "dash cam",
@@ -82,6 +118,18 @@
     "rank": 6,
     "rating": 5,
     "review_count": "2k+"
+  },
+  {
+    "collected_at": "2026-11-16T14:03:56.686970+00:00",
+    "currency": "USD",
+    "keyword": "air fryer",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 37.99,
+    "product_title": "Chefman TurboFry 3-in-1 Air Fryer, 450f Max Temp with 3.5 Qt. Nonstick Basket Black",
+    "rank": 10,
+    "rating": 4.4,
+    "review_count": "125"
   },
   {
     "collected_at": "2026-11-14T21:47:24.177090+00:00",
@@ -108,6 +156,30 @@
     "review_count": "1k+"
   },
   {
+    "collected_at": "2026-11-16T14:19:42.409642+00:00",
+    "currency": "USD",
+    "keyword": "dash cam",
+    "merchant": "Walmart",
+    "original_price": 60,
+    "price": 53.99,
+    "product_title": "Dash Cam Front and Rear, 4k+1080p 5G WiFi & WDR Dashcam, 64gb Card, App Control, G-Sensor, Night Vision, Loop Recording, Parking Mode, Car Camera(C3),",
+    "rank": 1,
+    "rating": 5,
+    "review_count": "42"
+  },
+  {
+    "collected_at": "2026-11-16T14:15:02.803146+00:00",
+    "currency": "USD",
+    "keyword": "weighted blanket",
+    "merchant": "Bare Home",
+    "original_price": 80,
+    "price": 63.99,
+    "product_title": "Bare Home Cotton Weighted Blanket, 17 lb, 60\"x80\", Light Grey – Glass Bead Weighted Blanket with Stitched Pockets",
+    "rank": 5,
+    "rating": null,
+    "review_count": null
+  },
+  {
     "collected_at": "2026-11-14T21:40:21.855335+00:00",
     "currency": "USD",
     "keyword": "robot vacuum",
@@ -130,6 +202,30 @@
     "rank": 8,
     "rating": 4.8,
     "review_count": "12"
+  },
+  {
+    "collected_at": "2026-11-16T14:06:38.487168+00:00",
+    "currency": "USD",
+    "keyword": "electric toothbrush",
+    "merchant": "Kohl's",
+    "original_price": null,
+    "price": 19.99,
+    "product_title": "Philips Sonicare 1100 | Rechargeable Electric Toothbrush | Plaque Removal",
+    "rank": 3,
+    "rating": 4.3,
+    "review_count": "2k+"
+  },
+  {
+    "collected_at": "2026-11-16T14:03:56.686970+00:00",
+    "currency": "USD",
+    "keyword": "air fryer",
+    "merchant": "Our Place",
+    "original_price": 325,
+    "price": 275,
+    "product_title": "Wonder Oven Pro Air Fryer & Toaster Oven Combo | Non-Toxic, 30L Countertop Oven | Stainless Steel Interior | Blue Salt | Our Place",
+    "rank": 9,
+    "rating": 4.4,
+    "review_count": "614"
   },
   {
     "collected_at": "2026-11-14T21:23:37.836860+00:00",
@@ -156,6 +252,18 @@
     "review_count": "42"
   },
   {
+    "collected_at": "2026-11-16T14:07:14.028816+00:00",
+    "currency": "USD",
+    "keyword": "noise cancelling headphones",
+    "merchant": "Target",
+    "original_price": 360,
+    "price": 169.99,
+    "product_title": "Bose QuietComfort Bluetooth Wireless Noise Cancelling Headphones - Green",
+    "rank": 4,
+    "rating": 4.6,
+    "review_count": "7k+"
+  },
+  {
     "collected_at": "2026-11-14T21:19:59.768986+00:00",
     "currency": "USD",
     "keyword": "espresso machine",
@@ -166,6 +274,18 @@
     "rank": 10,
     "rating": 4.7,
     "review_count": "82"
+  },
+  {
+    "collected_at": "2026-11-16T14:06:38.487168+00:00",
+    "currency": "USD",
+    "keyword": "electric toothbrush",
+    "merchant": "SURI",
+    "original_price": null,
+    "price": 135,
+    "product_title": "SURI Pro 2.0 Electric Toothbrush + Cleaning Travel Case—Clinically-Tested Sonic Clean, Up to 4-Week Battery, Pressure Sensor, Plant-Based Heads –",
+    "rank": 5,
+    "rating": 4.7,
+    "review_count": "9k+"
   },
   {
     "collected_at": "2026-11-14T21:44:59.155556+00:00",
@@ -192,6 +312,18 @@
     "review_count": "634"
   },
   {
+    "collected_at": "2026-11-16T14:01:22.423085+00:00",
+    "currency": "USD",
+    "keyword": "standing desk",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 119.99,
+    "product_title": "Amadwell 55 inch Electric Height Adjustable Standing Desk, 27.6 inch Deep Work Table with Cable Management, Home Office Desks, Size: 55 inch(no",
+    "rank": 4,
+    "rating": null,
+    "review_count": null
+  },
+  {
     "collected_at": "2026-11-14T21:40:21.855335+00:00",
     "currency": "USD",
     "keyword": "robot vacuum",
@@ -216,6 +348,18 @@
     "review_count": "1k+"
   },
   {
+    "collected_at": "2026-11-16T14:02:04.986262+00:00",
+    "currency": "USD",
+    "keyword": "robot vacuum",
+    "merchant": "iRobot.com",
+    "original_price": null,
+    "price": 1199.99,
+    "product_title": "Roomba Max 875 Combo Robot + AutoWash Dock | Self-Cleaning Mop and Vacuum | iRobot",
+    "rank": 1,
+    "rating": 4.8,
+    "review_count": "18"
+  },
+  {
     "collected_at": "2026-11-14T21:40:21.855335+00:00",
     "currency": "USD",
     "keyword": "robot vacuum",
@@ -226,6 +370,18 @@
     "rank": 2,
     "rating": 4.3,
     "review_count": "46"
+  },
+  {
+    "collected_at": "2026-11-16T14:06:38.487168+00:00",
+    "currency": "USD",
+    "keyword": "electric toothbrush",
+    "merchant": "Target",
+    "original_price": null,
+    "price": 49.99,
+    "product_title": "Oral-B Pro 1000 Power Rechargeable Battery Electric Toothbrush with Multiple Modes - White",
+    "rank": 6,
+    "rating": 4.4,
+    "review_count": "5k+"
   },
   {
     "collected_at": "2026-11-14T21:39:12.085677+00:00",
@@ -264,6 +420,30 @@
     "review_count": "72"
   },
   {
+    "collected_at": "2026-11-16T14:14:04.082115+00:00",
+    "currency": "USD",
+    "keyword": "mattress topper",
+    "merchant": "Turmerry",
+    "original_price": 99,
+    "price": 84.15,
+    "product_title": "Turmerry Organic Latex Mattress Topper, 7 Zone Dunlop, GOLS Certified, Twin / 2 Inch Natural Latex / Soft",
+    "rank": 5,
+    "rating": null,
+    "review_count": null
+  },
+  {
+    "collected_at": "2026-11-16T14:06:38.487168+00:00",
+    "currency": "USD",
+    "keyword": "electric toothbrush",
+    "merchant": "Target",
+    "original_price": 60,
+    "price": 44.99,
+    "product_title": "Oral-B iO Series 2 Electric Toothbrush with Timer and Multiple Brush Modes - Midnight Blue",
+    "rank": 7,
+    "rating": 4.1,
+    "review_count": "2k+"
+  },
+  {
     "collected_at": "2026-11-14T21:46:39.759306+00:00",
     "currency": "USD",
     "keyword": "carry on luggage",
@@ -286,6 +466,30 @@
     "rank": 8,
     "rating": null,
     "review_count": null
+  },
+  {
+    "collected_at": "2026-11-16T14:07:14.028816+00:00",
+    "currency": "USD",
+    "keyword": "noise cancelling headphones",
+    "merchant": "Best Buy",
+    "original_price": 359,
+    "price": 169,
+    "product_title": "Bose QuietComfort Wireless Noise Cancelling Headphones | Cypress Green",
+    "rank": 9,
+    "rating": 4.6,
+    "review_count": "7k+"
+  },
+  {
+    "collected_at": "2026-11-16T14:06:38.487168+00:00",
+    "currency": "USD",
+    "keyword": "electric toothbrush",
+    "merchant": "Target",
+    "original_price": 90,
+    "price": 69.99,
+    "product_title": "Oral-B iO3 Electric Toothbrush with Timer Multiple Brush Modes and Brush Head - Black",
+    "rank": 1,
+    "rating": 4.4,
+    "review_count": "4k+"
   },
   {
     "collected_at": "2026-11-14T21:47:24.177090+00:00",
@@ -348,6 +552,30 @@
     "review_count": "128"
   },
   {
+    "collected_at": "2026-11-16T14:14:04.082115+00:00",
+    "currency": "USD",
+    "keyword": "mattress topper",
+    "merchant": "Saatva",
+    "original_price": null,
+    "price": 292,
+    "product_title": "Mattress Topper w/ Micro-Coils | Saatva",
+    "rank": 7,
+    "rating": 4.7,
+    "review_count": "199"
+  },
+  {
+    "collected_at": "2026-11-16T14:06:38.487168+00:00",
+    "currency": "USD",
+    "keyword": "electric toothbrush",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 19.99,
+    "product_title": "Oasismile Sonic Electric Toothbrush for Adults and Teens, Travel Rechargeable 42000 VPM Power Tooth Brush with 5 Modes, 90 Days Battery Life, 6 Brush",
+    "rank": 8,
+    "rating": 4.7,
+    "review_count": "173"
+  },
+  {
     "collected_at": "2026-11-14T21:37:53.080045+00:00",
     "currency": "USD",
     "keyword": "mesh wifi router",
@@ -370,233 +598,5 @@
     "rank": 3,
     "rating": 4.7,
     "review_count": "70"
-  },
-  {
-    "collected_at": "2026-11-14T21:42:22.183995+00:00",
-    "currency": "USD",
-    "keyword": "noise cancelling headphones",
-    "merchant": "Walmart",
-    "original_price": 190,
-    "price": 29.99,
-    "product_title": "Hybrid Active Noise Cancelling Headphones, -50dB Over Ear Bluetooth 6.0 Headphones, 65H Playtime Wireless Headphones, HiFi Stereo Audio, Clear Call",
-    "rank": 7,
-    "rating": 4.9,
-    "review_count": "18"
-  },
-  {
-    "collected_at": "2026-11-14T21:38:48.090253+00:00",
-    "currency": "USD",
-    "keyword": "ergonomic office chair",
-    "merchant": "SIHOO",
-    "original_price": null,
-    "price": 279.99,
-    "product_title": "SIHOO Doro C300 Ergonomic Office Chair with Enhanced Support Headrest, White / Standard Version",
-    "rank": 4,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-14T21:19:59.768986+00:00",
-    "currency": "USD",
-    "keyword": "espresso machine",
-    "merchant": "Walmart",
-    "original_price": null,
-    "price": 64.98,
-    "product_title": "Coffee Maker, 20 Bar Espresso Machine with Milk Frother & Cold Brew, 1250w, 34oz Water Tank, Compact Steel Design, Silver",
-    "rank": 7,
-    "rating": 3.2,
-    "review_count": "56"
-  },
-  {
-    "collected_at": "2026-11-14T21:46:30.268001+00:00",
-    "currency": "USD",
-    "keyword": "weighted blanket",
-    "merchant": "Target",
-    "original_price": null,
-    "price": 25,
-    "product_title": "Room Essentials 50\"x70\" 20lb Weighted Blanket, Gray",
-    "rank": 4,
-    "rating": 4.3,
-    "review_count": "6"
-  },
-  {
-    "collected_at": "2026-11-14T21:23:37.836860+00:00",
-    "currency": "USD",
-    "keyword": "water flosser",
-    "merchant": "Coslus",
-    "original_price": null,
-    "price": 39.99,
-    "product_title": "COSLUS E40 Cordless Water Dental Flosser 10-Speed Roll Control - 300ML Portable Oral Irrigator WFP14 for Braces - Black",
-    "rank": 4,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-14T21:19:58.249590+00:00",
-    "currency": "USD",
-    "keyword": "air fryer",
-    "merchant": "SharkNinja",
-    "original_price": 180,
-    "price": 159.99,
-    "product_title": "Ninja Crispi 4-in-1 Glass Air Fryer, Stone Gold | FN101SD | SharkNinja",
-    "rank": 5,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-14T21:47:55.420111+00:00",
-    "currency": "USD",
-    "keyword": "water flosser",
-    "merchant": "Walmart",
-    "original_price": null,
-    "price": 18.99,
-    "product_title": "Cordless Water Flosser Dental Teeth Cleaner with 6 Jet Tips, DIY Mode 300ml Tank Ipx7 Waterproof Portable Rechargeable Water Teeth Flosser Dental Oral",
-    "rank": 6,
-    "rating": 4.6,
-    "review_count": "239"
-  },
-  {
-    "collected_at": "2026-11-14T21:40:30.485414+00:00",
-    "currency": "USD",
-    "keyword": "espresso machine",
-    "merchant": "Target",
-    "original_price": 100,
-    "price": 59.99,
-    "product_title": "Chefman CraftBrew Espresso Machine Stainless Steel",
-    "rank": 7,
-    "rating": 4.2,
-    "review_count": "790"
-  },
-  {
-    "collected_at": "2026-11-14T21:44:59.155556+00:00",
-    "currency": "USD",
-    "keyword": "yoga mat",
-    "merchant": "Target",
-    "original_price": null,
-    "price": 30,
-    "product_title": "Premium Fitness Yoga Mat | All In Motion | 15mm Orange, Standard Size, Non-Slip",
-    "rank": 3,
-    "rating": 4,
-    "review_count": "179"
-  },
-  {
-    "collected_at": "2026-11-14T21:41:50.795500+00:00",
-    "currency": "USD",
-    "keyword": "electric toothbrush",
-    "merchant": "QVC",
-    "original_price": 48,
-    "price": 29.98,
-    "product_title": "Soniclean Pro 4800 Rechargeable Toothbrush with4 Brush Heads, Navy",
-    "rank": 5,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-14T21:46:39.759306+00:00",
-    "currency": "USD",
-    "keyword": "carry on luggage",
-    "merchant": "Travelpro",
-    "original_price": 160,
-    "price": 138,
-    "product_title": "Travelpro Maxlite 5 Compact Carry-On Spinner Luggage in Ensign Blue | Travel Suitcase",
-    "rank": 10,
-    "rating": 4.4,
-    "review_count": "476"
-  },
-  {
-    "collected_at": "2026-11-14T21:19:07.253573+00:00",
-    "currency": "USD",
-    "keyword": "air purifier",
-    "merchant": "QVC",
-    "original_price": null,
-    "price": 49.98,
-    "product_title": "Airvana Tabletop Air Purifier with Permanent Carbon Filter, White",
-    "rank": 4,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-14T21:46:39.759306+00:00",
-    "currency": "USD",
-    "keyword": "carry on luggage",
-    "merchant": "Luhxe",
-    "original_price": null,
-    "price": 179,
-    "product_title": "Luhxe Travel Bag 2.0 | Foldable Luggage Bag | Carry-On Approved | Shoes Pocket | For Both Short And Long Trips | Snow | Roller Edition",
-    "rank": 6,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-14T21:40:54.272933+00:00",
-    "currency": "USD",
-    "keyword": "air fryer",
-    "merchant": "Walmart",
-    "original_price": null,
-    "price": 46.99,
-    "product_title": "8qt Air Fryer with 8 Food Preset, LED Digital Touch Screen, Roast, Reheat, Dehydrate, Bake, Steam, 360 Hot Air, 85% Less Oil Healthy Cooker for Family",
-    "rank": 8,
-    "rating": 3.1,
-    "review_count": "86"
-  },
-  {
-    "collected_at": "2026-11-14T21:38:48.090253+00:00",
-    "currency": "USD",
-    "keyword": "ergonomic office chair",
-    "merchant": "FlexiSpot.com",
-    "original_price": 230,
-    "price": 209.99,
-    "product_title": "FlexiSpot C4 Green Ergonomic Office Chair with Footrest Mesh Most Comfortable Desk Chair with Lumbar Support High Back Chair for Tall People",
-    "rank": 6,
-    "rating": 4.4,
-    "review_count": "40"
-  },
-  {
-    "collected_at": "2026-11-14T21:19:14.930848+00:00",
-    "currency": "USD",
-    "keyword": "robot vacuum",
-    "merchant": "Walmart",
-    "original_price": null,
-    "price": 80.74,
-    "product_title": "Lefant M310 Robot Vacuum Cleaner with 4500Pa Suction, PSD Obstacle Avoidance, TangleFree for Pet Hair, WiFi/App/Voice Control, Gray",
-    "rank": 9,
-    "rating": 3.8,
-    "review_count": "160"
-  },
-  {
-    "collected_at": "2026-11-14T21:42:22.183995+00:00",
-    "currency": "USD",
-    "keyword": "noise cancelling headphones",
-    "merchant": "Walmart",
-    "original_price": null,
-    "price": 27.07,
-    "product_title": "Active Noise Cancelling Headphones,60H Playtime Bluetooth 6.0 Wireless Headphones with Hi-Res Audio, Over Ear Headphones with Microphone, Deep Bass,",
-    "rank": 6,
-    "rating": 4.1,
-    "review_count": "75"
-  },
-  {
-    "collected_at": "2026-11-14T21:44:59.155556+00:00",
-    "currency": "USD",
-    "keyword": "yoga mat",
-    "merchant": "Liforme",
-    "original_price": 195,
-    "price": 156,
-    "product_title": "Liforme Blossoming Lotus Yoga Mat | Liforme Grey",
-    "rank": 6,
-    "rating": 4.9,
-    "review_count": "407"
-  },
-  {
-    "collected_at": "2026-11-14T21:37:53.080045+00:00",
-    "currency": "USD",
-    "keyword": "mesh wifi router",
-    "merchant": "eero",
-    "original_price": 300,
-    "price": 199.99,
-    "product_title": "eero 6+ - Our most affordable gigabit system - Mesh wifi - Covers up to 4,500 sq. ft. - 3-pack",
-    "rank": 3,
-    "rating": null,
-    "review_count": null
   }
 ]

@@ -1,5 +1,17 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-11-15T08:00:45.668890+00:00,2026-11-12T17:45:16Z,2,427059508,Release v2.7.0 🌈,"## ⚠️ Important Upgrade Notes
+2026-11-16T08:00:52.400298+00:00,2026-11-13T09:44:36Z,2,444055878,n8n@2.47.7,"## [2.47.7](https://github.com/n8n-io/n8n/compare/n8n@2.47.6...n8n@2.47.7) (2026-11-13)
+
+
+### Bug Fixes
+
+* **core:** Stop redacting executions that use global credentials ([#43776](https://github.com/n8n-io/n8n/issues/43776)) ([c067170](https://github.com/n8n-io/n8n/commit/c0671702ca19e108652e5ac0e289e32e0a33e5e4))
+
+<!-- This is an auto-generated description by cubic. -->
+<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/43784?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/43784?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F43784&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
+<!-- End of auto-generated description by cubic. -->
+
+",https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.47.7
+2026-11-16T08:00:52.365506+00:00,2026-11-12T17:45:16Z,3,427059508,Release v2.7.0 🌈,"## ⚠️ Important Upgrade Notes
 
 - Helm chart: if you set some `probes` keys, the keys you did not set now take the new defaults (10 s period, 5 s timeout). If you tuned `failureThreshold` for the old 60 s period, also set `periodSeconds: 60`. Probe values that are not positive integers now fail `helm install` and `helm upgrade`. Quoted numbers such as `""5""` still work. ([#42571](https://github.com/appsmithorg/appsmith/pull/42571))
 - `navigateTo` to a page name that no longer exists now fails with ""Enter a valid URL or page name"", even when a parameter value contains a dot. Before, it opened the name as a web address, such as `https://OldPage?file=report.pdf`. A one-word host such as `intranet` with a dotted parameter now fails too. Use a full URL instead. ([#42513](https://github.com/appsmithorg/appsmith/pull/42513))
@@ -54,7 +66,7 @@ checked_at,published_at,release_age_days,release_id,release_name,release_notes,r
 - Helm chart health probes now run every 10 s with a 5 s timeout. Startup allows 600 s to boot, liveness restarts the container after 180 s of failure, and readiness marks the pod unready after 30 s. Saving admin settings that restart the server no longer gets the container killed. ([#42571](https://github.com/appsmithorg/appsmith/pull/42571))
 - Backups can skip MongoDB collections listed in `APPSMITH_BACKUP_EXCLUDE_COLLECTIONS` (comma-separated). ([#42581](https://github.com/appsmithorg/appsmith/pull/42581))
 - The server logs why it refuses an MCP token, such as an expired or revoked key. It never logs the secret. ([#42593](https://github.com/appsmithorg/appsmith/pull/42593))",https://github.com/appsmithorg/appsmith/releases/tag/v2.7.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.7.0
-2026-11-15T08:00:45.563187+00:00,2026-11-10T16:40:12Z,4,440627454,v4.0.0,"## What's Changed
+2026-11-16T08:00:52.465463+00:00,2026-11-10T16:40:12Z,5,440627454,v4.0.0,"## What's Changed
 * Persist AI_AGENT and AUTOMATION_STEP platform actions locally by @jvcalderon in https://github.com/Budibase/budibase/pull/19587
 * Enrich AUTOMATION_STEP action telemetry with automation run context by @jvcalderon in https://github.com/Budibase/budibase/pull/19570
 * Infer agent-session container status (active/waiting/completed/failed) by @jvcalderon in https://github.com/Budibase/budibase/pull/19616
@@ -148,15 +160,3 @@ checked_at,published_at,release_age_days,release_id,release_name,release_notes,r
 * @EazyHood made their first contribution in https://github.com/Budibase/budibase/pull/19918
 
 **Full Changelog**: https://github.com/Budibase/budibase/compare/v3.51.0...v4.0.0",https://github.com/Budibase/budibase/releases/tag/v4.0.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.0.0
-2026-11-15T08:00:45.593422+00:00,2026-11-13T09:44:36Z,1,444055878,n8n@2.47.7,"## [2.47.7](https://github.com/n8n-io/n8n/compare/n8n@2.47.6...n8n@2.47.7) (2026-11-13)
-
-
-### Bug Fixes
-
-* **core:** Stop redacting executions that use global credentials ([#43776](https://github.com/n8n-io/n8n/issues/43776)) ([c067170](https://github.com/n8n-io/n8n/commit/c0671702ca19e108652e5ac0e289e32e0a33e5e4))
-
-<!-- This is an auto-generated description by cubic. -->
-<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/43784?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/43784?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F43784&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
-<!-- End of auto-generated description by cubic. -->
-
-",https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.47.7

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "bestseller_badge_flags",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "marketplace",
+    "type": "text"
+  },
+  {
+    "name": "niche_keyword",
+    "type": "text"
+  },
+  {
+    "name": "pod_verification",
+    "type": "text"
+  },
+  {
+    "name": "price_notes",
+    "type": "text"
+  },
+  {
+    "name": "price_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "product_type",
+    "type": "text"
+  },
+  {
+    "name": "rank_notes",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "review_count",
+    "type": "integer"
+  },
+  {
+    "name": "review_count_approximate",
+    "type": "boolean"
+  },
+  {
+    "name": "review_count_display",
+    "type": "text"
+  },
+  {
+    "name": "review_scope",
+    "type": "text"
+  },
+  {
+    "name": "search_rank_position",
+    "type": "integer"
+  },
+  {
+    "name": "search_url",
+    "type": "text"
+  },
+  {
+    "name": "shop_brand",
+    "type": "text"
+  },
+  {
+    "name": "source_id",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

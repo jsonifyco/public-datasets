@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-AI company job postings from 42 companies incl\. OpenAI, Anthropic and Cohere: title, team, location, workplace type and published salary ranges, updated weekly\.
+AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\. The published tables contain 5,584 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-company-job-postings-5bae5dc811a8?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 4
-- Last published: 2026-11-09T07:02:07.554096Z
+- Last published: 2026-11-16T07:02:08.230901Z
 
 ## The brief
 
-> I need this data: AI company job postings from 42 companies incl\. OpenAI, Anthropic and Cohere: title, team, location, workplace type and published salary ranges, updated weekly\.
+> I need this data: AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\. The published tables contain 5,584 rows\.
 
 Summary from the public dataset description.
 
 ## AI company job postings / jobs
 
-5,262 total rows · 50 sampled · Output revision 9
-Published: 2026-11-09T07:02:07.554096Z · Producing pipeline version: 4
+5,584 total rows · 50 sampled · Output revision 10
+Published: 2026-11-16T07:02:08.230901Z · Producing pipeline version: 4
 
 [CSV sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.csv) · [JSON sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.json) · [Schema](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/schema.json)
 
 | first\_seen\_date | company | ats | board | posting\_id | title | department | team |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-09 | Scale AI | greenhouse | scaleai | 4750929005 | Quality Operations Lead, Gen AI | Gen AI Operations | None |
-| 2026\-11\-09 | Baseten | ashby | baseten | 67a47938\-5cb8\-40c9\-b027\-3c2879f74c00 | Engineering Manager, Site Reliability Engineering | EPD | SRE |
-| 2026\-11\-09 | OpenAI | ashby | openai | f363932f\-2820\-4056\-9786\-14cb697f4a93 | Engineering Manager, API Multicloud | Applied AI | Applied AI Engineering |
-| 2026\-11\-09 | Cohere | ashby | cohere | 0cf19dbd\-bfa9\-425f\-a357\-e2bd874bb489 | Data Annotation Specialist, Safety | Data Quality \(Contract\) | Safety Annotation |
-| 2026\-11\-09 | OpenAI | ashby | openai | 80ca9623\-f911\-45fc\-b5dc\-47ccfc60b395 | Presentation Designer, Business Marketing | Marketing | Marketing |
+| 2026\-11\-16 | Cohere | ashby | cohere | 2dc422bb\-6759\-4867\-afb6\-dc074af9ae58 | Senior Accountant | Business Operations | Finance |
+| 2026\-11\-16 | Cursor | ashby | cursor | 60a3541f\-f6b6\-4da2\-a168\-40e867a51740 | Field Engineer, Healthcare | Solutions | Field Engineering |
+| 2026\-11\-16 | Anthropic | greenhouse | anthropic | 5391203008 | Partner Account Manager, Systems Integrators | Sales | None |
+| 2026\-11\-16 | Cognition | ashby | cognition | 0b94c2c2\-1fc6\-4a5a\-9570\-c492d5c50546 | Lifecycle Marketing Lead | Marketing | Marketing |
+| 2026\-11\-16 | LangChain | ashby | langchain | ebfd7cd4\-c9cd\-46bd\-b406\-3fadaffcecef | Regional Vice President, Sales DACH | Sales | Sales |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -1,13 +1,5 @@
 [
   {
-    "name": "careers_count_note",
-    "type": "text"
-  },
-  {
-    "name": "careers_page_count",
-    "type": "bigint"
-  },
-  {
     "name": "careers_page_url",
     "type": "text"
   },
@@ -28,24 +20,12 @@
     "type": "double precision"
   },
   {
-    "name": "indeed_count",
-    "type": "bigint"
-  },
-  {
-    "name": "indeed_count_note",
-    "type": "text"
-  },
-  {
     "name": "indeed_source_url",
     "type": "text"
   },
   {
     "name": "industry",
     "type": "jsonb"
-  },
-  {
-    "name": "metrics_basis",
-    "type": "text"
   },
   {
     "name": "most_recent_posting_date",

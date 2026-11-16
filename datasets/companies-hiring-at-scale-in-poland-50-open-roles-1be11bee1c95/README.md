@@ -16,20 +16,20 @@ A published dataset of 96 companies advertising at least 50 jobs on one public s
 
 Summary from the public dataset description.
 
-## Companies Hiring at Scale in Poland: 50\+ Open Roles / companies
+## Companies Hiring at Scale in Poland \(50\+ Open Roles\) / companies
 
-96 total rows · 10 sampled · Output revision 3
+96 total rows · 50 sampled · Output revision 3
 Published: 2026-11-16T09:36:41.296141Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/bf9089355748/companies-1701cfb023a1/sample.csv) · [JSON sample](outputs/bf9089355748/companies-1701cfb023a1/sample.json) · [Schema](outputs/bf9089355748/companies-1701cfb023a1/schema.json)
 
-| careers\_count\_note | careers\_page\_count | careers\_page\_url | company\_domain | company\_name | example\_job\_titles | hybrid\_share | indeed\_count |
+| careers\_page\_url | company\_domain | company\_name | example\_job\_titles | hybrid\_share | indeed\_source\_url | industry | most\_recent\_posting\_date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| No explicit current Poland\-only job total exposed on the easy careers page\. | None | [https://sii\.pl/oferty\-pracy/](<https://sii.pl/oferty-pracy/>) | sii\.pl | Sii Sp\. z o\.o\. | \["Associate Business Manager – sektor Public &amp; Utilities \(f/m/x\)", "Senior ServiceNow Developer \(f/m/x\)", "Python Test Automation Engineer with AWS \(f/m/x\)"\] | 0\.9053 | None |
-| Wyniki 1 – 20 z 1288 | 1288 | [https://careers\.jeronimomartins\.com/Biedronka/search/?locale=pl\_PL](<https://careers.jeronimomartins.com/Biedronka/search/?locale=pl_PL>) | biedronka\.pl | Biedronka \(Jeronimo Martins Polska S\.A\.\) | \["Sprzedawca\-kasjer \(m/k\) \| Mile widziane osoby z niepełnosprawnością", "Sprzedawca \- Lada Tradycyjna \(m/k\) \| Mile widziane osoby z niepełnosprawnością", "Kierownik sklepu \(m/k\)"\] | 0 | None |
-| No easy public careers link found on the employer profile\. | None | None | capgemini\.com | Capgemini Polska | \["Project Manager \(Custom Application Development, with German\)", "Business Analyst \(with German\)", "Senior Consultant \(Workday Integration\)"\] | 1 | None |
-| No explicit current Poland\-only job total exposed on the easy careers page\. | None | [https://kariera\.stokrotka\.pl/oferty\-pracy/](<https://kariera.stokrotka.pl/oferty-pracy/>) | stokrotka\.pl | Stokrotka Sp\. z o\.o\. | \["Magazynier / Magazynierka – Kompletacja Towaru", "Kierowca kat\. C / Kierowczyni kat\. C", "Pracownik / Pracownica Sklepu \- również dla osób z orzeczeniem o niepełnosprawności"\] | 0 | None |
-| No explicit current Poland\-only job total exposed on the easy careers page\. | None | [https://www\.nn\.pl/kariera/lista\-ofert](<https://www.nn.pl/kariera/lista-ofert>) | nn\.pl | Nationale\-Nederlanden | \["Młodszy Menadżer / Młodsza Menadżerka Zespołu Sprzedaży \(nowy zespół\)", "Analityko\-Tester Systemowy / Analityko\-Testerka Systemowa", "Doradca / Doradczyni Klienta"\] | 0\.8121 | None |
+| [https://allianz\.pl/kariera](<https://allianz.pl/kariera>) | allianz\.pl | Allianz | \["Starszy Programista / Starsza Programistka PL/SQL", "Usługi programistyczne Java &amp; Angular \(Fullstack\)", "Usługi zarządzania projektami \(Senior Project Manager\)"\] | 0\.9702 | [https://pl\.indeed\.com/jobs?q=company%3A%22Allianz%22&amp;l=Polska](<https://pl.indeed.com/jobs?q=company%3A%22Allianz%22&amp;l=Polska>) | \["Bankowość/Finanse/Ekonomia", "Ubezpieczenia"\] | 2026\-11\-13 |
+| [https://astek\.pl/kariera/](<https://astek.pl/kariera/>) | astek\.pl | Astek | \["Administrator Baz Danych PostgreSQL \- K/M", "Grafik \- Projektant UX/UI \- \(M/K\)", "Starszy Analityk Systemowy \(K/M\)"\] | 0\.3 | [https://pl\.indeed\.com/jobs?q=company%3A%22Astek%22&amp;l=Polska](<https://pl.indeed.com/jobs?q=company%3A%22Astek%22&amp;l=Polska>) | \["Informatyka/Programowanie", "Informatyka/Administracja", "Inżynieria/Konstrukcje/Technologia"\] | 2026\-11\-13 |
+| [https://audiofon\.com\.pl/kariera\-oferty](<https://audiofon.com.pl/kariera-oferty>) | audiofon\.com\.pl | Audiofon | \["Osoba na stanowisko Manager ds\. Efektywności Sprzedaży", "Osoba na stanowisko Pracownik Biurowo\-Sprzedażowy", "Osoba na stanowisko Przedstawiciel Medyczny"\] | 0 | [https://pl\.indeed\.com/jobs?q=company%3A%22Audiofon%22&amp;l=Polska](<https://pl.indeed.com/jobs?q=company%3A%22Audiofon%22&amp;l=Polska>) | \["Protetyka słuchu", "Służba zdrowia / Medycyna / Weterynaria"\] | 2026\-11\-13 |
+| [https://budimex\.pl/kariera/oferty\-pracy/](<https://budimex.pl/kariera/oferty-pracy/>) | budimex\.pl | Budimex | \["Starszy Specjalista/Starsza Specjalistka ds\. Kadr", "Kierownik/Kierowniczka Projektów IT \(PM\)", "Inżynier/\-ka Budowy / Kierownik/\-czka Robót Drogowych/Mostowych – z jęz\. czeskim"\] | 0\.0986 | [https://pl\.indeed\.com/jobs?q=company%3A%22Budimex%22&amp;l=Polska](<https://pl.indeed.com/jobs?q=company%3A%22Budimex%22&amp;l=Polska>) | \["Budownictwo"\] | 2026\-11\-13 |
+| [https://calzpolska\.kariera\.pro/](<https://calzpolska.kariera.pro/>) | calzpolska\.kariera\.pro | CALZ POLSKA | \["Sprzedawca / Sprzedawczyni – TEZENIS – Arkadia \( ¾ etatu\)", "Sprzedawca / Sprzedawczyni – IUMAN – Sfera \( ½ etatu\)", "Sprzedawca / Sprzedawczyni – TEZENIS – Forum \(½ etatu\)"\] | 0 | [https://pl\.indeed\.com/jobs?q=company%3A%22CALZ\+POLSKA%22&amp;l=Polska](<https://pl.indeed.com/jobs?q=company%3A%22CALZ+POLSKA%22&amp;l=Polska>) | \["Handel detaliczny", "Sprzedaż \- odzież, obuwie, dodatki", "Obsługa klienta \- sprzedawcy"\] | 2026\-11\-13 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -37,18 +37,13 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| careers\_count\_note | text |
-| careers\_page\_count | bigint |
 | careers\_page\_url | text |
 | company\_domain | text |
 | company\_name | text |
 | example\_job\_titles | jsonb |
 | hybrid\_share | double precision |
-| indeed\_count | bigint |
-| indeed\_count\_note | text |
 | indeed\_source\_url | text |
 | industry | jsonb |
-| metrics\_basis | text |
 | most\_recent\_posting\_date | text |
 | open\_roles\_total | bigint |
 | pracuj\_count | bigint |

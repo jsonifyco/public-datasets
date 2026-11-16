@@ -1,344 +1,191 @@
 [
   {
-    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
-    "careers_page_count": null,
-    "careers_page_url": "https://sii.pl/oferty-pracy/",
-    "company_domain": "sii.pl",
-    "company_name": "Sii Sp. z o.o.",
+    "careers_page_url": "https://allianz.pl/kariera",
+    "company_domain": "allianz.pl",
+    "company_name": "Allianz",
     "example_job_titles": [
-      "Associate Business Manager – sektor Public & Utilities (f/m/x)",
-      "Senior ServiceNow Developer (f/m/x)",
-      "Python Test Automation Engineer with AWS (f/m/x)"
+      "Starszy Programista / Starsza Programistka PL/SQL",
+      "Usługi programistyczne Java & Angular (Fullstack)",
+      "Usługi zarządzania projektami (Senior Project Manager)"
     ],
-    "hybrid_share": 0.9053,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
-    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Sii+Polska%22&l=Polska",
-    "industry": [
-      "Doradztwo/Konsulting",
-      "Informatyka/Programowanie",
-      "Inżynieria/Konstrukcje/Technologia"
-    ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
-    "most_recent_posting_date": "2026-11-13",
-    "open_roles_total": 1489,
-    "pracuj_count": 1489,
-    "pracuj_distinct_job_groups": 184,
-    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20000761&ct=1",
-    "profile_url": "https://pracodawcy.pracuj.pl/profile/sii-polska,s9nqcie,pl",
-    "remote_share": 0.769,
-    "scraped_at": "2026-11-13T17:57:10.229556+00:00",
-    "top_3_job_functions": [
-      "Software Development & Engineering",
-      "Data & Analytics",
-      "IT Consulting & Systems"
-    ],
-    "top_locations": [
-      "Warszawa",
-      "Kraków",
-      "Wrocław",
-      "Poznań",
-      "Łódź"
-    ],
-    "website": "https://sii.pl"
-  },
-  {
-    "careers_count_note": "Wyniki 1 – 20 z 1288",
-    "careers_page_count": 1288,
-    "careers_page_url": "https://careers.jeronimomartins.com/Biedronka/search/?locale=pl_PL",
-    "company_domain": "biedronka.pl",
-    "company_name": "Biedronka (Jeronimo Martins Polska S.A.)",
-    "example_job_titles": [
-      "Sprzedawca-kasjer (m/k) | Mile widziane osoby z niepełnosprawnością",
-      "Sprzedawca - Lada Tradycyjna (m/k) | Mile widziane osoby z niepełnosprawnością",
-      "Kierownik sklepu (m/k)"
-    ],
-    "hybrid_share": 0,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
-    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Biedronka%22&l=Polska",
-    "industry": [
-      "Handel detaliczny"
-    ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
-    "most_recent_posting_date": "2026-11-13",
-    "open_roles_total": 1288,
-    "pracuj_count": 215,
-    "pracuj_distinct_job_groups": 210,
-    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=921&ct=1",
-    "profile_url": "https://pracodawcy.pracuj.pl/profile/biedronka,qrflle9,pl",
-    "remote_share": 0,
-    "scraped_at": "2026-11-13T17:58:17.351985+00:00",
-    "top_3_job_functions": [
-      "Retail Sales",
-      "Retail Management",
-      "Supply Chain and Logistics"
-    ],
-    "top_locations": [
-      "Warszawa",
-      "Olsztyn",
-      "Nowa Wola (pow. piaseczyński)",
-      "Nowy Konik (pow. miński)",
-      "Leoncin (pow. nowodworski)"
-    ],
-    "website": "https://www.biedronka.pl/"
-  },
-  {
-    "careers_count_note": "No easy public careers link found on the employer profile.",
-    "careers_page_count": null,
-    "careers_page_url": null,
-    "company_domain": "capgemini.com",
-    "company_name": "Capgemini Polska",
-    "example_job_titles": [
-      "Project Manager (Custom Application Development, with German)",
-      "Business Analyst (with German)",
-      "Senior Consultant (Workday Integration)"
-    ],
-    "hybrid_share": 1,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
-    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Capgemini+%22&l=Polska",
-    "industry": [
-      "Informatyka/Programowanie",
-      "Bankowość/Finanse/Ekonomia",
-      "Doradztwo/Konsulting"
-    ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
-    "most_recent_posting_date": "2026-11-13",
-    "open_roles_total": 589,
-    "pracuj_count": 589,
-    "pracuj_distinct_job_groups": 149,
-    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18804842%2C20002367%2C20049398%2C20158356%2C20208904&ct=1",
-    "profile_url": "https://pracodawcy.pracuj.pl/profile/capgemini,y2bsot1,pl",
-    "remote_share": 0,
-    "scraped_at": "2026-11-13T17:56:51.053151+00:00",
-    "top_3_job_functions": [
-      "Software Engineering & Development",
-      "IT Consulting & Architecture",
-      "IT Operations & Infrastructure"
-    ],
-    "top_locations": [
-      "Wrocław",
-      "Gdańsk",
-      "Poznań",
-      "Kraków",
-      "Warszawa"
-    ],
-    "website": "https://www.capgemini.com/pl-pl/"
-  },
-  {
-    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
-    "careers_page_count": null,
-    "careers_page_url": "https://kariera.stokrotka.pl/oferty-pracy/",
-    "company_domain": "stokrotka.pl",
-    "company_name": "Stokrotka Sp. z o.o.",
-    "example_job_titles": [
-      "Magazynier / Magazynierka – Kompletacja Towaru",
-      "Kierowca kat. C / Kierowczyni kat. C",
-      "Pracownik / Pracownica Sklepu - również dla osób z orzeczeniem o niepełnosprawności"
-    ],
-    "hybrid_share": 0,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
-    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Stokrotka%22&l=Polska",
-    "industry": [
-      "Handel detaliczny",
-      "Logistyka/Dystrybucja"
-    ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
-    "most_recent_posting_date": "2026-11-13",
-    "open_roles_total": 354,
-    "pracuj_count": 354,
-    "pracuj_distinct_job_groups": 26,
-    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20000415&ct=1",
-    "profile_url": "https://pracodawcy.pracuj.pl/profile/stokrotka,dq4od23,pl",
-    "remote_share": 0,
-    "scraped_at": "2026-11-13T17:56:37.210913+00:00",
-    "top_3_job_functions": [
-      "Retail Sales and Store Operations",
-      "Retail Management",
-      "Warehouse and Logistics"
-    ],
-    "top_locations": [
-      "Lublin",
-      "Psary (pow. będziński)",
-      "Koszalin",
-      "Łódź",
-      "Pruszków"
-    ],
-    "website": "https://stokrotka.pl/"
-  },
-  {
-    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
-    "careers_page_count": null,
-    "careers_page_url": "https://www.nn.pl/kariera/lista-ofert",
-    "company_domain": "nn.pl",
-    "company_name": "Nationale-Nederlanden",
-    "example_job_titles": [
-      "Młodszy Menadżer / Młodsza Menadżerka Zespołu Sprzedaży (nowy zespół)",
-      "Analityko-Tester Systemowy / Analityko-Testerka Systemowa",
-      "Doradca / Doradczyni Klienta"
-    ],
-    "hybrid_share": 0.8121,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
-    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Nationale-Nederlanden+%22&l=Polska",
+    "hybrid_share": 0.9702,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Allianz%22&l=Polska",
     "industry": [
       "Bankowość/Finanse/Ekonomia",
       "Ubezpieczenia"
     ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
     "most_recent_posting_date": "2026-11-13",
-    "open_roles_total": 346,
-    "pracuj_count": 346,
+    "open_roles_total": 168,
+    "pracuj_count": 168,
     "pracuj_distinct_job_groups": 15,
-    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18800763&ct=1",
-    "profile_url": "https://pracodawcy.pracuj.pl/profile/nationale-nederlanden,wzfqmr9,pl",
-    "remote_share": 0.0376,
-    "scraped_at": "2026-11-13T17:56:39.433906+00:00",
-    "top_3_job_functions": [
-      "Sales",
-      "Customer Service",
-      "Management"
-    ],
-    "top_locations": [
-      "Warszawa",
-      "Poznań",
-      "Bydgoszcz",
-      "Gdańsk",
-      "Lublin"
-    ],
-    "website": "https://www.nn.pl"
-  },
-  {
-    "careers_count_note": "No easy public careers link found on the employer profile.",
-    "careers_page_count": null,
-    "careers_page_url": null,
-    "company_domain": "randstad.pl",
-    "company_name": "Randstad Polska Sp. z o.o.",
-    "example_job_titles": [
-      "Doradca techniczno-handlowy (branża mięsna/dodatki spożywcze) k/m/x",
-      "Працівник складу з UDT (k/m)",
-      "Specjalista / tka ds. Rozwoju Sprzedaży"
-    ],
-    "hybrid_share": 0.1174,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
-    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Randstad+Polska%22&l=Polska",
-    "industry": [
-      "Agencje pracy tymczasowej",
-      "Doradztwo/Konsulting",
-      "Human Resources"
-    ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
-    "most_recent_posting_date": "2026-11-13",
-    "open_roles_total": 247,
-    "pracuj_count": 247,
-    "pracuj_distinct_job_groups": 225,
-    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=13645018&ct=1",
-    "profile_url": "https://pracodawcy.pracuj.pl/profile/randstad-polska,qo8gyt9,pl",
-    "remote_share": 0.0162,
-    "scraped_at": "2026-11-13T17:57:05.635301+00:00",
-    "top_3_job_functions": [
-      "Manufacturing & Production",
-      "Warehousing & Logistics",
-      "Sales & Business Development"
-    ],
-    "top_locations": [
-      "Wrocław",
-      "Warszawa",
-      "Kraków",
-      "Łódź",
-      "Poznań"
-    ],
-    "website": "https://www.randstad.pl/"
-  },
-  {
-    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
-    "careers_page_count": null,
-    "careers_page_url": "https://www.uniqa.pl/kariera/",
-    "company_domain": "uniqa.pl",
-    "company_name": "Grupa UNIQA",
-    "example_job_titles": [
-      "Ekspertka/ Ekspert ds. Transformacji Procesów Biznesowych",
-      "Doradca Ubezpieczeniowy K/M (sieci wyłączne) - Nowa kariera zaczyna się tutaj!",
-      "Przedstawiciel Ubezpieczeniowy / Przedstawicielka Ubezpieczeniowa"
-    ],
-    "hybrid_share": 0.0571,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
-    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22UNIQA%22&l=Polska",
-    "industry": [
-      "Bankowość/Finanse/Ekonomia",
-      "Ubezpieczenia"
-    ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
-    "most_recent_posting_date": "2026-11-13",
-    "open_roles_total": 245,
-    "pracuj_count": 245,
-    "pracuj_distinct_job_groups": 32,
-    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20002512%2C20006696%2C20022074%2C20130067&ct=1",
-    "profile_url": "https://pracodawcy.pracuj.pl/profile/uniqa,nfpj7gd,pl",
-    "remote_share": 0.4327,
-    "scraped_at": "2026-11-13T17:56:47.125088+00:00",
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18801659%2C20001585%2C20005767%2C1074113895&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/allianz,9goppqa,pl",
+    "remote_share": 0.0179,
+    "scraped_at": "2026-11-13T17:57:49.658980+00:00",
     "top_3_job_functions": [
       "Sales",
       "Information Technology",
-      "Insurance Claims"
+      "Insurance"
     ],
     "top_locations": [
       "Warszawa",
-      "Łódź",
-      "Wrocław",
-      "Katowice",
-      "Koszalin"
+      "Bielsko-Biała",
+      "Częstochowa",
+      "Elbląg",
+      "Jelenia Góra"
     ],
-    "website": "https://www.uniqa.pl"
+    "website": "https://allianz.pl"
   },
   {
-    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
-    "careers_page_count": null,
-    "careers_page_url": "https://kariera.netto.pl/rekrutacja/",
-    "company_domain": "netto.pl",
-    "company_name": "Netto Sp. z o.o.",
+    "careers_page_url": "https://astek.pl/kariera/",
+    "company_domain": "astek.pl",
+    "company_name": "Astek",
     "example_job_titles": [
-      "Pracownik Magazynowy - operator (k/m/x)",
-      "Specjalista ds. Szkoleń i Rozwoju (k/m/x)",
-      "Pracownik wykładający towar (k/m/x)"
+      "Administrator Baz Danych PostgreSQL - K/M",
+      "Grafik - Projektant UX/UI - (M/K)",
+      "Starszy Analityk Systemowy (K/M)"
     ],
-    "hybrid_share": 0.0211,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
-    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Netto+Sp.+z+o.o.%22&l=Polska",
+    "hybrid_share": 0.3,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Astek%22&l=Polska",
     "industry": [
-      "Handel detaliczny"
+      "Informatyka/Programowanie",
+      "Informatyka/Administracja",
+      "Inżynieria/Konstrukcje/Technologia"
     ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
     "most_recent_posting_date": "2026-11-13",
-    "open_roles_total": 237,
-    "pracuj_count": 237,
-    "pracuj_distinct_job_groups": 237,
-    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20002146&ct=1",
-    "profile_url": "https://pracodawcy.pracuj.pl/profile/netto-sp-z-o-o,ayg2vpa,pl",
-    "remote_share": 0,
-    "scraped_at": "2026-11-13T17:57:15.579986+00:00",
+    "open_roles_total": 70,
+    "pracuj_count": 70,
+    "pracuj_distinct_job_groups": 70,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20006857&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/astek,smn0w8c,pl",
+    "remote_share": 0.2571,
+    "scraped_at": "2026-11-13T18:04:31.874409+00:00",
     "top_3_job_functions": [
-      "Retail",
-      "Operations",
+      "Information Technology",
+      "Business Analysis",
+      "Project Management"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Wrocław",
+      "Kraków",
+      "Gdańsk",
+      "Łódź"
+    ],
+    "website": "https://astek.pl/"
+  },
+  {
+    "careers_page_url": "https://audiofon.com.pl/kariera-oferty",
+    "company_domain": "audiofon.com.pl",
+    "company_name": "Audiofon",
+    "example_job_titles": [
+      "Osoba na stanowisko Manager ds. Efektywności Sprzedaży",
+      "Osoba na stanowisko Pracownik Biurowo-Sprzedażowy",
+      "Osoba na stanowisko Przedstawiciel Medyczny"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Audiofon%22&l=Polska",
+    "industry": [
+      "Protetyka słuchu",
+      "Służba zdrowia / Medycyna / Weterynaria"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 64,
+    "pracuj_count": 64,
+    "pracuj_distinct_job_groups": 6,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20289239&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/audiofon,2issg44,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:05:35.282142+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Healthcare",
       "Human Resources"
     ],
     "top_locations": [
-      "Szczecin",
-      "Warszawa",
-      "Poznań",
-      "Łódź",
-      "Wrocław"
+      "Otwock",
+      "Piaseczno",
+      "Pruszków",
+      "Rzeszów",
+      "Siedlce"
     ],
-    "website": "https://netto.pl/"
+    "website": "https://audiofon.com.pl/"
   },
   {
-    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
-    "careers_page_count": null,
+    "careers_page_url": "https://budimex.pl/kariera/oferty-pracy/",
+    "company_domain": "budimex.pl",
+    "company_name": "Budimex",
+    "example_job_titles": [
+      "Starszy Specjalista/Starsza Specjalistka ds. Kadr",
+      "Kierownik/Kierowniczka Projektów IT (PM)",
+      "Inżynier/-ka Budowy / Kierownik/-czka Robót Drogowych/Mostowych – z jęz. czeskim"
+    ],
+    "hybrid_share": 0.0986,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Budimex%22&l=Polska",
+    "industry": [
+      "Budownictwo"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 71,
+    "pracuj_count": 71,
+    "pracuj_distinct_job_groups": 27,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=15983330&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/budimex,vsrqbu3,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:04:50.460328+00:00",
+    "top_3_job_functions": [
+      "Construction and Engineering",
+      "Contract Management",
+      "Project Management"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Łódź",
+      "Bydgoszcz",
+      "Gdańsk",
+      "Rzeszów"
+    ],
+    "website": "https://www.budimex.pl"
+  },
+  {
+    "careers_page_url": "https://calzpolska.kariera.pro/",
+    "company_domain": "calzpolska.kariera.pro",
+    "company_name": "CALZ POLSKA",
+    "example_job_titles": [
+      "Sprzedawca / Sprzedawczyni – TEZENIS – Arkadia ( ¾ etatu)",
+      "Sprzedawca / Sprzedawczyni – IUMAN – Sfera ( ½ etatu)",
+      "Sprzedawca / Sprzedawczyni – TEZENIS – Forum (½ etatu)"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22CALZ+POLSKA%22&l=Polska",
+    "industry": [
+      "Handel detaliczny",
+      "Sprzedaż - odzież, obuwie, dodatki",
+      "Obsługa klienta - sprzedawcy"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 77,
+    "pracuj_count": 77,
+    "pracuj_distinct_job_groups": 72,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20013948&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/calz-polska,yj2ylpj,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:03:47.857761+00:00",
+    "top_3_job_functions": [
+      "Retail Sales",
+      "Retail Management",
+      "Customer Service"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Wrocław",
+      "Poznań",
+      "Katowice"
+    ],
+    "website": "https://calzpolska.kariera.pro/"
+  },
+  {
     "careers_page_url": "https://careeratamrest.com/pl/join-us/",
     "company_domain": "amrest.eu",
     "company_name": "AmRest",
@@ -348,13 +195,10 @@
       "Pracownik / Pracowniczka Restauracji KFC Morzęcino Wschód BP MOP S5"
     ],
     "hybrid_share": 0.0088,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
     "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22AmRest%22&l=Polska",
     "industry": [
       "Katering/Gastronomia"
     ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
     "most_recent_posting_date": "2026-11-13",
     "open_roles_total": 226,
     "pracuj_count": 226,
@@ -378,8 +222,594 @@
     "website": "https://www.amrest.eu/pl"
   },
   {
-    "careers_count_note": "No explicit current Poland-only job total exposed on the easy careers page.",
-    "careers_page_count": null,
+    "careers_page_url": "https://career.modivogroup.com/",
+    "company_domain": "modivoplatform.com",
+    "company_name": "MODIVO PLATFORM (marki CCC, MODIVO, eobuwie, HalfPrice, ShockPrice, worldbox, Boardriders)",
+    "example_job_titles": [
+      "Kierownik Sklepu eobuwie.pl (k/m) Galeria Słoneczna",
+      "Sprzedawca (k/m) HalfPrice",
+      "Sprzedawca Zleceniobiorca (k/m) HalfPrice"
+    ],
+    "hybrid_share": 0.0533,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22MODIVO+PLATFORM%22&l=Polska",
+    "industry": [
+      "Handel detaliczny",
+      "Internet/E-Commerce",
+      "Fashion"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 75,
+    "pracuj_count": 75,
+    "pracuj_distinct_job_groups": 75,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18800508%2C20091979%2C20156494%2C20187574%2C20262419%2C1074062249&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/modivo-platform,lsiperf,pl",
+    "remote_share": 0.0533,
+    "scraped_at": "2026-11-13T18:04:43.545695+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Retail Management",
+      "Warehouse and Logistics"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Polkowice",
+      "Otwock",
+      "Kołobrzeg",
+      "Łódź"
+    ],
+    "website": "https://modivoplatform.com/"
+  },
+  {
+    "careers_page_url": "https://careers.dhl.com/eu/pl/parcel-job-offer-search-result",
+    "company_domain": "dhl.com",
+    "company_name": "DHL eCommerce (Poland)",
+    "example_job_titles": [
+      "Specjalista / Specjalistka ds. Centralnego Depozytu",
+      "Projektant(ka) / Programista(tka) (K/M) 15680",
+      "Starszy Magazynier / Starsza Magazynierka"
+    ],
+    "hybrid_share": 0.0748,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22DHL+eCommerce+%28Poland%29%22&l=Polska",
+    "industry": [
+      "Logistyka/Dystrybucja",
+      "Transport/Spedycja/Usługi kurierskie"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 107,
+    "pracuj_count": 107,
+    "pracuj_distinct_job_groups": 107,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20295719&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/dhl-ecommerce-poland,rka77m9,pl",
+    "remote_share": 0.0093,
+    "scraped_at": "2026-11-13T18:01:54.482826+00:00",
+    "top_3_job_functions": [
+      "Transportation and Logistics",
+      "Operations",
+      "Information Technology"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Głuchowo (pow. poznański)",
+      "Zabrze",
+      "Piła",
+      "Łódź"
+    ],
+    "website": "https://www.dhl.com/"
+  },
+  {
+    "careers_page_url": "https://careers.jeronimomartins.com/Biedronka/search/?locale=pl_PL",
+    "company_domain": "biedronka.pl",
+    "company_name": "Biedronka (Jeronimo Martins Polska S.A.)",
+    "example_job_titles": [
+      "Sprzedawca-kasjer (m/k) | Mile widziane osoby z niepełnosprawnością",
+      "Sprzedawca - Lada Tradycyjna (m/k) | Mile widziane osoby z niepełnosprawnością",
+      "Kierownik sklepu (m/k)"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Biedronka%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 1288,
+    "pracuj_count": 215,
+    "pracuj_distinct_job_groups": 210,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=921&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/biedronka,qrflle9,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:58:17.351985+00:00",
+    "top_3_job_functions": [
+      "Retail Sales",
+      "Retail Management",
+      "Supply Chain and Logistics"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Olsztyn",
+      "Nowa Wola (pow. piaseczyński)",
+      "Nowy Konik (pow. miński)",
+      "Leoncin (pow. nowodworski)"
+    ],
+    "website": "https://www.biedronka.pl/"
+  },
+  {
+    "careers_page_url": "https://careers.pepco.eu/?locale=pl_PL",
+    "company_domain": "pepco.pl",
+    "company_name": "Pepco Poland",
+    "example_job_titles": [
+      "Pracownik Sklepu / Pracowniczka Sklepu (Sezon X-XII)",
+      "Kierownik / Kierowniczka Sklepu",
+      "Kasjer – Sprzedawca / Kasjerka – Sprzedawczyni"
+    ],
+    "hybrid_share": 0.3243,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Pepco+Poland%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 74,
+    "pracuj_count": 74,
+    "pracuj_distinct_job_groups": 74,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18801156%2C20299127%2C1074112261&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/pepco-poland,34x2bub,pl",
+    "remote_share": 0.0135,
+    "scraped_at": "2026-11-13T18:04:46.317408+00:00",
+    "top_3_job_functions": [
+      "Retail Sales and Store Operations",
+      "Supply Chain and Procurement",
+      "Marketing and Communications"
+    ],
+    "top_locations": [
+      "Poznań",
+      "Warszawa",
+      "Wrocław",
+      "Zakopane",
+      "Tomaszów Mazowiecki"
+    ],
+    "website": "https://pepco.pl/"
+  },
+  {
+    "careers_page_url": "https://careers.zabkagroup.com/pl/oferty-pracy?kraj=all",
+    "company_domain": "zabka.pl",
+    "company_name": "Żabka Polska Sp. z o.o.",
+    "example_job_titles": [
+      "Franczyzobiorca / Franczyzobiorczyni (Poprowadź swoją Żabkę)",
+      "Franczyzobiorca / Franczyzobiorczyni (Poprowadź swoją Żabkę), Warszawa Mokotów",
+      "Franczyzobiorca / Franczyzobiorczyni (Poprowadź swoją Żabkę), Warszawa Bemowo"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Zabka%22&l=Polska",
+    "industry": [
+      "Handel detaliczny",
+      "Franczyza"
+    ],
+    "most_recent_posting_date": "2026-11-11",
+    "open_roles_total": 97,
+    "pracuj_count": 97,
+    "pracuj_distinct_job_groups": 97,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=1074140492&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/zabka,ac5pyaf,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:02:01.633966+00:00",
+    "top_3_job_functions": [
+      "Entrepreneurship",
+      "Retail Operations",
+      "Business Management"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Gdańsk",
+      "Zielona Góra",
+      "Poznań",
+      "Głogów"
+    ],
+    "website": "https://www.zabka.pl"
+  },
+  {
+    "careers_page_url": "https://dozkariera.pl/",
+    "company_domain": "dozkariera.pl",
+    "company_name": "DOZ S.A.",
+    "example_job_titles": [
+      "Category Manager (m/k/os)",
+      "Technik Farmaceutyczny (m/k/os)",
+      "Magister Farmacji (m/k/os)"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22DOZ+S.A.%22&l=Polska",
+    "industry": [
+      "Farmaceutyka/Biotechnologia"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 122,
+    "pracuj_count": 122,
+    "pracuj_distinct_job_groups": 122,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18801676&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/doz-s-a,4bms3za,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:00:49.746920+00:00",
+    "top_3_job_functions": [
+      "Healthcare",
+      "Retail and Store Management",
+      "Supply Chain and Logistics"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Łódź",
+      "Gdańsk",
+      "Kraków",
+      "Nidzica"
+    ],
+    "website": "https://dozkariera.pl/"
+  },
+  {
+    "careers_page_url": "https://electrum.pl/kariera/",
+    "company_domain": "electrum.pl",
+    "company_name": "Electrum Holding sp. z o.o.",
+    "example_job_titles": [
+      "Specjalista QHSSE (k/m)",
+      "Kierownik Robót Sanitarnych (k/m)",
+      "Technik Serwisu (k/m)"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Electrum+Holding+sp.+z+o.o.%22&l=Polska",
+    "industry": [
+      "Energetyka",
+      "Inżynieria/Konstrukcje/Technologia"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 98,
+    "pracuj_count": 98,
+    "pracuj_distinct_job_groups": 10,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20011079%2C20377333%2C1074097019%2C1074135318&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/electrum-holding-sp-z-o-o,fg9pawb,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:01:26.817813+00:00",
+    "top_3_job_functions": [
+      "Construction and Project Management",
+      "Engineering",
+      "Maintenance and Repair"
+    ],
+    "top_locations": [
+      "Białystok",
+      "Bydgoszcz",
+      "Olsztyn",
+      "Poznań",
+      "Katowice"
+    ],
+    "website": "https://electrum.pl/"
+  },
+  {
+    "careers_page_url": "https://erstebp.wd502.myworkdayjobs.com/pl-PL/Kariera",
+    "company_domain": "erste.pl",
+    "company_name": "Erste Bank Polska",
+    "example_job_titles": [
+      "Ekspert / Ekspertka ds. Produktów Kredytowych",
+      "Ekspert(-ka) relacji z klientem zamożnym",
+      "Specjalista(-ka) relacji z klientem"
+    ],
+    "hybrid_share": 0.1713,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Erste+Bank+Polska%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 181,
+    "pracuj_count": 181,
+    "pracuj_distinct_job_groups": 84,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=282%2C497&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/erste-bank-polska,a2czctb,pl",
+    "remote_share": 0.0166,
+    "scraped_at": "2026-11-13T17:57:52.105061+00:00",
+    "top_3_job_functions": [
+      "Customer Service and Relationship Management",
+      "Sales and Business Development",
+      "Finance and Banking"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Poznań",
+      "Wrocław",
+      "Łódź",
+      "Kraków"
+    ],
+    "website": "https://www.erste.pl"
+  },
+  {
+    "careers_page_url": "https://grupapolsatplus.pl/pl/oferty-pracy",
+    "company_domain": "grupapolsatplus.pl",
+    "company_name": "Grupa Polsat Plus",
+    "example_job_titles": [
+      "Młodszy Specjalista ds. Zarządzania Siecią Detaliczną (k/m)",
+      "Recepcjonistka (k/m)",
+      "Regionalny Koordynator Sprzedaży (k/m)"
+    ],
+    "hybrid_share": 0.1667,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22GPP%22&l=Polska",
+    "industry": [
+      "Telekomunikacja",
+      "Internet/E-Commerce"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 84,
+    "pracuj_count": 84,
+    "pracuj_distinct_job_groups": 38,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=218%2C6422685%2C18798277&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/gpp,3e67nz7,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:02:35.958184+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Engineering",
+      "Customer Service"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Rzeszów",
+      "Szczecin",
+      "Zielona Góra",
+      "Biała Podlaska"
+    ],
+    "website": "https://grupapolsatplus.pl"
+  },
+  {
+    "careers_page_url": "https://jobboerse.strabag.at/jobs-overview.php?language=PL",
+    "company_domain": "strabag.com",
+    "company_name": "STRABAG",
+    "example_job_titles": [
+      "Pracownik Patrolowo-Interwencyjny (K/M)",
+      "Dyżurny ds. Utrzymania Zimowego (K/M)",
+      "Kierowca ds. Zimowego Utrzymania Dróg (m/k)"
+    ],
+    "hybrid_share": 0.012,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22STRABAG%22&l=Polska",
+    "industry": [
+      "Budownictwo/Geodezja",
+      "Inżynieria/Konstrukcje/Technologia",
+      "Nieruchomości/Budownictwo"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 83,
+    "pracuj_count": 83,
+    "pracuj_distinct_job_groups": 80,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20053186%2C20195834&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/strabag,sntbkj7,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:03:53.594998+00:00",
+    "top_3_job_functions": [
+      "Construction & Engineering",
+      "Operations & Maintenance",
+      "Skilled Trades & Technical Services"
+    ],
+    "top_locations": [
+      "Pruszków",
+      "Maksymilianowo (pow. bydgoski)",
+      "Warszawa",
+      "Wrocław",
+      "Siedlce"
+    ],
+    "website": "https://www.strabag.com/"
+  },
+  {
+    "careers_page_url": "https://jobs.dsv.com/search/",
+    "company_domain": "dsv.com",
+    "company_name": "DSV Global Business Services",
+    "example_job_titles": [
+      "Business Integration Manager (M/F/D)",
+      "Business Analyst (M/F/D)",
+      "Billing Specialist Control Tower (M/F/D)"
+    ],
+    "hybrid_share": 0.4483,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22DSV+Global+Business+Services%22&l=Polska",
+    "industry": [
+      "Logistyka/Dystrybucja",
+      "Informatyka/Administracja",
+      "Transport/Spedycja/Usługi kurierskie"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 58,
+    "pracuj_count": 58,
+    "pracuj_distinct_job_groups": 51,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20142272&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/dsv-global-business-services,ugsfgcc,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:07:31.726565+00:00",
+    "top_3_job_functions": [
+      "Operations and Logistics",
+      "Information Technology",
+      "Customer Service"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Tarnowo Podgórne (pow. poznański)",
+      "Plewiska (pow. poznański)",
+      "Magnice (pow. wrocławski)",
+      "Łódź"
+    ],
+    "website": "https://www.dsv.com/pl-pl/"
+  },
+  {
+    "careers_page_url": "https://kariera.dpd.com.pl/",
+    "company_domain": "dpd.com",
+    "company_name": "DPD Polska Sp. z o.o.",
+    "example_job_titles": [
+      "Kurier / Kurierka",
+      "Kasjer / Kasjerka",
+      "Specjalista/Specjalistka ds. Administracji i Rozliczeń"
+    ],
+    "hybrid_share": 0.0395,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22DPD%22&l=Polska",
+    "industry": [
+      "Transport/Spedycja/Usługi kurierskie"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 76,
+    "pracuj_count": 76,
+    "pracuj_distinct_job_groups": 26,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=480&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/dpd,sazpt9h,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:03:56.089535+00:00",
+    "top_3_job_functions": [
+      "Transportation and Logistics",
+      "Operations",
+      "Human Resources"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Wrocław",
+      "Elbląg",
+      "Szczecin"
+    ],
+    "website": "https://www.dpd.com/pl/pl/"
+  },
+  {
+    "careers_page_url": "https://kariera.drmax.pl/",
+    "company_domain": "drmax.pl",
+    "company_name": "Dr.Max Sp. z o.o.",
+    "example_job_titles": [
+      "Magister Farmacji / Magisterka Farmacji, ul. Powstańców Śląskich 143",
+      "Magister Farmacji / Magisterka Farmacji",
+      "Technik Farmaceutyczny / Techniczka Farmaceutyczna"
+    ],
+    "hybrid_share": 0.0063,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Dr.Max+Sp.+z+o.o.%22&l=Polska",
+    "industry": [
+      "Farmaceutyka/Biotechnologia"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 160,
+    "pracuj_count": 160,
+    "pracuj_distinct_job_groups": 160,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20107142&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/dr-max-sp-z-o-o,vljwxwc,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:58:01.897130+00:00",
+    "top_3_job_functions": [
+      "Healthcare and Pharmacy",
+      "Management",
+      "Supply Chain and Logistics"
+    ],
+    "top_locations": [
+      "Wrocław",
+      "Warszawa",
+      "Tarnowskie Góry",
+      "Gdańsk",
+      "Płock"
+    ],
+    "website": "https://www.drmax.pl/"
+  },
+  {
+    "careers_page_url": "https://kariera.kaufland.pl/oferty-pracy",
+    "company_domain": "kaufland.pl",
+    "company_name": "Kaufland Polska Markety Sp. z o.o. Sp. j.",
+    "example_job_titles": [
+      "Menedżer / Menedżerka Marketu",
+      "Lider / Liderka Zespołu",
+      "Lider/Liderka Zespołu"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Kaufland+Polska+Markety+Sp.+z+o.o.+Sp.+j.%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 68,
+    "pracuj_count": 68,
+    "pracuj_distinct_job_groups": 50,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=745%2C1074018810&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/kaufland-polska-markety-sp-z-o-o-sp-j,h67jjw5,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:05:53.362346+00:00",
+    "top_3_job_functions": [
+      "Retail Management",
+      "Team Leadership",
+      "Warehouse and Logistics"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Wrocław",
+      "Katowice",
+      "Kraków",
+      "Tarnów"
+    ],
+    "website": "https://www.kaufland.pl/"
+  },
+  {
+    "careers_page_url": "https://kariera.leroymerlin.pl/wyszukiwarka.html",
+    "company_domain": "leroymerlin.pl",
+    "company_name": "Leroy Merlin Polska sp. z o.o.",
+    "example_job_titles": [
+      "Doradca / Doradczyni ds. serwisu i usług",
+      "HR Biznes Partner / Partnerka",
+      "New Account Manager Marketplace"
+    ],
+    "hybrid_share": 0.008,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Leroy+Merlin+Polska+sp.+z+o.o.%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 125,
+    "pracuj_count": 125,
+    "pracuj_distinct_job_groups": 28,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=519&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/leroy-merlin-polska-sp-z-o-o,zcwminv,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:00:37.970428+00:00",
+    "top_3_job_functions": [
+      "Customer Service",
+      "Warehouse and Logistics",
+      "Design"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Szczecin",
+      "Poznań",
+      "Wrocław",
+      "Łódź"
+    ],
+    "website": "https://www.leroymerlin.pl/"
+  },
+  {
+    "careers_page_url": "https://kariera.mediaexpert.pl/",
+    "company_domain": "mediaexpert.pl",
+    "company_name": "Media Expert",
+    "example_job_titles": [
+      "Specjalista ds. Utrzymania Obiektu (k/m)",
+      "Tech Lead Scala (k/m)",
+      "Product Manager (k/m) – WEA"
+    ],
+    "hybrid_share": 0.0154,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Media+Expert%22&l=Polska",
+    "industry": [
+      "Handel detaliczny",
+      "Internet/E-Commerce",
+      "Logistyka/Dystrybucja"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 65,
+    "pracuj_count": 65,
+    "pracuj_distinct_job_groups": 38,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18802262%2C1074120895&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/media-expert,teogzo2,pl",
+    "remote_share": 0.0769,
+    "scraped_at": "2026-11-13T18:05:55.857086+00:00",
+    "top_3_job_functions": [
+      "Information Technology",
+      "Sales and Customer Service",
+      "Marketing and Product Management"
+    ],
+    "top_locations": [
+      "Łódź",
+      "Złotów",
+      "Warszawa",
+      "Otwock",
+      "Kleosin"
+    ],
+    "website": "https://www.mediaexpert.pl/"
+  },
+  {
     "careers_page_url": "https://karieranabank.pl/search/?createNewAlert=false&q=&optionsFacetsDD_department=",
     "company_domain": "pekao.com.pl",
     "company_name": "Bank Pekao S.A.",
@@ -389,15 +819,12 @@
       "Analityk / Analityczka Biznesowy/a w Departamencie Strategii i Transformacji Bankowości Detalicznej"
     ],
     "hybrid_share": 0.5795,
-    "indeed_count": null,
-    "indeed_count_note": "Public Indeed employer results unavailable; no login or challenge bypass attempted.",
     "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Bank+Pekao%22&l=Polska",
     "industry": [
       "Bankowość/Finanse/Ekonomia",
       "Informatyka/Programowanie",
       "Ubezpieczenia"
     ],
-    "metrics_basis": "Pracuj Poland-only location listings; remote and hybrid may overlap. Functions classified from all job titles. Total is the maximum available source count, not a sum.",
     "most_recent_posting_date": "2026-11-13",
     "open_roles_total": 195,
     "pracuj_count": 195,
@@ -419,5 +846,1002 @@
       "Szczecin"
     ],
     "website": "https://www.pekao.com.pl/"
+  },
+  {
+    "careers_page_url": "https://kariera.netto.pl/rekrutacja/",
+    "company_domain": "netto.pl",
+    "company_name": "Netto Sp. z o.o.",
+    "example_job_titles": [
+      "Pracownik Magazynowy - operator (k/m/x)",
+      "Specjalista ds. Szkoleń i Rozwoju (k/m/x)",
+      "Pracownik wykładający towar (k/m/x)"
+    ],
+    "hybrid_share": 0.0211,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Netto+Sp.+z+o.o.%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 237,
+    "pracuj_count": 237,
+    "pracuj_distinct_job_groups": 237,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20002146&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/netto-sp-z-o-o,ayg2vpa,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:57:15.579986+00:00",
+    "top_3_job_functions": [
+      "Retail",
+      "Operations",
+      "Human Resources"
+    ],
+    "top_locations": [
+      "Szczecin",
+      "Warszawa",
+      "Poznań",
+      "Łódź",
+      "Wrocław"
+    ],
+    "website": "https://netto.pl/"
+  },
+  {
+    "careers_page_url": "https://kariera.neuca.pl/oferty-pracy",
+    "company_domain": "neuca.pl",
+    "company_name": "NEUCA S.A.",
+    "example_job_titles": [
+      "Student Support for HR Administration",
+      "Specjalista/ka ds. Obsługi Pacjenta",
+      "Specjalista/ka ds. Obsługi Pacjenta (Stomatologia)"
+    ],
+    "hybrid_share": 0.0851,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22GRUPA+NEUCA%22&l=Polska",
+    "industry": [
+      "Farmaceutyka/Biotechnologia",
+      "Logistyka/Dystrybucja",
+      "Służba zdrowia / Medycyna / Weterynaria"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 81,
+    "pracuj_count": 47,
+    "pracuj_distinct_job_groups": 38,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20001256&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/grupa-neuca,5fe4dy5,pl",
+    "remote_share": 0.2128,
+    "scraped_at": "2026-11-13T18:10:25.121505+00:00",
+    "top_3_job_functions": [
+      "Healthcare and Clinical",
+      "Sales and Business Development",
+      "Information Technology"
+    ],
+    "top_locations": [
+      "Toruń",
+      "Warszawa",
+      "Poznań",
+      "Suchedniów",
+      "Katowice"
+    ],
+    "website": "https://www.neuca.pl/"
+  },
+  {
+    "careers_page_url": "https://kariera.stokrotka.pl/oferty-pracy/",
+    "company_domain": "stokrotka.pl",
+    "company_name": "Stokrotka Sp. z o.o.",
+    "example_job_titles": [
+      "Magazynier / Magazynierka – Kompletacja Towaru",
+      "Kierowca kat. C / Kierowczyni kat. C",
+      "Pracownik / Pracownica Sklepu - również dla osób z orzeczeniem o niepełnosprawności"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Stokrotka%22&l=Polska",
+    "industry": [
+      "Handel detaliczny",
+      "Logistyka/Dystrybucja"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 354,
+    "pracuj_count": 354,
+    "pracuj_distinct_job_groups": 26,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20000415&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/stokrotka,dq4od23,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:56:37.210913+00:00",
+    "top_3_job_functions": [
+      "Retail Sales and Store Operations",
+      "Retail Management",
+      "Warehouse and Logistics"
+    ],
+    "top_locations": [
+      "Lublin",
+      "Psary (pow. będziński)",
+      "Koszalin",
+      "Łódź",
+      "Pruszków"
+    ],
+    "website": "https://stokrotka.pl/"
+  },
+  {
+    "careers_page_url": "https://komfort.pl/s/kariera#all",
+    "company_domain": "komfort.pl",
+    "company_name": "SKLEPY KOMFORT S.A.",
+    "example_job_titles": [
+      "Brygadzista (k/m)",
+      "Specjalista ds. transportu (k/m)",
+      "Koordynator ds. Kadr i Płac (K/M)"
+    ],
+    "hybrid_share": 0.05,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22SKLEPY+KOMFORT+S.A.%22&l=Polska",
+    "industry": [
+      "Handel detaliczny",
+      "Handel hurtowy"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 60,
+    "pracuj_count": 60,
+    "pracuj_distinct_job_groups": 15,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18796816&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/sklepy-komfort-s-a,l5rskre,pl",
+    "remote_share": 0.0167,
+    "scraped_at": "2026-11-13T18:07:21.432718+00:00",
+    "top_3_job_functions": [
+      "Customer Service",
+      "Sales",
+      "Warehouse and Logistics"
+    ],
+    "top_locations": [
+      "Gdańsk",
+      "Łódź",
+      "Czatolin (pow. łowicki)",
+      "Kraków",
+      "Bydgoszcz"
+    ],
+    "website": "https://komfort.pl"
+  },
+  {
+    "careers_page_url": "https://kpmg.com/pl/pl/kariera/oferty-pracy-i-praktyk.html",
+    "company_domain": "kpmg.com",
+    "company_name": "KPMG",
+    "example_job_titles": [
+      "Pentester/ka aplikacji – Cyber Security",
+      "Koordynator / Koordynatorka ds. szkoleń – Audyt",
+      "Learning & Development Coordinator"
+    ],
+    "hybrid_share": 0.9815,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22KPMG%22&l=Polska",
+    "industry": [
+      "Doradztwo/Konsulting",
+      "Księgowość/Audyt/Podatki",
+      "Prawo"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 54,
+    "pracuj_count": 54,
+    "pracuj_distinct_job_groups": 18,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=37&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/kpmg,7ein6c1,pl",
+    "remote_share": 0.2593,
+    "scraped_at": "2026-11-13T18:08:09.255681+00:00",
+    "top_3_job_functions": [
+      "Information Technology",
+      "Finance and Accounting",
+      "Consulting"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Wrocław",
+      "Gdańsk",
+      "Katowice",
+      "Kraków"
+    ],
+    "website": "https://kpmg.com/pl/pl.html"
+  },
+  {
+    "careers_page_url": "https://magentateam.pl/",
+    "company_domain": "magentateam.pl",
+    "company_name": "T-Mobile",
+    "example_job_titles": [
+      "T Hub - Senior SAP Data Migration Consultant with German",
+      "T Hub - SAP BTP Architect",
+      "T Hub - SAP Logistics Implementation Consultant with German"
+    ],
+    "hybrid_share": 0.4028,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22T-Mobile%22&l=Polska",
+    "industry": [
+      "Telekomunikacja",
+      "Call Center",
+      "Informatyka/Programowanie"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 72,
+    "pracuj_count": 72,
+    "pracuj_distinct_job_groups": 72,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20008533&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/t-mobile,ltx7si1,pl",
+    "remote_share": 0.2778,
+    "scraped_at": "2026-11-13T18:04:53.201609+00:00",
+    "top_3_job_functions": [
+      "Information Technology",
+      "Sales and Customer Service",
+      "Engineering"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Gdańsk",
+      "Płock",
+      "Łódź",
+      "Poznań"
+    ],
+    "website": "https://magentateam.pl/"
+  },
+  {
+    "careers_page_url": "https://maspex.com/kariera/oferty-pracy",
+    "company_domain": "maspex.com",
+    "company_name": "Grupa Maspex sp. z o.o.",
+    "example_job_titles": [
+      "Specjalista ds. rozliczeń spirytusu (k/m)",
+      "Lider zmiany co-packingu (k/m)",
+      "Lider zmiany magazynu (k/m)"
+    ],
+    "hybrid_share": 0.0309,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Grupa+Maspex+sp.+z+o.o.+%22&l=Polska",
+    "industry": [
+      "Produkcja - zakłady przemysłowe",
+      "Logistyka/Dystrybucja"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 97,
+    "pracuj_count": 97,
+    "pracuj_distinct_job_groups": 65,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=5515752%2C18507061%2C18802791%2C18803932%2C20010613%2C20015669%2C20030758%2C20077717%2C20079209%2C20131156%2C20188366%2C20189179%2C20194580%2C20247420%2C20266947%2C20388177&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/grupa-maspex-sp-z-o-o,uellva8,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:01:51.486090+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Manufacturing & Production",
+      "Supply Chain & Logistics"
+    ],
+    "top_locations": [
+      "Wadowice",
+      "Białystok",
+      "Łowicz",
+      "Warszawa",
+      "Lublin"
+    ],
+    "website": "https://maspex.com"
+  },
+  {
+    "careers_page_url": "https://orange.jobs/site/pl-home/",
+    "company_domain": "orange.pl",
+    "company_name": "Orange Polska S.A.",
+    "example_job_titles": [
+      "Konsultant / Konsultantka Orange - firmowy salon (Galeria Pomorska)",
+      "Konsultant / Konsultantka Orange w firmowym salonie Orange Smart Store Nowy Sącz (Trzy Korony)",
+      "Financial Controller (f/m)"
+    ],
+    "hybrid_share": 0.3889,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Orange+Polska+S.A.%22&l=Polska",
+    "industry": [
+      "Informatyka/Programowanie",
+      "Telekomunikacja"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 54,
+    "pracuj_count": 54,
+    "pracuj_distinct_job_groups": 37,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20006949&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/orange-polska-s-a,fy0jqgi,pl",
+    "remote_share": 0.2037,
+    "scraped_at": "2026-11-13T18:08:19.892281+00:00",
+    "top_3_job_functions": [
+      "Information Technology",
+      "Sales",
+      "Finance"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Gdańsk",
+      "Katowice",
+      "Bielsko-Biała"
+    ],
+    "website": "https://www.orange.pl/"
+  },
+  {
+    "careers_page_url": "https://pl.action.jobs/oferty-pracy",
+    "company_domain": "pl.action.jobs",
+    "company_name": "Action Poland Sp. z o.o.",
+    "example_job_titles": [
+      "Kierownik Sklepu (K/M)",
+      "Pracownik Sklepu (K/M)",
+      "Zastępca Kierownika Sklepu (m/k)"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Action+Poland%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "most_recent_posting_date": "2026-11-12",
+    "open_roles_total": 142,
+    "pracuj_count": 75,
+    "pracuj_distinct_job_groups": 16,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20292204&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/action-poland,qafecu6,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:03:51.136599+00:00",
+    "top_3_job_functions": [
+      "Retail",
+      "Management",
+      "Human Resources"
+    ],
+    "top_locations": [
+      "Wrocław",
+      "Toruń",
+      "Warszawa",
+      "Siemianowice Śląskie",
+      "Nysa"
+    ],
+    "website": "https://pl.action.jobs/"
+  },
+  {
+    "careers_page_url": "https://polpharma.pl/praca-w-polpharmie/aktualne-oferty-pracy/",
+    "company_domain": "polpharma.pl",
+    "company_name": "Zakłady Farmaceutyczne POLPHARMA S.A.",
+    "example_job_titles": [
+      "Operator Produkcji / Operatorka Produkcji",
+      "(Senior) Portfolio Manager",
+      "Młodszy Specjalista / Młodsza Specjalistka Kontroli Jakości"
+    ],
+    "hybrid_share": 0.0435,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22POLPHARMA+S.A.%22&l=Polska",
+    "industry": [
+      "Badania i rozwój",
+      "Farmaceutyka/Biotechnologia",
+      "Produkcja - zakłady przemysłowe"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 69,
+    "pracuj_count": 69,
+    "pracuj_distinct_job_groups": 48,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=967&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/polpharma-s-a,kxls52a,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:05:48.732689+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Manufacturing and Production",
+      "Marketing and Product Management"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Starogard Gdański",
+      "Nowa Dęba",
+      "Sieradz",
+      "Wałbrzych"
+    ],
+    "website": "https://polpharma.pl"
+  },
+  {
+    "careers_page_url": "https://praca.empik.com/#offers",
+    "company_domain": "empik.com",
+    "company_name": "Empik S.A.",
+    "example_job_titles": [
+      "Operator wózka widłowego (k/m)",
+      "Technik Utrzymania Ruchu (K/M)",
+      "Lider zespołu (k/m)"
+    ],
+    "hybrid_share": 0.0764,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Empik+S.A.%22&l=Polska",
+    "industry": [
+      "Internet / E-Commerce",
+      "Logistyka / Dystrybucja",
+      "Handel detaliczny"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 144,
+    "pracuj_count": 144,
+    "pracuj_distinct_job_groups": 144,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20003428&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/empik-s-a,h7g1ec9,pl",
+    "remote_share": 0.0208,
+    "scraped_at": "2026-11-13T17:59:19.955587+00:00",
+    "top_3_job_functions": [
+      "Sales and Customer Service",
+      "Information Technology",
+      "Marketing"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Poznań",
+      "Sochaczew",
+      "Kraków",
+      "Gdańsk"
+    ],
+    "website": "https://www.empik.com/"
+  },
+  {
+    "careers_page_url": "https://sii.pl/oferty-pracy/",
+    "company_domain": "sii.pl",
+    "company_name": "Sii Sp. z o.o.",
+    "example_job_titles": [
+      "Associate Business Manager – sektor Public & Utilities (f/m/x)",
+      "Senior ServiceNow Developer (f/m/x)",
+      "Python Test Automation Engineer with AWS (f/m/x)"
+    ],
+    "hybrid_share": 0.9053,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Sii+Polska%22&l=Polska",
+    "industry": [
+      "Doradztwo/Konsulting",
+      "Informatyka/Programowanie",
+      "Inżynieria/Konstrukcje/Technologia"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 1489,
+    "pracuj_count": 1489,
+    "pracuj_distinct_job_groups": 184,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20000761&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/sii-polska,s9nqcie,pl",
+    "remote_share": 0.769,
+    "scraped_at": "2026-11-13T17:57:10.229556+00:00",
+    "top_3_job_functions": [
+      "Software Development & Engineering",
+      "Data & Analytics",
+      "IT Consulting & Systems"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Wrocław",
+      "Poznań",
+      "Łódź"
+    ],
+    "website": "https://sii.pl"
+  },
+  {
+    "careers_page_url": "https://sollers.eu/career/",
+    "company_domain": "sollers.eu",
+    "company_name": "Sollers Consulting",
+    "example_job_titles": [
+      "Business Analyst with German",
+      "Project Manager for Insurance Sector",
+      "Senior Business Analyst"
+    ],
+    "hybrid_share": 1,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Sollers%22&l=Polska",
+    "industry": [
+      "Advisory services/Consulting",
+      "IT/Programming"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 104,
+    "pracuj_count": 104,
+    "pracuj_distinct_job_groups": 13,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=15058520&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/sollers,l2dqyj3,en",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:01:34.452050+00:00",
+    "top_3_job_functions": [
+      "Business Analysis",
+      "Consulting",
+      "Software Development"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Lublin",
+      "Łódź",
+      "Poznań",
+      "Wrocław"
+    ],
+    "website": "https://www.sollers.eu/"
+  },
+  {
+    "careers_page_url": "https://tarczynskipraca.pl/oferty/",
+    "company_domain": "grupatarczynski.pl",
+    "company_name": "Tarczyński S.A.",
+    "example_job_titles": [
+      "Automatyk w dziale Utrzymania Ruchu (k/m/x)",
+      "Płatny Staż w Programie Zarządzania Produkcją",
+      "Inżynier / Inżynierka Utrzymania Ruchu w WD Foods"
+    ],
+    "hybrid_share": 0.022,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Tarczy%C5%84ski+S.A.%22&l=Polska",
+    "industry": [
+      "Produkcja - zakłady przemysłowe"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 91,
+    "pracuj_count": 91,
+    "pracuj_distinct_job_groups": 67,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=14618746&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/tarczynski-s-a,ms3guh7,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:03:03.572509+00:00",
+    "top_3_job_functions": [
+      "Manufacturing & Production",
+      "Maintenance & Engineering",
+      "Sales & Business Development"
+    ],
+    "top_locations": [
+      "Ujeździec Mały (pow. trzebnicki)",
+      "Wrocław",
+      "Rawicz",
+      "Warszawa",
+      "Sowy (pow. rawicki)"
+    ],
+    "website": "https://grupatarczynski.pl/"
+  },
+  {
+    "careers_page_url": "https://tiny.pl/djwrk",
+    "company_domain": "jacobs.com",
+    "company_name": "Jacobs",
+    "example_job_titles": [
+      "Projektant / Projektantka Instalacji Teletechnicznych / Telekomunikacyjnych",
+      "Wiodący Projektant / Wiodąca Projektantka: projekty D&B w sektorze Water",
+      "Starsza Asystentka / Starszy Asystent Projektanta Konstrukcji"
+    ],
+    "hybrid_share": 0.6,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Jacobs%22&l=Polska",
+    "industry": [
+      "Inżynieria/Konstrukcje/Technologia",
+      "Bankowość/Finanse/Ekonomia"
+    ],
+    "most_recent_posting_date": "2026-11-12",
+    "open_roles_total": 50,
+    "pracuj_count": 50,
+    "pracuj_distinct_job_groups": 21,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20395623&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/jacobs,bmkuekd,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:09:34.077369+00:00",
+    "top_3_job_functions": [
+      "Engineering and Design"
+    ],
+    "top_locations": [
+      "Kraków",
+      "Warszawa",
+      "Katowice",
+      "Rzeszów",
+      "Łódź"
+    ],
+    "website": "https://www.jacobs.com/"
+  },
+  {
+    "careers_page_url": "https://universe.earlystage.pl/praca/oferty-pracy",
+    "company_domain": "universe.earlystage.pl",
+    "company_name": "Early Stage",
+    "example_job_titles": [
+      "Lektor / Lektorka języka angielskiego dla dzieci i młodzieży",
+      "Franczyzobiorca / Franczyzobiorczyni - Właściciel / Właścicielka Szkoły Języka Angielskiego"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Early+Stage%22&l=Polska",
+    "industry": [
+      "Szkolenia/Edukacja"
+    ],
+    "most_recent_posting_date": "2026-11-12",
+    "open_roles_total": 92,
+    "pracuj_count": 92,
+    "pracuj_distinct_job_groups": 3,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20192032&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/early-stage,lnsfjl5,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:02:55.699648+00:00",
+    "top_3_job_functions": [
+      "Education and Training",
+      "Business Ownership and Entrepreneurship"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Lublin",
+      "Katowice",
+      "Kraków",
+      "Wrocław"
+    ],
+    "website": "https://universe.earlystage.pl/"
+  },
+  {
+    "careers_page_url": "https://www.aflofarm.com.pl/pl/oferty-pracy/index.html",
+    "company_domain": "aflofarm.com.pl",
+    "company_name": "Aflofarm Farmacja Polska Sp. z o. o.",
+    "example_job_titles": [
+      "Księgowa ds. Rozliczeń Pracowniczych (K/M)",
+      "Specjalista Analityk w Laboratorium Kontroli Jakości (K/M)",
+      "Junior WEBCON Developer (K/M)"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Aflofarm+Farmacja+Polska+Sp.+z+o.+o.%22&l=Polska",
+    "industry": [
+      "Badania i rozwój",
+      "Farmaceutyka/Biotechnologia",
+      "Produkcja - zakłady przemysłowe"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 57,
+    "pracuj_count": 57,
+    "pracuj_distinct_job_groups": 20,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18802660&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/aflofarm-farmacja-polska-sp-z-o-o,xp8jw58,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:08:27.077048+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Research and Development",
+      "Quality Assurance"
+    ],
+    "top_locations": [
+      "Pabianice",
+      "Ksawerów (pow. pabianicki)",
+      "Kraków",
+      "Warszawa",
+      "Białystok"
+    ],
+    "website": "https://www.aflofarm.com.pl"
+  },
+  {
+    "careers_page_url": "https://www.agatameble.pl/kariera",
+    "company_domain": "agatameble.pl",
+    "company_name": "AGATA S.A.",
+    "example_job_titles": [
+      "Sprzedawca - Projektant Zabudowy Meblowej (m/k)",
+      "Magazynier (m/k)",
+      "Zastępca Kierownika Magazynu (m/k)"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22AGATA+S.A.%22&l=Polska",
+    "industry": [
+      "Handel detaliczny"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 93,
+    "pracuj_count": 93,
+    "pracuj_distinct_job_groups": 25,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=17411442&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/agata-s-a,unekwd3,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:02:31.868577+00:00",
+    "top_3_job_functions": [
+      "Sales and Customer Service",
+      "Warehousing and Logistics",
+      "Retail Management"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Mysiadło (pow. piaseczyński)",
+      "Katowice",
+      "Ełk",
+      "Wrocław"
+    ],
+    "website": "https://www.agatameble.pl/"
+  },
+  {
+    "careers_page_url": "https://www.aldi.pl/praca/oferty-pracy.html",
+    "company_domain": "aldi.pl",
+    "company_name": "ALDI Sp. z o.o.",
+    "example_job_titles": [
+      "Wsparcie Zespołu Kadr i Płac (m/k/x)",
+      "Starszy sprzedawca (m/k/x) NOWY SKLEP ul. Gustawa Morcinka - różne wymiary etatów",
+      "Starszy sprzedawca (m/k/x) ul. Andrzeja Struga 31a - różne wymiary etatów"
+    ],
+    "hybrid_share": 0.0685,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22ALDI+%22&l=Polska",
+    "industry": [
+      "Handel detaliczny",
+      "Informatyka/Administracja",
+      "Logistyka/Dystrybucja"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 73,
+    "pracuj_count": 73,
+    "pracuj_distinct_job_groups": 73,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20000992&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/aldi,wldpuq5,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:04:58.504548+00:00",
+    "top_3_job_functions": [
+      "Retail Sales and Store Management",
+      "Warehouse and Logistics",
+      "Procurement and Supply Chain"
+    ],
+    "top_locations": [
+      "Szczecin",
+      "Emilianów (pow. wołomiński)",
+      "Katowice",
+      "Chorzów",
+      "Kraków"
+    ],
+    "website": "https://www.aldi.pl"
+  },
+  {
+    "careers_page_url": "https://www.aliorbank.pl/dodatkowe-informacje/kariera/aktualne-oferty-pracy.html",
+    "company_domain": "aliorbank.pl",
+    "company_name": "Alior Bank SA",
+    "example_job_titles": [
+      "Analityk ds. Ryzyka Modeli (K/M)",
+      "Bankier ds. Kluczowych Klientów (K/M) (Personal Banking | inwestycje | rozwój kompetencji i portfela Klientów)",
+      "Menedżer ds. Kluczowych Klientów (kompleksowa obsługa Klienta Personal Banking) (K/M)"
+    ],
+    "hybrid_share": 0.4643,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Alior+Bank+SA%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia",
+      "Informatyka/Programowanie"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 140,
+    "pracuj_count": 140,
+    "pracuj_distinct_job_groups": 92,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20011599&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/alior-bank-sa,htndzcq,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T17:59:10.014774+00:00",
+    "top_3_job_functions": [
+      "Sales and Customer Service",
+      "Information Technology",
+      "Risk, Compliance and Audit"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Gdańsk",
+      "Rzeszów",
+      "Olsztyn"
+    ],
+    "website": "https://www.aliorbank.pl"
+  },
+  {
+    "careers_page_url": "https://www.bankmillennium.pl/kariera/oferty-pracy",
+    "company_domain": "bankmillennium.pl",
+    "company_name": "Bank Millennium S.A.",
+    "example_job_titles": [
+      "St. Specjalista / Specjalistka ds. Detalicznych Platform Cyfrowych",
+      "Ekspert / Ekspertka ds. Widoku Klienta (Obszar Narzędzi Sprzedażowych i Automatyzacji)",
+      "Ekspert / Ekspertka ds. Data Science (Obszar Modelowania Wartości Klienta)"
+    ],
+    "hybrid_share": 0.4382,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Bank+Millennium+S.A.%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 89,
+    "pracuj_count": 89,
+    "pracuj_distinct_job_groups": 44,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=3339533&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/bank-millennium-s-a,7jb73ub,pl",
+    "remote_share": 0.1011,
+    "scraped_at": "2026-11-13T18:02:48.802513+00:00",
+    "top_3_job_functions": [
+      "Customer Service",
+      "Sales",
+      "Risk, Compliance & Business Continuity"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Wrocław",
+      "Gdańsk",
+      "Poznań",
+      "Kraków"
+    ],
+    "website": "https://www.bankmillennium.pl"
+  },
+  {
+    "careers_page_url": "https://www.bnpparibas.pl/kariera/pl/oferty-pracy",
+    "company_domain": "bnpparibas.pl",
+    "company_name": "BNP Paribas Bank Polska S.A.",
+    "example_job_titles": [
+      "Doradczyni / Doradca Klientów Biznesowych",
+      "Doradczyni / Doradca Klientów Detalicznych (Centrum Klienta bezkasowe)",
+      "Doradczyni / Doradca Klientów Premium"
+    ],
+    "hybrid_share": 0.1743,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Bank+BNP+Paribas%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia",
+      "Call Center",
+      "Informatyka/Programowanie"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 109,
+    "pracuj_count": 109,
+    "pracuj_distinct_job_groups": 48,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18800072%2C20136891&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/bank-bnp-paribas,uvjhj9a,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:00:25.301168+00:00",
+    "top_3_job_functions": [
+      "Sales",
+      "Customer Service",
+      "Finance"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Kraków",
+      "Katowice",
+      "Wrocław",
+      "Gdańsk"
+    ],
+    "website": "https://www.bnpparibas.pl/"
+  },
+  {
+    "careers_page_url": "https://www.credit-agricole.pl/kariera",
+    "company_domain": "credit-agricole.pl",
+    "company_name": "Credit Agricole Bank Polska S.A.",
+    "example_job_titles": [
+      "Menadżerka / Menadżer Produktów Finansowania Handlu",
+      "Menadżerka / Menadżer Zespołu Reklamacji",
+      "Starsza Doradczyni / Starszy Doradca Klienta Agrobiznesowego"
+    ],
+    "hybrid_share": 0.1897,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Credit+Agricole+Bank+Polska+S.A.%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 58,
+    "pracuj_count": 58,
+    "pracuj_distinct_job_groups": 20,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=14015182&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/credit-agricole-bank-polska-s-a,cf4f756,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:08:29.649892+00:00",
+    "top_3_job_functions": [
+      "Customer Service",
+      "Sales",
+      "Product Management"
+    ],
+    "top_locations": [
+      "Wrocław",
+      "Warszawa",
+      "Gdańsk",
+      "Gdynia",
+      "Ostrów Wielkopolski"
+    ],
+    "website": "https://www.credit-agricole.pl"
+  },
+  {
+    "careers_page_url": "https://www.hasco-lek.pl/kariera/",
+    "company_domain": "hasco-lek.pl",
+    "company_name": "PPF Hasco-Lek SA",
+    "example_job_titles": [
+      "Koordynator Procesów Produkcyjnych (K/M/X)",
+      "Operator Pomocniczy (K/M/X)",
+      "Ekspert ds. Wynagrodzeń i Benefitów (K/M/X)"
+    ],
+    "hybrid_share": 0.0244,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22PPF+Hasco-Lek+SA%22&l=Polska",
+    "industry": [
+      "Farmaceutyka/Biotechnologia",
+      "Produkcja - zakłady przemysłowe",
+      "Logistyka/Dystrybucja"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 62,
+    "pracuj_count": 41,
+    "pracuj_distinct_job_groups": 33,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=18799805&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/ppf-hasco-lek-sa,fqbd8nb,pl",
+    "remote_share": 0.0244,
+    "scraped_at": "2026-11-13T18:11:54.037632+00:00",
+    "top_3_job_functions": [
+      "Manufacturing and Production",
+      "Sales",
+      "Quality Assurance and Control"
+    ],
+    "top_locations": [
+      "Wrocław",
+      "Siechnice",
+      "Warszawa",
+      "Łódź",
+      "Elbląg"
+    ],
+    "website": "https://www.hasco-lek.pl/"
+  },
+  {
+    "careers_page_url": "https://www.hitachienergy.com/careers",
+    "company_domain": "hitachienergy.com",
+    "company_name": "Hitachi Energy",
+    "example_job_titles": [
+      "Magazynier / Magazynierka - obsługa produkcji",
+      "Mechanical Designer [m/f/d] – Global Engineering Center",
+      "Site Manager / Kierownik Budowy - Stacje Elektroenergetyczne HV/MV[K/M/N]"
+    ],
+    "hybrid_share": 0.4,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Hitachi+Energy%22&l=Polska",
+    "industry": [
+      "Research & development",
+      "Energy",
+      "Engineering/Constructions/Technology"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 50,
+    "pracuj_count": 50,
+    "pracuj_distinct_job_groups": 50,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=1074008444%2C1074008474&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/hitachi-energy,ie5t7r6,en",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:09:23.531532+00:00",
+    "top_3_job_functions": [
+      "Engineering and R&D",
+      "Manufacturing and Production",
+      "Project Management"
+    ],
+    "top_locations": [
+      "Łódź",
+      "Kraków",
+      "Przasnysz",
+      "Warszawa"
+    ],
+    "website": "https://www.hitachienergy.com"
+  },
+  {
+    "careers_page_url": "https://www.id-logistics.com/pl/oferty-pracy/",
+    "company_domain": "id-logistics.com",
+    "company_name": "Grupa ID Logistics Polska",
+    "example_job_titles": [
+      "Kontroler jakości produktów / Kontrolerka jakości produktów",
+      "Pracownik/ca magazynowy/a",
+      "Operator/ka wózka wysokiego składowania"
+    ],
+    "hybrid_share": 0.02,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22ID+Logistics+Polska%22&l=Polska",
+    "industry": [
+      "Logistyka/Dystrybucja",
+      "Transport/Spedycja/Usługi kurierskie"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 50,
+    "pracuj_count": 50,
+    "pracuj_distinct_job_groups": 49,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=20002278%2C20071836%2C1074237686&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/id-logistics-polska,qgqlcl0,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:09:14.576113+00:00",
+    "top_3_job_functions": [
+      "Warehousing and Logistics",
+      "Management and Operations",
+      "Quality Control"
+    ],
+    "top_locations": [
+      "Wysogotowo (pow. poznański)",
+      "Konin Żagański (pow. żagański)",
+      "Wolica (pow. pruszkowski)",
+      "Mszczonów",
+      "Psary (pow. będziński)"
+    ],
+    "website": "https://www.id-logistics.com/pl/"
+  },
+  {
+    "careers_page_url": "https://www.kasastefczyka.pl/kariera",
+    "company_domain": "kasastefczyka.pl",
+    "company_name": "Stefczyk Finanse S.A.",
+    "example_job_titles": [
+      "Specjalista / Specjalistka ds. Finansowych",
+      "Kierownik / Kierowniczka Placówki",
+      "Kierownik Regionalny / Kierowniczka Regionalna"
+    ],
+    "hybrid_share": 0,
+    "indeed_source_url": "https://pl.indeed.com/jobs?q=company%3A%22Stefczyk+Finanse+S.A.%22&l=Polska",
+    "industry": [
+      "Bankowość/Finanse/Ekonomia"
+    ],
+    "most_recent_posting_date": "2026-11-13",
+    "open_roles_total": 84,
+    "pracuj_count": 84,
+    "pracuj_distinct_job_groups": 14,
+    "pracuj_source_url": "https://www.pracuj.pl/praca?eid=12039845%2C20127117&ct=1",
+    "profile_url": "https://pracodawcy.pracuj.pl/profile/stefczyk-finanse-s-a,sszsjpu,pl",
+    "remote_share": 0,
+    "scraped_at": "2026-11-13T18:03:37.959583+00:00",
+    "top_3_job_functions": [
+      "Finance",
+      "Management",
+      "Sales"
+    ],
+    "top_locations": [
+      "Warszawa",
+      "Gdynia",
+      "Bielsko-Biała",
+      "Tarnowskie Góry",
+      "Częstochowa"
+    ],
+    "website": "https://www.kasastefczyka.pl"
   }
 ]

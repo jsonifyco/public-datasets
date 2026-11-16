@@ -1,35 +1,35 @@
-# Interconnection Queue Data: CAISO, NYISO and BPA, Weekly
+# Interconnection Queue Data: CAISO, NYISO and BPA
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Generator interconnection queue data from CAISO, NYISO and BPA in one table: project, fuel, MW, status, location and in\-service dates, updated weekly\.
+Generator interconnection queue data from CAISO, NYISO and BPA in one table, with project, fuel, capacity, status, location and proposed in\-service date where published\. The table contains 3,520 requests\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-generator-interconnection-queues-68fb9ee25003?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-11-14T08:35:34.806797Z
+- Last published: 2026-11-16T10:01:01.664140Z
 
 ## The brief
 
-> I need this data: Generator interconnection queue data from CAISO, NYISO and BPA in one table: project, fuel, MW, status, location and in\-service dates, updated weekly\.
+> I need this data: Generator interconnection queue data from CAISO, NYISO and BPA in one table, with project, fuel, capacity, status, location and proposed in\-service date where published\. The table contains 3,520 requests\.
 
 Summary from the public dataset description.
 
 ## US generator interconnection queues / requests
 
-3,520 total rows · 50 sampled · Output revision 2
-Published: 2026-11-14T08:35:34.806797Z · Producing pipeline version: 2
+3,520 total rows · 50 sampled · Output revision 3
+Published: 2026-11-16T10:01:01.664140Z · Producing pipeline version: 2
 
 [CSV sample](outputs/1602d1c4c5ce/requests-ec72420df5df/sample.csv) · [JSON sample](outputs/1602d1c4c5ce/requests-ec72420df5df/sample.json) · [Schema](outputs/1602d1c4c5ce/requests-ec72420df5df/schema.json)
 
 | capacity\_mw | county | first\_seen\_date | fuel\_type | interconnection\_customer | operator | point\_of\_interconnection | project\_name |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20 | MERCED | 2026\-11\-14 | Solar | None | CAISO | Oro Loma   115kV | PDD WHR SOLAR FARM I |
-| 70 | HUMBOLDT | 2026\-11\-14 | Wind Turbine | None | CAISO | Rio Del Junction \- Bridgeville | BEAR RIVER WIND FARM Q=117 |
-| 100 | LOS ANGELES | 2026\-11\-14 | Battery | None | CAISO | Laguna Bell Substation 230 kV | RANGER |
-| 20 | FRESNO | 2026\-11\-14 | Flywheel | None | CAISO | New Kearny Substation 70kV bus | ENERGY NUEVO STORAGE FARM \(FKA NEW KEARNY ENERGY PARK\) |
-| 200 | Gilliam | 2026\-11\-14 | Wind Turbine | Avangrid Power, LLC | BPA | Jones Canyon substation on McNary Santiam line | Pebble Springs Wind Project |
+| 210 | Sherman | 2026\-11\-14 | Wind Turbine; Battery | None | BPA | Jones Canyon to Tumble Creek section of Jones Canyon\-Santiam No 1 230 kV line; Ashe to Marian No 2 500 kV line; or Slatt to Buckley No 1 500 kV line\. | None |
+| 150 | LOS ANGELES | 2026\-11\-14 | Solar; Battery | None | CAISO | Vincent \- Pearblossom 230 kV line | JUNIPER STORAGE |
+| 20\.2 | FRESNO | 2026\-11\-14 | Solar | None | CAISO | Stroud 70 kV Switching Station | WOLVERINE SOLAR 1 \- FKA YUBA SOLAR 1 |
+| 45 | SAN LUIS OBISPO | 2026\-11\-14 | Natural Gas | None | CAISO | Diablo Canyon Substation Circuit Breakers 542 and 642 | DIABLO CANYON P\.P\. UNIT 2 |
+| 500 | RIVERSIDE | 2026\-11\-14 | Solar; Battery | None | CAISO | Colorado River Substation 500kV | GENESIS MCCOY |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

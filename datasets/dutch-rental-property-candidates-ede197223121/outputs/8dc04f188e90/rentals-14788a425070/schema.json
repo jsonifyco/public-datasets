@@ -1,0 +1,126 @@
+[
+  {
+    "name": "advertised_living_area_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "available_from",
+    "type": "text"
+  },
+  {
+    "name": "bedrooms",
+    "type": "integer"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "cost_evidence",
+    "type": "text"
+  },
+  {
+    "name": "days_online",
+    "type": "integer"
+  },
+  {
+    "name": "energy_label",
+    "type": "text"
+  },
+  {
+    "name": "furnishing",
+    "type": "text"
+  },
+  {
+    "name": "letting_agent",
+    "type": "text"
+  },
+  {
+    "name": "listed_date",
+    "type": "text"
+  },
+  {
+    "name": "listing_id",
+    "type": "text"
+  },
+  {
+    "name": "listing_type",
+    "type": "text"
+  },
+  {
+    "name": "match_basis",
+    "type": "text"
+  },
+  {
+    "name": "monthly_rent_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "neighbourhood",
+    "type": "text"
+  },
+  {
+    "name": "postcode",
+    "type": "text"
+  },
+  {
+    "name": "property_id",
+    "type": "text"
+  },
+  {
+    "name": "rent_basis_unclear",
+    "type": "boolean"
+  },
+  {
+    "name": "rent_conflict",
+    "type": "boolean"
+  },
+  {
+    "name": "rent_inclusions",
+    "type": "text"
+  },
+  {
+    "name": "rooms",
+    "type": "integer"
+  },
+  {
+    "name": "service_costs_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "size_basis",
+    "type": "text"
+  },
+  {
+    "name": "size_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_listings",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "sources",
+    "type": "jsonb"
+  },
+  {
+    "name": "street",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

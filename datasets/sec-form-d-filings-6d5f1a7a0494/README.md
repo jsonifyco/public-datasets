@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. Dataset snapshot: 1,813 rows\.
+Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. Dataset contains 2,935 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/sec-form-d-filings-6d5f1a7a0494?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 4
-- Last published: 2026-11-09T09:28:19.307975Z
+- Last published: 2026-11-16T09:06:59.759787Z
 
 ## The brief
 
-> I need this data: Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. Dataset snapshot: 1,813 rows\.
+> I need this data: Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. Dataset contains 2,935 rows\.
 
 Summary from the public dataset description.
 
 ## SEC Form D filings / filings
 
-1,813 total rows · 50 sampled · Output revision 3
-Published: 2026-11-09T09:28:19.307975Z · Producing pipeline version: 3
+2,935 total rows · 50 sampled · Output revision 4
+Published: 2026-11-16T09:06:59.759787Z · Producing pipeline version: 4
 
 [CSV sample](outputs/c449a470b322/filings-4b3249d71f72/sample.csv) · [JSON sample](outputs/c449a470b322/filings-4b3249d71f72/sample.json) · [Schema](outputs/c449a470b322/filings-4b3249d71f72/schema.json)
 

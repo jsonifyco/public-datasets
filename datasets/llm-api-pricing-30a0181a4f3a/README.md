@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Weekly LLM API token prices from 10 platforms, incl\. OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch per 1M tokens\.
+LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\. 4,305 published rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llm-api-pricing-30a0181a4f3a?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 9
-- Last published: 2026-11-09T06:11:59.795571Z
+- Active pipeline version: 10
+- Last published: 2026-11-16T06:08:28.824595Z
 
 ## The brief
 
-> I need this data: Weekly LLM API token prices from 10 platforms, incl\. OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch per 1M tokens\.
+> I need this data: LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\. 4,305 published rows\.
 
 Summary from the public dataset description.
 
 ## LLM API token prices / main
 
-3,390 total rows · 50 sampled · Output revision 14
-Published: 2026-11-09T06:11:59.795571Z · Producing pipeline version: 9
+4,305 total rows · 50 sampled · Output revision 15
+Published: 2026-11-16T06:08:28.824595Z · Producing pipeline version: 10
 
 [CSV sample](outputs/65257665d6fa/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/65257665d6fa/main-0d6e4079e367/sample.json) · [Schema](outputs/65257665d6fa/main-0d6e4079e367/schema.json)
 
 | captured\_date | platform | model\_maker | model | deployment\_type | input\_usd\_per\_1m | output\_usd\_per\_1m | cached\_input\_usd\_per\_1m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-09 | Together API | Not stated | Ternary Bonsai 27B | standard | 0 | 0 | None |
-| 2026\-11\-09 | Azure | Microsoft | Phi\-3 Mini 128K Instruct | standard | 0\.13 | 0\.52 | None |
-| 2026\-11\-09 | Azure | OpenAI | o3\-pro | global | 20 | 80 | None |
-| 2026\-11\-09 | OpenRouter | liquid | liquid/lfm\-3\-1\.7b:free | standard | 0 | 0 | None |
-| 2026\-11\-09 | Anthropic API | Anthropic | Claude Haiku 4\.5 | standard | 1 | 5 | 0\.1 |
+| 2026\-11\-16 | Azure | Microsoft | Phi\-3\.5 Mini 128K Instruct | standard | 0\.13 | 0\.52 | None |
+| 2026\-11\-16 | OpenRouter | Alibaba | qwen/qwen3\.8\-max\-0902:batch | standard | 1\.15 | 3\.45 | None |
+| 2026\-11\-16 | OpenRouter | xAI | x\-ai/grok\-4\.20 | standard | 1\.25 | 2\.5 | 0\.2 |
+| 2026\-11\-16 | OpenRouter | perplexity | perplexity/sonar\-pro | standard | 3 | 15 | None |
+| 2026\-11\-16 | Amazon Bedrock | Moonshot AI | Kimi K2 Thinking | regional\_mantle | 0\.6 | 2\.5 | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -86,11 +86,16 @@ flowchart LR
 - 2026-10-30T18:31:43.440462Z: v7: Made cleanup and same\-day corrections part of every refresh, fixed Vertex batch pricing and robotics exclusions, and removed the old five\-source default run limit\.
 - 2026-10-30T18:41:15.290477Z: v8: Fixed repeat\-refresh Phi name corruption and added complete OpenAI life\-sciences table verification\.
 - 2026-10-30T18:46:42.617221Z: v9: Recognize explicit NVIDIA branding in model\-maker attribution and repair missing attribution during scheduled history reconciliation\.
+- 2026-11-16T06:08:13.516022Z: v10: Updated OpenAI pricing collection for its reorganized specialized\-models table and corrected exclusion of fine\-tuning prices\.
 
 ## Recorded repairs
 
 - 2026-10-26T20:03:37.319465Z: no change
 - 2026-10-26T20:04:52.329390Z: repaired
+- 2026-11-16T06:04:10.645837Z: no change
+- 2026-11-16T06:05:28.605159Z: repaired
+- 2026-11-16T06:08:24.079314Z: repaired
+- 2026-11-16T06:09:02.876078Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llm-api-pricing-30a0181a4f3a?action=get) — CSV or JSON · Email required
 

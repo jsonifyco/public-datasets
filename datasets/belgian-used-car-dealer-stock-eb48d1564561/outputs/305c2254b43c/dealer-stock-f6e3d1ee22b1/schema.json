@@ -1,0 +1,78 @@
+[
+  {
+    "name": "availability",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "dealer_country",
+    "type": "text"
+  },
+  {
+    "name": "dealer_location",
+    "type": "text"
+  },
+  {
+    "name": "dealer_name",
+    "type": "text"
+  },
+  {
+    "name": "fuel",
+    "type": "text"
+  },
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "make",
+    "type": "text"
+  },
+  {
+    "name": "mileage_km",
+    "type": "integer"
+  },
+  {
+    "name": "model",
+    "type": "text"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  },
+  {
+    "name": "power_kw",
+    "type": "integer"
+  },
+  {
+    "name": "price_eur",
+    "type": "integer"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "transmission",
+    "type": "text"
+  },
+  {
+    "name": "vat_deductible",
+    "type": "boolean"
+  },
+  {
+    "name": "version",
+    "type": "text"
+  },
+  {
+    "name": "year",
+    "type": "integer"
+  }
+]

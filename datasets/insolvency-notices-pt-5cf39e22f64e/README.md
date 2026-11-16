@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Public Citius insolvency notices with process, debtor, court, publication date and published deadline details\. The published dataset contains 680 rows across all tables\.
+Public Citius insolvency notices with process, debtor, court, publication date and published deadline details\. The published dataset contains 552 rows across all tables\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/insolvency-notices-pt-5cf39e22f64e?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 7
-- Last published: 2026-11-15T06:17:39.264057Z
+- Last published: 2026-11-16T06:20:33.435156Z
 
 ## The brief
 
-> I need this data: Public Citius insolvency notices with process, debtor, court, publication date and published deadline details\. The published dataset contains 680 rows across all tables\.
+> I need this data: Public Citius insolvency notices with process, debtor, court, publication date and published deadline details\. The published dataset contains 552 rows across all tables\.
 
 Summary from the public dataset description.
 
 ## Avisos de insolvência / avisos
 
-340 total rows · 50 sampled · Output revision 15
-Published: 2026-11-15T06:17:39.264057Z · Producing pipeline version: 7
+276 total rows · 50 sampled · Output revision 16
+Published: 2026-11-16T06:20:33.435156Z · Producing pipeline version: 7
 
 [CSV sample](outputs/43cb4b753508/avisos-354cde498655/sample.csv) · [JSON sample](outputs/43cb4b753508/avisos-354cde498655/sample.json) · [Schema](outputs/43cb4b753508/avisos-354cde498655/schema.json)
 
 | Distrito | Estado do prazo | NIF ou NIPC | Natureza do devedor | Prazo publicado | Processo | Publicado em | Tipo de anúncio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lisboa | Não verificado: documento indisponível | 207763798 | Pessoa singular | None | 2277/26\.2T8VFX | 2026\-11\-13 | Outro |
-| Lisboa | Prazo não identificado no documento | 503823651 | Empresa | None | 896/03\.4TYLSB\-T | 2026\-11\-13 | Outro |
-| Porto | Prazo não identificado no documento | 206646054 | Pessoa singular | None | 1231/26\.9T8AMT | 2026\-11\-10 | encerramento |
-| Lisboa | Prazo não identificado no documento | 509021778 | Empresa | None | 7836/24\.5T8LSB\-F | 2026\-11\-12 | Outro |
-| Lisboa | Não verificado: documento indisponível | 233138242 | Pessoa singular | None | 2868/24\.6T8VFX | 2026\-11\-13 | Outro |
+| Porto | Prazo identificado no documento | 227477790 | Pessoa singular | 20 dias, a contar do fim da dilação de 5 dias, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | 1591/26\.1T8AMT | 2026\-11\-11 | declaração de insolvência |
+| Porto | Prazo não identificado no documento | 195026578 | Pessoa singular | None | 2352/23\.5T8STS | 2026\-11\-13 | Outro |
+| Lisboa | Prazo não identificado no documento | 250695766 | Pessoa singular | None | 11506/26\.1T8SNT | 2026\-11\-11 | Outro |
+| Lisboa | Prazo não identificado no documento | 207763798 | Pessoa singular | None | 2277/26\.2T8VFX | 2026\-11\-13 | Outro |
+| Lisboa | Prazo não identificado no documento | 252549376 | Pessoa singular | None | 1963/26\.1T8VFX | 2026\-11\-10 | Outro |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Avisos de insolvência / insolvency\_notices\_pt
 
-340 total rows · 50 sampled · Output revision 15
-Published: 2026-11-15T06:17:39.264057Z · Producing pipeline version: 7
+276 total rows · 50 sampled · Output revision 16
+Published: 2026-11-16T06:20:33.435156Z · Producing pipeline version: 7
 
 [CSV sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.csv) · [JSON sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.json) · [Schema](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/schema.json)
 
 | claims\_deadline | court | debtor\_name | debtor\_nif | debtor\_type | district | insolvency\_administrator | notice\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Comarca do Porto Este \- Amarante / Juízo de Comércio de Amarante \- Juiz 1 | Invesil\- Industria de Cardação Lda\. | 500695105 | company | Porto | Maria da Graça Fernandes Simões | other |
-| None | Comarca do Porto Este \- Amarante / Juízo de Comércio de Amarante \- Juiz 4 | Isaura Cidália dos Santos Pinto | 177769890 | individual | Porto | Manuel Jaime Fernandes | other |
-| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 3 | Sara Catarina dos Santos Rodrigues | 252871022 | individual | Lisboa | José Pedro Pires Martins da Silva | encerramento |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 5 | Luis Fernando da Silva Belas | 176983473 | individual | Lisboa | António Francisco Cocco Seixas Soares | other |
-| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 2 | Conchamar Exportações Importações, S\.A\. | 502094400 | company | Lisboa | João Alves Gomes Vilaça | encerramento |
+| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 5 | Carlos Adriano Barbosa Unipessoal, Lda | 515281492 | company | Porto | Mariano Pires | encerramento |
+| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 2 | André Ricardo Ribeirinho Penela | 233138242 | individual | Lisboa | Henrique Rogério Doroteia | other |
+| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 2 | Carla Maria Carvalho Ferreira | 187599513 | individual | Porto | Agostinho da Silva Pedro | encerramento |
+| 30 dias; o prazo começa a correr finda a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 2 | João Nelson Gomes Sendra | 243524102 | individual | Porto | Rogério António Marcos Melo da Silva | declaração de insolvência |
+| No prazo de trinta dias, findos os éditos de cinco dias contados da publicação deste edital\. | Comarca de Lisboa \- Lisboa / Juízo de Comércio de Lisboa \- Juiz 5 | Rogério dos Santos Victorino | 199669953 | individual | Lisboa | Fernando Manuel Alves da Cruz Garcia | other |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

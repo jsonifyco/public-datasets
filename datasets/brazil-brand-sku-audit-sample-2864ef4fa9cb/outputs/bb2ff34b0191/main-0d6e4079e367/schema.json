@@ -1,5 +1,9 @@
 [
   {
+    "name": "availability",
+    "type": "text"
+  },
+  {
     "name": "brand",
     "type": "text"
   },
@@ -41,6 +45,10 @@
   },
   {
     "name": "marketplace",
+    "type": "text"
+  },
+  {
+    "name": "observed_at",
     "type": "text"
   },
   {

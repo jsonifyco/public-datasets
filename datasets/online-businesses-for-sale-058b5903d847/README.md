@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Online businesses for sale: listing details include asking prices, revenue, profit, traffic, business type, and marketplace\. The published dataset contains 214 listing rows\.
+Online businesses for sale: listing details include asking prices, revenue, profit, traffic, business type, and marketplace\. The published dataset contains 215 listing rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/online-businesses-for-sale-058b5903d847?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-11-15T08:19:47.393668Z
+- Last published: 2026-11-16T08:01:00.072489Z
 
 ## The brief
 
-> I need this data: Online businesses for sale: listing details include asking prices, revenue, profit, traffic, business type, and marketplace\. The published dataset contains 214 listing rows\.
+> I need this data: Online businesses for sale: listing details include asking prices, revenue, profit, traffic, business type, and marketplace\. The published dataset contains 215 listing rows\.
 
 Summary from the public dataset description.
 
 ## Online businesses for sale / listings
 
-214 total rows · 50 sampled · Output revision 1
-Published: 2026-11-15T08:19:47.393668Z · Producing pipeline version: 1
+215 total rows · 50 sampled · Output revision 2
+Published: 2026-11-16T08:01:00.072489Z · Producing pipeline version: 1
 
 [CSV sample](outputs/519131a8bf0c/listings-8a836f245cd6/sample.csv) · [JSON sample](outputs/519131a8bf0c/listings-8a836f245cd6/sample.json) · [Schema](outputs/519131a8bf0c/listings-8a836f245cd6/schema.json)
 
 | annual\_net\_profit\_usd | annual\_revenue\_usd | asking\_price\_usd | business\_type | captured\_at | displayed\_multiple | listed\_date | listing\_id |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 57759 | 164583 | 132844 | Amazon FBA | 2026\-11\-15T08:19:41\.334519\+00:00 | 2\.3x annual SDE; 28x monthly SDE | 2026\-02\-20T20:00:00\.282Z | 91175 |
-| 112627 | 752017 | 281567 | Amazon FBA | 2026\-11\-15T08:19:41\.334519\+00:00 | 2\.5x annual SDE; 30x monthly SDE | 2026\-06\-25T19:00:03\.397Z | 95477 |
-| 449999 | 1660289 | 809998 | Amazon FBA | 2026\-11\-15T08:19:41\.334519\+00:00 | 1\.8x annual SDE; 22x monthly SDE | 2026\-04\-15T04:00:00\.321Z | 92512 |
-| 156 | 168 | None | Content | 2026\-11\-15T08:19:41\.334519\+00:00 | None | None | 14807551 |
-| 49308 | 113338 | 69031 | eCommerce, DropShipping | 2026\-11\-15T08:19:41\.334519\+00:00 | 1\.4x annual SDE; 17x monthly SDE | 2026\-09\-15T16:00:00\.302Z | 97467 |
+| 181692 | 453171 | 381552 | DropShipping, eCommerce | 2026\-11\-16T08:00:52\.343269\+00:00 | 2\.1x annual SDE; 25x monthly SDE | 2026\-08\-11T13:00:00\.683Z | 96575 |
+| 63736 | 75887 | 152972 | Newsletter, Display Advertising, Affiliate | 2026\-11\-16T08:00:52\.343269\+00:00 | 2\.4x annual SDE; 29x monthly SDE | 2025\-07\-24T13:00:05\.887Z | 86936 |
+| 2155401 | 11099730 | 8700000 | Amazon FBA, eCommerce | 2026\-11\-16T08:00:52\.343269\+00:00 | 4\.04x annual SDE; 48x monthly SDE | 2026\-09\-03T16:00:00\.221Z | 97241 |
+| 804 | 2004 | None | AI Apps &amp; Tools | 2026\-11\-16T08:00:52\.343269\+00:00 | 7\.5x profit | None | 14806998 |
+| 57759 | 164583 | 132844 | Amazon FBA | 2026\-11\-16T08:00:52\.343269\+00:00 | 2\.3x annual SDE; 28x monthly SDE | 2026\-02\-20T20:00:00\.282Z | 91175 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "act_number",
+    "type": "text"
+  },
+  {
+    "name": "act_type",
+    "type": "text"
+  },
+  {
+    "name": "celex",
+    "type": "text"
+  },
+  {
+    "name": "document_date",
+    "type": "text"
+  },
+  {
+    "name": "document_date_basis",
+    "type": "text"
+  },
+  {
+    "name": "eli",
+    "type": "text"
+  },
+  {
+    "name": "gazette_reference",
+    "type": "text"
+  },
+  {
+    "name": "issuing_body",
+    "type": "text"
+  },
+  {
+    "name": "jurisdiction",
+    "type": "text"
+  },
+  {
+    "name": "language",
+    "type": "text"
+  },
+  {
+    "name": "metadata_url",
+    "type": "text"
+  },
+  {
+    "name": "missing_fields",
+    "type": "text"
+  },
+  {
+    "name": "nor",
+    "type": "text"
+  },
+  {
+    "name": "publication_date",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_id",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

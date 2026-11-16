@@ -1,0 +1,182 @@
+[
+  {
+    "name": "advertiser_name",
+    "type": "text"
+  },
+  {
+    "name": "amenities",
+    "type": "text"
+  },
+  {
+    "name": "area_evidence",
+    "type": "text"
+  },
+  {
+    "name": "bedrooms_from",
+    "type": "integer"
+  },
+  {
+    "name": "bedrooms_to",
+    "type": "double precision"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "coordinate_precision",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "delivery_date_text",
+    "type": "text"
+  },
+  {
+    "name": "developer_name",
+    "type": "text"
+  },
+  {
+    "name": "development_key",
+    "type": "text"
+  },
+  {
+    "name": "development_name",
+    "type": "text"
+  },
+  {
+    "name": "evidence_url",
+    "type": "text"
+  },
+  {
+    "name": "last_updated",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "listing_date",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "lot_surface_from_m2",
+    "type": "integer"
+  },
+  {
+    "name": "lot_surface_to_m2",
+    "type": "integer"
+  },
+  {
+    "name": "municipality",
+    "type": "text"
+  },
+  {
+    "name": "neighbourhood",
+    "type": "text"
+  },
+  {
+    "name": "number_of_units",
+    "type": "integer"
+  },
+  {
+    "name": "paired_model_name",
+    "type": "text"
+  },
+  {
+    "name": "paired_model_price_mxn",
+    "type": "double precision"
+  },
+  {
+    "name": "paired_model_price_per_m2_mxn",
+    "type": "double precision"
+  },
+  {
+    "name": "paired_model_source_url",
+    "type": "text"
+  },
+  {
+    "name": "paired_model_surface_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "price_evidence",
+    "type": "text"
+  },
+  {
+    "name": "price_from_mxn",
+    "type": "double precision"
+  },
+  {
+    "name": "price_per_m2_basis",
+    "type": "text"
+  },
+  {
+    "name": "price_per_m2_mxn",
+    "type": "double precision"
+  },
+  {
+    "name": "price_to_mxn",
+    "type": "double precision"
+  },
+  {
+    "name": "property_type",
+    "type": "text"
+  },
+  {
+    "name": "quality_notes",
+    "type": "text"
+  },
+  {
+    "name": "range_basis",
+    "type": "text"
+  },
+  {
+    "name": "scraped_at",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_observation_count",
+    "type": "integer"
+  },
+  {
+    "name": "source_type",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "source_urls",
+    "type": "text"
+  },
+  {
+    "name": "stage",
+    "type": "text"
+  },
+  {
+    "name": "surface_basis",
+    "type": "text"
+  },
+  {
+    "name": "surface_from_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "surface_to_m2",
+    "type": "double precision"
+  }
+]

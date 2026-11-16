@@ -408,6 +408,18 @@
     "ticker": "MPWR"
   },
   {
+    "accession_number": "0001858681-26-000070",
+    "cik": "0001858681",
+    "company": "Apollo Global Management",
+    "filed_date": "2026-11-12",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000070/0001858681-26-000070-index.html",
+    "form": "8-K",
+    "item_descriptions": "Regulation FD Disclosure",
+    "items": "7.01",
+    "report_date": "2026-11-12",
+    "ticker": "APO"
+  },
+  {
     "accession_number": "0000310764-26-000059",
     "cik": "0000310764",
     "company": "Stryker Corporation",
@@ -430,6 +442,18 @@
     "items": "5.02",
     "report_date": "2026-10-27",
     "ticker": "CHD"
+  },
+  {
+    "accession_number": "0001104659-26-125064",
+    "cik": "0001022671",
+    "company": "Steel Dynamics",
+    "filed_date": "2026-11-10",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/0001104659-26-125064-index.html",
+    "form": "8-K",
+    "item_descriptions": "Other Events; Financial Statements and Exhibits",
+    "items": "8.01, 9.01",
+    "report_date": "2026-11-09",
+    "ticker": "STLD"
   },
   {
     "accession_number": "0001628280-26-063770",
@@ -552,6 +576,18 @@
     "ticker": "ALGN"
   },
   {
+    "accession_number": "0001104659-26-125375",
+    "cik": "0001013871",
+    "company": "NRG Energy",
+    "filed_date": "2026-11-12",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926125375/0001104659-26-125375-index.html",
+    "form": "8-K",
+    "item_descriptions": "Entry into a Material Definitive Agreement; Financial Statements and Exhibits",
+    "items": "1.01, 9.01",
+    "report_date": "2026-11-09",
+    "ticker": "NRG"
+  },
+  {
     "accession_number": "0001041061-26-000195",
     "cik": "0001041061",
     "company": "Yum! Brands",
@@ -562,41 +598,5 @@
     "items": "2.02, 9.01",
     "report_date": "2026-11-03",
     "ticker": "YUM"
-  },
-  {
-    "accession_number": "0001032208-26-000051",
-    "cik": "0001032208",
-    "company": "Sempra",
-    "filed_date": "2026-11-05",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1032208/000103220826000051/0001032208-26-000051-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-11-05",
-    "ticker": "SRE"
-  },
-  {
-    "accession_number": "0001402057-26-000113",
-    "cik": "0001402057",
-    "company": "CDW Corporation",
-    "filed_date": "2026-11-04",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205726000113/0001402057-26-000113-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Other Events; Financial Statements and Exhibits",
-    "items": "2.02, 8.01, 9.01",
-    "report_date": "2026-11-04",
-    "ticker": "CDW"
-  },
-  {
-    "accession_number": "0001701605-26-000033",
-    "cik": "0001701605",
-    "company": "Baker Hughes",
-    "filed_date": "2026-10-27",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000033/0001701605-26-000033-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Regulation FD Disclosure",
-    "items": "2.02, 7.01",
-    "report_date": "2026-10-27",
-    "ticker": "BKR"
   }
 ]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "reference_number",
+    "type": "text"
+  },
+  {
+    "name": "date",
+    "type": "text"
+  },
+  {
+    "name": "tax_or_subject",
+    "type": "text"
+  },
+  {
+    "name": "title_or_question_summary",
+    "type": "text"
+  },
+  {
+    "name": "normative_references_cited",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

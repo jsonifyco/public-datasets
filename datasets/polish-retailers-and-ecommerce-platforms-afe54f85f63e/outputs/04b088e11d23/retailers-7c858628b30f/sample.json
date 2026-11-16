@@ -1,0 +1,2240 @@
+[
+  {
+    "category": "DIY",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T22:04:37.595914+00:00",
+        "platform_candidate": "Shoper",
+        "type": "script",
+        "url": "https://sklep.auroks.pl/pl/n/category/Realizacje/8",
+        "value": "shoparena.pl"
+      }
+    ],
+    "domain": "sklep.auroks.pl",
+    "ecommerce_platform": "Shoper",
+    "headless_evidence": [],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://sklep.auroks.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://sklep.auroks.pl/pl/n/category/Realizacje/8"
+      },
+      {
+        "kind": "robots_or_sitemap",
+        "status": "observed",
+        "url": "https://sklep.auroks.pl/robots.txt"
+      },
+      {
+        "kind": "robots_or_sitemap",
+        "status": "unavailable",
+        "url": "https://sklep.auroks.pl/sitemap.xml"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"auroks\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"auroks\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 0,
+    "jobs_search_results": [
+      {
+        "title": "Praca e-commerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/e-commerce%20developer;kw"
+      },
+      {
+        "title": "Praca ecommerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20developer;kw"
+      },
+      {
+        "title": "Praca programista ecommerce – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/programista%20ecommerce;kw"
+      },
+      {
+        "title": "Praca ecommerce praktyki – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20praktyki;kw"
+      },
+      {
+        "title": "Oferta pracy Frontend Developer, Wazdan Services Limited Sp. z o.o., Opole",
+        "url": "https://www.pracuj.pl/praca/frontend-developer-opole-technologiczna-4,oferta,1005029887"
+      },
+      {
+        "title": "Praca ecommerce frontend developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20frontend%20developer;kw"
+      },
+      {
+        "title": "Senior Frontend Developer Magento - PKO BP Finat",
+        "url": "https://justjoin.it/job-offer/pko-bp-finat-senior-frontend-developer-magento-warszawa-javascript"
+      },
+      {
+        "title": "Front-End Developer – Magento E-commerce - OstroVit",
+        "url": "https://justjoin.it/job-offer/ostrovit-front-end-developer---magento-e-commerce-lomza-javascript"
+      },
+      {
+        "title": "Praca programisty w e-commerce - jak to wygląda od środka?",
+        "url": "https://justjoin.it/blog/praca-programisty-w-e-commerce-jak-to-wyglada-od-srodka"
+      },
+      {
+        "title": "Senior Magento Backend Developer (K/M) - KOMFORT",
+        "url": "https://justjoin.it/job-offer/komfort-senior-magento-backend-developer-k-m--lodz-php?promo=lal"
+      },
+      {
+        "title": "Shopify Developer - Coalition Technologies",
+        "url": "https://justjoin.it/job-offer/coalition-technologies-shopify-developer-los-angeles-javascript"
+      },
+      {
+        "title": "BigCommerce Developer - Coalition Technologies",
+        "url": "https://justjoin.it/job-offer/coalition-technologies-bigcommerce-developer-los-angeles-php"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 0,
+    "news_search_query": "\"auroks\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "Auroks Sp. z o.o. - E-prąd - Twój Doradca Fotowoltaiczny",
+        "url": "https://eprad.pl/fotowoltaika/hurtownie-fotowoltaiczne-w-polsce/hurtownie-fotowoltaiczne-w-wojewodztwie-malopolskim/auroks-sp-z-o-o/"
+      },
+      {
+        "title": "Auroks Sp. z o.o. - Sprzedajemy.pl",
+        "url": "https://auroks.sprzedajemy.pl/"
+      },
+      {
+        "title": "Wdrożenie sklepu na PrestaShop: przewodnik",
+        "url": "https://sellision.pl/wdrozenie-sklepu-na-prestashop/"
+      },
+      {
+        "title": "Sklep.auroks.pl: Opinie o sklepie na Opineo.pl",
+        "url": "https://www.opineo.pl/opinie/auroks-pl"
+      },
+      {
+        "title": "Regulamin e-sklepu - Auroks - Centrum Budowlane",
+        "url": "https://sklep.auroks.pl/pl/i/Regulamin-e-sklepu/31"
+      },
+      {
+        "title": "Wdrożenie sklepu - Sky-Shop",
+        "url": "https://sky-shop.pl/wdrozenie-sklepu/"
+      },
+      {
+        "title": "Auroks - Centrum Budowlane | Materiały budowlane w ...",
+        "url": "https://auroks.pl/"
+      },
+      {
+        "title": "AUROKS Sp. z o.o.",
+        "url": "https://pl.linkedin.com/company/auroks-sp-z-o-o"
+      },
+      {
+        "title": "Kiedy migracja sklepu internetowego to decyzja biznesowa?",
+        "url": "https://www.idosell.com/pl/blog/kiedy-migracja-sklepu-internetowego-to-decyzja-biznesowa"
+      },
+      {
+        "title": "Migracja sklepu internetowego – co to jest i jak ją przeprowadzić?",
+        "url": "https://cyrekdigital.com/pl/baza-wiedzy/migracja-sklepu-internetowego/"
+      },
+      {
+        "title": "Migracja ecommerce - czym jest i jak bezpiecznie przenieść sklep internetowy? Poradnik - SEO-WWW.PL - Pozycjonowanie stron i sklepów internetowych",
+        "url": "https://seo-www.pl/blog/migracja-ecommerce-czym-jest-i-jak-bezpiecznie-przeniesc-sklep-internetowy-poradnik/"
+      },
+      {
+        "title": "Przeniesienie sklepu internetowego - korzyści, przebieg i najczęstsze błędy / Wiedza e-commerce - nasze publikacje",
+        "url": "https://www.ideo.pl/e-commerce/wiedza/migracje-e-commerce-jak-przeniesc-e-sklep-na-nowa-platforme,166.html"
+      },
+      {
+        "title": "Migracja platform eCommerce - Płynne przejście | Cloudflight",
+        "url": "https://www.cloudflight.io/pl/service/migracja-ecommerce/"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "googletagmanager.com/gtm.js",
+        "kind": "analytics",
+        "technology": "Google Tag Manager",
+        "url": "https://sklep.auroks.pl/"
+      },
+      {
+        "evidence": "googletagmanager.com/gtag/js",
+        "kind": "analytics",
+        "technology": "Google Analytics",
+        "url": "https://sklep.auroks.pl/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "retailer_name": "Sklep.auroks.pl",
+    "retailer_origin": "unknown",
+    "retailer_origin_evidence": {
+      "country": null,
+      "employer_alias": null,
+      "evidence_quote": null,
+      "origin": "unknown",
+      "reason": "Public search did not establish brand origin.",
+      "url": null
+    },
+    "retailer_segment": "specialist retailer",
+    "search_name": "auroks",
+    "seed_evidence": "Ranking Budowa i remont: Sklep.auroks.pl",
+    "seed_source_url": "https://ranking.opineo.pl/",
+    "signal_checked_at": "2026-11-11T22:53:16.811390+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:04:31.258106+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://sklep.auroks.pl/",
+    "storefront_status": "observed",
+    "storefront_title": "Centrum budowlane - klinkier, kominy i kotły | Auroks",
+    "storefront_url": "https://sklep.auroks.pl/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "fashion",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T21:10:44.386017+00:00",
+        "type": "script",
+        "url": "https://telimena.pl/",
+        "value": "app_shop="
+      },
+      {
+        "checked_at": "2026-11-11T21:10:44.386017+00:00",
+        "type": "script",
+        "url": "https://telimena.pl/",
+        "value": "idosell.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:07:03.084221+00:00",
+        "platform_candidate": "IdoSell",
+        "type": "script",
+        "url": "https://telimena.pl/",
+        "value": "app_shop="
+      },
+      {
+        "checked_at": "2026-11-11T22:07:03.084221+00:00",
+        "platform_candidate": "IdoSell",
+        "type": "script",
+        "url": "https://telimena.pl/",
+        "value": "idosell.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:07:08.088738+00:00",
+        "platform_candidate": "IdoSell",
+        "type": "script",
+        "url": "https://telimena.pl/pol_m_Triumph-Odziez-1194.html",
+        "value": "app_shop="
+      },
+      {
+        "checked_at": "2026-11-11T22:07:08.088738+00:00",
+        "platform_candidate": "IdoSell",
+        "type": "script",
+        "url": "https://telimena.pl/pol_m_Triumph-Odziez-1194.html",
+        "value": "idosell.com"
+      }
+    ],
+    "domain": "telimena.pl",
+    "ecommerce_platform": "IdoSell",
+    "headless_evidence": [],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://telimena.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://telimena.pl/pol_m_Triumph-Odziez-1194.html"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"Telimena\" OR \"Triumph International\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"Telimena\" OR \"Triumph International\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 0,
+    "jobs_search_results": [
+      {
+        "title": "Oferta pracy Specjalista ds. optymalizacji procesów administracyjnych i finasowych, TELIMENA.PL sp. z o.o., Inowrocław",
+        "url": "https://www.pracuj.pl/praca/specjalista-ds-optymalizacji-procesow-administracyjnych-i-finasowych-inowroclaw-dworcowa-55,oferta,1004421107"
+      },
+      {
+        "title": "infokiosk.pracuj.pl",
+        "url": "https://infokioski.pracuj.pl/krakow/wyszukiwanie-ogloszen"
+      },
+      {
+        "title": "Wzór CV front end developer",
+        "url": "https://cv.pracuj.pl/wzory-cv-i-listow-motywacyjnych/wzor-cv-front-end-developer"
+      },
+      {
+        "title": "infokiosk.pracuj.pl",
+        "url": "https://infokioski.pracuj.pl/krakow/mapa"
+      },
+      {
+        "title": "infokiosk.pracuj.pl",
+        "url": "https://infokioski.pracuj.pl/krakow/wyszukiwanie-firm"
+      },
+      {
+        "title": "infokiosk.pracuj.pl",
+        "url": "https://infokioski.pracuj.pl/warszawa/wyszukiwanie-ogloszen"
+      },
+      {
+        "title": "Magento (Adobe Commerce) Full Stack Developer - Winged IT",
+        "url": "https://justjoin.it/job-offer/winged-it-magento-adobe-commerce-full-stack-developer-bielsko-biala-php"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 0,
+    "news_search_query": "\"Telimena\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "Regulamin obowiązujący do 31-12-2020",
+        "url": "https://telimena.pl/Regulamin-obowiazujacy-do-31-12-2020-cterms-pol-244.html"
+      },
+      {
+        "title": "Regulamin obowiązujący do 31-12-2022",
+        "url": "https://telimena.pl/Regulamin-obowiazujacy-do-31-12-2022-cterms-pol-269.html"
+      },
+      {
+        "title": "Telimena zwrot – jak zwrócić zakupy do Telimena? | Wygodne Zwroty",
+        "url": "https://wygodnezwroty.pl/blog/zwroty-do-telimena"
+      },
+      {
+        "title": "FAQ - najczęściej zadawane pytania",
+        "url": "https://telimena.pl/FAQ-najczesciej-zadawane-pytania-chelp-pol-232.html"
+      },
+      {
+        "title": "Pozycjonowanie: telimena.pl | SEOPRESS.PL",
+        "url": "https://seopress.pl/pozycjonowanie/telimena.pl"
+      },
+      {
+        "title": "Telimena.pl: Opinie o sklepie na Opineo.pl",
+        "url": "https://www.opineo.pl/opinie/telimena-pl"
+      },
+      {
+        "title": "Firma Telimena. Pl Sp. z o.o. - Dane z KRS - NIP, REGON, Dane Adresowe | Sklepy specjalistyczne | Krs Online",
+        "url": "https://www.krs-online.com.pl/firma/7887339-telimena-pl-sp-z-o-o"
+      },
+      {
+        "title": "Współpraca z Telimeną &#8211; OIRP Olsztyn &#8211; Okręgowa Izba Radc&oacute;w Prawnych w Olsztynie",
+        "url": "https://oirp.olsztyn.pl/wspolpraca-z-telimena-3/"
+      },
+      {
+        "title": "Telimena.pl Site",
+        "url": "https://www.topsitessearch.com/telimena.pl/"
+      },
+      {
+        "title": "Pozycjonowanie: telimena.com | SEOPRESS.PL",
+        "url": "https://seopress.pl/pozycjonowanie/telimena.com"
+      },
+      {
+        "title": "Dom Mody Telimena",
+        "url": "https://pl.wikipedia.org/wiki/Dom_Mody_Telimena"
+      },
+      {
+        "title": "Telimena | Seeds",
+        "url": "https://www.seeds.de/models/4449-telimena/"
+      },
+      {
+        "title": "Telimena",
+        "url": "https://pl.wikipedia.org/wiki/Telimena"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "GTM-N4BVC4JH",
+        "kind": "analytics",
+        "technology": "Google Tag Manager",
+        "url": "https://telimena.pl/"
+      },
+      {
+        "evidence": "G-PH9S7N5CZN",
+        "kind": "analytics",
+        "technology": "Google Analytics",
+        "url": "https://telimena.pl/"
+      },
+      {
+        "evidence": "connect.facebook.net/en_US/fbevents.js",
+        "kind": "analytics",
+        "technology": "Meta Pixel",
+        "url": "https://telimena.pl/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "retailer_name": "Telimena.pl",
+    "retailer_origin": "unknown",
+    "retailer_origin_evidence": {
+      "country": null,
+      "employer_alias": null,
+      "evidence_quote": "Telimena.pl to sklep internetowy z bielizną firmy Triumph International – czołowego producenta bielizny na świecie.",
+      "origin": "unknown",
+      "reason": "The cited passage describes merchandise from Triumph and does not establish the retailer brand origin.",
+      "url": "https://telimena.pl/O-firmie-cabout-pol-3.html"
+    },
+    "retailer_segment": "specialist retailer",
+    "search_name": "Telimena",
+    "seed_evidence": "Ranking Odzież i obuwie: Telimena.pl",
+    "seed_source_url": "https://ranking.opineo.pl/",
+    "signal_checked_at": "2026-11-11T22:53:16.850139+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:07:03.247711+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://telimena.pl/",
+    "storefront_status": "observed",
+    "storefront_title": "Sklep z bielizną online Telimena.pl ®",
+    "storefront_url": "https://telimena.pl/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "home",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T22:12:16.195070+00:00",
+        "platform_candidate": "Sylius",
+        "type": "script",
+        "url": "https://123kwiaty.pl/",
+        "value": "sylius_shop"
+      },
+      {
+        "checked_at": "2026-11-11T22:12:18.964311+00:00",
+        "platform_candidate": "Sylius",
+        "type": "script",
+        "url": "https://123kwiaty.pl/pl/kategoria/kwiaty",
+        "value": "sylius_shop"
+      }
+    ],
+    "domain": "123kwiaty.pl",
+    "ecommerce_platform": "Sylius",
+    "headless_evidence": [],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://123kwiaty.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://123kwiaty.pl/pl/kategoria/kwiaty"
+      },
+      {
+        "kind": "robots_or_sitemap",
+        "status": "observed",
+        "url": "https://123kwiaty.pl/robots.txt"
+      },
+      {
+        "kind": "robots_or_sitemap",
+        "status": "unavailable",
+        "url": "https://123kwiaty.pl/sitemap.xml"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"123kwiaty\" OR \"ANIMEX Rafał Sumigowski, Witold Durlej s.c.\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"123kwiaty\" OR \"ANIMEX Rafał Sumigowski, Witold Durlej s.c.\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 0,
+    "jobs_search_results": [
+      {
+        "title": "infokiosk.pracuj.pl",
+        "url": "https://infokioski.pracuj.pl/warszawa/wyszukiwanie-ogloszen"
+      },
+      {
+        "title": "Senior Magento Backend Developer (K/M) - KOMFORT",
+        "url": "https://justjoin.it/job-offer/komfort-senior-magento-backend-developer-k-m--lodz-php?promo=lal"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 1,
+    "news_search_query": "\"123kwiaty\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "123kwiaty – poczta z kwiatami rozwija swoją działalność we Wrocławiu i reszcie Dolnego Śląska - Radio Wrocław",
+        "url": "https://www.radiowroclaw.pl/articles/view/156331/123kwiaty-poczta-z-kwiatami-rozwija-swoja-dzialalnosc-we-Wroclawiu-i-reszcie-Dolnego-Slaska"
+      },
+      {
+        "title": "Chcesz zwiększyć obroty swojej kwiaciarni? Nic prostszego! - ForumKwiatowe.pl",
+        "url": "https://www.forumkwiatowe.pl/chcesz-zwiekszyc-obroty-swojej-kwiaciarni-nic-prostszego/"
+      },
+      {
+        "title": "Gdzie kupić kwiaty online na imieniny Anny z dostawą w 2h tanio",
+        "url": "https://kwiatybukiety.pl/gdzie-kupic-kwiaty-online-na-imieniny-anny-z-dostawa-w-2h-tanio.html"
+      },
+      {
+        "title": "123kwiaty – znana poczta z kwiatami wraca na rynek!",
+        "url": "https://sccot.pl/dobra-robota/123kwiaty/"
+      },
+      {
+        "title": "123kwiaty (oddział: Bydgoszcz) - Kwiaciarnia Bydgoszcz | Chorzów Nasze Miasto",
+        "url": "https://chorzow.naszemiasto.pl/123kwiaty-oddzial-bydgoszcz/kf/665411"
+      },
+      {
+        "title": "Online flower shop, postal and floral delivery online 24h | 123kwiaty.pl",
+        "url": "https://www.123kwiaty.pl/en/"
+      },
+      {
+        "title": "123kwiaty (oddział: Wałbrzych) - Kwiaciarnia Wałbrzych | Chorzów Nasze Miasto",
+        "url": "https://chorzow.naszemiasto.pl/123kwiaty-oddzial-walbrzych/kf/665431"
+      },
+      {
+        "title": "123kwiaty.pl: Opinie o sklepie na Opineo.pl",
+        "url": "https://www.opineo.pl/opinie/123kwiaty-pl"
+      },
+      {
+        "title": "123kwiaty (oddział: Warszawa) - Kwiaciarnia Warszawa | Chorzów Nasze Miasto",
+        "url": "https://chorzow.naszemiasto.pl/123kwiaty-oddzial-warszawa/kf/664845"
+      },
+      {
+        "title": "123kwiaty (oddział: Rybnik) - Kwiaciarnia Rybnik | Chorzów Nasze Miasto",
+        "url": "https://chorzow.naszemiasto.pl/123kwiaty-oddzial-rybnik/kf/664707"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "cookieyes.com",
+        "kind": "CMP",
+        "technology": "CookieYes",
+        "url": "https://www.123kwiaty.pl/pl/"
+      },
+      {
+        "evidence": "googletagmanager.com/gtm.js",
+        "kind": "analytics",
+        "technology": "Google Tag Manager",
+        "url": "https://www.123kwiaty.pl/pl/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "retailer_name": "123kwiaty.pl",
+    "retailer_origin": "Polish-native",
+    "retailer_origin_evidence": {
+      "country": "Poland",
+      "employer_alias": "ANIMEX Rafał Sumigowski, Witold Durlej s.c.",
+      "evidence_quote": "123kwiaty to też firma z realną siedzibą w Polsce, w Rybniku, działająca pod nazwą ANIMEX Rafał Sumigowski, Witold Durlej s.c.",
+      "origin": "Polish-native",
+      "reason": "The passage explicitly identifies 123kwiaty as a company based in Rybnik, Poland, and names its operating business. This supports a Polish origin rather than merely a Polish subsidiary or manufacturing location.",
+      "url": "https://www.lm.pl/aktualnosci/jaka-jest-najlepsza-poczta-z-kwiatami-w-polsce"
+    },
+    "retailer_segment": "specialist retailer",
+    "search_name": "123kwiaty",
+    "seed_evidence": "Indexed 2025 ranking, Ogród: 123kwiaty.pl",
+    "seed_source_url": "https://ranking.opineo.pl/?utm_source=OPI&utm_medium=SG&utm_campaign=RankingOpineo2023",
+    "signal_checked_at": "2026-11-11T22:53:18.749161+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:12:16.497302+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://www.123kwiaty.pl/pl/",
+    "storefront_status": "observed",
+    "storefront_title": "Kwiaciarnia internetowa, poczta i kwiatowa dostawa online 24h | 123kwiaty.pl",
+    "storefront_url": "https://123kwiaty.pl/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "fashion",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T21:16:33.799204+00:00",
+        "type": "script",
+        "url": "https://naoko-store.pl/",
+        "value": "cdn.shopify.com/shopifycloud/shop-js"
+      },
+      {
+        "checked_at": "2026-11-11T21:16:33.799204+00:00",
+        "type": "script",
+        "url": "https://naoko-store.pl/",
+        "value": "Shopify.shop = \"naokodev.myshopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:16.382000+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://naoko-store.pl/",
+        "value": "cdn.shopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:16.382000+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://naoko-store.pl/",
+        "value": "X-Shopify-Storefront-Access-Token"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:16.382000+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://naoko-store.pl/",
+        "value": "cdn.shopify.com/shopifycloud/shop-js"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:16.382000+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://naoko-store.pl/",
+        "value": "Shopify.shop = \"naokodev.myshopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:33.135917+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "cdn.shopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:33.135917+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "X-Shopify-Storefront-Access-Token"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:33.135917+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "cdn.shopify.com/shopifycloud/shop-js"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:33.135917+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "Shopify.shop = \"naokodev.myshopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:37.213126+00:00",
+        "platform_candidate": "Shopify",
+        "type": "asset",
+        "url": "https://naoko-store.pl/cdn/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js",
+        "value": "x-shopify-storefront-access-token"
+      }
+    ],
+    "domain": "naoko-store.pl",
+    "ecommerce_platform": "Shopify",
+    "headless_evidence": [
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/",
+        "value": "cartCreate"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/",
+        "value": "cartCreate"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/",
+        "value": "cartCreate"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/",
+        "value": "cartCreate"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/",
+        "value": "https://${this.config.shopDomain}/api/2026-07/graphql.json`;console.debug("
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "cartCreate"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "cartCreate"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "cartCreate"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "cartCreate"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty",
+        "value": "https://${this.config.shopDomain}/api/2026-07/graphql.json`;console.debug("
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://naoko-store.pl/cdn/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js",
+        "value": "x-shopify-storefront-access-token"
+      }
+    ],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://naoko-store.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://naoko-store.pl/collections/wszystkie-produkty"
+      }
+    ],
+    "job_access_gaps": [
+      {
+        "reason": "Public job detail unavailable or restricted",
+        "url": "https://justjoin.it/job-offer/naoko-junior-ai-automation-specialist-f-m--lodz-ai"
+      },
+      {
+        "reason": "Public job detail unavailable or restricted",
+        "url": "https://justjoin.it/job-offer/naoko-specjalista-specjalistka-ds-automatyzacji-i-ai-lodz-ai"
+      }
+    ],
+    "job_candidates_not_counted": [
+      {
+        "date": "2025-04-04",
+        "date_text": "2025-04-04T08:58:32.903Z",
+        "deadline": "2025-05-04",
+        "direct_migration": false,
+        "event_status": "expired",
+        "evidence_quote": "Optymalizacja sklepu na Shopify (w tym: performance, SEO techniczne, struktura, szybkość).",
+        "open_evidence_quote": null,
+        "platform_mentioned": "Shopify",
+        "reason": "The posting explicitly says the employer ended collecting applications, and its validThrough deadline was 2025-05-04, which has passed.",
+        "title": "Dyrektor eCommerce (NAOKO)",
+        "url": "https://www.pracuj.pl/praca/dyrektor-ecommerce-naoko-lodz-lakowa-11,oferta,1004015663"
+      },
+      {
+        "date": "2025-04-04",
+        "date_text": "2025-04-04T08:58:32.903Z",
+        "deadline": "2025-05-04",
+        "deadline_text": "2025-05-04T21:59:59Z",
+        "direct_migration": false,
+        "evidence_quote": "Optymalizacja sklepu na Shopify (w tym: performance, SEO techniczne, struktura, szybkość).",
+        "open_evidence_quote": "Pracodawca zakończył zbieranie zgłoszeń na tę ofertę",
+        "platform_mentioned": "Shopify",
+        "reason": "Expired deadline and the page explicitly says the employer has stopped accepting applications.",
+        "role_class": "platform",
+        "title": "Dyrektor eCommerce (NAOKO)",
+        "url": "https://www.pracuj.pl/praca/dyrektor-ecommerce-naoko-lodz-lakowa-11,oferta,1004015663"
+      },
+      {
+        "date": "2026-03-20",
+        "date_text": "2026-03-20T23:20:52.43Z",
+        "deadline": "2026-04-20",
+        "deadline_text": "2026-04-20T21:59:59Z",
+        "direct_migration": false,
+        "evidence_quote": "całościowy nadzór nad witryną .com: zarządzanie kolekcjami, wdrażanie kampanii promocyjnych, spójność brandingu na rynkach europejskich",
+        "open_evidence_quote": "Pracodawca zakończył zbieranie zgłoszeń na tę ofertę",
+        "platform_mentioned": "Shopify",
+        "reason": "Expired deadline and the page explicitly says the employer has stopped accepting applications.",
+        "role_class": "platform",
+        "title": "Senior eCommerce Specialist (f/m)",
+        "url": "https://www.pracuj.pl/praca/senior-ecommerce-specialist-f-m-lodz-lakowa-11,oferta,1004721567"
+      }
+    ],
+    "job_check_status": "searched_with_access_gaps",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"Naoko\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"Naoko\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 4,
+    "jobs_search_results": [
+      {
+        "title": "Oferta pracy Dyrektor eCommerce (NAOKO), CONCEPT 101 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Łódź",
+        "url": "https://www.pracuj.pl/praca/dyrektor-ecommerce-naoko-lodz-lakowa-11,oferta,1004015663"
+      },
+      {
+        "title": "Praca pracownik działu sprzedaży internetowej - e-commerce – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/pracownik%20dzia%C5%82u%20sprzeda%C5%BCy%20internetowej%20-%20e-commerce;kw"
+      },
+      {
+        "title": "Praca ecommerce analyst – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20analyst;kw"
+      },
+      {
+        "title": "Oferta pracy Senior eCommerce Specialist (f/m), CONCEPT 101 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, Łódź",
+        "url": "https://www.pracuj.pl/praca/senior-ecommerce-specialist-f-m-lodz-lakowa-11,oferta,1004721567"
+      },
+      {
+        "title": "Wzór CV front end developer",
+        "url": "https://cv.pracuj.pl/wzory-cv-i-listow-motywacyjnych/wzor-cv-front-end-developer"
+      },
+      {
+        "title": "Praca data analyst (e-commerce) – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/data%20analyst%20(e-commerce);kw"
+      },
+      {
+        "title": "Junior AI & Automation Specialist (F/M) - NAOKO",
+        "url": "https://justjoin.it/job-offer/naoko-junior-ai-automation-specialist-f-m--lodz-ai"
+      },
+      {
+        "title": "Praca w NAOKO - Profil Pracodawcy",
+        "url": "https://justjoin.it/brands/story/naoko"
+      },
+      {
+        "title": "Specjalista / Specjalistka ds. automatyzacji i AI - NAOKO",
+        "url": "https://justjoin.it/job-offer/naoko-specjalista-specjalistka-ds-automatyzacji-i-ai-lodz-ai"
+      },
+      {
+        "title": "Magento Developer - Be in IT",
+        "url": "https://justjoin.it/job-offer/be-in-it-magento-developer-poznan-php"
+      },
+      {
+        "title": "Front-End Developer – Magento E-commerce - OstroVit",
+        "url": "https://justjoin.it/job-offer/ostrovit-front-end-developer---magento-e-commerce-lomza-javascript"
+      },
+      {
+        "title": "Magento (Adobe Commerce) Full Stack Developer - Winged IT",
+        "url": "https://justjoin.it/job-offer/winged-it-magento-adobe-commerce-full-stack-developer-bielsko-biala-php"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [
+      {
+        "date": "2025-10-24",
+        "date_text": "2025-10-24T08:36:58+00:00",
+        "event_status": "completed",
+        "evidence_quote": "Naoko zgłosiło się do nas z prośbą o wdrożenie GTM Server-Side, aby poprawić jakość i dokładność danych w GA4. Po implementacji zgodność danych między GA4 a backendem wzrosła z 85% do niemal 100%.",
+        "platform_mentioned": "GTM Server-Side",
+        "reason": "Recent, retailer-specific implementation, but it concerns analytics/tag migration rather than a website relaunch, ecommerce migration, commerce platform implementation, or substantial storefront implementation.",
+        "title": "Naoko - wdrożenie GTM Server-Side",
+        "url": "https://digispot.pl/case-studies/naoko-wdrozenie-gtm-server-side/"
+      },
+      {
+        "date": "2019-10-29",
+        "date_text": "2019-10-29T15:41:49+00:00",
+        "event_status": "completed",
+        "evidence_quote": "Pierwszą czynnością po wykonaniu audytu była analiza konta Edrone, z którym sklep był już zintegrowany. Sprawdziliśmy, które elementy są już skonfigurowane i co jeszcze można uruchomić i zoptymalizować, aby maksymalnie wykorzystać potencjał tego narzędzia.",
+        "platform_mentioned": "Edrone",
+        "reason": "The original publication date is before the recent window; the 2025 modified date does not make this older marketing-automation case study recent. It also does not report a qualifying storefront or commerce-platform implementation.",
+        "title": "Zobacz, jak w 3 miesiące Naoko Store zwiększyło sprzedaż o ponad 50%",
+        "url": "https://estrategie.pl/marketing-automation-case-study-naoko-store/"
+      }
+    ],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 2,
+    "news_search_query": "\"Naoko\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "[WYWIAD] Monika Szyndler, Naoko: Szukamy nowych lokalizacji w Trójmieście i Krakowie &#8211; SCF News | retailnet.pl",
+        "url": "https://retailnet.pl/2023/10/19/wywiad-monika-szyndler-naoko-szukamy-nowych-lokalizacji-w-trojmiescie-i-krakowie/"
+      },
+      {
+        "title": "Polska marka modowa zaczynała w internecie. Teraz otwiera kolejny butik w centrum handlowym",
+        "url": "https://www.propertynews.pl/centra-handlowe/polska-marka-modowa-zaczynala-w-internecie-teraz-otwiera-kolejny-butik-w-centrum-handlowym,202743.html"
+      },
+      {
+        "title": "Warunki świadczenia usług – NAOKO-STORE.pl",
+        "url": "https://naoko-store.pl/policies/terms-of-service"
+      },
+      {
+        "title": "Zobacz, jak w 3 miesiące Naoko Store zwiększyło sprzedaż o ponad 50% - eStrategie.pl",
+        "url": "https://estrategie.pl/marketing-automation-case-study-naoko-store/"
+      },
+      {
+        "title": "NAOKO • MODIVO.PL",
+        "url": "https://modivo.pl/c/modivo/marka:naoko"
+      },
+      {
+        "title": "Ukryte Fakty: Opinie Naoko-store 2025 - NiezależnaOpinia",
+        "url": "https://niezaleznaopinia.pl/sklepy-internetowe/naoko-store-opinie"
+      },
+      {
+        "title": "NAOKO",
+        "url": "https://www.facebook.com/naoko.store/?locale=pl_PL"
+      },
+      {
+        "title": "Sprawdź, gdzie mieszczą się butiki NAOKO! – NAOKO-STORE.pl",
+        "url": "https://naoko-store.pl/blogs/naoko-blog/kupuj-online-lub-stacjonarnie-sprawdz-gdzie-mieszcza-sie-butiki-naoko"
+      },
+      {
+        "title": "Magdalena Stawicka",
+        "url": "https://www.linkedin.com/in/magdalena-stawicka-a7080a240"
+      },
+      {
+        "title": "Naoko - wdrożenie GTM Server-Side - Digispot",
+        "url": "https://digispot.pl/case-studies/naoko-wdrozenie-gtm-server-side/"
+      },
+      {
+        "title": "Migracja sklepu internetowego – co powinieneś o niej wiedzieć? - Cross-border.pl",
+        "url": "https://cross-border.pl/jak-zaczac/migracja-sklepu-internetowego-co-powinienes-o-niej-wiedziec/"
+      },
+      {
+        "title": "Migracja ecommerce - czym jest i jak bezpiecznie przenieść sklep internetowy? Poradnik - SEO-WWW.PL - Pozycjonowanie stron i sklepów internetowych",
+        "url": "https://seo-www.pl/blog/migracja-ecommerce-czym-jest-i-jak-bezpiecznie-przeniesc-sklep-internetowy-poradnik/"
+      },
+      {
+        "title": "Migracja sklepu",
+        "url": "https://commerce.fabrity.com/pl/services/migration"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "GTM-PZ453TV",
+        "kind": "analytics",
+        "technology": "Google Tag Manager",
+        "url": "https://naoko-store.pl/"
+      },
+      {
+        "evidence": "G-ML1DR1R5CX",
+        "kind": "analytics",
+        "technology": "Google Analytics",
+        "url": "https://naoko-store.pl/"
+      },
+      {
+        "evidence": "clarity.ms",
+        "kind": "analytics",
+        "technology": "Microsoft Clarity",
+        "url": "https://naoko-store.pl/"
+      },
+      {
+        "evidence": "static.hotjar.com",
+        "kind": "analytics",
+        "technology": "Hotjar",
+        "url": "https://naoko-store.pl/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search. Some job evidence could not be inspected.",
+    "retailer_name": "Naoko",
+    "retailer_origin": "Polish-native",
+    "retailer_origin_evidence": {
+      "country": "Poland",
+      "employer_alias": null,
+      "evidence_quote": "NAOKO to polska marka dla marzycieli i podróżników.",
+      "origin": "Polish-native",
+      "reason": "The retailer’s own passage explicitly describes NAOKO as a Polish brand.",
+      "url": "https://naoko-store.pl/strona/formularze"
+    },
+    "retailer_segment": "chain or established Polish brand",
+    "search_name": "Naoko",
+    "seed_evidence": "Public consumer survey: Naoko",
+    "seed_source_url": "https://simplicite.pl/lista-polecanych-sklepow-i-marek-ubraniowych-2025/",
+    "signal_checked_at": "2026-11-11T22:53:32.359589+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:16:17.177894+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://naoko-store.pl/",
+    "storefront_status": "observed",
+    "storefront_title": "Naoko Studio | Charakter zamiast basicu",
+    "storefront_url": "https://naoko-store.pl/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "fashion",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T21:16:33.799151+00:00",
+        "type": "script",
+        "url": "https://bombshe.com/",
+        "value": "cdn.shopify.com/shopifycloud/shop-js"
+      },
+      {
+        "checked_at": "2026-11-11T21:16:33.799151+00:00",
+        "type": "script",
+        "url": "https://bombshe.com/",
+        "value": "Shopify.shop = \"psss0e-w3.myshopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:14.690088+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://bombshe.com/",
+        "value": "cdn.shopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:14.690088+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://bombshe.com/",
+        "value": "cdn.shopify.com/shopifycloud/shop-js"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:14.690088+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://bombshe.com/",
+        "value": "Shopify.shop = \"psss0e-w3.myshopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:35.288541+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://bombshe.com/products/welniany-krotki-kardigan-szary",
+        "value": "cdn.shopify.com"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:35.288541+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://bombshe.com/products/welniany-krotki-kardigan-szary",
+        "value": "cdn.shopify.com/shopifycloud/shop-js"
+      },
+      {
+        "checked_at": "2026-11-11T22:16:35.288541+00:00",
+        "platform_candidate": "Shopify",
+        "type": "script",
+        "url": "https://bombshe.com/products/welniany-krotki-kardigan-szary",
+        "value": "Shopify.shop = \"psss0e-w3.myshopify.com"
+      }
+    ],
+    "domain": "bombshe.com",
+    "ecommerce_platform": "Shopify",
+    "headless_evidence": [
+      {
+        "type": "commerce_api_reference",
+        "url": "https://bombshe.com/",
+        "value": "https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.3.iife.js',D={infoText:'Chronione"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://bombshe.com/",
+        "value": "https://cdn.shopify.com/storefront/standard-actions.js"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://bombshe.com/products/welniany-krotki-kardigan-szary",
+        "value": "https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.3.iife.js',D={infoText:'Chronione"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://bombshe.com/products/welniany-krotki-kardigan-szary",
+        "value": "https://cdn.shopify.com/storefront/standard-actions.js"
+      }
+    ],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://bombshe.com/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://bombshe.com/products/welniany-krotki-kardigan-szary"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"Bombshe\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"Bombshe\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 0,
+    "jobs_search_results": [
+      {
+        "title": "Praca e-commerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/e-commerce%20developer;kw"
+      },
+      {
+        "title": "Praca ecommerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20developer;kw"
+      },
+      {
+        "title": "Praca programista ecommerce – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/programista%20ecommerce;kw"
+      },
+      {
+        "title": "Praca ecommerce frontend developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20frontend%20developer;kw"
+      },
+      {
+        "title": "Oferta pracy Lead Developer for SAP S/4HANA Supply Chain Logistics (f/m), Robert Bosch Sp. z o.o., Warszawa",
+        "url": "https://www.pracuj.pl/praca/lead-developer-for-sap-s-4hana-supply-chain-logistics-f-m-warszawa-jutrzenki-105,oferta,1005178761"
+      },
+      {
+        "title": "Praca ecommerce praktyki – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20praktyki;kw"
+      },
+      {
+        "title": "Senior Frontend Developer Magento - PKO BP Finat",
+        "url": "https://justjoin.it/job-offer/pko-bp-finat-senior-frontend-developer-magento-warszawa-javascript"
+      },
+      {
+        "title": "Shopify Developer - Coalition Technologies",
+        "url": "https://justjoin.it/job-offer/coalition-technologies-shopify-developer-los-angeles-javascript"
+      },
+      {
+        "title": "Magento Developer - co.brick Talents",
+        "url": "https://justjoin.it/job-offer/co-brick-talents-magento-developer-poznan-php"
+      },
+      {
+        "title": "BigCommerce Developer - Coalition Technologies",
+        "url": "https://justjoin.it/job-offer/coalition-technologies-bigcommerce-developer-los-angeles-php"
+      },
+      {
+        "title": "Front-End Developer – Magento E-commerce - OstroVit",
+        "url": "https://justjoin.it/job-offer/ostrovit-front-end-developer---magento-e-commerce-lomza-javascript"
+      },
+      {
+        "title": "Shopify Developer - Attomy Sp. z o.o.",
+        "url": "https://justjoin.it/job-offer/attomy-sp-z-o-o--shopify-developer-rzeszow-html"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 0,
+    "news_search_query": "\"Bombshe\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "Bombshe store — sklep internetowy dla ciebie! - Damskiportal.eu",
+        "url": "https://damskiportal.eu/bombshe-store-sklep-internetowy-dla-ciebie/"
+      },
+      {
+        "title": "Bombshe: sklep, co szyje i podobne polskie marki | Polska Picks",
+        "url": "https://www.polskapicks.com/marki/bombshe"
+      },
+      {
+        "title": "Bombshe",
+        "url": "https://pl.linkedin.com/company/bombshe"
+      },
+      {
+        "title": "Sklep Bombshe – co w nim znajdziemy?",
+        "url": "https://jeansdom.pl/sklep-bombshe-co-w-nim-znajdziemy/"
+      },
+      {
+        "title": "Powrót do podstaw – Bombshe na sezon wiosna-lato 2021",
+        "url": "https://label-magazine.com/lifestyle/artykuly/powrot-do-podstaw-bombshe-na-sezon-wiosna-lato-2021"
+      },
+      {
+        "title": "Dołącz do programu partnerskiego Bombshe w webePartners",
+        "url": "https://webepartners.pl/programy-partnerskie/bombshe/"
+      },
+      {
+        "title": "Poznajcie polską markę ubrań Bombshe - SzafaDamy.pl",
+        "url": "https://szafadamy.pl/poznajcie-polska-marke-ubran-bombshe/"
+      },
+      {
+        "title": "Bombshe Store – producent polskiej odzieży damskiej",
+        "url": "https://www.raj.net.pl/moda/bombshe-store-producent-polskiej-odziezy-damskiej/"
+      },
+      {
+        "title": "Zaplanowana harmonia. Klasyka w najlepszej wersji marki Bombshe AW21 - Ikmag",
+        "url": "https://www.ikmag.pl/zaplanowana-harmonia-klasyka-w-najlepszej-wersji-marki-bombshe-aw21/"
+      },
+      {
+        "title": "Klasyka w najlepszej wersji marki Bombshe - Planeta Kobiet",
+        "url": "https://www.planetakobiet.com.pl/artykul-8418-klasykawnajlepszejwersjimarkibombshe.htm"
+      },
+      {
+        "title": "Bombshe – marka z szacunkiem dla środowiska ✔️ | Portal lifestylowy Miasto Kobiet",
+        "url": "https://www.miastokobiet.pl/bombshe-marka-z-szacunkiem-dla-srodowiska/"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "clarity.ms",
+        "kind": "analytics",
+        "technology": "Microsoft Clarity",
+        "url": "https://bombshe.com/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "retailer_name": "Bombshe",
+    "retailer_origin": "Polish-native",
+    "retailer_origin_evidence": {
+      "country": "Poland",
+      "employer_alias": null,
+      "evidence_quote": "Bombshe to niewielka polska marka odzieżowa, dedykowana dla kobiet, która powstała w 2016 roku. Siedziba, czyli serce firmy znajduje się we Wrocławiu.",
+      "origin": "Polish-native",
+      "reason": "The passage explicitly identifies Bombshe as a Polish clothing brand and places its headquarters in Wrocław, Poland.",
+      "url": "https://webepartners.pl/programy-partnerskie/bombshe/"
+    },
+    "retailer_segment": "chain or established Polish brand",
+    "search_name": "Bombshe",
+    "seed_evidence": "Public consumer survey: Bombshe",
+    "seed_source_url": "https://simplicite.pl/lista-polecanych-sklepow-i-marek-ubraniowych-2025/",
+    "signal_checked_at": "2026-11-11T22:53:32.353792+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:16:15.270369+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://bombshe.com/",
+    "storefront_status": "observed",
+    "storefront_title": "Minimalistyczna marka odzieżowa, producent ekskluzywnych ubrań",
+    "storefront_url": "https://bombshe.com/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "electronics",
+    "detection_evidence": [],
+    "domain": "mediaexpert.pl",
+    "ecommerce_platform": "unknown",
+    "headless_evidence": [],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "access_restricted",
+        "url": "https://mediaexpert.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "access_restricted",
+        "url": "https://www.mediaexpert.pl/producenci"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [
+      {
+        "date": "2026-09-28",
+        "date_text": "2026-09-28T14:24:05.02Z",
+        "deadline": "2026-10-28",
+        "deadline_text": "2026-10-28T22:59:59Z",
+        "direct_migration": false,
+        "evidence_quote": "Mile widziane Doświadczenie w obszarze e-commerce lub retail.",
+        "open_evidence_quote": "ogłoszenie wygasło 14 dni temu",
+        "platform_mentioned": null,
+        "reason": "Expired on 2026-10-28; page also says the employer has stopped accepting applications. Ecommerce experience is only preferred, not an explicit ecommerce responsibility.",
+        "role_class": "weak",
+        "title": "Product Owner (k/m)",
+        "url": "https://www.pracuj.pl/praca/product-owner-k-m-zlotow-za-dworcem-1d,oferta,1005122369"
+      },
+      {
+        "date": "2022-03-25",
+        "date_text": "2022-03-25T09:45:11.16Z",
+        "deadline": "2022-04-24",
+        "deadline_text": "2022-04-24T21:59:59Z",
+        "direct_migration": false,
+        "evidence_quote": "dbanie o wizualną część naszych aplikacji",
+        "open_evidence_quote": "ogłoszenie wygasło 5 lat temu",
+        "platform_mentioned": null,
+        "reason": "Expired long ago and the page says the employer has stopped accepting applications. The supplied responsibilities do not explicitly identify ecommerce or online-store application work.",
+        "role_class": "ecommerce_team",
+        "title": "Frontend Developer – Regular",
+        "url": "https://www.pracuj.pl/praca/frontend-developer-regular-katowice,oferta,1001678550"
+      },
+      {
+        "date": "2026-11-02",
+        "date_text": "2026-11-02T08:35:32.363Z",
+        "deadline": "2026-12-02",
+        "deadline_text": "2026-12-02T22:59:59Z",
+        "direct_migration": false,
+        "evidence_quote": "Koordynowanie tworzenia i rozwoju landing page’y wykorzystywanych w kampaniach promocyjnych.",
+        "open_evidence_quote": "ważna jeszcze 21 dni ( do 02 gru )",
+        "platform_mentioned": null,
+        "reason": "Date, open-status or quotation validation failed",
+        "role_class": "weak",
+        "title": "Specjalista ds. e-marketingu (k/m)",
+        "url": "https://www.pracuj.pl/praca/specjalista-ds-e-marketingu-k-m-lodz,oferta,1005193797"
+      }
+    ],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"Mediaexpert\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"Mediaexpert\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 3,
+    "jobs_search_results": [
+      {
+        "title": "Oferta pracy Product Owner (k/m), Media Expert, Złotów",
+        "url": "https://www.pracuj.pl/praca/product-owner-k-m-zlotow-za-dworcem-1d,oferta,1005122369"
+      },
+      {
+        "title": "Oferta pracy Specjalista ds. e-marketingu (k/m), Media Expert, Łódź",
+        "url": "https://www.pracuj.pl/praca/specjalista-ds-e-marketingu-k-m-lodz,oferta,1005193797"
+      },
+      {
+        "title": "Praca w firmie Media Expert – profil pracodawcy",
+        "url": "https://pracodawcy.pracuj.pl/profile/media-expert,teogzo2,pl"
+      },
+      {
+        "title": "Oferta pracy Frontend Developer – Regular, Media Expert, Katowice",
+        "url": "https://www.pracuj.pl/praca/frontend-developer-regular-katowice,oferta,1001678550"
+      },
+      {
+        "title": "Praca mediaexpert – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/mediaexpert;kw"
+      },
+      {
+        "title": "Praca: mediaexpert",
+        "url": "https://www.pracuj.pl/praca/mediaexpert;en"
+      },
+      {
+        "title": "Autocomplete Search. O boosterze sprzedaży w sklepach online",
+        "url": "https://justjoin.it/blog/autocomplete-search-o-boosterze-sprzedazy-w-sklepach-online"
+      },
+      {
+        "title": "Specjalista Microsoft Dynamics 365 F&amp;O (k/m) - TERG S.A.",
+        "url": "https://justjoin.it/job-offer/terg-s-a--specjalista-microsoft-dynamics-365-f-o-k-m--warszawa-analytics"
+      },
+      {
+        "title": "Jak Head of Remote może pomóc w koordynacji pracy zdalnej i hybrydowej? Wywiad z Zuzanną Przybyłą",
+        "url": "https://justjoin.it/blog/jak-head-of-remote-moze-pomoc-w-koordynacji-pracy-zdalnej-i-hybrydowej-wywiad-z-zuzanna-przybyla"
+      },
+      {
+        "title": "Technical Support Specialist - Tpay",
+        "url": "https://justjoin.it/job-offer/tpay-technical-support-specialist-poznan-support-12b4d091"
+      },
+      {
+        "title": "Młodszy Specjalista Microsoft Dynamics 365 F&amp;O (k/m) - TERG S.A.",
+        "url": "https://justjoin.it/job-offer/terg-s-a--mlodszy-specjalista-microsoft-dynamics-365-f-o-k-m--warszawa-analytics"
+      },
+      {
+        "title": "Młodszy Specjalista Microsoft Dynamics 365 F&amp;O (k/m) - TERG S.A.",
+        "url": "https://justjoin.it/job-offer/terg-s-a--mlodszy-specjalista-microsoft-dynamics-365-f-o-k-m--warszawa-erp"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "verified_signal",
+    "news_pages_checked": 3,
+    "news_search_query": "\"Mediaexpert\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "Media Expert marketplace – transformacja sklepu internetowego w platformę sprzedażową - swiatcyfrowy.pl",
+        "url": "https://swiatcyfrowy.pl/blog/media-expert-marketplace-transformacja-sklepu-internetowego-w-platforme-sprzedazowa"
+      },
+      {
+        "title": "Wdrożenie i obsługa sprzedaży na Media Expert",
+        "url": "https://vsprint.pl/media-expert/"
+      },
+      {
+        "title": "Wdrożenie Media Expert | Pirk Spark",
+        "url": "https://pirkspark.pl/media-expert/"
+      },
+      {
+        "title": "Integracja Media Expert – Automatyzacja sprzedaży i magazynu",
+        "url": "https://www.integracja-systemow.pl/integracja-media-expert/"
+      },
+      {
+        "title": "Jak prodávat na Media Expert? Vysvětluje odborník z bTOP – bTOP – agentura pro tržiště Amazon, Allegro, Kaufland a více než 25 dalších platforem | bTOP",
+        "url": "https://btop.pl/cs/jak-prodavat-na-media-expert-vysvetluje-expert-z-btop/"
+      },
+      {
+        "title": "Media Expert: zamówienie w drodze do punktu odbioru – FAQ",
+        "url": "https://portal-strzelce.pl/media-expert-zamowienie-w-drodze-do-punktu-odbioru-faq"
+      },
+      {
+        "title": "Dariusz Zyzik",
+        "url": "https://www.linkedin.com/in/dariusz-zyzik-608a66395"
+      },
+      {
+        "title": "Media Expert uruchamia marketplace: Sprzedaż online i Media Expert Marketplace",
+        "url": "https://vsprint.pl/blog/media-expert-uruchamia-marketplace-sprzedaz-online-i-media-expert-marketplace/"
+      },
+      {
+        "title": "Migracja sklepów ENP (E Net Production) na Magento 2",
+        "url": "https://ageno.pl/blog/migracja-enp-na-magento/"
+      },
+      {
+        "title": "Media Expert &#8211; SCF News | Retailnet.pl",
+        "url": "https://retailnet.pl/tag/media-expert/"
+      },
+      {
+        "title": "Media Expert uruchamia marketplace i idzie po klientów Allegro i MediaMarkt",
+        "url": "https://www.wiadomoscihandlowe.pl/handel-i-dystrybucja/sklepy-z-elektronika-uzytkowa/media-expert-uruchamia-marketplace-i-idzie-po-klientow-allegro-i-mediamarkt-2528528"
+      },
+      {
+        "title": "Sklep internetowy Media Expert jak Allegro? Idą zmiany",
+        "url": "https://www.instalki.pl/news/internet/zmiany-w-media-expert-kupujesz-tam-przeczytaj/"
+      }
+    ],
+    "news_signals": [
+      {
+        "checked_at": "2026-11-11T21:40:42.922586+00:00",
+        "date": "2025-09-09",
+        "date_text": "2025-09-09",
+        "event_status": "announced",
+        "evidence_quote": "Zarejestrowani użytkownicy sklepu online Media Expert otrzymali wiadomość email, która dotyczą zmiany regulaminu. „Nasz sklep internetowy rozwija się i już wkrótce zmieni się w platformę zakupową, na której oprócz produktów oferowanych przez Media Expert, znajdziesz też oferty od innych Sprzedawców.” – czytamy w komunikacie.",
+        "geographic_scope": "Poland",
+        "platform_mentioned": null,
+        "quality_reason": "The report concerns Media Expert’s electronics online store and explicitly announces its planned expansion into a marketplace with third-party sellers. It is relevant to the retailer, but the evidence does not confirm that the change was completed.",
+        "reason": "Dated news explicitly reports Media Expert’s planned online-store change into a platform with third-party sellers.",
+        "title": "Zmiany w Media Expert. Kupujesz tam? Przeczytaj",
+        "url": "https://www.instalki.pl/news/internet/zmiany-w-media-expert-kupujesz-tam-przeczytaj/"
+      }
+    ],
+    "other_tech_signals": [],
+    "replatform_signal_summary": "Recent dated news describes an announced or ongoing commerce project; purchasing intent is not confirmed. Storefront inspection unavailable or restricted.",
+    "retailer_name": "Mediaexpert.pl",
+    "retailer_origin": "Polish-native",
+    "retailer_origin_evidence": {
+      "country": "Poland",
+      "employer_alias": null,
+      "evidence_quote": "Media Expert (zapis stylizowany: mediaexpert) – polska sieć supermarketów oferujących sprzęt RTV i AGD, komputery, oprogramowanie oraz multimedia, założona w 2002 r.",
+      "origin": "Polish-native",
+      "reason": "The passage explicitly identifies the retailer as a Polish chain and says it was founded in 2002.",
+      "url": "https://www.wikiwand.com/pl/Media_Expert"
+    },
+    "retailer_segment": "specialist retailer",
+    "search_name": "Mediaexpert",
+    "seed_evidence": "Indexed 2025 ranking, Elektronika i akcesoria: Mediaexpert.pl",
+    "seed_source_url": "https://ranking.opineo.pl/?utm_source=OPI&utm_medium=SG&utm_campaign=RankingOpineo2023",
+    "signal_checked_at": "2026-11-11T22:53:18.676461+00:00",
+    "signal_strength": "medium",
+    "signal_strength_reason": "Recent dated news describes an announced or ongoing commerce project; purchasing intent is not confirmed.",
+    "storefront_checked_at": "2026-11-11T21:13:31.751166+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://mediaexpert.pl/",
+    "storefront_status": "access_restricted",
+    "storefront_title": null,
+    "storefront_url": "https://mediaexpert.pl/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "fashion",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T21:10:44.386034+00:00",
+        "type": "script",
+        "url": "https://bokserkoland.pl/",
+        "value": "/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.2.1"
+      },
+      {
+        "checked_at": "2026-11-11T21:10:44.386034+00:00",
+        "type": "script",
+        "url": "https://bokserkoland.pl/",
+        "value": "wc_add_to_cart_params"
+      },
+      {
+        "checked_at": "2026-11-11T21:10:44.386034+00:00",
+        "type": "cookie",
+        "url": "https://bokserkoland.pl/",
+        "value": "woocommerce_items_in_cart"
+      },
+      {
+        "checked_at": "2026-11-11T22:07:03.314771+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://bokserkoland.pl/",
+        "value": "/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.2.1"
+      },
+      {
+        "checked_at": "2026-11-11T22:07:03.314771+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://bokserkoland.pl/",
+        "value": "wc_add_to_cart_params"
+      },
+      {
+        "checked_at": "2026-11-11T22:07:03.314771+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://bokserkoland.pl/",
+        "value": "woocommerce_items_in_cart"
+      },
+      {
+        "checked_at": "2026-11-11T22:07:07.456044+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://bokserkoland.pl/kategoria-produktu/kobieta/",
+        "value": "/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.2.1"
+      },
+      {
+        "checked_at": "2026-11-11T22:07:07.456044+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://bokserkoland.pl/kategoria-produktu/kobieta/",
+        "value": "wc_add_to_cart_params"
+      },
+      {
+        "checked_at": "2026-11-11T22:07:07.456044+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://bokserkoland.pl/kategoria-produktu/kobieta/",
+        "value": "woocommerce_items_in_cart"
+      }
+    ],
+    "domain": "bokserkoland.pl",
+    "ecommerce_platform": "WooCommerce",
+    "headless_evidence": [],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://bokserkoland.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://bokserkoland.pl/kategoria-produktu/kobieta/"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"bokserkoland\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"bokserkoland\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 0,
+    "jobs_search_results": [
+      {
+        "title": "Praca programista magento – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/programista%20magento;kw"
+      },
+      {
+        "title": "Praca e-commerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/e-commerce%20developer;kw"
+      },
+      {
+        "title": "Praca magento developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/magento%20developer;kw"
+      },
+      {
+        "title": "Praca ecommerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20developer;kw"
+      },
+      {
+        "title": "Oferty pracy w branży IT – it.Pracuj.pl",
+        "url": "https://it.pracuj.pl/praca"
+      },
+      {
+        "title": "Praca programista ecommerce – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/programista%20ecommerce;kw"
+      },
+      {
+        "title": "Senior Magento Developer - Sii",
+        "url": "https://justjoin.it/job-offer/sii-senior-magento-developer-warszawa-php"
+      },
+      {
+        "title": "IT Job Board and Job Offers | Just Join IT",
+        "url": "https://justjoin.it/?zielona=gora"
+      },
+      {
+        "title": "Developer Magento - PKO BP Finat",
+        "url": "https://justjoin.it/job-offer/pko-bp-finat-developer-magento-warszawa-php"
+      },
+      {
+        "title": "Full stack Magento Developer - Gate-Software",
+        "url": "https://justjoin.it/job-offer/gate-software-full-stack-magento-developer-tarnow-php"
+      },
+      {
+        "title": "Shopify Developer - Attomy Sp. z o.o.",
+        "url": "https://justjoin.it/job-offer/attomy-sp-z-o-o--shopify-developer-rzeszow-html"
+      },
+      {
+        "title": "Front-End Developer – Magento E-commerce - OstroVit",
+        "url": "https://justjoin.it/job-offer/ostrovit-front-end-developer---magento-e-commerce-lomza-javascript"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 0,
+    "news_search_query": "\"bokserkoland\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "O nas - Bokserkoland",
+        "url": "https://bokserkoland.pl/o-nas/"
+      },
+      {
+        "title": "Skontaktuj się z nami - Bokserkoland",
+        "url": "https://bokserkoland.pl/kontakt/"
+      },
+      {
+        "title": "Czas dostawy - Bokserkoland",
+        "url": "https://bokserkoland.pl/dostawa/"
+      },
+      {
+        "title": "Regulamin promocji \"Gratisowa para\" - Bokserkoland",
+        "url": "https://bokserkoland.pl/regulamin-promocji-gratisowa-para/"
+      },
+      {
+        "title": "Sklep bokserski - jak wybrać najlepszy? - Portal News",
+        "url": "https://portalnews.pl/sklep-bokserski-jak-wybrac-najlepszy/"
+      },
+      {
+        "title": "Jak łatwo zrobić zwrot do bokserkoland.pl? | Wygodne Zwroty",
+        "url": "https://wygodnezwroty.pl/blog/jak-latwo-zrobic-zwrot-do-bokserkoland"
+      },
+      {
+        "title": "Bokserki - Bokserkoland",
+        "url": "https://bokserkoland.pl/kategoria-produktu/bokserki/"
+      },
+      {
+        "title": "bokserkoland.pl: Opinie o sklepie na Opineo.pl",
+        "url": "https://www.opineo.pl/opinie/bokserkoland-pl"
+      },
+      {
+        "title": "Migracja sklepu internetowego – co to jest i jak ją przeprowadzić?",
+        "url": "https://cyrekdigital.com/pl/baza-wiedzy/migracja-sklepu-internetowego/"
+      },
+      {
+        "title": "Migracja e-commerce: Kompleksowy przewodnik - Polska",
+        "url": "https://vtex.com/pl-pl/blog/migracja-e-commerce-kompleksowy-przewodnik-i-plan/"
+      },
+      {
+        "title": "Przeniesienie sklepu internetowego - korzyści, przebieg i najczęstsze błędy / Wiedza e-commerce - nasze publikacje",
+        "url": "https://www.ideo.pl/e-commerce/wiedza/migracje-e-commerce-jak-przeniesc-e-sklep-na-nowa-platforme,166.html"
+      },
+      {
+        "title": "Czym jest migracja sklepu internetowego? Poznaj 3 najczęstsze powody migracji sklepu  | Mayko",
+        "url": "https://mayko.pl/blog/czym-jest-migracja-sklepu-internetowego/"
+      },
+      {
+        "title": "Migracja sklepu",
+        "url": "https://commerce.fabrity.com/pl/services/migration"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "googletagmanager.com/gtm.js",
+        "kind": "analytics",
+        "technology": "Google Tag Manager",
+        "url": "https://bokserkoland.pl/"
+      },
+      {
+        "evidence": "G-7TCZQ6K9HL",
+        "kind": "analytics",
+        "technology": "Google Analytics",
+        "url": "https://bokserkoland.pl/"
+      },
+      {
+        "evidence": "clarity.ms",
+        "kind": "analytics",
+        "technology": "Microsoft Clarity",
+        "url": "https://bokserkoland.pl/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "retailer_name": "bokserkoland.pl",
+    "retailer_origin": "unknown",
+    "retailer_origin_evidence": {
+      "country": null,
+      "employer_alias": null,
+      "evidence_quote": null,
+      "origin": "unknown",
+      "reason": "Public search did not establish brand origin.",
+      "url": null
+    },
+    "retailer_segment": "specialist retailer",
+    "search_name": "bokserkoland",
+    "seed_evidence": "Ranking Odzież i obuwie: bokserkoland.pl",
+    "seed_source_url": "https://ranking.opineo.pl/",
+    "signal_checked_at": "2026-11-11T22:53:16.851700+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:07:03.624257+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://bokserkoland.pl/",
+    "storefront_status": "observed",
+    "storefront_title": "Skarpety i bokserki - na co dzień i na prezent | Bokserkoland",
+    "storefront_url": "https://bokserkoland.pl/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "grocery",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T21:12:23.150429+00:00",
+        "type": "script",
+        "url": "https://www.pakomarket.pl/",
+        "value": "/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.3.0'"
+      },
+      {
+        "checked_at": "2026-11-11T21:12:23.150429+00:00",
+        "type": "script",
+        "url": "https://www.pakomarket.pl/",
+        "value": "wc_add_to_cart_params"
+      },
+      {
+        "checked_at": "2026-11-11T22:10:08.681244+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://pakomarket.pl/",
+        "value": "/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.3.0'"
+      },
+      {
+        "checked_at": "2026-11-11T22:10:08.681244+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://pakomarket.pl/",
+        "value": "wc_add_to_cart_params"
+      },
+      {
+        "checked_at": "2026-11-11T22:10:13.651886+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://www.pakomarket.pl/kategoria-produktu/artykuly-spozywcze/",
+        "value": "/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.3.0'"
+      },
+      {
+        "checked_at": "2026-11-11T22:10:13.651886+00:00",
+        "platform_candidate": "WooCommerce",
+        "type": "script",
+        "url": "https://www.pakomarket.pl/kategoria-produktu/artykuly-spozywcze/",
+        "value": "wc_add_to_cart_params"
+      }
+    ],
+    "domain": "pakomarket.pl",
+    "ecommerce_platform": "WooCommerce",
+    "headless_evidence": [],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://pakomarket.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://www.pakomarket.pl/kategoria-produktu/artykuly-spozywcze/"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"Pakomarket\" OR \"Grobsol\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"Pakomarket\" OR \"Grobsol\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 0,
+    "jobs_search_results": [
+      {
+        "title": "Praca e-commerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/e-commerce%20developer;kw"
+      },
+      {
+        "title": "Praca programista ecommerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/programista%20ecommerce%20developer;kw"
+      },
+      {
+        "title": "Praca programista magento – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/programista%20magento;kw"
+      },
+      {
+        "title": "Praca magento developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/magento%20developer;kw"
+      },
+      {
+        "title": "Oferty pracy w branży IT – it.Pracuj.pl",
+        "url": "https://it.pracuj.pl/praca"
+      },
+      {
+        "title": "Praca magento – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/magento;kw"
+      },
+      {
+        "title": "👉Magento Developer - Xebia sp. z o.o.",
+        "url": "https://justjoin.it/job-offer/xebia-sp-z-o-o---magento-developer-wroclaw-php"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 0,
+    "news_search_query": "\"Pakomarket\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "Zakupy spożywcze z dostawą Pruszków - pakomarket.pl - Katalog firm i usług, reklama firmy, baza firm Bluen",
+        "url": "https://www.bluen.info.pl/sklepy/zakupy,spozywcze,z,dostawa,pruszkow,pakomarket,pl,s,13031/"
+      },
+      {
+        "title": "O nas - Pakomarket",
+        "url": "https://www.pakomarket.pl/o-nas/"
+      },
+      {
+        "title": "Pakomarket.pl: Opinie o sklepie na Opineo.pl",
+        "url": "https://www.opineo.pl/opinie/pakomarket-pl"
+      },
+      {
+        "title": "Twój spożywczy sklep internetowy. Pakomarket - klikasz i masz!",
+        "url": "https://www.pakomarket.pl/"
+      },
+      {
+        "title": "Zakupy spożywcze z dostawą Pruszków - pakomarket.pl - Katalog stron Mistrzu",
+        "url": "https://katalog.mistrzu.com/sklepy,handel,i,uslugi/zakupy,spozywcze,z,dostawa,pruszkow,pakomarket,pl,s,43680/"
+      },
+      {
+        "title": "Dostawa - Pakomarket",
+        "url": "https://www.pakomarket.pl/dostawa/"
+      },
+      {
+        "title": "Oferta: Zakupy spożywcze z dostawą Pruszków - pakomarket.pl",
+        "url": "https://www.katalog.mcportal.pl/sklepy/zakupy-spozywcze-z-dostawa-pruszkow-pakomarket-pl,oferta,4154/"
+      },
+      {
+        "title": "Rejestracja - Pakomarket",
+        "url": "https://www.pakomarket.pl/rejestracja/"
+      },
+      {
+        "title": "Rafal Rutkowski",
+        "url": "https://www.linkedin.com/in/rafal-rutkowski"
+      },
+      {
+        "title": "Historia szybkości domeny pakomarket.pl - webspeed.pl",
+        "url": "https://webspeed.pl/pakomarket.pl"
+      },
+      {
+        "title": "Migracja sklepu internetowego – co powinieneś o niej wiedzieć? - Cross-border.pl",
+        "url": "https://cross-border.pl/jak-zaczac/migracja-sklepu-internetowego-co-powinienes-o-niej-wiedziec/"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "react.min.js",
+        "kind": "frontend",
+        "technology": "React",
+        "url": "https://www.pakomarket.pl/"
+      },
+      {
+        "evidence": "googletagmanager.com/gtm.js",
+        "kind": "analytics",
+        "technology": "Google Tag Manager",
+        "url": "https://www.pakomarket.pl/"
+      },
+      {
+        "evidence": "googletagmanager.com/gtag/js",
+        "kind": "analytics",
+        "technology": "Google Analytics",
+        "url": "https://www.pakomarket.pl/"
+      },
+      {
+        "evidence": "connect.facebook.net/en_US/fbevents.js",
+        "kind": "analytics",
+        "technology": "Meta Pixel",
+        "url": "https://www.pakomarket.pl/"
+      },
+      {
+        "evidence": "clarity.ms",
+        "kind": "analytics",
+        "technology": "Microsoft Clarity",
+        "url": "https://www.pakomarket.pl/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "retailer_name": "Pakomarket.pl",
+    "retailer_origin": "Polish-native",
+    "retailer_origin_evidence": {
+      "country": "Poland",
+      "employer_alias": "Grobsol",
+      "evidence_quote": "Marka Pakomarket należy do firmy Grobsol – rodzinnej firmy, która powstała w 1990 roku w Pruszkowie.",
+      "origin": "Polish-native",
+      "reason": "Pakomarket is explicitly identified as a brand of Grobsol, a family company founded in Pruszków, Poland. This supports a Polish-native brand origin, rather than merely a Polish subsidiary or manufacturing location.",
+      "url": "https://www.pakomarket.pl/o-nas/"
+    },
+    "retailer_segment": "specialist retailer",
+    "search_name": "Pakomarket",
+    "seed_evidence": "Ranking Żywność i delikatesy: Pakomarket.pl",
+    "seed_source_url": "https://ranking.opineo.pl/",
+    "signal_checked_at": "2026-11-11T22:53:16.911798+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:10:09.460370+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://www.pakomarket.pl/",
+    "storefront_status": "observed",
+    "storefront_title": "Twój spożywczy sklep internetowy. Pakomarket - klikasz i masz!",
+    "storefront_url": "https://pakomarket.pl/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "DIY",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T21:09:28.707292+00:00",
+        "type": "script",
+        "url": "https://plytkilazienki.pl/",
+        "value": "shoparena.pl"
+      },
+      {
+        "checked_at": "2026-11-11T22:04:32.659343+00:00",
+        "platform_candidate": "Shoper",
+        "type": "script",
+        "url": "https://plytkilazienki.pl/",
+        "value": "shoparena.pl"
+      }
+    ],
+    "domain": "plytkilazienki.pl",
+    "ecommerce_platform": "Shoper",
+    "headless_evidence": [
+      {
+        "type": "commerce_api_reference",
+        "url": "https://plytkilazienki.pl/",
+        "value": "https://plytkilazienki.pl//environment/cache/images/storefrontImages_e2dfb11f-34ce-444d-8737-476e57b8c040_0_0.png"
+      },
+      {
+        "type": "commerce_api_reference",
+        "url": "https://plytkilazienki.pl/pl/c/Ogrzewanie/2283998",
+        "value": "https://plytkilazienki.pl//environment/cache/images/storefrontImages_e2dfb11f-34ce-444d-8737-476e57b8c040_0_0.png"
+      }
+    ],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://plytkilazienki.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://plytkilazienki.pl/pl/c/Ogrzewanie/2283998"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"Plytkilazienki\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"Plytkilazienki\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 0,
+    "jobs_search_results": [
+      {
+        "title": "Praca magento developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/magento%20developer;kw"
+      },
+      {
+        "title": "Praca ecommerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20developer;kw"
+      },
+      {
+        "title": "Praca e-commerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/e-commerce%20developer;kw"
+      },
+      {
+        "title": "Praca frontend developer (magento) – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/frontend%20developer%20(magento);kw"
+      },
+      {
+        "title": "Oferty pracy w branży IT – it.Pracuj.pl",
+        "url": "https://it.pracuj.pl/praca"
+      },
+      {
+        "title": "Praca magento – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/magento;kw"
+      },
+      {
+        "title": "Jak wygląda praca w branży e-commerce? Odpowiadają specjaliści z Divante",
+        "url": "https://justjoin.it/blog/jak-wyglada-praca-w-branzy-e-commerce-odpowiadaja-specjalisci-z-divante"
+      },
+      {
+        "title": "Shopify Developer - Coalition Technologies",
+        "url": "https://justjoin.it/job-offer/coalition-technologies-shopify-developer-los-angeles-javascript"
+      },
+      {
+        "title": "Jak od środka wygląda praca programisty w branży e-commerce",
+        "url": "https://justjoin.it/blog/jak-od-srodka-wyglada-praca-programisty-w-branzy-e-commerce"
+      },
+      {
+        "title": "Stabilny tandem dla rozwoju B2B w online – Magento 2 i AWS",
+        "url": "https://geek.justjoin.it/stabilny-tandem-dla-rozwoju-b2b-w-online-magento-2-i-aws"
+      },
+      {
+        "title": "Junior Magento Backend Developer (K/M) - KOMFORT",
+        "url": "https://justjoin.it/job-offer/komfort-junior-magento-backend-developer-k-m--lodz-php"
+      },
+      {
+        "title": "Praca programisty w e-commerce - jak to wygląda od środka?",
+        "url": "https://justjoin.it/blog/praca-programisty-w-e-commerce-jak-to-wyglada-od-srodka"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 0,
+    "news_search_query": "\"Plytkilazienki\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "Meble łazienkowe - meble do łazienki | Sklep internetowy PlytkiLazienki.pl",
+        "url": "https://plytkilazienki.pl/pl/meble-lazienkowe"
+      },
+      {
+        "title": "Wyposażenie łazienek - sklep internetowy | Plytkilazienki.pl",
+        "url": "https://plytkilazienki.pl/"
+      },
+      {
+        "title": "Plytkilazienki.pl: Opinie o sklepie na Opineo.pl",
+        "url": "https://www.opineo.pl/opinie/plytkilazienki-pl"
+      },
+      {
+        "title": "plytkilazienki.pl - InVerno Centrum Łazienek",
+        "url": "https://www.linkedin.com/company/plytkilazienkipl"
+      },
+      {
+        "title": "Akcesoria do wanny - uchwyty wannowe - PlytkiLazienki.pl",
+        "url": "https://plytkilazienki.pl/pl/wanny/akcesoria"
+      },
+      {
+        "title": "Plytkilazienki.pl - aktualne opinie i niskie ceny - Ceneo.pl",
+        "url": "https://www.ceneo.pl/sklepy/plytkilazienki.pl-s6519"
+      },
+      {
+        "title": "Regulamin sklepu - PlytkiLazienki.pl",
+        "url": "https://plytkilazienki.pl/pl/static/regulamin-sklepu.html"
+      },
+      {
+        "title": "Plytki-lazienki.pl Sp. z o.o. - wiedza-bez-umiaru.pl",
+        "url": "https://wiedza-bez-umiaru.pl/firma/plytki-lazienki-pl-sp-z-o-o-plytki-lazienki-pl/"
+      },
+      {
+        "title": "MARAZZI ALBA GREIGE M98K GRES REKTYFIKOWANY 60X120 | MarkowePlytki",
+        "url": "https://markoweplytki.pl/produkt/marazzi-alba-greige-m98k-gres-rektyfikowany-60x120"
+      },
+      {
+        "title": "Migracja sklepu internetowego – co powinieneś o niej wiedzieć? - Cross-border.pl",
+        "url": "https://cross-border.pl/jak-zaczac/migracja-sklepu-internetowego-co-powinienes-o-niej-wiedziec/"
+      },
+      {
+        "title": "Płytki Mirage ® Mirage Płytka Ceramiczna · Płytki Gresowe Mirage · Mirage Kafelki · Mirage Płytki Drewnopodobne · Mirage Glazura · Mirage Cennik · Mirage Opinie · Płytki Mirage Cena · Mirage Płytki Metalizowane · Mirage Evo2 · Mirage Jewels · Mirage Xgone - Lazienkarium.pl",
+        "url": "https://lazienkarium.pl/mirage"
+      },
+      {
+        "title": "Migracja sklepu internetowego - co to jest, jak działa i dlaczego warto? – Sellision",
+        "url": "https://sellision.pl/baza-wiedzy/migracja-sklepu-internetowego/"
+      },
+      {
+        "title": "Przeniesienie sklepu internetowego - korzyści, przebieg i najczęstsze błędy / Wiedza e-commerce - nasze publikacje",
+        "url": "https://www.ideo.pl/e-commerce/wiedza/migracje-e-commerce-jak-przeniesc-e-sklep-na-nowa-platforme,166.html"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "GTM-KW8LT6",
+        "kind": "analytics",
+        "technology": "Google Tag Manager",
+        "url": "https://plytkilazienki.pl/"
+      },
+      {
+        "evidence": "G-2LWWZ6WBM4",
+        "kind": "analytics",
+        "technology": "Google Analytics",
+        "url": "https://plytkilazienki.pl/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "retailer_name": "Plytkilazienki.pl",
+    "retailer_origin": "unknown",
+    "retailer_origin_evidence": {
+      "country": null,
+      "employer_alias": null,
+      "evidence_quote": null,
+      "origin": "unknown",
+      "reason": "Public search did not establish brand origin.",
+      "url": null
+    },
+    "retailer_segment": "specialist retailer",
+    "search_name": "Plytkilazienki",
+    "seed_evidence": "Ranking Budowa i remont: Plytkilazienki.pl",
+    "seed_source_url": "https://ranking.opineo.pl/",
+    "signal_checked_at": "2026-11-11T22:53:16.809732+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:04:33.827415+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://plytkilazienki.pl/",
+    "storefront_status": "observed",
+    "storefront_title": "Wyposażenie łazienek - sklep internetowy | Plytkilazienki.pl",
+    "storefront_url": "https://plytkilazienki.pl/",
+    "weak_job_postings": []
+  },
+  {
+    "category": "home",
+    "detection_evidence": [
+      {
+        "checked_at": "2026-11-11T22:05:59.165721+00:00",
+        "platform_candidate": "Comarch e-Sklep",
+        "type": "script",
+        "url": "https://drewmax-online.pl/",
+        "value": "Comarch e-Sklep"
+      },
+      {
+        "checked_at": "2026-11-11T22:05:59.165721+00:00",
+        "platform_candidate": "Comarch e-Sklep",
+        "type": "script",
+        "url": "https://drewmax-online.pl/",
+        "value": "comarchesklep"
+      },
+      {
+        "checked_at": "2026-11-11T22:06:04.133120+00:00",
+        "platform_candidate": "Comarch e-Sklep",
+        "type": "script",
+        "url": "https://drewmax-online.pl/produkty,2",
+        "value": "Comarch e-Sklep"
+      },
+      {
+        "checked_at": "2026-11-11T22:06:04.133120+00:00",
+        "platform_candidate": "Comarch e-Sklep",
+        "type": "script",
+        "url": "https://drewmax-online.pl/produkty,2",
+        "value": "comarchesklep"
+      }
+    ],
+    "domain": "drewmax-online.pl",
+    "ecommerce_platform": "Comarch e-Sklep",
+    "headless_evidence": [],
+    "headless_frontend": "unknown",
+    "improvement_access_log": [
+      {
+        "kind": "homepage",
+        "status": "observed",
+        "url": "https://drewmax-online.pl/"
+      },
+      {
+        "kind": "product_or_category",
+        "status": "observed",
+        "url": "https://drewmax-online.pl/produkty,2"
+      },
+      {
+        "kind": "robots_or_sitemap",
+        "status": "observed",
+        "url": "https://drewmax-online.pl/robots.txt"
+      },
+      {
+        "kind": "robots_or_sitemap",
+        "status": "observed",
+        "url": "https://drewmax-online.pl/sitemap.xml"
+      }
+    ],
+    "job_access_gaps": [],
+    "job_candidates_not_counted": [],
+    "job_check_status": "searched_no_verified_signal",
+    "job_postings": [],
+    "job_search_query": "site:pracuj.pl (\"Drewmax-online\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer) | site:justjoin.it (\"Drewmax-online\") (e-commerce OR Magento OR \"SAP Commerce\" OR Salesforce OR Shopify OR frontend OR developer)",
+    "jobs_pages_checked": 0,
+    "jobs_search_results": [
+      {
+        "title": "Praca e-commerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/e-commerce%20developer;kw"
+      },
+      {
+        "title": "Praca web developer - front end – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/web%20developer%20-%20front%20end;kw"
+      },
+      {
+        "title": "Praca developer magento – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/developer%20magento;kw"
+      },
+      {
+        "title": "Praca ecommerce developer – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/ecommerce%20developer;kw"
+      },
+      {
+        "title": "Oferty pracy w branży IT – it.Pracuj.pl",
+        "url": "https://it.pracuj.pl/praca"
+      },
+      {
+        "title": "Praca frontend developer (magento) – Pracuj.pl",
+        "url": "https://www.pracuj.pl/praca/frontend%20developer%20(magento);kw"
+      },
+      {
+        "title": "Shopify Developer - Coalition Technologies",
+        "url": "https://justjoin.it/job-offer/coalition-technologies-shopify-developer-los-angeles-javascript"
+      },
+      {
+        "title": "Praca programisty w e-commerce - jak to wygląda od środka?",
+        "url": "https://justjoin.it/blog/praca-programisty-w-e-commerce-jak-to-wyglada-od-srodka"
+      },
+      {
+        "title": "Senior Frontend Developer Magento - PKO BP Finat",
+        "url": "https://justjoin.it/job-offer/pko-bp-finat-senior-frontend-developer-magento-warszawa-javascript"
+      },
+      {
+        "title": "Solutions Architect - Coalition Technologies",
+        "url": "https://justjoin.it/job-offer/coalition-technologies-solutions-architect-los-angeles-architecture"
+      },
+      {
+        "title": "Magento Developer - co.brick Talents",
+        "url": "https://justjoin.it/job-offer/co-brick-talents-magento-developer-poznan-php"
+      },
+      {
+        "title": "BigCommerce Developer - Coalition Technologies",
+        "url": "https://justjoin.it/job-offer/coalition-technologies-bigcommerce-developer-los-angeles-php"
+      }
+    ],
+    "news_access_gaps": [],
+    "news_candidates_not_counted": [],
+    "news_check_status": "searched_no_verified_signal",
+    "news_pages_checked": 0,
+    "news_search_query": "\"Drewmax-online\" wdrożenie sklepu",
+    "news_search_results": [
+      {
+        "title": "REGULAMIN SPRZEDAŻY PRZY WYKORZYSTANIU ŚRODKÓW POROZUMIEWANIA SIĘ NA",
+        "url": "https://drewmax-online.pl/file?lngId=1&tos=27"
+      },
+      {
+        "title": "Drewmax-online.pl: Opinie o sklepie na Opineo.pl",
+        "url": "https://www.opineo.pl/opinie/drewmax-online-pl"
+      },
+      {
+        "title": "Www.drewmax-online.pl - opinie o sklepie - Ceneo.pl",
+        "url": "https://www.ceneo.pl/sklepy/drewmax-online.pl-s41692"
+      },
+      {
+        "title": "- Internetowy sklep meblowy Drewmax",
+        "url": "https://drewmax-online.pl/produkty,2"
+      },
+      {
+        "title": "Drewmax.pro | Portfolio",
+        "url": "https://grafmen.com/portfolio/drewmax/"
+      },
+      {
+        "title": "REGULAMIN SPRZEDAŻY PRZY WYKORZYSTANIU ŚRODKÓW POROZUMIEWANIA SIĘ",
+        "url": "https://drewmax-online.pl/file?lngId=1&tos=105"
+      },
+      {
+        "title": "Akcesoria meblowe - okucia, płyty, zawiasy - sklep internetowy Drewmax",
+        "url": "https://drewmax-online.pl/"
+      },
+      {
+        "title": "Drewmax – Łóżka i Meble z Litego Drewna | Sklep internetowy ATM Świat Sypialni",
+        "url": "https://lozka-materace.pl/drewmax"
+      },
+      {
+        "title": "MEBLE - Drewmax - Meblarz - Internetowy Sklep Meblowy",
+        "url": "https://www.sklep.meblarz.pl/drewmax,1603,4.html"
+      },
+      {
+        "title": "Drewmax",
+        "url": "https://pl.linkedin.com/company/drewmax"
+      },
+      {
+        "title": "MEBLE - Drewmax - Meblarz - Internetowy Sklep Meblowy",
+        "url": "https://www.sklep.meblarz.pl/drewmax,1603,10.html"
+      },
+      {
+        "title": "MEBLE - Drewmax - Meblarz - Internetowy Sklep Meblowy",
+        "url": "https://www.sklep.meblarz.pl/drewmax,1603,6.html"
+      }
+    ],
+    "news_signals": [],
+    "other_tech_signals": [
+      {
+        "evidence": "googletagmanager.com/gtag/js",
+        "kind": "analytics",
+        "technology": "Google Analytics",
+        "url": "https://drewmax-online.pl/"
+      }
+    ],
+    "replatform_signal_summary": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "retailer_name": "Drewmax-online.pl",
+    "retailer_origin": "unknown",
+    "retailer_origin_evidence": {
+      "country": null,
+      "employer_alias": null,
+      "evidence_quote": null,
+      "origin": "unknown",
+      "reason": "Public search did not establish brand origin.",
+      "url": null
+    },
+    "retailer_segment": "specialist retailer",
+    "search_name": "Drewmax-online",
+    "seed_evidence": "Ranking Dom: Drewmax-online.pl",
+    "seed_source_url": "https://ranking.opineo.pl/",
+    "signal_checked_at": "2026-11-11T22:53:16.820624+00:00",
+    "signal_strength": "none",
+    "signal_strength_reason": "No qualifying open platform job or recent dated relaunch/migration article was verified in the bounded public search.",
+    "storefront_checked_at": "2026-11-11T22:05:59.253618+00:00",
+    "storefront_error": null,
+    "storefront_final_url": "https://drewmax-online.pl/",
+    "storefront_status": "observed",
+    "storefront_title": "Akcesoria meblowe - okucia, płyty, zawiasy - sklep internetowy Drewmax",
+    "storefront_url": "https://drewmax-online.pl/",
+    "weak_job_postings": []
+  }
+]

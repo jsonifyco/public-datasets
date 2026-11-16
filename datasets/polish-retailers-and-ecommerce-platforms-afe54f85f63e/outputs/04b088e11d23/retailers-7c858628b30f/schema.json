@@ -1,0 +1,162 @@
+[
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "detection_evidence",
+    "type": "jsonb"
+  },
+  {
+    "name": "domain",
+    "type": "text"
+  },
+  {
+    "name": "ecommerce_platform",
+    "type": "text"
+  },
+  {
+    "name": "headless_evidence",
+    "type": "jsonb"
+  },
+  {
+    "name": "headless_frontend",
+    "type": "text"
+  },
+  {
+    "name": "improvement_access_log",
+    "type": "jsonb"
+  },
+  {
+    "name": "job_access_gaps",
+    "type": "jsonb"
+  },
+  {
+    "name": "job_candidates_not_counted",
+    "type": "jsonb"
+  },
+  {
+    "name": "job_check_status",
+    "type": "text"
+  },
+  {
+    "name": "job_postings",
+    "type": "jsonb"
+  },
+  {
+    "name": "job_search_query",
+    "type": "text"
+  },
+  {
+    "name": "jobs_pages_checked",
+    "type": "integer"
+  },
+  {
+    "name": "jobs_search_results",
+    "type": "jsonb"
+  },
+  {
+    "name": "news_access_gaps",
+    "type": "jsonb"
+  },
+  {
+    "name": "news_candidates_not_counted",
+    "type": "jsonb"
+  },
+  {
+    "name": "news_check_status",
+    "type": "text"
+  },
+  {
+    "name": "news_pages_checked",
+    "type": "integer"
+  },
+  {
+    "name": "news_search_query",
+    "type": "text"
+  },
+  {
+    "name": "news_search_results",
+    "type": "jsonb"
+  },
+  {
+    "name": "news_signals",
+    "type": "jsonb"
+  },
+  {
+    "name": "other_tech_signals",
+    "type": "jsonb"
+  },
+  {
+    "name": "replatform_signal_summary",
+    "type": "text"
+  },
+  {
+    "name": "retailer_name",
+    "type": "text"
+  },
+  {
+    "name": "retailer_origin",
+    "type": "text"
+  },
+  {
+    "name": "retailer_origin_evidence",
+    "type": "jsonb"
+  },
+  {
+    "name": "retailer_segment",
+    "type": "text"
+  },
+  {
+    "name": "search_name",
+    "type": "text"
+  },
+  {
+    "name": "seed_evidence",
+    "type": "text"
+  },
+  {
+    "name": "seed_source_url",
+    "type": "text"
+  },
+  {
+    "name": "signal_checked_at",
+    "type": "text"
+  },
+  {
+    "name": "signal_strength",
+    "type": "text"
+  },
+  {
+    "name": "signal_strength_reason",
+    "type": "text"
+  },
+  {
+    "name": "storefront_checked_at",
+    "type": "text"
+  },
+  {
+    "name": "storefront_error",
+    "type": "text"
+  },
+  {
+    "name": "storefront_final_url",
+    "type": "text"
+  },
+  {
+    "name": "storefront_status",
+    "type": "text"
+  },
+  {
+    "name": "storefront_title",
+    "type": "text"
+  },
+  {
+    "name": "storefront_url",
+    "type": "text"
+  },
+  {
+    "name": "weak_job_postings",
+    "type": "jsonb"
+  }
+]

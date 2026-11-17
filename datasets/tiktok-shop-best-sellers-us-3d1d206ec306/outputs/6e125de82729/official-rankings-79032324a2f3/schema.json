@@ -12,12 +12,8 @@
     "type": "text"
   },
   {
-    "name": "estimated_average_price",
-    "type": "double precision"
-  },
-  {
-    "name": "estimated_units_30d",
-    "type": "integer"
+    "name": "listing_type",
+    "type": "text"
   },
   {
     "name": "market",
@@ -28,8 +24,24 @@
     "type": "double precision"
   },
   {
+    "name": "original_list_price_source_url",
+    "type": "text"
+  },
+  {
     "name": "price",
     "type": "double precision"
+  },
+  {
+    "name": "price_source_url",
+    "type": "text"
+  },
+  {
+    "name": "product_id",
+    "type": "text"
+  },
+  {
+    "name": "product_page_status",
+    "type": "text"
   },
   {
     "name": "product_title",
@@ -57,6 +69,10 @@
   },
   {
     "name": "sales_count",
+    "type": "text"
+  },
+  {
+    "name": "sales_count_source_url",
     "type": "text"
   },
   {

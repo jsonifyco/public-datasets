@@ -8,7 +8,7 @@ Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatre
 
 - Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-16T09:07:32.344658Z
+- Last published: 2026-11-17T09:05:51.491779Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Law firm events / events
 
-20 total rows · 10 sampled · Output revision 10
-Published: 2026-11-16T09:07:32.344658Z · Producing pipeline version: 5
+20 total rows · 10 sampled · Output revision 11
+Published: 2026-11-17T09:05:51.491779Z · Producing pipeline version: 5
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| O ano de 2026 é determinado pela data de publicação, 26\.10\.2026; o anúncio indica 25 de novembro\. | Conferência sobre os 60 anos do Código Civil Português, a evolução do direito civil e os desafios da sua revisão ou reforma\. | 2026\-11\-25 | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
-| None | Terceira conversa de um ciclo sobre privacidade no trabalho, dedicada aos limites do acesso do empregador ao conteúdo de dispositivos empresariais, especialmente em investigações internas\. | 2026\-11\-26 | 2026\-11\-26 | Entre a Investigação e a Privacidade: o acesso ao conteúdo dos dispositivos empresariais | 9:00 – 10:30 | [https://www\.cuatrecasas\.com/pt/global/events/investigacao\-privacidade\-acesso\-ao\-conteudo\-dispositivos\-empresariais](<https://www.cuatrecasas.com/pt/global/events/investigacao-privacidade-acesso-ao-conteudo-dispositivos-empresariais>) | Cuatrecasas |
-| O programa indica 21 de abril; o ano de 2026 consta da listagem oficial do evento\. | Conferência em Lisboa sobre cibersegurança industrial, resiliência do setor industrial português e obrigações regulatórias da Diretiva NIS2\. | 2026\-04\-21 | 2026\-04\-21 | O Futuro da Cibersegurança no Setor Industrial | 9h30 – 13h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/o\-futuro\-da\-ciberseguranca\-no\-setor\-industrial/](<https://abreuadvogados.com/conhecimento/eventos/abreu/o-futuro-da-ciberseguranca-no-setor-industrial/>) | Abreu Advogados |
-| A página indica 17 de março de 2026 como data do evento e refere uma duração de dois dias, mas não indica expressamente a data do segundo dia\. | Quarta edição do Congresso de Direito da Construção, dedicada aos desafios do investimento em infraestruturas, transportes e habitação e à colaboração entre o Estado e o setor privado\. | None | 2026\-03\-17 | IV Congresso da Construção | 08:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/IV\-Congresso\-da\-Construcao/34308/](<https://www.plmj.com/pt/conhecimento/eventos/IV-Congresso-da-Construcao/34308/>) | PLMJ |
-| None | Conferência sobre a economia da defesa, incluindo regulação de sistemas autónomos, financiamento, inovação e contratação pública de defesa e segurança\. | 2026\-05\-26 | 2026\-05\-26 | A nova economia da defesa | 09:00–17:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/A\-nova\-economia\-da\-defesa/34485/](<https://www.plmj.com/pt/conhecimento/eventos/A-nova-economia-da-defesa/34485/>) | PLMJ |
+| None | Congresso sobre os desafios e o enquadramento jurídico do setor bancário e financeiro, reunindo juristas de bancos, da academia e da advocacia\. | None | 2026\-02\-25 | I Congresso de Direito Bancário e Financeiro | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-Bancario\-e\-Financeiro/34295/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-Bancario-e-Financeiro/34295/>) | PLMJ |
+| O anúncio indica 25 de novembro; o ano de 2026 é determinado pela data de publicação\. | Conferência sobre a evolução do direito civil português e os desafios para o futuro do Código Civil, por ocasião dos seus 60 anos\. | 2026\-11\-25 | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
+| As datas referem\-se às duas sessões anunciadas; o período completo da Semana da Reabilitação Urbana não é indicado\. | A Morais Leitão coorganiza duas sessões sobre alterações ao licenciamento urbanístico e a sua aplicação no setor imobiliário e da habitação, em 2 e 3 de novembro\. | 2026\-11\-03 | 2026\-11\-02 | 14\.ª edição da Semana da Reabilitação Urbana do Porto | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-na\-14\-edicao\-da\-Semana\-da\-Reabilitacao\-Urbana\-do\-Porto/27161/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-na-14-edicao-da-Semana-da-Reabilitacao-Urbana-do-Porto/27161/>) | Morais Leitão |
+| O anúncio indica que o congresso decorre ao longo de dois dias, mas não identifica expressamente a data do segundo dia\. | Congresso de dois dias sobre o direito e a regulação das infraestruturas digitais, incluindo cabos submarinos, centros de dados, cloud e identidade digital\. | None | 2026\-10\-27 | I Congresso de Direito das Infraestruturas Digitais: Regulação e Poder | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-das\-Infraestruturas\-Digitais\-Regulacao\-e\-Poder/34662/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-das-Infraestruturas-Digitais-Regulacao-e-Poder/34662/>) | PLMJ |
+| O programa indica 21 de abril; o ano de 2026 consta da listagem oficial do evento\. | Conferência sobre os desafios estratégicos e regulatórios da cibersegurança no setor industrial português, com destaque para a Diretiva NIS2\. | 2026\-04\-21 | 2026\-04\-21 | O Futuro da Cibersegurança no Setor Industrial | 9h30 – 13h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/o\-futuro\-da\-ciberseguranca\-no\-setor\-industrial/](<https://abreuadvogados.com/conhecimento/eventos/abreu/o-futuro-da-ciberseguranca-no-setor-industrial/>) | Abreu Advogados |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -1,10 +1,10 @@
-# Irish Wine and Spirits Price Tracker
+# Irish Wine and Spirits Prices by Retailer
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 2,362 rows; its publication timestamp does not establish when the observations were collected\.
+2,362 Irish wine and spirits price observations from five retailers, collected 6–9 November 2026, with separate listed and promotional prices\.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/clinks-irish-wine-and-spirits-price-tracker-ece8b068e56b?action=get) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/irish-wine-and-spirits-prices-by-retailer-ece8b068e56b?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 5
@@ -12,11 +12,11 @@ Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ir
 
 ## The brief
 
-> I need this data: Irish wine and spirits catalogue price observations from O'Briens Wine, Tesco Ireland, Dunnes Stores and SuperValu, including listed prices and promotion details\. The published dataset contains 2,362 rows; its publication timestamp does not establish when the observations were collected\.
+> I need this data: 2,362 Irish wine and spirits price observations from five retailers, collected 6–9 November 2026, with separate listed and promotional prices\.
 
 Summary from the public dataset description.
 
-## Clinks Irish drinks prices / prices
+## Irish Wine and Spirits Prices by Retailer / prices
 
 2,362 total rows · 50 sampled · Output revision 7
 Published: 2026-11-09T08:07:45.304456Z · Producing pipeline version: 5
@@ -86,7 +86,7 @@ flowchart LR
 
 No published records.
 
-[Get the full dataset for free](https://www.jsonify.com/datasets/clinks-irish-wine-and-spirits-price-tracker-ece8b068e56b?action=get) — CSV or JSON · Email required
+[Get the full dataset for free](https://www.jsonify.com/datasets/irish-wine-and-spirits-prices-by-retailer-ece8b068e56b?action=get) — CSV or JSON · Email required
 
 [Build your own dataset](https://factory.jsonify.com/setup)
 

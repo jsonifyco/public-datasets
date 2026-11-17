@@ -1,4 +1,4 @@
-# Companies Hiring at Scale in Poland
+# Companies Hiring at Scale in Poland \(50\+ Open Roles\)
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 

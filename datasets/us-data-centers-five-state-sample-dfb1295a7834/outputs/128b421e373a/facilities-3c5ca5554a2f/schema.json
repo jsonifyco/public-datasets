@@ -1,0 +1,78 @@
+[
+  {
+    "name": "capacity_scope",
+    "type": "text"
+  },
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "directory_power_capacity_mw",
+    "type": "double precision"
+  },
+  {
+    "name": "facility_name",
+    "type": "text"
+  },
+  {
+    "name": "opened_or_announced_year",
+    "type": "integer"
+  },
+  {
+    "name": "operator",
+    "type": "text"
+  },
+  {
+    "name": "power_capacity_mw",
+    "type": "double precision"
+  },
+  {
+    "name": "power_evidence",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "status_evidence",
+    "type": "text"
+  },
+  {
+    "name": "street_address",
+    "type": "text"
+  },
+  {
+    "name": "year_evidence",
+    "type": "text"
+  },
+  {
+    "name": "year_match_evidence",
+    "type": "text"
+  },
+  {
+    "name": "year_research_note",
+    "type": "text"
+  },
+  {
+    "name": "year_source_url",
+    "type": "text"
+  },
+  {
+    "name": "year_type",
+    "type": "text"
+  }
+]

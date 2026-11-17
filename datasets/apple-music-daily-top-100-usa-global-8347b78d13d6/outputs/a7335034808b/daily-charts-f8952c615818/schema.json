@@ -1,0 +1,34 @@
+[
+  {
+    "name": "chart",
+    "type": "text"
+  },
+  {
+    "name": "chart_date",
+    "type": "text"
+  },
+  {
+    "name": "position",
+    "type": "integer"
+  },
+  {
+    "name": "song_title",
+    "type": "text"
+  },
+  {
+    "name": "artist",
+    "type": "text"
+  },
+  {
+    "name": "apple_music_song_id",
+    "type": "text"
+  },
+  {
+    "name": "apple_music_song_url",
+    "type": "text"
+  },
+  {
+    "name": "snapshot_key",
+    "type": "text"
+  }
+]

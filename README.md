@@ -38,6 +38,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Keyword Search Results and Page Summaries](datasets/keyword-search-and-url-summaries-3630558f97ed/) | 2 | On demand | 2026-10-29T11:31:03.092480Z |
 | [UK and Irish Horse Racing Odds](datasets/uk-and-irish-horse-racing-odds-37c92430d0aa/) | 41,272 | On demand | 2026-11-09T13:21:36.157670Z |
 | [Irish Gigs and Music Festivals](datasets/ceolx-irish-gigs-and-festivals-3b8beb04ee74/) | 102 | On demand | 2026-11-09T07:20:45.484198Z |
+| [TikTok Shop Best\-Sellers in the US and UK](datasets/tiktok-shop-best-sellers-us-and-uk-3d1d206ec306/) | 140 | On demand | 2026-11-16T22:02:35.407691Z |
 | [Datarade Dataset Catalog](datasets/datasets-for-sale-3fb2e8b82ab2/) | 14,054 | On demand | 2026-10-31T12:08:13.007880Z |
 | [Six Senses Dubai Room Images](datasets/six-senses-dubai-room-images-420e2c20c4c8/) | 36 | On demand | 2026-11-12T10:08:59.773143Z |
 | [Workflow Automation Pricing and Changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
@@ -77,6 +78,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Spain Public\-Safety Signals](datasets/spain-public-safety-signals-mentelejos-demo-85c1f9170c06/) | 3,939 | On demand | 2026-11-09T11:05:24.629643Z |
 | [Google Shopping Competitor Prices by SKU](datasets/google-shopping-competitor-prices-by-sku-de-uk-tr-881884b155d9/) | 878 | On demand | 2026-11-13T15:56:14.663648Z |
 | [Georgia County Election Board Meetings, Motions and Votes](datasets/georgia-county-election-board-meetings-and-votes-886d693cbdab/) | 1,269 | On demand | 2026-11-02T11:10:55.955034Z |
+| [SaaS pricing data: plan prices for 15 tools, refreshed weekly](datasets/weekly-saas-pricing-tracker-8945b8ca58c0/) | 82 | weekly | 2026-11-16T22:06:27.677984Z |
 | [European Console Resale Prices](datasets/european-console-resale-prices-8a0b033ae1da/) | 597 | weekly | 2026-11-16T09:46:18.154064Z |
 | [Agent Builder Pricing and Changelog](datasets/agent-builder-pricing-changelog-8c193f821e06/) | 78 | On demand | 2026-10-14T12:03:01.728482Z |
 | [LLM API Pricing: Official Standard Text and Chat Model Rates](datasets/llm-api-pricing-8f305815ff8c/) | 88 | On demand | 2026-10-14T12:06:48.861890Z |

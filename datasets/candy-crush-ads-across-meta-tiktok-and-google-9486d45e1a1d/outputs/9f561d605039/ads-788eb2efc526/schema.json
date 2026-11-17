@@ -1,0 +1,102 @@
+[
+  {
+    "name": "active_status",
+    "type": "text"
+  },
+  {
+    "name": "ad_id",
+    "type": "text"
+  },
+  {
+    "name": "ad_library_url",
+    "type": "text"
+  },
+  {
+    "name": "advertiser",
+    "type": "text"
+  },
+  {
+    "name": "advertiser_id",
+    "type": "text"
+  },
+  {
+    "name": "app",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "countries_regions",
+    "type": "jsonb"
+  },
+  {
+    "name": "creative_url",
+    "type": "text"
+  },
+  {
+    "name": "cta",
+    "type": "text"
+  },
+  {
+    "name": "first_seen",
+    "type": "text"
+  },
+  {
+    "name": "format",
+    "type": "text"
+  },
+  {
+    "name": "headline",
+    "type": "text"
+  },
+  {
+    "name": "impression_range",
+    "type": "text"
+  },
+  {
+    "name": "landing_url",
+    "type": "text"
+  },
+  {
+    "name": "last_seen",
+    "type": "text"
+  },
+  {
+    "name": "platform",
+    "type": "text"
+  },
+  {
+    "name": "primary_text",
+    "type": "text"
+  },
+  {
+    "name": "qa_notes",
+    "type": "text"
+  },
+  {
+    "name": "qa_status",
+    "type": "text"
+  },
+  {
+    "name": "reach_range",
+    "type": "text"
+  },
+  {
+    "name": "regional_reach",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_countries_regions",
+    "type": "jsonb"
+  },
+  {
+    "name": "thumbnail_url",
+    "type": "text"
+  },
+  {
+    "name": "verified_at",
+    "type": "text"
+  }
+]

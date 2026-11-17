@@ -1,0 +1,54 @@
+[
+  {
+    "name": "cities_count",
+    "type": "bigint"
+  },
+  {
+    "name": "company_key",
+    "type": "text"
+  },
+  {
+    "name": "company_name",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "earliest_posted_date",
+    "type": "text"
+  },
+  {
+    "name": "example_posting_url",
+    "type": "text"
+  },
+  {
+    "name": "latest_posted_date",
+    "type": "text"
+  },
+  {
+    "name": "postings_count",
+    "type": "bigint"
+  },
+  {
+    "name": "postings_with_contract_type",
+    "type": "bigint"
+  },
+  {
+    "name": "postings_with_salary",
+    "type": "bigint"
+  },
+  {
+    "name": "sources",
+    "type": "text"
+  },
+  {
+    "name": "sources_count",
+    "type": "bigint"
+  },
+  {
+    "name": "is_staffing_agency",
+    "type": "boolean"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "company_key",
+    "type": "text"
+  },
+  {
+    "name": "company_name",
+    "type": "text"
+  },
+  {
+    "name": "company_name_normalized",
+    "type": "text"
+  },
+  {
+    "name": "contract_type",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "date_basis",
+    "type": "text"
+  },
+  {
+    "name": "job_title",
+    "type": "text"
+  },
+  {
+    "name": "possible_cross_board_duplicate",
+    "type": "boolean"
+  },
+  {
+    "name": "posted_date",
+    "type": "text"
+  },
+  {
+    "name": "region",
+    "type": "text"
+  },
+  {
+    "name": "retrieved_at",
+    "type": "text"
+  },
+  {
+    "name": "salary",
+    "type": "text"
+  },
+  {
+    "name": "salary_currency",
+    "type": "text"
+  },
+  {
+    "name": "search_url",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_job_id",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "is_staffing_agency",
+    "type": "boolean"
+  }
+]

@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country from official pricing pages, with ad tier, features and source links\. Updated weekly\.
+Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country from official pricing pages, with ad tier, features and source links\. The published table contains 7,013 rows; observation dates vary by record\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 35
-- Last published: 2026-11-10T06:41:40.331008Z
+- Last published: 2026-11-17T12:31:05.125031Z
 
 ## The brief
 
-> I need this data: Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country from official pricing pages, with ad tier, features and source links\. Updated weekly\.
+> I need this data: Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country from official pricing pages, with ad tier, features and source links\. The published table contains 7,013 rows; observation dates vary by record\.
 
 Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-7,036 total rows · 47 sampled · Output revision 37
-Published: 2026-11-10T06:41:40.331008Z · Producing pipeline version: 35
+7,013 total rows · 47 sampled · Output revision 38
+Published: 2026-11-17T12:31:05.125031Z · Producing pipeline version: 35
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 

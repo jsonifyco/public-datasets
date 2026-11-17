@@ -1,35 +1,35 @@
-# Prevailing Wage Rates: CA, WA, MO and NY, Updated Weekly
+# Prevailing Wage Rates: California, Washington, Missouri and New York
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Prevailing wage rates for public works in California, Washington, Missouri and New York: basic, fringe and total hourly rates by trade and county, weekly\.
+Published prevailing wage rates for public works in California, Washington, Missouri and New York, with basic, fringe and total hourly rates where available\. Dataset snapshot: 17 November 2026; 44,264 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/prevailing-wage-rates-us-states-47b2aa83a625?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-11-12T10:11:53.118879Z
+- Last published: 2026-11-17T06:26:08.099606Z
 
 ## The brief
 
-> I need this data: Prevailing wage rates for public works in California, Washington, Missouri and New York: basic, fringe and total hourly rates by trade and county, weekly\.
+> I need this data: Published prevailing wage rates for public works in California, Washington, Missouri and New York, with basic, fringe and total hourly rates where available\. Dataset snapshot: 17 November 2026; 44,264 rows\.
 
 Summary from the public dataset description.
 
 ## Prevailing wage rates \(US states\) / rates
 
-39,052 total rows · 50 sampled · Output revision 5
-Published: 2026-11-12T10:11:53.118879Z · Producing pipeline version: 2
+44,264 total rows · 50 sampled · Output revision 6
+Published: 2026-11-17T06:26:08.099606Z · Producing pipeline version: 2
 
 [CSV sample](outputs/209ff3a0d0d7/rates-ff24aad2c015/sample.csv) · [JSON sample](outputs/209ff3a0d0d7/rates-ff24aad2c015/sample.json) · [Schema](outputs/209ff3a0d0d7/rates-ff24aad2c015/schema.json)
 
 | basic\_hourly\_rate\_usd | classification | county\_or\_area | determination\_id | effective\_date | expiration\_date | first\_seen\_date | fringe\_benefits\_hourly\_usd |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 59\.93 | Journeyman | Grays Harbor | None | 2026\-03\-04 | None | 2026\-11\-12 | 34\.89 |
-| 13\.91 | Journey Level | Spokane | None | 2010\-09\-01 | None | 2026\-11\-12 | None |
-| 58\.21 | Rigger and Bellman | Jefferson | None | 2026\-09\-02 | None | 2026\-11\-12 | 28\.57 |
-| 42\.94 | Asphalt plant Operators | Whitman | None | 2026\-09\-02 | None | 2026\-11\-12 | 25\.43 |
-| 54\.12 | Pipe Wrapper | Island | None | 2026\-09\-02 | None | 2026\-11\-12 | 18\.21 |
+| None | Building Construction: Linoleum Layers &amp; Cutter | Johnson | Annual Wage Order No\. 33 | 2026\-05\-29 | None | 2026\-11\-12 | None |
+| None | Building Construction: Operating Engineer \- Group IV | Polk | Annual Wage Order No\. 33 | 2026\-05\-29 | None | 2026\-11\-12 | None |
+| 42\.59 | Barrier machine: \(Zipper\) | Spokane | None | 2026\-09\-02 | None | 2026\-11\-12 | 25\.42 |
+| 58\.18 | Concrete Finish Machine \- Laser Screed | Island | None | 2026\-09\-02 | None | 2026\-11\-12 | 30\.03 |
+| None | Building Construction: Operating Engineer \- Group I | Cole | Annual Wage Order No\. 33 | 2026\-05\-29 | None | 2026\-11\-12 | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

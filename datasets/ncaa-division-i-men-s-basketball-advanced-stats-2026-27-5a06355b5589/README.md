@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-NCAA Division I men's basketball advanced stats with team records, adjusted efficiencies, tempo, Barthag, four factors and three\-point metrics\. Published dataset: 730 rows\.
+NCAA Division I men's basketball advanced stats with team records, adjusted efficiencies, tempo, Barthag, four factors and three\-point metrics\. Published dataset: 1,095 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ncaa-division-i-men-s-basketball-advanced-stats-2026-27-5a06355b5589?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-16T10:00:55.831416Z
+- Last published: 2026-11-17T10:01:10.181488Z
 
 ## The brief
 
-> I need this data: NCAA Division I men's basketball advanced stats with team records, adjusted efficiencies, tempo, Barthag, four factors and three\-point metrics\. Published dataset: 730 rows\.
+> I need this data: NCAA Division I men's basketball advanced stats with team records, adjusted efficiencies, tempo, Barthag, four factors and three\-point metrics\. Published dataset: 1,095 rows\.
 
 Summary from the public dataset description.
 
 ## NCAA Division I Men's Basketball Advanced Stats 2026–27 / team\_captures
 
-730 total rows · 50 sampled · Output revision 2
-Published: 2026-11-16T10:00:55.831416Z · Producing pipeline version: 1
+1,095 total rows · 50 sampled · Output revision 3
+Published: 2026-11-17T10:01:10.181488Z · Producing pipeline version: 1
 
 [CSV sample](outputs/3c02706620bf/team-captures-b62e049933b3/sample.csv) · [JSON sample](outputs/3c02706620bf/team-captures-b62e049933b3/sample.json) · [Schema](outputs/3c02706620bf/team-captures-b62e049933b3/schema.json)
 
 | adjusted\_defensive\_efficiency | adjusted\_offensive\_efficiency | adjusted\_tempo | barthag | capture\_date | captured\_at | conference | def\_efg\_pct |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 106\.41528281636832 | 103\.56965113508844 | 68\.4906476858051 | 0\.4226984111045624 | 2026\-11\-17 | 2026\-11\-17T10:01:02\.490697\+00:00 | Sum | 41 |
+| 110\.00172882874884 | 102\.12370919751955 | 68\.87495074859797 | 0\.2984733082226603 | 2026\-11\-17 | 2026\-11\-17T10:01:02\.490697\+00:00 | Slnd | 50\.9 |
 | 99\.27000818149743 | 113\.75832979009462 | 70\.53460092908331 | 0\.827309386108854 | 2026\-11\-16 | 2026\-11\-16T10:00:50\.668672\+00:00 | WCC | 51\.1 |
 | 111\.8360698705549 | 95\.06654687214882 | 70\.44683131712478 | 0\.1337437081671452 | 2026\-11\-16 | 2026\-11\-16T10:00:50\.668672\+00:00 | NEC | 54\.6 |
-| 98\.56546060030439 | 112\.4518321742314 | 70\.57929659355834 | 0\.8199113209912104 | 2026\-11\-16 | 2026\-11\-16T09:15:24\.866383\+00:00 | B12 | 46\.7 |
-| 108\.05101750806 | 105\.39216980201101 | 68\.23014942820473 | 0\.42885498710330533 | 2026\-11\-16 | 2026\-11\-16T09:15:24\.866383\+00:00 | SB | 45\.1 |
-| 107\.34065354719458 | 102\.34671405010303 | 69\.22460895022127 | 0\.36635771406542894 | 2026\-11\-16 | 2026\-11\-16T10:00:50\.668672\+00:00 | BSky | 51\.6 |
+| 112\.38207286048709 | 94\.61865645155589 | 69\.79918629291727 | 0\.12147112033110588 | 2026\-11\-17 | 2026\-11\-17T10:01:02\.490697\+00:00 | Slnd | 53\.7 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

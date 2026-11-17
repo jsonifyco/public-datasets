@@ -1,0 +1,78 @@
+[
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "estimated_average_price",
+    "type": "double precision"
+  },
+  {
+    "name": "estimated_units_30d",
+    "type": "integer"
+  },
+  {
+    "name": "market",
+    "type": "text"
+  },
+  {
+    "name": "original_list_price",
+    "type": "double precision"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "product_title",
+    "type": "text"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "ranking_basis",
+    "type": "text"
+  },
+  {
+    "name": "ranking_window_end",
+    "type": "text"
+  },
+  {
+    "name": "rating",
+    "type": "double precision"
+  },
+  {
+    "name": "review_count",
+    "type": "integer"
+  },
+  {
+    "name": "sales_count",
+    "type": "text"
+  },
+  {
+    "name": "shop_seller_name",
+    "type": "text"
+  },
+  {
+    "name": "shop_url",
+    "type": "text"
+  },
+  {
+    "name": "source_rank",
+    "type": "integer"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

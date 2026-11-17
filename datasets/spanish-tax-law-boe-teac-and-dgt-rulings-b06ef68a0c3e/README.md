@@ -1,8 +1,8 @@
-# Spanish Tax Law: BOE and TEAC Rulings
+# Spanish Tax Law: BOE, TEAC and DGT Rulings
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A one\-off sample of Spanish tax dispositions and rulings from the BOE and TEAC, with dates, subjects, summaries, cited legislation and official links\.
+A one\-off sample of 336 Spanish tax records: 87 BOE publications, 150 TEAC rulings and 99 DGT binding consultations, with summaries and official links\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/spanish-tax-law-boe-teac-and-dgt-rulings-b06ef68a0c3e?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A one\-off sample of Spanish tax dispositions and rulings from the BOE and TEAC,
 
 ## The brief
 
-> I need this data: A one\-off sample of Spanish tax dispositions and rulings from the BOE and TEAC, with dates, subjects, summaries, cited legislation and official links\.
+> I need this data: A one\-off sample of 336 Spanish tax records: 87 BOE publications, 150 TEAC rulings and 99 DGT binding consultations, with summaries and official links\.
 
 Summary from the public dataset description.
 

@@ -1,0 +1,112 @@
+[
+  {
+    "billing_unit": "Full seat",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "3,000 AI credits/mo",
+    "is_contact_sales": false,
+    "plan_name": "Professional",
+    "price_annual_billing_usd_per_month": 16,
+    "price_monthly_billing_usd": 20,
+    "pricing_page_url": "https://www.figma.com/pricing/",
+    "product": "Figma"
+  },
+  {
+    "billing_unit": "per seat / month",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": null,
+    "is_contact_sales": false,
+    "plan_name": "Plus",
+    "price_annual_billing_usd_per_month": 10,
+    "price_monthly_billing_usd": 12,
+    "pricing_page_url": "https://www.notion.com/pricing",
+    "product": "Notion"
+  },
+  {
+    "billing_unit": "user / mo",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "10K Automations / mo",
+    "is_contact_sales": false,
+    "plan_name": "Business",
+    "price_annual_billing_usd_per_month": 17,
+    "price_monthly_billing_usd": 25,
+    "pricing_page_url": "https://clickup.com/pricing",
+    "product": "ClickUp"
+  },
+  {
+    "billing_unit": "flat",
+    "captured_at": "2026-11-16T20:51:43.760528+00:00",
+    "headline_limit": "100 tasks per month",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://zapier.com/pricing",
+    "product": "Zapier"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "60 MB Storage",
+    "is_contact_sales": false,
+    "plan_name": "Free Forever",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://clickup.com/pricing",
+    "product": "ClickUp"
+  },
+  {
+    "billing_unit": "per user / month",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "Unlimited message history",
+    "is_contact_sales": false,
+    "plan_name": "Pro",
+    "price_annual_billing_usd_per_month": 7.25,
+    "price_monthly_billing_usd": 8.75,
+    "pricing_page_url": "https://slack.com/pricing",
+    "product": "Slack"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": null,
+    "is_contact_sales": true,
+    "plan_name": "Enterprise",
+    "price_annual_billing_usd_per_month": null,
+    "price_monthly_billing_usd": null,
+    "pricing_page_url": "https://linear.app/pricing",
+    "product": "Linear"
+  },
+  {
+    "billing_unit": "per member",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "50 AI credits/member/month",
+    "is_contact_sales": false,
+    "plan_name": "Business",
+    "price_annual_billing_usd_per_month": 20,
+    "price_monthly_billing_usd": 25,
+    "pricing_page_url": "https://miro.com/pricing/",
+    "product": "Miro"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "Meetings up to 40 minutes",
+    "is_contact_sales": false,
+    "plan_name": "Workplace Basic",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://www.zoom.com/en/pricing/",
+    "product": "Zoom"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "Unlimited users",
+    "is_contact_sales": true,
+    "plan_name": "Enterprise",
+    "price_annual_billing_usd_per_month": null,
+    "price_monthly_billing_usd": null,
+    "pricing_page_url": "https://zapier.com/pricing",
+    "product": "Zapier"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "billing_unit",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "headline_limit",
+    "type": "text"
+  },
+  {
+    "name": "is_contact_sales",
+    "type": "boolean"
+  },
+  {
+    "name": "plan_name",
+    "type": "text"
+  },
+  {
+    "name": "price_annual_billing_usd_per_month",
+    "type": "double precision"
+  },
+  {
+    "name": "price_monthly_billing_usd",
+    "type": "double precision"
+  },
+  {
+    "name": "pricing_page_url",
+    "type": "text"
+  },
+  {
+    "name": "product",
+    "type": "text"
+  }
+]

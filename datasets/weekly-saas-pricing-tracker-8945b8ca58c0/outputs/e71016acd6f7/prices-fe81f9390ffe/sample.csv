@@ -1,0 +1,11 @@
+billing_unit,captured_at,headline_limit,is_contact_sales,plan_name,price_annual_billing_usd_per_month,price_monthly_billing_usd,pricing_page_url,product
+Full seat,2026-11-16T22:01:16.418716+00:00,"3,000 AI credits/mo",false,Professional,16,20,https://www.figma.com/pricing/,Figma
+per seat / month,2026-11-16T22:01:16.418716+00:00,,false,Plus,10,12,https://www.notion.com/pricing,Notion
+user / mo,2026-11-16T22:01:16.418716+00:00,10K Automations / mo,false,Business,17,25,https://clickup.com/pricing,ClickUp
+flat,2026-11-16T20:51:43.760528+00:00,100 tasks per month,false,Free,0,0,https://zapier.com/pricing,Zapier
+,2026-11-16T22:01:16.418716+00:00,60 MB Storage,false,Free Forever,0,0,https://clickup.com/pricing,ClickUp
+per user / month,2026-11-16T22:01:16.418716+00:00,Unlimited message history,false,Pro,7.25,8.75,https://slack.com/pricing,Slack
+,2026-11-16T22:01:16.418716+00:00,,true,Enterprise,,,https://linear.app/pricing,Linear
+per member,2026-11-16T22:01:16.418716+00:00,50 AI credits/member/month,false,Business,20,25,https://miro.com/pricing/,Miro
+,2026-11-16T22:01:16.418716+00:00,Meetings up to 40 minutes,false,Workplace Basic,0,0,https://www.zoom.com/en/pricing/,Zoom
+,2026-11-16T22:01:16.418716+00:00,Unlimited users,true,Enterprise,,,https://zapier.com/pricing,Zapier

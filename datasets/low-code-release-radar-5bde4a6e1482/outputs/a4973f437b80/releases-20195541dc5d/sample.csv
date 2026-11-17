@@ -1,5 +1,21 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-11-16T08:00:52.400298+00:00,2026-11-13T09:44:36Z,2,444055878,n8n@2.47.7,"## [2.47.7](https://github.com/n8n-io/n8n/compare/n8n@2.47.6...n8n@2.47.7) (2026-11-13)
+2026-11-17T08:00:52.631384+00:00,2026-11-16T09:34:13Z,0,446832385,v4.0.1,"## What's Changed
+* Add a CI check to ensure asdf and node-env and pyenv are on sync by @adrinr in https://github.com/Budibase/budibase/pull/20076
+* Bump dd-trace from 5.109.0 to 5.131.1 in /packages/backend-core by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19926
+* fix: pin Svelte version to 5.40.2 in plugin templates by @mgr-punith in https://github.com/Budibase/budibase/pull/19921
+* Maintain CouchDB Helm chart locally by @calexiou in https://github.com/Budibase/budibase/pull/20078
+* [#19945] Fix automation project assignment across browser tabs by @melohagan in https://github.com/Budibase/budibase/pull/20092
+* Export data action doesnt respect column name changes in query tables by @ConorWebb96 in https://github.com/Budibase/budibase/pull/20093
+* Refactor of column rename function and warning icon by @deanhannigan in https://github.com/Budibase/budibase/pull/20066
+* Fix column deletion errors for deleted related tables by @jvcalderon in https://github.com/Budibase/budibase/pull/20094
+* Fix deployment fetch errors after leaving the builder by @jvcalderon in https://github.com/Budibase/budibase/pull/20085
+* [#20107] Fix attachment paths when importing workspace exports by @melohagan in https://github.com/Budibase/budibase/pull/20109
+
+## New Contributors
+* @mgr-punith made their first contribution in https://github.com/Budibase/budibase/pull/19921
+
+**Full Changelog**: https://github.com/Budibase/budibase/compare/v4.0.0...v4.0.1",https://github.com/Budibase/budibase/releases/tag/v4.0.1,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.0.1
+2026-11-17T08:00:52.566167+00:00,2026-11-13T09:44:36Z,3,444055878,n8n@2.47.7,"## [2.47.7](https://github.com/n8n-io/n8n/compare/n8n@2.47.6...n8n@2.47.7) (2026-11-13)
 
 
 ### Bug Fixes
@@ -11,7 +27,7 @@ checked_at,published_at,release_age_days,release_id,release_name,release_notes,r
 <!-- End of auto-generated description by cubic. -->
 
 ",https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.47.7
-2026-11-16T08:00:52.365506+00:00,2026-11-12T17:45:16Z,3,427059508,Release v2.7.0 🌈,"## ⚠️ Important Upgrade Notes
+2026-11-17T08:00:52.526737+00:00,2026-11-12T17:45:16Z,4,427059508,Release v2.7.0 🌈,"## ⚠️ Important Upgrade Notes
 
 - Helm chart: if you set some `probes` keys, the keys you did not set now take the new defaults (10 s period, 5 s timeout). If you tuned `failureThreshold` for the old 60 s period, also set `periodSeconds: 60`. Probe values that are not positive integers now fail `helm install` and `helm upgrade`. Quoted numbers such as `""5""` still work. ([#42571](https://github.com/appsmithorg/appsmith/pull/42571))
 - `navigateTo` to a page name that no longer exists now fails with ""Enter a valid URL or page name"", even when a parameter value contains a dot. Before, it opened the name as a web address, such as `https://OldPage?file=report.pdf`. A one-word host such as `intranet` with a dotted parameter now fails too. Use a full URL instead. ([#42513](https://github.com/appsmithorg/appsmith/pull/42513))
@@ -66,97 +82,3 @@ checked_at,published_at,release_age_days,release_id,release_name,release_notes,r
 - Helm chart health probes now run every 10 s with a 5 s timeout. Startup allows 600 s to boot, liveness restarts the container after 180 s of failure, and readiness marks the pod unready after 30 s. Saving admin settings that restart the server no longer gets the container killed. ([#42571](https://github.com/appsmithorg/appsmith/pull/42571))
 - Backups can skip MongoDB collections listed in `APPSMITH_BACKUP_EXCLUDE_COLLECTIONS` (comma-separated). ([#42581](https://github.com/appsmithorg/appsmith/pull/42581))
 - The server logs why it refuses an MCP token, such as an expired or revoked key. It never logs the secret. ([#42593](https://github.com/appsmithorg/appsmith/pull/42593))",https://github.com/appsmithorg/appsmith/releases/tag/v2.7.0,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.7.0
-2026-11-16T08:00:52.465463+00:00,2026-11-10T16:40:12Z,5,440627454,v4.0.0,"## What's Changed
-* Persist AI_AGENT and AUTOMATION_STEP platform actions locally by @jvcalderon in https://github.com/Budibase/budibase/pull/19587
-* Enrich AUTOMATION_STEP action telemetry with automation run context by @jvcalderon in https://github.com/Budibase/budibase/pull/19570
-* Infer agent-session container status (active/waiting/completed/failed) by @jvcalderon in https://github.com/Budibase/budibase/pull/19616
-* Automation run lifecycle status signalling by @jvcalderon in https://github.com/Budibase/budibase/pull/19642
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19887
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19888
-* Enrich AI_AGENT action telemetry with session context by @jvcalderon in https://github.com/Budibase/budibase/pull/19559
-* Store platform actions in a dedicated workspace database by @jvcalderon in https://github.com/Budibase/budibase/pull/19724
-* Add read-only SDK for platform action sessions and events by @jvcalderon in https://github.com/Budibase/budibase/pull/19735
-* Prevent late platform action writes from recreating deleted Actions databases by @jvcalderon in https://github.com/Budibase/budibase/pull/19776
-* Expose Platform Actions sessions and events API by @jvcalderon in https://github.com/Budibase/budibase/pull/19795
-* Add platform actions activity UI by @jvcalderon in https://github.com/Budibase/budibase/pull/19806
-* Fix agent session lifecycle after escalation resumes by @jvcalderon in https://github.com/Budibase/budibase/pull/19821
-* Add asset and triggered-by metadata to platform actions by @jvcalderon in https://github.com/Budibase/budibase/pull/19825
-* Add real-time updates to Activity Actions by @jvcalderon in https://github.com/Budibase/budibase/pull/19835
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19890
-* Add plan-based retention and cleanup for platform actions by @jvcalderon in https://github.com/Budibase/budibase/pull/19866
-* Fix automation completion race caused by delayed action telemetry by @jvcalderon in https://github.com/Budibase/budibase/pull/19867
-* Add a dedicated feature flag for the Actions UI by @jvcalderon in https://github.com/Budibase/budibase/pull/19871
-* Record agent tool calls in Activity sessions by @jvcalderon in https://github.com/Budibase/budibase/pull/19883
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19891
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19892
-* [#19813] Keep relationship columns in Dynamic Filter ""Allowed filter columns"" by @Raphael-W in https://github.com/Budibase/budibase/pull/19845
-* add project dependency packaging by @andz-bb in https://github.com/Budibase/budibase/pull/19530
-* add selective project dependency assignment by @andz-bb in https://github.com/Budibase/budibase/pull/19245
-* propagate project assignments to new dependencies by @andz-bb in https://github.com/Budibase/budibase/pull/19551
-* add project dependency assignment ui by @andz-bb in https://github.com/Budibase/budibase/pull/19246
-* make project agents portable and show import setup by @andz-bb in https://github.com/Budibase/budibase/pull/19615
-* add optional project row and attachment exports by @andz-bb in https://github.com/Budibase/budibase/pull/19710
-* fix row action navigation and imported dropdown options by @andz-bb in https://github.com/Budibase/budibase/pull/19830
-* [19816] Handle ambiguous agent request status queries by @Tobertet in https://github.com/Budibase/budibase/pull/19882
-* Requests portal by @deanhannigan in https://github.com/Budibase/budibase/pull/19886
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/19901
-* Bump sanitize-html from 2.17.7 to 2.18.0 in the all-non-major-security group across 1 directory by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19898
-* fix clipped bbui colour picker previews by @andz-bb in https://github.com/Budibase/budibase/pull/19896
-* Bump the all-non-major-security group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19905
-* Bump sanitize-html from 2.18.0 to 2.18.1 in the all-non-major-security group across 1 directory by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19906
-* Bump vite from 7.3.5 to 7.3.7 by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19907
-* add project notes to workspace home by @andz-bb in https://github.com/Budibase/budibase/pull/19902
-* Request Portal Feature Flag by @deanhannigan in https://github.com/Budibase/budibase/pull/19903
-* [BUDI-9116] Keep app actions running after branches without Collect Data by @melohagan in https://github.com/Budibase/budibase/pull/19910
-* Approval notification requirement removed by @deanhannigan in https://github.com/Budibase/budibase/pull/19908
-* Bump brace-expansion from 1.1.12 to 1.1.21 by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19924
-* Bump nodemailer from 10.1.3 to 10.1.4 in the all-non-major-security group across 1 directory by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19923
-* [#19872] Keep explicit null values in JSON query fields by @EazyHood in https://github.com/Budibase/budibase/pull/19918
-* Bump fast-uri from 3.1.8 to 3.1.9 by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19928
-* Bump the all-non-major-security group across 1 directory with 5 updates by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19927
-* [#19865] Keep workspace search input compact on narrow screens by @Saifjafri212213 in https://github.com/Budibase/budibase/pull/19912
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20019
-* Update lerna to 10.1.1 by @melohagan in https://github.com/Budibase/budibase/pull/19913
-* Bump the all-non-major-security group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/Budibase/budibase/pull/20021
-* [#20014] Fix CVE-2026-111497 in apps and worker Node runtime by @melohagan in https://github.com/Budibase/budibase/pull/20022
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20026
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20032
-* [#19722] Improve knowledge source cards and upload status by @Tobertet in https://github.com/Budibase/budibase/pull/19870
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20035
-* [#20008] Limit project resource names to 128 characters by @melohagan in https://github.com/Budibase/budibase/pull/20023
-* fix rich text toolbar icons in offline environments by @ConorWebb96 in https://github.com/Budibase/budibase/pull/20034
-* Allow custom images for init containers and helpers by @calexiou in https://github.com/Budibase/budibase/pull/20029
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20036
-* Approval gate default awareness by @deanhannigan in https://github.com/Budibase/budibase/pull/20031
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20037
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20038
-* Fix vertical scroll issue by @ConorWebb96 in https://github.com/Budibase/budibase/pull/20043
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20049
-* Skip user lookups for unlinked chat users on Activity by @deanhannigan in https://github.com/Budibase/budibase/pull/20059
-* Give Admin row tools their table fields by @deanhannigan in https://github.com/Budibase/budibase/pull/20056
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20060
-* Improve request/escalation status badge contrast  by @deanhannigan in https://github.com/Budibase/budibase/pull/20058
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20062
-* Fix Slack /new session behaviour by @deanhannigan in https://github.com/Budibase/budibase/pull/20050
-* List readable columns on search_rows by @deanhannigan in https://github.com/Budibase/budibase/pull/20057
-* Fix for column rename approval rules by @deanhannigan in https://github.com/Budibase/budibase/pull/20061
-* [19948] Preserve project resource permissions on export and import by @andz-bb in https://github.com/Budibase/budibase/pull/20027
-* Speed up imports into existing workspaces by @melohagan in https://github.com/Budibase/budibase/pull/20039
-* Remove accidentally committed videos by @melohagan in https://github.com/Budibase/budibase/pull/20067
-* Approval call identity and general fixes by @deanhannigan in https://github.com/Budibase/budibase/pull/20048
-* Decouple Activity session status from Request outcome by @jvcalderon in https://github.com/Budibase/budibase/pull/20047
-* Decouple Activity session status from approval state by @jvcalderon in https://github.com/Budibase/budibase/pull/20064
-* Remove unused contributor vouching by @melohagan in https://github.com/Budibase/budibase/pull/20068
-* [#19935] Autosave operation instructions by @Tobertet in https://github.com/Budibase/budibase/pull/20046
-* Record tool validation failures without misclassifying agent runs by @jvcalderon in https://github.com/Budibase/budibase/pull/20069
-* [#20000] Open the connection modal from Home by @melohagan in https://github.com/Budibase/budibase/pull/20045
-* [20030] batch table seeding and recover partial copies by @andz-bb in https://github.com/Budibase/budibase/pull/20044
-* enable projects by default on self-host by @andz-bb in https://github.com/Budibase/budibase/pull/20074
-* [19213] Preserve Auto IDs when seeding production tables by @melohagan in https://github.com/Budibase/budibase/pull/19929
-* enable release features by default on self-host by @andz-bb in https://github.com/Budibase/budibase/pull/20075
-
-## New Contributors
-* @Raphael-W made their first contribution in https://github.com/Budibase/budibase/pull/19845
-* @EazyHood made their first contribution in https://github.com/Budibase/budibase/pull/19918
-
-**Full Changelog**: https://github.com/Budibase/budibase/compare/v3.51.0...v4.0.0",https://github.com/Budibase/budibase/releases/tag/v4.0.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.0.0

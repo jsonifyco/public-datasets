@@ -106,19 +106,21 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Lisbon &amp; Cascais €1M\+ Property Listings](datasets/bonte-filipidis-lisbon-cascais-1m-snapshot-c5f15a05fc46/) | 311 | On demand | 2026-11-08T07:57:29.642535Z |
 | [TMview Class 36 Trademarks and Publicly Evidenced Company Websites](datasets/tmview-class-36-brands-and-websites-cabdb479e298/) | 10 | On demand | 2026-10-26T17:23:00.087271Z |
 | [Netherlands Fashion Competitor Prices](datasets/netherlands-fashion-competitor-prices-cbaaa49bc3b1/) | 3,657 | On demand | 2026-11-11T02:25:33.742247Z |
+| [Companies Hiring at Volume in Mexico and Colombia](datasets/companies-hiring-at-volume-in-mexico-and-colombia-ce27fa3ecd4d/) | 2,737 | On demand | 2026-11-17T20:04:35.911297Z |
 | [Airside Transit Visa Rules](datasets/airside-transit-visa-rules-sample-d375a83266c3/) | 205 | On demand | 2026-11-16T10:36:11.783153Z |
 | [Deliveroo, Uber Eats and Just Eat Menu Prices in London](datasets/london-delivery-app-venues-and-menus-d603c7022886/) | 6,952,887 | On demand | 2026-11-08T17:42:33.650984Z |
 | [European Sports Camps \| Topsportscamps](datasets/european-sports-camps-topsportscamps-sample-d629fc29f7f3/) | 196 | On demand | 2026-11-09T06:30:10.521922Z |
 | [US Print\-on\-Demand Market Sample](datasets/us-print-on-demand-market-sample-da51dc949369/) | 215 | On demand | 2026-11-16T10:34:18.373859Z |
 | [Vitória Short\-Term Rental Rates](datasets/operent-vit-ria-nightly-rental-rates-daa743691e70/) | 960 | On demand | 2026-11-09T10:37:15.874612Z |
 | [Greek Clothing Product Sample from Zara, Bershka and Mango](datasets/greek-clothing-sample-dd3322ac5bea/) | 9 | On demand | 2026-10-13T11:41:41.082620Z |
+| [US Data Centers: Virginia, Texas, Arizona, Georgia and Ohio](datasets/us-data-centers-five-state-sample-dfb1295a7834/) | 125 | weekly | 2026-11-17T16:33:30.642968Z |
 | [Calven Competitor Watch](datasets/calven-competitor-watch-dfd2d8d7f7fc/) | 27 | On demand | 2026-10-14T14:39:43.933603Z |
 | [Building Permit Data: Eight US Cities](datasets/us-building-permits-e1c447fbcc9c/) | 24,842 | weekly | 2026-11-12T06:11:33.173475Z |
 | [Agent Framework Releases](datasets/agent-framework-releases-e3721e6bea8a/) | 30 | On demand | 2026-10-14T12:00:31.586928Z |
 | [Leather Backpack Prices: Gusti Leder and Amazon](datasets/leather-backpack-prices-gusti-leder-shop-vs-amazon-de-fr-it-e57e10e2e1b5/) | 56 | On demand | 2026-11-09T08:13:10.547866Z |
 | [AI Hiring Radar](datasets/ai-hiring-radar-e7adb9b7e394/) | 75 | On demand | 2026-11-09T09:05:18.599120Z |
 | [Belgian Used\-Car Dealer Stock](datasets/belgian-used-car-dealer-stock-eb48d1564561/) | 210 | On demand | 2026-11-16T10:33:28.924091Z |
-| [Irish Wine and Spirits Price Tracker](datasets/clinks-irish-wine-and-spirits-price-tracker-ece8b068e56b/) | 2,362 | On demand | 2026-11-09T08:07:45.304456Z |
+| [Irish Wine and Spirits Prices by Retailer](datasets/irish-wine-and-spirits-prices-by-retailer-ece8b068e56b/) | 2,362 | On demand | 2026-11-09T08:07:45.304456Z |
 | [Weekly U\.S\. Diesel and Gas Price History](datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4/) | 2,160 | weekly | 2026-11-11T06:01:03.609834Z |
 | [Dutch Rental Property Candidates](datasets/dutch-rental-property-candidates-ede197223121/) | 299 | On demand | 2026-11-16T10:31:45.634983Z |
 | [UK Toothpaste Prices: Boots, Superdrug and Well Pharmacy](datasets/uk-pharmacy-personal-care-demo-ee43bffca794/) | 9 | On demand | 2026-10-26T12:35:41.997095Z |

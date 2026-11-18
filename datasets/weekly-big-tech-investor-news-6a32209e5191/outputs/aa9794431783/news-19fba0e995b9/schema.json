@@ -1,0 +1,30 @@
+[
+  {
+    "name": "article_url",
+    "type": "text"
+  },
+  {
+    "name": "company",
+    "type": "text"
+  },
+  {
+    "name": "headline",
+    "type": "text"
+  },
+  {
+    "name": "publication_date",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "summary",
+    "type": "text"
+  },
+  {
+    "name": "ticker",
+    "type": "text"
+  }
+]

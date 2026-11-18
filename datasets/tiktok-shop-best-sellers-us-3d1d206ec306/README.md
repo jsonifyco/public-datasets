@@ -1,35 +1,35 @@
-# TikTok Shop US: Category Listing Sample and Official Ranking Products
+# TikTok Shop US: Category Listings and Official Ranking Products
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-US\-only TikTok Shop sample: 287 category listings sorted by displayed sold count, plus 18 official ranking products in a separate table\.
+US TikTok Shop dataset with 305 products across category listings and the official overall ranking\. Category listings show displayed sold counts; the ranking uses the source's past\-30\-day label\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/tiktok-shop-best-sellers-us-3d1d206ec306?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 4
-- Last published: 2026-11-17T09:04:40.720331Z
+- Last published: 2026-11-18T15:12:10.900463Z
 
 ## The brief
 
-> I need this data: US\-only TikTok Shop sample: 287 category listings sorted by displayed sold count, plus 18 official ranking products in a separate table\.
+> I need this data: US TikTok Shop dataset with 305 products across category listings and the official overall ranking\. Category listings show displayed sold counts; the ranking uses the source's past\-30\-day label\.
 
 Summary from the public dataset description.
 
 ## TikTok Shop Best\-Sellers: US / products
 
-287 total rows · 50 sampled · Output revision 6
-Published: 2026-11-17T09:04:40.720331Z · Producing pipeline version: 4
+287 total rows · 50 sampled · Output revision 7
+Published: 2026-11-18T15:12:10.900463Z · Producing pipeline version: 4
 
 [CSV sample](outputs/6e125de82729/products-0a3e27b8ca81/sample.csv) · [JSON sample](outputs/6e125de82729/products-0a3e27b8ca81/sample.json) · [Schema](outputs/6e125de82729/products-0a3e27b8ca81/schema.json)
 
 | category | collected\_at | currency | listing\_type | market | original\_list\_price | original\_list\_price\_source\_url | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Toys &amp; Hobbies | 2026\-11\-17T09:03:27\.896262\+00:00 | USD | category | US | 13\.95 | [https://shop\.tiktok\.com/us/pdp/palm\-pals\-choco\-bday\-cake\-5\-inch\-soft\-plush\-toy\-birthday\-gift/1732347779461910949](<https://shop.tiktok.com/us/pdp/palm-pals-choco-bday-cake-5-inch-soft-plush-toy-birthday-gift/1732347779461910949>) | 11\.16 |
-| Kitchenware | 2026\-11\-17T09:00:38\.172208\+00:00 | USD | category | US | None | None | 14\.19 |
-| Womenswear &amp; Underwear | 2026\-11\-17T09:01:46\.466583\+00:00 | USD | category | US | 64\.99 | [https://shop\.tiktok\.com/us/pdp/dress\-by\-grace\-karin\-sexy\-summer\-style\-strapless\-pockets/1731280355882275043](<https://shop.tiktok.com/us/pdp/dress-by-grace-karin-sexy-summer-style-strapless-pockets/1731280355882275043>) | 49\.99 |
-| Beauty &amp; Personal Care | 2026\-11\-17T08:59:50\.273412\+00:00 | USD | category | US | 7\.59 | [https://shop\.tiktok\.com/us/c/beauty\-personal\-care/601450](<https://shop.tiktok.com/us/c/beauty-personal-care/601450>) | 3\.04 |
-| Tools &amp; Hardware | 2026\-11\-17T09:00:05\.802887\+00:00 | USD | category | US | 72\.99 | [https://shop\.tiktok\.com/us/c/tools\-hardware/604579](<https://shop.tiktok.com/us/c/tools-hardware/604579>) | 36\.99 |
+| Food &amp; Beverages | 2026\-11\-18T15:07:53\.260962\+00:00 | USD | category | US | None | None | 12\.99 |
+| Home Improvement | 2026\-11\-18T15:08:08\.871496\+00:00 | USD | category | US | None | None | 17\.99 |
+| Sports &amp; Outdoor | 2026\-11\-18T15:08:41\.810074\+00:00 | USD | category | US | 117 | [https://shop\.tiktok\.com/us/pdp/camping\-stove\-gas\-stove\-high\-pressure\-portable/1731974562184074052](<https://shop.tiktok.com/us/pdp/camping-stove-gas-stove-high-pressure-portable/1731974562184074052>) | 70\.2 |
+| Pet Supplies | 2026\-11\-18T15:08:20\.000884\+00:00 | USD | category | US | None | None | 64\.87 |
+| Books, Magazines &amp; Audio | 2026\-11\-18T15:08:46\.950099\+00:00 | USD | category | US | None | None | 17\.98 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -63,18 +63,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## TikTok Shop Best\-Sellers: US / official\_rankings
 
-18 total rows · 10 sampled · Output revision 6
-Published: 2026-11-17T09:04:40.720331Z · Producing pipeline version: 4
+18 total rows · 10 sampled · Output revision 7
+Published: 2026-11-18T15:12:10.900463Z · Producing pipeline version: 4
 
 [CSV sample](outputs/6e125de82729/official-rankings-79032324a2f3/sample.csv) · [JSON sample](outputs/6e125de82729/official-rankings-79032324a2f3/sample.json) · [Schema](outputs/6e125de82729/official-rankings-79032324a2f3/schema.json)
 
 | category | collected\_at | currency | listing\_type | market | original\_list\_price | original\_list\_price\_source\_url | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beauty &amp; Personal Care | 2026\-11\-17T09:04:35\.489936\+00:00 | USD | official | US | 52 | [https://shop\.tiktok\.com/us/pdp/keratin\-kojic\-acid\-hair\-growth\-spray\-200ml\-dr\-melaxin/1731572915654201371](<https://shop.tiktok.com/us/pdp/keratin-kojic-acid-hair-growth-spray-200ml-dr-melaxin/1731572915654201371>) | 36\.27 |
-| Womenswear &amp; Underwear | 2026\-11\-17T09:04:34\.883565\+00:00 | USD | official | US | 69\.99 | [https://shop\.tiktok\.com/us/events/ranking\-list](<https://shop.tiktok.com/us/events/ranking-list>) | 38\.99 |
-| Automotive &amp; Motorcycle | 2026\-11\-17T09:04:34\.457479\+00:00 | USD | official | US | 59 | [https://shop\.tiktok\.com/us/events/ranking\-list](<https://shop.tiktok.com/us/events/ranking-list>) | 57\.93 |
-| Beauty &amp; Personal Care | 2026\-11\-17T09:04:34\.353710\+00:00 | USD | official | US | 354\.9 | [https://shop\.tiktok\.com/us/pdp/gifted\-collagen\-boost\-set\-for\-enhanced\-skin\-health\-routine/1731997246433955867](<https://shop.tiktok.com/us/pdp/gifted-collagen-boost-set-for-enhanced-skin-health-routine/1731997246433955867>) | 89\.7 |
-| Health | 2026\-11\-17T09:04:34\.304851\+00:00 | USD | official | US | 49\.97 | [https://shop\.tiktok\.com/us/events/ranking\-list](<https://shop.tiktok.com/us/events/ranking-list>) | 49\.97 |
+| Beauty &amp; Personal Care | 2026\-11\-18T15:09:25\.366045\+00:00 | USD | official | US | 354\.9 | [https://shop\.tiktok\.com/us/pdp/gifted\-collagen\-boost\-set\-for\-enhanced\-skin\-health\-routine/1731997246433955867](<https://shop.tiktok.com/us/pdp/gifted-collagen-boost-set-for-enhanced-skin-health-routine/1731997246433955867>) | 89\.7 |
+| Tools &amp; Hardware | 2026\-11\-18T15:09:26\.184184\+00:00 | USD | official | US | 59\.88 | [https://shop\.tiktok\.com/us/events/ranking\-list](<https://shop.tiktok.com/us/events/ranking-list>) | 55\.97 |
+| Shoes | 2026\-11\-18T15:09:26\.033895\+00:00 | USD | official | US | 44\.99 | [https://shop\.tiktok\.com/us/events/ranking\-list](<https://shop.tiktok.com/us/events/ranking-list>) | 58\.49 |
+| Beauty &amp; Personal Care | 2026\-11\-18T15:09:28\.535856\+00:00 | USD | official | US | 52 | [https://shop\.tiktok\.com/us/pdp/keratin\-kojic\-acid\-hair\-growth\-spray\-200ml\-dr\-melaxin/1731572915654201371](<https://shop.tiktok.com/us/pdp/keratin-kojic-acid-hair-growth-spray-200ml-dr-melaxin/1731572915654201371>) | 36\.27 |
+| Kitchenware | 2026\-11\-18T15:09:28\.582877\+00:00 | USD | official | US | 29\.99 | [https://shop\.tiktok\.com/us/events/ranking\-list](<https://shop.tiktok.com/us/events/ranking-list>) | 29\.99 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

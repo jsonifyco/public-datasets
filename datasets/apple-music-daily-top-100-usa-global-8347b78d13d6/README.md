@@ -1,25 +1,25 @@
-# Apple Music charts dataset: Top 100 USA and Global
+# Apple Music data: Top 100 USA and Global chart dataset, refreshed daily
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Apple Music charts dataset with the Top 100 USA and Top 100 Global, including chart position, song, artist and Apple Music song ID\. The published table contains 200 rows\. Export to CSV, Excel or Google Sheets\.
+Apple Music charts dataset: the Top 100 USA and Top 100 Global saved every day since 17 Nov 2026, with position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/apple-music-daily-top-100-usa-global-8347b78d13d6?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-17T10:01:08.578983Z
+- Last published: 2026-11-18T10:01:13.126957Z
 
 ## The brief
 
-> I need this data: Apple Music charts dataset with the Top 100 USA and Top 100 Global, including chart position, song, artist and Apple Music song ID\. The published table contains 200 rows\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Apple Music charts dataset: the Top 100 USA and Top 100 Global saved every day since 17 Nov 2026, with position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## Apple Music Daily Top 100 / daily\_charts
 
-200 total rows · 50 sampled · Output revision 2
-Published: 2026-11-17T10:01:08.578983Z · Producing pipeline version: 1
+400 total rows · 50 sampled · Output revision 3
+Published: 2026-11-18T10:01:13.126957Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.csv) · [JSON sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.json) · [Schema](outputs/a7335034808b/daily-charts-f8952c615818/schema.json)
 
@@ -27,9 +27,9 @@ Published: 2026-11-17T10:01:08.578983Z · Producing pipeline version: 1
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | USA | 2026\-11\-17 | 75 | Passionfruit | Drake | 1440891494 | [https://music\.apple\.com/us/song/passionfruit/1440891494](<https://music.apple.com/us/song/passionfruit/1440891494>) | USA:2026\-11\-17:75 |
 | USA | 2026\-11\-17 | 12 | Stop The Wedding\! | Ashe | 6795697687 | [https://music\.apple\.com/us/song/stop\-the\-wedding/6795697687](<https://music.apple.com/us/song/stop-the-wedding/6795697687>) | USA:2026\-11\-17:12 |
+| Global | 2026\-11\-18 | 100 | Billie Jean | Michael Jackson | 269573364 | [https://music\.apple\.com/us/song/billie\-jean/269573364](<https://music.apple.com/us/song/billie-jean/269573364>) | Global:2026\-11\-18:100 |
 | USA | 2026\-11\-17 | 35 | Don't We | Morgan Wallen | 1802104400 | [https://music\.apple\.com/us/song/dont\-we/1802104400](<https://music.apple.com/us/song/dont-we/1802104400>) | USA:2026\-11\-17:35 |
-| Global | 2026\-11\-17 | 90 | Brand New | Mrs\. GREEN APPLE | 6788211810 | [https://music\.apple\.com/us/song/brand\-new/6788211810](<https://music.apple.com/us/song/brand-new/6788211810>) | Global:2026\-11\-17:90 |
-| Global | 2026\-11\-17 | 27 | drop dead | Olivia Rodrigo | 1889992113 | [https://music\.apple\.com/us/song/drop\-dead/1889992113](<https://music.apple.com/us/song/drop-dead/1889992113>) | Global:2026\-11\-17:27 |
+| USA | 2026\-11\-18 | 37 | Stick Talk | Future | 1017055092 | [https://music\.apple\.com/us/song/stick\-talk/1017055092](<https://music.apple.com/us/song/stick-talk/1017055092>) | USA:2026\-11\-18:37 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

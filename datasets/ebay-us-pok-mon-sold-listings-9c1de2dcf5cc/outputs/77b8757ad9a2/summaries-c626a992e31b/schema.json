@@ -1,0 +1,70 @@
+[
+  {
+    "name": "best_offer_count",
+    "type": "integer"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "card",
+    "type": "text"
+  },
+  {
+    "name": "coverage",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "max_sold_price",
+    "type": "double precision"
+  },
+  {
+    "name": "median_sold_price",
+    "type": "double precision"
+  },
+  {
+    "name": "min_sold_price",
+    "type": "double precision"
+  },
+  {
+    "name": "pages_read",
+    "type": "integer"
+  },
+  {
+    "name": "price_basis",
+    "type": "text"
+  },
+  {
+    "name": "rejected_results",
+    "type": "integer"
+  },
+  {
+    "name": "row_key",
+    "type": "text"
+  },
+  {
+    "name": "sales_count",
+    "type": "integer"
+  },
+  {
+    "name": "search_query",
+    "type": "text"
+  },
+  {
+    "name": "unknown_offer_status_count",
+    "type": "integer"
+  },
+  {
+    "name": "window_end",
+    "type": "text"
+  },
+  {
+    "name": "window_start",
+    "type": "text"
+  }
+]

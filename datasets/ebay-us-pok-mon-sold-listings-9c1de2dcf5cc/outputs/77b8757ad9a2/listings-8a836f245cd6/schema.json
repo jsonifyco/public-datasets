@@ -1,0 +1,66 @@
+[
+  {
+    "name": "best_offer_accepted",
+    "type": "boolean"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "card",
+    "type": "text"
+  },
+  {
+    "name": "condition",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "grade",
+    "type": "text"
+  },
+  {
+    "name": "item_url",
+    "type": "text"
+  },
+  {
+    "name": "listing_format",
+    "type": "text"
+  },
+  {
+    "name": "listing_title",
+    "type": "text"
+  },
+  {
+    "name": "price_basis",
+    "type": "text"
+  },
+  {
+    "name": "row_key",
+    "type": "text"
+  },
+  {
+    "name": "search_query",
+    "type": "text"
+  },
+  {
+    "name": "shipping_cost",
+    "type": "double precision"
+  },
+  {
+    "name": "shipping_text",
+    "type": "text"
+  },
+  {
+    "name": "sold_date",
+    "type": "text"
+  },
+  {
+    "name": "sold_price",
+    "type": "double precision"
+  }
+]

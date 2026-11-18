@@ -448,6 +448,22 @@
     "product_code": "DYB"
   },
   {
+    "applicant": "Ge Medical Systems Information Technologies, Inc.",
+    "applicant_city": "Waukesha",
+    "applicant_country": "US",
+    "applicant_state": "WI",
+    "clearance_type": "Traditional",
+    "date_received": "2026-04-21",
+    "decision": "Substantially Equivalent",
+    "decision_date": "2026-11-03",
+    "device_class": "2",
+    "device_name": "12SL Precision",
+    "fda_record_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261307",
+    "k_number": "K261307",
+    "medical_specialty": "Cardiovascular",
+    "product_code": "MHX"
+  },
+  {
     "applicant": "Lakong Medical Devices Co., Ltd.",
     "applicant_city": "Dongguan",
     "applicant_country": "CN",
@@ -526,6 +542,22 @@
     "k_number": "K251506",
     "medical_specialty": "Neurology",
     "product_code": "POS"
+  },
+  {
+    "applicant": "DTL Dental Equipment Manufacture Co., Ltd.",
+    "applicant_city": "Foshan",
+    "applicant_country": "CN",
+    "applicant_state": "",
+    "clearance_type": "Traditional",
+    "date_received": "2026-02-12",
+    "decision": "Substantially Equivalent",
+    "decision_date": "2026-11-06",
+    "device_class": "1",
+    "device_name": "Dental Electric Motor System (iM2X)",
+    "fda_record_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K260464",
+    "k_number": "K260464",
+    "medical_specialty": "Dental",
+    "product_code": "EBW"
   },
   {
     "applicant": "Elucid Bioimaging, Inc.",
@@ -766,37 +798,5 @@
     "k_number": "K253631",
     "medical_specialty": "Physical Medicine",
     "product_code": "INI"
-  },
-  {
-    "applicant": "Hologic, Inc.",
-    "applicant_city": "Malborough",
-    "applicant_country": "US",
-    "applicant_state": "MA",
-    "clearance_type": "Special",
-    "date_received": "2026-08-06",
-    "decision": "Substantially Equivalent",
-    "decision_date": "2026-08-12",
-    "device_class": "2",
-    "device_name": "Brevera Biopsy System with CorLumina Imaging Technology (BREVDISP09)",
-    "fda_record_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K262792",
-    "k_number": "K262792",
-    "medical_specialty": "Gastroenterology, Urology",
-    "product_code": "KNW"
-  },
-  {
-    "applicant": "Beame Medical Technology (Shenzhen) Limited",
-    "applicant_city": "Shenzhen",
-    "applicant_country": "CN",
-    "applicant_state": "",
-    "clearance_type": "Traditional",
-    "date_received": "2025-05-12",
-    "decision": "Substantially Equivalent",
-    "decision_date": "2026-01-07",
-    "device_class": "2",
-    "device_name": "Clear Aligner (SCF-3348)",
-    "fda_record_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K251454",
-    "k_number": "K251454",
-    "medical_specialty": "Dental",
-    "product_code": "NXC"
   }
 ]

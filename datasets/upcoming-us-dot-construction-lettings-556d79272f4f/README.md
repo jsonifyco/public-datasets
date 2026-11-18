@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-DOT lettings data from 11 state DOTs in one table: upcoming highway construction contracts with letting date, county, route and estimates, updated weekly\.
+A combined table of upcoming highway construction contracts advertised by state DOTs, with letting dates, project details and published estimates where available\. The current published table contains 178 contracts\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/upcoming-us-dot-construction-lettings-556d79272f4f?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 1
-- Last published: 2026-11-18T08:47:42.842394Z
+- Active pipeline version: 2
+- Last published: 2026-11-18T15:03:45.372798Z
 
 ## The brief
 
-> I need this data: DOT lettings data from 11 state DOTs in one table: upcoming highway construction contracts with letting date, county, route and estimates, updated weekly\.
+> I need this data: A combined table of upcoming highway construction contracts advertised by state DOTs, with letting dates, project details and published estimates where available\. The current published table contains 178 contracts\.
 
 Summary from the public dataset description.
 
 ## Upcoming DOT construction lettings / lettings
 
-178 total rows · 50 sampled · Output revision 2
-Published: 2026-11-18T08:47:42.842394Z · Producing pipeline version: 1
+178 total rows · 50 sampled · Output revision 4
+Published: 2026-11-18T15:03:45.372798Z · Producing pipeline version: 2
 
 [CSV sample](outputs/c1a683da98b9/lettings-33ae7094861a/sample.csv) · [JSON sample](outputs/c1a683da98b9/lettings-33ae7094861a/sample.json) · [Schema](outputs/c1a683da98b9/lettings-33ae7094861a/schema.json)
 
 | bid\_due\_date | contract\_id | county | description | district\_or\_region | estimate\_high | estimate\_low | first\_seen\_date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-12\-04 | STPAA\-HSIP\-0021\(591\) | WILCOX COUNTY | for constructing the Planing, Resurfacing, Centerline Scoring, and Traffic Stripe on SR\-21 from the intersection of SR\-10 to the junction of SR\-28 north of Oak Hill\. Length 5\.124 mi\. | None | 1675769 | 1371083 | 2026\-11\-18 |
-| 2026\-12\-09 | R\-45677\-A | MARION, BOONE | PAVEMENT PATCHING | Greenfield District | None | None | 2026\-11\-18 |
-| None | 10158 | Jackson, Oglala Lakota | Signing &amp; Delineation Various County, City,Tribal &amp; Township Roads in Jackson Co &amp; Oglala Lakota Co | Custer Area | None | None | 2026\-11\-18 |
-| 2026\-12\-02 | T2952 | ALACHUA | The Improvements under this Contract consist of traffic signals, highway signing, sidewalks, curb &amp; gutters, and other incidental construction at the intersection of SR 24 \(SW Archer Rd\) at SR 121 \(SW 34th St\) in Alachua County\. | 02 | None | None | 2026\-11\-18 |
-| None | NH\-FMGR\-0001\(659\) &amp; ATRP2\-48\-2025\-252 | Marshall | for constructing the Micro\-Milling, Resurfacing, Guardrail Installation, and Traffic Stripe on SR\-1 \(US\-431\) from the junction of Brashers Chapel Road northwest of Albertville to the junction of SR\-79 in Guntersville to include Intersection Improvements and Traffic Signal Upgrades at Spring Creek Drive, Webb Avenue, and Wyeth Drive\. Length 4\.520 mi\. | None | 7786923 | 6371119 | 2026\-11\-18 |
+| None | 10171 | Gregory, Tripp | Unbonded Concrete Overlay, Nonreinforced Portland Cement Concrete Shoulders with Asphalt Shoulders | None | None | None | 2026\-11\-18 |
+| None | 9973 | Jackson | Structures \(3\-12x9 CIP or Precast RCBC &amp; 4\-12x8 CIP or Precast RCBC\), Approach Grading | None | None | None | 2026\-11\-18 |
+| None | 10147 | Pennington | Grading, Asphalt Concrete Surfacing, Signing, Pavement Markings and Watermain | None | None | None | 2026\-11\-18 |
+| None | 10063 | Kingsbury | Guardrail, Bank Stabilization, Shoulder Surfacing, Rumble Strips | None | None | None | 2026\-11\-18 |
+| None | 10197 | Lawrence | Rockfall Mitigation | None | None | None | 2026\-11\-18 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -88,6 +88,7 @@ flowchart LR
 ## Version history
 
 - 2026-11-18T08:44:05.950763Z: v1: Creates a hidden upcoming DOT construction letting table with published contract identifiers, source\-backed fields and change\-only updates\.
+- 2026-11-18T14:55:38.520737Z: v2: Corrects qualifications deadlines and South Dakota descriptions, restores the missing Colorado project, and prevents Alabama call numbers from being used as contract identifiers\.
 
 ## Recorded repairs
 

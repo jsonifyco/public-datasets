@@ -9,94 +9,121 @@
     "week_date": "2025-12-01"
   },
   {
-    "area": "Los Angeles",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_Y05LA_DPG",
-    "price_usd_per_gallon": 4.407,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls",
-    "week_date": "2026-02-23"
-  },
-  {
-    "area": "Lower Atlantic (PADD 1C)",
+    "area": "Midwest (PADD 2)",
     "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R1Z_DPG",
-    "price_usd_per_gallon": 3.783,
+    "eia_series_id": "EMM_EPMR_PTE_R20_DPG",
+    "price_usd_per_gallon": 4.109,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls",
-    "week_date": "2026-08-31"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls",
+    "week_date": "2026-10-05"
   },
   {
-    "area": "New York City",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_Y35NY_DPG",
-    "price_usd_per_gallon": 4.316,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls",
-    "week_date": "2026-06-01"
-  },
-  {
-    "area": "Denver",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YDEN_DPG",
-    "price_usd_per_gallon": 2.842,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls",
-    "week_date": "2026-03-02"
-  },
-  {
-    "area": "Los Angeles",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_Y05LA_DPG",
-    "price_usd_per_gallon": 5.402,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls",
-    "week_date": "2026-08-17"
-  },
-  {
-    "area": "West Coast less California",
+    "area": "Midwest (PADD 2)",
     "area_type": "PADD region",
-    "eia_series_id": "EMD_EPD2D_PTE_R5XCA_DPG",
-    "price_usd_per_gallon": 3.97,
+    "eia_series_id": "EMD_EPD2D_PTE_R20_DPG",
+    "price_usd_per_gallon": 5.262,
     "product": "diesel",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls",
-    "week_date": "2026-02-16"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls",
+    "week_date": "2026-08-03"
   },
   {
-    "area": "Colorado",
-    "area_type": "state",
-    "eia_series_id": "EMM_EPMR_PTE_SCO_DPG",
-    "price_usd_per_gallon": 4.274,
+    "area": "New England (PADD 1A)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R1X_DPG",
+    "price_usd_per_gallon": 4.026,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCO_W.xls",
-    "week_date": "2026-10-19"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls",
+    "week_date": "2026-08-24"
+  },
+  {
+    "area": "Rocky Mountain (PADD 4)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMD_EPD2D_PTE_R40_DPG",
+    "price_usd_per_gallon": 3.246,
+    "product": "diesel",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls",
+    "week_date": "2026-01-19"
   },
   {
     "area": "Houston",
     "area_type": "city",
     "eia_series_id": "EMM_EPMR_PTE_Y44HO_DPG",
-    "price_usd_per_gallon": 3.044,
+    "price_usd_per_gallon": 3.592,
     "product": "regular gasoline",
     "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls",
-    "week_date": "2026-03-09"
+    "week_date": "2026-09-07"
   },
   {
-    "area": "Cleveland",
+    "area": "Houston",
     "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YCLE_DPG",
-    "price_usd_per_gallon": 3.773,
+    "eia_series_id": "EMM_EPMR_PTE_Y44HO_DPG",
+    "price_usd_per_gallon": 3.693,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls",
-    "week_date": "2026-04-20"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls",
+    "week_date": "2026-04-27"
   },
   {
-    "area": "Boston",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YBOS_DPG",
-    "price_usd_per_gallon": 4.341,
+    "area": "Washington",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_SWA_DPG",
+    "price_usd_per_gallon": 5.444,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls",
+    "week_date": "2026-06-08"
+  },
+  {
+    "area": "Gulf Coast (PADD 3)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R30_DPG",
+    "price_usd_per_gallon": 3.924,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls",
     "week_date": "2026-09-28"
+  },
+  {
+    "area": "Minnesota",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_SMN_DPG",
+    "price_usd_per_gallon": 2.832,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls",
+    "week_date": "2025-12-15"
+  },
+  {
+    "area": "Texas",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_STX_DPG",
+    "price_usd_per_gallon": 3.371,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls",
+    "week_date": "2026-06-22"
+  },
+  {
+    "area": "Texas",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_STX_DPG",
+    "price_usd_per_gallon": 3.874,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls",
+    "week_date": "2026-10-05"
+  },
+  {
+    "area": "Florida",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_SFL_DPG",
+    "price_usd_per_gallon": 3.667,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls",
+    "week_date": "2026-07-06"
+  },
+  {
+    "area": "Houston",
+    "area_type": "city",
+    "eia_series_id": "EMM_EPMR_PTE_Y44HO_DPG",
+    "price_usd_per_gallon": 3.557,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y44HO_W.xls",
+    "week_date": "2026-06-15"
   },
   {
     "area": "Lower Atlantic (PADD 1C)",
@@ -108,22 +135,40 @@
     "week_date": "2025-12-01"
   },
   {
-    "area": "Cleveland",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YCLE_DPG",
-    "price_usd_per_gallon": 4.048,
+    "area": "Ohio",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_SOH_DPG",
+    "price_usd_per_gallon": 3.684,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls",
-    "week_date": "2026-08-10"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls",
+    "week_date": "2026-04-20"
   },
   {
-    "area": "Denver",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YDEN_DPG",
-    "price_usd_per_gallon": 3.944,
+    "area": "California",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_SCA_DPG",
+    "price_usd_per_gallon": 5.554,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls",
-    "week_date": "2026-06-08"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls",
+    "week_date": "2026-06-15"
+  },
+  {
+    "area": "Gulf Coast (PADD 3)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R30_DPG",
+    "price_usd_per_gallon": 3.412,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls",
+    "week_date": "2026-03-16"
+  },
+  {
+    "area": "Lower Atlantic (PADD 1C)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMD_EPD2D_PTE_R1Z_DPG",
+    "price_usd_per_gallon": 3.58,
+    "product": "diesel",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls",
+    "week_date": "2025-12-15"
   },
   {
     "area": "East Coast (PADD 1)",
@@ -135,139 +180,157 @@
     "week_date": "2025-11-17"
   },
   {
-    "area": "Midwest (PADD 2)",
+    "area": "West Coast (PADD 5)",
     "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R20_DPG",
-    "price_usd_per_gallon": 3.929,
+    "eia_series_id": "EMM_EPMR_PTE_R50_DPG",
+    "price_usd_per_gallon": 4.987,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls",
-    "week_date": "2026-08-03"
-  },
-  {
-    "area": "Boston",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YBOS_DPG",
-    "price_usd_per_gallon": 4.305,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls",
-    "week_date": "2026-10-12"
-  },
-  {
-    "area": "Massachusetts",
-    "area_type": "state",
-    "eia_series_id": "EMM_EPMR_PTE_SMA_DPG",
-    "price_usd_per_gallon": 2.831,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls",
-    "week_date": "2026-01-12"
-  },
-  {
-    "area": "Midwest (PADD 2)",
-    "area_type": "PADD region",
-    "eia_series_id": "EMD_EPD2D_PTE_R20_DPG",
-    "price_usd_per_gallon": 5.196,
-    "product": "diesel",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls",
-    "week_date": "2026-07-27"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls",
+    "week_date": "2026-03-16"
   },
   {
     "area": "Lower Atlantic (PADD 1C)",
     "area_type": "PADD region",
     "eia_series_id": "EMD_EPD2D_PTE_R1Z_DPG",
-    "price_usd_per_gallon": 5.624,
+    "price_usd_per_gallon": 5.35,
     "product": "diesel",
     "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls",
-    "week_date": "2026-04-06"
-  },
-  {
-    "area": "East Coast (PADD 1)",
-    "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R10_DPG",
-    "price_usd_per_gallon": 4,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls",
-    "week_date": "2026-04-06"
-  },
-  {
-    "area": "Lower Atlantic (PADD 1C)",
-    "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R1Z_DPG",
-    "price_usd_per_gallon": 2.737,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls",
-    "week_date": "2026-02-09"
-  },
-  {
-    "area": "West Coast less California",
-    "area_type": "PADD region",
-    "eia_series_id": "EMD_EPD2D_PTE_R5XCA_DPG",
-    "price_usd_per_gallon": 6.643,
-    "product": "diesel",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls",
-    "week_date": "2026-09-28"
+    "week_date": "2026-08-24"
   },
   {
     "area": "New York",
     "area_type": "state",
     "eia_series_id": "EMM_EPMR_PTE_SNY_DPG",
-    "price_usd_per_gallon": 2.957,
+    "price_usd_per_gallon": 4.466,
     "product": "regular gasoline",
     "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SNY_W.xls",
-    "week_date": "2025-12-22"
+    "week_date": "2026-05-25"
   },
   {
-    "area": "Boston",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YBOS_DPG",
-    "price_usd_per_gallon": 4.129,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls",
-    "week_date": "2026-06-15"
-  },
-  {
-    "area": "West Coast (PADD 5)",
+    "area": "New England (PADD 1A)",
     "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R50_DPG",
-    "price_usd_per_gallon": 5.557,
+    "eia_series_id": "EMM_EPMR_PTE_R1X_DPG",
+    "price_usd_per_gallon": 2.848,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls",
-    "week_date": "2026-10-19"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls",
+    "week_date": "2026-01-05"
   },
   {
     "area": "West Coast (PADD 5)",
     "area_type": "PADD region",
     "eia_series_id": "EMD_EPD2D_PTE_R50_DPG",
-    "price_usd_per_gallon": 4.205,
+    "price_usd_per_gallon": 6.289,
     "product": "diesel",
     "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls",
-    "week_date": "2025-12-22"
+    "week_date": "2026-06-08"
   },
   {
     "area": "San Francisco",
     "area_type": "city",
     "eia_series_id": "EMM_EPMR_PTE_Y05SF_DPG",
-    "price_usd_per_gallon": 6.267,
+    "price_usd_per_gallon": 6.001,
     "product": "regular gasoline",
     "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls",
-    "week_date": "2026-09-28"
+    "week_date": "2026-10-19"
   },
   {
-    "area": "East Coast (PADD 1)",
-    "area_type": "PADD region",
-    "eia_series_id": "EMD_EPD2D_PTE_R10_DPG",
-    "price_usd_per_gallon": 4.694,
-    "product": "diesel",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls",
-    "week_date": "2026-07-06"
-  },
-  {
-    "area": "Rocky Mountain (PADD 4)",
-    "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R40_DPG",
-    "price_usd_per_gallon": 4.121,
+    "area": "Denver",
+    "area_type": "city",
+    "eia_series_id": "EMM_EPMR_PTE_YDEN_DPG",
+    "price_usd_per_gallon": 4.577,
     "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls",
-    "week_date": "2026-08-10"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls",
+    "week_date": "2026-05-25"
+  },
+  {
+    "area": "Los Angeles",
+    "area_type": "city",
+    "eia_series_id": "EMM_EPMR_PTE_Y05LA_DPG",
+    "price_usd_per_gallon": 5.929,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls",
+    "week_date": "2026-05-18"
+  },
+  {
+    "area": "New England (PADD 1A)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R1X_DPG",
+    "price_usd_per_gallon": 3.946,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls",
+    "week_date": "2026-08-17"
+  },
+  {
+    "area": "Lower Atlantic (PADD 1C)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R1Z_DPG",
+    "price_usd_per_gallon": 3.642,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls",
+    "week_date": "2026-07-13"
+  },
+  {
+    "area": "Los Angeles",
+    "area_type": "city",
+    "eia_series_id": "EMM_EPMR_PTE_Y05LA_DPG",
+    "price_usd_per_gallon": 5.647,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05LA_W.xls",
+    "week_date": "2026-04-20"
+  },
+  {
+    "area": "Midwest (PADD 2)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R20_DPG",
+    "price_usd_per_gallon": 4.386,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls",
+    "week_date": "2026-09-21"
+  },
+  {
+    "area": "U.S.",
+    "area_type": "national",
+    "eia_series_id": "EMM_EPMR_PTE_NUS_DPG",
+    "price_usd_per_gallon": 4.319,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls",
+    "week_date": "2026-09-14"
+  },
+  {
+    "area": "Massachusetts",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_SMA_DPG",
+    "price_usd_per_gallon": 4.343,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls",
+    "week_date": "2026-05-04"
+  },
+  {
+    "area": "New England (PADD 1A)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R1X_DPG",
+    "price_usd_per_gallon": 3.952,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls",
+    "week_date": "2026-06-22"
+  },
+  {
+    "area": "New York City",
+    "area_type": "city",
+    "eia_series_id": "EMM_EPMR_PTE_Y35NY_DPG",
+    "price_usd_per_gallon": 4.439,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls",
+    "week_date": "2026-05-25"
+  },
+  {
+    "area": "Central Atlantic (PADD 1B)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R1Y_DPG",
+    "price_usd_per_gallon": 2.967,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls",
+    "week_date": "2026-03-02"
   },
   {
     "area": "East Coast (PADD 1)",
@@ -279,174 +342,111 @@
     "week_date": "2025-11-10"
   },
   {
-    "area": "New York City",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_Y35NY_DPG",
-    "price_usd_per_gallon": 2.918,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y35NY_W.xls",
-    "week_date": "2025-12-08"
-  },
-  {
-    "area": "West Coast less California",
+    "area": "Rocky Mountain (PADD 4)",
     "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R5XCA_DPG",
-    "price_usd_per_gallon": 5.007,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R5XCA_W.xls",
-    "week_date": "2026-10-19"
-  },
-  {
-    "area": "East Coast (PADD 1)",
-    "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R10_DPG",
-    "price_usd_per_gallon": 3.577,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls",
-    "week_date": "2026-03-16"
-  },
-  {
-    "area": "Minnesota",
-    "area_type": "state",
-    "eia_series_id": "EMM_EPMR_PTE_SMN_DPG",
-    "price_usd_per_gallon": 3.747,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls",
-    "week_date": "2026-04-27"
-  },
-  {
-    "area": "Minnesota",
-    "area_type": "state",
-    "eia_series_id": "EMM_EPMR_PTE_SMN_DPG",
-    "price_usd_per_gallon": 4.039,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMN_W.xls",
-    "week_date": "2026-07-27"
-  },
-  {
-    "area": "West Coast (PADD 5)",
-    "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R50_DPG",
-    "price_usd_per_gallon": 4.045,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls",
-    "week_date": "2026-02-16"
-  },
-  {
-    "area": "Florida",
-    "area_type": "state",
-    "eia_series_id": "EMM_EPMR_PTE_SFL_DPG",
-    "price_usd_per_gallon": 2.787,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls",
-    "week_date": "2026-01-26"
-  },
-  {
-    "area": "Boston",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YBOS_DPG",
-    "price_usd_per_gallon": 2.915,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls",
-    "week_date": "2025-12-15"
-  },
-  {
-    "area": "U.S.",
-    "area_type": "national",
-    "eia_series_id": "EMD_EPD2D_PTE_NUS_DPG",
-    "price_usd_per_gallon": 5.257,
+    "eia_series_id": "EMD_EPD2D_PTE_R40_DPG",
+    "price_usd_per_gallon": 3.222,
     "product": "diesel",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls",
-    "week_date": "2026-08-10"
-  },
-  {
-    "area": "Texas",
-    "area_type": "state",
-    "eia_series_id": "EMM_EPMR_PTE_STX_DPG",
-    "price_usd_per_gallon": 3.888,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_STX_W.xls",
-    "week_date": "2026-05-18"
-  },
-  {
-    "area": "Boston",
-    "area_type": "city",
-    "eia_series_id": "EMM_EPMR_PTE_YBOS_DPG",
-    "price_usd_per_gallon": 4.041,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YBOS_W.xls",
-    "week_date": "2026-08-24"
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls",
+    "week_date": "2026-01-05"
   },
   {
     "area": "Ohio",
     "area_type": "state",
     "eia_series_id": "EMM_EPMR_PTE_SOH_DPG",
-    "price_usd_per_gallon": 4.18,
+    "price_usd_per_gallon": 3.799,
     "product": "regular gasoline",
     "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SOH_W.xls",
-    "week_date": "2026-08-17"
+    "week_date": "2026-07-13"
+  },
+  {
+    "area": "Cleveland",
+    "area_type": "city",
+    "eia_series_id": "EMM_EPMR_PTE_YCLE_DPG",
+    "price_usd_per_gallon": 4.213,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YCLE_W.xls",
+    "week_date": "2026-06-15"
   },
   {
     "area": "Washington",
     "area_type": "state",
     "eia_series_id": "EMM_EPMR_PTE_SWA_DPG",
-    "price_usd_per_gallon": 3.817,
+    "price_usd_per_gallon": 4.009,
     "product": "regular gasoline",
     "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SWA_W.xls",
-    "week_date": "2025-12-22"
+    "week_date": "2026-02-16"
   },
   {
-    "area": "California",
-    "area_type": "state",
-    "eia_series_id": "EMD_EPD2D_PTE_SCA_DPG",
-    "price_usd_per_gallon": 4.862,
-    "product": "diesel",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls",
-    "week_date": "2025-12-08"
-  },
-  {
-    "area": "Massachusetts",
-    "area_type": "state",
-    "eia_series_id": "EMM_EPMR_PTE_SMA_DPG",
-    "price_usd_per_gallon": 3.91,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls",
-    "week_date": "2026-04-13"
-  },
-  {
-    "area": "East Coast (PADD 1)",
+    "area": "West Coast (PADD 5)",
     "area_type": "PADD region",
-    "eia_series_id": "EMD_EPD2D_PTE_R10_DPG",
-    "price_usd_per_gallon": 5.299,
-    "product": "diesel",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R10_W.xls",
+    "eia_series_id": "EMM_EPMR_PTE_R50_DPG",
+    "price_usd_per_gallon": 5.13,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls",
     "week_date": "2026-08-03"
   },
   {
-    "area": "Massachusetts",
-    "area_type": "state",
-    "eia_series_id": "EMM_EPMR_PTE_SMA_DPG",
-    "price_usd_per_gallon": 2.809,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls",
-    "week_date": "2026-01-19"
-  },
-  {
-    "area": "New England (PADD 1A)",
+    "area": "West Coast (PADD 5)",
     "area_type": "PADD region",
-    "eia_series_id": "EMM_EPMR_PTE_R1X_DPG",
-    "price_usd_per_gallon": 4.362,
-    "product": "regular gasoline",
-    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls",
-    "week_date": "2026-06-01"
+    "eia_series_id": "EMD_EPD2D_PTE_R50_DPG",
+    "price_usd_per_gallon": 6.948,
+    "product": "diesel",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R50_W.xls",
+    "week_date": "2026-11-16"
   },
   {
     "area": "Gulf Coast (PADD 3)",
     "area_type": "PADD region",
     "eia_series_id": "EMD_EPD2D_PTE_R30_DPG",
-    "price_usd_per_gallon": 5.809,
+    "price_usd_per_gallon": 5.178,
     "product": "diesel",
     "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R30_W.xls",
-    "week_date": "2026-10-12"
+    "week_date": "2026-05-04"
+  },
+  {
+    "area": "Lower Atlantic (PADD 1C)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMD_EPD2D_PTE_R1Z_DPG",
+    "price_usd_per_gallon": 3.617,
+    "product": "diesel",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Z_W.xls",
+    "week_date": "2025-12-08"
+  },
+  {
+    "area": "Central Atlantic (PADD 1B)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMD_EPD2D_PTE_R1Y_DPG",
+    "price_usd_per_gallon": 6.051,
+    "product": "diesel",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1Y_W.xls",
+    "week_date": "2026-09-07"
+  },
+  {
+    "area": "California",
+    "area_type": "state",
+    "eia_series_id": "EMM_EPMR_PTE_SCA_DPG",
+    "price_usd_per_gallon": 6.227,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls",
+    "week_date": "2026-10-05"
+  },
+  {
+    "area": "California",
+    "area_type": "state",
+    "eia_series_id": "EMD_EPD2D_PTE_SCA_DPG",
+    "price_usd_per_gallon": 4.66,
+    "product": "diesel",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SCA_W.xls",
+    "week_date": "2025-12-29"
+  },
+  {
+    "area": "Midwest (PADD 2)",
+    "area_type": "PADD region",
+    "eia_series_id": "EMM_EPMR_PTE_R20_DPG",
+    "price_usd_per_gallon": 4.399,
+    "product": "regular gasoline",
+    "source_url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls",
+    "week_date": "2026-05-18"
   }
 ]

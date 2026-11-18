@@ -1,35 +1,35 @@
-# eBay sold listings data: Pokémon card prices dataset, refreshed daily
+# eBay sold listings data: Pokémon card prices dataset
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-eBay US sold listings for 20 popular Pokémon cards, raw and PSA 10: sold price, shipping, date, format and Best Offer flag, plus a per\-card median\. Daily\.
+eBay US sold listings for Pokémon cards, raw and PSA 10, with sold price, shipping, date, format and Best Offer flag\. Includes per\-card summaries\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ebay-us-pok-mon-sold-listings-9c1de2dcf5cc?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
-- Active pipeline version: 2
-- Last published: 2026-11-18T09:04:34.578929Z
+- Active pipeline version: 3
+- Last published: 2026-11-18T14:42:04.510561Z
 
 ## The brief
 
-> I need this data: eBay US sold listings for 20 popular Pokémon cards, raw and PSA 10: sold price, shipping, date, format and Best Offer flag, plus a per\-card median\. Daily\.
+> I need this data: eBay US sold listings for Pokémon cards, raw and PSA 10, with sold price, shipping, date, format and Best Offer flag\. Includes per\-card summaries\.
 
 Summary from the public dataset description.
 
 ## eBay Pokémon sold sales and summaries / listings
 
-2,603 total rows · 50 sampled · Output revision 4
-Published: 2026-11-18T09:04:34.578929Z · Producing pipeline version: 2
+3,478 total rows · 50 sampled · Output revision 6
+Published: 2026-11-18T14:42:04.510561Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.csv) · [JSON sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.json) · [Schema](outputs/77b8757ad9a2/listings-8a836f245cd6/schema.json)
 
-| best\_offer\_accepted | captured\_at | card | condition | currency | grade | item\_url | listing\_format |
+| best\_offer\_accepted | captured\_at | card | condition | currency | grade | image\_url | image\_urls |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | 2026\-11\-18T09:00:59\.903343\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://www\.ebay\.com/itm/227614760110](<https://www.ebay.com/itm/227614760110>) | buy it now |
-| True | 2026\-11\-18T08:34:12\.983003\+00:00 | Pikachu ex Surging Sparks SIR 238/191 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://www\.ebay\.com/itm/880080895002](<https://www.ebay.com/itm/880080895002>) | best offer accepted |
-| None | 2026\-11\-18T08:34:12\.983003\+00:00 | Leafeon VMAX Evolving Skies Alt Art 205/203 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://www\.ebay\.com/itm/327461864411](<https://www.ebay.com/itm/327461864411>) | buy it now |
-| None | 2026\-11\-18T08:34:12\.983003\+00:00 | Gengar VMAX Fusion Strike Alt Art 271/264 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://www\.ebay\.com/itm/920124407614](<https://www.ebay.com/itm/920124407614>) | auction |
-| None | 2026\-11\-18T08:34:12\.983003\+00:00 | Charizard Base Set Unlimited 4/102 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://www\.ebay\.com/itm/307269541517](<https://www.ebay.com/itm/307269541517>) | auction |
+| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/KjsAAeSwVGNq9qXS/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/KjsAAeSwVGNq9qXS/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/KjsAAeSwVGNq9qXS/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/KjsAAeSwVGNq9qXS/s-l1600.jpg>)"\] |
+| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/xroAAeSwdjVq84\-Q/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/xroAAeSwdjVq84-Q/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/xroAAeSwdjVq84\-Q/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/xroAAeSwdjVq84-Q/s-l1600.jpg>)"\] |
+| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/5xEAAeSw6OVq9ndJ/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/5xEAAeSw6OVq9ndJ/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/5xEAAeSw6OVq9ndJ/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/5xEAAeSw6OVq9ndJ/s-l1600.jpg>)"\] |
+| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/KwQAAeSwm95q9he\-/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/KwQAAeSwm95q9he-/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/KwQAAeSwm95q9he\-/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/KwQAAeSwm95q9he-/s-l1600.jpg>)"\] |
+| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/Cn4AAeSw9IJq9hZl/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/Cn4AAeSw9IJq9hZl/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/Cn4AAeSw9IJq9hZl/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/Cn4AAeSw9IJq9hZl/s-l1600.jpg>)"\] |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -43,6 +43,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | condition | text |
 | currency | text |
 | grade | text |
+| image\_url | text |
+| image\_urls | jsonb |
 | item\_url | text |
 | listing\_format | text |
 | listing\_title | text |
@@ -56,18 +58,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## eBay Pokémon sold sales and summaries / summaries
 
-60 total rows · 10 sampled · Output revision 4
-Published: 2026-11-18T09:04:34.578929Z · Producing pipeline version: 2
+80 total rows · 10 sampled · Output revision 6
+Published: 2026-11-18T14:42:04.510561Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.csv) · [JSON sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.json) · [Schema](outputs/77b8757ad9a2/summaries-c626a992e31b/schema.json)
 
 | best\_offer\_count | captured\_at | card | coverage | currency | max\_sold\_price | median\_sold\_price | min\_sold\_price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 | 2026\-11\-18T14:35:00\.474031\+00:00 | Pikachu VMAX Vivid Voltage Rainbow 188/185 \| raw | available results exhausted | USD | 265 | 139\.35 | 20 |
 | 5 | 2026\-11\-18T08:34:12\.983003\+00:00 | Giratina V Lost Origin Alt Art 186/196 \| PSA 10 | available results exhausted | USD | 3698\.51 | 3099\.995 | 449\.51 |
 | 9 | 2026\-11\-18T09:00:59\.903343\+00:00 | Venusaur ex 151 SIR 198/165 \| raw | sale limit reached | USD | 380 | 89\.99 | 11\.62 |
 | 4 | 2026\-11\-18T09:00:59\.903343\+00:00 | Sylveon VMAX Evolving Skies Alt Art 212/203 \| PSA 10 | available results exhausted | USD | 704\.88 | 598\.495 | 501\.66 |
 | 9 | 2026\-11\-18T08:34:12\.983003\+00:00 | Charizard Base Set Unlimited 4/102 \| raw | sale limit reached | USD | 1299\.99 | 298 | 40\.26 |
-| 11 | 2026\-11\-18T09:00:59\.903343\+00:00 | Espeon VMAX Fusion Strike Alt Art 270/264 \| PSA 10 | available results exhausted | USD | 842 | 605 | 537 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -125,6 +127,7 @@ flowchart LR
 
 - 2026-11-18T08:24:39.343048Z: v1: Added recent eBay US sold Pokémon capture history and per\-card price summaries for 20 searches, with filters for card identity and stated grades and clear Best Offer price labels\.
 - 2026-11-18T08:33:33.295959Z: v2: Exclude non\-card merchandise and explicitly labelled foreign\-language variants from the card\-price comparisons\.
+- 2026-11-18T14:34:51.037093Z: v3: Added source listing images to sale rows and daily captures\.
 
 ## Recorded repairs
 

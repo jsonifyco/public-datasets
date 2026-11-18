@@ -1,5 +1,24 @@
 [
   {
+    "best_offer_count": 10,
+    "captured_at": "2026-11-18T14:35:00.474031+00:00",
+    "card": "Pikachu VMAX Vivid Voltage Rainbow 188/185 | raw",
+    "coverage": "available results exhausted",
+    "currency": "USD",
+    "max_sold_price": 265,
+    "median_sold_price": 139.35,
+    "min_sold_price": 20,
+    "pages_read": 2,
+    "price_basis": "Displayed listing prices, excluding shipping; accepted Best Offer amounts may be lower. Raw condition varies.",
+    "rejected_results": 10,
+    "row_key": "2026-11-18T14:35:00.474031+00:00|Pikachu VMAX Vivid Voltage Rainbow 188/185 | raw|summary",
+    "sales_count": 45,
+    "search_query": "Pikachu VMAX 188/185 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "unknown_offer_status_count": 20,
+    "window_end": "2026-11-18",
+    "window_start": "2026-10-19"
+  },
+  {
     "best_offer_count": 5,
     "captured_at": "2026-11-18T08:34:12.983003+00:00",
     "card": "Giratina V Lost Origin Alt Art 186/196 | PSA 10",
@@ -167,25 +186,6 @@
     "sales_count": 36,
     "search_query": "Espeon VMAX 270/264 PSA 10 -proxy -jumbo -lot -Japanese",
     "unknown_offer_status_count": 12,
-    "window_end": "2026-11-18",
-    "window_start": "2026-10-19"
-  },
-  {
-    "best_offer_count": 21,
-    "captured_at": "2026-11-18T09:00:59.903343+00:00",
-    "card": "Arceus VSTAR Crown Zenith Galarian Gallery GG70/GG70 | raw",
-    "coverage": "sale limit reached",
-    "currency": "USD",
-    "max_sold_price": 185,
-    "median_sold_price": 145.445,
-    "min_sold_price": 66.05,
-    "pages_read": 2,
-    "price_basis": "Displayed listing prices, excluding shipping; accepted Best Offer amounts may be lower. Raw condition varies.",
-    "rejected_results": 6,
-    "row_key": "2026-11-18T09:00:59.903343+00:00|Arceus VSTAR Crown Zenith Galarian Gallery GG70/GG70 | raw|summary",
-    "sales_count": 50,
-    "search_query": "Arceus VSTAR GG70/GG70 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
-    "unknown_offer_status_count": 19,
     "window_end": "2026-11-18",
     "window_start": "2026-10-19"
   }

@@ -38,7 +38,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Keyword Search Results and Page Summaries](datasets/keyword-search-and-url-summaries-3630558f97ed/) | 2 | On demand | 2026-10-29T11:31:03.092480Z |
 | [UK and Irish Horse Racing Odds](datasets/uk-and-irish-horse-racing-odds-37c92430d0aa/) | 41,272 | On demand | 2026-11-09T13:21:36.157670Z |
 | [Irish Gigs and Music Festivals](datasets/ceolx-irish-gigs-and-festivals-3b8beb04ee74/) | 102 | On demand | 2026-11-09T07:20:45.484198Z |
-| [TikTok Shop US: Category Listing Sample and Official Ranking Products](datasets/tiktok-shop-best-sellers-us-3d1d206ec306/) | 305 | On demand | 2026-11-17T09:04:40.720331Z |
+| [TikTok Shop US: Category Listings and Official Ranking Products](datasets/tiktok-shop-best-sellers-us-3d1d206ec306/) | 305 | On demand | 2026-11-18T15:12:10.900463Z |
 | [Datarade Dataset Catalog](datasets/datasets-for-sale-3fb2e8b82ab2/) | 14,054 | On demand | 2026-10-31T12:08:13.007880Z |
 | [Six Senses Dubai Room Images](datasets/six-senses-dubai-room-images-420e2c20c4c8/) | 36 | On demand | 2026-11-12T10:08:59.773143Z |
 | [Workflow Automation Pricing and Changelog](datasets/workflow-automation-pricing-changelog-43016ab54052/) | 64 | On demand | 2026-10-14T12:36:28.908129Z |
@@ -50,7 +50,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Law Firm Events](datasets/law-firm-events-4c408bd04e11/) | 18 | On demand | 2026-11-18T09:09:59.590489Z |
 | [Lisbon and Porto Home Listings and Prices](datasets/habita-review-lisbon-and-porto-homes-4c9bbbd1ad17/) | 1,473 | On demand | 2026-11-09T08:11:43.911185Z |
 | [Portugal Regulatory Radar](datasets/regulatory-radar-pt-54c83384de63/) | 72 | On demand | 2026-11-09T06:12:01.246329Z |
-| [DOT Lettings: Upcoming Highway Construction Bids Across State DOTs](datasets/upcoming-us-dot-construction-lettings-556d79272f4f/) | 178 | weekly | 2026-11-18T08:47:42.842394Z |
+| [DOT Lettings: Upcoming Highway Construction Bids Across State DOTs](datasets/upcoming-us-dot-construction-lettings-556d79272f4f/) | 178 | weekly | 2026-11-18T15:03:45.372798Z |
 | [Yacht Charter Fleet Listings and Prices](datasets/yacht-charter-fleet-sample-55a14b2e14c3/) | 270 | On demand | 2026-11-10T11:15:01.714669Z |
 | [Portugal2030 Grant Notices](datasets/portugal2030-grants-59ddd491d0c8/) | 1,514 | weekly | 2026-11-16T09:06:50.331589Z |
 | [NCAA Division I Men's Basketball Advanced Stats](datasets/ncaa-division-i-men-s-basketball-advanced-stats-2026-27-5a06355b5589/) | 1,460 | daily | 2026-11-18T10:01:00.422755Z |
@@ -65,6 +65,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Meta Quest App Catalogue and Charts](datasets/meta-quest-catalogue-and-charts-64282414adae/) | 13,060 | On demand | 2026-11-08T04:48:01.869925Z |
 | [Interconnection Queue Data: CAISO, NYISO and BPA](datasets/us-generator-interconnection-queues-68fb9ee25003/) | 3,520 | weekly | 2026-11-16T10:01:01.664140Z |
 | [Google Shopping Catalog Discovery](datasets/feedance-google-shopping-catalog-discovery-68fe77c792b8/) | 150 | daily | 2026-11-18T05:05:04.396677Z |
+| [Big Tech Investor News](datasets/weekly-big-tech-investor-news-6a32209e5191/) | 20 | weekly | 2026-11-18T15:12:52.598318Z |
 | [Paris Supermarket Prices and Product Catalogue](datasets/supermarket-products-in-paris-6bb96540e5f9/) | 174,200 | On demand | 2026-11-12T21:39:00.849257Z |
 | [Louis Vuitton Neverfull Prices by Country](datasets/louis-vuitton-neverfull-prices-by-country-6bce6c1fc1cf/) | 24 | On demand | 2026-11-09T09:25:41.805200Z |
 | [INTELLIAAI YouTube Placement Sample](datasets/intelliaai-youtube-placement-sample-6cd4514c0219/) | 2,800 | On demand | 2026-11-08T05:19:30.148851Z |
@@ -88,7 +89,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Candy Crush Ads Across Meta, TikTok and Google](datasets/candy-crush-ads-across-meta-tiktok-and-google-9486d45e1a1d/) | 367 | On demand | 2026-11-17T12:40:57.744992Z |
 | [Portugal Food and Drink Venues with Photos](datasets/portugal-food-and-drink-venues-with-photos-9943f1952c47/) | 6,314 | On demand | 2026-11-12T05:07:43.947520Z |
 | [Google US Paid Search](datasets/google-us-weekly-paid-search-9accf80e8757/) | 577 | weekly | 2026-11-16T14:24:19.796937Z |
-| [eBay sold listings data: Pokémon card prices dataset, refreshed daily](datasets/ebay-us-pok-mon-sold-listings-9c1de2dcf5cc/) | 2,663 | daily | 2026-11-18T09:04:34.578929Z |
+| [eBay sold listings data: Pokémon card prices dataset](datasets/ebay-us-pok-mon-sold-listings-9c1de2dcf5cc/) | 3,558 | daily | 2026-11-18T14:42:04.510561Z |
 | [Vancouver Tee Times and Golf Course Prices](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,897 | On demand | 2026-11-02T15:13:21.865652Z |
 | [Turo Classic and Exotic Car Rentals](datasets/turo-classic-and-exotic-car-rentals-9f51f87bf45b/) | 60 | On demand | 2026-11-13T15:58:41.083512Z |
 | [EU and National Legal Acts](datasets/eu-and-national-legal-acts-a0597b835d9f/) | 300 | On demand | 2026-11-16T10:32:46.914250Z |

@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 20 event records\.
+Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-17T09:05:51.491779Z
+- Last published: 2026-11-18T09:09:59.590489Z
 
 ## The brief
 
-> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 20 event records\.
+> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-20 total rows · 10 sampled · Output revision 11
-Published: 2026-11-17T09:05:51.491779Z · Producing pipeline version: 5
+18 total rows · 10 sampled · Output revision 12
+Published: 2026-11-18T09:09:59.590489Z · Producing pipeline version: 5
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Congresso sobre os desafios e o enquadramento jurídico do setor bancário e financeiro, reunindo juristas de bancos, da academia e da advocacia\. | None | 2026\-02\-25 | I Congresso de Direito Bancário e Financeiro | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-Bancario\-e\-Financeiro/34295/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-Bancario-e-Financeiro/34295/>) | PLMJ |
-| O anúncio indica 25 de novembro; o ano de 2026 é determinado pela data de publicação\. | Conferência sobre a evolução do direito civil português e os desafios para o futuro do Código Civil, por ocasião dos seus 60 anos\. | 2026\-11\-25 | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
-| As datas referem\-se às duas sessões anunciadas; o período completo da Semana da Reabilitação Urbana não é indicado\. | A Morais Leitão coorganiza duas sessões sobre alterações ao licenciamento urbanístico e a sua aplicação no setor imobiliário e da habitação, em 2 e 3 de novembro\. | 2026\-11\-03 | 2026\-11\-02 | 14\.ª edição da Semana da Reabilitação Urbana do Porto | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-na\-14\-edicao\-da\-Semana\-da\-Reabilitacao\-Urbana\-do\-Porto/27161/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-na-14-edicao-da-Semana-da-Reabilitacao-Urbana-do-Porto/27161/>) | Morais Leitão |
-| O anúncio indica que o congresso decorre ao longo de dois dias, mas não identifica expressamente a data do segundo dia\. | Congresso de dois dias sobre o direito e a regulação das infraestruturas digitais, incluindo cabos submarinos, centros de dados, cloud e identidade digital\. | None | 2026\-10\-27 | I Congresso de Direito das Infraestruturas Digitais: Regulação e Poder | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-das\-Infraestruturas\-Digitais\-Regulacao\-e\-Poder/34662/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-das-Infraestruturas-Digitais-Regulacao-e-Poder/34662/>) | PLMJ |
-| O programa indica 21 de abril; o ano de 2026 consta da listagem oficial do evento\. | Conferência sobre os desafios estratégicos e regulatórios da cibersegurança no setor industrial português, com destaque para a Diretiva NIS2\. | 2026\-04\-21 | 2026\-04\-21 | O Futuro da Cibersegurança no Setor Industrial | 9h30 – 13h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/o\-futuro\-da\-ciberseguranca\-no\-setor\-industrial/](<https://abreuadvogados.com/conhecimento/eventos/abreu/o-futuro-da-ciberseguranca-no-setor-industrial/>) | Abreu Advogados |
+| «Ontem» refere\-se a 4 de junho de 2025, relativamente à data de publicação de 5 de junho de 2025\. | Cerimónia institucional sobre os 40 anos da assinatura do Tratado de Adesão de Espanha e Portugal, com uma conversa sobre a integração europeia e um colóquio sobre o impacto do Direito da União nos sistemas jurídicos nacionais\. | 2025\-06\-04 | 2025\-06\-04 | A Uría Menéndez assinala o 40\.º aniversário da assinatura do Tratado de Adesão de Espanha e Portugal à União Europeia | None | [https://www\.uria\.com/pt/prensa/1403\-uria\-menendez\-conmemora\-el\-40\-aniversario\-de\-la\-firma\-del\-tratado\-de\-adhesion\-de\-espana\-y\-portugal\-a\-la\-union\-europea](<https://www.uria.com/pt/prensa/1403-uria-menendez-conmemora-el-40-aniversario-de-la-firma-del-tratado-de-adhesion-de-espana-y-portugal-a-la-union-europea>) | Uría Menéndez |
+| O anúncio indica 29 de outubro; o ano de 2026 decorre da data de publicação, 22\.10\.2026\. | Apresentação da obra de Isabel Valente Dias sobre retribuição no direito laboral português, seguida de uma mesa\-redonda sobre temas centrais do livro\. | 2026\-10\-29 | 2026\-10\-29 | Apresentação da obra "A Retribuição no Ordenamento Juslaboral Português" | 17:30 | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Apresentacao\-da\-obra\-A\-Retribuicao\-no\-Ordenamento\-Juslaboral\-Portugues/27178/](<https://www.mlgts.pt/pt/conhecimento/noticias/Apresentacao-da-obra-A-Retribuicao-no-Ordenamento-Juslaboral-Portugues/27178/>) | Morais Leitão |
+| A listagem oficial indica 27 de outubro de 2026 às 09:00 como início do evento\. O anúncio refere dois dias, mas não indica expressamente a data de encerramento\. | Congresso de dois dias sobre a regulação jurídica das infraestruturas digitais, incluindo cabos submarinos, centros de dados, cloud, identidade digital e inteligência artificial\. | None | 2026\-10\-27 | I Congresso de Direito das Infraestruturas Digitais: Regulação e Poder | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-das\-Infraestruturas\-Digitais\-Regulacao\-e\-Poder/34662/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-das-Infraestruturas-Digitais-Regulacao-e-Poder/34662/>) | PLMJ |
+| O anúncio indica 02 de outubro sem ano\. O ano não pode ser confirmado apenas pelo nome do ficheiro do programa\. | Conferência da PLMJ sobre transparência salarial, diversidade e desafios para as áreas de Recursos Humanos à luz das alterações ao Código do Trabalho\. | None | None | Transparência salarial e diversidade: novos desafios RH | 09h30 | [https://www\.plmj\.com/pt/conhecimento/eventos/Transparencia\-salarial\-e\-diversidade\-novos\-desafios\-RH/34022/](<https://www.plmj.com/pt/conhecimento/eventos/Transparencia-salarial-e-diversidade-novos-desafios-RH/34022/>) | PLMJ |
+| O programa indica 15 a 24 de abril; o ano de 2026 é confirmado pela data da listagem oficial\. | Curso sobre o papel estratégico do advogado in\-house, incluindo compliance, governança, M&amp;A, ESG e resolução de litígios, com aulas online e uma sessão final presencial\. | 2026\-04\-24 | 2026\-04\-15 | 5\.ª edição Curso In\-House: Advocacia de empresa para o futuro \| Instituto de Conhecimento &amp; Future Law | 15h – 18h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/5\-a\-edicao\-curso\-in\-house\-advocacia\-de\-empresa\-para\-o\-futuro\-instituto\-de\-conhecimento\-future\-law/](<https://abreuadvogados.com/conhecimento/eventos/abreu/5-a-edicao-curso-in-house-advocacia-de-empresa-para-o-futuro-instituto-de-conhecimento-future-law/>) | Abreu Advogados |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

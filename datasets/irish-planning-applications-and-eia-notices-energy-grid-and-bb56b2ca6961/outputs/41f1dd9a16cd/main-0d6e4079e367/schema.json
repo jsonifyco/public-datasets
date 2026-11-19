@@ -1,0 +1,90 @@
+[
+  {
+    "name": "applicant",
+    "type": "text"
+  },
+  {
+    "name": "applicant_licence_note",
+    "type": "text"
+  },
+  {
+    "name": "applicant_source",
+    "type": "text"
+  },
+  {
+    "name": "authority",
+    "type": "text"
+  },
+  {
+    "name": "authority_reference",
+    "type": "text"
+  },
+  {
+    "name": "captured_date",
+    "type": "text"
+  },
+  {
+    "name": "decision",
+    "type": "text"
+  },
+  {
+    "name": "decision_date",
+    "type": "text"
+  },
+  {
+    "name": "decision_due_date",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "grant_date",
+    "type": "text"
+  },
+  {
+    "name": "location",
+    "type": "text"
+  },
+  {
+    "name": "notes",
+    "type": "text"
+  },
+  {
+    "name": "received_date",
+    "type": "text"
+  },
+  {
+    "name": "record_type",
+    "type": "text"
+  },
+  {
+    "name": "reference",
+    "type": "text"
+  },
+  {
+    "name": "sector",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_updated_date",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "uploaded_date",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

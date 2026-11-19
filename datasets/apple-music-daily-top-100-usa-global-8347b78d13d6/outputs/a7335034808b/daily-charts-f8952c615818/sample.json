@@ -20,6 +20,26 @@
     "song_title": "Stop The Wedding!"
   },
   {
+    "apple_music_song_id": null,
+    "apple_music_song_url": null,
+    "artist": "Don Toliver",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 56,
+    "snapshot_key": "Global:2026-11-19:56",
+    "song_title": "E85"
+  },
+  {
+    "apple_music_song_id": "1802103970",
+    "apple_music_song_url": "https://music.apple.com/us/song/im-the-problem/1802103970",
+    "artist": "Morgan Wallen",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 62,
+    "snapshot_key": "Global:2026-11-19:62",
+    "song_title": "I'm The Problem"
+  },
+  {
     "apple_music_song_id": "269573364",
     "apple_music_song_url": "https://music.apple.com/us/song/billie-jean/269573364",
     "artist": "Michael Jackson",
@@ -28,6 +48,16 @@
     "position": 100,
     "snapshot_key": "Global:2026-11-18:100",
     "song_title": "Billie Jean"
+  },
+  {
+    "apple_music_song_id": "1440841382",
+    "apple_music_song_url": "https://music.apple.com/us/song/controlla/1440841382",
+    "artist": "Drake",
+    "chart": "USA",
+    "chart_date": "2026-11-19",
+    "position": 96,
+    "snapshot_key": "USA:2026-11-19:96",
+    "song_title": "Controlla"
   },
   {
     "apple_music_song_id": "1802104400",
@@ -70,6 +100,16 @@
     "song_title": "Brand New"
   },
   {
+    "apple_music_song_id": "1621119447",
+    "apple_music_song_url": "https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447",
+    "artist": "Future",
+    "chart": "USA",
+    "chart_date": "2026-11-19",
+    "position": 16,
+    "snapshot_key": "USA:2026-11-19:16",
+    "song_title": "WAIT FOR U (feat. Drake & Tems)"
+  },
+  {
     "apple_music_song_id": "1239976610",
     "apple_music_song_url": "https://music.apple.com/us/song/broken-clocks/1239976610",
     "artist": "SZA",
@@ -78,6 +118,16 @@
     "position": 79,
     "snapshot_key": "Global:2026-11-18:79",
     "song_title": "Broken Clocks"
+  },
+  {
+    "apple_music_song_id": "6818209990",
+    "apple_music_song_url": "https://music.apple.com/us/song/quebec/6818209990",
+    "artist": "Drake",
+    "chart": "USA",
+    "chart_date": "2026-11-19",
+    "position": 35,
+    "snapshot_key": "USA:2026-11-19:35",
+    "song_title": "Quebec"
   },
   {
     "apple_music_song_id": "1440661545",
@@ -138,6 +188,36 @@
     "position": 88,
     "snapshot_key": "Global:2026-11-17:88",
     "song_title": "Perfect"
+  },
+  {
+    "apple_music_song_id": "267537169",
+    "apple_music_song_url": "https://music.apple.com/us/song/iris/267537169",
+    "artist": "The Goo Goo Dolls",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 93,
+    "snapshot_key": "Global:2026-11-19:93",
+    "song_title": "Iris"
+  },
+  {
+    "apple_music_song_id": "1440871420",
+    "apple_music_song_url": "https://music.apple.com/us/song/starboy-feat-daft-punk/1440871420",
+    "artist": "The Weeknd",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 99,
+    "snapshot_key": "Global:2026-11-19:99",
+    "song_title": "Starboy (feat. Daft Punk)"
+  },
+  {
+    "apple_music_song_id": "1584281787",
+    "apple_music_song_url": "https://music.apple.com/us/song/knife-talk-feat-21-savage-project-pat/1584281787",
+    "artist": "Drake",
+    "chart": "USA",
+    "chart_date": "2026-11-19",
+    "position": 48,
+    "snapshot_key": "USA:2026-11-19:48",
+    "song_title": "Knife Talk (feat. 21 Savage & Project Pat)"
   },
   {
     "apple_music_song_id": "6818209990",
@@ -250,6 +330,16 @@
     "song_title": "Not Like Us"
   },
   {
+    "apple_music_song_id": "720861445",
+    "apple_music_song_url": "https://music.apple.com/us/song/underneath-the-tree/720861445",
+    "artist": "Kelly Clarkson",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 32,
+    "snapshot_key": "Global:2026-11-19:32",
+    "song_title": "Underneath the Tree"
+  },
+  {
     "apple_music_song_id": "6834158434",
     "apple_music_song_url": "https://music.apple.com/us/song/party-with-the-boys/6834158434",
     "artist": "Don Toliver",
@@ -310,6 +400,16 @@
     "song_title": "Janice STFU"
   },
   {
+    "apple_music_song_id": "202117984",
+    "apple_music_song_url": "https://music.apple.com/us/song/last-christmas-single-version/202117984",
+    "artist": "Wham!",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 40,
+    "snapshot_key": "Global:2026-11-19:40",
+    "song_title": "Last Christmas (Single Version)"
+  },
+  {
     "apple_music_song_id": "6822497774",
     "apple_music_song_url": "https://music.apple.com/us/song/housewife/6822497774",
     "artist": "Tate McRae",
@@ -318,6 +418,16 @@
     "position": 3,
     "snapshot_key": "USA:2026-11-18:3",
     "song_title": "Housewife"
+  },
+  {
+    "apple_music_song_id": "1621207921",
+    "apple_music_song_url": "https://music.apple.com/us/song/frozen/1621207921",
+    "artist": "Lil Baby",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 78,
+    "snapshot_key": "Global:2026-11-19:78",
+    "song_title": "Frozen"
   },
   {
     "apple_music_song_id": "6769568596",
@@ -330,6 +440,46 @@
     "song_title": "Janice STFU"
   },
   {
+    "apple_music_song_id": "6818511627",
+    "apple_music_song_url": "https://music.apple.com/us/song/youre-under-arrest/6818511627",
+    "artist": "ILLIT",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 10,
+    "snapshot_key": "Global:2026-11-19:10",
+    "song_title": "You’re Under Arrest"
+  },
+  {
+    "apple_music_song_id": "6822944296",
+    "apple_music_song_url": "https://music.apple.com/us/song/lies-feat-lana-del-rey/6822944296",
+    "artist": "Zach Bryan , Lana Del Rey",
+    "chart": "USA",
+    "chart_date": "2026-11-19",
+    "position": 12,
+    "snapshot_key": "USA:2026-11-19:12",
+    "song_title": "Lies (feat. Lana Del Rey)"
+  },
+  {
+    "apple_music_song_id": "6810716062",
+    "apple_music_song_url": "https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062",
+    "artist": "Jhené Aiko",
+    "chart": "Global",
+    "chart_date": "2026-11-19",
+    "position": 52,
+    "snapshot_key": "Global:2026-11-19:52",
+    "song_title": "So Good (feat. Kendrick Lamar)"
+  },
+  {
+    "apple_music_song_id": "1817609509",
+    "apple_music_song_url": "https://music.apple.com/us/song/man-i-need/1817609509",
+    "artist": "Olivia Dean",
+    "chart": "USA",
+    "chart_date": "2026-11-19",
+    "position": 49,
+    "snapshot_key": "USA:2026-11-19:49",
+    "song_title": "Man I Need"
+  },
+  {
     "apple_music_song_id": "1137966332",
     "apple_music_song_url": "https://music.apple.com/us/song/cinderella-feat-ty-dolla-%24ign/1137966332",
     "artist": "Mac Miller",
@@ -340,163 +490,13 @@
     "song_title": "Cinderella (feat. Ty Dolla $ign)"
   },
   {
-    "apple_music_song_id": "1818425528",
-    "apple_music_song_url": "https://music.apple.com/us/song/thinkin-bout-me/1818425528",
-    "artist": "Morgan Wallen",
-    "chart": "USA",
-    "chart_date": "2026-11-17",
-    "position": 57,
-    "snapshot_key": "USA:2026-11-17:57",
-    "song_title": "Thinkin’ Bout Me"
-  },
-  {
-    "apple_music_song_id": "1841769602",
-    "apple_music_song_url": "https://music.apple.com/us/song/die-on-this-hill/1841769602",
-    "artist": "SIENNA SPIRO",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 55,
-    "snapshot_key": "Global:2026-11-18:55",
-    "song_title": "Die On This Hill"
-  },
-  {
-    "apple_music_song_id": "1817609509",
-    "apple_music_song_url": "https://music.apple.com/us/song/man-i-need/1817609509",
-    "artist": "Olivia Dean",
-    "chart": "USA",
-    "chart_date": "2026-11-18",
-    "position": 48,
-    "snapshot_key": "USA:2026-11-18:48",
-    "song_title": "Man I Need"
-  },
-  {
-    "apple_music_song_id": "1266332375",
-    "apple_music_song_url": "https://music.apple.com/us/song/untouchable/1266332375",
-    "artist": "YoungBoy Never Broke Again",
-    "chart": "USA",
-    "chart_date": "2026-11-18",
-    "position": 96,
-    "snapshot_key": "USA:2026-11-18:96",
-    "song_title": "Untouchable"
-  },
-  {
-    "apple_music_song_id": "1097862231",
-    "apple_music_song_url": "https://music.apple.com/us/song/creep/1097862231",
-    "artist": "Radiohead",
-    "chart": "Global",
-    "chart_date": "2026-11-17",
-    "position": 91,
-    "snapshot_key": "Global:2026-11-17:91",
-    "song_title": "Creep"
-  },
-  {
-    "apple_music_song_id": "6818511627",
-    "apple_music_song_url": "https://music.apple.com/us/song/youre-under-arrest/6818511627",
-    "artist": "ILLIT",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 9,
-    "snapshot_key": "Global:2026-11-18:9",
-    "song_title": "You’re Under Arrest"
-  },
-  {
-    "apple_music_song_id": "1481606158",
-    "apple_music_song_url": "https://music.apple.com/us/song/body/1481606158",
-    "artist": "Summer Walker",
-    "chart": "USA",
-    "chart_date": "2026-11-18",
-    "position": 86,
-    "snapshot_key": "USA:2026-11-18:86",
-    "song_title": "Body"
-  },
-  {
-    "apple_music_song_id": "1534816484",
-    "apple_music_song_url": "https://music.apple.com/us/song/sum-2-prove/1534816484",
-    "artist": "Lil Baby",
-    "chart": "USA",
-    "chart_date": "2026-11-17",
-    "position": 36,
-    "snapshot_key": "USA:2026-11-17:36",
-    "song_title": "Sum 2 Prove"
-  },
-  {
-    "apple_music_song_id": "1545270163",
-    "apple_music_song_url": "https://music.apple.com/us/song/into-you/1545270163",
-    "artist": "Ariana Grande",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 57,
-    "snapshot_key": "Global:2026-11-18:57",
-    "song_title": "Into You"
-  },
-  {
-    "apple_music_song_id": "1560735548",
-    "apple_music_song_url": "https://music.apple.com/us/song/deja-vu/1560735548",
-    "artist": "Olivia Rodrigo",
-    "chart": "Global",
-    "chart_date": "2026-11-17",
-    "position": 41,
-    "snapshot_key": "Global:2026-11-17:41",
-    "song_title": "deja vu"
-  },
-  {
-    "apple_music_song_id": "1621119447",
-    "apple_music_song_url": "https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447",
+    "apple_music_song_id": "1621803969",
+    "apple_music_song_url": "https://music.apple.com/us/song/like-me-feat-42-dugg-lil-baby/1621803969",
     "artist": "Future",
     "chart": "USA",
-    "chart_date": "2026-11-17",
-    "position": 17,
-    "snapshot_key": "USA:2026-11-17:17",
-    "song_title": "WAIT FOR U (feat. Drake & Tems)"
-  },
-  {
-    "apple_music_song_id": "6812477298",
-    "apple_music_song_url": "https://music.apple.com/us/song/suzuki/6812477298",
-    "artist": "Fuerza Regida",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 45,
-    "snapshot_key": "Global:2026-11-18:45",
-    "song_title": "Suzuki"
-  },
-  {
-    "apple_music_song_id": "1534816484",
-    "apple_music_song_url": "https://music.apple.com/us/song/sum-2-prove/1534816484",
-    "artist": "Lil Baby",
-    "chart": "USA",
-    "chart_date": "2026-11-18",
-    "position": 33,
-    "snapshot_key": "USA:2026-11-18:33",
-    "song_title": "Sum 2 Prove"
-  },
-  {
-    "apple_music_song_id": "1440899467",
-    "apple_music_song_url": "https://music.apple.com/us/song/ocean-eyes/1440899467",
-    "artist": "Billie Eilish",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 76,
-    "snapshot_key": "Global:2026-11-18:76",
-    "song_title": "ocean eyes"
-  },
-  {
-    "apple_music_song_id": "1440827492",
-    "apple_music_song_url": "https://music.apple.com/us/song/tennessee-whiskey/1440827492",
-    "artist": "Chris Stapleton",
-    "chart": "USA",
-    "chart_date": "2026-11-17",
-    "position": 89,
-    "snapshot_key": "USA:2026-11-17:89",
-    "song_title": "Tennessee Whiskey"
-  },
-  {
-    "apple_music_song_id": "6792676860",
-    "apple_music_song_url": "https://music.apple.com/us/song/been-by-now/6792676860",
-    "artist": "Morgan Wallen",
-    "chart": "Global",
-    "chart_date": "2026-11-17",
-    "position": 14,
-    "snapshot_key": "Global:2026-11-17:14",
-    "song_title": "Been By Now"
+    "chart_date": "2026-11-19",
+    "position": 19,
+    "snapshot_key": "USA:2026-11-19:19",
+    "song_title": "LIKE ME (feat. 42 Dugg & Lil Baby)"
   }
 ]

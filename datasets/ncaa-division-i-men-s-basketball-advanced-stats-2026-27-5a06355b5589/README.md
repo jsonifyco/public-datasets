@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-NCAA Division I men's basketball advanced stats with team records, adjusted efficiencies, tempo, Barthag, four factors and three\-point metrics\. Published dataset: 1,460 rows\.
+NCAA Division I men's basketball advanced stats with team records, adjusted efficiencies, tempo, Barthag, four factors and three\-point metrics\. Published dataset: 1,825 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ncaa-division-i-men-s-basketball-advanced-stats-2026-27-5a06355b5589?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-18T10:01:00.422755Z
+- Last published: 2026-11-19T10:05:13.948709Z
 
 ## The brief
 
-> I need this data: NCAA Division I men's basketball advanced stats with team records, adjusted efficiencies, tempo, Barthag, four factors and three\-point metrics\. Published dataset: 1,460 rows\.
+> I need this data: NCAA Division I men's basketball advanced stats with team records, adjusted efficiencies, tempo, Barthag, four factors and three\-point metrics\. Published dataset: 1,825 rows\.
 
 Summary from the public dataset description.
 
 ## NCAA Division I Men's Basketball Advanced Stats 2026–27 / team\_captures
 
-1,460 total rows · 50 sampled · Output revision 4
-Published: 2026-11-18T10:01:00.422755Z · Producing pipeline version: 1
+1,825 total rows · 50 sampled · Output revision 5
+Published: 2026-11-19T10:05:13.948709Z · Producing pipeline version: 1
 
 [CSV sample](outputs/3c02706620bf/team-captures-b62e049933b3/sample.csv) · [JSON sample](outputs/3c02706620bf/team-captures-b62e049933b3/sample.json) · [Schema](outputs/3c02706620bf/team-captures-b62e049933b3/schema.json)
 

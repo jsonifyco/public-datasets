@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 5,405 rows\.
+Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 5,699 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 9
-- Last published: 2026-11-18T06:01:09.295134Z
+- Last published: 2026-11-19T06:00:22.001664Z
 
 ## The brief
 
-> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 5,405 rows\.
+> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 5,699 rows\.
 
 Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-5,405 total rows · 50 sampled · Output revision 28
-Published: 2026-11-18T06:01:09.295134Z · Producing pipeline version: 9
+5,699 total rows · 50 sampled · Output revision 29
+Published: 2026-11-19T06:00:22.001664Z · Producing pipeline version: 9
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| H100 | H100 PCIe | Pods on\-demand | Global | Global | on\_demand | No fixed term | 2\.89 |
-| H200 | H200 NVL | Marketplace offer 58145600 | Texas, US | US | on\_demand | No fixed term | 8\.43511111111111 |
-| H100 | NVIDIA HGX H100 | NVIDIA HGX H100 | North America | Regional | spot | Interruptible, no fixed term | 19\.71 |
+| A100 | A100 SXM4 | Marketplace offer 21050984 | Sweden, SE | SE | on\_demand | No fixed term | 1\.1361481481481481 |
 | A100 | Nvidia A100 | a2\-highgpu\-4g | Provider list \(region unspecified\) | Global | commitment | 1 year | 9\.25682816 |
-| H100 | H100 NVL | Standard\_NC40ads\_H100\_v5 | uksouth | UK | low\_priority | Interruptible, no fixed term | 1\.745 |
+| L40S | NVIDIA L40S | NVIDIA L40S | North America | Regional | on\_demand | No fixed term | 18 |
+| B200 | NVIDIA HGX B200 | GPU cluster | Global | Global | spot | Interruptible, no fixed term | 4\.09 |
+| H100 | NVIDIA H100 | 1\-Click Cluster | Global | Global | commitment | 2 weeks – 1 year | 5\.54 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

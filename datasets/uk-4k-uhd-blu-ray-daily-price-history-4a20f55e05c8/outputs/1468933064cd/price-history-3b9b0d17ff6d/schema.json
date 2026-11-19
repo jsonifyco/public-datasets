@@ -1,0 +1,62 @@
+[
+  {
+    "name": "advertised_discount_pct",
+    "type": "integer"
+  },
+  {
+    "name": "advertised_offer",
+    "type": "text"
+  },
+  {
+    "name": "capture_date",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "edition_note",
+    "type": "text"
+  },
+  {
+    "name": "format",
+    "type": "text"
+  },
+  {
+    "name": "in_stock",
+    "type": "boolean"
+  },
+  {
+    "name": "observation_key",
+    "type": "text"
+  },
+  {
+    "name": "price_gbp",
+    "type": "double precision"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "integer"
+  },
+  {
+    "name": "store",
+    "type": "text"
+  },
+  {
+    "name": "store_product_id",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "was_rrp_gbp",
+    "type": "double precision"
+  }
+]

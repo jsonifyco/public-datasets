@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-eBay US sold listings for Pokémon cards, raw and PSA 10, with sold price, shipping, date, format and Best Offer flag\. Includes per\-card summaries\.
+eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes listing and per\-card summary tables\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ebay-us-pok-mon-sold-listings-9c1de2dcf5cc?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-18T14:42:04.510561Z
+- Last published: 2026-11-19T09:04:09.835911Z
 
 ## The brief
 
-> I need this data: eBay US sold listings for Pokémon cards, raw and PSA 10, with sold price, shipping, date, format and Best Offer flag\. Includes per\-card summaries\.
+> I need this data: eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes listing and per\-card summary tables\.
 
 Summary from the public dataset description.
 
 ## eBay Pokémon sold sales and summaries / listings
 
-3,478 total rows · 50 sampled · Output revision 6
-Published: 2026-11-18T14:42:04.510561Z · Producing pipeline version: Unknown
+4,354 total rows · 50 sampled · Output revision 7
+Published: 2026-11-19T09:04:09.835911Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.csv) · [JSON sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.json) · [Schema](outputs/77b8757ad9a2/listings-8a836f245cd6/schema.json)
 
 | best\_offer\_accepted | captured\_at | card | condition | currency | grade | image\_url | image\_urls |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/KjsAAeSwVGNq9qXS/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/KjsAAeSwVGNq9qXS/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/KjsAAeSwVGNq9qXS/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/KjsAAeSwVGNq9qXS/s-l1600.jpg>)"\] |
-| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/xroAAeSwdjVq84\-Q/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/xroAAeSwdjVq84-Q/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/xroAAeSwdjVq84\-Q/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/xroAAeSwdjVq84-Q/s-l1600.jpg>)"\] |
-| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/5xEAAeSw6OVq9ndJ/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/5xEAAeSw6OVq9ndJ/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/5xEAAeSw6OVq9ndJ/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/5xEAAeSw6OVq9ndJ/s-l1600.jpg>)"\] |
-| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/KwQAAeSwm95q9he\-/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/KwQAAeSwm95q9he-/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/KwQAAeSwm95q9he\-/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/KwQAAeSwm95q9he-/s-l1600.jpg>)"\] |
-| None | 2026\-11\-18T14:35:00\.474031\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/Cn4AAeSw9IJq9hZl/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/Cn4AAeSw9IJq9hZl/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/Cn4AAeSw9IJq9hZl/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/Cn4AAeSw9IJq9hZl/s-l1600.jpg>)"\] |
+| None | 2026\-11\-19T09:00:14\.653814\+00:00 | Glaceon VMAX Evolving Skies Alt Art 209/203 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/9SMAAeSwuRRq6LnG/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/9SMAAeSwuRRq6LnG/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/9SMAAeSwuRRq6LnG/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/9SMAAeSwuRRq6LnG/s-l1600.jpg>)"\] |
+| True | 2026\-11\-19T09:00:14\.653814\+00:00 | Giratina V Lost Origin Alt Art 186/196 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/MtcAAeSwiCJqmaAV/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/MtcAAeSwiCJqmaAV/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/MtcAAeSwiCJqmaAV/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/MtcAAeSwiCJqmaAV/s-l1600.jpg>)"\] |
+| None | 2026\-11\-19T09:00:14\.653814\+00:00 | Pikachu ex Surging Sparks SIR 238/191 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/MGAAAeSwdK5q4UpW/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/MGAAAeSwdK5q4UpW/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/MGAAAeSwdK5q4UpW/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/MGAAAeSwdK5q4UpW/s-l1600.jpg>)"\] |
+| None | 2026\-11\-19T09:00:14\.653814\+00:00 | Arceus VSTAR Crown Zenith Galarian Gallery GG70/GG70 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/smYAAeSwtIRq8WVT/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/smYAAeSwtIRq8WVT/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/smYAAeSwtIRq8WVT/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/smYAAeSwtIRq8WVT/s-l1600.jpg>)"\] |
+| True | 2026\-11\-19T09:00:14\.653814\+00:00 | Magikarp Paldea Evolved Illustration Rare 203/193 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/8pUAAeSwsaFq\-wcq/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/8pUAAeSwsaFq-wcq/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/8pUAAeSwsaFq\-wcq/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/8pUAAeSwsaFq-wcq/s-l1600.jpg>)"\] |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -58,8 +58,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## eBay Pokémon sold sales and summaries / summaries
 
-80 total rows · 10 sampled · Output revision 6
-Published: 2026-11-18T14:42:04.510561Z · Producing pipeline version: Unknown
+100 total rows · 10 sampled · Output revision 7
+Published: 2026-11-19T09:04:09.835911Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.csv) · [JSON sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.json) · [Schema](outputs/77b8757ad9a2/summaries-c626a992e31b/schema.json)
 

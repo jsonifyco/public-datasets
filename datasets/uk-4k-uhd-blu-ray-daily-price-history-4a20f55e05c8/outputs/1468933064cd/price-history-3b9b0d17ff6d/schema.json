@@ -1,7 +1,7 @@
 [
   {
     "name": "advertised_discount_pct",
-    "type": "integer"
+    "type": "double precision"
   },
   {
     "name": "advertised_offer",

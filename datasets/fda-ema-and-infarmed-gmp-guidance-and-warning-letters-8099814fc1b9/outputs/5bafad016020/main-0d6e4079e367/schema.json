@@ -1,0 +1,110 @@
+[
+  {
+    "name": "agency",
+    "type": "text"
+  },
+  {
+    "name": "captured_at",
+    "type": "text"
+  },
+  {
+    "name": "captured_date",
+    "type": "text"
+  },
+  {
+    "name": "change_basis",
+    "type": "text"
+  },
+  {
+    "name": "change_type",
+    "type": "text"
+  },
+  {
+    "name": "company",
+    "type": "text"
+  },
+  {
+    "name": "content_hash",
+    "type": "text"
+  },
+  {
+    "name": "content_hash_basis",
+    "type": "text"
+  },
+  {
+    "name": "date",
+    "type": "text"
+  },
+  {
+    "name": "date_basis",
+    "type": "text"
+  },
+  {
+    "name": "document_id",
+    "type": "text"
+  },
+  {
+    "name": "document_key",
+    "type": "text"
+  },
+  {
+    "name": "document_pdf_url",
+    "type": "text"
+  },
+  {
+    "name": "document_type",
+    "type": "text"
+  },
+  {
+    "name": "first_seen_at",
+    "type": "text"
+  },
+  {
+    "name": "issuing_office",
+    "type": "text"
+  },
+  {
+    "name": "last_modified_date",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "product_area",
+    "type": "text"
+  },
+  {
+    "name": "publication_date",
+    "type": "text"
+  },
+  {
+    "name": "revision_number",
+    "type": "text"
+  },
+  {
+    "name": "source_date_notes",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "summary_or_violation_category",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "unavailable_document",
+    "type": "boolean"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  }
+]

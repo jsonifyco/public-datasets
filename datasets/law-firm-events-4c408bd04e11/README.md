@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 19 event records\.
+Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-19T09:06:52.406893Z
+- Last published: 2026-11-20T09:06:37.146145Z
 
 ## The brief
 
-> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 19 event records\.
+> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-19 total rows · 10 sampled · Output revision 13
-Published: 2026-11-19T09:06:52.406893Z · Producing pipeline version: 5
+18 total rows · 10 sampled · Output revision 14
+Published: 2026-11-20T09:06:37.146145Z · Producing pipeline version: 5
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| O programa indica 15 a 24 de abril; o ano de 2026 é confirmado pela data da listagem oficial\. | Curso de 19 horas sobre o papel estratégico do advogado in\-house, incluindo compliance, M&amp;A, ESG, tecnologia e resolução de litígios\. As aulas são online, com uma última sessão presencial para entrega de certificados\. | 2026\-04\-24 | 2026\-04\-15 | 5\.ª edição Curso In\-House: Advocacia de empresa para o futuro \| Instituto de Conhecimento &amp; Future Law | 15h – 18h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/5\-a\-edicao\-curso\-in\-house\-advocacia\-de\-empresa\-para\-o\-futuro\-instituto\-de\-conhecimento\-future\-law/](<https://abreuadvogados.com/conhecimento/eventos/abreu/5-a-edicao-curso-in-house-advocacia-de-empresa-para-o-futuro-instituto-de-conhecimento-future-law/>) | Abreu Advogados |
-| O anúncio indica 02 de outubro sem ano\. O ano não pode ser confirmado apenas pelo nome do ficheiro do programa\. | Conferência da PLMJ sobre transparência salarial, diversidade e desafios para as áreas de Recursos Humanos à luz das alterações ao Código do Trabalho\. | None | None | Transparência salarial e diversidade: novos desafios RH | 09h30 | [https://www\.plmj\.com/pt/conhecimento/eventos/Transparencia\-salarial\-e\-diversidade\-novos\-desafios\-RH/34022/](<https://www.plmj.com/pt/conhecimento/eventos/Transparencia-salarial-e-diversidade-novos-desafios-RH/34022/>) | PLMJ |
-| The announcement gives 26 May without a year; the dated official listing establishes 2026\. | An event in Lisbon on digital sovereignty, financial infrastructure and distributed governance, including a session on the taxation and regulation of cryptoassets in Portugal\. | 2026\-05\-26 | 2026\-05\-26 | Digital Self\-Sovereign State of Portugal | 16h00–19h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/digital\-self\-sovereign\-state\-of\-portugal/](<https://abreuadvogados.com/conhecimento/eventos/abreu/digital-self-sovereign-state-of-portugal/>) | Abreu Advogados |
-| None | Encontro sobre os desafios e oportunidades do Open Insurance para o setor segurador português e europeu, incluindo proteção do consumidor e o impacto do quadro regulatório FIDA\. | 2026\-07\-03 | 2026\-07\-03 | Open Insurance, Primado do Cliente: Oportunidades, Desafios e Testemunhos Internacionais | 09h15–12h45 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/open\-insurance\-primado\-do\-cliente\-oportunidades\-desafios\-e\-testemunhos\-internacionai/](<https://abreuadvogados.com/conhecimento/eventos/abreu/open-insurance-primado-do-cliente-oportunidades-desafios-e-testemunhos-internacionai/>) | Abreu Advogados |
-| O ano de 2026 é determinado pela data de publicação de 22\.10\.2026; o anúncio indica 29 de outubro para a sessão\. | Apresentação da obra de Isabel Valente Dias sobre a retribuição no ordenamento juslaboral português, seguida de uma mesa\-redonda sobre temas centrais do livro\. | None | 2026\-10\-29 | Apresentação da obra "A Retribuição no Ordenamento Juslaboral Português" | 17h30 | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Apresentacao\-da\-obra\-A\-Retribuicao\-no\-Ordenamento\-Juslaboral\-Portugues/27178/](<https://www.mlgts.pt/pt/conhecimento/noticias/Apresentacao-da-obra-A-Retribuicao-no-Ordenamento-Juslaboral-Portugues/27178/>) | Morais Leitão |
+| O ano de 25 de novembro é 2026, conforme a data de publicação de 26\.10\.2026\. | Conferência sobre a evolução do direito civil português e o futuro do Código Civil, por ocasião dos seus 60 anos\. | 2026\-11\-25 | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
+| None | Formação presencial sobre prevenção do branqueamento de capitais e do financiamento do terrorismo no setor imobiliário, incluindo deveres legais, orientações do IMPIC, procedimentos de compliance e regime sancionatório\. | 2026\-10\-27 | 2026\-10\-27 | Morais Leitão participa em formação da APPII Academy sobre prevenção de BC/FT no setor imobiliário | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-em\-formacao\-da\-APPII\-Academy\-sobre\-prevencao\-de\-BCFT\-no\-setor\-imobiliario/27179/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-em-formacao-da-APPII-Academy-sobre-prevencao-de-BCFT-no-setor-imobiliario/27179/>) | Morais Leitão |
+| O ano de 2026 é indicado na listagem oficial; o programa indica 18 de maio\. | Conferência sobre o PTRR, incluindo prioridades públicas, financiamento, desafios jurídicos na execução de projetos e riscos de implementação\. | 2026\-05\-18 | 2026\-05\-18 | PTRR: Um novo ciclo de investimento | 14h30 – 16h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/ptrr\-um\-novo\-ciclo\-de\-investimento/](<https://abreuadvogados.com/conhecimento/eventos/abreu/ptrr-um-novo-ciclo-de-investimento/>) | Abreu Advogados |
+| The event year is resolved from the dated official listing\. | An online foundation capacity\-building session on compliance, transparency, trust and impact in the foundations sector\. | 2026\-10\-28 | 2026\-10\-28 | Foundation Compliance – Transparency, Trust and Impact in the Foundations Sector | 10\.00 am to 11\.30 am | [https://www\.vda\.pt/en/media/events/foundation\-compliance\-transparency\-trust\-and\-impact\-in\-the\-foundations\-sector/28870/](<https://www.vda.pt/en/media/events/foundation-compliance-transparency-trust-and-impact-in-the-foundations-sector/28870/>) | VdA |
+| As datas referem\-se às duas sessões anunciadas, não necessariamente à duração integral da Semana da Reabilitação Urbana\. | A Morais Leitão coorganiza duas sessões sobre alterações ao licenciamento urbanístico e a sua aplicação no setor imobiliário e da habitação, nos dias 2 e 3 de novembro\. | 2026\-11\-03 | 2026\-11\-02 | 14\.ª edição da Semana da Reabilitação Urbana do Porto | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-na\-14\-edicao\-da\-Semana\-da\-Reabilitacao\-Urbana\-do\-Porto/27161/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-na-14-edicao-da-Semana-da-Reabilitacao-Urbana-do-Porto/27161/>) | Morais Leitão |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

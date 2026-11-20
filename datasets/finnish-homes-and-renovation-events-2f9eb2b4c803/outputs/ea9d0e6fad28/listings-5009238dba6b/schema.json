@@ -1,0 +1,226 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "asking_price_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "asking_price_eur_status",
+    "type": "text"
+  },
+  {
+    "name": "building_construction_year",
+    "type": "bigint"
+  },
+  {
+    "name": "building_type",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "completed_renovations_text",
+    "type": "text"
+  },
+  {
+    "name": "condition_rating",
+    "type": "text"
+  },
+  {
+    "name": "construction_year",
+    "type": "text"
+  },
+  {
+    "name": "coordinate_accuracy",
+    "type": "text"
+  },
+  {
+    "name": "coordinates_status",
+    "type": "text"
+  },
+  {
+    "name": "debt_free_price_eur",
+    "type": "double precision"
+  },
+  {
+    "name": "debt_free_price_eur_status",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "duplicates_merged",
+    "type": "bigint"
+  },
+  {
+    "name": "energy_class",
+    "type": "text"
+  },
+  {
+    "name": "heating_type",
+    "type": "text"
+  },
+  {
+    "name": "housing_company",
+    "type": "text"
+  },
+  {
+    "name": "image_url",
+    "type": "text"
+  },
+  {
+    "name": "last_facade_renovation_year",
+    "type": "bigint"
+  },
+  {
+    "name": "last_pipe_renovation_year",
+    "type": "bigint"
+  },
+  {
+    "name": "last_roof_renovation_year",
+    "type": "bigint"
+  },
+  {
+    "name": "latitude",
+    "type": "double precision"
+  },
+  {
+    "name": "lift",
+    "type": "boolean"
+  },
+  {
+    "name": "listing_key",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "listing_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "living_area_m2",
+    "type": "double precision"
+  },
+  {
+    "name": "living_area_m2_status",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "double precision"
+  },
+  {
+    "name": "municipality",
+    "type": "text"
+  },
+  {
+    "name": "number_of_floors",
+    "type": "bigint"
+  },
+  {
+    "name": "numeric_field_status",
+    "type": "jsonb"
+  },
+  {
+    "name": "ownership_type",
+    "type": "text"
+  },
+  {
+    "name": "ownership_type_original",
+    "type": "text"
+  },
+  {
+    "name": "pipe_renovation_planned",
+    "type": "boolean"
+  },
+  {
+    "name": "pipe_renovation_planned_status",
+    "type": "text"
+  },
+  {
+    "name": "pipe_renovation_planned_year",
+    "type": "bigint"
+  },
+  {
+    "name": "pipe_renovation_recommended",
+    "type": "boolean"
+  },
+  {
+    "name": "pipe_renovation_recommended_year_end",
+    "type": "bigint"
+  },
+  {
+    "name": "pipe_renovation_recommended_year_start",
+    "type": "bigint"
+  },
+  {
+    "name": "planned_renovations_text",
+    "type": "text"
+  },
+  {
+    "name": "plot_ownership",
+    "type": "text"
+  },
+  {
+    "name": "portal",
+    "type": "text"
+  },
+  {
+    "name": "portal_listing_id",
+    "type": "text"
+  },
+  {
+    "name": "portals",
+    "type": "jsonb"
+  },
+  {
+    "name": "postal_code",
+    "type": "text"
+  },
+  {
+    "name": "postal_code_status",
+    "type": "text"
+  },
+  {
+    "name": "property_type_original",
+    "type": "text"
+  },
+  {
+    "name": "qa_reason",
+    "type": "text"
+  },
+  {
+    "name": "qa_status",
+    "type": "text"
+  },
+  {
+    "name": "renovation_event_count",
+    "type": "bigint"
+  },
+  {
+    "name": "renovation_information_status",
+    "type": "text"
+  },
+  {
+    "name": "renovations",
+    "type": "jsonb"
+  },
+  {
+    "name": "rooms_text",
+    "type": "text"
+  },
+  {
+    "name": "source_listing_count",
+    "type": "bigint"
+  }
+]

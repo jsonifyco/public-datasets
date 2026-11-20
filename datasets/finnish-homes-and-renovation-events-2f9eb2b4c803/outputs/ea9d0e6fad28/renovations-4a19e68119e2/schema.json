@@ -1,0 +1,82 @@
+[
+  {
+    "name": "address",
+    "type": "text"
+  },
+  {
+    "name": "collected_at",
+    "type": "text"
+  },
+  {
+    "name": "description_original",
+    "type": "text"
+  },
+  {
+    "name": "event_key",
+    "type": "text"
+  },
+  {
+    "name": "event_text",
+    "type": "text"
+  },
+  {
+    "name": "is_substantive_renovation",
+    "type": "boolean"
+  },
+  {
+    "name": "listing_key",
+    "type": "text"
+  },
+  {
+    "name": "listing_url",
+    "type": "text"
+  },
+  {
+    "name": "municipality",
+    "type": "text"
+  },
+  {
+    "name": "planning_basis",
+    "type": "text"
+  },
+  {
+    "name": "portal",
+    "type": "text"
+  },
+  {
+    "name": "qa_reason",
+    "type": "text"
+  },
+  {
+    "name": "qa_status",
+    "type": "text"
+  },
+  {
+    "name": "scope",
+    "type": "text"
+  },
+  {
+    "name": "source_section",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "type",
+    "type": "text"
+  },
+  {
+    "name": "year_end",
+    "type": "bigint"
+  },
+  {
+    "name": "year_start",
+    "type": "bigint"
+  },
+  {
+    "name": "year_text",
+    "type": "text"
+  }
+]

@@ -29,6 +29,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Brazil Marketplace Brand and SKU Audit Sample](datasets/brazil-brand-sku-audit-sample-2864ef4fa9cb/) | 523 | On demand | 2026-11-16T13:29:06.915165Z |
 | [UK Early\-Stage Venture Capital Firms](datasets/uk-early-stage-venture-capital-firms-28b20bfd56d1/) | 50 | On demand | 2026-11-13T16:00:54.241404Z |
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
+| [Finnish Homes and Renovation Events](datasets/finnish-homes-and-renovation-events-2f9eb2b4c803/) | 8,909 | On demand | 2026-11-19T22:19:22.544305Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 4,305 | weekly | 2026-11-16T06:08:28.824595Z |
 | [GPU Hourly Rental Prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 5,699 | daily | 2026-11-19T06:00:22.001664Z |
 | [LlamaIndex Module Guides Articles](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
@@ -75,6 +76,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [FDA 510\(k\) Database: Clearance Decisions](datasets/fda-510-k-clearance-decisions-77a1978440d2/) | 3,369 | weekly | 2026-11-18T06:01:43.063399Z |
 | [Srixon Golf Ball Prices in France](datasets/srixon-golf-ball-prices-france-780021c9d370/) | 77 | On demand | 2026-11-09T08:05:37.744570Z |
 | [Last\-Minute Booking\.com Hotel Rates](datasets/241-travel-last-minute-booking-com-hotel-rates-8055aed53e5f/) | 240 | On demand | 2026-11-09T06:14:08.519161Z |
+| [FDA, EMA and Infarmed GMP Guidance and Warning Letters](datasets/fda-ema-and-infarmed-gmp-guidance-and-warning-letters-8099814fc1b9/) | 416 | On demand | 2026-11-19T19:14:32.275634Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Lisbon Coffee Brands at Street Venues](datasets/coffee-brand-on-the-street-lisbon-poc-823f5bfb06bb/) | 810 | On demand | 2026-11-04T02:32:30.185539Z |
 | [Apple Music data: Top 100 USA and Global chart dataset](datasets/apple-music-daily-top-100-usa-global-8347b78d13d6/) | 600 | daily | 2026-11-19T10:05:14.149375Z |
@@ -95,6 +97,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Turo Classic and Exotic Car Rentals](datasets/turo-classic-and-exotic-car-rentals-9f51f87bf45b/) | 60 | On demand | 2026-11-13T15:58:41.083512Z |
 | [EU and National Legal Acts](datasets/eu-and-national-legal-acts-a0597b835d9f/) | 300 | On demand | 2026-11-16T10:32:46.914250Z |
 | [AI Lab Research Feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |
+| [Tech company careers data: AI and tech job postings dataset, refreshed daily](datasets/tech-ai-jobs-daily-a221b54cd808/) | 6,648 | daily | 2026-11-19T16:34:24.518413Z |
 | [Brazil State Public Security Secretaries](datasets/brazil-state-public-security-secretaries-a3af258992e0/) | 27 | On demand | 2026-11-13T16:00:08.719539Z |
 | [Supermarket Franchise Keyword and AI Prompt Volumes](datasets/supermarket-franchise-keyword-and-ai-prompt-volumes-a3f8157e871e/) | 16 | On demand | 2026-10-31T11:20:11.061198Z |
 | [Polish Retailers and Ecommerce Platforms](datasets/polish-retailers-and-ecommerce-platforms-afe54f85f63e/) | 61 | On demand | 2026-11-16T10:35:09.976632Z |

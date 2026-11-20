@@ -40,6 +40,14 @@
     "posting_count": 90
   },
   {
+    "board_url": "https://jobs.ashbyhq.com/supabase",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Supabase",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 79
+  },
+  {
     "board_url": "https://job-boards.greenhouse.io/brex",
     "capture_date": "2026-11-19T16:31:15.157852+00:00",
     "company": "Brex",
@@ -56,27 +64,19 @@
     "posting_count": 638
   },
   {
-    "board_url": "https://jobs.ashbyhq.com/Perplexity",
-    "capture_date": "2026-11-19T16:31:15.157852+00:00",
-    "company": "Perplexity",
+    "board_url": "https://jobs.ashbyhq.com/notion",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Notion",
     "complete": true,
     "platform": "Ashby",
-    "posting_count": 147
+    "posting_count": 168
   },
   {
-    "board_url": "https://jobs.ashbyhq.com/openai",
-    "capture_date": "2026-11-19T16:31:15.157852+00:00",
-    "company": "OpenAI",
+    "board_url": "https://jobs.ashbyhq.com/replit",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Replit",
     "complete": true,
     "platform": "Ashby",
-    "posting_count": 834
-  },
-  {
-    "board_url": "https://job-boards.greenhouse.io/stripe",
-    "capture_date": "2026-11-19T16:31:15.157852+00:00",
-    "company": "Stripe",
-    "complete": true,
-    "platform": "Greenhouse",
-    "posting_count": 781
+    "posting_count": 37
   }
 ]

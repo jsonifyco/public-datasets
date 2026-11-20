@@ -1,35 +1,35 @@
-# Tech company careers data: AI and tech job postings dataset, refreshed daily
+# Tech company careers data: AI and tech job postings dataset
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Every open job at 25 AI and tech companies \(OpenAI, Anthropic, Databricks, Stripe and more\), captured daily from their public career boards\. Export to CSV, Excel or Google Sheets\.
+Explore 13,254 job\-posting records from public careers boards at AI and tech companies\. Export the dataset to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/tech-ai-jobs-daily-a221b54cd808?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-19T16:34:24.518413Z
+- Last published: 2026-11-20T09:00:57.063542Z
 
 ## The brief
 
-> I need this data: Every open job at 25 AI and tech companies \(OpenAI, Anthropic, Databricks, Stripe and more\), captured daily from their public career boards\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Explore 13,254 job\-posting records from public careers boards at AI and tech companies\. Export the dataset to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## Tech &amp; AI Job History / postings
 
-6,623 total rows · 50 sampled · Output revision 1
-Published: 2026-11-19T16:34:24.518413Z · Producing pipeline version: 1
+13,254 total rows · 50 sampled · Output revision 2
+Published: 2026-11-20T09:00:57.063542Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.csv) · [JSON sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.json) · [Schema](outputs/1ee398128fc6/postings-4d6282602ee9/schema.json)
 
 | capture\_date | company | department | employment\_type | employment\_type\_source | first\_seen\_date | job\_id | job\_title |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026\-11\-19T16:31:15\.157852\+00:00 | Notion | \["Engineering"\] | \["Full\-time"\] | FullTime | 2026\-11\-19 | 79c18580\-c927\-456c\-9d5f\-72efbc6c43cb | Forward Deployed Engineer, India |
+| 2026\-11\-20T09:00:21\.043966\+00:00 | Stripe | \["5112 General University"\] | None | None | 2026\-11\-19 | 8130883 | Software Engineer, Intern |
 | 2026\-11\-19T16:31:15\.157852\+00:00 | Scale AI | \["Public Sector Engineering"\] | \["Full\-time"\] | full\-time | 2026\-11\-19 | 4717701005 | Team Lead, ARC Software Engineering Team |
 | 2026\-11\-19T16:31:15\.157852\+00:00 | Datadog | \["Enterprise Sales Engineering"\] | \["Full\-time"\] | Full time | 2026\-11\-19 | 6430289 | Enterprise Sales Engineer |
 | 2026\-11\-19T16:31:15\.157852\+00:00 | Databricks | \["Professional Services Operations"\] | None | None | 2026\-11\-19 | 8439047002 | Forward Deployed Engineer \- Emerging Enterprise &amp; DNB |
-| 2026\-11\-19T16:31:15\.157852\+00:00 | Duolingo | \["Product Management"\] | None | None | 2026\-11\-19 | 8675670002 | Senior Product Manager |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -56,8 +56,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Tech &amp; AI Job History / captures
 
-25 total rows · 10 sampled · Output revision 1
-Published: 2026-11-19T16:34:24.518413Z · Producing pipeline version: 1
+50 total rows · 10 sampled · Output revision 2
+Published: 2026-11-20T09:00:57.063542Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.csv) · [JSON sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.json) · [Schema](outputs/1ee398128fc6/captures-2d9457560f11/schema.json)
 

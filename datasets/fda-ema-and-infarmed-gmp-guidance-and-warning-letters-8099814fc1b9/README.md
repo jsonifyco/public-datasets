@@ -8,7 +8,7 @@ GMP guidance and warning letters from FDA, EMA, EudraLex and Infarmed, with docu
 
 - Refresh: On demand
 - Active pipeline version: 4
-- Last published: 2026-11-19T19:14:32.275634Z
+- Last published: 2026-11-20T10:19:52.736363Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## FDA, EMA and Infarmed GMP Guidance and Warning Letters / main
 
-416 total rows · 50 sampled · Output revision 2
-Published: 2026-11-19T19:14:32.275634Z · Producing pipeline version: 4
+416 total rows · 50 sampled · Output revision 3
+Published: 2026-11-20T10:19:52.736363Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/5bafad016020/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/5bafad016020/main-0d6e4079e367/sample.json) · [Schema](outputs/5bafad016020/main-0d6e4079e367/schema.json)
 
 | agency | captured\_at | captured\_date | change\_basis | change\_type | company | content\_hash | content\_hash\_basis |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| FDA | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | Initial content\-hash baseline; legacy sample has no comparable hash | new | Horizon Tool Inc\.  | 095aa449db0998f09840cb836e679a5e8dbcd9e76e68efb34d32029c5fe22261 | SHA\-256 of complete normalized document text, excluding website navigation and footer |
-| Infarmed | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | Initial content\-hash baseline; legacy sample has no comparable hash | new |  | 83c53544cb9d680c9012bbce48d43778cfda7717f7afb007de690b84d33bc335 | SHA\-256 of complete PDF bytes |
-| FDA | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | Initial content\-hash baseline; legacy sample has no comparable hash | new | Exela Pharma Sciences, LLC | 8d6c92ef03f1bd58ea44c5ee212a779e2c99f07a54407d3b9bb25e3c8459c33f | SHA\-256 of complete normalized document text, excluding website navigation and footer |
-| FDA | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | Initial content\-hash baseline; legacy sample has no comparable hash | new | Medical Products Laboratories, Inc\. | 7358b45b550cd814cadaa94007839713f0093d6bbad5a6021cb849638db2710c | SHA\-256 of complete normalized document text, excluding website navigation and footer |
-| FDA | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | Document unavailable; no content hash or change determination possible | unknown | Shree Jaya Laboratories PVT\. LTD\. | None | None |
+| Infarmed | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | First observation of this document | new |  | 843e736f04c01e13064d92fb00eda3246a9e59cbea4c4289ffa768c79232d2fb | SHA\-256 of complete PDF bytes |
+| FDA | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | First observation of this document | new | Natural Essentials, Inc\. | d22492342afddfbc8e0e0a6ff3ab6287f7ea70d3133f8cd2d37e88a90ca9bb3d | SHA\-256 of complete normalized document text, excluding website navigation and footer |
+| FDA | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | First observation of this document | new | Umicore Argentina S\.A\. | be7ed044ef54dfaab2e685c70c2c2d1d55d3cb684572d227ce45c34c8c9d6fd1 | SHA\-256 of complete normalized document text, excluding website navigation and footer |
+| FDA | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | First observation of this document | new | Shenzhen Benliju Biotech Co\., Ltd\. | af0def15b7700768792e835078342368d6c55d2cc4eaf8fec625e75d071d0bb1 | SHA\-256 of complete normalized document text, excluding website navigation and footer |
+| FDA | 2026\-11\-19T18:05:28\.740874\+00:00 | 2026\-11\-19 | First observation of this document | new | Nanjing Hanxin Pharmaceutical Technology Co\. Ltd\. | 4a47f6fe5763d608d3663b83ab2ae19e7cec60d396330f295b925619d9bcc398 | SHA\-256 of complete normalized document text, excluding website navigation and footer |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

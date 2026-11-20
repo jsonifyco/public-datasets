@@ -1,28 +1,38 @@
 chart,chart_date,position,song_title,artist,apple_music_song_id,apple_music_song_url,snapshot_key
 USA,2026-11-17,75,Passionfruit,Drake,1440891494,https://music.apple.com/us/song/passionfruit/1440891494,USA:2026-11-17:75
 USA,2026-11-17,12,Stop The Wedding!,Ashe,6795697687,https://music.apple.com/us/song/stop-the-wedding/6795697687,USA:2026-11-17:12
+USA,2026-11-20,42,So Good (feat. Kendrick Lamar),Jhené Aiko,6810716062,https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062,USA:2026-11-20:42
 Global,2026-11-19,56,E85,Don Toliver,,,Global:2026-11-19:56
 Global,2026-11-19,62,I'm The Problem,Morgan Wallen,1802103970,https://music.apple.com/us/song/im-the-problem/1802103970,Global:2026-11-19:62
 Global,2026-11-18,100,Billie Jean,Michael Jackson,269573364,https://music.apple.com/us/song/billie-jean/269573364,Global:2026-11-18:100
 USA,2026-11-19,96,Controlla,Drake,1440841382,https://music.apple.com/us/song/controlla/1440841382,USA:2026-11-19:96
 USA,2026-11-17,35,Don't We,Morgan Wallen,1802104400,https://music.apple.com/us/song/dont-we/1802104400,USA:2026-11-17:35
+USA,2026-11-20,74,Mr. Brightside,The Killers,1526194192,https://music.apple.com/us/song/mr-brightside/1526194192,USA:2026-11-20:74
 USA,2026-11-18,37,Stick Talk,Future,1017055092,https://music.apple.com/us/song/stick-talk/1017055092,USA:2026-11-18:37
 USA,2026-11-18,42,"Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",Future,6831506154,https://music.apple.com/us/song/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506154,USA:2026-11-18:42
 Global,2026-11-17,90,Brand New,Mrs. GREEN APPLE,6788211810,https://music.apple.com/us/song/brand-new/6788211810,Global:2026-11-17:90
 USA,2026-11-19,16,WAIT FOR U (feat. Drake & Tems),Future,1621119447,https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447,USA:2026-11-19:16
 Global,2026-11-18,79,Broken Clocks,SZA,1239976610,https://music.apple.com/us/song/broken-clocks/1239976610,Global:2026-11-18:79
+Global,2026-11-20,79,Power Trip (feat. Miguel),J. Cole,1529510489,https://music.apple.com/us/song/power-trip-feat-miguel/1529510489,Global:2026-11-20:79
 USA,2026-11-19,35,Quebec,Drake,6818209990,https://music.apple.com/us/song/quebec/6818209990,USA:2026-11-19:35
+USA,2026-11-20,49,Just In Case,Morgan Wallen,1802103977,https://music.apple.com/us/song/just-in-case/1802103977,USA:2026-11-20:49
 Global,2026-11-18,58,Baby (feat. Ludacris),Justin Bieber,1440661545,https://music.apple.com/us/song/baby-feat-ludacris/1440661545,Global:2026-11-18:58
+USA,2026-11-20,4,BbY WOW,"KAROL G , Judeline , rusowsky",6796864754,https://music.apple.com/us/song/bby-wow/6796864754,USA:2026-11-20:4
 Global,2026-11-17,27,drop dead,Olivia Rodrigo,1889992113,https://music.apple.com/us/song/drop-dead/1889992113,Global:2026-11-17:27
 Global,2026-11-18,95,Blinding Lights,The Weeknd,1488408568,https://music.apple.com/us/song/blinding-lights/1488408568,Global:2026-11-18:95
 USA,2026-11-17,49,Knife Talk (feat. 21 Savage & Project Pat),Drake,1584281787,https://music.apple.com/us/song/knife-talk-feat-21-savage-project-pat/1584281787,USA:2026-11-17:49
+USA,2026-11-20,69,weren't for the wind,Ella Langley,1770160814,https://music.apple.com/us/song/werent-for-the-wind/1770160814,USA:2026-11-20:69
 USA,2026-11-17,50,Broken Clocks,SZA,1239976610,https://music.apple.com/us/song/broken-clocks/1239976610,USA:2026-11-17:50
+Global,2026-11-20,89,Perfect,Ed Sheeran,1193701400,https://music.apple.com/us/song/perfect/1193701400,Global:2026-11-20:89
+Global,2026-11-20,45,Orbiter,Noah Kahan,6762757958,https://music.apple.com/us/song/orbiter/6762757958,Global:2026-11-20:45
 Global,2026-11-17,88,Perfect,Ed Sheeran,1193701400,https://music.apple.com/us/song/perfect/1193701400,Global:2026-11-17:88
 Global,2026-11-19,93,Iris,The Goo Goo Dolls,267537169,https://music.apple.com/us/song/iris/267537169,Global:2026-11-19:93
 Global,2026-11-19,99,Starboy (feat. Daft Punk),The Weeknd,1440871420,https://music.apple.com/us/song/starboy-feat-daft-punk/1440871420,Global:2026-11-19:99
 USA,2026-11-19,48,Knife Talk (feat. 21 Savage & Project Pat),Drake,1584281787,https://music.apple.com/us/song/knife-talk-feat-21-savage-project-pat/1584281787,USA:2026-11-19:48
 USA,2026-11-18,32,Quebec,Drake,6818209990,https://music.apple.com/us/song/quebec/6818209990,USA:2026-11-18:32
 USA,2026-11-17,14,In A Minute,Lil Baby,1648587330,https://music.apple.com/us/song/in-a-minute/1648587330,USA:2026-11-17:14
+Global,2026-11-20,62,March Madness,Future,1506297772,https://music.apple.com/us/song/march-madness/1506297772,Global:2026-11-20:62
+Global,2026-11-20,46,A Couple Minutes,Olivia Dean,1817609514,https://music.apple.com/us/song/a-couple-minutes/1817609514,Global:2026-11-20:46
 USA,2026-11-17,47,Wicked Games,The Weeknd,1714908987,https://music.apple.com/us/song/wicked-games/1714908987,USA:2026-11-17:47
 USA,2026-11-18,84,Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,1244230126,https://music.apple.com/us/song/wild-thoughts-feat-rihanna-bryson-tiller/1244230126,USA:2026-11-18:84
 USA,2026-11-18,21,I Can't Love You Anymore,"Ella Langley , Morgan Wallen",6763091996,https://music.apple.com/us/song/i-cant-love-you-anymore/6763091996,USA:2026-11-18:21
@@ -31,21 +41,11 @@ Global,2026-11-18,61,Ordinary,Alex Warren,1793663645,https://music.apple.com/us/
 Global,2026-11-18,78,Sweater Weather,The Neighbourhood,635016640,https://music.apple.com/us/song/sweater-weather/635016640,Global:2026-11-18:78
 Global,2026-11-18,64,Quebec,Drake,6818209990,https://music.apple.com/us/song/quebec/6818209990,Global:2026-11-18:64
 USA,2026-11-18,53,Wicked Games,The Weeknd,1714908987,https://music.apple.com/us/song/wicked-games/1714908987,USA:2026-11-18:53
+USA,2026-11-20,79,Jaded,"Koe Wetzel , Ella Langley",6798042825,https://music.apple.com/us/song/jaded/6798042825,USA:2026-11-20:79
 Global,2026-11-18,56,Not Like Us,Kendrick Lamar,1744776167,https://music.apple.com/us/song/not-like-us/1744776167,Global:2026-11-18:56
+USA,2026-11-20,37,Broken Window Serenade,Whiskey Myers,1813021660,https://music.apple.com/us/song/broken-window-serenade/1813021660,USA:2026-11-20:37
 Global,2026-11-19,32,Underneath the Tree,Kelly Clarkson,720861445,https://music.apple.com/us/song/underneath-the-tree/720861445,Global:2026-11-19:32
 Global,2026-11-17,39,Party With The Boys,Don Toliver,6834158434,https://music.apple.com/us/song/party-with-the-boys/6834158434,Global:2026-11-17:39
 Global,2026-11-17,52,Orbiter,Noah Kahan,6762757958,https://music.apple.com/us/song/orbiter/6762757958,Global:2026-11-17:52
 USA,2026-11-17,98,Cold Shoulder,"Drake , Don Toliver , Yebba",6818209992,https://music.apple.com/us/song/cold-shoulder/6818209992,USA:2026-11-17:98
 USA,2026-11-17,40,Power Trip (feat. Miguel),J. Cole,1529510489,https://music.apple.com/us/song/power-trip-feat-miguel/1529510489,USA:2026-11-17:40
-USA,2026-11-18,12,stupid song,Olivia Rodrigo,1889992115,https://music.apple.com/us/song/stupid-song/1889992115,USA:2026-11-18:12
-Global,2026-11-17,10,Janice STFU,Drake,6769568596,https://music.apple.com/us/song/janice-stfu/6769568596,Global:2026-11-17:10
-Global,2026-11-19,40,Last Christmas (Single Version),Wham!,202117984,https://music.apple.com/us/song/last-christmas-single-version/202117984,Global:2026-11-19:40
-USA,2026-11-18,3,Housewife,Tate McRae,6822497774,https://music.apple.com/us/song/housewife/6822497774,USA:2026-11-18:3
-Global,2026-11-19,78,Frozen,Lil Baby,1621207921,https://music.apple.com/us/song/frozen/1621207921,Global:2026-11-19:78
-USA,2026-11-17,6,Janice STFU,Drake,6769568596,https://music.apple.com/us/song/janice-stfu/6769568596,USA:2026-11-17:6
-Global,2026-11-19,10,You’re Under Arrest,ILLIT,6818511627,https://music.apple.com/us/song/youre-under-arrest/6818511627,Global:2026-11-19:10
-USA,2026-11-19,12,Lies (feat. Lana Del Rey),"Zach Bryan , Lana Del Rey",6822944296,https://music.apple.com/us/song/lies-feat-lana-del-rey/6822944296,USA:2026-11-19:12
-Global,2026-11-19,52,So Good (feat. Kendrick Lamar),Jhené Aiko,6810716062,https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062,Global:2026-11-19:52
-USA,2026-11-19,49,Man I Need,Olivia Dean,1817609509,https://music.apple.com/us/song/man-i-need/1817609509,USA:2026-11-19:49
-USA,2026-11-17,73,Cinderella (feat. Ty Dolla $ign),Mac Miller,1137966332,https://music.apple.com/us/song/cinderella-feat-ty-dolla-%24ign/1137966332,USA:2026-11-17:73
-USA,2026-11-19,19,LIKE ME (feat. 42 Dugg & Lil Baby),Future,1621803969,https://music.apple.com/us/song/like-me-feat-42-dugg-lil-baby/1621803969,USA:2026-11-19:19

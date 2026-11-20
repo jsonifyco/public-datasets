@@ -1,0 +1,26 @@
+[
+  {
+    "name": "board_url",
+    "type": "text"
+  },
+  {
+    "name": "capture_date",
+    "type": "text"
+  },
+  {
+    "name": "company",
+    "type": "text"
+  },
+  {
+    "name": "complete",
+    "type": "boolean"
+  },
+  {
+    "name": "platform",
+    "type": "text"
+  },
+  {
+    "name": "posting_count",
+    "type": "integer"
+  }
+]

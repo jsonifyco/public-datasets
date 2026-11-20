@@ -1,0 +1,82 @@
+[
+  {
+    "board_url": "https://job-boards.greenhouse.io/figma",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Figma",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 143
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/vercel",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Vercel",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 86
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/duolingo",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Duolingo",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 55
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/cohere",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Cohere",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 124
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/cursor",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Cursor",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 90
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/brex",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Brex",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 261
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/anthropic",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Anthropic",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 638
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/Perplexity",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Perplexity",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 147
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/openai",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "OpenAI",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 834
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/stripe",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Stripe",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 781
+  }
+]

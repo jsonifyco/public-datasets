@@ -1,0 +1,66 @@
+[
+  {
+    "name": "capture_date",
+    "type": "text"
+  },
+  {
+    "name": "company",
+    "type": "text"
+  },
+  {
+    "name": "department",
+    "type": "jsonb"
+  },
+  {
+    "name": "employment_type",
+    "type": "jsonb"
+  },
+  {
+    "name": "employment_type_source",
+    "type": "text"
+  },
+  {
+    "name": "first_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "job_id",
+    "type": "text"
+  },
+  {
+    "name": "job_title",
+    "type": "text"
+  },
+  {
+    "name": "job_url",
+    "type": "text"
+  },
+  {
+    "name": "last_updated_date",
+    "type": "text"
+  },
+  {
+    "name": "locations",
+    "type": "jsonb"
+  },
+  {
+    "name": "locations_source",
+    "type": "jsonb"
+  },
+  {
+    "name": "posted_date",
+    "type": "text"
+  },
+  {
+    "name": "remote_flag",
+    "type": "boolean"
+  },
+  {
+    "name": "team",
+    "type": "text"
+  },
+  {
+    "name": "workplace_type",
+    "type": "text"
+  }
+]

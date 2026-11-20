@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes listing and per\-card summary tables\.
+eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes 5,231 listing rows and 120 per\-card summary rows \(5,351 rows total\)\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ebay-us-pok-mon-sold-listings-9c1de2dcf5cc?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-19T09:04:09.835911Z
+- Last published: 2026-11-20T09:04:26.344801Z
 
 ## The brief
 
-> I need this data: eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes listing and per\-card summary tables\.
+> I need this data: eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes 5,231 listing rows and 120 per\-card summary rows \(5,351 rows total\)\.
 
 Summary from the public dataset description.
 
 ## eBay Pokémon sold sales and summaries / listings
 
-4,354 total rows · 50 sampled · Output revision 7
-Published: 2026-11-19T09:04:09.835911Z · Producing pipeline version: 3
+5,231 total rows · 50 sampled · Output revision 8
+Published: 2026-11-20T09:04:26.344801Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.csv) · [JSON sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.json) · [Schema](outputs/77b8757ad9a2/listings-8a836f245cd6/schema.json)
 
 | best\_offer\_accepted | captured\_at | card | condition | currency | grade | image\_url | image\_urls |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | None | 2026\-11\-19T09:00:14\.653814\+00:00 | Glaceon VMAX Evolving Skies Alt Art 209/203 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/9SMAAeSwuRRq6LnG/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/9SMAAeSwuRRq6LnG/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/9SMAAeSwuRRq6LnG/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/9SMAAeSwuRRq6LnG/s-l1600.jpg>)"\] |
+| True | 2026\-11\-20T09:00:13\.614396\+00:00 | Magikarp Paldea Evolved Illustration Rare 203/193 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/bHQAAeSwzZlq\-rsR/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/bHQAAeSwzZlq-rsR/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/bHQAAeSwzZlq\-rsR/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/bHQAAeSwzZlq-rsR/s-l1600.jpg>)"\] |
 | True | 2026\-11\-19T09:00:14\.653814\+00:00 | Giratina V Lost Origin Alt Art 186/196 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/MtcAAeSwiCJqmaAV/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/MtcAAeSwiCJqmaAV/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/MtcAAeSwiCJqmaAV/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/MtcAAeSwiCJqmaAV/s-l1600.jpg>)"\] |
-| None | 2026\-11\-19T09:00:14\.653814\+00:00 | Pikachu ex Surging Sparks SIR 238/191 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/MGAAAeSwdK5q4UpW/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/MGAAAeSwdK5q4UpW/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/MGAAAeSwdK5q4UpW/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/MGAAAeSwdK5q4UpW/s-l1600.jpg>)"\] |
-| None | 2026\-11\-19T09:00:14\.653814\+00:00 | Arceus VSTAR Crown Zenith Galarian Gallery GG70/GG70 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/smYAAeSwtIRq8WVT/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/smYAAeSwtIRq8WVT/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/smYAAeSwtIRq8WVT/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/smYAAeSwtIRq8WVT/s-l1600.jpg>)"\] |
-| True | 2026\-11\-19T09:00:14\.653814\+00:00 | Magikarp Paldea Evolved Illustration Rare 203/193 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/8pUAAeSwsaFq\-wcq/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/8pUAAeSwsaFq-wcq/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/8pUAAeSwsaFq\-wcq/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/8pUAAeSwsaFq-wcq/s-l1600.jpg>)"\] |
+| None | 2026\-11\-20T09:00:13\.614396\+00:00 | Pikachu VMAX Vivid Voltage Rainbow 188/185 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/7RwAAeSwgFlq1ZPN/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/7RwAAeSwgFlq1ZPN/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/7RwAAeSwgFlq1ZPN/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/7RwAAeSwgFlq1ZPN/s-l1600.jpg>)"\] |
+| None | 2026\-11\-20T09:00:13\.614396\+00:00 | Pikachu ex Surging Sparks SIR 238/191 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/E5wAAeSwHtxq\~J25/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/E5wAAeSwHtxq~J25/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/E5wAAeSwHtxq\~J25/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/E5wAAeSwHtxq~J25/s-l1600.jpg>)"\] |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -58,8 +58,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## eBay Pokémon sold sales and summaries / summaries
 
-100 total rows · 10 sampled · Output revision 7
-Published: 2026-11-19T09:04:09.835911Z · Producing pipeline version: 3
+120 total rows · 50 sampled · Output revision 8
+Published: 2026-11-20T09:04:26.344801Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.csv) · [JSON sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.json) · [Schema](outputs/77b8757ad9a2/summaries-c626a992e31b/schema.json)
 
@@ -69,7 +69,7 @@ Published: 2026-11-19T09:04:09.835911Z · Producing pipeline version: 3
 | 5 | 2026\-11\-18T08:34:12\.983003\+00:00 | Giratina V Lost Origin Alt Art 186/196 \| PSA 10 | available results exhausted | USD | 3698\.51 | 3099\.995 | 449\.51 |
 | 9 | 2026\-11\-18T09:00:59\.903343\+00:00 | Venusaur ex 151 SIR 198/165 \| raw | sale limit reached | USD | 380 | 89\.99 | 11\.62 |
 | 4 | 2026\-11\-18T09:00:59\.903343\+00:00 | Sylveon VMAX Evolving Skies Alt Art 212/203 \| PSA 10 | available results exhausted | USD | 704\.88 | 598\.495 | 501\.66 |
-| 9 | 2026\-11\-18T08:34:12\.983003\+00:00 | Charizard Base Set Unlimited 4/102 \| raw | sale limit reached | USD | 1299\.99 | 298 | 40\.26 |
+| 16 | 2026\-11\-20T09:00:13\.614396\+00:00 | Magikarp Paldea Evolved Illustration Rare 203/193 \| raw | page safety limit reached | USD | 1375 | 74 | 42 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

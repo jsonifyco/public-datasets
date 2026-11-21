@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Apple Music Top 100 USA and Global chart dataset with 800 rows, including chart position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
+Apple Music Top 100 USA and Global chart dataset with 1,000 rows, including chart position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/apple-music-daily-top-100-usa-global-8347b78d13d6?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-20T10:00:20.516875Z
+- Last published: 2026-11-21T10:00:25.847961Z
 
 ## The brief
 
-> I need this data: Apple Music Top 100 USA and Global chart dataset with 800 rows, including chart position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Apple Music Top 100 USA and Global chart dataset with 1,000 rows, including chart position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## Apple Music Daily Top 100 / daily\_charts
 
-800 total rows · 50 sampled · Output revision 5
-Published: 2026-11-20T10:00:20.516875Z · Producing pipeline version: 1
+1,000 total rows · 50 sampled · Output revision 6
+Published: 2026-11-21T10:00:25.847961Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.csv) · [JSON sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.json) · [Schema](outputs/a7335034808b/daily-charts-f8952c615818/schema.json)
 
 | chart | chart\_date | position | song\_title | artist | apple\_music\_song\_id | apple\_music\_song\_url | snapshot\_key |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | USA | 2026\-11\-17 | 75 | Passionfruit | Drake | 1440891494 | [https://music\.apple\.com/us/song/passionfruit/1440891494](<https://music.apple.com/us/song/passionfruit/1440891494>) | USA:2026\-11\-17:75 |
+| USA | 2026\-11\-21 | 69 | God's Plan | Drake | 1418213269 | [https://music\.apple\.com/us/song/gods\-plan/1418213269](<https://music.apple.com/us/song/gods-plan/1418213269>) | USA:2026\-11\-21:69 |
 | USA | 2026\-11\-17 | 12 | Stop The Wedding\! | Ashe | 6795697687 | [https://music\.apple\.com/us/song/stop\-the\-wedding/6795697687](<https://music.apple.com/us/song/stop-the-wedding/6795697687>) | USA:2026\-11\-17:12 |
 | USA | 2026\-11\-20 | 42 | So Good \(feat\. Kendrick Lamar\) | Jhené Aiko | 6810716062 | [https://music\.apple\.com/us/song/so\-good\-feat\-kendrick\-lamar/6810716062](<https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062>) | USA:2026\-11\-20:42 |
-| Global | 2026\-11\-19 | 56 | E85 | Don Toliver | None | None | Global:2026\-11\-19:56 |
-| Global | 2026\-11\-19 | 62 | I'm The Problem | Morgan Wallen | 1802103970 | [https://music\.apple\.com/us/song/im\-the\-problem/1802103970](<https://music.apple.com/us/song/im-the-problem/1802103970>) | Global:2026\-11\-19:62 |
+| USA | 2026\-11\-21 | 68 | I Had Some Help \(feat\. Morgan Wallen\) | Post Malone | 1744439049 | [https://music\.apple\.com/us/song/i\-had\-some\-help\-feat\-morgan\-wallen/1744439049](<https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049>) | USA:2026\-11\-21:68 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

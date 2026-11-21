@@ -10,6 +10,16 @@
     "song_title": "Passionfruit"
   },
   {
+    "apple_music_song_id": "1418213269",
+    "apple_music_song_url": "https://music.apple.com/us/song/gods-plan/1418213269",
+    "artist": "Drake",
+    "chart": "USA",
+    "chart_date": "2026-11-21",
+    "position": 69,
+    "snapshot_key": "USA:2026-11-21:69",
+    "song_title": "God's Plan"
+  },
+  {
     "apple_music_song_id": "6795697687",
     "apple_music_song_url": "https://music.apple.com/us/song/stop-the-wedding/6795697687",
     "artist": "Ashe",
@@ -28,6 +38,16 @@
     "position": 42,
     "snapshot_key": "USA:2026-11-20:42",
     "song_title": "So Good (feat. Kendrick Lamar)"
+  },
+  {
+    "apple_music_song_id": "1744439049",
+    "apple_music_song_url": "https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744439049",
+    "artist": "Post Malone",
+    "chart": "USA",
+    "chart_date": "2026-11-21",
+    "position": 68,
+    "snapshot_key": "USA:2026-11-21:68",
+    "song_title": "I Had Some Help (feat. Morgan Wallen)"
   },
   {
     "apple_music_song_id": null,
@@ -58,6 +78,16 @@
     "position": 100,
     "snapshot_key": "Global:2026-11-18:100",
     "song_title": "Billie Jean"
+  },
+  {
+    "apple_music_song_id": "6769552411",
+    "apple_music_song_url": "https://music.apple.com/us/song/great-expectation/6769552411",
+    "artist": "SIENNA SPIRO",
+    "chart": "USA",
+    "chart_date": "2026-11-21",
+    "position": 74,
+    "snapshot_key": "USA:2026-11-21:74",
+    "song_title": "Great Expectation"
   },
   {
     "apple_music_song_id": "1440841382",
@@ -130,6 +160,16 @@
     "song_title": "WAIT FOR U (feat. Drake & Tems)"
   },
   {
+    "apple_music_song_id": "720861445",
+    "apple_music_song_url": "https://music.apple.com/us/song/underneath-the-tree/720861445",
+    "artist": "Kelly Clarkson",
+    "chart": "USA",
+    "chart_date": "2026-11-21",
+    "position": 26,
+    "snapshot_key": "USA:2026-11-21:26",
+    "song_title": "Underneath the Tree"
+  },
+  {
     "apple_music_song_id": "1239976610",
     "apple_music_song_url": "https://music.apple.com/us/song/broken-clocks/1239976610",
     "artist": "SZA",
@@ -158,6 +198,16 @@
     "position": 35,
     "snapshot_key": "USA:2026-11-19:35",
     "song_title": "Quebec"
+  },
+  {
+    "apple_music_song_id": "6831506154",
+    "apple_music_song_url": "https://music.apple.com/us/song/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506154",
+    "artist": "Future",
+    "chart": "USA",
+    "chart_date": "2026-11-21",
+    "position": 58,
+    "snapshot_key": "USA:2026-11-21:58",
+    "song_title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)"
   },
   {
     "apple_music_song_id": "1802103977",
@@ -290,6 +340,16 @@
     "song_title": "Starboy (feat. Daft Punk)"
   },
   {
+    "apple_music_song_id": "1450330686",
+    "apple_music_song_url": "https://music.apple.com/us/song/thank-u-next/1450330686",
+    "artist": "Ariana Grande",
+    "chart": "Global",
+    "chart_date": "2026-11-21",
+    "position": 77,
+    "snapshot_key": "Global:2026-11-21:77",
+    "song_title": "thank u, next"
+  },
+  {
     "apple_music_song_id": "1584281787",
     "apple_music_song_url": "https://music.apple.com/us/song/knife-talk-feat-21-savage-project-pat/1584281787",
     "artist": "Drake",
@@ -318,6 +378,16 @@
     "position": 14,
     "snapshot_key": "USA:2026-11-17:14",
     "song_title": "In A Minute"
+  },
+  {
+    "apple_music_song_id": "1239976610",
+    "apple_music_song_url": "https://music.apple.com/us/song/broken-clocks/1239976610",
+    "artist": "SZA",
+    "chart": "Global",
+    "chart_date": "2026-11-21",
+    "position": 84,
+    "snapshot_key": "Global:2026-11-21:84",
+    "song_title": "Broken Clocks"
   },
   {
     "apple_music_song_id": "1506297772",
@@ -420,83 +490,13 @@
     "song_title": "Wicked Games"
   },
   {
-    "apple_music_song_id": "6798042825",
-    "apple_music_song_url": "https://music.apple.com/us/song/jaded/6798042825",
-    "artist": "Koe Wetzel , Ella Langley",
+    "apple_music_song_id": "1440760661",
+    "apple_music_song_url": "https://music.apple.com/us/song/leave-you-alone-feat-ne-yo/1440760661",
+    "artist": "Jeezy",
     "chart": "USA",
-    "chart_date": "2026-11-20",
-    "position": 79,
-    "snapshot_key": "USA:2026-11-20:79",
-    "song_title": "Jaded"
-  },
-  {
-    "apple_music_song_id": "1744776167",
-    "apple_music_song_url": "https://music.apple.com/us/song/not-like-us/1744776167",
-    "artist": "Kendrick Lamar",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 56,
-    "snapshot_key": "Global:2026-11-18:56",
-    "song_title": "Not Like Us"
-  },
-  {
-    "apple_music_song_id": "1813021660",
-    "apple_music_song_url": "https://music.apple.com/us/song/broken-window-serenade/1813021660",
-    "artist": "Whiskey Myers",
-    "chart": "USA",
-    "chart_date": "2026-11-20",
-    "position": 37,
-    "snapshot_key": "USA:2026-11-20:37",
-    "song_title": "Broken Window Serenade"
-  },
-  {
-    "apple_music_song_id": "720861445",
-    "apple_music_song_url": "https://music.apple.com/us/song/underneath-the-tree/720861445",
-    "artist": "Kelly Clarkson",
-    "chart": "Global",
-    "chart_date": "2026-11-19",
-    "position": 32,
-    "snapshot_key": "Global:2026-11-19:32",
-    "song_title": "Underneath the Tree"
-  },
-  {
-    "apple_music_song_id": "6834158434",
-    "apple_music_song_url": "https://music.apple.com/us/song/party-with-the-boys/6834158434",
-    "artist": "Don Toliver",
-    "chart": "Global",
-    "chart_date": "2026-11-17",
-    "position": 39,
-    "snapshot_key": "Global:2026-11-17:39",
-    "song_title": "Party With The Boys"
-  },
-  {
-    "apple_music_song_id": "6762757958",
-    "apple_music_song_url": "https://music.apple.com/us/song/orbiter/6762757958",
-    "artist": "Noah Kahan",
-    "chart": "Global",
-    "chart_date": "2026-11-17",
-    "position": 52,
-    "snapshot_key": "Global:2026-11-17:52",
-    "song_title": "Orbiter"
-  },
-  {
-    "apple_music_song_id": "6818209992",
-    "apple_music_song_url": "https://music.apple.com/us/song/cold-shoulder/6818209992",
-    "artist": "Drake , Don Toliver , Yebba",
-    "chart": "USA",
-    "chart_date": "2026-11-17",
-    "position": 98,
-    "snapshot_key": "USA:2026-11-17:98",
-    "song_title": "Cold Shoulder"
-  },
-  {
-    "apple_music_song_id": "1529510489",
-    "apple_music_song_url": "https://music.apple.com/us/song/power-trip-feat-miguel/1529510489",
-    "artist": "J. Cole",
-    "chart": "USA",
-    "chart_date": "2026-11-17",
-    "position": 40,
-    "snapshot_key": "USA:2026-11-17:40",
-    "song_title": "Power Trip (feat. Miguel)"
+    "chart_date": "2026-11-21",
+    "position": 84,
+    "snapshot_key": "USA:2026-11-21:84",
+    "song_title": "Leave You Alone (feat. Ne-Yo)"
   }
 ]

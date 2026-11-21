@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Public Citius insolvency notices with process, debtor, court, publication date and published deadline details\. The published dataset contains 480 rows across all tables\.
+Public Citius insolvency notices for Lisboa and Porto, with debtor, court, publication date and published deadline details\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/insolvency-notices-pt-5cf39e22f64e?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
-- Active pipeline version: 7
-- Last published: 2026-11-20T06:12:58.241711Z
+- Active pipeline version: 8
+- Last published: 2026-11-21T06:27:12.882734Z
 
 ## The brief
 
-> I need this data: Public Citius insolvency notices with process, debtor, court, publication date and published deadline details\. The published dataset contains 480 rows across all tables\.
+> I need this data: Public Citius insolvency notices for Lisboa and Porto, with debtor, court, publication date and published deadline details\.
 
 Summary from the public dataset description.
 
 ## Avisos de insolvência / avisos
 
-240 total rows · 50 sampled · Output revision 20
-Published: 2026-11-20T06:12:58.241711Z · Producing pipeline version: 7
+311 total rows · 50 sampled · Output revision 21
+Published: 2026-11-21T06:27:12.882734Z · Producing pipeline version: 8
 
 [CSV sample](outputs/43cb4b753508/avisos-354cde498655/sample.csv) · [JSON sample](outputs/43cb4b753508/avisos-354cde498655/sample.json) · [Schema](outputs/43cb4b753508/avisos-354cde498655/schema.json)
 
 | Distrito | Estado do prazo | NIF ou NIPC | Natureza do devedor | Prazo publicado | Processo | Publicado em | Tipo de anúncio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lisboa | Prazo identificado no documento | 111979951 | Pessoa singular | 30 dias, começando a correr finda a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | 18642/26\.2T8SNT | 2026\-11\-17 | declaração de insolvência |
-| Porto | Prazo não identificado no documento | 226126129 | Pessoa singular | None | 2662/26\.0T8STS | 2026\-11\-19 | encerramento |
-| Porto | Prazo não identificado no documento | 205589294; 193085194 | Pessoa singular | None | 2723/26\.5T8STS | 2026\-11\-17 | Outro |
-| Porto | Prazo não identificado no documento | 510280439 | Empresa | None | 980/24\.0T8AMT\-G | 2026\-11\-16 | Outro |
-| Porto | Prazo identificado no documento | 510934994 | Empresa | No prazo de trinta dias, findos os éditos de cinco dias, contados da publicação deste edital\. | 2602/26\.6T8STS\-D | 2026\-11\-17 | Outro |
+| Lisboa | Prazo não identificado no documento | 175499608 | Pessoa singular | None | 9672/26\.5T8SNT | 2026\-11\-18 | Outro |
+| Porto | Prazo identificado no documento | 264157931 | Pessoa singular | O prazo para a Reclamação de Créditos foi fixado em 30 dias\. Os prazos começam a correr finda a dilação de 5 dias, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | 9131/26\.6T8VNG | 2026\-11\-20 | declaração de insolvência |
+| Lisboa | Prazo não identificado no documento | 513737286 | Empresa | None | 11171/26\.6T8LSB | 2026\-11\-20 | Outro |
+| Porto | Prazo não identificado no documento | 513631011 | Empresa | None | 1520/26\.2T8STS\-E | 2026\-11\-19 | Outro |
+| Lisboa | Não verificado: documento indisponível | 140150668; 104134828 | Pessoa singular | None | 2010/18\.2T8VFX | 2026\-11\-20 | encerramento |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Avisos de insolvência / insolvency\_notices\_pt
 
-240 total rows · 50 sampled · Output revision 20
-Published: 2026-11-20T06:12:58.241711Z · Producing pipeline version: 7
+311 total rows · 50 sampled · Output revision 21
+Published: 2026-11-21T06:27:12.882734Z · Producing pipeline version: 8
 
 [CSV sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.csv) · [JSON sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.json) · [Schema](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/schema.json)
 
 | claims\_deadline | court | debtor\_name | debtor\_nif | debtor\_type | district | insolvency\_administrator | notice\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 2 | Sérgio Sousa Lima Paya | 240483278 | individual | Porto | Idalina Palmira dos Santos Gonçalves | other |
-| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 1 | MARIA MANUELA FERNANDES GUIMARAES | 263523799 | individual | Porto | Emanuel Freire Torres Gamelas | other |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 1 | José Carlos de Pinho Santos Tavares; Mirian Guedes Xavier de Pina Tavares | 221501584; 244142742 | individual | Lisboa | Justino Gomes de Almeida Pereira Alegre | other |
-| 20 dias, a contar do fim da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 3 | Intex\.Com\-Comércio Internacional, Limitada | 503497754 | company | Porto | Fernando Silva e Sousa | declaração de insolvência |
-| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 3 | Maria Guilhermina Ferreira Teixeira | 180990730 | individual | Porto | Agostinho da Silva Pedro | other |
+| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 4 | João André dos Santos Nunes | 231857004 | individual | Porto | António Coimbra Rodrigues | other |
+| None | Vila Nova de Gaia \- Tribunal Judicial da Comarca do Porto / Juízo de Comércio de Vila Nova de Gaia \- Juiz 4 | Cláudia Salomé Machado Areosa | 220072469 | individual | Porto | Graça Isabel Ferreira Lopes da Cunha | other |
+| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 1 | Body Mix Center \- Gestão de Actividades de Fitness, Unipessoal, Limitada | 508698839 | company | Lisboa | Helena Maria Dias Barata | other |
+| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 1 | Jonatan Torneri, Unipessoal Lda | 517469022 | company | Porto | Teresa Paula Rodrigues Liberal Alegre da Silva Pidwell Silva | PER |
+| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 1 | Carlos Alberto da Cruz Maucabelo; Margarida Maria Laranjeiro Relego | 140150668; 104134828 | individual | Lisboa | Luís Manuel Ribeiro de Carvalho | encerramento |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -127,6 +127,7 @@ flowchart LR
 - 2026-11-10T08:44:28.365557Z: v5: Retain the approved notice when its document is missing, keeping its deadline null and clearly marked unverified\. Read the document normally if Citius restores it\.
 - 2026-11-13T06:10:20.221989Z: v6: Fixed updates stopping when Citius lists the same reference twice on one page\. Debtor lookups still stop if an entire results page repeats\.
 - 2026-11-14T06:18:51.091945Z: v7: Fixed updates stopping on different name spellings in related court records\. Conflicting names are left unused while the exact notice document supplies missing details\.
+- 2026-11-21T06:10:45.424652Z: v8: Recognize limited companies from their published legal names and validated corporate tax numbers when the court category omits debtor type\.
 
 ## Recorded repairs
 
@@ -139,6 +140,10 @@ flowchart LR
 - 2026-11-14T06:12:40.675800Z: no change
 - 2026-11-14T06:19:00.669024Z: repaired
 - 2026-11-14T06:35:50.871073Z: repaired
+- 2026-11-21T06:03:01.889534Z: no change
+- 2026-11-21T06:04:41.300276Z: no change
+- 2026-11-21T06:14:02.803192Z: repaired
+- 2026-11-21T06:27:52.258514Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/insolvency-notices-pt-5cf39e22f64e?action=get) — CSV or JSON · Email required
 

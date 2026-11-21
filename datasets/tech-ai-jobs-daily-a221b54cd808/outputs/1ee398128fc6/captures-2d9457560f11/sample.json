@@ -32,6 +32,14 @@
     "posting_count": 124
   },
   {
+    "board_url": "https://job-boards.greenhouse.io/reddit",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Reddit",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 148
+  },
+  {
     "board_url": "https://jobs.ashbyhq.com/cursor",
     "capture_date": "2026-11-19T16:31:15.157852+00:00",
     "company": "Cursor",
@@ -48,6 +56,14 @@
     "posting_count": 79
   },
   {
+    "board_url": "https://job-boards.greenhouse.io/figma",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Figma",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 147
+  },
+  {
     "board_url": "https://job-boards.greenhouse.io/brex",
     "capture_date": "2026-11-19T16:31:15.157852+00:00",
     "company": "Brex",
@@ -56,27 +72,11 @@
     "posting_count": 261
   },
   {
-    "board_url": "https://job-boards.greenhouse.io/anthropic",
-    "capture_date": "2026-11-19T16:31:15.157852+00:00",
-    "company": "Anthropic",
+    "board_url": "https://job-boards.greenhouse.io/cloudflare",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Cloudflare",
     "complete": true,
     "platform": "Greenhouse",
-    "posting_count": 638
-  },
-  {
-    "board_url": "https://jobs.ashbyhq.com/notion",
-    "capture_date": "2026-11-20T09:00:21.043966+00:00",
-    "company": "Notion",
-    "complete": true,
-    "platform": "Ashby",
-    "posting_count": 168
-  },
-  {
-    "board_url": "https://jobs.ashbyhq.com/replit",
-    "capture_date": "2026-11-20T09:00:21.043966+00:00",
-    "company": "Replit",
-    "complete": true,
-    "platform": "Ashby",
-    "posting_count": 37
+    "posting_count": 503
   }
 ]

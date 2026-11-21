@@ -1,0 +1,70 @@
+[
+  {
+    "name": "company_name",
+    "type": "text"
+  },
+  {
+    "name": "date_closed",
+    "type": "text"
+  },
+  {
+    "name": "date_placed",
+    "type": "text"
+  },
+  {
+    "name": "date_placed_source_url",
+    "type": "text"
+  },
+  {
+    "name": "directory_date",
+    "type": "text"
+  },
+  {
+    "name": "domicile_state",
+    "type": "text"
+  },
+  {
+    "name": "line_of_business",
+    "type": "text"
+  },
+  {
+    "name": "liquidation_date",
+    "type": "text"
+  },
+  {
+    "name": "liquidation_date_source_url",
+    "type": "text"
+  },
+  {
+    "name": "matched_tdi_case_key",
+    "type": "text"
+  },
+  {
+    "name": "raw_status",
+    "type": "text"
+  },
+  {
+    "name": "receivership_type",
+    "type": "text"
+  },
+  {
+    "name": "source",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "tdi_case_key",
+    "type": "text"
+  },
+  {
+    "name": "tdi_match_status",
+    "type": "text"
+  }
+]

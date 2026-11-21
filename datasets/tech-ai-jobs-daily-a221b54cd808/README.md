@@ -1,8 +1,8 @@
-# Tech company careers data: AI and tech job postings dataset
+# Tech company careers data: AI and tech job postings dataset, refreshed daily
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore 19,988 records across published tables, including 19,913 job\-posting records and 75 capture records, from public careers boards at AI and tech companies\. Export the dataset to CSV, Excel or Google Sheets\.
+Every open job at 25 AI and tech companies \(OpenAI, Anthropic, Databricks, Stripe and more\), read from their public Greenhouse and Ashby boards every day\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/tech-ai-jobs-daily-a221b54cd808?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Explore 19,988 records across published tables, including 19,913 job\-posting re
 
 ## The brief
 
-> I need this data: Explore 19,988 records across published tables, including 19,913 job\-posting records and 75 capture records, from public careers boards at AI and tech companies\. Export the dataset to CSV, Excel or Google Sheets\.
+> I need this data: Every open job at 25 AI and tech companies \(OpenAI, Anthropic, Databricks, Stripe and more\), read from their public Greenhouse and Ashby boards every day\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 

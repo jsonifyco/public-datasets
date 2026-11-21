@@ -13,6 +13,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [BLOXOME EU Building and Parcel Sample](datasets/bloxome-eu-building-and-parcel-sample-023cb9bef779/) | 400 | On demand | 2026-11-10T12:09:59.030747Z |
 | [Quiet Signal: Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 13 | On demand | 2026-11-09T09:16:44.334767Z |
 | [Online Businesses for Sale](datasets/online-businesses-for-sale-058b5903d847/) | 215 | weekly | 2026-11-16T08:01:00.072489Z |
+| [K\-Beauty Daily Price Tracker](datasets/k-beauty-daily-price-tracker-05b714f9dbe0/) | 29 | daily | 2026-11-21T21:16:46.007291Z |
 | [Hacker News AI Story Tags](datasets/hacker-news-ai-067aaaf184ae/) | 30 | On demand | 2026-11-09T09:11:23.908539Z |
 | [Job Postings and Stated Salaries](datasets/job-postings-and-stated-salaries-09031248db8e/) | 454 | On demand | 2026-11-10T23:01:24.664973Z |
 | [Consumer AI Subscription Prices](datasets/consumer-ai-subscription-prices-0db1533e818f/) | 2,742 | On demand | 2026-11-09T06:36:42.884357Z |

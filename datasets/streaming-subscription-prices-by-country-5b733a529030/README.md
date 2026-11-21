@@ -7,7 +7,7 @@ Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country fr
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 35
+- Active pipeline version: 36
 - Last published: 2026-11-17T12:31:05.125031Z
 
 ## The brief
@@ -132,6 +132,7 @@ flowchart LR
 - 2026-11-02T16:28:04.450435Z: v33: Website matching now selects from known search results and gives uncertain matches a second check before marking them unresolved\.
 - 2026-11-02T18:38:14.619452Z: v34: Long search results now use the full\-evidence fallback before they exceed the website\-selection limit\.
 - 2026-11-09T14:17:11.842834Z: v35: Disney Croatia and Slovenia now reach the existing corroborated\-source fallback if their official help pages fail to open\.
+- 2026-11-21T16:00:15.237442Z: v36: Removed the explicit large\-model choice from the discovery fallback so it inherits the platform default\. Existing prompts, validation, outputs and schedule are unchanged\.
 
 ## Recorded repairs
 

@@ -7,7 +7,7 @@ Public Finnish home sale listings from Etuovi and Oikotie, with 315 homes and 8,
 [Get the full dataset for free](https://www.jsonify.com/datasets/finnish-homes-and-renovation-events-2f9eb2b4c803?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
-- Active pipeline version: 20
+- Active pipeline version: 21
 - Last published: 2026-11-19T22:19:22.544305Z
 
 ## The brief
@@ -202,6 +202,7 @@ flowchart LR
 - 2026-11-19T21:56:44.462907Z: v18: Correct auction price selection and avoid false conflict flags for latest bids\.
 - 2026-11-19T22:05:17.388526Z: v19: Preserve both years in renovation descriptions such as 2006 ja \-07\.
 - 2026-11-19T22:15:52.856509Z: v20: Apply quality severity after corrections so incidental notes do not become material review flags\.
+- 2026-11-21T16:09:59.085485Z: v21: Removed all explicit large\-model selections, including fallback calls, so affected calls inherit the platform default\.
 
 ## Recorded repairs
 

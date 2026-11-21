@@ -1,8 +1,8 @@
-# GPU Hourly Rental Prices
+# GPU cloud pricing data: H100, H200, B200 and A100 hourly rental price dataset, refreshed daily
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 6,286 rows\.
+Hourly rental prices for H100, H200, B200, A100, L40S and MI300X GPUs from 12 clouds, read from their public pricing pages every day\. On\-demand, spot, commitment and capacity\-block prices\. Export to CSV or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machi
 
 ## The brief
 
-> I need this data: Listed hourly rental prices for H100 and B200 GPUs, with provider, region, machine, purchase terms, currency and price\-basis details\. The published dataset contains 6,286 rows\.
+> I need this data: Hourly rental prices for H100, H200, B200, A100, L40S and MI300X GPUs from 12 clouds, read from their public pricing pages every day\. On\-demand, spot, commitment and capacity\-block prices\. Export to CSV or Google Sheets\.
 
 Summary from the public dataset description.
 

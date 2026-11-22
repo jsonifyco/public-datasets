@@ -1,8 +1,8 @@
-# Olive Young, YesStyle and Stylevana data: K\-beauty price dataset
+# Olive Young, YesStyle and Stylevana data: K\-beauty price dataset, refreshed daily
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-K\-beauty product price observations from Olive Young Global, YesStyle, Stylevana and Amazon US, including current price, list price, advertised discount and stock status when available\. The published dataset contains 54 rows\.
+Daily prices for 12 best\-selling K\-beauty products on Olive Young Global, YesStyle, Stylevana and Amazon US: current price, list price, advertised discount and stock\. Export to CSV, JSON or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/k-beauty-daily-price-tracker-05b714f9dbe0?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ K\-beauty product price observations from Olive Young Global, YesStyle, Stylevan
 
 ## The brief
 
-> I need this data: K\-beauty product price observations from Olive Young Global, YesStyle, Stylevana and Amazon US, including current price, list price, advertised discount and stock status when available\. The published dataset contains 54 rows\.
+> I need this data: Daily prices for 12 best\-selling K\-beauty products on Olive Young Global, YesStyle, Stylevana and Amazon US: current price, list price, advertised discount and stock\. Export to CSV, JSON or Google Sheets\.
 
 Summary from the public dataset description.
 

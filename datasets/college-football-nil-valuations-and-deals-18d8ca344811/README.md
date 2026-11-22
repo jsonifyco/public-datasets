@@ -1,8 +1,8 @@
-# On3 data: college football NIL valuations and reported deals
+# On3 data: college football NIL valuations and deals dataset, refreshed weekly
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Dated On3 college football NIL valuations and publicly reported player deals, with schools, brands, source links and disclosed payment terms\.
+College football NIL dataset: On3's top 100 player NIL valuations \(school, position, class, followers\) and 100 recently reported brand deals, refreshed every Monday\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/college-football-nil-valuations-and-deals-18d8ca344811?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Dated On3 college football NIL valuations and publicly reported player deals, wi
 
 ## The brief
 
-> I need this data: Dated On3 college football NIL valuations and publicly reported player deals, with schools, brands, source links and disclosed payment terms\.
+> I need this data: College football NIL dataset: On3's top 100 player NIL valuations \(school, position, class, followers\) and 100 recently reported brand deals, refreshed every Monday\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 

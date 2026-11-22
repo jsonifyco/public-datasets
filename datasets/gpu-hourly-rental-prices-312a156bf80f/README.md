@@ -1,35 +1,35 @@
-# GPU cloud pricing data: H100, H200, B200 and A100 hourly rental price dataset, refreshed daily
+# GPU cloud pricing data: H100, H200, B200 and A100 hourly rental prices
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Hourly rental prices for H100, H200, B200, A100, L40S and MI300X GPUs from 12 clouds, read from their public pricing pages every day\. On\-demand, spot, commitment and capacity\-block prices\. Export to CSV or Google Sheets\.
+A dataset of published GPU rental prices, including H100, H200, B200, A100, L40S and MI300X\. Rows include purchase terms, price details, provider and source information, and observation dates\. The published table contains 6,611 rows\. Export to CSV or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 9
-- Last published: 2026-11-21T06:00:25.976786Z
+- Last published: 2026-11-22T06:02:23.622925Z
 
 ## The brief
 
-> I need this data: Hourly rental prices for H100, H200, B200, A100, L40S and MI300X GPUs from 12 clouds, read from their public pricing pages every day\. On\-demand, spot, commitment and capacity\-block prices\. Export to CSV or Google Sheets\.
+> I need this data: A dataset of published GPU rental prices, including H100, H200, B200, A100, L40S and MI300X\. Rows include purchase terms, price details, provider and source information, and observation dates\. The published table contains 6,611 rows\. Export to CSV or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-6,286 total rows · 50 sampled · Output revision 31
-Published: 2026-11-21T06:00:25.976786Z · Producing pipeline version: 9
+6,611 total rows · 50 sampled · Output revision 32
+Published: 2026-11-22T06:02:23.622925Z · Producing pipeline version: 9
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| A100 | A100 | Serverless inference | Global | Global | serverless | Not stated | 2\.72 |
-| H200 | NVIDIA H200 141GB HGX | NVIDIA H200 141GB HGX | Global | Global | on\_demand | No fixed term | 4\.29 |
-| B200 | NVIDIA HGX B200 | NVIDIA HGX B200 | Europe | Regional | on\_demand | No fixed term | 68\.8 |
-| H200 | H200 NVL | Marketplace offer 58416011 | New Mexico, US | US | on\_demand | No fixed term | 4\.002222222222223 |
-| A100 | NVIDIA A100 | NVIDIA A100 | Europe | Regional | on\_demand | No fixed term | 21\.6 |
+| H200 | H200 NVL | Marketplace offer 48217154 | Japan, JP | JP | on\_demand | No fixed term | 8\.26888888888889 |
+| B200 | B200 | Clusters | Global | Global | on\_demand | No commitments | 9\.59 |
+| H200 | H200 NVL | Marketplace offer 60726308 | United Kingdom, GB | UK | on\_demand | No fixed term | 17\.014074074074074 |
+| A100 | NVIDIA A100 PCIe 40 GB | 2x NVIDIA A100 PCIe 40 GB | Global | Global | on\_demand | No fixed term | 1\.99 |
+| H200 | H200 | p5e\.48xlarge | US West \(Oregon\) | US | capacity\_block | Not stated | 54\.924 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

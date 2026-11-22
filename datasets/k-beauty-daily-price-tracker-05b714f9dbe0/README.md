@@ -1,35 +1,35 @@
-# K\-Beauty Daily Price Tracker
+# Olive Young, YesStyle and Stylevana data: K\-beauty price dataset
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-K\-beauty price records with capture dates, retailer, product, price, advertised discount, and stock fields\. The published dataset contains 29 price observations\.
+K\-beauty product price observations from Olive Young Global, YesStyle, Stylevana and Amazon US, including current price, list price, advertised discount and stock status when available\. The published dataset contains 54 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/k-beauty-daily-price-tracker-05b714f9dbe0?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-21T21:16:46.007291Z
+- Last published: 2026-11-22T09:07:57.886345Z
 
 ## The brief
 
-> I need this data: K\-beauty price records with capture dates, retailer, product, price, advertised discount, and stock fields\. The published dataset contains 29 price observations\.
+> I need this data: K\-beauty product price observations from Olive Young Global, YesStyle, Stylevana and Amazon US, including current price, list price, advertised discount and stock status when available\. The published dataset contains 54 rows\.
 
 Summary from the public dataset description.
 
 ## K\-beauty Daily Price History / prices
 
-29 total rows · 10 sampled · Output revision 3
-Published: 2026-11-21T21:16:46.007291Z · Producing pipeline version: 3
+54 total rows · 10 sampled · Output revision 4
+Published: 2026-11-22T09:07:57.886345Z · Producing pipeline version: 3
 
 [CSV sample](outputs/36aefab1c219/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/36aefab1c219/prices-fe81f9390ffe/sample.json) · [Schema](outputs/36aefab1c219/prices-fe81f9390ffe/schema.json)
 
 | advertised\_discount\_pct | brand | capture\_date | capture\_time | currency | current\_price | in\_stock | list\_price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 14 | COSRX | 2026\-11\-22 | 2026\-11\-22T09:02:28\+00:00 | USD | 18\.8 | True | 22 |
+| 30 | Beauty of Joseon | 2026\-11\-22 | 2026\-11\-22T09:01:59\+00:00 | USD | 12\.6 | True | 18 |
 | None | Anua | 2026\-11\-21 | 2026\-11\-21T21:10:36\+00:00 | USD | 17 | True | 20 |
+| 30 | Beauty of Joseon | 2026\-11\-22 | 2026\-11\-22T09:02:02\+00:00 | USD | 11\.9 | True | 17 |
 | 37 | Anua | 2026\-11\-21 | 2026\-11\-21T21:11:19\+00:00 | USD | 12\.6 | True | None |
-| 20 | Anua | 2026\-11\-21 | 2026\-11\-21T21:10:37\+00:00 | USD | 22\.99 | True | 28\.88 |
-| None | Round Lab | 2026\-11\-21 | 2026\-11\-21T21:10:36\+00:00 | USD | 19\.6 | True | 28 |
-| 30 | Round Lab | 2026\-11\-21 | 2026\-11\-21T21:10:32\+00:00 | USD | 19\.6 | True | 28 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -25,6 +25,14 @@
   },
   {
     "board_url": "https://jobs.ashbyhq.com/cohere",
+    "capture_date": "2026-11-22T09:00:33.033946+00:00",
+    "company": "Cohere",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 124
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/cohere",
     "capture_date": "2026-11-19T16:31:15.157852+00:00",
     "company": "Cohere",
     "complete": true,
@@ -56,27 +64,19 @@
     "posting_count": 79
   },
   {
+    "board_url": "https://jobs.ashbyhq.com/notion",
+    "capture_date": "2026-11-22T09:00:33.033946+00:00",
+    "company": "Notion",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 170
+  },
+  {
     "board_url": "https://job-boards.greenhouse.io/figma",
     "capture_date": "2026-11-21T09:00:30.919470+00:00",
     "company": "Figma",
     "complete": true,
     "platform": "Greenhouse",
     "posting_count": 147
-  },
-  {
-    "board_url": "https://job-boards.greenhouse.io/brex",
-    "capture_date": "2026-11-19T16:31:15.157852+00:00",
-    "company": "Brex",
-    "complete": true,
-    "platform": "Greenhouse",
-    "posting_count": 261
-  },
-  {
-    "board_url": "https://job-boards.greenhouse.io/cloudflare",
-    "capture_date": "2026-11-21T09:00:30.919470+00:00",
-    "company": "Cloudflare",
-    "complete": true,
-    "platform": "Greenhouse",
-    "posting_count": 503
   }
 ]

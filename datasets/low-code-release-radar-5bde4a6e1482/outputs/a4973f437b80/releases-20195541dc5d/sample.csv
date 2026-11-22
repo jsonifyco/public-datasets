@@ -1,21 +1,5 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-11-21T08:00:08.070864+00:00,2026-11-19T16:23:11Z,1,451605836,Release v2.7.2 🌈,"## 🔐 Security
-
-- The bundled Java runtime is now Eclipse Temurin 25.0.5.1. This fixes [CVE-2026-114938](https://nvd.nist.gov/vuln/detail/CVE-2026-114938) (""Java4Shell"") in the Java runtime. All earlier Appsmith images include an affected Java version. Self-hosted instances should upgrade.",https://github.com/appsmithorg/appsmith/releases/tag/v2.7.2,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.7.2
-2026-11-21T08:00:08.041073+00:00,2026-11-20T08:36:44Z,0,452442280,n8n@2.48.7,"## [2.48.7](https://github.com/n8n-io/n8n/compare/n8n@2.48.6...n8n@2.48.7) (2026-11-20)
-
-
-### Bug Fixes
-
-* **core:** End memory guard hold when hold-limit stop frees no memory ([#44463](https://github.com/n8n-io/n8n/issues/44463)) ([22643e1](https://github.com/n8n-io/n8n/commit/22643e170e5ae7ddc86bb61b7d1d5d9e1aab1486))
-* **core:** Store plain input data in the error output of scripting nodes ([#44530](https://github.com/n8n-io/n8n/issues/44530)) ([c26c923](https://github.com/n8n-io/n8n/commit/c26c923b248d33e80aad51a7abc80aa07eb6c595))
-
-<!-- This is an auto-generated description by cubic. -->
-<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/44594?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/44594?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F44594&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
-<!-- End of auto-generated description by cubic. -->
-
-",https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.48.7
-2026-11-21T08:00:08.124027+00:00,2026-11-16T09:34:13Z,4,446832385,v4.0.1,"## What's Changed
+2026-11-22T08:00:08.323675+00:00,2026-11-16T09:34:13Z,5,446832385,v4.0.1,"## What's Changed
 * Add a CI check to ensure asdf and node-env and pyenv are on sync by @adrinr in https://github.com/Budibase/budibase/pull/20076
 * Bump dd-trace from 5.109.0 to 5.131.1 in /packages/backend-core by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19926
 * fix: pin Svelte version to 5.40.2 in plugin templates by @mgr-punith in https://github.com/Budibase/budibase/pull/19921
@@ -31,3 +15,19 @@ checked_at,published_at,release_age_days,release_id,release_name,release_notes,r
 * @mgr-punith made their first contribution in https://github.com/Budibase/budibase/pull/19921
 
 **Full Changelog**: https://github.com/Budibase/budibase/compare/v4.0.0...v4.0.1",https://github.com/Budibase/budibase/releases/tag/v4.0.1,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.0.1
+2026-11-22T08:00:08.260870+00:00,2026-11-20T08:36:44Z,1,452442280,n8n@2.48.7,"## [2.48.7](https://github.com/n8n-io/n8n/compare/n8n@2.48.6...n8n@2.48.7) (2026-11-20)
+
+
+### Bug Fixes
+
+* **core:** End memory guard hold when hold-limit stop frees no memory ([#44463](https://github.com/n8n-io/n8n/issues/44463)) ([22643e1](https://github.com/n8n-io/n8n/commit/22643e170e5ae7ddc86bb61b7d1d5d9e1aab1486))
+* **core:** Store plain input data in the error output of scripting nodes ([#44530](https://github.com/n8n-io/n8n/issues/44530)) ([c26c923](https://github.com/n8n-io/n8n/commit/c26c923b248d33e80aad51a7abc80aa07eb6c595))
+
+<!-- This is an auto-generated description by cubic. -->
+<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/44594?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/44594?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F44594&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
+<!-- End of auto-generated description by cubic. -->
+
+",https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.48.7
+2026-11-22T08:00:08.235040+00:00,2026-11-19T16:23:11Z,2,451605836,Release v2.7.2 🌈,"## 🔐 Security
+
+- The bundled Java runtime is now Eclipse Temurin 25.0.5.1. This fixes [CVE-2026-114938](https://nvd.nist.gov/vuln/detail/CVE-2026-114938) (""Java4Shell"") in the Java runtime. All earlier Appsmith images include an affected Java version. Self-hosted instances should upgrade.",https://github.com/appsmithorg/appsmith/releases/tag/v2.7.2,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.7.2

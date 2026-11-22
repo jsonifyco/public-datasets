@@ -1,0 +1,46 @@
+[
+  {
+    "name": "capture_date",
+    "type": "text"
+  },
+  {
+    "name": "class",
+    "type": "text"
+  },
+  {
+    "name": "nil_valuation_usd",
+    "type": "integer"
+  },
+  {
+    "name": "player",
+    "type": "text"
+  },
+  {
+    "name": "position",
+    "type": "text"
+  },
+  {
+    "name": "profile_url",
+    "type": "text"
+  },
+  {
+    "name": "rank",
+    "type": "integer"
+  },
+  {
+    "name": "school",
+    "type": "text"
+  },
+  {
+    "name": "snapshot_key",
+    "type": "text"
+  },
+  {
+    "name": "social_followers",
+    "type": "integer"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

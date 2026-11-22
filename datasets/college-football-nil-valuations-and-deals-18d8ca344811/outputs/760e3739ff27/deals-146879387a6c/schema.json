@@ -1,0 +1,54 @@
+[
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "capture_date",
+    "type": "text"
+  },
+  {
+    "name": "date_basis",
+    "type": "text"
+  },
+  {
+    "name": "deal_date",
+    "type": "text"
+  },
+  {
+    "name": "deal_evidence",
+    "type": "text"
+  },
+  {
+    "name": "deal_type",
+    "type": "text"
+  },
+  {
+    "name": "player",
+    "type": "text"
+  },
+  {
+    "name": "report_date",
+    "type": "text"
+  },
+  {
+    "name": "reported_value_text",
+    "type": "text"
+  },
+  {
+    "name": "reported_value_usd",
+    "type": "text"
+  },
+  {
+    "name": "school",
+    "type": "text"
+  },
+  {
+    "name": "snapshot_key",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

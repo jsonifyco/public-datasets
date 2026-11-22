@@ -1,0 +1,82 @@
+[
+  {
+    "name": "affected_acres",
+    "type": "text"
+  },
+  {
+    "name": "commodity",
+    "type": "text"
+  },
+  {
+    "name": "county",
+    "type": "text"
+  },
+  {
+    "name": "expiration_date",
+    "type": "text"
+  },
+  {
+    "name": "first_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "latest_action",
+    "type": "text"
+  },
+  {
+    "name": "latest_action_date",
+    "type": "text"
+  },
+  {
+    "name": "latest_revision_date",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "text"
+  },
+  {
+    "name": "mine_type",
+    "type": "text"
+  },
+  {
+    "name": "original_issue_date",
+    "type": "text"
+  },
+  {
+    "name": "permit_key",
+    "type": "text"
+  },
+  {
+    "name": "permit_number",
+    "type": "text"
+  },
+  {
+    "name": "permit_status",
+    "type": "text"
+  },
+  {
+    "name": "permitted_acres",
+    "type": "text"
+  },
+  {
+    "name": "permittee_name",
+    "type": "text"
+  },
+  {
+    "name": "source_name",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  }
+]

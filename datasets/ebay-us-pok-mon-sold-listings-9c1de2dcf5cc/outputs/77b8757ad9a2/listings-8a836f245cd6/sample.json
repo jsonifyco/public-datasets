@@ -22,6 +22,28 @@
     "sold_price": 425
   },
   {
+    "best_offer_accepted": null,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Lugia V Silver Tempest Alt Art 186/195 | raw",
+    "condition": "Pre-Owned",
+    "currency": "USD",
+    "grade": "raw (no grading stated)",
+    "image_url": "https://i.ebayimg.com/images/g/dgIAAeSwpzNq7-52/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/dgIAAeSwpzNq7-52/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/900074354259",
+    "listing_format": "buy it now",
+    "listing_title": "Lugia V (Alternate Full Art) 186/195 Silver Tempest NM",
+    "price_basis": "displayed price; offer status unknown",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Lugia V Silver Tempest Alt Art 186/195 | raw|900074354259",
+    "search_query": "Lugia V 186/195 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "shipping_cost": 5.65,
+    "shipping_text": "$5.65",
+    "sold_date": "2026-11-18",
+    "sold_price": 469
+  },
+  {
     "best_offer_accepted": true,
     "captured_at": "2026-11-20T09:00:13.614396+00:00",
     "card": "Magikarp Paldea Evolved Illustration Rare 203/193 | raw",
@@ -64,6 +86,28 @@
     "shipping_text": "$0",
     "sold_date": "2026-11-03",
     "sold_price": 3333
+  },
+  {
+    "best_offer_accepted": null,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Charizard Base Set Unlimited 4/102 | raw",
+    "condition": "Pre-Owned",
+    "currency": "USD",
+    "grade": "raw (no grading stated)",
+    "image_url": "https://i.ebayimg.com/images/g/lOMAAeSwegtq~FnP/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/lOMAAeSwegtq~FnP/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/820365598603",
+    "listing_format": "buy it now",
+    "listing_title": "Charizard 4/102 Base Set Unlimited Holo Rare 1999",
+    "price_basis": "displayed price; offer status unknown",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Charizard Base Set Unlimited 4/102 | raw|820365598603",
+    "search_query": "Charizard 4/102 Unlimited -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "shipping_cost": 0,
+    "shipping_text": "$0",
+    "sold_date": "2026-11-20",
+    "sold_price": 275
   },
   {
     "best_offer_accepted": null,
@@ -133,6 +177,28 @@
   },
   {
     "best_offer_accepted": null,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Blastoise ex 151 SIR 200/165 | raw",
+    "condition": "Pre-Owned",
+    "currency": "USD",
+    "grade": "raw (no grading stated)",
+    "image_url": "https://i.ebayimg.com/images/g/aFsAAeSwD6Jq8298/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/aFsAAeSwD6Jq8298/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/960179716930",
+    "listing_format": "buy it now",
+    "listing_title": "Blastoise ex 200/165 SV Scarlet & Violet 151 Ultra Rare Full Art Holo English NM",
+    "price_basis": "displayed price; offer status unknown",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Blastoise ex 151 SIR 200/165 | raw|960179716930",
+    "search_query": "Blastoise ex 200/165 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "shipping_cost": 25.24,
+    "shipping_text": "$25.24",
+    "sold_date": "2026-11-18",
+    "sold_price": 120.37
+  },
+  {
+    "best_offer_accepted": null,
     "captured_at": "2026-11-21T09:00:15.394499+00:00",
     "card": "Magikarp Paldea Evolved Illustration Rare 203/193 | raw",
     "condition": "Pre-Owned",
@@ -174,6 +240,28 @@
     "shipping_text": "$5.75",
     "sold_date": "2026-11-19",
     "sold_price": 300
+  },
+  {
+    "best_offer_accepted": null,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Greninja ex Twilight Masquerade SIR 214/167 | raw",
+    "condition": "Pre-Owned",
+    "currency": "USD",
+    "grade": "raw (no grading stated)",
+    "image_url": "https://i.ebayimg.com/images/g/Dx8AAeSwDtRq-0gZ/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/Dx8AAeSwDtRq-0gZ/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/147683534915",
+    "listing_format": "buy it now",
+    "listing_title": "SV06: Twilight Masquerade Greninja ex - 214/167 #214/167",
+    "price_basis": "displayed price; offer status unknown",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Greninja ex Twilight Masquerade SIR 214/167 | raw|147683534915",
+    "search_query": "Greninja ex 214/167 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "shipping_cost": 1.69,
+    "shipping_text": "$1.69",
+    "sold_date": "2026-11-16",
+    "sold_price": 258.68
   },
   {
     "best_offer_accepted": null,
@@ -350,6 +438,28 @@
     "shipping_text": "$6.99",
     "sold_date": "2026-11-09",
     "sold_price": 160
+  },
+  {
+    "best_offer_accepted": null,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Sylveon VMAX Evolving Skies Alt Art 212/203 | PSA 10",
+    "condition": "New (Other)",
+    "currency": "USD",
+    "grade": "PSA 10",
+    "image_url": "https://i.ebayimg.com/images/g/VX0AAeSwV1lq6PvN/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/VX0AAeSwV1lq6PvN/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/287700123694",
+    "listing_format": "buy it now",
+    "listing_title": "Pokemon PSA 10 2021 SWSH07 Sylveon VMAX 212/203 Secret Rare Evolving Skies",
+    "price_basis": "displayed price; offer status unknown",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Sylveon VMAX Evolving Skies Alt Art 212/203 | PSA 10|287700123694",
+    "search_query": "Sylveon VMAX 212/203 PSA 10 -proxy -jumbo -lot -Japanese",
+    "shipping_cost": 14.99,
+    "shipping_text": "$14.99",
+    "sold_date": "2026-11-14",
+    "sold_price": 558.99
   },
   {
     "best_offer_accepted": true,
@@ -573,6 +683,28 @@
   },
   {
     "best_offer_accepted": null,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Blastoise ex 151 SIR 200/165 | raw",
+    "condition": "Pre-Owned",
+    "currency": "USD",
+    "grade": "raw (no grading stated)",
+    "image_url": "https://i.ebayimg.com/images/g/FQMAAeSwxYBq4ouQ/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/FQMAAeSwxYBq4ouQ/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/237149650535",
+    "listing_format": "buy it now",
+    "listing_title": "Pokémon TCG Blastoise EX Sir 200/165 Scarlet & Violet 151",
+    "price_basis": "displayed price; offer status unknown",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Blastoise ex 151 SIR 200/165 | raw|237149650535",
+    "search_query": "Blastoise ex 200/165 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "shipping_cost": 6.2,
+    "shipping_text": "$6.20",
+    "sold_date": "2026-11-21",
+    "sold_price": 132.5
+  },
+  {
+    "best_offer_accepted": null,
     "captured_at": "2026-11-19T09:00:14.653814+00:00",
     "card": "Blastoise ex 151 SIR 200/165 | raw",
     "condition": "New (Other)",
@@ -614,6 +746,28 @@
     "shipping_text": "$8.80",
     "sold_date": "2026-11-18",
     "sold_price": 225
+  },
+  {
+    "best_offer_accepted": null,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Lugia V Silver Tempest Alt Art 186/195 | raw",
+    "condition": "Pre-Owned",
+    "currency": "USD",
+    "grade": "raw (no grading stated)",
+    "image_url": "https://i.ebayimg.com/images/g/b~IAAeSwDqJq8n3L/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/b~IAAeSwDqJq8n3L/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/147673965042",
+    "listing_format": "buy it now",
+    "listing_title": "The Pokémon Company Lugia V 186/195 Alt Full Art Holo Ultra Rare Silver Tempest",
+    "price_basis": "displayed price; offer status unknown",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Lugia V Silver Tempest Alt Art 186/195 | raw|147673965042",
+    "search_query": "Lugia V 186/195 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "shipping_cost": null,
+    "shipping_text": null,
+    "sold_date": "2026-11-10",
+    "sold_price": 447.25
   },
   {
     "best_offer_accepted": null,
@@ -702,6 +856,28 @@
     "shipping_text": "$5.65",
     "sold_date": "2026-11-10",
     "sold_price": 550
+  },
+  {
+    "best_offer_accepted": null,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Mewtwo VSTAR Crown Zenith Galarian Gallery GG44/GG70 | raw",
+    "condition": "Pre-Owned",
+    "currency": "USD",
+    "grade": "raw (no grading stated)",
+    "image_url": "https://i.ebayimg.com/images/g/tZ8AAeSwQdNq8OMr/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/tZ8AAeSwQdNq8OMr/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/237171943896",
+    "listing_format": "buy it now",
+    "listing_title": "POKEMON Mewtwo VSTAR GG44/GG70 Holo CROWN ZENITH GALARIAN GALLERY NM/M CRZ",
+    "price_basis": "displayed price; offer status unknown",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Mewtwo VSTAR Crown Zenith Galarian Gallery GG44/GG70 | raw|237171943896",
+    "search_query": "Mewtwo VSTAR GG44/GG70 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "shipping_cost": 12.55,
+    "shipping_text": "$12.55",
+    "sold_date": "2026-11-16",
+    "sold_price": 202.18
   },
   {
     "best_offer_accepted": null,
@@ -836,6 +1012,28 @@
     "sold_price": 3600
   },
   {
+    "best_offer_accepted": true,
+    "captured_at": "2026-11-22T09:00:16.283481+00:00",
+    "card": "Blastoise ex 151 SIR 200/165 | raw",
+    "condition": "New (Other)",
+    "currency": "USD",
+    "grade": "raw (no grading stated)",
+    "image_url": "https://i.ebayimg.com/images/g/jloAAeSwBDhqrIfy/s-l1600.jpg",
+    "image_urls": [
+      "https://i.ebayimg.com/images/g/jloAAeSwBDhqrIfy/s-l1600.jpg"
+    ],
+    "item_url": "https://www.ebay.com/itm/318884673941",
+    "listing_format": "best offer accepted",
+    "listing_title": "Blastoise ex 200/165 Sv: Scarlet & Violet 151 Holo Beckett 9",
+    "price_basis": "asking price; accepted offer undisclosed",
+    "row_key": "2026-11-22T09:00:16.283481+00:00|Blastoise ex 151 SIR 200/165 | raw|318884673941",
+    "search_query": "Blastoise ex 200/165 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
+    "shipping_cost": 6.59,
+    "shipping_text": "$6.59",
+    "sold_date": "2026-11-20",
+    "sold_price": 115
+  },
+  {
     "best_offer_accepted": null,
     "captured_at": "2026-11-20T09:00:13.614396+00:00",
     "card": "Blastoise ex 151 SIR 200/165 | raw",
@@ -900,203 +1098,5 @@
     "shipping_text": "$0",
     "sold_date": "2026-11-16",
     "sold_price": 750
-  },
-  {
-    "best_offer_accepted": null,
-    "captured_at": "2026-11-20T09:00:13.614396+00:00",
-    "card": "Sylveon VMAX Evolving Skies Alt Art 212/203 | PSA 10",
-    "condition": "New (Other)",
-    "currency": "USD",
-    "grade": "PSA 10",
-    "image_url": "https://i.ebayimg.com/images/g/A6oAAeSwJU5q4fks/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/A6oAAeSwJU5q4fks/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/307253742993",
-    "listing_format": "buy it now",
-    "listing_title": "Sylveon VMAX 212/203 Alt Art Full Art Holo Evolving Skies 2021 PSA 10",
-    "price_basis": "displayed price; offer status unknown",
-    "row_key": "2026-11-20T09:00:13.614396+00:00|Sylveon VMAX Evolving Skies Alt Art 212/203 | PSA 10|307253742993",
-    "search_query": "Sylveon VMAX 212/203 PSA 10 -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 6.67,
-    "shipping_text": "$6.67",
-    "sold_date": "2026-10-28",
-    "sold_price": 589.99
-  },
-  {
-    "best_offer_accepted": null,
-    "captured_at": "2026-11-19T09:00:14.653814+00:00",
-    "card": "Charizard Base Set Unlimited 4/102 | raw",
-    "condition": "Pre-Owned",
-    "currency": "USD",
-    "grade": "raw (no grading stated)",
-    "image_url": "https://i.ebayimg.com/images/g/NLAAAeSwXqBq0wRu/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/NLAAAeSwXqBq0wRu/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/287653527983",
-    "listing_format": "buy it now",
-    "listing_title": "Pokemon Base Set Charizard 4/102 Holo Rare Unlimited ENG Wizards 1999",
-    "price_basis": "displayed price; offer status unknown",
-    "row_key": "2026-11-19T09:00:14.653814+00:00|Charizard Base Set Unlimited 4/102 | raw|287653527983",
-    "search_query": "Charizard 4/102 Unlimited -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 12.1,
-    "shipping_text": "$12.10",
-    "sold_date": "2026-11-12",
-    "sold_price": 300
-  },
-  {
-    "best_offer_accepted": null,
-    "captured_at": "2026-11-19T09:00:14.653814+00:00",
-    "card": "Lugia V Silver Tempest Alt Art 186/195 | raw",
-    "condition": "Pre-Owned",
-    "currency": "USD",
-    "grade": "raw (no grading stated)",
-    "image_url": "https://i.ebayimg.com/images/g/3R4AAeSw1xpq8oJh/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/3R4AAeSw1xpq8oJh/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/920124202428",
-    "listing_format": "buy it now",
-    "listing_title": "Lugia V 186/195 Silver Tempest Ultra Rare Full Art Holo Pokemon TCG English",
-    "price_basis": "displayed price; offer status unknown",
-    "row_key": "2026-11-19T09:00:14.653814+00:00|Lugia V Silver Tempest Alt Art 186/195 | raw|920124202428",
-    "search_query": "Lugia V 186/195 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 5.59,
-    "shipping_text": "$5.59",
-    "sold_date": "2026-11-09",
-    "sold_price": 450
-  },
-  {
-    "best_offer_accepted": true,
-    "captured_at": "2026-11-21T09:00:15.394499+00:00",
-    "card": "Charizard Base Set Unlimited 4/102 | raw",
-    "condition": "Pre-Owned",
-    "currency": "USD",
-    "grade": "raw (no grading stated)",
-    "image_url": "https://i.ebayimg.com/images/g/sYkAAeSw8j1q~U2U/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/sYkAAeSw8j1q~U2U/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/366818718918",
-    "listing_format": "best offer accepted",
-    "listing_title": "Pokémon TCG: 1999 Base Set Charizard 4/102 Holo Unlimited MP WOTC Vintage",
-    "price_basis": "asking price; accepted offer undisclosed",
-    "row_key": "2026-11-21T09:00:15.394499+00:00|Charizard Base Set Unlimited 4/102 | raw|366818718918",
-    "search_query": "Charizard 4/102 Unlimited -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 4.39,
-    "shipping_text": "$4.39",
-    "sold_date": "2026-11-20",
-    "sold_price": 349.99
-  },
-  {
-    "best_offer_accepted": null,
-    "captured_at": "2026-11-20T09:00:13.614396+00:00",
-    "card": "Umbreon VMAX Evolving Skies Alt Art (Moonbreon) 215/203 | PSA 10",
-    "condition": "New (Other)",
-    "currency": "USD",
-    "grade": "PSA 10",
-    "image_url": "https://i.ebayimg.com/images/g/tjUAAeSw~uZq6Z4W/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/tjUAAeSw~uZq6Z4W/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/128172213564",
-    "listing_format": "auction",
-    "listing_title": "2021 Pokemon SWSH Evolving Skies Umbreon VMAX #215/203 PSA 10 GEM MINT",
-    "price_basis": "displayed sold price",
-    "row_key": "2026-11-20T09:00:13.614396+00:00|Umbreon VMAX Evolving Skies Alt Art (Moonbreon) 215/203 | PSA 10|128172213564",
-    "search_query": "Umbreon VMAX 215/203 PSA 10 -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 4.99,
-    "shipping_text": "$4.99",
-    "sold_date": "2026-11-08",
-    "sold_price": 3351
-  },
-  {
-    "best_offer_accepted": true,
-    "captured_at": "2026-11-20T09:00:13.614396+00:00",
-    "card": "Greninja ex Twilight Masquerade SIR 214/167 | raw",
-    "condition": "Pre-Owned",
-    "currency": "USD",
-    "grade": "raw (no grading stated)",
-    "image_url": "https://i.ebayimg.com/images/g/tJ4AAeSwWutq88wu/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/tJ4AAeSwWutq88wu/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/407354316087",
-    "listing_format": "best offer accepted",
-    "listing_title": "Greninja ex 214/167 Twilight Masquerade SIR Holo",
-    "price_basis": "asking price; accepted offer undisclosed",
-    "row_key": "2026-11-20T09:00:13.614396+00:00|Greninja ex Twilight Masquerade SIR 214/167 | raw|407354316087",
-    "search_query": "Greninja ex 214/167 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 6.67,
-    "shipping_text": "$6.67",
-    "sold_date": "2026-11-14",
-    "sold_price": 239.99
-  },
-  {
-    "best_offer_accepted": null,
-    "captured_at": "2026-11-21T09:00:15.394499+00:00",
-    "card": "Rayquaza VMAX Evolving Skies Alt Art 218/203 | PSA 10",
-    "condition": "New (Other)",
-    "currency": "USD",
-    "grade": "PSA 10",
-    "image_url": "https://i.ebayimg.com/images/g/EakAAeSwtWZq18hK/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/EakAAeSwtWZq18hK/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/336872766889",
-    "listing_format": "auction",
-    "listing_title": "RAYQUAZA VMAX POKEMON EVOLVING SKIES SECRET RARE ALT 218/203 GRADED PSA 10 GEM",
-    "price_basis": "displayed sold price",
-    "row_key": "2026-11-21T09:00:15.394499+00:00|Rayquaza VMAX Evolving Skies Alt Art 218/203 | PSA 10|336872766889",
-    "search_query": "Rayquaza VMAX 218/203 PSA 10 -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 5.5,
-    "shipping_text": "$5.50",
-    "sold_date": "2026-11-07",
-    "sold_price": 1975
-  },
-  {
-    "best_offer_accepted": null,
-    "captured_at": "2026-11-21T09:00:15.394499+00:00",
-    "card": "Mewtwo VSTAR Crown Zenith Galarian Gallery GG44/GG70 | raw",
-    "condition": "Pre-Owned",
-    "currency": "USD",
-    "grade": "raw (no grading stated)",
-    "image_url": "https://i.ebayimg.com/images/g/6CEAAeSw769q~j8A/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/6CEAAeSw769q~j8A/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/960213473474",
-    "listing_format": "buy it now",
-    "listing_title": "Pokemon TCG Mewtwo VSTAR Crown Zenith Galarian Gallery GG44/GG70 Holo NM OC",
-    "price_basis": "displayed price; offer status unknown",
-    "row_key": "2026-11-21T09:00:15.394499+00:00|Mewtwo VSTAR Crown Zenith Galarian Gallery GG44/GG70 | raw|960213473474",
-    "search_query": "Mewtwo VSTAR GG44/GG70 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 0,
-    "shipping_text": "$0",
-    "sold_date": "2026-11-19",
-    "sold_price": 200
-  },
-  {
-    "best_offer_accepted": true,
-    "captured_at": "2026-11-21T09:00:15.394499+00:00",
-    "card": "Gengar VMAX Fusion Strike Alt Art 271/264 | raw",
-    "condition": "Pre-Owned",
-    "currency": "USD",
-    "grade": "raw (no grading stated)",
-    "image_url": "https://i.ebayimg.com/images/g/LNkAAeSwQBZq~8ID/s-l1600.jpg",
-    "image_urls": [
-      "https://i.ebayimg.com/images/g/LNkAAeSwQBZq~8ID/s-l1600.jpg"
-    ],
-    "item_url": "https://www.ebay.com/itm/366823894526",
-    "listing_format": "best offer accepted",
-    "listing_title": "The Pokémon Company Gengar VMAX Alt Art Secret Rare Holo 271/264 320 HP",
-    "price_basis": "asking price; accepted offer undisclosed",
-    "row_key": "2026-11-21T09:00:15.394499+00:00|Gengar VMAX Fusion Strike Alt Art 271/264 | raw|366823894526",
-    "search_query": "Gengar VMAX 271/264 -PSA -CGC -BGS -graded -slab -proxy -jumbo -lot -Japanese",
-    "shipping_cost": 5.59,
-    "shipping_text": "$5.59",
-    "sold_date": "2026-11-20",
-    "sold_price": 600
   }
 ]

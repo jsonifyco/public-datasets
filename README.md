@@ -13,16 +13,18 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [BLOXOME EU Building and Parcel Sample](datasets/bloxome-eu-building-and-parcel-sample-023cb9bef779/) | 400 | On demand | 2026-11-10T12:09:59.030747Z |
 | [Quiet Signal: Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 13 | On demand | 2026-11-09T09:16:44.334767Z |
 | [Online Businesses for Sale](datasets/online-businesses-for-sale-058b5903d847/) | 215 | weekly | 2026-11-16T08:01:00.072489Z |
-| [K\-Beauty Daily Price Tracker](datasets/k-beauty-daily-price-tracker-05b714f9dbe0/) | 29 | daily | 2026-11-21T21:16:46.007291Z |
+| [Olive Young, YesStyle and Stylevana data: K\-beauty price dataset](datasets/k-beauty-daily-price-tracker-05b714f9dbe0/) | 54 | daily | 2026-11-22T09:07:57.886345Z |
 | [Hacker News AI Story Tags](datasets/hacker-news-ai-067aaaf184ae/) | 30 | On demand | 2026-11-09T09:11:23.908539Z |
 | [Job Postings and Stated Salaries](datasets/job-postings-and-stated-salaries-09031248db8e/) | 454 | On demand | 2026-11-10T23:01:24.664973Z |
 | [Consumer AI Subscription Prices](datasets/consumer-ai-subscription-prices-0db1533e818f/) | 2,742 | On demand | 2026-11-09T06:36:42.884357Z |
 | [Worldwide Literary Agents, Agencies &amp; Fiction Publishers Directory](datasets/worldwide-literary-agents-and-fiction-publishers-0f2335ceed4c/) | 145 | On demand | 2026-10-17T17:35:55.531140Z |
 | [Allegro Poland LEGO Seller Prices](datasets/allegro-poland-lego-seller-prices-111dc8b854b2/) | 681 | On demand | 2026-11-12T11:38:22.240043Z |
+| [Mining Permits: State Mining Permit Data for NC, VA and PA](datasets/us-state-mining-permits-12c2d09e84a4/) | 1,001 | weekly | 2026-11-22T09:07:57.808197Z |
 | [Lisbon Venue Accessibility](datasets/lisbon-venue-accessibility-14d9f76469c1/) | 298 | On demand | 2026-11-11T12:59:22.049505Z |
 | [Coffee Capsule Prices in Portugal](datasets/coffee-capsule-shelf-pt-15625f7dd7ac/) | 1,178 | On demand | 2026-11-09T06:33:55.941367Z |
 | [Iberian Endurance Events](datasets/aurea77-iberian-endurance-events-15c76f799e90/) | 394 | On demand | 2026-11-11T20:40:20.829684Z |
 | [Marktplaats Car Dealers](datasets/marktplaats-car-dealers-16546ec450b2/) | 50 | weekly | 2026-11-16T07:02:03.173674Z |
+| [On3 data: college football NIL valuations and reported deals](datasets/college-football-nil-valuations-and-deals-18d8ca344811/) | 200 | weekly | 2026-11-22T10:52:58.185982Z |
 | [Companies Hiring at Scale in Poland \(50\+ Open Roles\)](datasets/companies-hiring-at-scale-in-poland-50-open-roles-1be11bee1c95/) | 96 | On demand | 2026-11-16T09:36:41.296141Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [Brazilian Apartment Prices per m²](datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4/) | 540 | On demand | 2026-11-09T12:51:52.148844Z |
@@ -32,7 +34,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
 | [Finnish Homes and Renovation Events](datasets/finnish-homes-and-renovation-events-2f9eb2b4c803/) | 8,909 | On demand | 2026-11-19T22:19:22.544305Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 4,305 | weekly | 2026-11-16T06:08:28.824595Z |
-| [GPU cloud pricing data: H100, H200, B200 and A100 hourly rental price dataset, refreshed daily](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 6,286 | daily | 2026-11-21T06:00:25.976786Z |
+| [GPU cloud pricing data: H100, H200, B200 and A100 hourly rental prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 6,611 | daily | 2026-11-22T06:02:23.622925Z |
 | [LlamaIndex Module Guides Articles](datasets/llamaindex-reader-demo-docs-pages-328f6855123c/) | 84 | On demand | 2026-10-14T09:05:41.861355Z |
 | [Meta and TikTok Ad Intelligence Demo: Ads, Products, and Creative Signals](datasets/meta-tiktok-ad-intelligence-demo-357c0ad757e7/) | 288 | On demand | 2026-11-09T12:20:15.420061Z |
 | [INTELLIAAI YouTube Search Placement Discovery](datasets/intelliaai-youtube-search-placement-discovery-3611412d36d3/) | 1,703 | On demand | 2026-11-07T20:17:07.106600Z |
@@ -48,7 +50,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Dublin D6 and D6W Property and Local Data](datasets/dublin-d6-and-d6w-open-data-462fff970ded/) | 11,894 | On demand | 2026-11-13T15:59:30.411523Z |
 | [Prevailing Wage Rates: California, Washington, Missouri and New York](datasets/prevailing-wage-rates-us-states-47b2aa83a625/) | 44,264 | weekly | 2026-11-17T06:26:08.099606Z |
 | [LEGO vs Compatible Bricks: Marketplace Price and Promotion Data](datasets/lego-vs-compatible-bricks-11-11-promo-snapshot-499dcb3b47ae/) | 8,109 | On demand | 2026-11-11T10:18:52.467955Z |
-| [HMV and Rarewaves data: UK 4K UHD Blu\-ray price history](datasets/uk-4k-uhd-blu-ray-daily-price-history-4a20f55e05c8/) | 245 | daily | 2026-11-21T09:02:44.988021Z |
+| [HMV and Rarewaves data: UK 4K UHD Blu\-ray price history](datasets/uk-4k-uhd-blu-ray-daily-price-history-4a20f55e05c8/) | 330 | daily | 2026-11-22T09:07:58.267044Z |
 | [Travel eSIM Plans and Prices](datasets/aviso-travel-esim-price-tracker-4a8066232783/) | 81,050 | On demand | 2026-11-09T06:46:39.091556Z |
 | [Law Firm Events](datasets/law-firm-events-4c408bd04e11/) | 18 | On demand | 2026-11-20T09:06:37.146145Z |
 | [Lisbon and Porto Home Listings and Prices](datasets/habita-review-lisbon-and-porto-homes-4c9bbbd1ad17/) | 1,473 | On demand | 2026-11-09T08:11:43.911185Z |
@@ -56,18 +58,18 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [DOT Lettings: Upcoming Highway Construction Bids Across State DOTs](datasets/upcoming-us-dot-construction-lettings-556d79272f4f/) | 178 | weekly | 2026-11-18T15:03:45.372798Z |
 | [Yacht Charter Fleet Listings and Prices](datasets/yacht-charter-fleet-sample-55a14b2e14c3/) | 270 | On demand | 2026-11-10T11:15:01.714669Z |
 | [Portugal2030 Grant Notices](datasets/portugal2030-grants-59ddd491d0c8/) | 1,514 | weekly | 2026-11-16T09:06:50.331589Z |
-| [NCAA Division I Men's Basketball Advanced Stats](datasets/ncaa-division-i-men-s-basketball-advanced-stats-2026-27-5a06355b5589/) | 2,555 | daily | 2026-11-21T10:00:18.555038Z |
+| [NCAA Division I Men's Basketball Advanced Stats](datasets/ncaa-division-i-men-s-basketball-advanced-stats-2026-27-5a06355b5589/) | 2,920 | daily | 2026-11-22T10:00:20.500466Z |
 | [Streaming Subscription Prices by Country: Official Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 7,013 | weekly | 2026-11-17T12:31:05.125031Z |
 | [AI Company Job Postings Data](datasets/ai-company-job-postings-5bae5dc811a8/) | 5,584 | weekly | 2026-11-16T07:02:08.230901Z |
-| [Low\-Code Release Radar: n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-21T08:00:12.153428Z |
-| [Portugal Insolvency Notices](datasets/insolvency-notices-pt-5cf39e22f64e/) | 622 | daily | 2026-11-21T06:27:12.882734Z |
+| [Low\-Code Release Radar: n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-22T08:00:12.497164Z |
+| [Portugal Insolvency Notices](datasets/insolvency-notices-pt-5cf39e22f64e/) | 624 | daily | 2026-11-22T06:21:06.295993Z |
 | [Jivamukti Yoga Barcelona Team and Instagram Directory](datasets/jivamukti-barcelona-team-instagram-5f425fa222f9/) | 8 | On demand | 2026-10-23T15:24:45.459748Z |
 | [Dutch Supermarket Prices and Matched Products](datasets/dutch-supermarket-prices-and-matched-products-5ff5cc5432bd/) | 3,083 | On demand | 2026-11-13T16:02:24.087625Z |
 | [8\-K Filings Dataset: S&amp;P 500 Current Reports](datasets/s-p-500-sec-8-k-filings-61608a881b67/) | 1,044 | weekly | 2026-11-16T08:04:52.657902Z |
 | [TikTok and YouTube Shorts Posts with Music Credits](datasets/social-posts-and-music-credits-618da9615d86/) | 25 | On demand | 2026-10-21T14:32:02.901284Z |
 | [Meta Quest App Catalogue and Charts](datasets/meta-quest-catalogue-and-charts-64282414adae/) | 13,060 | On demand | 2026-11-08T04:48:01.869925Z |
 | [Interconnection Queue Data: CAISO, NYISO and BPA](datasets/us-generator-interconnection-queues-68fb9ee25003/) | 3,520 | weekly | 2026-11-16T10:01:01.664140Z |
-| [Google Shopping Catalog Discovery](datasets/feedance-google-shopping-catalog-discovery-68fe77c792b8/) | 150 | daily | 2026-11-21T05:02:30.839220Z |
+| [Google Shopping Catalog Discovery](datasets/feedance-google-shopping-catalog-discovery-68fe77c792b8/) | 150 | daily | 2026-11-22T05:02:35.203860Z |
 | [Big Tech Investor News](datasets/weekly-big-tech-investor-news-6a32209e5191/) | 20 | weekly | 2026-11-18T15:12:52.598318Z |
 | [Paris Supermarket Prices and Product Catalogue](datasets/supermarket-products-in-paris-6bb96540e5f9/) | 174,200 | On demand | 2026-11-12T21:39:00.849257Z |
 | [Louis Vuitton Neverfull Prices by Country](datasets/louis-vuitton-neverfull-prices-by-country-6bce6c1fc1cf/) | 24 | On demand | 2026-11-09T09:25:41.805200Z |
@@ -80,7 +82,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [FDA, EMA and Infarmed GMP Guidance and Warning Letters](datasets/fda-ema-and-infarmed-gmp-guidance-and-warning-letters-8099814fc1b9/) | 416 | On demand | 2026-11-20T10:19:52.736363Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Lisbon Coffee Brands at Street Venues](datasets/coffee-brand-on-the-street-lisbon-poc-823f5bfb06bb/) | 810 | On demand | 2026-11-04T02:32:30.185539Z |
-| [Apple Music data: Top 100 USA and Global chart dataset](datasets/apple-music-daily-top-100-usa-global-8347b78d13d6/) | 1,000 | daily | 2026-11-21T10:00:25.847961Z |
+| [Apple Music data: Top 100 USA and Global chart dataset](datasets/apple-music-daily-top-100-usa-global-8347b78d13d6/) | 1,200 | daily | 2026-11-22T10:00:32.494934Z |
 | [Spanish Residential Electricity and Gas Tariffs](datasets/spanish-residential-tariffs-851b0827e2d1/) | 103 | On demand | 2026-11-11T20:42:25.162441Z |
 | [Spain Public\-Safety Signals](datasets/spain-public-safety-signals-mentelejos-demo-85c1f9170c06/) | 3,939 | On demand | 2026-11-09T11:05:24.629643Z |
 | [Google Shopping Competitor Prices by SKU](datasets/google-shopping-competitor-prices-by-sku-de-uk-tr-881884b155d9/) | 878 | On demand | 2026-11-13T15:56:14.663648Z |
@@ -93,12 +95,12 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Candy Crush Ads Across Meta, TikTok and Google](datasets/candy-crush-ads-across-meta-tiktok-and-google-9486d45e1a1d/) | 367 | On demand | 2026-11-17T12:40:57.744992Z |
 | [Portugal Food and Drink Venues with Photos](datasets/portugal-food-and-drink-venues-with-photos-9943f1952c47/) | 6,314 | On demand | 2026-11-12T05:07:43.947520Z |
 | [Google US Paid Search](datasets/google-us-weekly-paid-search-9accf80e8757/) | 577 | weekly | 2026-11-16T14:24:19.796937Z |
-| [eBay sold listings data: Pokémon card prices dataset](datasets/ebay-us-pok-mon-sold-listings-9c1de2dcf5cc/) | 6,246 | daily | 2026-11-21T09:06:23.997168Z |
+| [eBay sold listings data: Pokémon card prices dataset](datasets/ebay-us-pok-mon-sold-listings-9c1de2dcf5cc/) | 7,136 | daily | 2026-11-22T09:07:57.319968Z |
 | [Vancouver Tee Times and Golf Course Prices](datasets/golf-vancouver-courses-available-tee-times-9decbad0c781/) | 2,897 | On demand | 2026-11-02T15:13:21.865652Z |
 | [Turo Classic and Exotic Car Rentals](datasets/turo-classic-and-exotic-car-rentals-9f51f87bf45b/) | 60 | On demand | 2026-11-13T15:58:41.083512Z |
 | [EU and National Legal Acts](datasets/eu-and-national-legal-acts-a0597b835d9f/) | 300 | On demand | 2026-11-16T10:32:46.914250Z |
 | [AI Lab Research Feed](datasets/ai-lab-research-feed-a1cdaf829fb3/) | 40 | On demand | 2026-10-14T11:41:35.348891Z |
-| [Tech company careers data: AI and tech job postings dataset, refreshed daily](datasets/tech-ai-jobs-daily-a221b54cd808/) | 19,988 | daily | 2026-11-21T09:01:24.781177Z |
+| [Tech company careers data: AI and tech job postings dataset](datasets/tech-ai-jobs-daily-a221b54cd808/) | 26,669 | daily | 2026-11-22T09:07:57.664440Z |
 | [Brazil State Public Security Secretaries](datasets/brazil-state-public-security-secretaries-a3af258992e0/) | 27 | On demand | 2026-11-13T16:00:08.719539Z |
 | [Supermarket Franchise Keyword and AI Prompt Volumes](datasets/supermarket-franchise-keyword-and-ai-prompt-volumes-a3f8157e871e/) | 16 | On demand | 2026-10-31T11:20:11.061198Z |
 | [Polish Retailers and Ecommerce Platforms](datasets/polish-retailers-and-ecommerce-platforms-afe54f85f63e/) | 61 | On demand | 2026-11-16T10:35:09.976632Z |
@@ -107,6 +109,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Indian Buybacks and Share\-Price Returns](datasets/indian-buybacks-and-share-price-returns-b5cc3468e4a1/) | 38 | weekly | 2026-11-16T08:12:07.887827Z |
 | [Google Shopping Competitor Prices](datasets/feedance-google-shopping-competitor-prices-b7971db4006b/) | 9,316 | daily | 2026-11-11T21:58:34.847100Z |
 | [Irish Planning Applications and EIA Notices: Energy, Grid and Large Developments](datasets/irish-planning-applications-and-eia-notices-energy-grid-and-bb56b2ca6961/) | 199 | On demand | 2026-11-19T11:37:54.150703Z |
+| [Drilling Permits: New Oil and Gas Permits in TX, OK and CO](datasets/us-approved-drilling-permits-bbab01ba75f7/) | 1,618 | weekly | 2026-11-22T10:08:21.221724Z |
 | [Irish Music Events for Web Summit](datasets/ceolx-web-summit-one-off-snapshot-bcb68c9e2f16/) | 300 | On demand | 2026-11-09T13:20:39.971583Z |
 | [Public Instagram Posts from paul\_hunkin](datasets/instagram-posts-be49f86d2a46/) | 12 | On demand | 2026-10-17T18:08:01.916600Z |
 | [Brazil Cleaning Appliance Prices](datasets/wap-competitor-cleaning-appliance-prices-c12b17da7758/) | 25 | On demand | 2026-11-12T09:31:50.891447Z |

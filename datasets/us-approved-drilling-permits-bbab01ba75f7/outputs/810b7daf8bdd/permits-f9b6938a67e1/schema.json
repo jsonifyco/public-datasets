@@ -1,0 +1,82 @@
+[
+  {
+    "name": "api_number",
+    "type": "text"
+  },
+  {
+    "name": "county",
+    "type": "text"
+  },
+  {
+    "name": "field_name",
+    "type": "text"
+  },
+  {
+    "name": "first_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "latitude",
+    "type": "text"
+  },
+  {
+    "name": "longitude",
+    "type": "text"
+  },
+  {
+    "name": "operator_name",
+    "type": "text"
+  },
+  {
+    "name": "operator_number",
+    "type": "text"
+  },
+  {
+    "name": "permit_approved_date",
+    "type": "text"
+  },
+  {
+    "name": "permit_expiration_date",
+    "type": "text"
+  },
+  {
+    "name": "permit_number",
+    "type": "text"
+  },
+  {
+    "name": "permit_type",
+    "type": "text"
+  },
+  {
+    "name": "source_name",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "target_formation",
+    "type": "text"
+  },
+  {
+    "name": "total_depth_ft",
+    "type": "text"
+  },
+  {
+    "name": "well_type",
+    "type": "text"
+  },
+  {
+    "name": "wellbore_profile",
+    "type": "text"
+  }
+]

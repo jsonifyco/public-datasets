@@ -13,7 +13,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [BLOXOME EU Building and Parcel Sample](datasets/bloxome-eu-building-and-parcel-sample-023cb9bef779/) | 400 | On demand | 2026-11-10T12:09:59.030747Z |
 | [Quiet Signal: Adaptive AI Radar](datasets/quiet-signal-adaptive-ai-radar-0350ad57cf5b/) | 13 | On demand | 2026-11-09T09:16:44.334767Z |
 | [Online Businesses for Sale](datasets/online-businesses-for-sale-058b5903d847/) | 215 | weekly | 2026-11-16T08:01:00.072489Z |
-| [Olive Young, YesStyle and Stylevana data: K\-beauty price dataset](datasets/k-beauty-daily-price-tracker-05b714f9dbe0/) | 54 | daily | 2026-11-22T09:07:57.886345Z |
+| [Olive Young, YesStyle and Stylevana data: K\-beauty price dataset, refreshed daily](datasets/k-beauty-daily-price-tracker-05b714f9dbe0/) | 54 | daily | 2026-11-22T09:07:57.886345Z |
 | [Hacker News AI Story Tags](datasets/hacker-news-ai-067aaaf184ae/) | 30 | On demand | 2026-11-09T09:11:23.908539Z |
 | [Job Postings and Stated Salaries](datasets/job-postings-and-stated-salaries-09031248db8e/) | 454 | On demand | 2026-11-10T23:01:24.664973Z |
 | [Consumer AI Subscription Prices](datasets/consumer-ai-subscription-prices-0db1533e818f/) | 2,742 | On demand | 2026-11-09T06:36:42.884357Z |
@@ -24,7 +24,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Coffee Capsule Prices in Portugal](datasets/coffee-capsule-shelf-pt-15625f7dd7ac/) | 1,178 | On demand | 2026-11-09T06:33:55.941367Z |
 | [Iberian Endurance Events](datasets/aurea77-iberian-endurance-events-15c76f799e90/) | 394 | On demand | 2026-11-11T20:40:20.829684Z |
 | [Marktplaats Car Dealers](datasets/marktplaats-car-dealers-16546ec450b2/) | 50 | weekly | 2026-11-16T07:02:03.173674Z |
-| [On3 data: college football NIL valuations and reported deals](datasets/college-football-nil-valuations-and-deals-18d8ca344811/) | 200 | weekly | 2026-11-22T10:52:58.185982Z |
+| [On3 data: college football NIL valuations and deals dataset, refreshed weekly](datasets/college-football-nil-valuations-and-deals-18d8ca344811/) | 200 | weekly | 2026-11-22T10:52:58.185982Z |
 | [Companies Hiring at Scale in Poland \(50\+ Open Roles\)](datasets/companies-hiring-at-scale-in-poland-50-open-roles-1be11bee1c95/) | 96 | On demand | 2026-11-16T09:36:41.296141Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [Brazilian Apartment Prices per m²](datasets/domus-brazilian-apartment-price-per-m-1e787631c4a4/) | 540 | On demand | 2026-11-09T12:51:52.148844Z |

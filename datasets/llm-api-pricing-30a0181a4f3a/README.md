@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\. 4,305 published rows\.
+LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\. 5,256 published rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llm-api-pricing-30a0181a4f3a?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 10
-- Last published: 2026-11-16T06:08:28.824595Z
+- Last published: 2026-11-23T06:01:44.424161Z
 
 ## The brief
 
-> I need this data: LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\. 4,305 published rows\.
+> I need this data: LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\. 5,256 published rows\.
 
 Summary from the public dataset description.
 
 ## LLM API token prices / main
 
-4,305 total rows · 50 sampled · Output revision 15
-Published: 2026-11-16T06:08:28.824595Z · Producing pipeline version: 10
+5,256 total rows · 50 sampled · Output revision 16
+Published: 2026-11-23T06:01:44.424161Z · Producing pipeline version: 10
 
 [CSV sample](outputs/65257665d6fa/main-0d6e4079e367/sample.csv) · [JSON sample](outputs/65257665d6fa/main-0d6e4079e367/sample.json) · [Schema](outputs/65257665d6fa/main-0d6e4079e367/schema.json)
 
 | captured\_date | platform | model\_maker | model | deployment\_type | input\_usd\_per\_1m | output\_usd\_per\_1m | cached\_input\_usd\_per\_1m |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-16 | Azure | Microsoft | Phi\-3\.5 Mini 128K Instruct | standard | 0\.13 | 0\.52 | None |
-| 2026\-11\-16 | OpenRouter | Alibaba | qwen/qwen3\.8\-max\-0902:batch | standard | 1\.15 | 3\.45 | None |
-| 2026\-11\-16 | OpenRouter | xAI | x\-ai/grok\-4\.20 | standard | 1\.25 | 2\.5 | 0\.2 |
-| 2026\-11\-16 | OpenRouter | perplexity | perplexity/sonar\-pro | standard | 3 | 15 | None |
-| 2026\-11\-16 | Amazon Bedrock | Moonshot AI | Kimi K2 Thinking | regional\_mantle | 0\.6 | 2\.5 | None |
+| 2026\-11\-23 | OpenRouter | Anthropic | anthropic/claude\-opus\-4\.1 | standard | 15 | 75 | 1\.5 |
+| 2026\-11\-23 | OpenRouter | sakana | sakana/fugu\-ultra\-v2 | standard | 5 | 30 | 0\.5 |
+| 2026\-11\-23 | Azure | OpenAI | o3\-mini 0131 | global | 1\.1 | 4\.4 | 0\.55 |
+| 2026\-11\-23 | Vertex AI | Google | Gemini 3\.6 Flash | regional | 0\.825 | 4\.125 | 0\.0825 |
+| 2026\-11\-23 | OpenRouter | prism\-ml | prism\-ml/ternary\-bonsai\-2\-27b | standard | 0\.075 | 0\.5 | 0\.0375 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -64,6 +64,22 @@
     "size": "30ml"
   },
   {
+    "advertised_discount_pct": 35,
+    "brand": "COSRX",
+    "capture_date": "2026-11-23",
+    "capture_time": "2026-11-23T09:02:52+00:00",
+    "currency": "USD",
+    "current_price": 16.09,
+    "in_stock": true,
+    "list_price": 25,
+    "observation_key": "2026-11-23|YesStyle|cosrx_advanced_snail_96_mucin_power_essence_100ml",
+    "product": "Advanced Snail 96 Mucin Power Essence",
+    "product_key": "cosrx_advanced_snail_96_mucin_power_essence_100ml",
+    "product_url": "https://www.yesstyle.com/en/cosrx-advanced-snail-96-mucin-power-essence-100ml/info.html/pid.1052684695",
+    "retailer": "YesStyle",
+    "size": "100ml"
+  },
+  {
     "advertised_discount_pct": 37,
     "brand": "Anua",
     "capture_date": "2026-11-21",
@@ -141,22 +157,6 @@
     "product_key": "anua_peach_70_niacinamide_serum_30ml",
     "product_url": "https://www.stylevana.com/en_US/anua-peach-70-niacin-serum-30ml23897.html",
     "retailer": "Stylevana",
-    "size": "30ml"
-  },
-  {
-    "advertised_discount_pct": 20,
-    "brand": "Anua",
-    "capture_date": "2026-11-21",
-    "capture_time": "2026-11-21T21:10:37+00:00",
-    "currency": "USD",
-    "current_price": 22.99,
-    "in_stock": true,
-    "list_price": 28.88,
-    "observation_key": "2026-11-21|Olive Young Global|anua_peach_70_niacinamide_serum_30ml",
-    "product": "Peach 70 Niacinamide Serum",
-    "product_key": "anua_peach_70_niacinamide_serum_30ml",
-    "product_url": "https://global.oliveyoung.com/product/detail?prdtNo=GA240925559",
-    "retailer": "Olive Young Global",
     "size": "30ml"
   }
 ]

@@ -1,25 +1,25 @@
-# Olive Young, YesStyle and Stylevana data: K\-beauty price dataset, refreshed daily
+# Olive Young, YesStyle and Stylevana data: K\-beauty price dataset
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Daily prices for 12 best\-selling K\-beauty products on Olive Young Global, YesStyle, Stylevana and Amazon US: current price, list price, advertised discount and stock\. Export to CSV, JSON or Google Sheets\.
+K\-beauty product prices from public product pages on Olive Young Global, YesStyle, Stylevana and Amazon US\. Fields include current price, list price, advertised discount and stock status\. The published tables contain 77 rows\. Export to CSV, JSON or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/k-beauty-daily-price-tracker-05b714f9dbe0?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-22T09:07:57.886345Z
+- Last published: 2026-11-23T09:06:31.052102Z
 
 ## The brief
 
-> I need this data: Daily prices for 12 best\-selling K\-beauty products on Olive Young Global, YesStyle, Stylevana and Amazon US: current price, list price, advertised discount and stock\. Export to CSV, JSON or Google Sheets\.
+> I need this data: K\-beauty product prices from public product pages on Olive Young Global, YesStyle, Stylevana and Amazon US\. Fields include current price, list price, advertised discount and stock status\. The published tables contain 77 rows\. Export to CSV, JSON or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## K\-beauty Daily Price History / prices
 
-54 total rows · 10 sampled · Output revision 4
-Published: 2026-11-22T09:07:57.886345Z · Producing pipeline version: 3
+77 total rows · 10 sampled · Output revision 5
+Published: 2026-11-23T09:06:31.052102Z · Producing pipeline version: 3
 
 [CSV sample](outputs/36aefab1c219/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/36aefab1c219/prices-fe81f9390ffe/sample.json) · [Schema](outputs/36aefab1c219/prices-fe81f9390ffe/schema.json)
 
@@ -29,7 +29,7 @@ Published: 2026-11-22T09:07:57.886345Z · Producing pipeline version: 3
 | 30 | Beauty of Joseon | 2026\-11\-22 | 2026\-11\-22T09:01:59\+00:00 | USD | 12\.6 | True | 18 |
 | None | Anua | 2026\-11\-21 | 2026\-11\-21T21:10:36\+00:00 | USD | 17 | True | 20 |
 | 30 | Beauty of Joseon | 2026\-11\-22 | 2026\-11\-22T09:02:02\+00:00 | USD | 11\.9 | True | 17 |
-| 37 | Anua | 2026\-11\-21 | 2026\-11\-21T21:11:19\+00:00 | USD | 12\.6 | True | None |
+| 35 | COSRX | 2026\-11\-23 | 2026\-11\-23T09:02:52\+00:00 | USD | 16\.09 | True | 25 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

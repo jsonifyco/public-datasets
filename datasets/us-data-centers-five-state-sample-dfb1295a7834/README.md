@@ -7,8 +7,8 @@
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-data-centers-five-state-sample-dfb1295a7834?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 10
-- Last published: 2026-11-23T09:00:07.228194Z
+- Active pipeline version: 11
+- Last published: 2026-11-23T09:20:50.205954Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## US Data Centers • Five\-State Sample / facilities
 
-125 total rows · 50 sampled · Output revision 7
-Published: 2026-11-23T09:00:07.228194Z · Producing pipeline version: 10
+125 total rows · 50 sampled · Output revision 8
+Published: 2026-11-23T09:20:50.205954Z · Producing pipeline version: 11
 
 [CSV sample](outputs/128b421e373a/facilities-3c5ca5554a2f/sample.csv) · [JSON sample](outputs/128b421e373a/facilities-3c5ca5554a2f/sample.json) · [Schema](outputs/128b421e373a/facilities-3c5ca5554a2f/schema.json)
 
@@ -72,8 +72,9 @@ flowchart LR
   n8["dated#95;panel"]
   n9["date#95;identity#95;audit"]
   n10["explicit#95;capacity#95;audit"]
-  n11["evidence#95;checks"]
-  n12["facilities"]
+  n11["opening#95;event#95;audit"]
+  n12["evidence#95;checks"]
+  n13["facilities"]
   n2 --> n3
   n3 --> n4
   n4 --> n5
@@ -84,6 +85,7 @@ flowchart LR
   n9 --> n10
   n10 --> n11
   n11 --> n12
+  n12 --> n13
   n0 --> n2
   n1 --> n2
   n0 --> n5
@@ -101,6 +103,7 @@ flowchart LR
 - **dated\_panel**: Reuse a saved complete panel when only date identity needs rechecking\.
 - **date\_identity\_audit**: Require exact address or operator\-specific facility identity before retaining a secondary\-source year\.
 - **explicit\_capacity\_audit**: Withhold canonical capacity when the facility description explicitly contradicts its directory total power\.
+- **opening\_event\_audit**: Distinguish a dated actual\-opening announcement from the initial announcement of a future project\.
 - **evidence\_checks**: Check year/source consistency and retain the full requested five\-state panel for an ordinary refresh\.
 - **facilities**: Source\-backed five\-state public data center facility sample, with secondary\-source year evidence and capacity scope notes\.
 
@@ -116,6 +119,7 @@ flowchart LR
 - 2026-11-17T16:26:59.811585Z: v8: Withhold usable capacity when explicit facility total\-power statements contradict the directory figure, retaining both figures in the scope note\.
 - 2026-11-17T16:33:05.729173Z: v9: Recognize another explicit facility\-total wording so CIN3 capacity is withheld on its 1 versus 1\.7 MW source conflict\.
 - 2026-11-23T08:44:47.863925Z: v10: The weekly refresh now retries unreadable answers during opening and announcement date research\. It still requires the same source evidence before saving a date\.
+- 2026-11-23T09:13:56.678174Z: v11: Corrected opening\-event classification and added a check for directory capacity exceeding an explicitly stated facility maximum\. Conflicting capacity stays blank while the original directory figure is preserved\.
 
 ## Recorded repairs
 
@@ -126,6 +130,8 @@ flowchart LR
 - 2026-11-23T08:51:16.805339Z: repaired
 - 2026-11-23T09:05:32.833537Z: repaired
 - 2026-11-23T09:08:04.243607Z: no change
+- 2026-11-23T09:20:34.486955Z: repaired
+- 2026-11-23T09:21:26.334018Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-data-centers-five-state-sample-dfb1295a7834?action=get) — CSV or JSON · Email required
 

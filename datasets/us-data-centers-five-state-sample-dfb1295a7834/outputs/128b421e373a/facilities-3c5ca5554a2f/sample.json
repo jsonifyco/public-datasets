@@ -420,14 +420,14 @@
     "year_type": null
   },
   {
-    "capacity_scope": "campus: The Phoenix Data Center campus is listed as having access to 26.0 MW. The description separately gives up to 20 MW for the data center and up to 30 MW for SRP utility supply.",
+    "capacity_scope": "Source conflict: directory total power is 26.0 MW, but facility description states: The data center is located in the Arizona Technology Corridor and can total up to 180,000 square feet and 20 MWs. Canonical capacity withheld pending clarification.",
     "checked_at": "2026-11-23T08:20:51.232019+00:00",
     "city": "Chandler",
     "directory_power_capacity_mw": 26,
     "facility_name": "Phoenix Data Center",
     "opened_or_announced_year": null,
     "operator": "H5 Data Centers",
-    "power_capacity_mw": 26,
+    "power_capacity_mw": null,
     "power_evidence": null,
     "source_url": "https://www.datacenters.com/h5-phoenix",
     "state": "Arizona",
@@ -984,7 +984,7 @@
     "year_match_evidence": "Provision Data Services' 2020 Live Oak St. data center in downtown Dallas' CBD. | The secondary source identifies Provision Data Services as the operator and gives the same Dallas street address, abbreviating Street as St.",
     "year_research_note": "Explicit year and facility identity verified on a second public source",
     "year_source_url": "https://www.prnewswire.com/news-releases/provision-data-services-launches-dallas-data-center-300409317.html",
-    "year_type": "announced"
+    "year_type": "opened"
   },
   {
     "capacity_scope": "not shown: no supported total power capacity on the directory page",

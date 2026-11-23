@@ -1,0 +1,1368 @@
+[
+  {
+    "ai_tag": null,
+    "description": null,
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Healthnews",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "ULisboa:Healthnews"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://www.ulisboa.pt/info/empresas-incubadas"
+    ],
+    "sources": [
+      "ULisboa"
+    ],
+    "startup_id": "0c47b5860712613eae17aef7",
+    "website": "https://healthnews.pt/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Talent Protocol is a builders network where members commit to future goals, share their progress and find the support they need to succeed.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Talent Protocol",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": true,
+    "sector_tags": [
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:5922669ea9c9711cde"
+    ],
+    "source_sector_labels": [
+      "HRtech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "7047d20a407a3dc82b71dc92",
+    "website": null
+  },
+  {
+    "ai_tag": null,
+    "description": "WeTransact is Microsoft Marketplace as easy as 1-2-3",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "WeTransact",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Retail & E-commerce"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:b96b43f3fff99ac394"
+    ],
+    "source_sector_labels": [
+      "Interface/Infrastructure"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "6d5d169dd726dd2c7dfdbc3d",
+    "website": "https://wetransact.io/"
+  },
+  {
+    "ai_tag": null,
+    "description": "BiLD Analytics is a spin-off company of NOVA IMS, who has been implementing Analytic Solutions in many segments, with widespread experience in Business Intelligence and Data Science solutions.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "BiLD Analytics",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "NOVA spin-offs:post-893"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://novainnovation.unl.pt/bild-analytics/"
+    ],
+    "sources": [
+      "NOVA spin-offs"
+    ],
+    "startup_id": "cd421c1a5995fc17011685c1",
+    "website": null
+  },
+  {
+    "ai_tag": null,
+    "description": "Hey L / imaggine giving into ownership for local impact",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Hey L / imaggine",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "Unicorn Factory portfolio:f83e58ea5e9e1cda4f"
+    ],
+    "source_sector_labels": [
+      "Social"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "f454b78d5b345626d52fe4dd",
+    "website": "https://www.imaggine.org"
+  },
+  {
+    "ai_tag": null,
+    "description": "WorkDNA is on a mission to improve the quality of life for software development teams. We do this via our platform that collects qualitative feedback, surfaces insights for managers, and guides them towards improving their team’s developer experience.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "WorkDNA",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:2f27af5d3e3652b32a"
+    ],
+    "source_sector_labels": [
+      "HRtech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "a251a99df58a730cc8280853",
+    "website": "https://workdna.com"
+  },
+  {
+    "ai_tag": null,
+    "description": null,
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Stowa",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "ULisboa:Stowa"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://www.ulisboa.pt/info/empresas-incubadas"
+    ],
+    "sources": [
+      "ULisboa"
+    ],
+    "startup_id": "c400a0c4f4d5a5b51c29af38",
+    "website": null
+  },
+  {
+    "ai_tag": true,
+    "description": "knok healthcare is a telemedicine startup that digitally transforms healthcare. With global clients, it offers AI symptom checkers and automated follow-ups, and creates integrated therapeutics that improve lives at a lower cost.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "knok healthcare",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Health & Biotech"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:03f409acb22dd59790"
+    ],
+    "source_sector_labels": [
+      "HealthTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "f2f240ee2ef129071df1e599",
+    "website": "http://knokcare.com/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Our Watch Leads is the global data solution to decarbonise cities and buildings.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Our Watch Leads",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Real Estate & Construction"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:8c0e2fecdbc89cc481"
+    ],
+    "source_sector_labels": [
+      "PropTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "88f90ece1a63105096d80d59",
+    "website": "https://owlplaces.com/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Executive Career Coaching is specialized in Leading Innovation and Transformation with the goal to Unleash your Growth Potential.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Executive Career Coaching",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:dd6f074986429dfb5c"
+    ],
+    "source_sector_labels": [
+      "HRtech",
+      "Work Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "3250ec6fa4ee6f0c4d666c5f",
+    "website": "https://unleashyourgrowthpotential.kit.com/newsletter"
+  },
+  {
+    "ai_tag": null,
+    "description": "Balvia Ecosystems offers an intelligent and accessible solution to help patients manage their medication, reducing errors and improve quality of life.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Balvia Ecosystems",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Health & Biotech",
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:ae3859e086ddde5a27"
+    ],
+    "source_sector_labels": [
+      "Big Data / Data / Analytics",
+      "HealthTech",
+      "WellTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "150444b8e4b5e0aaa5905e22",
+    "website": "https://www.balviaecosystems.com"
+  },
+  {
+    "ai_tag": null,
+    "description": null,
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "PETDULE",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "Labs Lisboa:post-400"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://labslisboa.pt/startups/"
+    ],
+    "sources": [
+      "Labs Lisboa"
+    ],
+    "startup_id": "552d06fe5af955421284fecb",
+    "website": "https://www.facebook.com/PetDuleWorld/"
+  },
+  {
+    "ai_tag": true,
+    "description": "Knowledge recommendation platform leveraging AI to make unstructured company information accessible.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Wavi",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:c725d2a851bae39686"
+    ],
+    "source_sector_labels": [
+      "Big Data / Data / Analytics"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "d871ce0d5bf6cd0b14ec23a2",
+    "website": null
+  },
+  {
+    "ai_tag": true,
+    "description": "EvoWeb.ai creates AI-first websites designed to attract clients from ChatGPT, Gemini, and modern search.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "EvoWeb.ai",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:cbea719f8e02da8368"
+    ],
+    "source_sector_labels": [
+      "Work Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "64135a4df4371f1ff0d1e2c2",
+    "website": "https://evoweb.ai"
+  },
+  {
+    "ai_tag": null,
+    "description": "Criamos e desenvolvemos eventos. Inovadores, únicos. Dos que ficam na memória dos participantes de ano para ano. Para isso, temos uma equipa de especialistas na área da gestão de eventos, design e marketing pronta para arregaçar as mangas e por mãos à obra! Queres realizar um evento ou comunica-lo da forma mais eficaz e criativa? Contacta-nos. Contact info: booking@realize.com.pt (+351) 918 510 240",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "REALIZE",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Marketing & Media"
+    ],
+    "source_ids": [
+      "Labs Lisboa:post-305"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://labslisboa.pt/startups/"
+    ],
+    "sources": [
+      "Labs Lisboa"
+    ],
+    "startup_id": "8edcb3f547d1acacb1a758da",
+    "website": "https://realize.com.pt"
+  },
+  {
+    "ai_tag": null,
+    "description": "Rewarding people should be simple. In reality, it never is. Multiple suppliers. Multiple invoices. Generic vouchers nobody asked for. Hours of admin for something that should take minutes. OlaCard fixes this. One platform, 50+ brands, one invoice, delivered in seconds. Each person chooses what they actually want — from IKEA to Airbnb, Adidas to Sephora. Because that moment of recognition deserves better than a spreadsheet and a bank transfer.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "OlaCard",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:61c4783af84e5155bd"
+    ],
+    "source_sector_labels": [
+      "HRtech",
+      "Interface/Infrastructure"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "eb71336d7f84649e1f6e9514",
+    "website": "https://olacard-business.pt"
+  },
+  {
+    "ai_tag": null,
+    "description": "Usawa is like having a best friend who is a pediatrician. It offers unlimited access to a pediatrician via WhatsApp, in less than 15 minutes. Parents can use it for urgent situations, but also for any questions about their child's healthy development and growth.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Usawa Care",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": true,
+    "sector_tags": [
+      "Health & Biotech"
+    ],
+    "source_ids": [
+      "NOVA spin-offs:post-11073"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://novainnovation.unl.pt/usawacare/"
+    ],
+    "sources": [
+      "NOVA spin-offs"
+    ],
+    "startup_id": "6574d57e61028a18e38c9250",
+    "website": null
+  },
+  {
+    "ai_tag": null,
+    "description": null,
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Harlow",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "ULisboa:Harlow"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://www.ulisboa.pt/info/empresas-incubadas"
+    ],
+    "sources": [
+      "ULisboa"
+    ],
+    "startup_id": "97f5c4116305d01b58b3ace7",
+    "website": null
+  },
+  {
+    "ai_tag": null,
+    "description": "SafetyScope is providing the Surveillance of Tomorrow, Today.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "SafetyScope",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:83dc48193e0ad61932"
+    ],
+    "source_sector_labels": [
+      "Big Data / Data / Analytics"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "293d566bddc894fe00b862ff",
+    "website": "https://www.safetyscope.eu"
+  },
+  {
+    "ai_tag": null,
+    "description": "Climate Positive Meat verifies climate positive meat farmers with its satellite technology platform and connects their products with consumers through a combination of network creation, marketing and education.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Climate Positive Meat",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Climate & Energy",
+      "Education",
+      "Marketing & Media",
+      "Space & Aerospace"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:b3c95dd1c65fe4bd30"
+    ],
+    "source_sector_labels": [
+      "CleanTech",
+      "SpaceTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "4e6a69a3402e67ba15bff49e",
+    "website": null
+  },
+  {
+    "ai_tag": true,
+    "description": "Our product, Affine, uses AI to quickly find the relevant legal information and analyze it in a structured way, guaranteeing quality in your legal research.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Affine by NeuralShift",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Legal"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:6a353aea8365db7571"
+    ],
+    "source_sector_labels": [
+      "LegalTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "ea28fef744561e78f36285e3",
+    "website": "https://www.affine.law/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Zebrit is a SaaS model Enterprise Service Management platform that gives organisations the chance to access the right tool to support their day-to-day operations and hard-earned experience they need to grow.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Zebrit",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Cybersecurity",
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:06317d800d391dc821"
+    ],
+    "source_sector_labels": [
+      "Cybersecurity"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "06f0232b2ac7bd86a56708c3",
+    "website": "https://www.zebrit.com/"
+  },
+  {
+    "ai_tag": null,
+    "description": null,
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Unicage",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": true,
+    "sector_tags": null,
+    "source_ids": [
+      "ULisboa:Unicage"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://www.ulisboa.pt/info/empresas-incubadas"
+    ],
+    "sources": [
+      "ULisboa"
+    ],
+    "startup_id": "81bde770ed210029d0ecbd8e",
+    "website": "http://www.unicage.com/"
+  },
+  {
+    "ai_tag": null,
+    "description": "/incubationsulx/www-unilinkr.net: The first platform in Portugal that exclusively connects university students with companies offering temporary jobs, part-time positions, and internships.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Unilinkr",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:9c2dee3c9b311c8167"
+    ],
+    "source_sector_labels": [
+      "HRtech",
+      "Social"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "83fdc64ba66e869f4694ccd7",
+    "website": "https://www.unilinkr.net/"
+  },
+  {
+    "ai_tag": true,
+    "description": "Hints is an AI assistant that interacts with CRMs and makes tools more productive.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Hints",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Enterprise Software",
+      "Marketing & Media"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:13f47db849be8e7625"
+    ],
+    "source_sector_labels": [
+      "AdTech/Martech",
+      "Work Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "85ffe6ee6b2e7771f2a83d0b",
+    "website": "https://hints.so"
+  },
+  {
+    "ai_tag": null,
+    "description": "Three modules, one decision layer: a) forecasting, b)pricing &amp; promotion optimization, and finally c) competitive intelligence in one lightweight platform.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Tilect",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Retail & E-commerce",
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:02cdd7a145550bb878"
+    ],
+    "source_sector_labels": [
+      "Big Data / Data / Analytics",
+      "Retail Tech",
+      "RetailTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "4c55b87ad3b64a76baf1f5d7",
+    "website": "https://tilect.ai"
+  },
+  {
+    "ai_tag": null,
+    "description": null,
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "RISA CONSULTING",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "Labs Lisboa:post-329"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://labslisboa.pt/startups/"
+    ],
+    "sources": [
+      "Labs Lisboa"
+    ],
+    "startup_id": "a337c1391e08d75c8b2cae87",
+    "website": "https://www.risa.pt/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Domicile0 is a collaboration tool between tax/wealth advisor and client.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Domicile0",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Transport & Logistics",
+      "Legal"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:5f450fd3b694404d3c"
+    ],
+    "source_sector_labels": [
+      "LegalTech",
+      "Supply Chain & Logistics"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "72ff7033d5e3d8cc9fd6ff06",
+    "website": "https://app.domicile0.com"
+  },
+  {
+    "ai_tag": true,
+    "description": "Soulution builds AI products that help businesses understand their customers and prove what to change. Pulse delivers sourced market intelligence reports in 48 hours. Digaso agents hold natural conversations with customers and turn them into clear insight. RevealWhy shows what website visitors notice and proves why pages convert. Rosto creates living avatars from one photo. Penguins makes luxury hotel representation measurable.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Soulution.AI",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Health & Biotech",
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:18cfba9f10f2281139"
+    ],
+    "source_sector_labels": [
+      "Big Data / Data / Analytics",
+      "HealthTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "8f23f38bddb9ce8745ace6dc",
+    "website": "https://www.soulution.ai/"
+  },
+  {
+    "ai_tag": true,
+    "description": "Junto was incubated out of Reach Velocity, a leading recruitment firm specializing in emerging technologies across the U.S. and Europe. After years of working at the forefront of AI, aerospace, robotics, and next-gen mobility hiring, Reach Velocity identified a fundamental gap in the recruitment tech stack, fragmented tools, inefficiencies, and growing risks like candidate fraud. Junto was born to solve this.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Reach Velocity",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Transport & Logistics",
+      "Enterprise Software",
+      "Space & Aerospace"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:191d98b4f21ba11cc0"
+    ],
+    "source_sector_labels": [
+      "Work Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "2a2a82e0e232f68be439c824",
+    "website": "https://www.reach-velocity.ai"
+  },
+  {
+    "ai_tag": true,
+    "description": "Inovation AI Suite is a global AI company with operations in Brazil, the United States, and Portugal. Its AI-first platform integrates AI agents, CRM, and omnichannel customer service to help businesses automate customer engagement, optimize sales, and scale operations through seamless collaboration between artificial intelligence and human teams.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Inovation AI",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:a72c6069048aaede29"
+    ],
+    "source_sector_labels": [
+      "AI"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "278ed5a942a40643f63bbb89",
+    "website": "https://inovationai.ai/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Ivory Therapy mental health project on a mission to bring mental health to everyone. Every piece from our clothing line comes with a free online therapy session.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Ivory Therapy",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Health & Biotech"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:8f0d0910434703924c"
+    ],
+    "source_sector_labels": [
+      "Fashion",
+      "HealthTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "05d29079e39bf0556c9fe998",
+    "website": "https://ivory-therapy.com/"
+  },
+  {
+    "ai_tag": true,
+    "description": "Swarmcompute revolutionising patient engagement in private healthcare clinics with voice-calling AI agents and automations.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Swarmcompute",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Health & Biotech",
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:16c9d25e2f3983ef23"
+    ],
+    "source_sector_labels": [
+      "Big Data / Data / Analytics"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "a8f2c3f4937d6bdc6f31151e",
+    "website": "https://www.swarmcompute.ai/"
+  },
+  {
+    "ai_tag": true,
+    "description": "Tripnly is a Lisbon-based software company focused on travel technologies, currently in a scale-up phase. By positioning Artificial Intelligence and Machine Learning technologies into the core of our web and mobile-based solutions, we design products and services for the needs of all stakeholders in the world of travel, especially end-users.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Tripnly",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Travel & Hospitality"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:3ff40650f7715b938e"
+    ],
+    "source_sector_labels": [
+      "Travel Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "d2a3b3f9d7d244a9399825d6",
+    "website": "https://tripnly.com"
+  },
+  {
+    "ai_tag": null,
+    "description": "Second Serve is a marketplace where hotels, restaurants and Airbnbs can buy and sell second hand goods. Our mission is to give new life to unused furniture and equipments in hospitality.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Second Serve",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Retail & E-commerce",
+      "Travel & Hospitality"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:61250455da01a98b5e"
+    ],
+    "source_sector_labels": [
+      "Travel Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "f97761c315f592bb1cd6c310",
+    "website": "https://secondservehotels.com/pt"
+  },
+  {
+    "ai_tag": null,
+    "description": "Garna is a modern platform for managing payouts worldwide. Revolutionize the way your business handles payroll!",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Garna",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Fintech"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:d74020c379f5021758"
+    ],
+    "source_sector_labels": [
+      "Fintech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "ea673610ee7bde99a08d03d8",
+    "website": "https://garna.io/"
+  },
+  {
+    "ai_tag": null,
+    "description": "ProHound is an IoT scaleup for energy efficiency and online air conditioning management.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "ProHound",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Climate & Energy"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:7007e4e26814fa1c2e"
+    ],
+    "source_sector_labels": [
+      "CleanTech",
+      "IoT"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "f06ddeaa48880b2489a55a65",
+    "website": "https://www.prohound.io"
+  },
+  {
+    "ai_tag": null,
+    "description": "A Creetion é um prestador de serviços IT de topo, com uma forte incidência em tecnologias SAP e OutSystems, Orquestração de Processos, Gestão de Processos Empresariais e Arquiteturas IT. Com o objetivo de ajudar os clientes a atingir os seus objetivos comerciais, simplificando os processos e tornando-os flexíveis.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "CREETION",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "Labs Lisboa:post-394"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://labslisboa.pt/startups/"
+    ],
+    "sources": [
+      "Labs Lisboa"
+    ],
+    "startup_id": "60c7c451b33382be991703c5",
+    "website": "https://www.creetion.nl/pt-pt/"
+  },
+  {
+    "ai_tag": null,
+    "description": null,
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "PORTUGAL FESTIVAL AWARDS",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "Labs Lisboa:post-307"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://labslisboa.pt/startups/"
+    ],
+    "sources": [
+      "Labs Lisboa"
+    ],
+    "startup_id": "58ce611788475c98073db8cf",
+    "website": "https://portugalfestivalawards.pt"
+  },
+  {
+    "ai_tag": true,
+    "description": "Construction's commercial cycle remains analog and slow. TypeHub digitizes the entire construction and site management cycle in one platform: it imports bills of quantities, automates take-offs, manages RFQs, connects office and field operations, and generates client proposals in hours. Powered by a Portuguese cost library, public tender aggregation, PT/EU compliance, and smart price memory, it eliminates costly errors and accelerates every operation.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Typeble",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Real Estate & Construction",
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:e8e13b4f934563ff5c"
+    ],
+    "source_sector_labels": [
+      "AI",
+      "PropTech",
+      "Work Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "7f54347abe78f348964384af",
+    "website": "https://typeble.com/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Swee makes healthy lifestyle accessible to everyone.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Swee",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Health & Biotech",
+      "Food & Agriculture"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:d75fd8e177fd77421d"
+    ],
+    "source_sector_labels": [
+      "Food Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "a6d57286bf8acbd8c23fa535",
+    "website": "https://www.swee.pt"
+  },
+  {
+    "ai_tag": true,
+    "description": "Outlex is an AI legal agent built for companies. Designed for operators, founders, and teams, Outlex helps anyone get clear, actionable legal answers, analyze and draft documents, and move fast—without waiting days or paying high fees for external counsel. Grounded in European and Portuguese law and market best practices, it ensures accuracy and compliance. When needed, you can switch in one click to a licensed lawyer for validation or high-stakes matters. Fast. Affordable. Reliable.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Outlex",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Legal"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:e1ee1c1f9aabc36c26"
+    ],
+    "source_sector_labels": [
+      "LegalTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "e814c9617d6064d3ec3817e4",
+    "website": "https://outlex.ai/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Gottaspace is on a mission to transform parcel delivery &amp; returns with community spirit, by unlocking underused space creating meaningful opportunity for a whole community of stakeholders, in a convenient, cost-efficient, and sustainable manner.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Gottaspace",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Climate & Energy"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:80c20534c73110aebc"
+    ],
+    "source_sector_labels": [
+      "CleanTech",
+      "Home and Personal"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "61f7cd422cb378645a24805b",
+    "website": "https://gottaspace.com"
+  },
+  {
+    "ai_tag": null,
+    "description": "Desenvolve soluções de áudio 3D intuitivas e inclusivas. A sua app de navegação waveOut utiliza áudio espacial e realidade aumentada para possibilitar que todas as pessoas cheguem ao seu destino facilmente e com segurança.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Dreamwaves",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Transport & Logistics"
+    ],
+    "source_ids": [
+      "Casa do Impacto:dreamwaves",
+      "Unicorn Factory portfolio:d478cdcc50f53e4cf7"
+    ],
+    "source_sector_labels": [
+      "MobilityTech"
+    ],
+    "source_urls": [
+      "https://casadoimpacto.scml.pt/comunidade/residentes/",
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Casa do Impacto",
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "b0c0bb295aa636c75a5c4dcb",
+    "website": "https://www.dreamwaves.io/"
+  },
+  {
+    "ai_tag": null,
+    "description": null,
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Carbus",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": null,
+    "source_ids": [
+      "ULisboa:Carbus"
+    ],
+    "source_sector_labels": null,
+    "source_urls": [
+      "https://www.ulisboa.pt/info/empresas-incubadas"
+    ],
+    "sources": [
+      "ULisboa"
+    ],
+    "startup_id": "6ed4ed646af5ca2a3b77da5d",
+    "website": null
+  },
+  {
+    "ai_tag": true,
+    "description": "Trust Fence is an AI platform that detects, classifies, and helps take down brand-impersonation scams - the fake messages, calls, and payment pages that misuse a trusted brand's name to defraud people. One engine serves institutions (banks, telcos, brands) with real-time intelligence and takedown evidence, and gives the public a free way to check suspicious communications. Already live: 10,000+ signals analysed, 800+ campaigns monitored, 100,000+ citizens protected.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Trust Fence",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Fintech",
+      "Cybersecurity"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:0dab3a729ec50d4913"
+    ],
+    "source_sector_labels": [
+      "Cybersecurity",
+      "Fintech",
+      "Social"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "594b0e260d64b9e94df56d02",
+    "website": "https://trustfence.ai"
+  },
+  {
+    "ai_tag": true,
+    "description": "Our mission is to be the trusted partner for enterprises seeking to unlock the full potential of data-driven decision-making. With Gen-OS, our enterprise GenAI platform, we help organizations move from proof-of-concept to production with full visibility, deep integration with current IT systems, and human-in-the-loop control. Alongside our AI platform, we also deliver tailor-made Machine Learning and AI solutions, built by a team of experts with deep technical expertise.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "DareData Engineering",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": true,
+    "sector_tags": [
+      "AI",
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:f5e015be30df0af331"
+    ],
+    "source_sector_labels": [
+      "AI",
+      "Big Data / Data / Analytics"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "30cd1745eafa9b0515e65be8",
+    "website": "http://daredata.ai"
+  },
+  {
+    "ai_tag": null,
+    "description": "Proofmarked bootstraps trust and legitimacy to the web, as it goes past Domains and TLS certificates, to make it seamlessly obvious if that URL has been authorized by the company the user intended to interact with, or not - in a human-centric manner. Proofmarked empowers a hyper-personalized model of trust that people inherently understand. We’re not doing this by education but by design, as we built the missing tools to displace cybercriminals’ ability to abuse the agnostic nature of the web.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Proofmarked",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Fintech",
+      "Education",
+      "Cybersecurity",
+      "Marketing & Media"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:31178d48ea9129413f"
+    ],
+    "source_sector_labels": [
+      "AdTech/Martech",
+      "Cybersecurity",
+      "Fintech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "245e76b5b875b5d8b24b6843",
+    "website": "https://proofmarked.com/"
+  },
+  {
+    "ai_tag": true,
+    "description": "Xelidoni is a pioneering real estate technology company focusing on improving rental inspections and deposit management through AI, blockchain, and 3D scanning, ensuring transparency, fairness, and global standardization in the rental market.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Xelidoni",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "AI",
+      "Real Estate & Construction",
+      "Blockchain & Crypto"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:e43df15aa1ff4c9063"
+    ],
+    "source_sector_labels": [
+      "PropTech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "1e4fdf2732eb27e81e8e62ae",
+    "website": "https://www.xelidoni.io/"
+  },
+  {
+    "ai_tag": null,
+    "description": "Good Casting is Portugal's 1st and only mobile app revolutionizing castings by instantly connecting talents, agents and clients. Expanding to Spain and Brazil, Good Casting is ready to take the entertainment industry by storm.",
+    "founded_year": null,
+    "location_evidence": null,
+    "location_status": "Lisbon programme member; location unconfirmed",
+    "name": "Good Casting",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "sector_tags": [
+      "Marketing & Media"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:067f70202e35b8f7d0"
+    ],
+    "source_sector_labels": [
+      "Entertainment",
+      "Fashion",
+      "Media Tech"
+    ],
+    "source_urls": [
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "4574e66702442b06fb822312",
+    "website": "https://goodcasting.pt"
+  }
+]

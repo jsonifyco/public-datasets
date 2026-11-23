@@ -1,0 +1,62 @@
+[
+  {
+    "name": "startup_id",
+    "type": "text"
+  },
+  {
+    "name": "name",
+    "type": "text"
+  },
+  {
+    "name": "website",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "sector_tags",
+    "type": "jsonb"
+  },
+  {
+    "name": "ai_tag",
+    "type": "boolean"
+  },
+  {
+    "name": "source_sector_labels",
+    "type": "jsonb"
+  },
+  {
+    "name": "location_status",
+    "type": "text"
+  },
+  {
+    "name": "location_evidence",
+    "type": "jsonb"
+  },
+  {
+    "name": "founded_year",
+    "type": "integer"
+  },
+  {
+    "name": "sources",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_urls",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_ids",
+    "type": "jsonb"
+  },
+  {
+    "name": "possible_duplicate",
+    "type": "boolean"
+  },
+  {
+    "name": "observed_date",
+    "type": "text"
+  }
+]

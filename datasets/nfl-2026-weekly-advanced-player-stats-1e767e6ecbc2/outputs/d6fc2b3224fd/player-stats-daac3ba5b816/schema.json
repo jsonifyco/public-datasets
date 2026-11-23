@@ -1,0 +1,262 @@
+[
+  {
+    "name": "snapshot_key",
+    "type": "text"
+  },
+  {
+    "name": "capture_date",
+    "type": "text"
+  },
+  {
+    "name": "capture_at",
+    "type": "text"
+  },
+  {
+    "name": "season",
+    "type": "integer"
+  },
+  {
+    "name": "season_type",
+    "type": "text"
+  },
+  {
+    "name": "player_id",
+    "type": "text"
+  },
+  {
+    "name": "player",
+    "type": "text"
+  },
+  {
+    "name": "team",
+    "type": "text"
+  },
+  {
+    "name": "position",
+    "type": "text"
+  },
+  {
+    "name": "games",
+    "type": "integer"
+  },
+  {
+    "name": "completions",
+    "type": "double precision"
+  },
+  {
+    "name": "attempts",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_yards",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_tds",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_interceptions",
+    "type": "double precision"
+  },
+  {
+    "name": "sacks_suffered",
+    "type": "double precision"
+  },
+  {
+    "name": "sack_yards_lost",
+    "type": "double precision"
+  },
+  {
+    "name": "sack_fumbles",
+    "type": "double precision"
+  },
+  {
+    "name": "sack_fumbles_lost",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_air_yards",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_yards_after_catch",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_first_downs",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_epa",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_cpoe",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_2pt_conversions",
+    "type": "double precision"
+  },
+  {
+    "name": "pacr",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_10",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_16",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_20",
+    "type": "double precision"
+  },
+  {
+    "name": "passing_40",
+    "type": "double precision"
+  },
+  {
+    "name": "carries",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_yards",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_tds",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_fumbles",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_fumbles_lost",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_first_downs",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_epa",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_2pt_conversions",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_10",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_12",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_20",
+    "type": "double precision"
+  },
+  {
+    "name": "rushing_40",
+    "type": "double precision"
+  },
+  {
+    "name": "receptions",
+    "type": "double precision"
+  },
+  {
+    "name": "targets",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_yards",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_tds",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_fumbles",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_fumbles_lost",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_air_yards",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_yards_after_catch",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_first_downs",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_epa",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_2pt_conversions",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_10",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_16",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_20",
+    "type": "double precision"
+  },
+  {
+    "name": "receiving_40",
+    "type": "double precision"
+  },
+  {
+    "name": "racr",
+    "type": "double precision"
+  },
+  {
+    "name": "target_share",
+    "type": "double precision"
+  },
+  {
+    "name": "air_yards_share",
+    "type": "double precision"
+  },
+  {
+    "name": "wopr",
+    "type": "double precision"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "source_last_modified",
+    "type": "text"
+  },
+  {
+    "name": "source_sha256",
+    "type": "text"
+  },
+  {
+    "name": "licence_note",
+    "type": "text"
+  }
+]

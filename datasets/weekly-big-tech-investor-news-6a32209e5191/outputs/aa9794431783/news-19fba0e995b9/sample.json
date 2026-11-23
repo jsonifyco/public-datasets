@@ -1,12 +1,12 @@
 [
   {
-    "article_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
-    "company": "Meta",
-    "headline": "Meta Reports Third Quarter 2026 Results",
-    "publication_date": "2026-10-21",
-    "source_url": "https://investor.atmeta.com/investor-news/default.aspx",
-    "summary": "Meta reported third-quarter 2026 revenue of $64.60 billion, up 26% year over year, and net income of $9.86 billion. The company also announced the establishment of publicly listed, non-voting Class C common stock and a one-time stock dividend of one Class C share for each outstanding Class A and Class B share, subject to the stated conditions.",
-    "ticker": "META"
+    "article_url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Third-Quarter-2026-Results-2026-FCcqxfIfmh/default.aspx",
+    "company": "Alphabet",
+    "headline": "Alphabet Announces Third Quarter 2026 Results",
+    "publication_date": "2026-10-28",
+    "source_url": "https://abc.xyz/investor/news/default.aspx",
+    "summary": "Alphabet reported Q3 2026 consolidated revenues up 25% to $127.6 billion, with Google Cloud revenues up 103% to $30.7 billion and operating margin of 31.8%. Net income available to common stockholders was $26.2 billion, or $2.12 diluted EPS for the quarter ended September 30, 2026.",
+    "ticker": "GOOGL"
   },
   {
     "article_url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Dividend-on-Series-A-and-Series-B-Mandatory-Convertible-Preferred-Stock-2026-FUVJcWKE7H/default.aspx",
@@ -14,44 +14,8 @@
     "headline": "Alphabet Announces Dividend on Series A and Series B Mandatory Convertible Preferred Stock",
     "publication_date": "2026-10-22",
     "source_url": "https://abc.xyz/investor/news/default.aspx",
-    "summary": "Alphabet’s Board of Directors declared a quarterly cash dividend of $15.63 per share on each Series A and Series B mandatory convertible preferred stock, equivalent to approximately $0.78 per depositary share. The dividend is payable November 15, 2026, to stockholders of record as of November 1, 2026.",
+    "summary": "Alphabet's Board of Directors declared a quarterly cash dividend of $15.63 per share on each Series A and Series B mandatory convertible preferred stock (about $0.78 per Depositary Share), payable November 15, 2026 to holders of record as of November 1, 2026.",
     "ticker": "GOOGL"
-  },
-  {
-    "article_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Pricing-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
-    "company": "Meta",
-    "headline": "Meta Announces Pricing of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
-    "publication_date": "2026-10-27",
-    "source_url": "https://investor.atmeta.com/investor-news/default.aspx",
-    "summary": "Meta announced pricing for concurrent offerings of 250 million depositary shares at $50 each and $25 billion of Class A common stock at $625 per share, with the common stock offering upsized from $22.5 billion. The offerings are expected to close on October 29, 2026, and Meta intends to use proceeds from the preferred stock offering and future settlement of the forward sale agreements for general corporate purposes.",
-    "ticker": "META"
-  },
-  {
-    "article_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-to-Announce-Third-Quarter-2026-Results/default.aspx",
-    "company": "Meta",
-    "headline": "Meta to Announce Third Quarter 2026 Results",
-    "publication_date": "2026-10-12",
-    "source_url": "https://investor.atmeta.com/investor-news/default.aspx",
-    "summary": "Meta Platforms, Inc. announced that it will release its third-quarter 2026 financial results after market close on October 21, 2026.",
-    "ticker": "META"
-  },
-  {
-    "article_url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Third-Quarter-2026-Results-2026-FCcqxfIfmh/default.aspx",
-    "company": "Alphabet",
-    "headline": "Alphabet Announces Third Quarter 2026 Results",
-    "publication_date": "2026-10-28",
-    "source_url": "https://abc.xyz/investor/news/default.aspx",
-    "summary": "Alphabet reported third-quarter 2026 revenue of $127.6 billion, up 25% year over year, with Google Cloud revenue increasing 103% to $30.7 billion. Operating income rose 30% to $40.6 billion, while net income available to common stockholders was $26.2 billion and diluted EPS was $2.12.",
-    "ticker": "GOOGL"
-  },
-  {
-    "article_url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists",
-    "company": "Apple",
-    "headline": "Meet the 2026 App Store Award finalists",
-    "publication_date": "2026-11-18",
-    "source_url": "https://investor.apple.com/investor-relations/default.aspx",
-    "summary": "Apple announced 45 finalists for the 2026 App Store Awards, recognizing developers whose apps and games demonstrate exceptional innovation, user experience, design, and cultural impact. Winners will be announced in the coming weeks.",
-    "ticker": "AAPL"
   },
   {
     "article_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
@@ -63,30 +27,66 @@
     "ticker": "NVDA"
   },
   {
-    "article_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
+    "article_url": "https://aka.ms/FY27Q1Blog",
+    "company": "Microsoft",
+    "headline": "The platform approach to becoming Frontier",
+    "publication_date": "2026-10-27",
+    "source_url": "https://www.microsoft.com/en-us/investor/default",
+    "summary": "Judson Althoff, CEO of Microsoft's commercial business, outlines a platform approach to Frontier Transformation built on Copilot, the Microsoft IQ platform and Agent 365, and highlights customer examples including Volkswagen, Fujitsu, KPMG and Truist. The post ties these stories to Microsoft's latest earnings and invites readers to Microsoft Ignite in November.",
+    "ticker": "MSFT"
+  },
+  {
+    "article_url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+    "company": "Microsoft",
+    "headline": "Microsoft Announces First Quarter Results",
+    "publication_date": "2026-10-28",
+    "source_url": "https://www.microsoft.com/en-us/investor/default",
+    "summary": "Microsoft reported first quarter fiscal year 2027 results for the quarter ended September 30, 2026, with revenue of $92.3 billion (up 19%) and GAAP net income of $36.6 billion (up 32%). Non-GAAP net income was $36.4 billion (up 18%), excluding the impact of OpenAI investments, and Microsoft Cloud revenue reached $63.9 billion (up 30%).",
+    "ticker": "MSFT"
+  },
+  {
+    "article_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Pricing-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
     "company": "Meta",
-    "headline": "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
-    "publication_date": "2026-10-26",
+    "headline": "Meta Announces Pricing of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
+    "publication_date": "2026-10-27",
     "source_url": "https://investor.atmeta.com/investor-news/default.aspx",
-    "summary": "Meta announced concurrent underwritten public offerings of approximately $12.5 billion in depositary shares representing Series A Mandatory Convertible Preferred Stock and $22.5 billion of Class A common stock in connection with forward sale agreements. The offerings are part of a financing plan to support Meta’s continued investment in AI infrastructure and personal superintelligence.",
+    "summary": "Meta announced the pricing of two concurrent underwritten offerings: 250,000,000 depositary shares, each representing a 1/20th interest in a 6.50% Series A Mandatory Convertible Preferred Stock at $50 per depositary share, and $25.0 billion of Class A common stock at $625.00 per share, the latter tied to forward sale agreements with Morgan Stanley Capital Services LLC and Goldman Sachs & Co. LLC. The Depositary Shares Offering is expected to yield about $12.5 billion in net proceeds, and the Common Stock Offering is expected to yield about $24.9 billion upon forward settlement by November 19, 2027.",
     "ticker": "META"
   },
   {
-    "article_url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
-    "company": "NVIDIA",
-    "headline": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
-    "publication_date": "2026-11-17",
-    "source_url": "https://nvidianews.nvidia.com/",
-    "summary": "News Summary: NVIDIA today announced expanded commitments with supply chain partners to support sustainable long-term growth, aligning supply and manufacturing capacity with demand for its accelerated computing and AI infrastructure platforms.",
-    "ticker": "NVDA"
+    "article_url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series",
+    "company": "Apple",
+    "headline": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all‑female racing series",
+    "publication_date": "2026-11-19",
+    "source_url": "https://investor.apple.com/investor-relations/default.aspx",
+    "summary": "Apple and F1 ACADEMY announced that the all-female racing series will stream exclusively on Apple TV in the United States beginning in 2027, with every qualifying session and race available to subscribers. The deal expands Apple TV's Formula 1 coverage, which began with a five-year U.S. broadcast partnership starting in 2026.",
+    "ticker": "AAPL"
   },
   {
-    "article_url": "https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend",
-    "company": "Apple",
-    "headline": "Formula 1® returns to the U.S. this weekend with the Las Vegas Grand Prix™, streaming live on Apple TV",
+    "article_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Quarterly-Cash-Dividend-bf2dec2b8/default.aspx",
+    "company": "Meta",
+    "headline": "Meta Announces Quarterly Cash Dividend",
+    "publication_date": "2026-09-10",
+    "source_url": "https://investor.atmeta.com/investor-news/default.aspx",
+    "summary": "Meta Platforms, Inc.'s board of directors declared a quarterly cash dividend of $0.525 per share on its Class A and Class B common stock. The dividend is payable on September 28, 2026 to stockholders of record as of the close of business on September 21, 2026.",
+    "ticker": "META"
+  },
+  {
+    "article_url": "https://aka.ms/AA13ep0o",
+    "company": "Microsoft",
+    "headline": "Microsoft announces quarterly dividend increase",
+    "publication_date": "2026-09-15",
+    "source_url": "https://www.microsoft.com/en-us/investor/default",
+    "summary": "Microsoft's board declared a quarterly dividend of $0.98 per share, a 7 cent (8%) increase over the previous quarter, payable Dec. 10, 2026 to shareholders of record on Nov. 19, 2026. The company also announced its 2026 Annual Shareholders Meeting will be held virtually on Dec. 8, 2026, with a Sept. 30, 2026 record date for voting.",
+    "ticker": "MSFT"
+  },
+  {
+    "article_url": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
+    "company": "NVIDIA",
+    "headline": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
     "publication_date": "2026-11-17",
-    "source_url": "https://investor.apple.com/investor-relations/default.aspx",
-    "summary": "Apple announced that the 2026 Las Vegas Grand Prix will stream free in the U.S. on Apple TV, with every session live and on demand, English and Spanish commentary, and customizable viewing features including Multiview and additional live feeds. The announcement also highlights related F1 programming and race-week coverage across Apple services.",
-    "ticker": "AAPL"
+    "source_url": "https://nvidianews.nvidia.com/",
+    "summary": "News Summary NVIDIA (NASDAQ: NVDA) today announced that the Board of Directors has established the National Security and Export Control Oversight Committee, a new standing committee responsible for board-level oversight of the company’s national security policies, export control compliance and global trade risk management. NVIDIA’s existing National Security Team and Global Trade Compliance Team will report directly to the Committee and to Interim CEO, Colette Kress, on day-to-day operations.",
+    "ticker": "NVDA"
   }
 ]

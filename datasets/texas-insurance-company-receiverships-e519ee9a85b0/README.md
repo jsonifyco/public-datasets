@@ -1,35 +1,35 @@
-# TDI and TPCIGA data: Texas insurance receiverships and insolvencies dataset, refreshed weekly
+# Texas insurance receiverships and insolvencies: TDI and TPCIGA data
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Every Texas insurance receivership on TDI's lists, plus every P&amp;C insolvency in TPCIGA's liquidation directory, with placement, liquidation and closure dates\. Refreshed weekly; export to CSV or Google Sheets\.
+Texas Department of Insurance receivership listings and the Texas Property and Casualty Insurance Guaranty Association liquidation directory, with published placement, liquidation and closure dates where available\. The dataset contains 702 rows across its published tables and can be exported to CSV or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/texas-insurance-company-receiverships-e519ee9a85b0?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 3
-- Last published: 2026-11-21T12:48:25.113739Z
+- Last published: 2026-11-23T08:02:58.683804Z
 
 ## The brief
 
-> I need this data: Every Texas insurance receivership on TDI's lists, plus every P&amp;C insolvency in TPCIGA's liquidation directory, with placement, liquidation and closure dates\. Refreshed weekly; export to CSV or Google Sheets\.
+> I need this data: Texas Department of Insurance receivership listings and the Texas Property and Casualty Insurance Guaranty Association liquidation directory, with published placement, liquidation and closure dates where available\. The dataset contains 702 rows across its published tables and can be exported to CSV or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## Texas Insurance Company Receiverships / receiverships
 
-702 total rows · 50 sampled · Output revision 3
-Published: 2026-11-21T12:48:25.113739Z · Producing pipeline version: 3
+702 total rows · 50 sampled · Output revision 4
+Published: 2026-11-23T08:02:58.683804Z · Producing pipeline version: 3
 
 [CSV sample](outputs/d03bd13018e8/receiverships-dec6f28e2698/sample.csv) · [JSON sample](outputs/d03bd13018e8/receiverships-dec6f28e2698/sample.json) · [Schema](outputs/d03bd13018e8/receiverships-dec6f28e2698/schema.json)
 
 | company\_name | date\_closed | date\_placed | date\_placed\_source\_url | directory\_date | domicile\_state | line\_of\_business | liquidation\_date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ADCO Fire &amp; Casualty | 1991\-12\-20 | 1983\-02\-04 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=1](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=1>) | None | TX | TPA | None |
-| Marrs\-Mundy\-Quill Life Ins\. Co\. | 1965\-07\-08 | 1960\-06\-13 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=9](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=9>) | None | TX | LAH | None |
-| Summit Ins\. Company of NY | 1986\-06\-26 | 1982\-09\-28 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=13](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=13>) | None | None | P&amp;C | None |
-| ICM Insurance Company | None | None | None | 2013\-12\-24 | NY | P&amp;C | 2013\-12\-24 |
-| Iowa National Mutual Ins\. Co\. | 1991\-01\-24 | 1985\-12\-16 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=8](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=8>) | None | IA | P&amp;C | None |
+| Group Health of El Paso | 1990\-02\-08 | 1981\-04\-10 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=6](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=6>) | None | TX | HMO | None |
+| Pacific American Ins\. Co\. | 1992\-10\-06 | 1984\-09\-25 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=11](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=11>) | None | DE | P&amp;C | None |
+| Guaranty Reserve Mutual Life Ins\. | 1941\-09\-20 | 1939\-11\-21 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=6](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=6>) | None | TX | LAH | None |
+| Galaxia Life Ins\. Co\. | 1996\-01\-22 | 1989\-08\-23 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=6](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=6>) | None | LA | LAH | None |
+| Trust Co\. of North America | 1958\-11\-05 | 1954\-06\-15 | [https://www\.tdi\.texas\.gov/receiverships/documents/historicrcvrshp\.pdf\#page=14](<https://www.tdi.texas.gov/receiverships/documents/historicrcvrshp.pdf#page=14>) | None | TX | None | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

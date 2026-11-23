@@ -7,7 +7,7 @@ Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country fr
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 36
+- Active pipeline version: 38
 - Last published: 2026-11-17T12:31:05.125031Z
 
 ## The brief
@@ -133,6 +133,8 @@ flowchart LR
 - 2026-11-02T18:38:14.619452Z: v34: Long search results now use the full\-evidence fallback before they exceed the website\-selection limit\.
 - 2026-11-09T14:17:11.842834Z: v35: Disney Croatia and Slovenia now reach the existing corroborated\-source fallback if their official help pages fail to open\.
 - 2026-11-21T16:00:15.237442Z: v36: Removed the explicit large\-model choice from the discovery fallback so it inherits the platform default\. Existing prompts, validation, outputs and schedule are unchanged\.
+- 2026-11-23T10:24:54.301012Z: v37: Uses Small for price reading and official\-site fallback, reuses unchanged market\-specific evidence, and applies announced prices when their effective dates arrive\.
+- 2026-11-23T11:14:28.908433Z: v38: Fixed updates stopping when official website search results include a page title\. Price and country checks remain unchanged\.
 
 ## Recorded repairs
 
@@ -140,6 +142,13 @@ flowchart LR
 - 2026-11-02T09:55:52.927145Z: repaired
 - 2026-11-09T14:13:37.596402Z: no change
 - 2026-11-09T14:17:20.720175Z: repaired
+- 2026-11-23T11:11:36.766921Z: no change
+- 2026-11-23T11:23:58.128815Z: no change
+- 2026-11-23T11:24:07.509907Z: repaired
+- 2026-11-23T13:47:13.483779Z: no change
+- 2026-11-23T13:47:31.353959Z: repaired
+- 2026-11-23T16:44:51.541677Z: no change
+- 2026-11-23T16:45:30.637503Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 

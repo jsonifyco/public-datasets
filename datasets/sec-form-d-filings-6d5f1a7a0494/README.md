@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. Dataset contains 2,935 rows\.
+Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. The published table contains 4,246 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/sec-form-d-filings-6d5f1a7a0494?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 4
-- Last published: 2026-11-16T09:06:59.759787Z
+- Last published: 2026-11-23T09:10:46.071216Z
 
 ## The brief
 
-> I need this data: Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. Dataset contains 2,935 rows\.
+> I need this data: Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. The published table contains 4,246 rows\.
 
 Summary from the public dataset description.
 
 ## SEC Form D filings / filings
 
-2,935 total rows · 50 sampled · Output revision 4
-Published: 2026-11-16T09:06:59.759787Z · Producing pipeline version: 4
+4,246 total rows · 50 sampled · Output revision 5
+Published: 2026-11-23T09:10:46.071216Z · Producing pipeline version: 4
 
 [CSV sample](outputs/c449a470b322/filings-4b3249d71f72/sample.csv) · [JSON sample](outputs/c449a470b322/filings-4b3249d71f72/sample.json) · [Schema](outputs/c449a470b322/filings-4b3249d71f72/schema.json)
 
@@ -27,9 +27,9 @@ Published: 2026-11-16T09:06:59.759787Z · Producing pipeline version: 4
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0002157581\-26\-000001 | 0002157581 | 2026\-10\-15 | Corporation | 06b | 2026\-10\-29 | [https://www\.sec\.gov/Archives/edgar/data/2157581/000215758126000001/0002157581\-26\-000001\-index\.html](<https://www.sec.gov/Archives/edgar/data/2157581/000215758126000001/0002157581-26-000001-index.html>) | None |
 | 0001012975\-26\-001016 | 0002163955 | None | Limited Partnership | 06b, 3C, 3C\.7 | 2026\-11\-06 | [https://www\.sec\.gov/Archives/edgar/data/2163955/000101297526001016/0001012975\-26\-001016\-index\.html](<https://www.sec.gov/Archives/edgar/data/2163955/000101297526001016/0001012975-26-001016-index.html>) | True |
+| 0001062993\-26\-006021 | 0002164395 | 2026\-11\-03 | Limited Partnership | 06b, 3C, 3C\.1 | 2026\-11\-16 | [https://www\.sec\.gov/Archives/edgar/data/2164395/000106299326006021/0001062993\-26\-006021\-index\.html](<https://www.sec.gov/Archives/edgar/data/2164395/000106299326006021/0001062993-26-006021-index.html>) | None |
 | 0002159667\-26\-000001 | 0002159667 | None | Other | 06b, 3C, 3C\.7 | 2026\-11\-04 | [https://www\.sec\.gov/Archives/edgar/data/2159667/000215966726000001/0002159667\-26\-000001\-index\.html](<https://www.sec.gov/Archives/edgar/data/2159667/000215966726000001/0002159667-26-000001-index.html>) | True |
-| 0000902664\-26\-004403 | 0001789424 | 2022\-11\-01 | Other | 06b, 3C, 3C\.7 | 2026\-11\-06 | [https://www\.sec\.gov/Archives/edgar/data/1789424/000090266426004403/0000902664\-26\-004403\-index\.html](<https://www.sec.gov/Archives/edgar/data/1789424/000090266426004403/0000902664-26-004403-index.html>) | None |
-| 0001442838\-26\-000001 | 0001442838 | 2005\-09\-15 | Limited Liability Company | 06b, 3C, 3C\.1 | 2026\-11\-03 | [https://www\.sec\.gov/Archives/edgar/data/1442838/000144283826000001/0001442838\-26\-000001\-index\.html](<https://www.sec.gov/Archives/edgar/data/1442838/000144283826000001/0001442838-26-000001-index.html>) | None |
+| 0001231919\-26\-001600 | 0002071621 | 2025\-11\-20 | Limited Partnership | 06c, 3C, 3C\.7 | 2026\-11\-18 | [https://www\.sec\.gov/Archives/edgar/data/2071621/000123191926001600/0001231919\-26\-001600\-index\.html](<https://www.sec.gov/Archives/edgar/data/2071621/000123191926001600/0001231919-26-001600-index.html>) | None |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

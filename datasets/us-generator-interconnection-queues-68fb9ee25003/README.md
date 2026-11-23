@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Generator interconnection queue data from CAISO, NYISO and BPA in one table, with project, fuel, capacity, status, location and proposed in\-service date where published\. The table contains 3,520 requests\.
+Published generator interconnection queue records from CAISO, NYISO and BPA in one table, with project, fuel, capacity, status, location and proposed in\-service date where published\. The table contains 3,520 requests\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-generator-interconnection-queues-68fb9ee25003?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-11-16T10:01:01.664140Z
+- Last published: 2026-11-23T10:04:00.137628Z
 
 ## The brief
 
-> I need this data: Generator interconnection queue data from CAISO, NYISO and BPA in one table, with project, fuel, capacity, status, location and proposed in\-service date where published\. The table contains 3,520 requests\.
+> I need this data: Published generator interconnection queue records from CAISO, NYISO and BPA in one table, with project, fuel, capacity, status, location and proposed in\-service date where published\. The table contains 3,520 requests\.
 
 Summary from the public dataset description.
 
 ## US generator interconnection queues / requests
 
-3,520 total rows · 50 sampled · Output revision 3
-Published: 2026-11-16T10:01:01.664140Z · Producing pipeline version: 2
+3,520 total rows · 50 sampled · Output revision 4
+Published: 2026-11-23T10:04:00.137628Z · Producing pipeline version: 2
 
 [CSV sample](outputs/1602d1c4c5ce/requests-ec72420df5df/sample.csv) · [JSON sample](outputs/1602d1c4c5ce/requests-ec72420df5df/sample.json) · [Schema](outputs/1602d1c4c5ce/requests-ec72420df5df/schema.json)
 
 | capacity\_mw | county | first\_seen\_date | fuel\_type | interconnection\_customer | operator | point\_of\_interconnection | project\_name |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 210 | Sherman | 2026\-11\-14 | Wind Turbine; Battery | None | BPA | Jones Canyon to Tumble Creek section of Jones Canyon\-Santiam No 1 230 kV line; Ashe to Marian No 2 500 kV line; or Slatt to Buckley No 1 500 kV line\. | None |
-| 150 | LOS ANGELES | 2026\-11\-14 | Solar; Battery | None | CAISO | Vincent \- Pearblossom 230 kV line | JUNIPER STORAGE |
-| 20\.2 | FRESNO | 2026\-11\-14 | Solar | None | CAISO | Stroud 70 kV Switching Station | WOLVERINE SOLAR 1 \- FKA YUBA SOLAR 1 |
-| 45 | SAN LUIS OBISPO | 2026\-11\-14 | Natural Gas | None | CAISO | Diablo Canyon Substation Circuit Breakers 542 and 642 | DIABLO CANYON P\.P\. UNIT 2 |
-| 500 | RIVERSIDE | 2026\-11\-14 | Solar; Battery | None | CAISO | Colorado River Substation 500kV | GENESIS MCCOY |
+| 200 | Klickitat &amp; Yakima | 2026\-11\-14 | Wind Turbine | None | BPA | New substation on BPA's 500 kV McNary\-John Day line | None |
+| 39 | Chautauqua | 2026\-11\-14 | W | Goldenrod Wind LLC | NYISO | Moon Road\-Hartfield 115kV Line159 | Goldenrod Wind |
+| 300 | Columbia | 2026\-11\-14 | Wind Turbine | RES North America | BPA | Lower Monumental\-Starbuck 500 kV line\. | 300MW Lower Monumental\-Starbuck |
+| 299 | Wasco | 2026\-11\-14 | Wind Turbine | None | BPA | BPA’s 230 kV Transmission Facilities in or close to Maupin Substation\. | None |
+| 1 | Deschutes | 2026\-11\-14 | Water | Three Sisters Irrigation District | BPA | 68000 Hwy 20 W, Bend, OR  97701 | Sisters Irrigation Hydro Project |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

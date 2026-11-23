@@ -8,6 +8,14 @@
     "posting_count": 143
   },
   {
+    "board_url": "https://job-boards.greenhouse.io/discord",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Discord",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 29
+  },
+  {
     "board_url": "https://job-boards.greenhouse.io/vercel",
     "capture_date": "2026-11-19T16:31:15.157852+00:00",
     "company": "Vercel",
@@ -56,6 +64,22 @@
     "posting_count": 90
   },
   {
+    "board_url": "https://job-boards.greenhouse.io/databricks",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Databricks",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 893
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/notion",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Notion",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 170
+  },
+  {
     "board_url": "https://jobs.ashbyhq.com/supabase",
     "capture_date": "2026-11-20T09:00:21.043966+00:00",
     "company": "Supabase",
@@ -78,5 +102,301 @@
     "complete": true,
     "platform": "Greenhouse",
     "posting_count": 147
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/scaleai",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Scale AI",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 162
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/plaid",
+    "capture_date": "2026-11-22T09:00:33.033946+00:00",
+    "company": "Plaid",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 147
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/brex",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Brex",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 261
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/reddit",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Reddit",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 148
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/cloudflare",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Cloudflare",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 503
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/anthropic",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Anthropic",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 638
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/scaleai",
+    "capture_date": "2026-11-22T09:00:33.033946+00:00",
+    "company": "Scale AI",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 166
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/Perplexity",
+    "capture_date": "2026-11-22T09:00:33.033946+00:00",
+    "company": "Perplexity",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 151
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/cursor",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Cursor",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 89
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/brex",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Brex",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 249
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/notion",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Notion",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 168
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/ramp",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Ramp",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 187
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/duolingo",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Duolingo",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 54
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/databricks",
+    "capture_date": "2026-11-22T09:00:33.033946+00:00",
+    "company": "Databricks",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 895
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/stripe",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Stripe",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 776
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/replit",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Replit",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 37
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/ramp",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Ramp",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 187
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/mistral.ai",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Mistral",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 259
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/cursor",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Cursor",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 88
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/coinbase",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Coinbase",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 252
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/cohere",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Cohere",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 124
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/discord",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Discord",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 29
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/Perplexity",
+    "capture_date": "2026-11-19T16:31:15.157852+00:00",
+    "company": "Perplexity",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 147
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/cohere",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Cohere",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 125
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/reddit",
+    "capture_date": "2026-11-22T09:00:33.033946+00:00",
+    "company": "Reddit",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 148
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/coinbase",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Coinbase",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 253
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/reddit",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Reddit",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 143
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/openai",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "OpenAI",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 853
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/airbnb",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Airbnb",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 202
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/brex",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "Brex",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 248
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/vercel",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Vercel",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 86
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/anthropic",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "Anthropic",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 633
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/openai",
+    "capture_date": "2026-11-23T09:10:07.650156+00:00",
+    "company": "OpenAI",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 852
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/brex",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Brex",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 249
+  },
+  {
+    "board_url": "https://jobs.ashbyhq.com/openai",
+    "capture_date": "2026-11-21T09:00:30.919470+00:00",
+    "company": "OpenAI",
+    "complete": true,
+    "platform": "Ashby",
+    "posting_count": 852
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/vercel",
+    "capture_date": "2026-11-22T09:00:33.033946+00:00",
+    "company": "Vercel",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 86
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/duolingo",
+    "capture_date": "2026-11-20T09:00:21.043966+00:00",
+    "company": "Duolingo",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 55
   }
 ]

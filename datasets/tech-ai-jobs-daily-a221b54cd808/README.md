@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore job postings from public Greenhouse and Ashby careers boards\. The published dataset contains 26,669 rows across postings and capture tables\. Export to CSV, Excel or Google Sheets\.
+Explore job postings from public Greenhouse and Ashby careers boards\. The published dataset contains 33,338 rows across postings and capture tables\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/tech-ai-jobs-daily-a221b54cd808?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-22T09:07:57.664440Z
+- Last published: 2026-11-23T09:11:12.054540Z
 
 ## The brief
 
-> I need this data: Explore job postings from public Greenhouse and Ashby careers boards\. The published dataset contains 26,669 rows across postings and capture tables\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Explore job postings from public Greenhouse and Ashby careers boards\. The published dataset contains 33,338 rows across postings and capture tables\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## Tech &amp; AI Job History / postings
 
-26,569 total rows · 50 sampled · Output revision 4
-Published: 2026-11-22T09:07:57.664440Z · Producing pipeline version: 1
+33,213 total rows · 50 sampled · Output revision 5
+Published: 2026-11-23T09:11:12.054540Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.csv) · [JSON sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.json) · [Schema](outputs/1ee398128fc6/postings-4d6282602ee9/schema.json)
 
@@ -27,9 +27,9 @@ Published: 2026-11-22T09:07:57.664440Z · Producing pipeline version: 1
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026\-11\-22T09:00:33\.033946\+00:00 | Reddit | \["Data Science"\] | \["Full\-time", "Regular"\] | Full time; Regular | 2026\-11\-19 | 8072076 | Staff Data Scientist \- Ads Measurement, Signals, Privacy |
 | 2026\-11\-22T09:00:33\.033946\+00:00 | Brex | \["Risk &amp; Credit"\] | None | None | 2026\-11\-19 | 8750674002 | Fraud Operations Associate |
+| 2026\-11\-23T09:10:07\.650156\+00:00 | Mistral | \["Business"\] | \["Full\-time"\] | FullTime | 2026\-11\-19 | 383657db\-14fa\-4b06\-bd75\-ab277478f893 | Account Executive, Enterprise  |
 | 2026\-11\-19T16:31:15\.157852\+00:00 | Notion | \["Engineering"\] | \["Full\-time"\] | FullTime | 2026\-11\-19 | 79c18580\-c927\-456c\-9d5f\-72efbc6c43cb | Forward Deployed Engineer, India |
 | 2026\-11\-21T09:00:30\.919470\+00:00 | Brex | \["People"\] | None | None | 2026\-11\-19 | 8858673002 | Senior Technical Sourcer II |
-| 2026\-11\-21T09:00:30\.919470\+00:00 | Coinbase | \["Engineering \- Security"\] | None | None | 2026\-11\-19 | 8021650 | Staff Software Engineer |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -56,18 +56,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Tech &amp; AI Job History / captures
 
-100 total rows · 10 sampled · Output revision 4
-Published: 2026-11-22T09:07:57.664440Z · Producing pipeline version: 1
+125 total rows · 50 sampled · Output revision 5
+Published: 2026-11-23T09:11:12.054540Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.csv) · [JSON sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.json) · [Schema](outputs/1ee398128fc6/captures-2d9457560f11/schema.json)
 
 | board\_url | capture\_date | company | complete | platform | posting\_count |
 | --- | --- | --- | --- | --- | --- |
 | [https://job\-boards\.greenhouse\.io/figma](<https://job-boards.greenhouse.io/figma>) | 2026\-11\-19T16:31:15\.157852\+00:00 | Figma | True | Greenhouse | 143 |
+| [https://job\-boards\.greenhouse\.io/discord](<https://job-boards.greenhouse.io/discord>) | 2026\-11\-23T09:10:07\.650156\+00:00 | Discord | True | Greenhouse | 29 |
 | [https://job\-boards\.greenhouse\.io/vercel](<https://job-boards.greenhouse.io/vercel>) | 2026\-11\-19T16:31:15\.157852\+00:00 | Vercel | True | Greenhouse | 86 |
 | [https://job\-boards\.greenhouse\.io/duolingo](<https://job-boards.greenhouse.io/duolingo>) | 2026\-11\-19T16:31:15\.157852\+00:00 | Duolingo | True | Greenhouse | 55 |
 | [https://jobs\.ashbyhq\.com/cohere](<https://jobs.ashbyhq.com/cohere>) | 2026\-11\-22T09:00:33\.033946\+00:00 | Cohere | True | Ashby | 124 |
-| [https://jobs\.ashbyhq\.com/cohere](<https://jobs.ashbyhq.com/cohere>) | 2026\-11\-19T16:31:15\.157852\+00:00 | Cohere | True | Ashby | 124 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

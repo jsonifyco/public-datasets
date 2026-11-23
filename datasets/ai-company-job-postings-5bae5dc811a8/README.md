@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\. The published tables contain 5,584 rows\.
+AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\. The published tables contain 5,832 rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-company-job-postings-5bae5dc811a8?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 4
-- Last published: 2026-11-16T07:02:08.230901Z
+- Last published: 2026-11-23T07:01:49.315850Z
 
 ## The brief
 
-> I need this data: AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\. The published tables contain 5,584 rows\.
+> I need this data: AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\. The published tables contain 5,832 rows\.
 
 Summary from the public dataset description.
 
 ## AI company job postings / jobs
 
-5,584 total rows · 50 sampled · Output revision 10
-Published: 2026-11-16T07:02:08.230901Z · Producing pipeline version: 4
+5,832 total rows · 50 sampled · Output revision 11
+Published: 2026-11-23T07:01:49.315850Z · Producing pipeline version: 4
 
 [CSV sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.csv) · [JSON sample](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/sample.json) · [Schema](outputs/974fa46f2ce0/jobs-5d9a17cb70b9/schema.json)
 
 | first\_seen\_date | company | ats | board | posting\_id | title | department | team |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026\-11\-16 | Cohere | ashby | cohere | 2dc422bb\-6759\-4867\-afb6\-dc074af9ae58 | Senior Accountant | Business Operations | Finance |
-| 2026\-11\-16 | Cursor | ashby | cursor | 60a3541f\-f6b6\-4da2\-a168\-40e867a51740 | Field Engineer, Healthcare | Solutions | Field Engineering |
-| 2026\-11\-16 | Anthropic | greenhouse | anthropic | 5391203008 | Partner Account Manager, Systems Integrators | Sales | None |
-| 2026\-11\-16 | Cognition | ashby | cognition | 0b94c2c2\-1fc6\-4a5a\-9570\-c492d5c50546 | Lifecycle Marketing Lead | Marketing | Marketing |
-| 2026\-11\-16 | LangChain | ashby | langchain | ebfd7cd4\-c9cd\-46bd\-b406\-3fadaffcecef | Regional Vice President, Sales DACH | Sales | Sales |
+| 2026\-11\-23 | OpenAI | ashby | openai | 6785d983\-8831\-46d0\-9c81\-443f83664948 | Research Engineer / Research Scientist, Health | Research | Post\-training |
+| 2026\-11\-23 | xAI | greenhouse | xai | 5090998007 | Infrastructure Security Engineer | Information Security | None |
+| 2026\-11\-23 | OpenAI | ashby | openai | d1906ab2\-b829\-4a13\-b1f2\-f4af97d699fa | Research Engineer/Research Scientist\-Post Training, Proactivity | Research | Post\-training |
+| 2026\-11\-23 | Anthropic | greenhouse | anthropic | 5484035008 | Applied AI Architect, Beneficial Deployments \(Non\-Profits\) | Applied AI | None |
+| 2026\-11\-23 | OpenAI | ashby | openai | e47f0627\-6aef\-49b0\-beea\-f46cb6cc07ad | Deployment Lead \(DL\), FDE \- Seoul | Forward Deployed Engineering | Forward Deployed Engineering |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

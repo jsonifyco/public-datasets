@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A combined table of upcoming highway construction contracts advertised by state DOTs, with letting dates, project details and published estimates where available\. The current published table contains 178 contracts\.
+A combined table of advertised highway construction contracts from state DOTs, with letting dates, project details and published estimates where available\. The published lettings table contains 229 contract rows\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/upcoming-us-dot-construction-lettings-556d79272f4f?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-11-18T15:03:45.372798Z
+- Last published: 2026-11-23T07:04:45.492471Z
 
 ## The brief
 
-> I need this data: A combined table of upcoming highway construction contracts advertised by state DOTs, with letting dates, project details and published estimates where available\. The current published table contains 178 contracts\.
+> I need this data: A combined table of advertised highway construction contracts from state DOTs, with letting dates, project details and published estimates where available\. The published lettings table contains 229 contract rows\.
 
 Summary from the public dataset description.
 
 ## Upcoming DOT construction lettings / lettings
 
-178 total rows · 50 sampled · Output revision 4
-Published: 2026-11-18T15:03:45.372798Z · Producing pipeline version: 2
+229 total rows · 50 sampled · Output revision 5
+Published: 2026-11-23T07:04:45.492471Z · Producing pipeline version: 2
 
 [CSV sample](outputs/c1a683da98b9/lettings-33ae7094861a/sample.csv) · [JSON sample](outputs/c1a683da98b9/lettings-33ae7094861a/sample.json) · [Schema](outputs/c1a683da98b9/lettings-33ae7094861a/schema.json)
 
 | bid\_due\_date | contract\_id | county | description | district\_or\_region | estimate\_high | estimate\_low | first\_seen\_date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | None | 10171 | Gregory, Tripp | Unbonded Concrete Overlay, Nonreinforced Portland Cement Concrete Shoulders with Asphalt Shoulders | None | None | None | 2026\-11\-18 |
+| None | T1950 | POLK | The improvements under this project consist of milling and resurfacing, median modifications, sidewalk, curb ramps, and signing and pavement markings on SR 563 from South of SR 539 \(Kathleen Road\) to South of SR 546 \(US 92\) in Polk County\. | 01 | None | None | 2026\-11\-18 |
+| None | 263095 | Shelby County | FINCHVILLE RD \(KY\-148\) \(MP 8\.697\) FROM BRASHEARS CREEK; EXTENDING EASTERLY TO MT EDEN RD \(MP 13\.870\), A DISTANCE OF 5\.17 MILES\. ASPHALT RESURFACING\. | None | None | None | 2026\-11\-23 |
 | None | 9973 | Jackson | Structures \(3\-12x9 CIP or Precast RCBC &amp; 4\-12x8 CIP or Precast RCBC\), Approach Grading | None | None | None | 2026\-11\-18 |
-| None | 10147 | Pennington | Grading, Asphalt Concrete Surfacing, Signing, Pavement Markings and Watermain | None | None | None | 2026\-11\-18 |
-| None | 10063 | Kingsbury | Guardrail, Bank Stabilization, Shoulder Surfacing, Rumble Strips | None | None | None | 2026\-11\-18 |
-| None | 10197 | Lawrence | Rockfall Mitigation | None | None | None | 2026\-11\-18 |
+| 2026\-12\-09 | B\-45608\-A | Madison | SCOUR PROTECTION | Greenfield District | None | None | 2026\-11\-18 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

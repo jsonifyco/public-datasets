@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
+Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 20 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-20T09:06:37.146145Z
+- Last published: 2026-11-23T09:20:17.005788Z
 
 ## The brief
 
-> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
+> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 20 event records\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-18 total rows · 10 sampled · Output revision 14
-Published: 2026-11-20T09:06:37.146145Z · Producing pipeline version: 5
+20 total rows · 10 sampled · Output revision 15
+Published: 2026-11-23T09:20:17.005788Z · Producing pipeline version: 5
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| O ano de 25 de novembro é 2026, conforme a data de publicação de 26\.10\.2026\. | Conferência sobre a evolução do direito civil português e o futuro do Código Civil, por ocasião dos seus 60 anos\. | 2026\-11\-25 | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
-| None | Formação presencial sobre prevenção do branqueamento de capitais e do financiamento do terrorismo no setor imobiliário, incluindo deveres legais, orientações do IMPIC, procedimentos de compliance e regime sancionatório\. | 2026\-10\-27 | 2026\-10\-27 | Morais Leitão participa em formação da APPII Academy sobre prevenção de BC/FT no setor imobiliário | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-em\-formacao\-da\-APPII\-Academy\-sobre\-prevencao\-de\-BCFT\-no\-setor\-imobiliario/27179/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-em-formacao-da-APPII-Academy-sobre-prevencao-de-BCFT-no-setor-imobiliario/27179/>) | Morais Leitão |
-| O ano de 2026 é indicado na listagem oficial; o programa indica 18 de maio\. | Conferência sobre o PTRR, incluindo prioridades públicas, financiamento, desafios jurídicos na execução de projetos e riscos de implementação\. | 2026\-05\-18 | 2026\-05\-18 | PTRR: Um novo ciclo de investimento | 14h30 – 16h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/ptrr\-um\-novo\-ciclo\-de\-investimento/](<https://abreuadvogados.com/conhecimento/eventos/abreu/ptrr-um-novo-ciclo-de-investimento/>) | Abreu Advogados |
-| The event year is resolved from the dated official listing\. | An online foundation capacity\-building session on compliance, transparency, trust and impact in the foundations sector\. | 2026\-10\-28 | 2026\-10\-28 | Foundation Compliance – Transparency, Trust and Impact in the Foundations Sector | 10\.00 am to 11\.30 am | [https://www\.vda\.pt/en/media/events/foundation\-compliance\-transparency\-trust\-and\-impact\-in\-the\-foundations\-sector/28870/](<https://www.vda.pt/en/media/events/foundation-compliance-transparency-trust-and-impact-in-the-foundations-sector/28870/>) | VdA |
-| As datas referem\-se às duas sessões anunciadas, não necessariamente à duração integral da Semana da Reabilitação Urbana\. | A Morais Leitão coorganiza duas sessões sobre alterações ao licenciamento urbanístico e a sua aplicação no setor imobiliário e da habitação, nos dias 2 e 3 de novembro\. | 2026\-11\-03 | 2026\-11\-02 | 14\.ª edição da Semana da Reabilitação Urbana do Porto | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-na\-14\-edicao\-da\-Semana\-da\-Reabilitacao\-Urbana\-do\-Porto/27161/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-na-14-edicao-da-Semana-da-Reabilitacao-Urbana-do-Porto/27161/>) | Morais Leitão |
+| O programa indica 21 de abril e a listagem oficial confirma o ano de 2026\. | Conferência sobre cibersegurança no setor industrial português, com foco nas obrigações da Diretiva NIS2 em matéria de gestão de risco, reporte de incidentes e responsabilização dos órgãos de gestão\. | 2026\-04\-21 | 2026\-04\-21 | O Futuro da Cibersegurança no Setor Industrial | 9h30 – 13h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/o\-futuro\-da\-ciberseguranca\-no\-setor\-industrial/](<https://abreuadvogados.com/conhecimento/eventos/abreu/o-futuro-da-ciberseguranca-no-setor-industrial/>) | Abreu Advogados |
+| A listagem oficial indica o início em 27 de outubro de 2026 às 09:00\. O anúncio refere dois dias de congresso, sem indicar a data de encerramento\. | Congresso de dois dias que reúne académicos, reguladores e profissionais da indústria para debater a regulação das infraestruturas digitais, dos cabos submarinos e centros de dados à identidade digital e à inteligência artificial\. | None | 2026\-10\-27 | I Congresso de Direito das Infraestruturas Digitais: Regulação e Poder | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-das\-Infraestruturas\-Digitais\-Regulacao\-e\-Poder/34662/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-das-Infraestruturas-Digitais-Regulacao-e-Poder/34662/>) | PLMJ |
+| O anúncio, publicado em 5 de junho de 2025, indica que a cerimónia se realizou «ontem» e descreve a abertura e o encerramento na mesma jornada\. | Cerimónia comemorativa da assinatura do Tratado de Adesão de Espanha e Portugal às Comunidades Europeias, com uma conversa sobre a integração europeia dos dois países e um colóquio sobre o impacto do Direito da União nos sistemas jurídicos nacionais\. | 2025\-06\-04 | 2025\-06\-04 | A Uría Menéndez assinala o 40\.º aniversário da assinatura do Tratado de Adesão de Espanha e Portugal à União Europeia | None | [https://www\.uria\.com/pt/prensa/1403\-uria\-menendez\-conmemora\-el\-40\-aniversario\-de\-la\-firma\-del\-tratado\-de\-adhesion\-de\-espana\-y\-portugal\-a\-la\-union\-europea](<https://www.uria.com/pt/prensa/1403-uria-menendez-conmemora-el-40-aniversario-de-la-firma-del-tratado-de-adhesion-de-espana-y-portugal-a-la-union-europea>) | Uría Menéndez |
+| O ano de 2026 consta da listagem oficial\. O horário explícito é 14h30 – 16h30, apesar da referência a «Ao longo da manhã» no texto\. | Conferência sobre as prioridades do PTRR, os instrumentos de financiamento, os desafios jurídicos na execução de projetos e a mitigação de riscos\. | 2026\-05\-18 | 2026\-05\-18 | PTRR: Um novo ciclo de investimento | 14h30 – 16h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/ptrr\-um\-novo\-ciclo\-de\-investimento/](<https://abreuadvogados.com/conhecimento/eventos/abreu/ptrr-um-novo-ciclo-de-investimento/>) | Abreu Advogados |
+| None | Lançamento de um manual de advocacia de empresa, com um painel de debate\. O livro reúne 15 artigos sobre temas como governança corporativa, inteligência artificial no trabalho jurídico, regulação e compliance\. | 2026\-11\-26 | 2026\-11\-26 | Lançamento do livro “Manual do Advogado In\-House” | 16h45 – 18h45 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/lancamento\-do\-livro\-manual\-do\-advogado\-in\-house/](<https://abreuadvogados.com/conhecimento/eventos/abreu/lancamento-do-livro-manual-do-advogado-in-house/>) | Abreu Advogados |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

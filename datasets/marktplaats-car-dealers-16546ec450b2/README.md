@@ -8,7 +8,7 @@ Marktplaats car dealer dataset with seller profiles, locations, membership tenur
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-11-16T07:02:03.173674Z
+- Last published: 2026-11-23T07:02:30.734293Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Marktplaats car dealers / sellers
 
-50 total rows · 10 sampled · Output revision 2
-Published: 2026-11-16T07:02:03.173674Z · Producing pipeline version: 2
+50 total rows · 10 sampled · Output revision 3
+Published: 2026-11-23T07:02:30.734293Z · Producing pipeline version: 2
 
 [CSV sample](outputs/1aa6bc551c5b/sellers-02dc9cc87f93/sample.csv) · [JSON sample](outputs/1aa6bc551c5b/sellers-02dc9cc87f93/sample.json) · [Schema](outputs/1aa6bc551c5b/sellers-02dc9cc87f93/schema.json)
 
 | active\_listing\_count | category | collected\_at | location | member\_since | seller\_name | seller\_profile\_url | seller\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 14 | Auto's | 2026\-11\-16T07:01:29\.088336\+00:00 | Vriezenveen | 15 jaar | Gert Hekhuis auto's | [https://www\.marktplaats\.nl/u/gert\-hekhuis\-auto\-s/16667118/](<https://www.marktplaats.nl/u/gert-hekhuis-auto-s/16667118/>) | business |
-| 16 | Auto's | 2026\-11\-16T07:01:13\.941008\+00:00 | Deventer | 11 jaar | Kök Automotives B\.V\. | [https://www\.marktplaats\.nl/u/kok\-automotives\-b\-v/22099434/](<https://www.marktplaats.nl/u/kok-automotives-b-v/22099434/>) | business |
-| 99 | Auto's | 2026\-11\-16T07:01:14\.107509\+00:00 | Wormerveer | 10 jaar | Occasions Wormerveer | [https://www\.marktplaats\.nl/u/occasions\-wormerveer/24341639/](<https://www.marktplaats.nl/u/occasions-wormerveer/24341639/>) | business |
-| 4 | Auto's | 2026\-11\-16T07:01:30\.603483\+00:00 | Stoutenburg Noord | 4 jaar | Kelder | [https://www\.marktplaats\.nl/u/kelder/45294344/](<https://www.marktplaats.nl/u/kelder/45294344/>) | business |
-| 58 | Auto's | 2026\-11\-16T07:01:10\.610277\+00:00 | Almere | 18 jaar | LDK automotive | [https://www\.marktplaats\.nl/u/ldk\-automotive/10448340/](<https://www.marktplaats.nl/u/ldk-automotive/10448340/>) | business |
+| 8 | Auto's | 2026\-11\-23T07:01:45\.982179\+00:00 | Dordrecht | 8 jaar | Autobedrijf S\.A\.E\. | [https://www\.marktplaats\.nl/u/autobedrijf\-s\-a\-e/26341241/](<https://www.marktplaats.nl/u/autobedrijf-s-a-e/26341241/>) | business |
+| 3 | Auto's | 2026\-11\-23T07:01:42\.568830\+00:00 | Borne | 1 jaar | Ten Broeke Auto's | [https://www\.marktplaats\.nl/u/ten\-broeke\-auto\-s/56866112/](<https://www.marktplaats.nl/u/ten-broeke-auto-s/56866112/>) | business |
+| 37 | Auto's | 2026\-11\-23T07:01:30\.140018\+00:00 | Veen | 21 jaar | MvB auto's | [https://www\.marktplaats\.nl/u/mvb\-auto\-s/1757740/](<https://www.marktplaats.nl/u/mvb-auto-s/1757740/>) | business |
+| 8 | Auto's | 2026\-11\-23T07:01:18\.046752\+00:00 | Heerlen | 17 jaar | Autobedrijf John Koullen | [https://www\.marktplaats\.nl/u/autobedrijf\-john\-koullen/13833586/](<https://www.marktplaats.nl/u/autobedrijf-john-koullen/13833586/>) | business |
+| 4 | Auto's | 2026\-11\-23T07:01:14\.404251\+00:00 | Langbroek | 1 jaar | Budget\-Auto's | [https://www\.marktplaats\.nl/u/budget\-auto\-s/56135109/](<https://www.marktplaats.nl/u/budget-auto-s/56135109/>) | business |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

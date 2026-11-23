@@ -30,6 +30,36 @@
     "song_title": "Stop The Wedding!"
   },
   {
+    "apple_music_song_id": "1871258330",
+    "apple_music_song_url": "https://music.apple.com/us/song/e85/1871258330",
+    "artist": "Don Toliver",
+    "chart": "Global",
+    "chart_date": "2026-11-23",
+    "position": 95,
+    "snapshot_key": "Global:2026-11-23:95",
+    "song_title": "E85"
+  },
+  {
+    "apple_music_song_id": "1871258330",
+    "apple_music_song_url": "https://music.apple.com/us/song/e85/1871258330",
+    "artist": "Don Toliver",
+    "chart": "USA",
+    "chart_date": "2026-11-23",
+    "position": 79,
+    "snapshot_key": "USA:2026-11-23:79",
+    "song_title": "E85"
+  },
+  {
+    "apple_music_song_id": "1820264150",
+    "apple_music_song_url": "https://music.apple.com/us/song/golden/1820264150",
+    "artist": "HUNTR/X , EJAE , AUDREY NUNA , REI AMI , KPop Demon Hunters Cast",
+    "chart": "Global",
+    "chart_date": "2026-11-23",
+    "position": 60,
+    "snapshot_key": "Global:2026-11-23:60",
+    "song_title": "Golden"
+  },
+  {
     "apple_music_song_id": "6810716062",
     "apple_music_song_url": "https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062",
     "artist": "Jhené Aiko",
@@ -90,6 +120,26 @@
     "song_title": "Great Expectation"
   },
   {
+    "apple_music_song_id": "6819802968",
+    "apple_music_song_url": "https://music.apple.com/us/song/flower-in-a-hurricane-from-gtavi-original-score/6819802968",
+    "artist": "Justice , Tame Impala , SZA , King Gizzard & The Lizard Wizard",
+    "chart": "USA",
+    "chart_date": "2026-11-23",
+    "position": 4,
+    "snapshot_key": "USA:2026-11-23:4",
+    "song_title": "Flower In A Hurricane [From GTAVI: Original Score]"
+  },
+  {
+    "apple_music_song_id": "1802103970",
+    "apple_music_song_url": "https://music.apple.com/us/song/im-the-problem/1802103970",
+    "artist": "Morgan Wallen",
+    "chart": "USA",
+    "chart_date": "2026-11-23",
+    "position": 29,
+    "snapshot_key": "USA:2026-11-23:29",
+    "song_title": "I'm The Problem"
+  },
+  {
     "apple_music_song_id": "1440841382",
     "apple_music_song_url": "https://music.apple.com/us/song/controlla/1440841382",
     "artist": "Drake",
@@ -110,6 +160,16 @@
     "song_title": "Don't We"
   },
   {
+    "apple_music_song_id": "1648587330",
+    "apple_music_song_url": "https://music.apple.com/us/song/in-a-minute/1648587330",
+    "artist": "Lil Baby",
+    "chart": "USA",
+    "chart_date": "2026-11-23",
+    "position": 11,
+    "snapshot_key": "USA:2026-11-23:11",
+    "song_title": "In A Minute"
+  },
+  {
     "apple_music_song_id": "1526194192",
     "apple_music_song_url": "https://music.apple.com/us/song/mr-brightside/1526194192",
     "artist": "The Killers",
@@ -128,6 +188,16 @@
     "position": 37,
     "snapshot_key": "USA:2026-11-18:37",
     "song_title": "Stick Talk"
+  },
+  {
+    "apple_music_song_id": "1884403093",
+    "apple_music_song_url": "https://music.apple.com/us/song/boston/1884403093",
+    "artist": "STELLA LEFTY",
+    "chart": "Global",
+    "chart_date": "2026-11-23",
+    "position": 41,
+    "snapshot_key": "Global:2026-11-23:41",
+    "song_title": "Boston"
   },
   {
     "apple_music_song_id": "1529510489",
@@ -158,6 +228,16 @@
     "position": 90,
     "snapshot_key": "Global:2026-11-17:90",
     "song_title": "Brand New"
+  },
+  {
+    "apple_music_song_id": "1239976610",
+    "apple_music_song_url": "https://music.apple.com/us/song/broken-clocks/1239976610",
+    "artist": "SZA",
+    "chart": "USA",
+    "chart_date": "2026-11-23",
+    "position": 52,
+    "snapshot_key": "USA:2026-11-23:52",
+    "song_title": "Broken Clocks"
   },
   {
     "apple_music_song_id": "1621119447",
@@ -200,6 +280,26 @@
     "song_title": "Power Trip (feat. Miguel)"
   },
   {
+    "apple_music_song_id": "1440830243",
+    "apple_music_song_url": "https://music.apple.com/us/song/let-it-snow-let-it-snow-let-it-snow/1440830243",
+    "artist": "Dean Martin",
+    "chart": "Global",
+    "chart_date": "2026-11-23",
+    "position": 53,
+    "snapshot_key": "Global:2026-11-23:53",
+    "song_title": "Let It Snow! Let It Snow! Let It Snow!"
+  },
+  {
+    "apple_music_song_id": "6818209989",
+    "apple_music_song_url": "https://music.apple.com/us/song/solar-eclipse/6818209989",
+    "artist": "Drake , Don Toliver",
+    "chart": "Global",
+    "chart_date": "2026-11-23",
+    "position": 27,
+    "snapshot_key": "Global:2026-11-23:27",
+    "song_title": "Solar Eclipse"
+  },
+  {
     "apple_music_song_id": "6818209990",
     "apple_music_song_url": "https://music.apple.com/us/song/quebec/6818209990",
     "artist": "Drake",
@@ -240,6 +340,16 @@
     "song_title": "Baby (feat. Ludacris)"
   },
   {
+    "apple_music_song_id": "6820428730",
+    "apple_music_song_url": "https://music.apple.com/us/song/neon/6820428730",
+    "artist": "A2O , A2O LITE",
+    "chart": "Global",
+    "chart_date": "2026-11-23",
+    "position": 21,
+    "snapshot_key": "Global:2026-11-23:21",
+    "song_title": "NEON"
+  },
+  {
     "apple_music_song_id": "6796864754",
     "apple_music_song_url": "https://music.apple.com/us/song/bby-wow/6796864754",
     "artist": "KAROL G , Judeline , rusowsky",
@@ -270,6 +380,26 @@
     "song_title": "Blinding Lights"
   },
   {
+    "apple_music_song_id": "1440830243",
+    "apple_music_song_url": "https://music.apple.com/us/song/let-it-snow-let-it-snow-let-it-snow/1440830243",
+    "artist": "Dean Martin",
+    "chart": "USA",
+    "chart_date": "2026-11-23",
+    "position": 56,
+    "snapshot_key": "USA:2026-11-23:56",
+    "song_title": "Let It Snow! Let It Snow! Let It Snow!"
+  },
+  {
+    "apple_music_song_id": "1889992115",
+    "apple_music_song_url": "https://music.apple.com/us/song/stupid-song/1889992115",
+    "artist": "Olivia Rodrigo",
+    "chart": "Global",
+    "chart_date": "2026-11-23",
+    "position": 10,
+    "snapshot_key": "Global:2026-11-23:10",
+    "song_title": "stupid song"
+  },
+  {
     "apple_music_song_id": "1584281787",
     "apple_music_song_url": "https://music.apple.com/us/song/knife-talk-feat-21-savage-project-pat/1584281787",
     "artist": "Drake",
@@ -298,6 +428,16 @@
     "position": 50,
     "snapshot_key": "USA:2026-11-17:50",
     "song_title": "Broken Clocks"
+  },
+  {
+    "apple_music_song_id": "6810716062",
+    "apple_music_song_url": "https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062",
+    "artist": "Jhené Aiko",
+    "chart": "Global",
+    "chart_date": "2026-11-23",
+    "position": 59,
+    "snapshot_key": "Global:2026-11-23:59",
+    "song_title": "So Good (feat. Kendrick Lamar)"
   },
   {
     "apple_music_song_id": "1193701400",
@@ -358,145 +498,5 @@
     "position": 77,
     "snapshot_key": "Global:2026-11-21:77",
     "song_title": "thank u, next"
-  },
-  {
-    "apple_music_song_id": "1584281787",
-    "apple_music_song_url": "https://music.apple.com/us/song/knife-talk-feat-21-savage-project-pat/1584281787",
-    "artist": "Drake",
-    "chart": "USA",
-    "chart_date": "2026-11-19",
-    "position": 48,
-    "snapshot_key": "USA:2026-11-19:48",
-    "song_title": "Knife Talk (feat. 21 Savage & Project Pat)"
-  },
-  {
-    "apple_music_song_id": "6818209990",
-    "apple_music_song_url": "https://music.apple.com/us/song/quebec/6818209990",
-    "artist": "Drake",
-    "chart": "USA",
-    "chart_date": "2026-11-18",
-    "position": 32,
-    "snapshot_key": "USA:2026-11-18:32",
-    "song_title": "Quebec"
-  },
-  {
-    "apple_music_song_id": "1648587330",
-    "apple_music_song_url": "https://music.apple.com/us/song/in-a-minute/1648587330",
-    "artist": "Lil Baby",
-    "chart": "USA",
-    "chart_date": "2026-11-17",
-    "position": 14,
-    "snapshot_key": "USA:2026-11-17:14",
-    "song_title": "In A Minute"
-  },
-  {
-    "apple_music_song_id": "1239976610",
-    "apple_music_song_url": "https://music.apple.com/us/song/broken-clocks/1239976610",
-    "artist": "SZA",
-    "chart": "Global",
-    "chart_date": "2026-11-21",
-    "position": 84,
-    "snapshot_key": "Global:2026-11-21:84",
-    "song_title": "Broken Clocks"
-  },
-  {
-    "apple_music_song_id": "1506297772",
-    "apple_music_song_url": "https://music.apple.com/us/song/march-madness/1506297772",
-    "artist": "Future",
-    "chart": "Global",
-    "chart_date": "2026-11-20",
-    "position": 62,
-    "snapshot_key": "Global:2026-11-20:62",
-    "song_title": "March Madness"
-  },
-  {
-    "apple_music_song_id": "1440929293",
-    "apple_music_song_url": "https://music.apple.com/us/song/freestyle/1440929293",
-    "artist": "Lil Baby",
-    "chart": "USA",
-    "chart_date": "2026-11-22",
-    "position": 10,
-    "snapshot_key": "USA:2026-11-22:10",
-    "song_title": "Freestyle"
-  },
-  {
-    "apple_music_song_id": "1817609514",
-    "apple_music_song_url": "https://music.apple.com/us/song/a-couple-minutes/1817609514",
-    "artist": "Olivia Dean",
-    "chart": "Global",
-    "chart_date": "2026-11-20",
-    "position": 46,
-    "snapshot_key": "Global:2026-11-20:46",
-    "song_title": "A Couple Minutes"
-  },
-  {
-    "apple_music_song_id": "1714908987",
-    "apple_music_song_url": "https://music.apple.com/us/song/wicked-games/1714908987",
-    "artist": "The Weeknd",
-    "chart": "USA",
-    "chart_date": "2026-11-17",
-    "position": 47,
-    "snapshot_key": "USA:2026-11-17:47",
-    "song_title": "Wicked Games"
-  },
-  {
-    "apple_music_song_id": "1244230126",
-    "apple_music_song_url": "https://music.apple.com/us/song/wild-thoughts-feat-rihanna-bryson-tiller/1244230126",
-    "artist": "DJ Khaled",
-    "chart": "USA",
-    "chart_date": "2026-11-18",
-    "position": 84,
-    "snapshot_key": "USA:2026-11-18:84",
-    "song_title": "Wild Thoughts (feat. Rihanna & Bryson Tiller)"
-  },
-  {
-    "apple_music_song_id": "6763091996",
-    "apple_music_song_url": "https://music.apple.com/us/song/i-cant-love-you-anymore/6763091996",
-    "artist": "Ella Langley , Morgan Wallen",
-    "chart": "USA",
-    "chart_date": "2026-11-18",
-    "position": 21,
-    "snapshot_key": "USA:2026-11-18:21",
-    "song_title": "I Can't Love You Anymore"
-  },
-  {
-    "apple_music_song_id": "1889992115",
-    "apple_music_song_url": "https://music.apple.com/us/song/stupid-song/1889992115",
-    "artist": "Olivia Rodrigo",
-    "chart": "Global",
-    "chart_date": "2026-11-17",
-    "position": 8,
-    "snapshot_key": "Global:2026-11-17:8",
-    "song_title": "stupid song"
-  },
-  {
-    "apple_music_song_id": "1793663645",
-    "apple_music_song_url": "https://music.apple.com/us/song/ordinary/1793663645",
-    "artist": "Alex Warren",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 61,
-    "snapshot_key": "Global:2026-11-18:61",
-    "song_title": "Ordinary"
-  },
-  {
-    "apple_music_song_id": "635016640",
-    "apple_music_song_url": "https://music.apple.com/us/song/sweater-weather/635016640",
-    "artist": "The Neighbourhood",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 78,
-    "snapshot_key": "Global:2026-11-18:78",
-    "song_title": "Sweater Weather"
-  },
-  {
-    "apple_music_song_id": "6817260751",
-    "apple_music_song_url": "https://music.apple.com/us/song/musubi/6817260751",
-    "artist": "Ayumu Imazu",
-    "chart": "Global",
-    "chart_date": "2026-11-22",
-    "position": 12,
-    "snapshot_key": "Global:2026-11-22:12",
-    "song_title": "musubi"
   }
 ]

@@ -118,6 +118,16 @@ flowchart LR
 - 2026-11-16T14:22:20.514671Z: no change
 - 2026-11-16T14:22:26.927111Z: repaired
 - 2026-11-16T14:24:43.338371Z: repaired
+- 2026-11-23T14:04:41.051648Z: no change
+- 2026-11-23T14:08:27.421824Z: no change
+- 2026-11-23T14:08:34.122818Z: repaired
+- 2026-11-23T14:10:56.216946Z: no change
+- 2026-11-23T14:14:04.826196Z: no change
+- 2026-11-23T14:23:17.277093Z: repair failed
+- 2026-11-23T14:25:03.083689Z: temporary blocker
+- 2026-11-23T14:25:28.487076Z: temporary blocker
+- 2026-11-23T14:26:17.724637Z: no change
+- 2026-11-23T14:31:02.354938Z: temporary blocker
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/google-us-weekly-paid-search-9accf80e8757?action=get) — CSV or JSON · Email required
 

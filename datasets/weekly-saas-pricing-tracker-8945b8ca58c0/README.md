@@ -1,35 +1,35 @@
-# SaaS pricing data: plan prices for 15 tools, refreshed weekly
+# SaaS pricing data: public plan prices for 15 tools
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-SaaS pricing dataset: every public plan for Notion, Slack, Zoom, Canva, HubSpot, Asana, monday\.com, ClickUp, Airtable, Calendly, Loom, Miro, Figma, Linear and Zapier, monthly and annual prices in USD, refreshed weekly\. Export to CSV, Excel or Google Sheets\.
+SaaS pricing data for public plans from Notion, Slack, Zoom, Canva, HubSpot, Asana, monday\.com, ClickUp, Airtable, Calendly, Loom, Miro, Figma, Linear and Zapier\. Includes monthly and annual\-billing prices in USD\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/weekly-saas-pricing-tracker-8945b8ca58c0?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-11-16T22:06:27.677984Z
+- Last published: 2026-11-23T08:06:07.277131Z
 
 ## The brief
 
-> I need this data: SaaS pricing dataset: every public plan for Notion, Slack, Zoom, Canva, HubSpot, Asana, monday\.com, ClickUp, Airtable, Calendly, Loom, Miro, Figma, Linear and Zapier, monthly and annual prices in USD, refreshed weekly\. Export to CSV, Excel or Google Sheets\.
+> I need this data: SaaS pricing data for public plans from Notion, Slack, Zoom, Canva, HubSpot, Asana, monday\.com, ClickUp, Airtable, Calendly, Loom, Miro, Figma, Linear and Zapier\. Includes monthly and annual\-billing prices in USD\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## SaaS Pricing History / prices
 
-82 total rows · 10 sampled · Output revision 2
-Published: 2026-11-16T22:06:27.677984Z · Producing pipeline version: 2
+144 total rows · 50 sampled · Output revision 3
+Published: 2026-11-23T08:06:07.277131Z · Producing pipeline version: 2
 
 [CSV sample](outputs/e71016acd6f7/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/e71016acd6f7/prices-fe81f9390ffe/sample.json) · [Schema](outputs/e71016acd6f7/prices-fe81f9390ffe/schema.json)
 
 | billing\_unit | captured\_at | headline\_limit | is\_contact\_sales | plan\_name | price\_annual\_billing\_usd\_per\_month | price\_monthly\_billing\_usd | pricing\_page\_url |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Full seat | 2026\-11\-16T22:01:16\.418716\+00:00 | 3,000 AI credits/mo | False | Professional | 16 | 20 | [https://www\.figma\.com/pricing/](<https://www.figma.com/pricing/>) |
+| flat | 2026\-11\-23T08:00:21\.860942\+00:00 | Free for up to 2 users\. | False | Free | 0 | 0 | [https://www\.hubspot\.com/pricing/sales](<https://www.hubspot.com/pricing/sales>) |
 | per seat / month | 2026\-11\-16T22:01:16\.418716\+00:00 | None | False | Plus | 10 | 12 | [https://www\.notion\.com/pricing](<https://www.notion.com/pricing>) |
-| user / mo | 2026\-11\-16T22:01:16\.418716\+00:00 | 10K Automations / mo | False | Business | 17 | 25 | [https://clickup\.com/pricing](<https://clickup.com/pricing>) |
-| flat | 2026\-11\-16T20:51:43\.760528\+00:00 | 100 tasks per month | False | Free | 0 | 0 | [https://zapier\.com/pricing](<https://zapier.com/pricing>) |
-| None | 2026\-11\-16T22:01:16\.418716\+00:00 | 60 MB Storage | False | Free Forever | 0 | 0 | [https://clickup\.com/pricing](<https://clickup.com/pricing>) |
+| None | 2026\-11\-23T08:00:21\.860942\+00:00 | 25 videos | False | Starter | 0 | 0 | [https://www\.loom\.com/pricing](<https://www.loom.com/pricing>) |
+| per member | 2026\-11\-23T08:00:21\.860942\+00:00 | 50 AI credits/member/month | False | Business | 20 | 25 | [https://miro\.com/pricing/](<https://miro.com/pricing/>) |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

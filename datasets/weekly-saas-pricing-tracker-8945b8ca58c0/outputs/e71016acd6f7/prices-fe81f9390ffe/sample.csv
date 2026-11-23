@@ -1,11 +1,51 @@
 billing_unit,captured_at,headline_limit,is_contact_sales,plan_name,price_annual_billing_usd_per_month,price_monthly_billing_usd,pricing_page_url,product
 Full seat,2026-11-16T22:01:16.418716+00:00,"3,000 AI credits/mo",false,Professional,16,20,https://www.figma.com/pricing/,Figma
+flat,2026-11-23T08:00:21.860942+00:00,Free for up to 2 users.,false,Free,0,0,https://www.hubspot.com/pricing/sales,HubSpot
 per seat / month,2026-11-16T22:01:16.418716+00:00,,false,Plus,10,12,https://www.notion.com/pricing,Notion
+,2026-11-23T08:00:21.860942+00:00,25 videos,false,Starter,0,0,https://www.loom.com/pricing,Loom
+per member,2026-11-23T08:00:21.860942+00:00,50 AI credits/member/month,false,Business,20,25,https://miro.com/pricing/,Miro
 user / mo,2026-11-16T22:01:16.418716+00:00,10K Automations / mo,false,Business,17,25,https://clickup.com/pricing,ClickUp
+per person,2026-11-23T08:00:21.860942+00:00,100 Brand Kits,false,Business,20.833333333333332,25,https://www.canva.com/pricing/,Canva
 flat,2026-11-16T20:51:43.760528+00:00,100 tasks per month,false,Free,0,0,https://zapier.com/pricing,Zapier
 ,2026-11-16T22:01:16.418716+00:00,60 MB Storage,false,Free Forever,0,0,https://clickup.com/pricing,ClickUp
 per user / month,2026-11-16T22:01:16.418716+00:00,Unlimited message history,false,Pro,7.25,8.75,https://slack.com/pricing,Slack
 ,2026-11-16T22:01:16.418716+00:00,,true,Enterprise,,,https://linear.app/pricing,Linear
+per seat,2026-11-23T08:00:21.860942+00:00,Unlimited event types,false,Standard,10,12,https://calendly.com/pricing,Calendly
+user,2026-11-23T08:00:21.860942+00:00,1K Automations / mo,false,Core,9,12,https://clickup.com/pricing,ClickUp
+,2026-11-23T08:00:21.860942+00:00,One event type,false,Free,0,0,https://calendly.com/pricing,Calendly
 per member,2026-11-16T22:01:16.418716+00:00,50 AI credits/member/month,false,Business,20,25,https://miro.com/pricing/,Miro
 ,2026-11-16T22:01:16.418716+00:00,Meetings up to 40 minutes,false,Workplace Basic,0,0,https://www.zoom.com/en/pricing/,Zoom
 ,2026-11-16T22:01:16.418716+00:00,Unlimited users,true,Enterprise,,,https://zapier.com/pricing,Zapier
+per seat/month,2026-11-16T22:01:16.418716+00:00,"125,000 records per base",false,Business,45,54,https://www.airtable.com/pricing,Airtable
+per user/month,2026-11-16T22:01:16.418716+00:00,Unlimited teams,false,Business,16,18,https://linear.app/pricing,Linear
+per user,2026-11-16T22:01:16.418716+00:00,"5 requests per user per month, up to 50 requests per account",false,Starter,10.99,13.49,https://asana.com/pricing,Asana
+one person,2026-11-16T22:01:16.418716+00:00,5 Brand Kits,false,Pro,12,18,https://www.canva.com/pricing/,Canva
+,2026-11-23T08:00:21.860942+00:00,"500,000 records per base",true,Enterprise Scale,,,https://www.airtable.com/pricing,Airtable
+seat,2026-11-16T22:01:16.418716+00:00,"5,000 HubSpot Credits",false,Enterprise,150,,https://www.hubspot.com/pricing/sales,HubSpot
+per user,2026-11-23T08:00:21.860942+00:00,50K credits per billing account per month,false,Starter,10.99,13.49,https://asana.com/pricing,Asana
+,2026-11-16T22:01:16.418716+00:00,"150 AI credits/day, up to 500 AI credits/mo",false,Starter,0,0,https://www.figma.com/pricing/,Figma
+user / mo,2026-11-16T22:01:16.418716+00:00,1K Automations / mo,false,Core,9,12,https://clickup.com/pricing,ClickUp
+,2026-11-16T20:51:43.760528+00:00,"500,000 records per base",true,Enterprise Scale,,,https://www.airtable.com/pricing,Airtable
+flat,2026-11-16T20:51:43.760528+00:00,Unlimited premium apps,false,Professional,19.99,29.99,https://zapier.com/pricing,Zapier
+,2026-11-16T22:01:16.418716+00:00,One event type,false,Free,0,0,https://calendly.com/pricing,Calendly
+,2026-11-23T08:00:21.860942+00:00,3 editable boards,false,Free,0,0,https://miro.com/pricing/,Miro
+per seat,2026-11-23T08:00:21.860942+00:00,"1,500 Standard credits / month",false,Business,20,24,https://www.notion.com/pricing,Notion
+seat,2026-11-16T20:51:43.760528+00:00,,false,Teams,16,20,https://calendly.com/pricing,Calendly
+seat,2026-11-16T22:01:16.418716+00:00,500 HubSpot Credits,false,Starter,20,20,https://www.hubspot.com/pricing/sales,HubSpot
+,2026-11-16T22:01:16.418716+00:00,90 days of message history,false,Free,0,0,https://slack.com/pricing,Slack
+,2026-11-16T22:01:16.418716+00:00,Unlimited Slackbot,true,Enterprise+,,,https://slack.com/pricing,Slack
+per seat,2026-11-23T08:00:21.860942+00:00,500 HubSpot Credits,false,Starter,20,20,https://www.hubspot.com/pricing/sales,HubSpot
+,2026-11-16T22:01:16.418716+00:00,Free for up to 2 users,false,Free,0,0,https://www.hubspot.com/pricing/sales,HubSpot
+per seat/month,2026-11-23T08:00:21.860942+00:00,"125,000 records per base",false,Business,45,54,https://www.airtable.com/pricing,Airtable
+per user,2026-11-23T08:00:21.860942+00:00,Unlimited message history,false,Pro,7.25,8.75,https://slack.com/pricing,Slack
+,2026-11-23T08:00:21.860942+00:00,2 users,false,Personal,0,0,https://asana.com/pricing,Asana
+per seat / month,2026-11-16T20:51:43.760528+00:00,,false,Plus,10,12,https://www.notion.com/pricing,Notion
+Full seat,2026-11-16T20:51:43.760528+00:00,"3,500 AI credits/mo",false,Organization,55,,https://www.figma.com/pricing/,Figma
+,2026-11-16T20:51:43.760528+00:00,Up to 5 editors,false,Free,0,0,https://www.airtable.com/pricing,Airtable
+per member,2026-11-23T08:00:21.860942+00:00,25 AI credits/member/month,false,Starter,8,10,https://miro.com/pricing/,Miro
+user,2026-11-16T22:01:16.418716+00:00,Meet with up to 300 participants,false,Workplace Business,18.33,21.99,https://www.zoom.com/en/pricing/,Zoom
+,2026-11-23T08:00:21.860942+00:00,250 issues,false,Free,0,0,https://linear.app/pricing,Linear
+,2026-11-16T22:01:16.418716+00:00,"500,000 records per base",true,Enterprise Scale,,,https://www.airtable.com/pricing,Airtable
+seat,2026-11-16T22:01:16.418716+00:00,,false,Teams,16,20,https://calendly.com/pricing,Calendly
+flat,2026-11-23T08:00:21.860942+00:00,Unlimited premium apps,false,Professional,19.99,29.99,https://zapier.com/pricing,Zapier
+per user,2026-11-16T22:01:16.418716+00:00,75K credits ber billing account per month,false,Advanced,24.99,30.49,https://asana.com/pricing,Asana

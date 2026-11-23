@@ -11,6 +11,17 @@
     "product": "Figma"
   },
   {
+    "billing_unit": "flat",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "Free for up to 2 users.",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://www.hubspot.com/pricing/sales",
+    "product": "HubSpot"
+  },
+  {
     "billing_unit": "per seat / month",
     "captured_at": "2026-11-16T22:01:16.418716+00:00",
     "headline_limit": null,
@@ -22,6 +33,28 @@
     "product": "Notion"
   },
   {
+    "billing_unit": null,
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "25 videos",
+    "is_contact_sales": false,
+    "plan_name": "Starter",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://www.loom.com/pricing",
+    "product": "Loom"
+  },
+  {
+    "billing_unit": "per member",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "50 AI credits/member/month",
+    "is_contact_sales": false,
+    "plan_name": "Business",
+    "price_annual_billing_usd_per_month": 20,
+    "price_monthly_billing_usd": 25,
+    "pricing_page_url": "https://miro.com/pricing/",
+    "product": "Miro"
+  },
+  {
     "billing_unit": "user / mo",
     "captured_at": "2026-11-16T22:01:16.418716+00:00",
     "headline_limit": "10K Automations / mo",
@@ -31,6 +64,17 @@
     "price_monthly_billing_usd": 25,
     "pricing_page_url": "https://clickup.com/pricing",
     "product": "ClickUp"
+  },
+  {
+    "billing_unit": "per person",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "100 Brand Kits",
+    "is_contact_sales": false,
+    "plan_name": "Business",
+    "price_annual_billing_usd_per_month": 20.833333333333332,
+    "price_monthly_billing_usd": 25,
+    "pricing_page_url": "https://www.canva.com/pricing/",
+    "product": "Canva"
   },
   {
     "billing_unit": "flat",
@@ -77,6 +121,39 @@
     "product": "Linear"
   },
   {
+    "billing_unit": "per seat",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "Unlimited event types",
+    "is_contact_sales": false,
+    "plan_name": "Standard",
+    "price_annual_billing_usd_per_month": 10,
+    "price_monthly_billing_usd": 12,
+    "pricing_page_url": "https://calendly.com/pricing",
+    "product": "Calendly"
+  },
+  {
+    "billing_unit": "user",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "1K Automations / mo",
+    "is_contact_sales": false,
+    "plan_name": "Core",
+    "price_annual_billing_usd_per_month": 9,
+    "price_monthly_billing_usd": 12,
+    "pricing_page_url": "https://clickup.com/pricing",
+    "product": "ClickUp"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "One event type",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://calendly.com/pricing",
+    "product": "Calendly"
+  },
+  {
     "billing_unit": "per member",
     "captured_at": "2026-11-16T22:01:16.418716+00:00",
     "headline_limit": "50 AI credits/member/month",
@@ -108,5 +185,368 @@
     "price_monthly_billing_usd": null,
     "pricing_page_url": "https://zapier.com/pricing",
     "product": "Zapier"
+  },
+  {
+    "billing_unit": "per seat/month",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "125,000 records per base",
+    "is_contact_sales": false,
+    "plan_name": "Business",
+    "price_annual_billing_usd_per_month": 45,
+    "price_monthly_billing_usd": 54,
+    "pricing_page_url": "https://www.airtable.com/pricing",
+    "product": "Airtable"
+  },
+  {
+    "billing_unit": "per user/month",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "Unlimited teams",
+    "is_contact_sales": false,
+    "plan_name": "Business",
+    "price_annual_billing_usd_per_month": 16,
+    "price_monthly_billing_usd": 18,
+    "pricing_page_url": "https://linear.app/pricing",
+    "product": "Linear"
+  },
+  {
+    "billing_unit": "per user",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "5 requests per user per month, up to 50 requests per account",
+    "is_contact_sales": false,
+    "plan_name": "Starter",
+    "price_annual_billing_usd_per_month": 10.99,
+    "price_monthly_billing_usd": 13.49,
+    "pricing_page_url": "https://asana.com/pricing",
+    "product": "Asana"
+  },
+  {
+    "billing_unit": "one person",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "5 Brand Kits",
+    "is_contact_sales": false,
+    "plan_name": "Pro",
+    "price_annual_billing_usd_per_month": 12,
+    "price_monthly_billing_usd": 18,
+    "pricing_page_url": "https://www.canva.com/pricing/",
+    "product": "Canva"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "500,000 records per base",
+    "is_contact_sales": true,
+    "plan_name": "Enterprise Scale",
+    "price_annual_billing_usd_per_month": null,
+    "price_monthly_billing_usd": null,
+    "pricing_page_url": "https://www.airtable.com/pricing",
+    "product": "Airtable"
+  },
+  {
+    "billing_unit": "seat",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "5,000 HubSpot Credits",
+    "is_contact_sales": false,
+    "plan_name": "Enterprise",
+    "price_annual_billing_usd_per_month": 150,
+    "price_monthly_billing_usd": null,
+    "pricing_page_url": "https://www.hubspot.com/pricing/sales",
+    "product": "HubSpot"
+  },
+  {
+    "billing_unit": "per user",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "50K credits per billing account per month",
+    "is_contact_sales": false,
+    "plan_name": "Starter",
+    "price_annual_billing_usd_per_month": 10.99,
+    "price_monthly_billing_usd": 13.49,
+    "pricing_page_url": "https://asana.com/pricing",
+    "product": "Asana"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "150 AI credits/day, up to 500 AI credits/mo",
+    "is_contact_sales": false,
+    "plan_name": "Starter",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://www.figma.com/pricing/",
+    "product": "Figma"
+  },
+  {
+    "billing_unit": "user / mo",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "1K Automations / mo",
+    "is_contact_sales": false,
+    "plan_name": "Core",
+    "price_annual_billing_usd_per_month": 9,
+    "price_monthly_billing_usd": 12,
+    "pricing_page_url": "https://clickup.com/pricing",
+    "product": "ClickUp"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T20:51:43.760528+00:00",
+    "headline_limit": "500,000 records per base",
+    "is_contact_sales": true,
+    "plan_name": "Enterprise Scale",
+    "price_annual_billing_usd_per_month": null,
+    "price_monthly_billing_usd": null,
+    "pricing_page_url": "https://www.airtable.com/pricing",
+    "product": "Airtable"
+  },
+  {
+    "billing_unit": "flat",
+    "captured_at": "2026-11-16T20:51:43.760528+00:00",
+    "headline_limit": "Unlimited premium apps",
+    "is_contact_sales": false,
+    "plan_name": "Professional",
+    "price_annual_billing_usd_per_month": 19.99,
+    "price_monthly_billing_usd": 29.99,
+    "pricing_page_url": "https://zapier.com/pricing",
+    "product": "Zapier"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "One event type",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://calendly.com/pricing",
+    "product": "Calendly"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "3 editable boards",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://miro.com/pricing/",
+    "product": "Miro"
+  },
+  {
+    "billing_unit": "per seat",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "1,500 Standard credits / month",
+    "is_contact_sales": false,
+    "plan_name": "Business",
+    "price_annual_billing_usd_per_month": 20,
+    "price_monthly_billing_usd": 24,
+    "pricing_page_url": "https://www.notion.com/pricing",
+    "product": "Notion"
+  },
+  {
+    "billing_unit": "seat",
+    "captured_at": "2026-11-16T20:51:43.760528+00:00",
+    "headline_limit": null,
+    "is_contact_sales": false,
+    "plan_name": "Teams",
+    "price_annual_billing_usd_per_month": 16,
+    "price_monthly_billing_usd": 20,
+    "pricing_page_url": "https://calendly.com/pricing",
+    "product": "Calendly"
+  },
+  {
+    "billing_unit": "seat",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "500 HubSpot Credits",
+    "is_contact_sales": false,
+    "plan_name": "Starter",
+    "price_annual_billing_usd_per_month": 20,
+    "price_monthly_billing_usd": 20,
+    "pricing_page_url": "https://www.hubspot.com/pricing/sales",
+    "product": "HubSpot"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "90 days of message history",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://slack.com/pricing",
+    "product": "Slack"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "Unlimited Slackbot",
+    "is_contact_sales": true,
+    "plan_name": "Enterprise+",
+    "price_annual_billing_usd_per_month": null,
+    "price_monthly_billing_usd": null,
+    "pricing_page_url": "https://slack.com/pricing",
+    "product": "Slack"
+  },
+  {
+    "billing_unit": "per seat",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "500 HubSpot Credits",
+    "is_contact_sales": false,
+    "plan_name": "Starter",
+    "price_annual_billing_usd_per_month": 20,
+    "price_monthly_billing_usd": 20,
+    "pricing_page_url": "https://www.hubspot.com/pricing/sales",
+    "product": "HubSpot"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "Free for up to 2 users",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://www.hubspot.com/pricing/sales",
+    "product": "HubSpot"
+  },
+  {
+    "billing_unit": "per seat/month",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "125,000 records per base",
+    "is_contact_sales": false,
+    "plan_name": "Business",
+    "price_annual_billing_usd_per_month": 45,
+    "price_monthly_billing_usd": 54,
+    "pricing_page_url": "https://www.airtable.com/pricing",
+    "product": "Airtable"
+  },
+  {
+    "billing_unit": "per user",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "Unlimited message history",
+    "is_contact_sales": false,
+    "plan_name": "Pro",
+    "price_annual_billing_usd_per_month": 7.25,
+    "price_monthly_billing_usd": 8.75,
+    "pricing_page_url": "https://slack.com/pricing",
+    "product": "Slack"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "2 users",
+    "is_contact_sales": false,
+    "plan_name": "Personal",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://asana.com/pricing",
+    "product": "Asana"
+  },
+  {
+    "billing_unit": "per seat / month",
+    "captured_at": "2026-11-16T20:51:43.760528+00:00",
+    "headline_limit": null,
+    "is_contact_sales": false,
+    "plan_name": "Plus",
+    "price_annual_billing_usd_per_month": 10,
+    "price_monthly_billing_usd": 12,
+    "pricing_page_url": "https://www.notion.com/pricing",
+    "product": "Notion"
+  },
+  {
+    "billing_unit": "Full seat",
+    "captured_at": "2026-11-16T20:51:43.760528+00:00",
+    "headline_limit": "3,500 AI credits/mo",
+    "is_contact_sales": false,
+    "plan_name": "Organization",
+    "price_annual_billing_usd_per_month": 55,
+    "price_monthly_billing_usd": null,
+    "pricing_page_url": "https://www.figma.com/pricing/",
+    "product": "Figma"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T20:51:43.760528+00:00",
+    "headline_limit": "Up to 5 editors",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://www.airtable.com/pricing",
+    "product": "Airtable"
+  },
+  {
+    "billing_unit": "per member",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "25 AI credits/member/month",
+    "is_contact_sales": false,
+    "plan_name": "Starter",
+    "price_annual_billing_usd_per_month": 8,
+    "price_monthly_billing_usd": 10,
+    "pricing_page_url": "https://miro.com/pricing/",
+    "product": "Miro"
+  },
+  {
+    "billing_unit": "user",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "Meet with up to 300 participants",
+    "is_contact_sales": false,
+    "plan_name": "Workplace Business",
+    "price_annual_billing_usd_per_month": 18.33,
+    "price_monthly_billing_usd": 21.99,
+    "pricing_page_url": "https://www.zoom.com/en/pricing/",
+    "product": "Zoom"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "250 issues",
+    "is_contact_sales": false,
+    "plan_name": "Free",
+    "price_annual_billing_usd_per_month": 0,
+    "price_monthly_billing_usd": 0,
+    "pricing_page_url": "https://linear.app/pricing",
+    "product": "Linear"
+  },
+  {
+    "billing_unit": null,
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "500,000 records per base",
+    "is_contact_sales": true,
+    "plan_name": "Enterprise Scale",
+    "price_annual_billing_usd_per_month": null,
+    "price_monthly_billing_usd": null,
+    "pricing_page_url": "https://www.airtable.com/pricing",
+    "product": "Airtable"
+  },
+  {
+    "billing_unit": "seat",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": null,
+    "is_contact_sales": false,
+    "plan_name": "Teams",
+    "price_annual_billing_usd_per_month": 16,
+    "price_monthly_billing_usd": 20,
+    "pricing_page_url": "https://calendly.com/pricing",
+    "product": "Calendly"
+  },
+  {
+    "billing_unit": "flat",
+    "captured_at": "2026-11-23T08:00:21.860942+00:00",
+    "headline_limit": "Unlimited premium apps",
+    "is_contact_sales": false,
+    "plan_name": "Professional",
+    "price_annual_billing_usd_per_month": 19.99,
+    "price_monthly_billing_usd": 29.99,
+    "pricing_page_url": "https://zapier.com/pricing",
+    "product": "Zapier"
+  },
+  {
+    "billing_unit": "per user",
+    "captured_at": "2026-11-16T22:01:16.418716+00:00",
+    "headline_limit": "75K credits ber billing account per month",
+    "is_contact_sales": false,
+    "plan_name": "Advanced",
+    "price_annual_billing_usd_per_month": 24.99,
+    "price_monthly_billing_usd": 30.49,
+    "pricing_page_url": "https://asana.com/pricing",
+    "product": "Asana"
   }
 ]

@@ -12,6 +12,18 @@
     "ticker": "PNC"
   },
   {
+    "accession_number": "0001104659-26-130589",
+    "cik": "0001037868",
+    "company": "Ametek",
+    "filed_date": "2026-11-20",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1037868/000110465926130589/0001104659-26-130589-index.html",
+    "form": "8-K",
+    "item_descriptions": "Entry into a Material Definitive Agreement; Other Events; Financial Statements and Exhibits",
+    "items": "1.01, 8.01, 9.01",
+    "report_date": "2026-11-20",
+    "ticker": "AME"
+  },
+  {
     "accession_number": "0000004962-26-000411",
     "cik": "0000004962",
     "company": "American Express",
@@ -180,6 +192,18 @@
     "ticker": "BX"
   },
   {
+    "accession_number": "0001564708-26-000263",
+    "cik": "0001564708",
+    "company": "News Corp (Class A)",
+    "filed_date": "2026-11-17",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000263/0001564708-26-000263-index.html",
+    "form": "8-K",
+    "item_descriptions": "Other Events; Financial Statements and Exhibits",
+    "items": "8.01, 9.01",
+    "report_date": "2026-11-16",
+    "ticker": "NWSA, NWS"
+  },
+  {
     "accession_number": "0001193125-26-422888",
     "cik": "0001393818",
     "company": "Blackstone Inc.",
@@ -202,6 +226,18 @@
     "items": "1.01, 3.03, 5.01, 5.03, 5.05, 8.01, 9.01",
     "report_date": "2026-09-29",
     "ticker": "VYLR"
+  },
+  {
+    "accession_number": "0000899051-26-000162",
+    "cik": "0000899051",
+    "company": "Allstate",
+    "filed_date": "2026-11-19",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000162/0000899051-26-000162-index.html",
+    "form": "8-K",
+    "item_descriptions": "Regulation FD Disclosure; Financial Statements and Exhibits",
+    "items": "7.01, 9.01",
+    "report_date": "2026-11-19",
+    "ticker": "ALL"
   },
   {
     "accession_number": "0000920148-26-000210",
@@ -238,6 +274,42 @@
     "items": "2.02, 9.01",
     "report_date": "2026-10-28",
     "ticker": "CVNA"
+  },
+  {
+    "accession_number": "0001140361-26-044139",
+    "cik": "0001692819",
+    "company": "Vistra Corp .",
+    "filed_date": "2026-11-16",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126044139/0001140361-26-044139-index.html",
+    "form": "8-K",
+    "item_descriptions": "Regulation FD Disclosure",
+    "items": "7.01",
+    "report_date": "2026-11-16",
+    "ticker": "VST"
+  },
+  {
+    "accession_number": "0001104659-26-127273",
+    "cik": "0000001800",
+    "company": "Abbott Laboratories",
+    "filed_date": "2026-11-16",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1800/000110465926127273/0001104659-26-127273-index.html",
+    "form": "8-K",
+    "item_descriptions": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers",
+    "items": "5.02",
+    "report_date": "2026-11-11",
+    "ticker": "ABT"
+  },
+  {
+    "accession_number": "0000002488-26-000218",
+    "cik": "0000002488",
+    "company": "Advanced Micro Devices",
+    "filed_date": "2026-11-20",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000218/0000002488-26-000218-index.html",
+    "form": "8-K",
+    "item_descriptions": "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year; Financial Statements and Exhibits",
+    "items": "5.03, 9.01",
+    "report_date": "2026-11-18",
+    "ticker": "AMD"
   },
   {
     "accession_number": "0001628280-26-063870",
@@ -324,6 +396,18 @@
     "ticker": "PAYX"
   },
   {
+    "accession_number": "0001628280-26-075217",
+    "cik": "0000946581",
+    "company": "Take-Two Interactive",
+    "filed_date": "2026-11-20",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026075217/0001628280-26-075217-index.html",
+    "form": "8-K",
+    "item_descriptions": "Regulation FD Disclosure; Financial Statements and Exhibits",
+    "items": "7.01, 9.01",
+    "report_date": "2026-11-20",
+    "ticker": "TTWO"
+  },
+  {
     "accession_number": "0001104659-26-111034",
     "cik": "0002041610",
     "company": "Skydance Corporation",
@@ -384,6 +468,42 @@
     "ticker": "DECK"
   },
   {
+    "accession_number": "0001104659-26-129292",
+    "cik": "0001037868",
+    "company": "Ametek",
+    "filed_date": "2026-11-18",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1037868/000110465926129292/0001104659-26-129292-index.html",
+    "form": "8-K",
+    "item_descriptions": "Other Events; Financial Statements and Exhibits",
+    "items": "8.01, 9.01",
+    "report_date": "2026-11-16",
+    "ticker": "AME"
+  },
+  {
+    "accession_number": "0001104659-26-129050",
+    "cik": "0000063908",
+    "company": "McDonald's",
+    "filed_date": "2026-11-17",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/63908/000110465926129050/0001104659-26-129050-index.html",
+    "form": "8-K",
+    "item_descriptions": "Other Events; Financial Statements and Exhibits",
+    "items": "8.01, 9.01",
+    "report_date": "2026-11-17",
+    "ticker": "MCD"
+  },
+  {
+    "accession_number": "0000878927-26-000035",
+    "cik": "0000878927",
+    "company": "Old Dominion",
+    "filed_date": "2026-11-17",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000035/0000878927-26-000035-index.html",
+    "form": "8-K",
+    "item_descriptions": "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant; Financial Statements and Exhibits",
+    "items": "2.03, 9.01",
+    "report_date": "2026-11-17",
+    "ticker": "ODFL"
+  },
+  {
     "accession_number": "0001065088-26-000205",
     "cik": "0001065088",
     "company": "eBay Inc.",
@@ -394,6 +514,18 @@
     "items": "2.02, 2.05",
     "report_date": "2026-10-20",
     "ticker": "EBAY"
+  },
+  {
+    "accession_number": "0001193125-26-467771",
+    "cik": "0000749251",
+    "company": "Gartner",
+    "filed_date": "2026-11-19",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/749251/000119312526467771/0001193125-26-467771-index.html",
+    "form": "8-K",
+    "item_descriptions": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers; Financial Statements and Exhibits",
+    "items": "5.02, 9.01",
+    "report_date": "2026-11-16",
+    "ticker": "IT"
   },
   {
     "accession_number": "0001628280-26-068202",
@@ -466,137 +598,5 @@
     "items": "8.01, 9.01",
     "report_date": "2026-09-29",
     "ticker": "PNC"
-  },
-  {
-    "accession_number": "0001410636-26-000160",
-    "cik": "0001410636",
-    "company": "American Water Works",
-    "filed_date": "2026-11-05",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000160/0001410636-26-000160-index.html",
-    "form": "8-K",
-    "item_descriptions": "Other Events",
-    "items": "8.01",
-    "report_date": "2026-11-02",
-    "ticker": "AWK"
-  },
-  {
-    "accession_number": "0000822416-26-000041",
-    "cik": "0000822416",
-    "company": "PulteGroup",
-    "filed_date": "2026-10-22",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/822416/000082241626000041/0000822416-26-000041-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-10-22",
-    "ticker": "PHM"
-  },
-  {
-    "accession_number": "0001093557-26-000193",
-    "cik": "0001093557",
-    "company": "Dexcom",
-    "filed_date": "2026-10-29",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000193/0001093557-26-000193-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Other Events; Financial Statements and Exhibits",
-    "items": "2.02, 8.01, 9.01",
-    "report_date": "2026-10-29",
-    "ticker": "DXCM"
-  },
-  {
-    "accession_number": "0000034903-26-000054",
-    "cik": "0000034903",
-    "company": "Federal Realty Investment Trust",
-    "filed_date": "2026-10-30",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000054/0000034903-26-000054-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-10-30",
-    "ticker": "FRT"
-  },
-  {
-    "accession_number": "0001104659-26-121322",
-    "cik": "0001551152",
-    "company": "AbbVie",
-    "filed_date": "2026-11-02",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926121322/0001104659-26-121322-index.html",
-    "form": "8-K",
-    "item_descriptions": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers",
-    "items": "5.02",
-    "report_date": "2026-10-28",
-    "ticker": "ABBV"
-  },
-  {
-    "accession_number": "0001020569-26-000081",
-    "cik": "0001020569",
-    "company": "Iron Mountain",
-    "filed_date": "2026-11-05",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1020569/000102056926000081/0001020569-26-000081-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-11-05",
-    "ticker": "IRM"
-  },
-  {
-    "accession_number": "0000764622-26-000049",
-    "cik": "0000764622",
-    "company": "Pinnacle West Capital",
-    "filed_date": "2026-09-30",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/764622/000076462226000049/0000764622-26-000049-index.html",
-    "form": "8-K",
-    "item_descriptions": "Regulation FD Disclosure; Financial Statements and Exhibits",
-    "items": "7.01, 9.01",
-    "report_date": "2026-09-30",
-    "ticker": "PNW"
-  },
-  {
-    "accession_number": "0000813672-26-000116",
-    "cik": "0000813672",
-    "company": "Cadence Design Systems",
-    "filed_date": "2026-10-26",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000116/0000813672-26-000116-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Other Events; Financial Statements and Exhibits",
-    "items": "2.02, 8.01, 9.01",
-    "report_date": "2026-10-23",
-    "ticker": "CDNS"
-  },
-  {
-    "accession_number": "0001097149-26-000077",
-    "cik": "0001097149",
-    "company": "Align Technology",
-    "filed_date": "2026-10-28",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000077/0001097149-26-000077-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-10-28",
-    "ticker": "ALGN"
-  },
-  {
-    "accession_number": "0001104659-26-125375",
-    "cik": "0001013871",
-    "company": "NRG Energy",
-    "filed_date": "2026-11-12",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926125375/0001104659-26-125375-index.html",
-    "form": "8-K",
-    "item_descriptions": "Entry into a Material Definitive Agreement; Financial Statements and Exhibits",
-    "items": "1.01, 9.01",
-    "report_date": "2026-11-09",
-    "ticker": "NRG"
-  },
-  {
-    "accession_number": "0001041061-26-000195",
-    "cik": "0001041061",
-    "company": "Yum! Brands",
-    "filed_date": "2026-11-03",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000195/0001041061-26-000195-index.html",
-    "form": "8-K",
-    "item_descriptions": "Results of Operations and Financial Condition; Financial Statements and Exhibits",
-    "items": "2.02, 9.01",
-    "report_date": "2026-11-03",
-    "ticker": "YUM"
   }
 ]

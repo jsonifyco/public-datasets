@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 20 event records\.
+Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-23T09:20:17.005788Z
+- Last published: 2026-11-24T09:11:09.375853Z
 
 ## The brief
 
-> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 20 event records\.
+> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-20 total rows · 10 sampled · Output revision 15
-Published: 2026-11-23T09:20:17.005788Z · Producing pipeline version: 5
+18 total rows · 10 sampled · Output revision 16
+Published: 2026-11-24T09:11:09.375853Z · Producing pipeline version: 5
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| O programa indica 21 de abril e a listagem oficial confirma o ano de 2026\. | Conferência sobre cibersegurança no setor industrial português, com foco nas obrigações da Diretiva NIS2 em matéria de gestão de risco, reporte de incidentes e responsabilização dos órgãos de gestão\. | 2026\-04\-21 | 2026\-04\-21 | O Futuro da Cibersegurança no Setor Industrial | 9h30 – 13h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/o\-futuro\-da\-ciberseguranca\-no\-setor\-industrial/](<https://abreuadvogados.com/conhecimento/eventos/abreu/o-futuro-da-ciberseguranca-no-setor-industrial/>) | Abreu Advogados |
-| A listagem oficial indica o início em 27 de outubro de 2026 às 09:00\. O anúncio refere dois dias de congresso, sem indicar a data de encerramento\. | Congresso de dois dias que reúne académicos, reguladores e profissionais da indústria para debater a regulação das infraestruturas digitais, dos cabos submarinos e centros de dados à identidade digital e à inteligência artificial\. | None | 2026\-10\-27 | I Congresso de Direito das Infraestruturas Digitais: Regulação e Poder | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-das\-Infraestruturas\-Digitais\-Regulacao\-e\-Poder/34662/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-das-Infraestruturas-Digitais-Regulacao-e-Poder/34662/>) | PLMJ |
-| O anúncio, publicado em 5 de junho de 2025, indica que a cerimónia se realizou «ontem» e descreve a abertura e o encerramento na mesma jornada\. | Cerimónia comemorativa da assinatura do Tratado de Adesão de Espanha e Portugal às Comunidades Europeias, com uma conversa sobre a integração europeia dos dois países e um colóquio sobre o impacto do Direito da União nos sistemas jurídicos nacionais\. | 2025\-06\-04 | 2025\-06\-04 | A Uría Menéndez assinala o 40\.º aniversário da assinatura do Tratado de Adesão de Espanha e Portugal à União Europeia | None | [https://www\.uria\.com/pt/prensa/1403\-uria\-menendez\-conmemora\-el\-40\-aniversario\-de\-la\-firma\-del\-tratado\-de\-adhesion\-de\-espana\-y\-portugal\-a\-la\-union\-europea](<https://www.uria.com/pt/prensa/1403-uria-menendez-conmemora-el-40-aniversario-de-la-firma-del-tratado-de-adhesion-de-espana-y-portugal-a-la-union-europea>) | Uría Menéndez |
-| O ano de 2026 consta da listagem oficial\. O horário explícito é 14h30 – 16h30, apesar da referência a «Ao longo da manhã» no texto\. | Conferência sobre as prioridades do PTRR, os instrumentos de financiamento, os desafios jurídicos na execução de projetos e a mitigação de riscos\. | 2026\-05\-18 | 2026\-05\-18 | PTRR: Um novo ciclo de investimento | 14h30 – 16h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/ptrr\-um\-novo\-ciclo\-de\-investimento/](<https://abreuadvogados.com/conhecimento/eventos/abreu/ptrr-um-novo-ciclo-de-investimento/>) | Abreu Advogados |
-| None | Lançamento de um manual de advocacia de empresa, com um painel de debate\. O livro reúne 15 artigos sobre temas como governança corporativa, inteligência artificial no trabalho jurídico, regulação e compliance\. | 2026\-11\-26 | 2026\-11\-26 | Lançamento do livro “Manual do Advogado In\-House” | 16h45 – 18h45 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/lancamento\-do\-livro\-manual\-do\-advogado\-in\-house/](<https://abreuadvogados.com/conhecimento/eventos/abreu/lancamento-do-livro-manual-do-advogado-in-house/>) | Abreu Advogados |
+| A listagem oficial indica 25 de fevereiro de 2026 e o anúncio descreve o congresso como uma conversa de um dia\. | Congresso de um dia que reúne juristas de bancos, da academia e da advocacia para discutir os desafios jurídicos e os riscos operacionais da transformação do setor bancário e financeiro\. | 2026\-02\-25 | 2026\-02\-25 | I Congresso de Direito Bancário e Financeiro | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-Bancario\-e\-Financeiro/34295/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-Bancario-e-Financeiro/34295/>) | PLMJ |
+| As datas correspondem às duas sessões coorganizadas pela Morais Leitão, não à duração total da Semana\. O ano resulta da data de publicação\. | A Morais Leitão coorganiza duas sessões sobre as alterações ao licenciamento urbanístico e a sua aplicação prática nos setores imobiliário e da habitação\. | 2026\-11\-03 | 2026\-11\-02 | 14\.ª edição da Semana da Reabilitação Urbana do Porto | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-na\-14\-edicao\-da\-Semana\-da\-Reabilitacao\-Urbana\-do\-Porto/27161/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-na-14-edicao-da-Semana-da-Reabilitacao-Urbana-do-Porto/27161/>) | Morais Leitão |
+| None | Conferência que assinala os 60 anos do Código Civil Português e debate a evolução do direito civil, a reforma do Código Civil e questões de contratos, responsabilidade civil e prova\. | 2026\-11\-25 | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
+| A notícia foi publicada em 5 de junho de 2025 e indica que a cerimónia se realizou «ontem», em 4 de junho de 2025\. | Cerimónia comemorativa com uma conversa sobre a integração europeia de Espanha e Portugal e um colóquio sobre o impacto do Direito da União nos sistemas jurídicos nacionais\. | 2025\-06\-04 | 2025\-06\-04 | A Uría Menéndez assinala o 40\.º aniversário da assinatura do Tratado de Adesão de Espanha e Portugal à União Europeia | None | [https://www\.uria\.com/pt/prensa/1403\-uria\-menendez\-conmemora\-el\-40\-aniversario\-de\-la\-firma\-del\-tratado\-de\-adhesion\-de\-espana\-y\-portugal\-a\-la\-union\-europea](<https://www.uria.com/pt/prensa/1403-uria-menendez-conmemora-el-40-aniversario-de-la-firma-del-tratado-de-adhesion-de-espana-y-portugal-a-la-union-europea>) | Uría Menéndez |
+| O anúncio indica 29 de outubro; o ano de 2026 é determinado pela data de publicação\. | Apresentação do livro de Isabel Valente Dias sobre a retribuição no direito do trabalho português, seguida de uma mesa\-redonda sobre os temas centrais da obra e de um Porto de Honra\. | None | 2026\-10\-29 | Apresentação da obra "A Retribuição no Ordenamento Juslaboral Português" | 17:30 | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Apresentacao\-da\-obra\-A\-Retribuicao\-no\-Ordenamento\-Juslaboral\-Portugues/27178/](<https://www.mlgts.pt/pt/conhecimento/noticias/Apresentacao-da-obra-A-Retribuicao-no-Ordenamento-Juslaboral-Portugues/27178/>) | Morais Leitão |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

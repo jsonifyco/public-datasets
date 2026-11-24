@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Product listings and prices from French supermarket retailers, including Carrefour, E\.Leclerc, Auchan, Intermarché, Super U and Monoprix\. The published tables contain 174,200 rows\.
+Product listings and prices from French supermarket retailers, including Carrefour, E\.Leclerc, Auchan, Intermarché, Super U and Monoprix\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/supermarket-products-in-paris-6bb96540e5f9?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Product listings and prices from French supermarket retailers, including Carrefo
 
 ## The brief
 
-> I need this data: Product listings and prices from French supermarket retailers, including Carrefour, E\.Leclerc, Auchan, Intermarché, Super U and Monoprix\. The published tables contain 174,200 rows\.
+> I need this data: Product listings and prices from French supermarket retailers, including Carrefour, E\.Leclerc, Auchan, Intermarché, Super U and Monoprix\.
 
 Summary from the public dataset description.
 

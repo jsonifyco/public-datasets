@@ -1,220 +1,1906 @@
 [
   {
-    "ai_tag": null,
-    "description": "Media Invest Group is a holding company that develops digital transformative startups and projects. We specialize in cloud-based solutions that enable to create new - or modify existing - businesses processes, culture, and customer experiences to meet changing business and market requirements. We firmly believe that Digital Transformation is the key factor for creating a new social, economic and environment sustainable world.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Media Invest Group",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "Marketing & Media"
-    ],
-    "source_ids": [
-      "StartupBlink:244058"
-    ],
-    "source_sector_labels": [
-      "Digital Media",
-      "Social & Leisure"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/social-leisure"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "dc6e8ff4ff68f91507346a69",
-    "website": "http://www.mediainvest.net"
-  },
-  {
-    "ai_tag": null,
-    "description": "Realtime Parking information",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Urbiflow",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/urbiflow"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/urbiflow"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "8f08471adec0c726b1e1730c",
-    "website": "http://www.urbiflow.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "PSD to HTML Services",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Cropfection",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/cropfection"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/cropfection"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "2b97d18ff5fc29392a78d0ad",
-    "website": "http://www.cropfection.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Productized is a privately owned company incorporated in Portugal under Ocean Strategy Lda whose mission is to connect entrepreneurs and established business leaders with investors, product specialists, designers and service providers. Productized operates with a clear vision that best business ideas need well thought out and designed products to flourish.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Productized",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "Marketing & Media"
-    ],
-    "source_ids": [
-      "StartupBlink:654946"
-    ],
-    "source_sector_labels": [
-      "Marketing & Sales",
-      "Marketing & Sales-Other"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/marketing-sales"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "c1af5022adbeaa6d6ec8364e",
-    "website": "https://productized.co/"
-  },
-  {
     "ai_tag": true,
-    "description": "Granter.ai is building the first AI Grant Consultant - an autonomous AI agent that finds the right grants, writes and manages applications.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
+    "description": "Aerospace systems for Earth observation and planetary missions Established in 2006, Spin.Works is a Portuguese aerospace company specializing in the development of advanced systems for space and terrestrial applications. The firm designs and manufactures optical instruments, computer vision systems, artificial intelligence, and navigation and control systems for Earth observation, as well as planetary missions to the Moon and Mars. Since 2008, Spin.Works has been actively involved in space-related technology development, contributing to significant European Space Agency (ESA) programs. Key projects include developing a smart landing system for the Argonaut, the first European spacecraft mission to the lunar surface, and creating mechanisms for the Space Rider, a robotic space vehicle. The company is also a contributor to the New Space Portugal initiative, developing hyperspectral cameras for the Atlantic Constellation of satellites. In addition to its core aerospace and defense markets, Spin.Works has ventured into the agricultural technology sector with its proprietary subscription-based application, MAPP.it. Launched in 2017, MAPP.it utilizes AI and remote sensing data from satellites and drones to provide plant-level insights for precision agriculture, initially serving top wine growers in Portugal and now operating on three continents. The company's expertise also extends to image processing software for opto-electronic sensor-based detection systems and end-to-end engineering for ground segment satellite communication systems.",
+    "founded_year": 2006,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "source": "Startup Portugal ecosystem",
+        "url": "https://ecossistema.startupportugal.com/startups-scaleups/3448",
+        "year": 2006
+      },
+      {
+        "quote": "Spin.Works is an aerospace company established in 2006",
+        "source": "Company website",
+        "url": "https://spinworks.pt",
+        "year": 2006
+      }
     ],
-    "location_status": "Source lists Lisbon",
-    "name": "Granter.ai",
-    "observed_date": "2026-11-23",
+    "location_evidence": [
+      "Av. da Igreja 42, 6º, 1700-239 Lisboa, Portugal | https://spinworks.pt",
+      "Startup Portugal ecosystem address: Lisbon, Lisbon, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "Spin.Works",
+    "observed_date": "2026-11-24",
     "possible_duplicate": false,
+    "quality_notes": [],
     "sector_tags": [
+      "Food & Agriculture",
+      "Space & Aerospace",
       "AI"
     ],
     "source_ids": [
-      "StartupBlink:614735"
+      "Company website:https://spinworks.pt",
+      "Startup Portugal ecosystem:3448"
     ],
     "source_sector_labels": [
-      "Artificial Intelligence",
-      "Software & Data"
+      "Company website: AI/ML product",
+      "ESA",
+      "ESA SME",
+      "Horizon Europe",
+      "Robotics",
+      "Semiconductors for Space",
+      "Space",
+      "Space Tech",
+      "Space Upstream",
+      "Space Vehicles Components and Payloads",
+      "Spinout"
     ],
     "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
+      "https://ecossistema.startupportugal.com/startups-scaleups/3448",
+      "https://spinworks.pt"
     ],
     "sources": [
-      "StartupBlink"
+      "Company website",
+      "Startup Portugal ecosystem"
     ],
-    "startup_id": "885027e7db39b45e0e4dbdfa",
-    "website": "https://granter.ai/"
+    "startup_id": "55484b0c2e0be5729df590c6",
+    "website": "https://spinworks.pt",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
   },
   {
     "ai_tag": true,
-    "description": "Comudel develops a business operating system that automates workflows, legal contract handling, and AI-assisted financial operations for companies. Founded in 2022, it is associated with Unicorn Factory Lisboa and Instituto Pedro Nunes, operates from The Fintech House in Lisbon, and participated in the SPRINT accelerator focused on compliance and enterprise operations.",
-    "founded_year": null,
+    "description": "Agentic AI platform for enterprise customer service. Founded in 2016 and headquartered in Lisbon, Portugal, Visor.ai operates an agentic AI platform that enables enterprises to automate and optimize customer service interactions. Visor.ai's core offering is a platform that allows for the development of AI Agents for voice, chat, and quality management, designed to handle high-volume customer interactions. The system aims to provide a more efficient customer experience by automating communications and supporting human agents in complex cases, with a claimed automation potential of up to 85%. The platform is built for enterprise clients and combines conversational AI with intelligent automation, turning conversations into actionable insights. Its business model is based on providing this customizable, no-code web platform to contact center teams and partners, generating revenue estimated between $1 million and $10 million. In February 2023, Visor.ai secured €4.4 million in a funding round. This comprised €2.3 million from venture capital firms Lince Capital, Newzone.vc, and M4 Ventures, with the remainder sourced from the Recovery and Resilience Plan (RRP) to support the creation of a Responsible AI consortium. The company intended to use the funds for international expansion and to hire new talent for research and development. This followed an earlier Seed Round in February 2017, which raised $128K.",
+    "founded_year": 2016,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "source": "Startup Portugal ecosystem",
+        "url": "https://ecossistema.startupportugal.com/startups-scaleups/3311",
+        "year": 2016
+      }
+    ],
     "location_evidence": [
-      "Europe Startup Guide lists it as a startup in Lisbon"
+      "Portugal – Headquarters Rua João Saraiva 38, 4th floor 1700-106 Lisbon, Portugal | https://visor.ai",
+      "Startup Portugal ecosystem address: Rua das Picoas, São Sebastião da Pedreira, Campo Pequeno, Avenidas Novas, Lisbon, 1050-047, Portugal",
+      "StartupBlink lists the city as Lisbon"
     ],
     "location_status": "Source lists Lisbon",
-    "name": "Comudel",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": [
-      "AI",
-      "Fintech",
-      "Enterprise Software",
-      "Legal"
-    ],
-    "source_ids": [
-      "Europe Startup Guide:/portugal/startup/comudel"
-    ],
-    "source_sector_labels": [
-      "AI",
-      "Enterprise Software",
-      "Fintech"
-    ],
-    "source_urls": [
-      "https://europe-startup-guide.com/portugal/startup/comudel"
-    ],
-    "sources": [
-      "Europe Startup Guide"
-    ],
-    "startup_id": "73f8ae188bff57382f96f2c7",
-    "website": null
-  },
-  {
-    "ai_tag": null,
-    "description": "Yelp meets Foursquare in the 21st century!",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "YouClient",
+    "municipality": "Lisboa",
+    "name": "Visor.ai",
     "observed_date": "2026-11-23",
     "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/youclient"
+    "quality_notes": [],
+    "sector_tags": [
+      "AI",
+      "Enterprise Software"
     ],
-    "source_sector_labels": null,
+    "source_ids": [
+      "Company website:https://visor.ai",
+      "Startup Portugal ecosystem:3311",
+      "StartupBlink:286658"
+    ],
+    "source_sector_labels": [
+      "4YFN 2025",
+      "AI Applications",
+      "Chatbot",
+      "Company website: AI/ML product",
+      "Core AI",
+      "Customer Service",
+      "Ecommerce",
+      "Ecommerce & Retail",
+      "Enterprise Software",
+      "Insurtech Claim",
+      "Insurtech Distribution and Brokerage"
+    ],
     "source_urls": [
-      "https://lisbon.startups-list.com/startups/youclient"
+      "https://ecossistema.startupportugal.com/startups-scaleups/3311",
+      "https://visor.ai",
+      "https://www.startupblink.com/top-startups/lisbon-pt/ecommerce-retail"
     ],
     "sources": [
-      "Lisboa Startups"
+      "Company website",
+      "Startup Portugal ecosystem",
+      "StartupBlink"
     ],
-    "startup_id": "62e4ef2ae09d6091bd64c7b2",
-    "website": "http://www.youclient.com/"
+    "startup_id": "f91bee0c9f9fcff50f9ec9da",
+    "website": "https://visor.ai",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "System integrator for residential, corporate and commercial markets, offering home automation, audio and video, building automation for energy savings, and premium home cinema solutions.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Rua de Santo António, Nova Oeiras, Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Oeiras, Lisbon, 2780-117, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Oeiras",
+    "name": "Living With Things",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Hardware & IoT",
+      "Real Estate & Construction"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:745"
+    ],
+    "source_sector_labels": [
+      "Real Estate"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/745"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "cac767c8e3dad08456e8651d",
+    "website": "https://livingwiththings.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Scientific research, marine environment monitoring, cetacean research, environmental education, advanced training, and editing and products on the sea and marine life.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Alvalade, Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Escola de Mar",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Thin description; organisation type is not stated, so retained as uncertain."
+    ],
+    "sector_tags": [
+      "Education",
+      "Social Impact"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:169"
+    ],
+    "source_sector_labels": [
+      "Energy",
+      "Spinout"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/169"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "f32926d4c00d0c0ee3fb2aa2",
+    "website": "https://escolademar.pt",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
   },
   {
     "ai_tag": true,
-    "description": "eBreathie is a pioneering digital health startup offering an integrated asthma management solution. Our system comprises a smart inhaler (a medical device) that not only tracks WHEN patients take their medication but also HOW they do it, creating a detailed inhalation profile for each use. Paired with a user-friendly mobile app for patients and a comprehensive patient management platform for doctors, we provide real-time feedback on inhalation efficacy, ensuring patients and healthcare professionals have the insights needed for optimal asthma management. Leveraging IoT and AI, our goal is to reduce emergency visits, asthma attacks, and hospitalizations while ensuring effective inhalation techniques and optimal patient care.",
+    "description": "Serviço de sistemas agênticos (AaaS) que implanta o AndROI, um sistema operacional de IA para decisões de marketing, com diagnóstico, configuração, capacitação e acompanhamento mensal.",
     "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Web Summit Lisbon 2026 listing gives Lisboa"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Atomica",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "AI",
+      "Enterprise Software",
+      "Marketing & Media"
+    ],
+    "source_ids": [
+      "Web Summit Lisbon 2026:107228"
+    ],
+    "source_sector_labels": [
+      "Company website: AI/ML product"
+    ],
+    "source_urls": [
+      "https://atomica.marketing",
+      "https://attend.websummit.com/lis26/company/107228"
+    ],
+    "sources": [
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "8bf366227c264681b225fbe6",
+    "website": "https://atomica.marketing",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "KIT-AR provides augmented quality assurance solutions for manufacturing, helping companies reduce costs of poor quality, digitalise shopfloor processes, and upskill manufacturing workers.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "R. Antonio Champalimaud, Lote 1, Piso 2, Sala 207 A/B 1600-546 Lisboa | https://portal.produtech.org/company/skillaugment-lda"
+    ],
+    "location_status": "Lisbon presence confirmed by public company evidence",
+    "municipality": "Lisboa",
+    "name": "Kit-Ar",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Public company evidence:https://portal.produtech.org/company/skillaugment-lda",
+      "Unicorn Factory portfolio:e801c2f11dc6ff3a8d"
+    ],
+    "source_sector_labels": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "source_urls": [
+      "https://portal.produtech.org/company/skillaugment-lda",
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Public company evidence",
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "e04b0e0a82596cad05c10180",
+    "website": "https://kit-ar.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "This company appears to be a manufacturer of dehydrators, with a focus on food-related applications BBKW, a Lisbon-based company established in 2015, specializes in the manufacturing of advanced drying equipment for the agri-food and pharmaceutical sectors. The firm's inception stems directly from its leadership's past experience as aromatic herb producers, where they encountered the challenge of drying products efficiently without incurring prohibitive energy costs. This firsthand knowledge led to the development of their proprietary drying solutions. The company's core business revolves around designing and building custom, low-temperature dehydrators. Its product line includes the patented 'Black Block' hybrid solar dryer and the 'White Block' dryer, which is specifically designed for medical cannabis. A distinctive feature of BBKW's offering is the transformation of recycled maritime containers into modular, hybrid solar drying chambers. These units utilize patented solar walls that convert sun radiation into dry air, a process that can slash energy consumption by up to 80% compared to conventional systems. For continuous operation, the system is augmented with dehumidifiers and air conditioning, managed by an intelligent IoT controller. This proprietary controller and software system allows clients to remotely monitor and manage all drying parameters, generating detailed audit trails and high-precision reports for compliance and process optimization. The controller is also offered as a standalone product that can be integrated into existing drying systems. BBKW's business model consists of direct sales of its custom-built drying units, standalone controllers, and ancillary equipment, along with providing installation services. The company has demonstrated a global reach, with installations in Portugal, Morocco, Spain, Vietnam, and South Africa, among others. Initial funding was secured through a grant in November 2015 from investors including EIT InnoEnergy and EDP Starter.",
+    "founded_year": 2015,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "source": "Startup Portugal ecosystem",
+        "url": "https://ecossistema.startupportugal.com/startups-scaleups/572",
+        "year": 2015
+      }
+    ],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Bbkw",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Climate & Energy",
+      "Food & Agriculture",
+      "Hardware & IoT",
+      "Health & Biotech"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:572"
+    ],
+    "source_sector_labels": [
+      "EIT Ecosystem",
+      "EIT InnoEnergy",
+      "Energy",
+      "Hard Tech",
+      "Horizon Europe"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/572"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "b3fc863c416a1429423288be",
+    "website": "https://bbkw.eu",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "Provides licensed private code repositories, SWE-Bench-style and terminal benchmarks, enterprise workflow datasets, custom datasets and synthetic data for training and evaluating code LLMs and AI agents.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Lisboa, Portugal printed in official 2026 cohort booklet",
+      "Startup Portugal ecosystem address: Linda-a-Velha, Oeiras, Lisbon, 2799-545, Portugal",
+      "Web Summit Lisbon 2026 listing gives Lisboa"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Fermatix AI",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "AI",
+      "Data & Analytics"
+    ],
+    "source_ids": [
+      "Startup Portugal booklet:010",
+      "Startup Portugal ecosystem:9516",
+      "Web Summit Lisbon 2026:103107"
+    ],
+    "source_sector_labels": [
+      "AI & MACHINE LEARNING",
+      "Company website: AI/ML product"
+    ],
+    "source_urls": [
+      "https://attend.websummit.com/lis26/company/103107",
+      "https://ecossistema.startupportugal.com/startups-scaleups/9516",
+      "https://fermatix.ai",
+      "https://startupportugal.com/wp-content/uploads/2026/11/R2WS-Startup-Booklet-2026.pdf#page=10"
+    ],
+    "sources": [
+      "Startup Portugal booklet",
+      "Startup Portugal ecosystem",
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "c2d13766cce51bb372da10a5",
+    "website": "https://fermatix.ai",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "AI-powered boxing bag for gamified fitness experiences. BHOUT is a Portuguese fit-tech company merging the fitness and gaming industries through its AI-powered boxing ecosystem. The company's core offering is a multi-channel 'entertrainment' ecosystem comprised of the BHOUT Bag, a proprietary app, and physical fitness clubs. The BHOUT Bag is a smart punching bag that uses a combination of sensors, 3D computer vision, and machine learning to track performance metrics like punch power, accuracy, speed, and technique with over 97% accuracy. Its multi-layered body, which includes a water core and an outer layer made from sustainable cactus leaves, is designed to mimic the feel of sparring with a human partner. The system gamifies workouts by allowing users to compete, follow guided routines, and earn in-app rewards called 'Jab$' through the BHOUT App. BHOUT operates a hybrid business model, targeting both direct-to-consumer (B2C) sales of the smart bag and business-to-business (B2B) channels, including corporate offices, hotels, and a growing network of franchised fitness clubs. The club concept offers 45-minute HIIT sessions that blend boxing, strength training, and meditation, enhanced by synchronized music and lighting. The company has demonstrated significant traction, securing a –10 million seed funding round in late 2023 led by Lince Capital and Explorer Investments to fuel international expansion. BHOUT's technology has received notable industry recognition, including being named a CES 2023 Innovation Awards Honoree and one of Time magazine's best inventions of 2023.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Bhout",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Hardware & IoT",
+      "Sports & Fitness"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:3048",
+      "Unicorn Factory portfolio:149b211a4e8cb644ad"
+    ],
+    "source_sector_labels": [
+      "4YFN 2024",
+      "AI Applications",
+      "Company website: AI/ML product",
+      "Core AI",
+      "Entertainment",
+      "Fitness",
+      "Sensors",
+      "Sports",
+      "Sports Tech",
+      "SportsTech",
+      "Web 3.0"
+    ],
+    "source_urls": [
+      "https://bhout.com",
+      "https://ecossistema.startupportugal.com/startups-scaleups/3048",
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem",
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "a1d7b161b657c870fef56daf",
+    "website": "https://bhout.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Boutique hotels engineered for optimal sleep experiences. Kodawari Residences is a new boutique hotel concept focused on providing guests with a premium night's sleep. The company's philosophy is inspired by the Japanese term \"kodawari,\" which signifies a meticulous attention to detail. This principle is applied to every aspect of the guest experience, with the primary goal of delivering a rejuvenating rest. The business operates in the hospitality market, targeting travelers in vibrant cities. Its model diverges from traditional luxury hotels by stripping away non-essential services and focusing investment on elements that directly contribute to sleep quality. The core offering is a meticulously designed room environment. Key features include a partnership with high-end bed manufacturer Hästens, soundproof rooms, a curated pillow menu with options for different firmness preferences, and carefully controlled ambient lighting and scents. Kodawari has announced its first locations in Portugal, with \"Kodawari Flores\" in Porto being the inaugural hotel, situated on Rua das Flores. Future residences are planned for Lisbon. The Porto location is centrally located, providing guests easy access to the city's historic center, boutiques, and cafes. The company's headquarters is in Lisbon, Portugal.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Office Headquarters Rua Padre Américo, 19D 1º Esq. escritório A 1600-548 Lisboa | https://kodawariresidences.com",
+      "Startup Portugal ecosystem address: Rua Padre Américo, Carnide, Lisbon, 1600-581, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "Kodawari Residences",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Travel & Hospitality"
+    ],
+    "source_ids": [
+      "Company website:https://kodawariresidences.com",
+      "Startup Portugal ecosystem:20712"
+    ],
+    "source_sector_labels": [
+      "Sleeping",
+      "Travel",
+      "Urban Tech"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/20712",
+      "https://kodawariresidences.com"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "efce4a55dfef0f4103e5c8de",
+    "website": "https://kodawariresidences.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Helping event organizers grow their results with data and tech Beamian is a global event technology provider that offers a comprehensive digital platform for event organizers and exhibitors. The company operates in the event technology market, serving clients such as event coordinators, exhibitors, and businesses looking to host virtual events. Beamian's platform provides a range of options for exhibitors to manage their virtual stands, including scheduling public or private meetings with customers and chatting with them. This flexibility and functionality have made it a popular choice for businesses and organizations of various sizes and industries. The business model of Beamian is service-based. They offer their digital platform as a service to event organizers and exhibitors, providing them with the tools they need to host successful virtual events. The company generates revenue by charging clients for using their platform. The exact pricing structure is not publicly available, but it likely involves a subscription or usage-based fee. The company prides itself on its customer-centric approach, as reflected in its high Net Promoter Score (NPS), a measure of customer satisfaction and loyalty. Beamian's platform also allows for the collection of valuable data, which can be used by organizers and exhibitors to improve future events and understand their audience better. In summary, Beamian is a customer-focused event technology provider that offers a versatile digital platform for hosting virtual events. Its business model is based on providing this platform as a service to clients, generating revenue through usage or subscription fees.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Alameda dos Oceanos, Parque das Nações, Lisbon, 1990-197, Portugal",
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Beamian",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Enterprise Software",
+      "Hardware & IoT"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:3779",
+      "Startup Portugal ecosystem:4368"
+    ],
+    "source_sector_labels": [
+      "Event Management",
+      "Event Tech",
+      "Marketing"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/3779",
+      "https://ecossistema.startupportugal.com/startups-scaleups/4368"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "4e32d43af6176407174443c9",
+    "website": "https://beamian.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "Neurofeedback training platform for corporate mental performance. Neroes is a neurotechnology firm providing a mental training platform designed to enhance cognitive performance and well-being for the corporate and sports sectors. The company's core offering is its Mental Training Platform, which utilizes neurofeedback technology. The system combines a non-invasive EEG (electroencephalography) headset that reads the user's brainwaves with a gamified software platform. Users engage in a computer game—for example, controlling the ascent of a spaceship—by achieving and maintaining a state of calm and focus. The platform's adaptive algorithms personalize the training for each user, progressively increasing the difficulty to maximize brain performance and emotional regulation. Neroes operates on a business-to-business (B2B) model, serving corporations aiming to reduce employee anxiety, prevent burnout, and boost productivity and talent retention. In addition to its subscription-based platform, the company offers the 'Brain Experience,' a one-day introductory event for corporate clients. Neroes also caters to the elite sports market, providing tools for athletes to improve emotional control, decision-making speed, and self-confidence. The company is backed by venture capital investors, including Portugal Ventures, Draper Startup House, and Tec Labs.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Location Lisbon, Portugal | https://neroes.tech",
+      "Startup Portugal ecosystem address: Faculty of Sciences of the University of Lisbon, Campo Grande, Alvalade, Lisbon, 1749-016, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "Neroes",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Health & Biotech",
+      "Sports & Fitness",
+      "AI"
+    ],
+    "source_ids": [
+      "Company website:https://neroes.tech",
+      "Startup Portugal ecosystem:2795"
+    ],
+    "source_sector_labels": [
+      "AI Applications",
+      "Biotechnology",
+      "Cognitive",
+      "Company website: AI/ML product",
+      "Core AI",
+      "DT and LS",
+      "Digital Care",
+      "Enterprise Software",
+      "Health",
+      "Neuromodulation and Neurostimulation",
+      "Spinout",
+      "Sports Tech",
+      "Wearable"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/2795",
+      "https://neroes.tech"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "6fbcbfd96d2e24f7ac0b5d9c",
+    "website": "https://neroes.tech",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Rental and sales of car rooftop tents TOPO Tents is a Portuguese startup specializing in the rental and sale of rooftop tents that can be installed on any car. The idea for the business emerged from the founders' experiences exploring Mozambique, where they used borrowed roof tents and recognized an opportunity to make such outdoor experiences more accessible. The company's primary business model revolves around renting rooftop tents through its website. Customers can book a tent online and have it installed at one of the company's network of Pick-Up Points located across Portugal, Spain, and Mozambique. This network allows for flexibility, as customers can pick up a tent in one location and return it to another. In addition to rentals, the company also sells the tents and offers a warranty for its products. TOPO Tents' products are designed for comfort, convenience, and durability. The tents feature a 6cm thick high-density foam mattress, waterproof fabric tested against high-intensity rainfall, and mosquito nets on all windows. One notable feature is a window on the ceiling, designed for stargazing. The company targets individuals and families who enjoy nature and outdoor adventures, promoting a lifestyle of exploration. TOPO Tents has received venture capital funding from investors including Portugal Ventures and Unicorn Factory Lisboa.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal",
+      "StartupBlink lists the city as Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "TOPO Tents",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Brand of roof tents; unclear whether it designs its products or only resells them."
+    ],
+    "sector_tags": [
+      "Retail & E-commerce",
+      "Travel & Hospitality"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:1969",
+      "StartupBlink:591770"
+    ],
+    "source_sector_labels": [
+      "Social & Leisure",
+      "Sports"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/1969",
+      "https://www.startupblink.com/top-startups/lisbon-pt/social-leisure"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem",
+      "StartupBlink"
+    ],
+    "startup_id": "be9609a7c3fcdcececf152a6",
+    "website": "https://topotents.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Specialty chemical company supplying high-purity molecules and offering custom organic synthesis, purification, analytical characterization and scientific consulting services for research and industrial customers in Europe.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Address ITQB NOVA Av. da República 2780-157 Oeiras, Portugal | https://nicven.com/contact/"
+    ],
+    "location_status": "Lisbon presence confirmed by retained public evidence",
+    "municipality": "Oeiras",
+    "name": "NicVen Chemicals",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Professional Services"
+    ],
+    "source_ids": [
+      "Company website:https://nicven.com",
+      "NOVA spin-offs:post-12546"
+    ],
+    "source_sector_labels": [],
+    "source_urls": [
+      "https://nicven.com/contact/",
+      "https://novainnovation.unl.pt/nicven-chemicals/"
+    ],
+    "sources": [
+      "Company website",
+      "NOVA spin-offs"
+    ],
+    "startup_id": "1c17bdd8807cecd0fac5652e",
+    "website": "https://nicven.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "Meets on the Move Travel social network that changes with you on the go. Smart pairing of people and places. AI matches people with similar data and suggests cool places to visit, making real-life connections smooth and easy. Connecting smarter than chance. Integrated with cutting-edge AI, AR, and gamification, Raily enhances the way you travel. 7 patents filled to USPTO.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Raily",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Current website describes a personal AI agent matching people; source describes a travel social network, so sector is uncertain."
+    ],
+    "sector_tags": [
+      "AI",
+      "Travel & Hospitality"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:9683"
+    ],
+    "source_sector_labels": [
+      "Company website: AI/ML product",
+      "Dating",
+      "Travel"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/9683",
+      "https://raily.si"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "0fdbefbac54076de0f979e48",
+    "website": "https://raily.si",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Software engineering and consulting firm specializing in digital solutions for the higher education sector Quorum Born IT (qub-it) operates as a specialized software engineering and consulting firm with a pronounced focus on the higher education sector. The company leverages its deep technological and functional business knowledge to forge lasting partnerships within this academic market. The firm's product suite is designed to create interconnected digital ecosystems for educational institutions. One of its core offerings is FenixEdu, a comprehensive system that facilitates information sharing and collaboration across campus networks. This is complemented by the MyFenix App, a mobile application engineered to process and deliver essential information directly to users' devices. Addressing the need for agile development, qub-it also provides Omnis.Cloud, a low-code, full-stack platform that supports the creation of multichannel business environments. Through these products, the company serves the educational sector by providing integrated solutions that enhance communication and operational efficiency. The business model appears to be centered on the development and implementation of these proprietary software platforms, likely generating revenue through licensing fees, customization, and ongoing consulting and support services tailored to the specific needs of higher education clients.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal",
+      "Morada Avenida Prof. Gama Pinto, 2 - 1649-003 Lisboa | https://www.itjobs.pt/empresa/qubit-quorum-born-it"
+    ],
+    "location_status": "Lisbon presence confirmed by public company evidence",
+    "municipality": "Lisboa",
+    "name": "qub IT",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "No website or source description available; business offering cannot be determined.",
+      "Consultancy-style software firm; retained because it offers its own higher-education software products."
+    ],
+    "sector_tags": [
+      "Education",
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Public company evidence:https://www.itjobs.pt/empresa/qubit-quorum-born-it",
+      "Startup Portugal ecosystem:157",
+      "ULisboa:qub IT"
+    ],
+    "source_sector_labels": [
+      "Colleges",
+      "Enterprise Software",
+      "Higher Education",
+      "Software Development",
+      "Spinout"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/157",
+      "https://www.itjobs.pt/empresa/qubit-quorum-born-it",
+      "https://www.ulisboa.pt/info/empresas-incubadas"
+    ],
+    "sources": [
+      "Public company evidence",
+      "Startup Portugal ecosystem",
+      "ULisboa"
+    ],
+    "startup_id": "7a8a20d1c87f46badf9b4d29",
+    "website": "https://qub-it.com",
+    "website_check_note": "Browser retry could not reach the site; not evidence of closure.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "unreachable"
+  },
+  {
+    "ai_tag": true,
+    "description": "Kizwork is the European alternative to Zoom, Teams and Google Meet. A sovereign AI meeting platform combining secure video conferencing, real-time Speech-to-Speech translation in 47+ languages using your own voice, and proprietary Anti-Deepfake & Anti-Voice-Cloning technology. Kizwork ensures every participant is a real human, protecting organizations from voice fraud while enabling seamless multilingual collaboration under European jurisdiction",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Web Summit Lisbon 2026 listing gives Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Kizwork",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Cybersecurity",
+      "Enterprise Software",
+      "AI"
+    ],
+    "source_ids": [
+      "Unicorn Factory portfolio:af051195f8a22d747a",
+      "Web Summit Lisbon 2026:107023"
+    ],
+    "source_sector_labels": [
+      "AI",
+      "Company website: AI/ML product",
+      "Cybersecurity",
+      "Work Tech"
+    ],
+    "source_urls": [
+      "https://attend.websummit.com/lis26/company/107023",
+      "https://kizwork.com",
+      "https://unicornfactorylisboa.com/portfolio/"
+    ],
+    "sources": [
+      "Unicorn Factory portfolio",
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "a3f1810b0d010e07bc31dcf2",
+    "website": "https://kizwork.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "AI-powered intelligence for public sector sales. GovWise is a data analytics company that operates a platform geared towards simplifying and optimizing public procurement. The company has received seed funding from investors including Beta Capital and Portugal Ventures to advance its research and development and expand its market presence. The company's core offering is a business intelligence suite that leverages artificial intelligence to analyze over a decade's worth of public market data. This platform is designed to serve various teams within a client's organization. For public procurement teams, it automates the screening and management of tenders. For sales teams, it expands their pipeline with relevant opportunities. For management, the data granularity supports strategic decision-making through market studies on products, competitors, and customers. The GovWise platform provides several key features. A tender screening function automatically delivers relevant public tenders to users in real-time. Its Bid/No-Bid report offers a qualification based on historical data and AI-generated requirement analyses to aid in decision-making. Furthermore, the platform includes deep market intelligence dashboards that provide competitive insights to help clients anticipate competitor actions and expand their customer base. The stated benefits for clients include significant time savings, an increased sales pipeline, and revenue growth.",
+    "founded_year": 2017,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "source": "Startup Portugal ecosystem",
+        "url": "https://ecossistema.startupportugal.com/startups-scaleups/2808",
+        "year": 2017
+      }
+    ],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Porto Salvo, Oeiras, Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Oeiras",
+    "name": "GovWise",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Data & Analytics",
+      "Enterprise Software",
+      "AI"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:2808"
+    ],
+    "source_sector_labels": [
+      "Company website: AI/ML product",
+      "DT and LS",
+      "Data Analytics",
+      "Enterprise Software",
+      "Governance",
+      "Hard Tech",
+      "Marketing",
+      "Predictive Analytics"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/2808",
+      "https://govwise.ai"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "f13367b81a0afd75fcc13269",
+    "website": "https://govwise.ai",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "Real-time predictive maintenance for commercial vehicle fleets. The company was established to address vehicle downtime, which causes significant disruptions in public and commercial transport. The founders identified a lack of visibility into the real-time health of vehicles as a critical issue for fleet operators. The company's core offering is a platform that combines hardware and software to turn vehicle data into predictive intelligence. It utilizes a proprietary hardware device, the Stratio Databox, which can be retrofitted or factory-installed on any commercial vehicle, including diesel, electric, and hybrid models. This device collects and streams millions of data points from various vehicle components like the engine, gearbox, batteries, and braking system. The data is then analyzed by proprietary AI and machine learning algorithms that detect patterns and anomalies, predicting potential failures before they occur. This allows fleet operators to move from reactive or manual maintenance to a predictive, automated process. Stratio's business model is technology-provider-as-a-service, targeting transport companies that manage vehicle fleets. Its clientele includes some of the world's largest transport operators, such as Keolis, Go-Ahead, and Arriva, serving both public transportation and commercial logistics sectors. The platform provides clients with a web-based interface that delivers alerts, fault diagnostics, and performance insights, enabling them to schedule maintenance proactively, reduce unexpected breakdowns, and lower the total cost of ownership. By delivering visibility into vehicle health, Stratio aims to enhance operational efficiency, reliability, and safety. The company has secured significant funding to support its growth, including a €3 million round in 2019 and a $12 million Series A round in 2021 led by Forestay Capital. Headquartered in Coimbra, Portugal, Stratio has focused on R&D to build a rich, contextual database that allows its technology to be deployed across diverse fleets, leveraging extensive parameters from various vehicle systems.",
+    "founded_year": 2017,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "source": "Previously published source evidence",
+        "urls": [
+          "https://dealroom.co/lists/startups-portugal"
+        ],
+        "year": 2017
+      },
+      {
+        "source": "Startup Portugal ecosystem",
+        "url": "https://ecossistema.startupportugal.com/startups-scaleups/4443",
+        "year": 2017
+      }
+    ],
+    "location_evidence": [
+      "Dealroom ranks it with Lisbon headquarters",
+      "Startup Portugal ecosystem address: Avenida João Crisóstomo, São Sebastião da Pedreira, Campo Pequeno, Avenidas Novas, Lisbon, 1050-053, Portugal",
+      "StartupBlink lists the city as Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Stratio",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Company website rechecked for the requested quality review."
+    ],
+    "sector_tags": [
+      "AI",
+      "Data & Analytics",
+      "Transport & Logistics"
+    ],
+    "source_ids": [
+      "Dealroom:name:stratio",
+      "Startup Portugal ecosystem:4443",
+      "StartupBlink:247525"
+    ],
+    "source_sector_labels": [
+      "Automotive",
+      "Company website: AI/ML product",
+      "DT and LS",
+      "ESA",
+      "ESA BASS",
+      "ESA SME",
+      "Esa Bic",
+      "Fleet Management",
+      "Hard Tech",
+      "Mechanical Solutions",
+      "Predictive Analytics",
+      "Space Downstream",
+      "Space Tech",
+      "Space Tech for Mobility",
+      "Transportation"
+    ],
+    "source_urls": [
+      "https://dealroom.co/lists/startups-portugal",
+      "https://ecossistema.startupportugal.com/startups-scaleups/4443",
+      "https://stratioautomotive.com",
+      "https://www.startupblink.com/top-startups/lisbon-pt/transportation"
+    ],
+    "sources": [
+      "Dealroom",
+      "Startup Portugal ecosystem",
+      "StartupBlink"
+    ],
+    "startup_id": "fef744e7d0b8084f023fc66a",
+    "website": "https://stratioautomotive.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Portugal's First Membership-Based Family Medicine Clinic. TejoMed is a membership-based family medicine clinic in Lisbon, Portugal. It brings a high-touch, relationship-driven model of primary care to the region, as an alternative to traditional, transactional healthcare. Patients pay a recurring membership fee that gives them enhanced access to a dedicated family physician. The fee covers what insurance typically doesn't: extended appointments, direct communication with the care team, and comprehensive wellness planning. Each doctor looks after a limited number of patients, so they can build long-term relationships and focus on root-cause analysis and preventative medicine. The service is designed for individuals, families and professionals who want convenience and a proactive approach to health. Annual check-ups go beyond a standard physical and form the basis of a personalised health plan.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Lisbon clinic Praça da Alegria 66, 3º, 1250-004 Lisboa | https://tejomed.com",
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "TejoMed",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Health & Biotech"
+    ],
+    "source_ids": [
+      "Company website:https://tejomed.com",
+      "Startup Portugal ecosystem:409"
+    ],
+    "source_sector_labels": [
+      "Health",
+      "Woman Founder"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/409",
+      "https://tejomed.com"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "5a20572370d8549ec537d72e",
+    "website": "https://tejomed.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Mobile advertising platform IconPeak specializes in mobile user acquisition and re-engagement, leveraging proprietary technology and data-driven strategies to connect apps with engaged users and achieve marketing goals. The company serves app developers, advertisers, and publishers, operating in the mobile marketing industry. IconPeak's business model revolves around providing advertising solutions to app developers and monetization strategies for publishers. Revenue is generated through performance-based advertising, where clients pay for user acquisitions and engagements. The company focuses on optimizing user acquisition, segmentation, and cross-channel ad serving to maximize app revenues.",
+    "founded_year": 2017,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "quote": "Founded in 2017, IconPeak operates from Dubai, Lisbon, and Singapore, combining deep MENA market expertise with European creative infrastructure and APAC expansion.",
+        "source": "Company website",
+        "url": "https://iconpeak.com",
+        "year": 2017
+      }
+    ],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "IconPeak",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Data & Analytics",
+      "Marketing & Media"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:3387"
+    ],
+    "source_sector_labels": [
+      "Adtech",
+      "Advertising",
+      "App",
+      "App Marketing",
+      "Branding",
+      "Company website: AI/ML product",
+      "Influencer Marketing",
+      "Marketing",
+      "Platform",
+      "SaaS",
+      "Social",
+      "Video"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/3387",
+      "https://iconpeak.com"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "60354e69446f77be6e32e29c",
+    "website": "https://iconpeak.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Optimize your supply chain. From order to doorstep. Boost your operational efficiency with our all-in-one solution that simplifies and enhances every step of order management, picking, and delivery. Streamlined Order Hub provides a centralized platform to consolidate orders from all sales channels, offering an intuitive dashboard for simplified management. This tool enhances efficiency by minimizing the complexity of handling multiple sales streams, making it easier to track, process, and fulfill orders in a single, seamless interface. With Smart Task Allocation, a cutting-edge algorithm dynamically assigns tasks based on real-time demand and resource availability. This feature optimizes workflows, ensuring that tasks are completed with maximum efficiency, improving team performance, and reducing bottlenecks in the order fulfillment process. Picking: 52% more efficient We found that our top-performing stores are 52% faster compared to our lowest-performing ones. This indicates room for improvement and suggests that our operations and technology are likely outperforming some competitors that don’t use similar tools. Delivery: 18% cost savings This is an estimate based on route and delivery optimization, including multi-delivery options and the use of non-branded vehicles. Time: 70% reduction in manual interactions We reviewed the number of questions handled via WhatsApp groups and found that 70% could be eliminated with proper adoption of our technology and features.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
     "location_evidence": [
       "StartupBlink lists the city as Lisbon"
     ],
     "location_status": "Source lists Lisbon",
-    "name": "eBreathie",
+    "municipality": "Lisboa",
+    "name": "360 Hyper",
     "observed_date": "2026-11-23",
     "possible_duplicate": false,
+    "quality_notes": [],
     "sector_tags": [
-      "AI",
+      "Enterprise Software",
+      "Transport & Logistics"
+    ],
+    "source_ids": [
+      "StartupBlink:286663"
+    ],
+    "source_sector_labels": [
+      "Ecommerce",
+      "Ecommerce & Retail"
+    ],
+    "source_urls": [
+      "https://www.startupblink.com/top-startups/lisbon-pt/ecommerce-retail"
+    ],
+    "sources": [
+      "StartupBlink"
+    ],
+    "startup_id": "3862b03b9f1d71f9370fcd5b",
+    "website": "https://360hyper.pt",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Agent-free, transparent real estate transaction infrastructure. Turnki is building transaction infrastructure that enables fully autonomous property transactions across Europe — replacing intermediaries with technology. The platform provides a complete transaction layer from listing to closing, allowing property owners, buyers, developers, and institutional funds to transact directly without traditional agents. The company operates at the intersection of PropTech (listing and search), LegalTech (automated compliance and digital contracts), FinTech (payment processing and escrow), and AI (document verification and fraud detection). THE PROBLEM €267B flows annually to property intermediaries across Europe — the continent's last major undigitized transaction layer within an €8.5T market. Agents charge 5-8% commissions (€15-24K on average transactions) under exclusive contracts, while controlling viewings, offers, and communication between parties. 92% of property searches start online, but 0% close online — not because technology doesn't exist, but because no infrastructure existed to replace the intermediary function end-to-end. THE SOLUTION Turnki provides a 6-layer transaction infrastructure stack that replaces every function traditionally performed by property agents: Layer 1 — Market Intelligence: Price discovery, comparable analysis, and listing tools. Layer 2 — Matching & Discovery: AI-powered search and buyer-seller matching. Layer 3 — Coordination: Viewing scheduling through a trained ambassador network, communication hub, and progress tracking. Layer 4 — Verification (Proprietary): A 3-layer verification engine built entirely in-house — digital identity verification (30 seconds), AI-powered document validation (minutes vs. days manually), and physical property inspection via ambassador protocol. This engine automates extraction and validation of property certificates, handles co-ownership orchestration with unanimous consent protocols, and eliminates 87% of post-sale disputes. Layer 5 — Transaction: SIBS payment rails (€100B+ annual processor) with Multicert eIDAS-compliant digital signatures, legally binding across 27 EU countries. Layer 6 — Closing: Mortgage integration and digital handover coordination through certified lawyers. Professional support is embedded but non-intermediary: certified lawyers coordinate each transaction (assigned automatically, similar to Uber driver allocation), and trained ambassadors handle property viewings under strict protocols — they facilitate logistics, not negotiation. BUSINESS MODEL Turnki charges a transparent success-only fee: €2K fixed + 2% variable (minimum €4K variable), resulting in approximately €8K per €300K transaction — 60% cheaper than traditional agents. The 2.7% take rate on GMV follows infrastructure economics (comparable to Stripe's model for payments), not advertising economics (Idealista, Rightmove). Zero exclusivity required. Zero upfront costs. WAVE 2 DISINTERMEDIATION Turnki sits within the second wave of platform disintermediation. Wave 1 (2010s) aggregated intermediaries — Idealista, Rightmove, Zillow kept agents in the loop. Wave 2 replaces them entirely — as Stripe replaced merchant reps and Wise replaced FX brokers. Turnki replaces property agents with direct transaction rails. TECHNOLOGY AND DEFENSIBILITY The proprietary verification automation engine represents an estimated €2-3M and 18-month replication cost for competitors. Operational partnerships with SIBS (payment processing) and Multicert (digital signatures) are live. The multi-jurisdiction compliance framework covers Portugal and Spain, with EU-wide expansion capability under eIDAS and DSA regulations. Each completed transaction compounds the platform's data advantage in verification accuracy, price prediction, and fraud detection. VALIDATION AND TRACTION 95% user preference across 40+ user tests. NPS 72 (vs. 32 industry average). 217 lawyers registered organically at €0 CAC, with €5K switching cost each. The company has completed end-to-end autonomous transactions through the platform. Pre-revenue status is by design: supply-first strategy solves the marketplace cold-start problem before consumer launch, with €500K from the raise dedicated to building a 600-property supply foundation through B2B partnerships. MARKET AND EXPANSION Entry market: Iberia (Portugal + Spain), representing €3.3B in annual agent commissions. European TAM: €267B annually. Global ceiling: $700B. Target: 310 transactions at M24, generating €93M GMV and €2.48M revenue at 44% gross margin. TEAM FUNDING Raising €3M seed at €13.64M pre-money valuation (18% equity). 24-month runway to Series A readiness. KEYWORDS Transaction infrastructure Property",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Turnki",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Fintech",
+      "Legal",
+      "Real Estate & Construction"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:8267"
+    ],
+    "source_sector_labels": [],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/8267"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "c8ad9a65dbc1defabe43c347",
+    "website": "https://turnki.eu",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Providing tailored GMP solutions to turn ideas into tomorrow's medicines GenIbet is a cGMP biopharmaceutical Contract Manufacturing Organization (CMO) based in Portugal, 20 km west of Lisbon airport. The company operates a state-of-the-art facility spanning 1000 square meters, designed to meet the stringent demands of the biotechnology industry. GenIbet offers highly specialized services in microbial, cell culture, and viral processes, catering to the needs of gene therapies and vaccine production. The facility includes multiple production units such as a Bacterial Unit for BL2 fermentation, a Viral Unit for gene therapies and vaccines, an Animal Cell Culture Unit, and a Fill and Finish Unit for small-scale semi-automated processes. GenIbet serves a diverse range of clients in the biopharmaceutical sector, including biotech companies, research institutions, and pharmaceutical firms. The company operates in the global biotechnology market, focusing on contract manufacturing services. GenIbet's business model revolves around providing specialized manufacturing capabilities to its partners, enabling them to bring innovative therapies and vaccines to market. Revenue is generated through long-term contracts and project-based engagements with its clients.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Avenida da República, Quinta do Marquês, Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Oeiras, Lisbon, 2780-157, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Oeiras",
+    "name": "GenIbet Biopharmaceuticals",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
       "Health & Biotech"
     ],
     "source_ids": [
-      "StartupBlink:703005"
+      "Startup Portugal ecosystem:1371"
+    ],
+    "source_sector_labels": [
+      "Biotech and Pharma",
+      "Biotechnology",
+      "DT and LS",
+      "Health",
+      "Horizon Europe",
+      "Spinout"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/1371"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "da0f1cf3d1d3cda875b4972d",
+    "website": "https://genibet.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "European holding company of digital product ventures that develops and operates purpose-built software tools for businesses, including proposal management, compliance, ESG reporting, data privacy, AML/KYC, and tech team outsourcing.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "PENGUIN FORMULA LISBON HEADOFFICE Avenida da Liberdade 230, 1250-148 Lisbon PORTUGAL | https://penguinformula.com",
+      "Startup Portugal ecosystem address: Avenida da Liberdade, São José, Santo António, Lisbon, 1250-140, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "Penguin Formula",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Holding company of software ventures; investor-like structure unclear."
+    ],
+    "sector_tags": [
+      "Cybersecurity",
+      "Enterprise Software",
+      "Fintech"
+    ],
+    "source_ids": [
+      "Company website:https://penguinformula.com",
+      "Startup Portugal ecosystem:2398"
+    ],
+    "source_sector_labels": [
+      "Enterprise Software"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/2398",
+      "https://penguinformula.com"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "777ac2c7790021e49461deb5",
+    "website": "https://penguinformula.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Develops HIDO (Holographic Integrated Display and Optics) technology for augmented reality smartglasses, and delivers AR hardware and software products and services.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Address: Rua Sarmento Beires, 31A 1900-411 Lisboa, Portugal | https://lusovu.com",
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "LusoVU",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Hardware & IoT"
+    ],
+    "source_ids": [
+      "Company website:https://lusovu.com",
+      "Startup Portugal ecosystem:2186"
+    ],
+    "source_sector_labels": [
+      "Communication",
+      "DT and LS",
+      "Eyewear",
+      "Health",
+      "Immersive Technologies",
+      "Information Technology",
+      "Innovation Management",
+      "Reality"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/2186",
+      "https://lusovu.com"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "cfe161121fc17dcccb5f4d9c",
+    "website": "https://lusovu.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "A última década extremamente marcada por eventos no campo das altas tecnologias de segurança, vigilância e protecção pessoal, tem impulsionado a MicroSegur enquanto grupo a inovar, razão pela constante actualização da informação no que refere às novas tecnologias, com o objectivo prioritário de estar preparada para apresentar aos seus clientes, as melhores e mais adequadas soluções em Sistemas de Segurança. A nova realidade estratégica com que o grupo Microsegur se posiciona, faz-nos surgir como uma empresa diferenciadora, com um conjunto distinto de especialidades, permitindo-nos continuar a alargar a oferta dos nossos serviços. A nossa missão é adequar as novas tecnologias, aplicando-as à segurança, tornando-as em ferramentas operacionais, cada vez mais próximas do utilizador, privilegiando soluções personalizadas e de elevado valor tecnológico, entre o compromisso preço/qualidade. “Dream the future, we protect the present”",
+    "founded_year": 1997,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "quote": "A Microsegur – Soluções de Engenharia Lda., é uma empresa portuguesa, que está no mercado desde 1997.",
+        "source": "Company website",
+        "url": "https://microsegur.pt",
+        "year": 1997
+      }
+    ],
+    "location_evidence": [
+      "Lisboa | Portugal Rua Reinaldo Ferreira, 48 A-B, Alvalade, 1700-324 Lisboa | https://microsegur.pt/contactos/",
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "Microsegur",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Cybersecurity",
+      "Hardware & IoT"
+    ],
+    "source_ids": [
+      "Company website:https://microsegur.pt",
+      "Startup Portugal ecosystem:592"
+    ],
+    "source_sector_labels": [],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/592",
+      "https://microsegur.pt/contactos/"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "9aaaabf8c52bea884c44c895",
+    "website": "https://microsegur.pt",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Land intelligence company building a new intelligence layer over Portuguese land.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Web Summit Lisbon 2026 listing gives Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Sparkzz",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Description is vague about the actual product and technology.",
+      "Limited product detail; land intelligence sector inferred from the description only."
+    ],
+    "sector_tags": [
+      "Data & Analytics",
+      "Real Estate & Construction"
+    ],
+    "source_ids": [
+      "Web Summit Lisbon 2026:61354"
+    ],
+    "source_sector_labels": [],
+    "source_urls": [
+      "https://attend.websummit.com/lis26/company/61354"
+    ],
+    "sources": [
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "f27c7e6bd09be9a115c841aa",
+    "website": "https://sparkzz.cc",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Property management services in Lisbon for homeowners, covering short-, mid- and long-term rentals, tenant vetting, maintenance, renovation and interior design. Also offers fully furnished serviced apartments for tenants.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, 1100-148, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Bleisured",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Real Estate & Construction"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:2524"
+    ],
+    "source_sector_labels": [],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/2524"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "9cf23b0d499b6a2b0540008f",
+    "website": "https://bleisured.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Grupo financeiro português e independente que oferece seguros de vida, unit-linked, saúde e acidentes pessoais, soluções de reforma, investimento e poupança, gestão de fundos de pensões, agente vinculado de ações, obrigações, ETFs, CFDs e FX, e gestão de fundos de titularização e recuperação de créditos.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Rua Tierno Galvan - Torre 3 Amoreiras Piso 15 - B2 Norte 1070-274 Lisboa - Portugal | https://patrisinvestimentos.pt",
+      "Startup Portugal ecosystem address: Real Vida Seguros, 37, Rua Duque de Palmela, Coração de Jesus, Santo António, Lisbon, 1250-096, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "Patris Investimentos",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Established-looking financial group; corporate versus startup status unclear."
+    ],
+    "sector_tags": [
+      "Fintech"
+    ],
+    "source_ids": [
+      "Company website:https://patrisinvestimentos.pt",
+      "Startup Portugal ecosystem:751"
+    ],
+    "source_sector_labels": [
+      "Fintech"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/751",
+      "https://patrisinvestimentos.pt"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "e085b5b8335892d778a898cc",
+    "website": "https://patrisinvestimentos.pt",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "Instead of asking LLMs to write source code, they produce a structured spec in our proprietary DSL(Application Description Language ~500K output tokens) that describes screens, components, navigation, interactions, data models/DB schema, backend APIs, and billing. The spec is statically analyzable, so we can validate it and enforce security before compiling client and server code.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: 80, Rua da Prata, Baixa, Santa Maria Maior, Lisbon, 1100-052, Portugal",
+      "CodePlatform's headquarters is located at Rua Da Prata 80, Lisbon. | https://www.cbinsights.com/company/codeplatform"
+    ],
+    "location_status": "Lisbon presence confirmed by public company evidence",
+    "municipality": "Lisboa",
+    "name": "CodePlatform",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "AI",
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Public company evidence:https://www.cbinsights.com/company/codeplatform",
+      "Startup Portugal ecosystem:1887",
+      "Unicorn Factory portfolio:40bf670a46aa8a92f9"
+    ],
+    "source_sector_labels": [
+      "Cloudtech & DevOps",
+      "Company website: AI/ML product",
+      "DT and LS",
+      "Enterprise Software",
+      "Interface/Infrastructure",
+      "Work Tech",
+      "slush24"
+    ],
+    "source_urls": [
+      "https://codeplatform.com",
+      "https://ecossistema.startupportugal.com/startups-scaleups/1887",
+      "https://unicornfactorylisboa.com/portfolio/",
+      "https://www.cbinsights.com/company/codeplatform"
+    ],
+    "sources": [
+      "Public company evidence",
+      "Startup Portugal ecosystem",
+      "Unicorn Factory portfolio"
+    ],
+    "startup_id": "45535786c0c3ff9a782e2d4b",
+    "website": "https://codeplatform.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "Maré is a personal assistant app for living in or visiting Portugal, offering restaurant, activity, accommodation and home-service suggestions, day plans, narrated walking tours and group plans, plus a business listing tool for local businesses.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Web Summit Lisbon 2026 listing gives Almada"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Almada",
+    "name": "Maré",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Travel & Hospitality"
+    ],
+    "source_ids": [
+      "Web Summit Lisbon 2026:107222"
+    ],
+    "source_sector_labels": [
+      "Company website: AI/ML product"
+    ],
+    "source_urls": [
+      "https://attend.websummit.com/lis26/company/107222",
+      "https://hellomare.app"
+    ],
+    "sources": [
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "d74ef4eeec2ededaa5304ded",
+    "website": "https://hellomare.app",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Technology based e-learning platform with gamification approach to education in Sport and eSport environments PlayYourFuture.org is an innovative startup focused on bridging the gap between education and career opportunities in the sports industry. The company offers a certified educational course designed to help young people explore and prepare for various professional roles within the sports sector. The course is developed with input from an academic committee and leverages a unique methodology that combines digital content and interactive learning through a dedicated app. The primary clients of Play Your Future are companies, institutions, sports federations, and teams. These organizations use the platform to provide young people with the tools and knowledge they need to succeed in the rapidly growing sports industry. By targeting these entities, Play Your Future operates within a B2B2C (Business-to-Business-to-Consumer) model, meaning they sell their services to businesses that, in turn, offer these services to their end-users, the young learners. Play Your Future operates in the educational technology (EdTech) market, specifically focusing on sports education. The company makes money by selling subscriptions and licenses for its digital platform to its B2B clients. These clients pay for access to the educational content, which they then distribute to young people interested in pursuing careers in sports. The startup was founded in 2020 in Portugal and has since gained accreditation from the Portuguese Government, receiving a grant from the Portugal 2020 support program. This endorsement highlights the quality and potential impact of their educational offerings. In summary, Play Your Future is a forward-thinking company dedicated to equipping the next generation with the skills and knowledge needed to thrive in the sports industry. By partnering with key stakeholders in the sports ecosystem, they provide a valuable service that benefits both young people and the broader sports community.",
+    "founded_year": 2020,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "source": "Startup Portugal ecosystem",
+        "url": "https://ecossistema.startupportugal.com/startups-scaleups/2983",
+        "year": 2020
+      }
+    ],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Avenida Fontes Pereira de Melo, Lisbon, Lisbon 1050-116, PT"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "AKTO | Play Your Future",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Education",
+      "Sports & Fitness"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:2983"
+    ],
+    "source_sector_labels": [
+      "Access to Sport",
+      "Education",
+      "Gamification",
+      "Lifelong and Consumer Learning",
+      "Sports"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/2983"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "ca4a61630d3a59ce4feb796b",
+    "website": "https://playyourfuture.org",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Platform for building music NFT communities, where fans' concert videos become access keys to exclusive artist perks and monetizable content.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Loudd",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Blockchain & Crypto",
+      "Marketing & Media"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:91"
+    ],
+    "source_sector_labels": [],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/91"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "12d83324e76a4a7d690c81ce",
+    "website": "https://loudd.xyz",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Travel platform for discovering local buildings and neighbourhoods through building stories across destinations in Portugal and Spain.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Web Summit Lisbon 2026 listing gives Lisboa"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "XiaoXiong",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Travel & Hospitality"
+    ],
+    "source_ids": [
+      "Web Summit Lisbon 2026:106575"
+    ],
+    "source_sector_labels": [],
+    "source_urls": [
+      "https://attend.websummit.com/lis26/company/106575"
+    ],
+    "sources": [
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "68fc85f66c3eb8a70dfe595a",
+    "website": "https://xiaoxiongmarket.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Fornecedor de material para hóquei em patins e patinagem artística, incluindo patins, sticks, proteções, equipamento oficial e configurador de equipamento personalizado.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Canto Vilas Boas, n 9 – 9A 2775-536 Carcavelos - Portugal | https://jetroller.com/pages/contactos",
+      "Startup Portugal ecosystem address: Rua Capitão Rei Vilar, Fontainhas, Fontaínhas, Alvide, Cascais, Cascais e Estoril, Cascais, Lisbon, 2755-010, Portugal"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Cascais",
+    "name": "Jet Roller",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Retail & E-commerce",
+      "Sports & Fitness"
+    ],
+    "source_ids": [
+      "Company website:https://jetroller.com",
+      "Startup Portugal ecosystem:160"
+    ],
+    "source_sector_labels": [
+      "Sports"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/160",
+      "https://jetroller.com/pages/contactos"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "e065c079501b364a3a063585",
+    "website": "https://jetroller.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Serviços de outsourcing, recrutamento e formação técnica de TI em Portugal, com soluções de canal de denúncia, bem-estar empresarial e controlo operacional (GIRA).",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Skillstep",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Mixed outsourcing, recruitment and training services alongside possible software tools (whistleblowing channel, GIRA); retained as uncertain."
+    ],
+    "sector_tags": [
+      "Enterprise Software",
+      "Professional Services"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:908"
+    ],
+    "source_sector_labels": [],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/908"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "aaccabdf839b44c87355298d",
+    "website": "https://skillstep.pt",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "Travel discovery is fragmented between social media and booking platforms. People discover places, experiences, restaurants, and hotels through short-form video, but the content is disconnected from the actual booking journey. Existing OTAs are optimized for search and comparison, while social platforms are optimized for inspiration but not for planning or booking. uTripo combines video-first discovery, travel planning and booking in one experience, turning inspiration directly into a travel decision.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Location Lisbon, Portugal | https://utripo.com/contact",
+      "Web Summit Lisbon 2026 listing gives Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "uTripo",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Travel & Hospitality"
+    ],
+    "source_ids": [
+      "Company website:https://utripo.com",
+      "Unicorn Factory portfolio:e1ea18bfdac2fa56be",
+      "Web Summit Lisbon 2026:100269"
+    ],
+    "source_sector_labels": [
+      "Travel Tech"
+    ],
+    "source_urls": [
+      "https://attend.websummit.com/lis26/company/100269",
+      "https://unicornfactorylisboa.com/portfolio/",
+      "https://utripo.com/contact"
+    ],
+    "sources": [
+      "Company website",
+      "Unicorn Factory portfolio",
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "774ce0b750d643f74fa33568",
+    "website": "https://utripo.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "Loop is an iOS app that turns a goal described in plain words into habits or progressive plans, with optional Apple Health tracking, reminders, and a Pomodoro-based focus mode.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Web Summit Lisbon 2026 listing gives Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Loop",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Consumer habit and productivity app; no closely matching listed sector."
+    ],
+    "sector_tags": [
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Web Summit Lisbon 2026:103819"
+    ],
+    "source_sector_labels": [
+      "Company website: AI/ML product"
+    ],
+    "source_urls": [
+      "https://attend.websummit.com/lis26/company/103819",
+      "https://downloadloop.app"
+    ],
+    "sources": [
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "f96d8d4dfd8a4768ae830d15",
+    "website": "https://downloadloop.app",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "The system combines satellite data from field sensors with weather variables to identify threats remotely",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Rooting Tech is a Portuguese game developer based in Lisbon. | https://rootingtech.com",
+      "Startup Portugal ecosystem address: Rua de Campolide, 351, Lisbon, Lisbon 1070-034, PT"
+    ],
+    "location_status": "Metropolitan presence confirmed by company website",
+    "municipality": "Lisboa",
+    "name": "Rooting Tech",
+    "observed_date": "2026-11-24",
+    "possible_duplicate": false,
+    "quality_notes": [
+      "Website/source identity mismatch requires review; existing description retained"
+    ],
+    "sector_tags": [
+      "Gaming"
+    ],
+    "source_ids": [
+      "Company website:https://rootingtech.com",
+      "Startup Portugal ecosystem:2052"
+    ],
+    "source_sector_labels": [
+      "Enterprise Software"
+    ],
+    "source_urls": [
+      "https://ecossistema.startupportugal.com/startups-scaleups/2052",
+      "https://rootingtech.com"
+    ],
+    "sources": [
+      "Company website",
+      "Startup Portugal ecosystem"
+    ],
+    "startup_id": "a3a575d6c082e2304dd8afc3",
+    "website": "https://rootingtech.com",
+    "website_check_note": null,
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "The leading certified emissions engine turning carbon data into compliance, digital product passports, and measurable commercial value ZeroPact is a certified emissions intelligence platform engineered to transform raw environmental data into compliance, operational efficiency, and measurable business growth. As global regulations enforce strict carbon accounting and anti-greenwashing measures—such as the EU Empowering Consumers Directive (EmpCO), CSRD, and FuelEU Maritime - companies face an urgent need to substantiate environmental claims and quantify footprint data at scale. ZeroPact addresses this shift by replacing slow, expensive legacy consulting and manual reporting tools with an automated, portfolio-wide platform. The platform operates across four primary high-value solutions: 1. Automated Life Cycle Assessments (LCA): Generates portfolio-scale, ISO 14067:2018-certified LCAs instantly, delivering precise product carbon footprinting (PCF) at a fraction of traditional costs. 2. Digital Product Passports (DPP): Enables one-click DPP generation that turns compliance QR codes on physical products into interactive digital channels for consumer engagement, lead capture, e-commerce integration, and post-purchase support. 3. Emissions Intelligence & Last-Mile Tracking: Provides decision-level transparency into product supply chains and last-mile logistics - adhering to the GLEC framework - broken down by route, vehicle, client, and date. 4. EmpCo Compliance: Delivers auditable evidence to ensure full compliance with regulatory directives, effectively protecting brands against greenwashing risks. Beyond consumer goods and logistics, ZeroPact’s core engine expands into specialized verticals including software carbon intensity tracking and maritime biofuel carbon credit arbitrage. Recognized as one of WIRED's Hottest 100 Startups in Europe (2025) and certified by SGS, ZeroPact delivers LCA automation up to 90%+ cheaper and in minutes rather than months, helping enterprise clients across retail, energy, and logistics - such as El Corte Inglés, CTT, PRIO Energy, and Sogrape - turn sustainability mandates into a competitive advantage",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "Startup Portugal ecosystem address: Lisbon, Portugal",
+      "Web Summit Lisbon 2026 listing gives Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "ZeroPact",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Climate & Energy",
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "Startup Portugal ecosystem:2095",
+      "Unicorn Factory portfolio:e71ca409d6b455c54f",
+      "Web Summit Lisbon 2026:103699"
+    ],
+    "source_sector_labels": [
+      "Big Data / Data / Analytics",
+      "CleanTech",
+      "Company website: AI/ML product",
+      "Enterprise Software",
+      "RetailTech"
+    ],
+    "source_urls": [
+      "https://attend.websummit.com/lis26/company/103699",
+      "https://ecossistema.startupportugal.com/startups-scaleups/2095",
+      "https://unicornfactorylisboa.com/portfolio/",
+      "https://zeropact.co"
+    ],
+    "sources": [
+      "Startup Portugal ecosystem",
+      "Unicorn Factory portfolio",
+      "Web Summit Lisbon 2026"
+    ],
+    "startup_id": "92302be5e719c34f2d2f451b",
+    "website": "https://zeropact.co",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "IsDown is a status page aggregator that consolidates status pages from 6,320+ cloud and SaaS vendors into a single dashboard. It offers filtered alerts by component or severity, early outage detection, integrations with tools such as Slack and PagerDuty, and customizable status pages.",
+    "founded_year": 2020,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "quote": "Aggregating status data since 2020",
+        "source": "Company website",
+        "url": "https://isdown.app",
+        "year": 2020
+      }
+    ],
+    "location_evidence": [
+      "SaaSHub lists it as based in Lisbon",
+      "StartupBlink lists the city as Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "IsDown",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Enterprise Software"
+    ],
+    "source_ids": [
+      "SaaSHub:isdownapp",
+      "StartupBlink:643643"
+    ],
+    "source_sector_labels": [
+      "Cloud Monitoring",
+      "Monitoring Tools",
+      "Software",
+      "Software & Data",
+      "and Notifications And Alerting"
+    ],
+    "source_urls": [
+      "https://www.saashub.com/startups/portugal/city/lisbon#5",
+      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
+    ],
+    "sources": [
+      "SaaSHub",
+      "StartupBlink"
+    ],
+    "startup_id": "9cd0090d71c8ad3f2f8e45b2",
+    "website": "https://isdown.app",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": false,
+    "description": "At biosurfit they are working to shape the future of in-vitro diagnostic testing. They want health providers to have all the necessary information to make the best possible diagnostic and treatment decision when they are with their patients",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
+    "location_evidence": [
+      "StartupBlink lists the city as Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Biosurfit",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "Health & Biotech"
+    ],
+    "source_ids": [
+      "StartupBlink:417377"
     ],
     "source_sector_labels": [
       "Health Care",
@@ -226,1221 +1912,323 @@
     "sources": [
       "StartupBlink"
     ],
-    "startup_id": "6269c72ff13890c4db23e6de",
-    "website": "https://ebreathie.com"
+    "startup_id": "e32b5f3c79c89084f7ae8a38",
+    "website": "https://biosurfit.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
   },
   {
-    "ai_tag": null,
-    "description": "sheerME is Portugal's leading wellness super app that revolutionizes how people book and pay for beauty, wellness, and fitness services through a cashback-power",
-    "founded_year": 2020,
-    "location_evidence": [
-      "Lisbon office listed by StartupMap"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "sheerME",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": null,
-    "source_ids": [
-      "StartupMap:sheerme_pt"
-    ],
-    "source_sector_labels": [
-      "Sports & wellness"
-    ],
-    "source_urls": [
-      "https://startupmap.one/startup/sheerme_pt"
-    ],
-    "sources": [
-      "StartupMap"
-    ],
-    "startup_id": "29dedcf141b4884083295661",
-    "website": null
-  },
-  {
-    "ai_tag": true,
-    "description": "DocDigitizer is an intelligent document processing platform that uses AI and machine learning to extract, classify, and validate data from unstructured document",
-    "founded_year": 2016,
-    "location_evidence": [
-      "Lisbon office listed by StartupMap"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "DocDigitizer",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": [
-      "AI"
-    ],
-    "source_ids": [
-      "StartupMap:docdigitizer_pt"
-    ],
-    "source_sector_labels": [
-      "AI & machine learning"
-    ],
-    "source_urls": [
-      "https://startupmap.one/startup/docdigitizer_pt"
-    ],
-    "sources": [
-      "StartupMap"
-    ],
-    "startup_id": "efd431d9fdff0ca5c5d2d32d",
-    "website": null
-  },
-  {
-    "ai_tag": null,
-    "description": "Wallnut is BIM-based construction management software.",
+    "ai_tag": false,
+    "description": "Develops sustainable, plantable construction materials that integrate vegetation into urban infrastructure to promote greener, more eco-friendly cities Greenment operates in the sustainable construction materials market, focusing on next-generation concrete solutions that incorporate state-of-the-art green technology. The company aims to address environmental challenges by reducing air pollution and promoting healthier living spaces. Greenment's products are designed to integrate seamlessly into various projects, offering a sustainable alternative to traditional construction materials. The business model revolves around selling these eco-friendly concrete products to industrial clients and project developers who prioritize environmental sustainability. By leveraging a unique blend of plant-based materials, Greenment not only contributes to cleaner air but also supports the reduction of respiratory diseases. The company is committed to aligning its strategies with global environmental sustainability goals, including reducing water waste and pollution. Greenment's target market includes large industrial plants and developers seeking to enhance their projects with sustainable materials. The company generates revenue through direct sales of its concrete products and consultation services that align with clients' strategic environmental goals.",
     "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
     "location_evidence": [
+      "Startup Portugal ecosystem address: Carcavelos, Carcavelos e Parede, Cascais, Lisbon, Portugal",
       "StartupBlink lists the city as Lisbon"
     ],
     "location_status": "Source lists Lisbon",
-    "name": "Wallnut",
+    "municipality": "Lisboa",
+    "name": "Greenment",
     "observed_date": "2026-11-23",
     "possible_duplicate": false,
+    "quality_notes": [],
     "sector_tags": [
+      "Climate & Energy",
       "Real Estate & Construction"
     ],
     "source_ids": [
-      "StartupBlink:516560"
+      "Startup Portugal ecosystem:3787",
+      "Startup Portugal ecosystem:4257",
+      "StartupBlink:613976"
     ],
     "source_sector_labels": [
-      "Enterprise Technology",
-      "Software & Data"
+      "Climate Tech",
+      "Energy",
+      "Energy & Environment",
+      "Energy & Environment-Other",
+      "Real Estate",
+      "Sustainable Development Goals"
     ],
     "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
+      "https://ecossistema.startupportugal.com/startups-scaleups/3787",
+      "https://ecossistema.startupportugal.com/startups-scaleups/4257",
+      "https://www.startupblink.com/top-startups/lisbon-pt/energy-environment"
     ],
     "sources": [
+      "Startup Portugal ecosystem",
       "StartupBlink"
     ],
-    "startup_id": "74810eef7795de3c80e2d7db",
-    "website": "http://www.wallnut.pt"
+    "startup_id": "51cad6fe6a9abf3eee937332",
+    "website": "https://greenment.co",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
   },
   {
-    "ai_tag": null,
-    "description": "Scite - Science Crunchers operates as a creative scientific agency focused on enhancing the visibility and recognition of scientific endeavors. With a team skilled in design and science illustration, and a foundation in biology and neurosciences, Scite offers unique services that include the classification of scientific citations as supporting, refuting, or mentioning. This approach enables the assessment of the veracity of scientific claims. Additionally, Scite engages in projects aimed at contributing to scientific communities, such as the 'Science 4 COVID-19' platform, demonstrating a commitment to leveraging science for global betterment.",
-    "founded_year": null,
+    "ai_tag": false,
+    "description": "Energy engagement platform matching demand with production Brain-e was a CleanTech startup that developed an energy engagement platform to foster energy-efficient habits. The company was founded in 2014 and was headquartered in Lisbon, Portugal. The platform utilized prediction algorithms to align energy demand with production, connecting consumer requirements with the objectives of energy utilities. This enabled users to effectively manage and optimize their household energy consumption. Brain-e operated in the Application Software and B2C services sectors, with a focus on CleanTech. The company participated in accelerator and incubator programs, securing approximately $10,600 in funding. According to PitchBook, Brain-e ceased operations as of July 29, 2019.",
+    "founded_year": 2014,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "source": "Startup Portugal ecosystem",
+        "url": "https://ecossistema.startupportugal.com/startups-scaleups/1382",
+        "year": 2014
+      }
+    ],
     "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
+      "Startup Portugal ecosystem address: Lisbon, Lisbon, Portugal",
+      "Startup Portugal ecosystem address: Registo votivo de cristo Crucificado ladeado por Nossa Senhora da Conceição e Nossa Senhora do Carmo, 12, Rua da Regueira, São Miguel, Alfama, Santa Maria Maior, Lisbon, 1100-015, Portugal"
     ],
     "location_status": "Source lists Lisbon",
-    "name": "SCIENCE CRUNCHERS",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "Marketing & Media"
-    ],
-    "source_ids": [
-      "Labs Lisboa:post-1804",
-      "StartupBlink:678366"
-    ],
-    "source_sector_labels": [
-      "Content Marketing",
-      "Marketing & Sales"
-    ],
-    "source_urls": [
-      "https://labslisboa.pt/startups/",
-      "https://www.startupblink.com/top-startups/lisbon-pt/marketing-sales"
-    ],
-    "sources": [
-      "Labs Lisboa",
-      "StartupBlink"
-    ],
-    "startup_id": "0120a6a5823a26532c315ff5",
-    "website": "https://sciencecrunchers.com"
-  },
-  {
-    "ai_tag": null,
-    "description": "Best Reviews guides you to the best products and services through expert-written and user reviews.",
-    "founded_year": null,
-    "location_evidence": [
-      "SaaSHub lists it as based in Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Best Reviews",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "SaaSHub:bestreviews"
-    ],
-    "source_sector_labels": [
-      "Online Reviews",
-      "Product Reviews",
-      "and Startup Community"
-    ],
-    "source_urls": [
-      "https://www.saashub.com/startups/portugal/city/lisbon#11"
-    ],
-    "sources": [
-      "SaaSHub"
-    ],
-    "startup_id": "c60985100260ff0c6c91573e",
-    "website": "https://bestreviews.net/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Runtime Revolution, a great team of developers exclusively focused on Ruby/Ruby on Rails and front-end technology to develop your product in order to be the most original, reliable, scalable and remarkable on the market! Since 2006, continuously delivering the best programming services and products all over the world!",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Runtime Revolution",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/runtime-revolution"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/runtime-revolution"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "41ccbdc38aaf3dddad9ec692",
-    "website": "http://www.runtime-revolution.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "We are a leading product developer company, and have been helping small to medium size business around the world to find factories and suppliers to manufacture their products in a simple, easy and sustainable way. We work in the technology sector with many different suppliers, and due to our experience, we can offer cost effective and efficient services to technology manufacturers looking for a factory to produce their products.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "China Facture",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "StartupBlink:337425"
-    ],
-    "source_sector_labels": [
-      "3D Printing",
-      "Hardware & IoT"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/hardware-iot"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "d460451090eed50a368a83c1",
-    "website": "https://www.chinafacture.com"
-  },
-  {
-    "ai_tag": true,
-    "description": "Sensei offers a scalable, seamless store-wide solution that empowers the stores of the future to be check-out and cash free. Through an integrated system of cameras and AI algorithms, Sensei enables a new era of Phygital stores able to capture in-store product data and shoppers’ activities, to offer a wealth of analytics and smooth, frictionless shopping experience.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Sensei",
+    "municipality": "Lisboa",
+    "name": "Brain e",
     "observed_date": "2026-11-23",
     "possible_duplicate": true,
+    "quality_notes": [
+      "Uncertain similar name: Brainer",
+      "Uncertain similar name: Brainer"
+    ],
     "sector_tags": [
-      "AI",
-      "Retail & E-commerce",
-      "Data & Analytics"
-    ],
-    "source_ids": [
-      "StartupBlink:276102",
-      "Unicorn Factory portfolio:4205501b2d802fd46d"
-    ],
-    "source_sector_labels": [
-      "AI",
-      "Hardware",
-      "Hardware & IoT",
-      "Retail Tech"
-    ],
-    "source_urls": [
-      "https://unicornfactorylisboa.com/portfolio/",
-      "https://www.startupblink.com/top-startups/lisbon-pt/hardware-iot"
-    ],
-    "sources": [
-      "StartupBlink",
-      "Unicorn Factory portfolio"
-    ],
-    "startup_id": "bb090f12e260de030c178b52",
-    "website": "https://www.sensei.tech"
-  },
-  {
-    "ai_tag": null,
-    "description": "Multidisciplinary Design Studio",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "küng design bureau",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/kung-design-bureau"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/kung-design-bureau"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "1558cf2f63972197b5c8fea3",
-    "website": "http://www.k-u-n-g.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Night.World.Meetingpoint",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Zooom.pt",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/zooom-pt"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/zooom-pt"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "b7cb6c9d226a7c1cf56506b8",
-    "website": "http://www.zooom.pt/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Boost your employee recognition and engagement and make your team happier",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Tap My Back - Employee Recognition",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/tap-my-back-employee-recognition"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/tap-my-back-employee-recognition"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "585f14196c5b842a95ef6b65",
-    "website": "http://www.tapmyback.com/"
-  },
-  {
-    "ai_tag": true,
-    "description": "Data4Deals applies Artificial Intelligence to financial data to understand customer preferences and behaviour, allowing brands to reach new customers and deepen relationships with existing ones.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Data4Deals",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "AI"
-    ],
-    "source_ids": [
-      "StartupBlink:560235"
-    ],
-    "source_sector_labels": [
-      "Artificial Intelligence",
-      "Software & Data"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "3293c55ff5b57ed5c8d98150",
-    "website": "https://datafordeals.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Lyzer is a Logistics-as-a-Service platform for retail and e-commerce operations, covering order management, warehouse picking optimization, and last-mile orchestration. In July 2025, the company announced a EUR 10M Series B and reported over EUR 160M in GMV plus more than 500,000 fulfilled orders across the Iberian peninsula.",
-    "founded_year": null,
-    "location_evidence": [
-      "Europe Startup Guide lists it as a startup in Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Lyzer",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": [
-      "Retail & E-commerce",
-      "Transport & Logistics",
-      "Enterprise Software"
-    ],
-    "source_ids": [
-      "Europe Startup Guide:/portugal/startup/lyzer"
-    ],
-    "source_sector_labels": [
-      "Logistics",
-      "SaaS",
-      "Supply Chain"
-    ],
-    "source_urls": [
-      "https://europe-startup-guide.com/portugal/startup/lyzer"
-    ],
-    "sources": [
-      "Europe Startup Guide"
-    ],
-    "startup_id": "0658b99f08497861efe90a90",
-    "website": null
-  },
-  {
-    "ai_tag": null,
-    "description": "Creative Video Communication with Friends",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Weclipse",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/weclipse"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/weclipse"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "553ceaf6897eda7809ecef43",
-    "website": "http://www.weclipseapp.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Catappult enables developers to easily distribute their apps by connecting with over 20 app stores through a single integration. Partnering with a community of app stores and OEM's like Aptoide and Cherry Mobile, Catappult empowers developers to unlock their full potential.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Catappult Console",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "StartupBlink:446115"
-    ],
-    "source_sector_labels": [
-      "Apps",
-      "Software & Data"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "aa2b3d178e950808fc50082f",
-    "website": "https://catappult.io"
-  },
-  {
-    "ai_tag": true,
-    "description": "Hay.chat is a source-available AI customer service platform that resolves queries, refunds and order lookups on WhatsApp, Instagram, email and web chat.",
-    "founded_year": null,
-    "location_evidence": [
-      "Lisboa, Portugal printed in official 2026 cohort booklet"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Hay.chat",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "AI"
-    ],
-    "source_ids": [
-      "Startup Portugal booklet:011"
-    ],
-    "source_sector_labels": [
-      "AI & MACHINE LEARNING"
-    ],
-    "source_urls": [
-      "https://startupportugal.com/wp-content/uploads/2026/11/R2WS-Startup-Booklet-2026.pdf#page=11"
-    ],
-    "sources": [
-      "Startup Portugal booklet"
-    ],
-    "startup_id": "0aacd9e4eb6e09f1e09ec7ac",
-    "website": "https://hay.chat"
-  },
-  {
-    "ai_tag": null,
-    "description": "Formerly Easyphone. Technology consulting firm that helps businesses with support and training",
-    "founded_year": 1993,
-    "location_evidence": [
-      "Dealroom ranks it with Lisbon headquarters"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Altitude Software",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Dealroom:/companies/altitude-software/"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://dealroom.co/companies/altitude-software/"
-    ],
-    "sources": [
-      "Dealroom"
-    ],
-    "startup_id": "b693d592e23708e347bfe905",
-    "website": null
-  },
-  {
-    "ai_tag": null,
-    "description": "Omnipaste saves your phone's battery life by forwarding all notifications to your laptop.",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Omnipaste",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/omnipaste"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/omnipaste"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "75b4cba4ad99a6543ff73777",
-    "website": "http://www.omnipasteapp.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "VC and PE Firm",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Caixa Capital",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/caixa-capital"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/caixa-capital"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "bd4d7eb0e582d021de883cb3",
-    "website": "http://www.caixacapital.pt/"
-  },
-  {
-    "ai_tag": true,
-    "description": "Contilt is an AI platform that streamlines content development, gathering, analysis, and processing. With the editor, users have access to the power of AI, making research, writing, and editing simpler. It facilitates learning about a subject by providing a summary of the key details and making it simple for users to look up references.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "GBSN Research",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "AI",
-      "Data & Analytics"
-    ],
-    "source_ids": [
-      "StartupBlink:486196"
-    ],
-    "source_sector_labels": [
-      "Data Analytics",
-      "Software & Data"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "b33cf424877b2f8734883282",
-    "website": "https://www.gbsnresearch.com"
-  },
-  {
-    "ai_tag": null,
-    "description": "BREAKFAST specializes in inventing and producing products and experiences that better connect the real world to online content. The best way to get to know us is via http://breakfastny.com or http://www.youtube.com/user/BreakfastNewYork",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "The Breakfast",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": null,
-    "source_ids": [
-      "StartupBlink:434356",
-      "Unicorn Factory portfolio:d629b8016d17a60457"
-    ],
-    "source_sector_labels": [
-      "Consumer Electronics",
-      "Hardware & IoT",
-      "Social"
-    ],
-    "source_urls": [
-      "https://unicornfactorylisboa.com/portfolio/",
-      "https://www.startupblink.com/top-startups/lisbon-pt/hardware-iot"
-    ],
-    "sources": [
-      "StartupBlink",
-      "Unicorn Factory portfolio"
-    ],
-    "startup_id": "35dda67e03f763ee5208efee",
-    "website": "http://thebreakfast.app"
-  },
-  {
-    "ai_tag": true,
-    "description": "Lampsy é um dispositivo protegido por patente que aumenta a segurança e a qualidade de vida das pessoas com Epilepsia. Notifica imediatamente a família e os contactos de emergência durante uma crise, assegurando uma atenção médica imediata. Discretamente integrado numa lâmpada, o Lampsy ajuda os utilizadores a evitar o estigma, permitindo-lhes viver de forma independente e confiante.",
-    "founded_year": null,
-    "location_evidence": [
-      "Lisboa, Portugal printed in official 2026 cohort booklet"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Lampsy Health",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "AI",
-      "Health & Biotech",
-      "Marketing & Media"
-    ],
-    "source_ids": [
-      "Casa do Impacto:lampsyhealth",
-      "Startup Portugal booklet:056"
-    ],
-    "source_sector_labels": [
-      "HEALTHTECH & WELLNESS"
-    ],
-    "source_urls": [
-      "https://casadoimpacto.scml.pt/comunidade/residentes/",
-      "https://startupportugal.com/wp-content/uploads/2026/11/R2WS-Startup-Booklet-2026.pdf#page=56"
-    ],
-    "sources": [
-      "Casa do Impacto",
-      "Startup Portugal booklet"
-    ],
-    "startup_id": "e388d5825abd7f2a44afe927",
-    "website": "https://lampsyhealth.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Bica Studios is the leading HQ of the next gaming generation through Augmented/Mixed reality. Our strategy is focused on the natural consumer adoption to this new medium by proposing recognizable game adaptations with exciting social features. A path that allows to reach an wider audience and explore the tech evolution from touch screens devices to full AR lens. With games already developed for Microsoft Hololens, Epson Moverio and Google Tango, Bica Studios have gathered a unique tech and creative knowledge to bring the next gaming hit brands. Escritório: G1",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups",
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Bica Studios",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "Marketing & Media",
-      "Gaming"
-    ],
-    "source_ids": [
-      "Labs Lisboa:post-278",
-      "Lisboa Startups:/startups/bica-studios",
-      "StartupBlink:204777"
-    ],
-    "source_sector_labels": [
-      "Gaming",
-      "Social & Leisure"
-    ],
-    "source_urls": [
-      "https://labslisboa.pt/startups/",
-      "https://lisbon.startups-list.com/startups/bica-studios",
-      "https://www.startupblink.com/top-startups/lisbon-pt/social-leisure"
-    ],
-    "sources": [
-      "Labs Lisboa",
-      "Lisboa Startups",
-      "StartupBlink"
-    ],
-    "startup_id": "1733bad9a2571ee3e2f25687",
-    "website": "http://www.bicastudios.com"
-  },
-  {
-    "ai_tag": null,
-    "description": "Disruptive social discovery apps",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "ManyPins",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/manypins"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/manypins"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "a21667aaf93dde30397f7b43",
-    "website": "http://www.manypins.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Funnyhow is an advertising agency focused on organized creativity. It was founded in 2010 and is based in Lisbon, Portugal.",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups",
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Funnyhow",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "Marketing & Media"
-    ],
-    "source_ids": [
-      "Lisboa Startups:/startups/funnyhow",
-      "StartupBlink:138409"
-    ],
-    "source_sector_labels": [
-      "Adtech",
-      "Marketing & Sales"
-    ],
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/funnyhow",
-      "https://www.startupblink.com/top-startups/lisbon-pt/marketing-sales"
-    ],
-    "sources": [
-      "Lisboa Startups",
-      "StartupBlink"
-    ],
-    "startup_id": "21d112448b5e7b767a50ca31",
-    "website": "http://www.funnyhow.pt"
-  },
-  {
-    "ai_tag": null,
-    "description": "Mobile Learning Experience",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Clouts",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/clouts"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/clouts"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "04bfee9c2fda65fd265fdb99",
-    "website": "http://www.cloutsdigital.com/"
-  },
-  {
-    "ai_tag": null,
-    "description": "why is it (here)",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "DoesNotMatterForNow",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/doesnotmatterfornow"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/doesnotmatterfornow"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "03e0ad25c4c7bb519eb0e030",
-    "website": "http://aa.azutdi9854.com/"
-  },
-  {
-    "ai_tag": true,
-    "description": "Starkdata is an AI and ML startup with a SaaS solution for Customer Lifecycle Management (retail, banking), and Patient Lifecycle Management for Healthcare. It leverages existing data in companies, and it uses ML to mine behavioral patterns in the data, allowing for real world segmentation, buying patterns analysis and increased customer engagement. The same architecture was extended to Healthcare, for patient prognosis and diagnosis, and disease correlation with external factor using data in patient medical records. At its core Starkdata has an abstract model that provides an AI/ML Entity Lifecycle Management which allows Starkdata platform not to be constrained to single industry and to extend it to support different industries such as retail, financial services and healthcare. The product has pre-defined templates of intelligent indicators and KPIs for Management, Sales and Marketing, providing a unified view of customer behavior and customer trends to different stakeholders with the organization. Supporting the dynamic nature of demands on analytics, Starkdata provides a no-code AI platform that is used to create dynamic dashboards using a portfolio of predefined AI business level components, with a simple drag and drop procedure, with no need for coding.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Starkdata",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": [
-      "AI",
-      "Fintech",
-      "Health & Biotech",
-      "Retail & E-commerce",
-      "Enterprise Software",
-      "Marketing & Media",
-      "Data & Analytics"
-    ],
-    "source_ids": [
-      "StartupBlink:435931"
-    ],
-    "source_sector_labels": [
-      "Artificial Intelligence",
-      "Software & Data"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "b70aa30d7dbc2668c2ddf013",
-    "website": "https://www.starkdata.ai"
-  },
-  {
-    "ai_tag": null,
-    "description": "Track your daily routine, learn from data.",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "numbers.today",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/numbers-today"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/numbers-today"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "1bd6ec5ef66929028e1c8079",
-    "website": "http://numbers.today/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Web3 Gaming and Infrastructure Company",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Quantum Rift Labs",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "Gaming",
-      "Blockchain & Crypto"
-    ],
-    "source_ids": [
-      "StartupBlink:655314"
-    ],
-    "source_sector_labels": [
-      "Gaming",
-      "Social & Leisure"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/social-leisure"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "f610b82f9bc4c6b785d0b822",
-    "website": "http://www.theoct.xyz"
-  },
-  {
-    "ai_tag": null,
-    "description": "Investment&Pleasure&Wine",
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "PWPinv Premium Wine Pleasure and Invest",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/pwpinv-premium-wine-pleasure-and-invest"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/pwpinv-premium-wine-pleasure-and-invest"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "3ee7151809140a7189b4200a",
-    "website": null
-  },
-  {
-    "ai_tag": null,
-    "description": "SocialTalk is an influencer marketing platform that develops a private CRM with detailed influencer information and integrated communication tools to engage them directly, at scale, and in minutes. The company can use reliable, real-time data to plan, execute, and track campaign success.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "SocialTalk",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "Enterprise Software",
-      "Marketing & Media"
-    ],
-    "source_ids": [
-      "StartupBlink:562108"
-    ],
-    "source_sector_labels": [
-      "SaaS",
-      "Software & Data"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "e905942e7685c00ed2513451",
-    "website": "https://socialtalk.io/"
-  },
-  {
-    "ai_tag": null,
-    "description": "Application software for smartphones, computer software and media content development, as well as IT and Design services.",
-    "founded_year": null,
-    "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "THOUGHTS feels good, LDA",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "Marketing & Media"
-    ],
-    "source_ids": [
-      "StartupBlink:585538"
-    ],
-    "source_sector_labels": [
-      "Apps",
-      "Software & Data"
-    ],
-    "source_urls": [
-      "https://www.startupblink.com/top-startups/lisbon-pt/software-data"
-    ],
-    "sources": [
-      "StartupBlink"
-    ],
-    "startup_id": "d5607dadf4bbf23cb6feee95",
-    "website": "http://thoughtsfeelsgood.com"
-  },
-  {
-    "ai_tag": true,
-    "description": "Jungle AI builds deep-tech artificial intelligence tools designed to optimize the performance and lifetime of complex industrial assets within the renewable ene",
-    "founded_year": 2016,
-    "location_evidence": [
-      "Lisbon office listed by StartupMap"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Jungle AI",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": [
-      "AI",
       "Climate & Energy"
     ],
     "source_ids": [
-      "StartupMap:jungle_ai_pt"
+      "Labs Lisboa:post-287",
+      "Startup Portugal ecosystem:1382",
+      "Startup Portugal ecosystem:2755"
     ],
     "source_sector_labels": [
-      "AI & machine learning"
+      "Energy",
+      "Hard Tech",
+      "Neurology"
     ],
     "source_urls": [
-      "https://startupmap.one/startup/jungle_ai_pt"
+      "https://ecossistema.startupportugal.com/startups-scaleups/1382",
+      "https://ecossistema.startupportugal.com/startups-scaleups/2755",
+      "https://labslisboa.pt/startups/"
     ],
     "sources": [
-      "StartupMap"
+      "Labs Lisboa",
+      "Startup Portugal ecosystem"
     ],
-    "startup_id": "5844d4744302778f3aedd0e0",
-    "website": null
+    "startup_id": "24ad299550298ddc47374851",
+    "website": "https://brain-e.co",
+    "website_check_note": "Browser retry could not reach the site; not evidence of closure.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "dead"
   },
   {
-    "ai_tag": null,
-    "description": "They believe that in order to become a top professional and getting recognition for your music, a critical step is to collaborate with others, namely getting other people to help you play and produce your music. It's not just their opinion, for hundreds of years music has been a collaborative art and with the development of DAWs and VST's collaboration and adding something different and special to your music has become even more crucial as composers try to distinguish themselves from others in an overcrowded landscape.​ They believe that talent is native and that education will bring composers the skills to articulate their talent. However, in order to make your music really sound like it's meant to be, it's necessary to have the resources to produce and hire others to help and play your music. This requires an investment that can be very expensive many creators can't afford. They're here to make it affordable.",
+    "ai_tag": false,
+    "description": "Web platform for multi-screen play. A host opens it on a TV or browser, and players join by scanning a code with their phone, with no install or account needed. A server keeps games authoritative and devices in sync in real time, and games run in isolated sandboxes built with PixiJS, Three.js, Canvas, or DOM. The platform also builds titles with publishers and studios.",
     "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
     "location_evidence": [
-      "StartupBlink lists the city as Lisbon"
+      "Web Summit Lisbon 2026 listing gives Lisbon"
     ],
     "location_status": "Source lists Lisbon",
-    "name": "Musiversal",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": [
-      "Retail & E-commerce",
-      "Education",
-      "Marketing & Media"
-    ],
-    "source_ids": [
-      "StartupBlink:343772",
-      "Unicorn Factory portfolio:a11ba00683f9f40948"
-    ],
-    "source_sector_labels": [
-      "AudioTech",
-      "Ecommerce & Retail",
-      "Entertainment",
-      "Marketplaces"
-    ],
-    "source_urls": [
-      "https://unicornfactorylisboa.com/portfolio/",
-      "https://www.startupblink.com/top-startups/lisbon-pt",
-      "https://www.startupblink.com/top-startups/lisbon-pt/ecommerce-retail"
-    ],
-    "sources": [
-      "StartupBlink",
-      "Unicorn Factory portfolio"
-    ],
-    "startup_id": "8d75de3d9028d461ed3713c5",
-    "website": "https://musiversal.com"
-  },
-  {
-    "ai_tag": null,
-    "description": null,
-    "founded_year": null,
-    "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "SINFIC",
+    "municipality": "Lisboa",
+    "name": "no.Console",
     "observed_date": "2026-11-23",
     "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/sinfic"
-    ],
-    "source_sector_labels": null,
-    "source_urls": [
-      "https://lisbon.startups-list.com/startups/sinfic"
-    ],
-    "sources": [
-      "Lisboa Startups"
-    ],
-    "startup_id": "c8acfb98f4a9bf74370cf7fc",
-    "website": null
-  },
-  {
-    "ai_tag": null,
-    "description": "Bairro Direct is a Portuguese startup that revolutionized grocery delivery in Lisbon with their mobile app offering 15-30 minute delivery times. Founded in 2020",
-    "founded_year": 2020,
-    "location_evidence": [
-      "Lisbon office listed by StartupMap"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "Bairro Direct",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
+    "quality_notes": [],
     "sector_tags": [
-      "Retail & E-commerce"
+      "Enterprise Software",
+      "Gaming"
     ],
     "source_ids": [
-      "StartupMap:bairro_direct_pt"
+      "Web Summit Lisbon 2026:102138"
     ],
-    "source_sector_labels": [
-      "E-commerce & retail"
-    ],
+    "source_sector_labels": [],
     "source_urls": [
-      "https://startupmap.one/startup/bairro_direct_pt"
+      "https://attend.websummit.com/lis26/company/102138"
     ],
     "sources": [
-      "StartupMap"
+      "Web Summit Lisbon 2026"
     ],
-    "startup_id": "325f6cf22c098fedeaccac7a",
-    "website": null
+    "startup_id": "dc69999c82777e441116f453",
+    "website": "https://noconsole.app",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
   },
   {
     "ai_tag": true,
-    "description": "VisionHammer is an autonomous engineering platform that resolves production incidents, from error log to reviewed pull request, inside the client’s infrastructure.",
+    "description": "Multi-tenant dashboard for Microsoft 365 and Azure metrics, built for MSPs and IT admins. It reports on licence waste, security posture, vulnerabilities, devices, apps, audit and cloud spend, using read-only admin consent.",
     "founded_year": null,
-    "location_evidence": [
-      "Lisboa, Portugal printed in official 2026 cohort booklet"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "VisionHammer",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": false,
-    "sector_tags": [
-      "AI"
-    ],
-    "source_ids": [
-      "Startup Portugal booklet:021"
-    ],
-    "source_sector_labels": [
-      "AI & MACHINE LEARNING"
-    ],
-    "source_urls": [
-      "https://startupportugal.com/wp-content/uploads/2026/11/R2WS-Startup-Booklet-2026.pdf#page=21"
-    ],
-    "sources": [
-      "Startup Portugal booklet"
-    ],
-    "startup_id": "7a9923af8c29dabc17352340",
-    "website": "https://www.visionhammer.io/"
-  },
-  {
-    "ai_tag": null,
-    "description": "DIG-IN is revolutionizing the F&B sector through cutting-edge data and technology solutions tailored for FMCG brands. Founded in 2021 following a management buy",
-    "founded_year": 2021,
-    "location_evidence": [
-      "Lisbon office listed by StartupMap"
-    ],
-    "location_status": "Source lists Lisbon",
-    "name": "DIG-IN",
-    "observed_date": "2026-11-23",
-    "possible_duplicate": true,
-    "sector_tags": [
-      "Food & Agriculture"
-    ],
-    "source_ids": [
-      "StartupMap:dig_in_pt"
-    ],
-    "source_sector_labels": [
-      "Agritech & foodtech"
-    ],
-    "source_urls": [
-      "https://startupmap.one/startup/dig_in_pt"
-    ],
-    "sources": [
-      "StartupMap"
-    ],
-    "startup_id": "7f1c1f2a5c5d4fe50cb81063",
-    "website": null
-  },
-  {
-    "ai_tag": null,
-    "description": "Clip Cards is a digital business card for iPhone that remembers who you met. Hold your card to the top of an iPhone and it opens there, with no app for them. Then notes, voice notes and a reminder to follow up.",
-    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
     "location_evidence": [
       "SaaSHub lists it as based in Lisbon"
     ],
     "location_status": "Source lists Lisbon",
-    "name": "ClipCards.app",
+    "municipality": "Lisboa",
+    "name": "GraphPaaS",
     "observed_date": "2026-11-23",
     "possible_duplicate": false,
-    "sector_tags": null,
+    "quality_notes": [],
+    "sector_tags": [
+      "Cybersecurity",
+      "Data & Analytics",
+      "Enterprise Software"
+    ],
     "source_ids": [
-      "SaaSHub:clipcardsapp"
+      "SaaSHub:graphpaas"
     ],
     "source_sector_labels": [
-      "Business Card Scanner",
-      "Digital Business Cards",
-      "and Contact Management"
+      "B2B SaaS",
+      "Company website: AI/ML product",
+      "Office 365",
+      "and MSP"
     ],
     "source_urls": [
-      "https://www.saashub.com/startups/portugal/city/lisbon#55"
+      "https://graphpaas.com",
+      "https://www.saashub.com/startups/portugal/city/lisbon#35"
     ],
     "sources": [
       "SaaSHub"
     ],
-    "startup_id": "aee5ed191e52bc8c3a67f188",
-    "website": "https://clipcards.app"
+    "startup_id": "da24ff3967ba26255cd382ba",
+    "website": "https://graphpaas.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
   },
   {
-    "ai_tag": null,
-    "description": "Webportal with unlimited discounts",
+    "ai_tag": true,
+    "description": "advertio aims to set a new standard in digital advertising solving the actual complexity of the process. We offer a free to use platform for small business owners to advertise in multiple ad networks. Simply enter the URL for your website, we scan the web for your online presence and create a campaign fit for your needs which will be continuously improving to achieve better ROI.",
+    "founded_year": 2017,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [
+      {
+        "source": "Previously published source evidence",
+        "urls": [
+          "https://startupmap.one/startup/advertio_pt"
+        ],
+        "year": 2017
+      }
+    ],
+    "location_evidence": [
+      "Lisbon office listed by StartupMap",
+      "StartupBlink lists the city as Lisbon"
+    ],
+    "location_status": "Source lists Lisbon",
+    "municipality": "Lisboa",
+    "name": "Advertio",
+    "observed_date": "2026-11-23",
+    "possible_duplicate": false,
+    "quality_notes": [],
+    "sector_tags": [
+      "AI",
+      "Marketing & Media"
+    ],
+    "source_ids": [
+      "StartupBlink:289675",
+      "StartupMap:advertio_pt"
+    ],
+    "source_sector_labels": [
+      "Adtech",
+      "Company website: AI/ML product",
+      "Marketing & Sales",
+      "Sales & marketing tech"
+    ],
+    "source_urls": [
+      "https://advertio.com",
+      "https://startupmap.one/startup/advertio_pt",
+      "https://www.startupblink.com/top-startups/lisbon-pt/marketing-sales"
+    ],
+    "sources": [
+      "StartupBlink",
+      "StartupMap"
+    ],
+    "startup_id": "82ab808e80112c18bdd5ba3b",
+    "website": "https://advertio.com",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
+  },
+  {
+    "ai_tag": true,
+    "description": "Plataforma de estudo online com exercícios de exames nacionais com resolução passo a passo, estatísticas de progresso e, na versão Premium, um explicador de IA disponível 24/7.",
     "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
     "location_evidence": [
-      "Listed in Lisboa by Lisboa Startups"
+      "Web Summit Lisbon 2026 listing gives Lisbon"
     ],
     "location_status": "Source lists Lisbon",
-    "name": "Pricious",
+    "municipality": "Lisboa",
+    "name": "Mestre Panda",
     "observed_date": "2026-11-23",
     "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Lisboa Startups:/startups/pricious"
+    "quality_notes": [],
+    "sector_tags": [
+      "Education",
+      "AI"
     ],
-    "source_sector_labels": null,
+    "source_ids": [
+      "Web Summit Lisbon 2026:104615"
+    ],
+    "source_sector_labels": [
+      "Company website: AI/ML product"
+    ],
     "source_urls": [
-      "https://lisbon.startups-list.com/startups/pricious"
+      "https://attend.websummit.com/lis26/company/104615",
+      "https://mestrepanda.pt"
     ],
     "sources": [
-      "Lisboa Startups"
+      "Web Summit Lisbon 2026"
     ],
-    "startup_id": "a4f0799a9cde3c0e4ddb69ee",
-    "website": "http://www.pricious.com/"
+    "startup_id": "6c1c604c0d24942f3562ed55",
+    "website": "https://mestrepanda.pt",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-24",
+    "website_status": "live"
   },
   {
-    "ai_tag": null,
-    "description": "IT solutions and consulting services specialising in corporate software management and licensing contracts",
-    "founded_year": 2000,
+    "ai_tag": false,
+    "description": "Motorista connects vehicle owners with verified TVDE drivers, helping both sides agree on clear terms and track documents, schedules and weekly settlements.",
+    "founded_year": null,
+    "founded_year_conflict": null,
+    "founded_year_evidence": [],
     "location_evidence": [
-      "Dealroom ranks it with Lisbon headquarters"
+      "Lisboa, Portugal printed in official 2026 cohort booklet",
+      "Rua A, Lote 66, Armazém RC, Quinta São João das Areias, 2685-012 Sacavém, Portugal | https://motorista.club/en/legal-center",
+      "Web Summit Lisbon 2026 listing gives Lisbon"
     ],
     "location_status": "Source lists Lisbon",
-    "name": "Bizdirect",
+    "municipality": "Loures",
+    "name": "Motorista",
     "observed_date": "2026-11-23",
     "possible_duplicate": false,
-    "sector_tags": null,
-    "source_ids": [
-      "Dealroom:/companies/bizdirect/"
+    "quality_notes": [],
+    "sector_tags": [
+      "Transport & Logistics"
     ],
-    "source_sector_labels": null,
+    "source_ids": [
+      "Company website:https://motorista.club",
+      "Startup Portugal booklet:076",
+      "Web Summit Lisbon 2026:104968"
+    ],
+    "source_sector_labels": [
+      "MOBILITY, TRANSPORTATION & LOGISTICS"
+    ],
     "source_urls": [
-      "https://dealroom.co/companies/bizdirect/"
+      "https://attend.websummit.com/lis26/company/104968",
+      "https://motorista.club/en/legal-center",
+      "https://startupportugal.com/wp-content/uploads/2026/11/R2WS-Startup-Booklet-2026.pdf#page=76"
     ],
     "sources": [
-      "Dealroom"
+      "Company website",
+      "Startup Portugal booklet",
+      "Web Summit Lisbon 2026"
     ],
-    "startup_id": "5434ec4128a539ef5445dc9d",
-    "website": null
+    "startup_id": "1beb40d56519024145e18b08",
+    "website": "https://motorista.club",
+    "website_check_note": "Reused recent live website observation.",
+    "website_checked_date": "2026-11-23",
+    "website_status": "live"
   }
 ]

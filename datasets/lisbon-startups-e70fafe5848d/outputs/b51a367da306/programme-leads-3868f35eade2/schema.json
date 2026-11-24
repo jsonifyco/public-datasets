@@ -33,11 +33,11 @@
   },
   {
     "name": "location_evidence",
-    "type": "text"
+    "type": "jsonb"
   },
   {
     "name": "founded_year",
-    "type": "text"
+    "type": "integer"
   },
   {
     "name": "sources",
@@ -57,6 +57,34 @@
   },
   {
     "name": "observed_date",
+    "type": "text"
+  },
+  {
+    "name": "quality_notes",
+    "type": "jsonb"
+  },
+  {
+    "name": "founded_year_evidence",
+    "type": "jsonb"
+  },
+  {
+    "name": "founded_year_conflict",
+    "type": "text"
+  },
+  {
+    "name": "municipality",
+    "type": "text"
+  },
+  {
+    "name": "website_status",
+    "type": "text"
+  },
+  {
+    "name": "website_check_note",
+    "type": "text"
+  },
+  {
+    "name": "website_checked_date",
     "type": "text"
   }
 ]

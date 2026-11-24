@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Public online booking\-page data for Vancouver\-area golf tee times and advertised green fees\. The published table contains 2,897 records; prices are in Canadian dollars\.
+Public online booking\-page data for Vancouver\-area golf tee times and advertised green fees\. Prices are in Canadian dollars\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/golf-vancouver-courses-available-tee-times-9decbad0c781?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Public online booking\-page data for Vancouver\-area golf tee times and advertis
 
 ## The brief
 
-> I need this data: Public online booking\-page data for Vancouver\-area golf tee times and advertised green fees\. The published table contains 2,897 records; prices are in Canadian dollars\.
+> I need this data: Public online booking\-page data for Vancouver\-area golf tee times and advertised green fees\. Prices are in Canadian dollars\.
 
 Summary from the public dataset description.
 

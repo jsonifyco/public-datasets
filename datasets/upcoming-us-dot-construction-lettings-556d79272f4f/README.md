@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A combined table of advertised highway construction contracts from state DOTs, with letting dates, project details and published estimates where available\. The published lettings table contains 229 contract rows\.
+A combined table of advertised highway construction contracts from state DOTs, with letting dates, project details and published estimates where available\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/upcoming-us-dot-construction-lettings-556d79272f4f?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A combined table of advertised highway construction contracts from state DOTs, w
 
 ## The brief
 
-> I need this data: A combined table of advertised highway construction contracts from state DOTs, with letting dates, project details and published estimates where available\. The published lettings table contains 229 contract rows\.
+> I need this data: A combined table of advertised highway construction contracts from state DOTs, with letting dates, project details and published estimates where available\.
 
 Summary from the public dataset description.
 

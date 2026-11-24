@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Texas Department of Insurance receivership listings and the Texas Property and Casualty Insurance Guaranty Association liquidation directory, with published placement, liquidation and closure dates where available\. The dataset contains 702 rows across its published tables and can be exported to CSV or Google Sheets\.
+Texas Department of Insurance receivership listings and the Texas Property and Casualty Insurance Guaranty Association liquidation directory, with published placement, liquidation and closure dates where available\. The dataset can be exported to CSV or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/texas-insurance-company-receiverships-e519ee9a85b0?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Texas Department of Insurance receivership listings and the Texas Property and C
 
 ## The brief
 
-> I need this data: Texas Department of Insurance receivership listings and the Texas Property and Casualty Insurance Guaranty Association liquidation directory, with published placement, liquidation and closure dates where available\. The dataset contains 702 rows across its published tables and can be exported to CSV or Google Sheets\.
+> I need this data: Texas Department of Insurance receivership listings and the Texas Property and Casualty Insurance Guaranty Association liquidation directory, with published placement, liquidation and closure dates where available\. The dataset can be exported to CSV or Google Sheets\.
 
 Summary from the public dataset description.
 

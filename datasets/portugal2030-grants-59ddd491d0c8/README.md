@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Portugal2030 grant notices with status, deadlines, funding allocations, programmes, objectives and linked documents\. The published grants table contains 1,521 rows\.
+Portugal2030 grant notices with status, deadlines, funding allocations, programmes, objectives and linked documents\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/portugal2030-grants-59ddd491d0c8?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Portugal2030 grant notices with status, deadlines, funding allocations, programm
 
 ## The brief
 
-> I need this data: Portugal2030 grant notices with status, deadlines, funding allocations, programmes, objectives and linked documents\. The published grants table contains 1,521 rows\.
+> I need this data: Portugal2030 grant notices with status, deadlines, funding allocations, programmes, objectives and linked documents\.
 
 Summary from the public dataset description.
 

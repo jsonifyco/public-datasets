@@ -1,13 +1,20 @@
 collected_at,currency,keyword,merchant,original_price,price,product_title,rank,rating,review_count
 2026-11-14T21:19:58.249590+00:00,USD,air fryer,Kroger,,34.99,Chefman TurboFry Touch 6-Quart Easy-View Air Fryer - Thanksgiving Essentials,7,4.5,575
 2026-11-14T21:46:39.759306+00:00,USD,carry on luggage,NOBL Travel,,289,"Silver Carry On Luggage - 20.5"" Best Multi Functional Carry On Suitcase with Polycarbonate Shell & Battery Charger with Capacity 35L by NOBL Travel",1,,
+2026-11-24T14:18:14.089841+00:00,USD,portable power station,UDPower,,579.99,1200W Portable power Station for Camping | 1200W Solar Generator for RV Camping,6,4.6,403
 2026-11-14T21:46:30.268001+00:00,USD,weighted blanket,Bare Home,92,73.59,"Bare Home Cotton Weighted Blanket, 12 lb, 48""x72"", Sand – Glass Bead Weighted Blanket with Stitched Pockets",8,,
 2026-11-14T21:47:01.404729+00:00,USD,portable power station,UDPower,,529.99,1200W Portable power Station for Camping | 1200W Solar Generator for RV Camping,8,4.6,397
+2026-11-23T14:02:13.210679+00:00,USD,standing desk,huanuo.com,600,569.99,"59"" Premium Henge Standing Desk Fluted Black Walnut",8,,
 2026-11-14T21:40:54.272933+00:00,USD,air fryer,Walmart,70,54.99,"Air Fryer 8 Quart 8qt, 8-in-1 Multifunction Cooking Modes, Digital Touch Panel, Easy-Viewing Window, Max 400 Fast Heat, 1700w, Black",6,,
+2026-11-24T14:12:33.541122+00:00,USD,yoga mat,lululemon,,118,lululemon The Mat 5mm Made With FSC Certified Rubber - One Size - Mahogany Muse,8,4.7,900
 2026-11-14T21:47:55.420111+00:00,USD,water flosser,Walmart,48,29.99,"Waterpik Cordless 1100 Rechargeable Water Flosser with 2 Settings, ADA Accepted, White",1,4.2,271
 2026-11-16T14:07:14.028816+00:00,USD,noise cancelling headphones,Bose,359,169,Bose QuietComfort Headphones - Cypress Green,1,4.6,7k+
+2026-11-24T14:11:08.164789+00:00,USD,air fryer,Cosori,120,89.98,TurboBlaze 6.0-Quart Air Fryer - Dark Gray,1,4.6,51
+2026-11-24T14:17:03.831646+00:00,USD,dash cam,Target,100,84.99,Dash Cam Front and Rear 1080p Full HD | Rexing DT2 170° Lens Car Camera,1,4.6,1k+
+2026-11-24T14:14:09.337792+00:00,USD,protein powder,Clean Simple Eats,,49.99,Protein Powder: Simply Vanilla | 20 Serving Bag By Clean Simple Eats,4,4.5,8k+
 2026-11-16T14:15:02.803146+00:00,USD,weighted blanket,Walmart,,35.49,"Teler Weighted Blanket for Adult (20lbs 60.2 inchx80.2 inch Queen Size Grey) ,Cooling Breathable Heavy Blanket, Gray",2,4.4,22
 2026-11-16T14:19:42.409642+00:00,USD,dash cam,Target,100,89.99,Dash Cam Front and Rear 1080p Full HD | Rexing DT2 170° Lens Car Camera,3,4.6,1k+
+2026-11-23T14:02:13.210679+00:00,USD,standing desk,FlexiSpot.com,290,109.99,FlexiSpot E2 Pro Electric Standing Desk - Affordable and Efficient | 48×30 inch Maple Desktop & White Frame | Ideal for Home Office,1,4.8,2k+
 2026-11-14T21:46:50.578576+00:00,USD,dash cam,Helius Shop,,149.97,"Best Dash Cam 2026 4K Front and Rear, Top Rated Dashboard Camera, Night Vision, GPS, Parking Mode, G-Sensor, Loop Recording, WiFi App, Easy Install",6,5,2k+
 2026-11-16T14:03:56.686970+00:00,USD,air fryer,Walmart,,37.99,"Chefman TurboFry 3-in-1 Air Fryer, 450f Max Temp with 3.5 Qt. Nonstick Basket Black",10,4.4,125
 2026-11-14T21:47:24.177090+00:00,USD,electric bike,Walmart,,299.98,"Owngold Electric Bike for Adult, 749w Peak Motor, 20 Mph, 40 Miles Range, 36V 12ah Removable Battery,7-Speed Ebike,26 inch Tires,UL2849, Size: 4 in,",7,3.8,24
@@ -16,36 +23,29 @@ collected_at,currency,keyword,merchant,original_price,price,product_title,rank,r
 2026-11-16T14:15:02.803146+00:00,USD,weighted blanket,Bare Home,80,63.99,"Bare Home Cotton Weighted Blanket, 17 lb, 60""x80"", Light Grey – Glass Bead Weighted Blanket with Stitched Pockets",5,,
 2026-11-14T21:40:21.855335+00:00,USD,robot vacuum,iRobot.com,700,399.99,Roomba Max 715 Vac Robot + AutoEmpty Dock | Self Emptying Robot Vacuum for Pet Hair | High Suction | iRobot | Black,10,4.6,41
 2026-11-14T21:19:07.253573+00:00,USD,air purifier,Walmart,,59.89,"Renpho Hepa Air Purifier for Large Room up to 1400 Sq.ft, Air Purifier for Allergies and Asthma with Sleep Mode, Remove 99.9% Smokers, Dust, Pet Hair,",8,4.8,12
+2026-11-24T14:11:08.164789+00:00,USD,air fryer,Target,40,29.99,Gourmia Digital 3qt Air Fryer with Guided Cooking Prompts Black/Stainless Steel Finish,10,3.8,200
 2026-11-16T14:06:38.487168+00:00,USD,electric toothbrush,Kohl's,,19.99,Philips Sonicare 1100 | Rechargeable Electric Toothbrush | Plaque Removal,3,4.3,2k+
 2026-11-16T14:03:56.686970+00:00,USD,air fryer,Our Place,325,275,"Wonder Oven Pro Air Fryer & Toaster Oven Combo | Non-Toxic, 30L Countertop Oven | Stainless Steel Interior | Blue Salt | Our Place",9,4.4,614
+2026-11-24T14:10:00.862428+00:00,USD,ergonomic office chair,Staples,330,145.99,"Staples Ergonomic Task Chair, Mesh, Ergonomic, Lumbar Support, Gray (UN61365)",1,4.4,5k+
+2026-11-24T14:18:14.089841+00:00,USD,portable power station,Walmart,,1059,"Ef EcoFlow Portable Power Station Delta 3 Max (Detachable Wheels) with 160w Solar Panel, 2048Wh LiFePO4 Battery, Solar Generator, 3400w X-Boost Output",5,,
 2026-11-14T21:23:37.836860+00:00,USD,water flosser,Walmart,,21.59,"Water Flosser,Irrigador Dental with 4 Modes,6 Jet Tips, 300ml Tank & Ipx7 Waterproof Water Flossers for Teeth(White)",7,4.8,37
 2026-11-14T21:47:01.404729+00:00,USD,portable power station,Anker SOLIX,,1699.99,Anker SOLIX F3000 Portable Power Station (UL9540 Certificated),9,4.2,42
+2026-11-24T14:12:33.541122+00:00,USD,yoga mat,Target,30,18,"Premium Fitness Yoga Mat 15mm Orange - All In Motion : Standard Size, Low Tack Grip, Solid Pattern",2,4,182
 2026-11-16T14:07:14.028816+00:00,USD,noise cancelling headphones,Target,360,169.99,Bose QuietComfort Bluetooth Wireless Noise Cancelling Headphones - Green,4,4.6,7k+
 2026-11-14T21:19:59.768986+00:00,USD,espresso machine,Kohl's,,449.99,"Ninja Luxe Café Mini Espresso Machine & Drip Coffee Maker with Built-in Grinder and Manual Steam Wand, Black",10,4.7,82
 2026-11-16T14:06:38.487168+00:00,USD,electric toothbrush,SURI,,135,"SURI Pro 2.0 Electric Toothbrush + Cleaning Travel Case—Clinically-Tested Sonic Clean, Up to 4-Week Battery, Pressure Sensor, Plant-Based Heads –",5,4.7,9k+
+2026-11-24T14:18:50.378489+00:00,USD,electric bike,Qlife Ebike,,659,Electric Bike for Adults 1800W Peak 28MPH 20x4.0 Fat Tire Full Suspension Ebike 48V 15.6Ah Shimano 7-Speed White / Standard,9,,
+2026-11-24T14:12:33.541122+00:00,USD,yoga mat,Manduka,,144,"Manduka PRO Yoga Mat 6mm Black Sage (Green) / Standard 71"" (180cm)",4,4.4,6k+
+2026-11-24T14:16:40.115344+00:00,USD,carry on luggage,Away,275,206,Away Carry-On Suitcase in Coast Blue,2,,
 2026-11-14T21:44:59.155556+00:00,USD,yoga mat,Manduka,,144,"Manduka PRO Yoga Mat 6mm Black Sage (Green) / Standard 71"" (180cm)",4,4.5,7k+
+2026-11-24T14:10:11.746567+00:00,USD,air purifier,Sans,,328.99,"Sans Air Purifier for Home - HEPA Air Purifier for Pets, Dust, Allergies & Odors - White",2,4.9,4k+
 2026-11-14T21:38:48.090253+00:00,USD,ergonomic office chair,Wayfair,,199.99,Katrein Ergonomic Heated Massage Executive Chair Inbox Zero Upholstery Color: Beige,8,4.1,634
+2026-11-24T14:12:33.541122+00:00,USD,yoga mat,Liforme,165,140.25,Liforme Classic Yoga Mat | Liforme Pink,3,4.8,4k+
 2026-11-16T14:01:22.423085+00:00,USD,standing desk,Walmart,,119.99,"Amadwell 55 inch Electric Height Adjustable Standing Desk, 27.6 inch Deep Work Table with Cable Management, Home Office Desks, Size: 55 inch(no",4,,
+2026-11-24T14:16:40.115344+00:00,USD,carry on luggage,Walmart,,52.99,"Smicure Carry On Luggage Set 5 Piece with Spinner Wheel, Hardside Lightweight Suitcase with Duffel Bag and Travel Essentials, Blue, Size: Large",6,3.8,77
 2026-11-14T21:40:21.855335+00:00,USD,robot vacuum,Target,450,179.99,"iRobot Roomba 205 DustCompactor Cordless Vacuum U112020 5.8"" Cleaning Path Black",7,3.6,167
 2026-11-14T21:47:24.177090+00:00,USD,electric bike,aipasbike,,899,"1800W, 85Miles, 48V 17.5Ah, 30+ Mph, Aipas M2 Pro Xterrain Fat Tire Electric Bikes, eBikes for Big Guys",8,4.8,1k+
+2026-11-24T14:18:50.378489+00:00,USD,electric bike,Walmart,190,149.99,"500w Foldable Commuter Electric Bike with Basket for Adults,14 inch Tires, 36V 12Ah Battery, 19.9 mph, 35 Miles Range, Suitable for Commuting,",10,,
 2026-11-16T14:02:04.986262+00:00,USD,robot vacuum,iRobot.com,,1199.99,Roomba Max 875 Combo Robot + AutoWash Dock | Self-Cleaning Mop and Vacuum | iRobot,1,4.8,18
 2026-11-14T21:40:21.855335+00:00,USD,robot vacuum,iRobot.com,1000,699.99,Roomba Max 775 Combo Robot + AutoWash Dock | AI Robot Vacuum | Roller Mop | iRobot,2,4.3,46
 2026-11-16T14:06:38.487168+00:00,USD,electric toothbrush,Target,,49.99,Oral-B Pro 1000 Power Rechargeable Battery Electric Toothbrush with Multiple Modes - White,6,4.4,5k+
-2026-11-14T21:39:12.085677+00:00,USD,air purifier,Home Depot,,159,"Windmill The Air Purifier 3-in-1, Ultra-Quiet, Medical Grade, True HEPA Filter, AHAM Verifide, Up to 975 Sq Ft, in Navy",3,4.8,116
-2026-11-14T21:23:37.836860+00:00,USD,water flosser,Target,,39.99,Waterpik Cordless 1000 Water Flosser - Blue/White,1,4.1,615
-2026-11-14T21:40:21.855335+00:00,USD,robot vacuum,Dyson Official,550,449.99,Dyson R1 Nurovi Dry robot vacuum (Light grey/ Vinca Blue),1,4.1,72
-2026-11-16T14:14:04.082115+00:00,USD,mattress topper,Turmerry,99,84.15,"Turmerry Organic Latex Mattress Topper, 7 Zone Dunlop, GOLS Certified, Twin / 2 Inch Natural Latex / Soft",5,,
-2026-11-16T14:06:38.487168+00:00,USD,electric toothbrush,Target,60,44.99,Oral-B iO Series 2 Electric Toothbrush with Timer and Multiple Brush Modes - Midnight Blue,7,4.1,2k+
-2026-11-14T21:46:39.759306+00:00,USD,carry on luggage,Samsonite,,119.99,Samsonite Carry-On Luggage | Voltage Dlx Global Spinner | White | Carry-On Suitcase,5,4.3,1k+
-2026-11-14T21:46:08.136852+00:00,USD,mattress topper,Turmerry,99,84.15,"Turmerry Organic Latex Mattress Topper, 7 Zone Dunlop, GOLS Certified, Twin / 2 Inch Natural Latex / Soft",8,,
-2026-11-16T14:07:14.028816+00:00,USD,noise cancelling headphones,Best Buy,359,169,Bose QuietComfort Wireless Noise Cancelling Headphones | Cypress Green,9,4.6,7k+
-2026-11-16T14:06:38.487168+00:00,USD,electric toothbrush,Target,90,69.99,Oral-B iO3 Electric Toothbrush with Timer Multiple Brush Modes and Brush Head - Black,1,4.4,4k+
-2026-11-14T21:47:24.177090+00:00,USD,electric bike,Walmart,,699.99,"Eskute Electric Tricycle for Adults, 750w Peak Motor 18mph, Up to 55 Miles Range, 624Wh Removable Battery, Folding 3-Wheel Ebike with 18x3.0 Fat Tires",6,3.6,69
-2026-11-14T21:41:50.795500+00:00,USD,electric toothbrush,Best Buy,50,39.99,Philips Sonicare - 4100 Power Toothbrush - White,3,4.2,5k+
-2026-11-14T21:40:54.272933+00:00,USD,air fryer,Walmart,86,47.39,"Air Fryer Oven, 10-in-1 7.5qt Multifunction Air Fryer with Digital LED Touch Screen, 10 Preset Cookings, Dishwasher-Safe Basket, 95% Less Oil,",2,2.8,4
-2026-11-14T21:40:30.485414+00:00,USD,espresso machine,Williams-Sonoma,230,149.95,De'Longhi Classic Signature Espresso Machine | Holiday Espresso Machines,8,4.5,638
-2026-11-14T21:19:14.930848+00:00,USD,robot vacuum,Kohl's,,279.99,"Shark Navigator Robot Vacuum and Self-Empty Base with Bagless, 60-Day Capacity Self-Empty Base and SmartPath Navigation (RV2120AE), Gray",2,4,128
-2026-11-16T14:14:04.082115+00:00,USD,mattress topper,Saatva,,292,Mattress Topper w/ Micro-Coils | Saatva,7,4.7,199
-2026-11-16T14:06:38.487168+00:00,USD,electric toothbrush,Walmart,,19.99,"Oasismile Sonic Electric Toothbrush for Adults and Teens, Travel Rechargeable 42000 VPM Power Tooth Brush with 5 Modes, 90 Days Battery Life, 6 Brush",8,4.7,173
-2026-11-14T21:37:53.080045+00:00,USD,mesh wifi router,Starlink,,199,Starlink Mini Kit – Portable Internet with Built-in Wi-Fi Router,1,,
-2026-11-14T21:47:01.404729+00:00,USD,portable power station,Walmart,,239.99,"Vtoman Jump 600x Portable Power Station 600w, 268.8Wh LiFePO4 Battery, Solar Generator for Home&Camping Backup, Rvs, Outdoors, Size: JUMP600X, Black",3,4.7,70

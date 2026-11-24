@@ -24,6 +24,18 @@
     "review_count": null
   },
   {
+    "collected_at": "2026-11-24T14:18:14.089841+00:00",
+    "currency": "USD",
+    "keyword": "portable power station",
+    "merchant": "UDPower",
+    "original_price": null,
+    "price": 579.99,
+    "product_title": "1200W Portable power Station for Camping | 1200W Solar Generator for RV Camping",
+    "rank": 6,
+    "rating": 4.6,
+    "review_count": "403"
+  },
+  {
     "collected_at": "2026-11-14T21:46:30.268001+00:00",
     "currency": "USD",
     "keyword": "weighted blanket",
@@ -48,6 +60,18 @@
     "review_count": "397"
   },
   {
+    "collected_at": "2026-11-23T14:02:13.210679+00:00",
+    "currency": "USD",
+    "keyword": "standing desk",
+    "merchant": "huanuo.com",
+    "original_price": 600,
+    "price": 569.99,
+    "product_title": "59\" Premium Henge Standing Desk Fluted Black Walnut",
+    "rank": 8,
+    "rating": null,
+    "review_count": null
+  },
+  {
     "collected_at": "2026-11-14T21:40:54.272933+00:00",
     "currency": "USD",
     "keyword": "air fryer",
@@ -58,6 +82,18 @@
     "rank": 6,
     "rating": null,
     "review_count": null
+  },
+  {
+    "collected_at": "2026-11-24T14:12:33.541122+00:00",
+    "currency": "USD",
+    "keyword": "yoga mat",
+    "merchant": "lululemon",
+    "original_price": null,
+    "price": 118,
+    "product_title": "lululemon The Mat 5mm Made With FSC Certified Rubber - One Size - Mahogany Muse",
+    "rank": 8,
+    "rating": 4.7,
+    "review_count": "900"
   },
   {
     "collected_at": "2026-11-14T21:47:55.420111+00:00",
@@ -84,6 +120,42 @@
     "review_count": "7k+"
   },
   {
+    "collected_at": "2026-11-24T14:11:08.164789+00:00",
+    "currency": "USD",
+    "keyword": "air fryer",
+    "merchant": "Cosori",
+    "original_price": 120,
+    "price": 89.98,
+    "product_title": "TurboBlaze 6.0-Quart Air Fryer - Dark Gray",
+    "rank": 1,
+    "rating": 4.6,
+    "review_count": "51"
+  },
+  {
+    "collected_at": "2026-11-24T14:17:03.831646+00:00",
+    "currency": "USD",
+    "keyword": "dash cam",
+    "merchant": "Target",
+    "original_price": 100,
+    "price": 84.99,
+    "product_title": "Dash Cam Front and Rear 1080p Full HD | Rexing DT2 170° Lens Car Camera",
+    "rank": 1,
+    "rating": 4.6,
+    "review_count": "1k+"
+  },
+  {
+    "collected_at": "2026-11-24T14:14:09.337792+00:00",
+    "currency": "USD",
+    "keyword": "protein powder",
+    "merchant": "Clean Simple Eats",
+    "original_price": null,
+    "price": 49.99,
+    "product_title": "Protein Powder: Simply Vanilla | 20 Serving Bag By Clean Simple Eats",
+    "rank": 4,
+    "rating": 4.5,
+    "review_count": "8k+"
+  },
+  {
     "collected_at": "2026-11-16T14:15:02.803146+00:00",
     "currency": "USD",
     "keyword": "weighted blanket",
@@ -106,6 +178,18 @@
     "rank": 3,
     "rating": 4.6,
     "review_count": "1k+"
+  },
+  {
+    "collected_at": "2026-11-23T14:02:13.210679+00:00",
+    "currency": "USD",
+    "keyword": "standing desk",
+    "merchant": "FlexiSpot.com",
+    "original_price": 290,
+    "price": 109.99,
+    "product_title": "FlexiSpot E2 Pro Electric Standing Desk - Affordable and Efficient | 48×30 inch Maple Desktop & White Frame | Ideal for Home Office",
+    "rank": 1,
+    "rating": 4.8,
+    "review_count": "2k+"
   },
   {
     "collected_at": "2026-11-14T21:46:50.578576+00:00",
@@ -204,6 +288,18 @@
     "review_count": "12"
   },
   {
+    "collected_at": "2026-11-24T14:11:08.164789+00:00",
+    "currency": "USD",
+    "keyword": "air fryer",
+    "merchant": "Target",
+    "original_price": 40,
+    "price": 29.99,
+    "product_title": "Gourmia Digital 3qt Air Fryer with Guided Cooking Prompts Black/Stainless Steel Finish",
+    "rank": 10,
+    "rating": 3.8,
+    "review_count": "200"
+  },
+  {
     "collected_at": "2026-11-16T14:06:38.487168+00:00",
     "currency": "USD",
     "keyword": "electric toothbrush",
@@ -228,6 +324,30 @@
     "review_count": "614"
   },
   {
+    "collected_at": "2026-11-24T14:10:00.862428+00:00",
+    "currency": "USD",
+    "keyword": "ergonomic office chair",
+    "merchant": "Staples",
+    "original_price": 330,
+    "price": 145.99,
+    "product_title": "Staples Ergonomic Task Chair, Mesh, Ergonomic, Lumbar Support, Gray (UN61365)",
+    "rank": 1,
+    "rating": 4.4,
+    "review_count": "5k+"
+  },
+  {
+    "collected_at": "2026-11-24T14:18:14.089841+00:00",
+    "currency": "USD",
+    "keyword": "portable power station",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 1059,
+    "product_title": "Ef EcoFlow Portable Power Station Delta 3 Max (Detachable Wheels) with 160w Solar Panel, 2048Wh LiFePO4 Battery, Solar Generator, 3400w X-Boost Output",
+    "rank": 5,
+    "rating": null,
+    "review_count": null
+  },
+  {
     "collected_at": "2026-11-14T21:23:37.836860+00:00",
     "currency": "USD",
     "keyword": "water flosser",
@@ -250,6 +370,18 @@
     "rank": 9,
     "rating": 4.2,
     "review_count": "42"
+  },
+  {
+    "collected_at": "2026-11-24T14:12:33.541122+00:00",
+    "currency": "USD",
+    "keyword": "yoga mat",
+    "merchant": "Target",
+    "original_price": 30,
+    "price": 18,
+    "product_title": "Premium Fitness Yoga Mat 15mm Orange - All In Motion : Standard Size, Low Tack Grip, Solid Pattern",
+    "rank": 2,
+    "rating": 4,
+    "review_count": "182"
   },
   {
     "collected_at": "2026-11-16T14:07:14.028816+00:00",
@@ -288,6 +420,42 @@
     "review_count": "9k+"
   },
   {
+    "collected_at": "2026-11-24T14:18:50.378489+00:00",
+    "currency": "USD",
+    "keyword": "electric bike",
+    "merchant": "Qlife Ebike",
+    "original_price": null,
+    "price": 659,
+    "product_title": "Electric Bike for Adults 1800W Peak 28MPH 20x4.0 Fat Tire Full Suspension Ebike 48V 15.6Ah Shimano 7-Speed White / Standard",
+    "rank": 9,
+    "rating": null,
+    "review_count": null
+  },
+  {
+    "collected_at": "2026-11-24T14:12:33.541122+00:00",
+    "currency": "USD",
+    "keyword": "yoga mat",
+    "merchant": "Manduka",
+    "original_price": null,
+    "price": 144,
+    "product_title": "Manduka PRO Yoga Mat 6mm Black Sage (Green) / Standard 71\" (180cm)",
+    "rank": 4,
+    "rating": 4.4,
+    "review_count": "6k+"
+  },
+  {
+    "collected_at": "2026-11-24T14:16:40.115344+00:00",
+    "currency": "USD",
+    "keyword": "carry on luggage",
+    "merchant": "Away",
+    "original_price": 275,
+    "price": 206,
+    "product_title": "Away Carry-On Suitcase in Coast Blue",
+    "rank": 2,
+    "rating": null,
+    "review_count": null
+  },
+  {
     "collected_at": "2026-11-14T21:44:59.155556+00:00",
     "currency": "USD",
     "keyword": "yoga mat",
@@ -298,6 +466,18 @@
     "rank": 4,
     "rating": 4.5,
     "review_count": "7k+"
+  },
+  {
+    "collected_at": "2026-11-24T14:10:11.746567+00:00",
+    "currency": "USD",
+    "keyword": "air purifier",
+    "merchant": "Sans",
+    "original_price": null,
+    "price": 328.99,
+    "product_title": "Sans Air Purifier for Home - HEPA Air Purifier for Pets, Dust, Allergies & Odors - White",
+    "rank": 2,
+    "rating": 4.9,
+    "review_count": "4k+"
   },
   {
     "collected_at": "2026-11-14T21:38:48.090253+00:00",
@@ -312,6 +492,18 @@
     "review_count": "634"
   },
   {
+    "collected_at": "2026-11-24T14:12:33.541122+00:00",
+    "currency": "USD",
+    "keyword": "yoga mat",
+    "merchant": "Liforme",
+    "original_price": 165,
+    "price": 140.25,
+    "product_title": "Liforme Classic Yoga Mat | Liforme Pink",
+    "rank": 3,
+    "rating": 4.8,
+    "review_count": "4k+"
+  },
+  {
     "collected_at": "2026-11-16T14:01:22.423085+00:00",
     "currency": "USD",
     "keyword": "standing desk",
@@ -322,6 +514,18 @@
     "rank": 4,
     "rating": null,
     "review_count": null
+  },
+  {
+    "collected_at": "2026-11-24T14:16:40.115344+00:00",
+    "currency": "USD",
+    "keyword": "carry on luggage",
+    "merchant": "Walmart",
+    "original_price": null,
+    "price": 52.99,
+    "product_title": "Smicure Carry On Luggage Set 5 Piece with Spinner Wheel, Hardside Lightweight Suitcase with Duffel Bag and Travel Essentials, Blue, Size: Large",
+    "rank": 6,
+    "rating": 3.8,
+    "review_count": "77"
   },
   {
     "collected_at": "2026-11-14T21:40:21.855335+00:00",
@@ -346,6 +550,18 @@
     "rank": 8,
     "rating": 4.8,
     "review_count": "1k+"
+  },
+  {
+    "collected_at": "2026-11-24T14:18:50.378489+00:00",
+    "currency": "USD",
+    "keyword": "electric bike",
+    "merchant": "Walmart",
+    "original_price": 190,
+    "price": 149.99,
+    "product_title": "500w Foldable Commuter Electric Bike with Basket for Adults,14 inch Tires, 36V 12Ah Battery, 19.9 mph, 35 Miles Range, Suitable for Commuting,",
+    "rank": 10,
+    "rating": null,
+    "review_count": null
   },
   {
     "collected_at": "2026-11-16T14:02:04.986262+00:00",
@@ -382,221 +598,5 @@
     "rank": 6,
     "rating": 4.4,
     "review_count": "5k+"
-  },
-  {
-    "collected_at": "2026-11-14T21:39:12.085677+00:00",
-    "currency": "USD",
-    "keyword": "air purifier",
-    "merchant": "Home Depot",
-    "original_price": null,
-    "price": 159,
-    "product_title": "Windmill The Air Purifier 3-in-1, Ultra-Quiet, Medical Grade, True HEPA Filter, AHAM Verifide, Up to 975 Sq Ft, in Navy",
-    "rank": 3,
-    "rating": 4.8,
-    "review_count": "116"
-  },
-  {
-    "collected_at": "2026-11-14T21:23:37.836860+00:00",
-    "currency": "USD",
-    "keyword": "water flosser",
-    "merchant": "Target",
-    "original_price": null,
-    "price": 39.99,
-    "product_title": "Waterpik Cordless 1000 Water Flosser - Blue/White",
-    "rank": 1,
-    "rating": 4.1,
-    "review_count": "615"
-  },
-  {
-    "collected_at": "2026-11-14T21:40:21.855335+00:00",
-    "currency": "USD",
-    "keyword": "robot vacuum",
-    "merchant": "Dyson Official",
-    "original_price": 550,
-    "price": 449.99,
-    "product_title": "Dyson R1 Nurovi Dry robot vacuum (Light grey/ Vinca Blue)",
-    "rank": 1,
-    "rating": 4.1,
-    "review_count": "72"
-  },
-  {
-    "collected_at": "2026-11-16T14:14:04.082115+00:00",
-    "currency": "USD",
-    "keyword": "mattress topper",
-    "merchant": "Turmerry",
-    "original_price": 99,
-    "price": 84.15,
-    "product_title": "Turmerry Organic Latex Mattress Topper, 7 Zone Dunlop, GOLS Certified, Twin / 2 Inch Natural Latex / Soft",
-    "rank": 5,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-16T14:06:38.487168+00:00",
-    "currency": "USD",
-    "keyword": "electric toothbrush",
-    "merchant": "Target",
-    "original_price": 60,
-    "price": 44.99,
-    "product_title": "Oral-B iO Series 2 Electric Toothbrush with Timer and Multiple Brush Modes - Midnight Blue",
-    "rank": 7,
-    "rating": 4.1,
-    "review_count": "2k+"
-  },
-  {
-    "collected_at": "2026-11-14T21:46:39.759306+00:00",
-    "currency": "USD",
-    "keyword": "carry on luggage",
-    "merchant": "Samsonite",
-    "original_price": null,
-    "price": 119.99,
-    "product_title": "Samsonite Carry-On Luggage | Voltage Dlx Global Spinner | White | Carry-On Suitcase",
-    "rank": 5,
-    "rating": 4.3,
-    "review_count": "1k+"
-  },
-  {
-    "collected_at": "2026-11-14T21:46:08.136852+00:00",
-    "currency": "USD",
-    "keyword": "mattress topper",
-    "merchant": "Turmerry",
-    "original_price": 99,
-    "price": 84.15,
-    "product_title": "Turmerry Organic Latex Mattress Topper, 7 Zone Dunlop, GOLS Certified, Twin / 2 Inch Natural Latex / Soft",
-    "rank": 8,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-16T14:07:14.028816+00:00",
-    "currency": "USD",
-    "keyword": "noise cancelling headphones",
-    "merchant": "Best Buy",
-    "original_price": 359,
-    "price": 169,
-    "product_title": "Bose QuietComfort Wireless Noise Cancelling Headphones | Cypress Green",
-    "rank": 9,
-    "rating": 4.6,
-    "review_count": "7k+"
-  },
-  {
-    "collected_at": "2026-11-16T14:06:38.487168+00:00",
-    "currency": "USD",
-    "keyword": "electric toothbrush",
-    "merchant": "Target",
-    "original_price": 90,
-    "price": 69.99,
-    "product_title": "Oral-B iO3 Electric Toothbrush with Timer Multiple Brush Modes and Brush Head - Black",
-    "rank": 1,
-    "rating": 4.4,
-    "review_count": "4k+"
-  },
-  {
-    "collected_at": "2026-11-14T21:47:24.177090+00:00",
-    "currency": "USD",
-    "keyword": "electric bike",
-    "merchant": "Walmart",
-    "original_price": null,
-    "price": 699.99,
-    "product_title": "Eskute Electric Tricycle for Adults, 750w Peak Motor 18mph, Up to 55 Miles Range, 624Wh Removable Battery, Folding 3-Wheel Ebike with 18x3.0 Fat Tires",
-    "rank": 6,
-    "rating": 3.6,
-    "review_count": "69"
-  },
-  {
-    "collected_at": "2026-11-14T21:41:50.795500+00:00",
-    "currency": "USD",
-    "keyword": "electric toothbrush",
-    "merchant": "Best Buy",
-    "original_price": 50,
-    "price": 39.99,
-    "product_title": "Philips Sonicare - 4100 Power Toothbrush - White",
-    "rank": 3,
-    "rating": 4.2,
-    "review_count": "5k+"
-  },
-  {
-    "collected_at": "2026-11-14T21:40:54.272933+00:00",
-    "currency": "USD",
-    "keyword": "air fryer",
-    "merchant": "Walmart",
-    "original_price": 86,
-    "price": 47.39,
-    "product_title": "Air Fryer Oven, 10-in-1 7.5qt Multifunction Air Fryer with Digital LED Touch Screen, 10 Preset Cookings, Dishwasher-Safe Basket, 95% Less Oil,",
-    "rank": 2,
-    "rating": 2.8,
-    "review_count": "4"
-  },
-  {
-    "collected_at": "2026-11-14T21:40:30.485414+00:00",
-    "currency": "USD",
-    "keyword": "espresso machine",
-    "merchant": "Williams-Sonoma",
-    "original_price": 230,
-    "price": 149.95,
-    "product_title": "De'Longhi Classic Signature Espresso Machine | Holiday Espresso Machines",
-    "rank": 8,
-    "rating": 4.5,
-    "review_count": "638"
-  },
-  {
-    "collected_at": "2026-11-14T21:19:14.930848+00:00",
-    "currency": "USD",
-    "keyword": "robot vacuum",
-    "merchant": "Kohl's",
-    "original_price": null,
-    "price": 279.99,
-    "product_title": "Shark Navigator Robot Vacuum and Self-Empty Base with Bagless, 60-Day Capacity Self-Empty Base and SmartPath Navigation (RV2120AE), Gray",
-    "rank": 2,
-    "rating": 4,
-    "review_count": "128"
-  },
-  {
-    "collected_at": "2026-11-16T14:14:04.082115+00:00",
-    "currency": "USD",
-    "keyword": "mattress topper",
-    "merchant": "Saatva",
-    "original_price": null,
-    "price": 292,
-    "product_title": "Mattress Topper w/ Micro-Coils | Saatva",
-    "rank": 7,
-    "rating": 4.7,
-    "review_count": "199"
-  },
-  {
-    "collected_at": "2026-11-16T14:06:38.487168+00:00",
-    "currency": "USD",
-    "keyword": "electric toothbrush",
-    "merchant": "Walmart",
-    "original_price": null,
-    "price": 19.99,
-    "product_title": "Oasismile Sonic Electric Toothbrush for Adults and Teens, Travel Rechargeable 42000 VPM Power Tooth Brush with 5 Modes, 90 Days Battery Life, 6 Brush",
-    "rank": 8,
-    "rating": 4.7,
-    "review_count": "173"
-  },
-  {
-    "collected_at": "2026-11-14T21:37:53.080045+00:00",
-    "currency": "USD",
-    "keyword": "mesh wifi router",
-    "merchant": "Starlink",
-    "original_price": null,
-    "price": 199,
-    "product_title": "Starlink Mini Kit – Portable Internet with Built-in Wi-Fi Router",
-    "rank": 1,
-    "rating": null,
-    "review_count": null
-  },
-  {
-    "collected_at": "2026-11-14T21:47:01.404729+00:00",
-    "currency": "USD",
-    "keyword": "portable power station",
-    "merchant": "Walmart",
-    "original_price": null,
-    "price": 239.99,
-    "product_title": "Vtoman Jump 600x Portable Power Station 600w, 268.8Wh LiFePO4 Battery, Solar Generator for Home&Camping Backup, Rvs, Outdoors, Size: JUMP600X, Black",
-    "rank": 3,
-    "rating": 4.7,
-    "review_count": "70"
   }
 ]

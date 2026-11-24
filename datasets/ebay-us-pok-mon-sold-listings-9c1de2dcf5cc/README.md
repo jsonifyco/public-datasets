@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes 7,851 listing rows and 180 per\-card summary rows \(8,031 rows total\)\.
+eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes listings and per\-card summaries\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ebay-us-pok-mon-sold-listings-9c1de2dcf5cc?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-23T09:09:47.179535Z
+- Last published: 2026-11-24T09:06:13.303473Z
 
 ## The brief
 
-> I need this data: eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes 7,851 listing rows and 180 per\-card summary rows \(8,031 rows total\)\.
+> I need this data: eBay US sold listings for Pokémon cards, with displayed sold price, shipping, sold date, listing format and Best Offer status\. Includes listings and per\-card summaries\.
 
 Summary from the public dataset description.
 
 ## eBay Pokémon sold sales and summaries / listings
 
-7,851 total rows · 50 sampled · Output revision 11
-Published: 2026-11-23T09:09:47.179535Z · Producing pipeline version: 3
+8,722 total rows · 50 sampled · Output revision 12
+Published: 2026-11-24T09:06:13.303473Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.csv) · [JSON sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.json) · [Schema](outputs/77b8757ad9a2/listings-8a836f245cd6/schema.json)
 
@@ -58,8 +58,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## eBay Pokémon sold sales and summaries / summaries
 
-180 total rows · 50 sampled · Output revision 11
-Published: 2026-11-23T09:09:47.179535Z · Producing pipeline version: 3
+200 total rows · 50 sampled · Output revision 12
+Published: 2026-11-24T09:06:13.303473Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.csv) · [JSON sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.json) · [Schema](outputs/77b8757ad9a2/summaries-c626a992e31b/schema.json)
 

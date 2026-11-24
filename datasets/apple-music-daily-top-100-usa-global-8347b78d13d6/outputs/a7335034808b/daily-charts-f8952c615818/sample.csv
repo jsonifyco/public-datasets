@@ -1,6 +1,7 @@
 chart,chart_date,position,song_title,artist,apple_music_song_id,apple_music_song_url,snapshot_key
 USA,2026-11-17,75,Passionfruit,Drake,1440891494,https://music.apple.com/us/song/passionfruit/1440891494,USA:2026-11-17:75
 USA,2026-11-21,69,God's Plan,Drake,1418213269,https://music.apple.com/us/song/gods-plan/1418213269,USA:2026-11-21:69
+Global,2026-11-24,34,WAIT FOR U (feat. Drake & Tems),Future,1621119447,https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447,Global:2026-11-24:34
 USA,2026-11-17,12,Stop The Wedding!,Ashe,6795697687,https://music.apple.com/us/song/stop-the-wedding/6795697687,USA:2026-11-17:12
 Global,2026-11-23,95,E85,Don Toliver,1871258330,https://music.apple.com/us/song/e85/1871258330,Global:2026-11-23:95
 USA,2026-11-23,79,E85,Don Toliver,1871258330,https://music.apple.com/us/song/e85/1871258330,USA:2026-11-23:79
@@ -14,17 +15,22 @@ USA,2026-11-21,74,Great Expectation,SIENNA SPIRO,6769552411,https://music.apple.
 USA,2026-11-23,4,Flower In A Hurricane [From GTAVI: Original Score],"Justice , Tame Impala , SZA , King Gizzard & The Lizard Wizard",6819802968,https://music.apple.com/us/song/flower-in-a-hurricane-from-gtavi-original-score/6819802968,USA:2026-11-23:4
 USA,2026-11-23,29,I'm The Problem,Morgan Wallen,1802103970,https://music.apple.com/us/song/im-the-problem/1802103970,USA:2026-11-23:29
 USA,2026-11-19,96,Controlla,Drake,1440841382,https://music.apple.com/us/song/controlla/1440841382,USA:2026-11-19:96
+USA,2026-11-24,80,Man I Need,Olivia Dean,1817609509,https://music.apple.com/us/song/man-i-need/1817609509,USA:2026-11-24:80
 USA,2026-11-17,35,Don't We,Morgan Wallen,1802104400,https://music.apple.com/us/song/dont-we/1802104400,USA:2026-11-17:35
 USA,2026-11-23,11,In A Minute,Lil Baby,1648587330,https://music.apple.com/us/song/in-a-minute/1648587330,USA:2026-11-23:11
 USA,2026-11-20,74,Mr. Brightside,The Killers,1526194192,https://music.apple.com/us/song/mr-brightside/1526194192,USA:2026-11-20:74
 USA,2026-11-18,37,Stick Talk,Future,1017055092,https://music.apple.com/us/song/stick-talk/1017055092,USA:2026-11-18:37
 Global,2026-11-23,41,Boston,STELLA LEFTY,1884403093,https://music.apple.com/us/song/boston/1884403093,Global:2026-11-23:41
 Global,2026-11-22,94,Power Trip (feat. Miguel),J. Cole,1529510489,https://music.apple.com/us/song/power-trip-feat-miguel/1529510489,Global:2026-11-22:94
+USA,2026-11-24,47,Just In Case,Morgan Wallen,1802103977,https://music.apple.com/us/song/just-in-case/1802103977,USA:2026-11-24:47
 USA,2026-11-18,42,"Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",Future,6831506154,https://music.apple.com/us/song/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506154,USA:2026-11-18:42
 Global,2026-11-17,90,Brand New,Mrs. GREEN APPLE,6788211810,https://music.apple.com/us/song/brand-new/6788211810,Global:2026-11-17:90
 USA,2026-11-23,52,Broken Clocks,SZA,1239976610,https://music.apple.com/us/song/broken-clocks/1239976610,USA:2026-11-23:52
+USA,2026-11-24,54,Cowgirls (feat. ERNEST),Morgan Wallen,1818426110,https://music.apple.com/us/song/cowgirls-feat-ernest/1818426110,USA:2026-11-24:54
+USA,2026-11-24,72,It's the Most Wonderful Time of the Year,Andy Williams,171434594,https://music.apple.com/us/song/its-the-most-wonderful-time-of-the-year/171434594,USA:2026-11-24:72
 USA,2026-11-19,16,WAIT FOR U (feat. Drake & Tems),Future,1621119447,https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447,USA:2026-11-19:16
 USA,2026-11-21,26,Underneath the Tree,Kelly Clarkson,720861445,https://music.apple.com/us/song/underneath-the-tree/720861445,USA:2026-11-21:26
+Global,2026-11-24,46,It's Beginning To Look a Lot Like Christmas,Michael Bublé,669854831,https://music.apple.com/us/song/its-beginning-to-look-a-lot-like-christmas/669854831,Global:2026-11-24:46
 Global,2026-11-18,79,Broken Clocks,SZA,1239976610,https://music.apple.com/us/song/broken-clocks/1239976610,Global:2026-11-18:79
 Global,2026-11-20,79,Power Trip (feat. Miguel),J. Cole,1529510489,https://music.apple.com/us/song/power-trip-feat-miguel/1529510489,Global:2026-11-20:79
 Global,2026-11-23,53,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,1440830243,https://music.apple.com/us/song/let-it-snow-let-it-snow-let-it-snow/1440830243,Global:2026-11-23:53
@@ -37,15 +43,9 @@ Global,2026-11-23,21,NEON,"A2O , A2O LITE",6820428730,https://music.apple.com/us
 USA,2026-11-20,4,BbY WOW,"KAROL G , Judeline , rusowsky",6796864754,https://music.apple.com/us/song/bby-wow/6796864754,USA:2026-11-20:4
 Global,2026-11-17,27,drop dead,Olivia Rodrigo,1889992113,https://music.apple.com/us/song/drop-dead/1889992113,Global:2026-11-17:27
 Global,2026-11-18,95,Blinding Lights,The Weeknd,1488408568,https://music.apple.com/us/song/blinding-lights/1488408568,Global:2026-11-18:95
+Global,2026-11-24,67,Marvins Room,Drake,1440642743,https://music.apple.com/us/song/marvins-room/1440642743,Global:2026-11-24:67
 USA,2026-11-23,56,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,1440830243,https://music.apple.com/us/song/let-it-snow-let-it-snow-let-it-snow/1440830243,USA:2026-11-23:56
 Global,2026-11-23,10,stupid song,Olivia Rodrigo,1889992115,https://music.apple.com/us/song/stupid-song/1889992115,Global:2026-11-23:10
 USA,2026-11-17,49,Knife Talk (feat. 21 Savage & Project Pat),Drake,1584281787,https://music.apple.com/us/song/knife-talk-feat-21-savage-project-pat/1584281787,USA:2026-11-17:49
 USA,2026-11-20,69,weren't for the wind,Ella Langley,1770160814,https://music.apple.com/us/song/werent-for-the-wind/1770160814,USA:2026-11-20:69
 USA,2026-11-17,50,Broken Clocks,SZA,1239976610,https://music.apple.com/us/song/broken-clocks/1239976610,USA:2026-11-17:50
-Global,2026-11-23,59,So Good (feat. Kendrick Lamar),Jhené Aiko,6810716062,https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062,Global:2026-11-23:59
-Global,2026-11-20,89,Perfect,Ed Sheeran,1193701400,https://music.apple.com/us/song/perfect/1193701400,Global:2026-11-20:89
-Global,2026-11-20,45,Orbiter,Noah Kahan,6762757958,https://music.apple.com/us/song/orbiter/6762757958,Global:2026-11-20:45
-Global,2026-11-17,88,Perfect,Ed Sheeran,1193701400,https://music.apple.com/us/song/perfect/1193701400,Global:2026-11-17:88
-Global,2026-11-19,93,Iris,The Goo Goo Dolls,267537169,https://music.apple.com/us/song/iris/267537169,Global:2026-11-19:93
-Global,2026-11-19,99,Starboy (feat. Daft Punk),The Weeknd,1440871420,https://music.apple.com/us/song/starboy-feat-daft-punk/1440871420,Global:2026-11-19:99
-Global,2026-11-21,77,"thank u, next",Ariana Grande,1450330686,https://music.apple.com/us/song/thank-u-next/1450330686,Global:2026-11-21:77

@@ -20,6 +20,16 @@
     "song_title": "God's Plan"
   },
   {
+    "apple_music_song_id": "1621119447",
+    "apple_music_song_url": "https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447",
+    "artist": "Future",
+    "chart": "Global",
+    "chart_date": "2026-11-24",
+    "position": 34,
+    "snapshot_key": "Global:2026-11-24:34",
+    "song_title": "WAIT FOR U (feat. Drake & Tems)"
+  },
+  {
     "apple_music_song_id": "6795697687",
     "apple_music_song_url": "https://music.apple.com/us/song/stop-the-wedding/6795697687",
     "artist": "Ashe",
@@ -150,6 +160,16 @@
     "song_title": "Controlla"
   },
   {
+    "apple_music_song_id": "1817609509",
+    "apple_music_song_url": "https://music.apple.com/us/song/man-i-need/1817609509",
+    "artist": "Olivia Dean",
+    "chart": "USA",
+    "chart_date": "2026-11-24",
+    "position": 80,
+    "snapshot_key": "USA:2026-11-24:80",
+    "song_title": "Man I Need"
+  },
+  {
     "apple_music_song_id": "1802104400",
     "apple_music_song_url": "https://music.apple.com/us/song/dont-we/1802104400",
     "artist": "Morgan Wallen",
@@ -210,6 +230,16 @@
     "song_title": "Power Trip (feat. Miguel)"
   },
   {
+    "apple_music_song_id": "1802103977",
+    "apple_music_song_url": "https://music.apple.com/us/song/just-in-case/1802103977",
+    "artist": "Morgan Wallen",
+    "chart": "USA",
+    "chart_date": "2026-11-24",
+    "position": 47,
+    "snapshot_key": "USA:2026-11-24:47",
+    "song_title": "Just In Case"
+  },
+  {
     "apple_music_song_id": "6831506154",
     "apple_music_song_url": "https://music.apple.com/us/song/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506154",
     "artist": "Future",
@@ -240,6 +270,26 @@
     "song_title": "Broken Clocks"
   },
   {
+    "apple_music_song_id": "1818426110",
+    "apple_music_song_url": "https://music.apple.com/us/song/cowgirls-feat-ernest/1818426110",
+    "artist": "Morgan Wallen",
+    "chart": "USA",
+    "chart_date": "2026-11-24",
+    "position": 54,
+    "snapshot_key": "USA:2026-11-24:54",
+    "song_title": "Cowgirls (feat. ERNEST)"
+  },
+  {
+    "apple_music_song_id": "171434594",
+    "apple_music_song_url": "https://music.apple.com/us/song/its-the-most-wonderful-time-of-the-year/171434594",
+    "artist": "Andy Williams",
+    "chart": "USA",
+    "chart_date": "2026-11-24",
+    "position": 72,
+    "snapshot_key": "USA:2026-11-24:72",
+    "song_title": "It's the Most Wonderful Time of the Year"
+  },
+  {
     "apple_music_song_id": "1621119447",
     "apple_music_song_url": "https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447",
     "artist": "Future",
@@ -258,6 +308,16 @@
     "position": 26,
     "snapshot_key": "USA:2026-11-21:26",
     "song_title": "Underneath the Tree"
+  },
+  {
+    "apple_music_song_id": "669854831",
+    "apple_music_song_url": "https://music.apple.com/us/song/its-beginning-to-look-a-lot-like-christmas/669854831",
+    "artist": "Michael Bublé",
+    "chart": "Global",
+    "chart_date": "2026-11-24",
+    "position": 46,
+    "snapshot_key": "Global:2026-11-24:46",
+    "song_title": "It's Beginning To Look a Lot Like Christmas"
   },
   {
     "apple_music_song_id": "1239976610",
@@ -380,6 +440,16 @@
     "song_title": "Blinding Lights"
   },
   {
+    "apple_music_song_id": "1440642743",
+    "apple_music_song_url": "https://music.apple.com/us/song/marvins-room/1440642743",
+    "artist": "Drake",
+    "chart": "Global",
+    "chart_date": "2026-11-24",
+    "position": 67,
+    "snapshot_key": "Global:2026-11-24:67",
+    "song_title": "Marvins Room"
+  },
+  {
     "apple_music_song_id": "1440830243",
     "apple_music_song_url": "https://music.apple.com/us/song/let-it-snow-let-it-snow-let-it-snow/1440830243",
     "artist": "Dean Martin",
@@ -428,75 +498,5 @@
     "position": 50,
     "snapshot_key": "USA:2026-11-17:50",
     "song_title": "Broken Clocks"
-  },
-  {
-    "apple_music_song_id": "6810716062",
-    "apple_music_song_url": "https://music.apple.com/us/song/so-good-feat-kendrick-lamar/6810716062",
-    "artist": "Jhené Aiko",
-    "chart": "Global",
-    "chart_date": "2026-11-23",
-    "position": 59,
-    "snapshot_key": "Global:2026-11-23:59",
-    "song_title": "So Good (feat. Kendrick Lamar)"
-  },
-  {
-    "apple_music_song_id": "1193701400",
-    "apple_music_song_url": "https://music.apple.com/us/song/perfect/1193701400",
-    "artist": "Ed Sheeran",
-    "chart": "Global",
-    "chart_date": "2026-11-20",
-    "position": 89,
-    "snapshot_key": "Global:2026-11-20:89",
-    "song_title": "Perfect"
-  },
-  {
-    "apple_music_song_id": "6762757958",
-    "apple_music_song_url": "https://music.apple.com/us/song/orbiter/6762757958",
-    "artist": "Noah Kahan",
-    "chart": "Global",
-    "chart_date": "2026-11-20",
-    "position": 45,
-    "snapshot_key": "Global:2026-11-20:45",
-    "song_title": "Orbiter"
-  },
-  {
-    "apple_music_song_id": "1193701400",
-    "apple_music_song_url": "https://music.apple.com/us/song/perfect/1193701400",
-    "artist": "Ed Sheeran",
-    "chart": "Global",
-    "chart_date": "2026-11-17",
-    "position": 88,
-    "snapshot_key": "Global:2026-11-17:88",
-    "song_title": "Perfect"
-  },
-  {
-    "apple_music_song_id": "267537169",
-    "apple_music_song_url": "https://music.apple.com/us/song/iris/267537169",
-    "artist": "The Goo Goo Dolls",
-    "chart": "Global",
-    "chart_date": "2026-11-19",
-    "position": 93,
-    "snapshot_key": "Global:2026-11-19:93",
-    "song_title": "Iris"
-  },
-  {
-    "apple_music_song_id": "1440871420",
-    "apple_music_song_url": "https://music.apple.com/us/song/starboy-feat-daft-punk/1440871420",
-    "artist": "The Weeknd",
-    "chart": "Global",
-    "chart_date": "2026-11-19",
-    "position": 99,
-    "snapshot_key": "Global:2026-11-19:99",
-    "song_title": "Starboy (feat. Daft Punk)"
-  },
-  {
-    "apple_music_song_id": "1450330686",
-    "apple_music_song_url": "https://music.apple.com/us/song/thank-u-next/1450330686",
-    "artist": "Ariana Grande",
-    "chart": "Global",
-    "chart_date": "2026-11-21",
-    "position": 77,
-    "snapshot_key": "Global:2026-11-21:77",
-    "song_title": "thank u, next"
   }
 ]

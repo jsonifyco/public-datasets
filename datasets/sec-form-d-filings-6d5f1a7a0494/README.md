@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. The published table contains 4,246 rows\.
+Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/sec-form-d-filings-6d5f1a7a0494?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, o
 
 ## The brief
 
-> I need this data: Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\. The published table contains 4,246 rows\.
+> I need this data: Search SEC Form D and Form D/A filings for issuer details, claimed exemptions, offering amounts, amounts sold, first\-sale dates and filing links\.
 
 Summary from the public dataset description.
 

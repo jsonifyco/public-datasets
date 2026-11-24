@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published dataset contains 1,182 rows across all tables\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
+SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/s-p-500-sec-8-k-filings-61608a881b67?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published dataset co
 
 ## The brief
 
-> I need this data: SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. The published dataset contains 1,182 rows across all tables\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
+> I need this data: SEC 8\-K and 8\-K/A filings for S&amp;P 500 companies\. Fields include filing date, event date, ticker, CIK, 8\-K items and descriptions, and a link to each filing on EDGAR\.
 
 Summary from the public dataset description.
 

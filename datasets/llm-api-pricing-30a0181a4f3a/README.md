@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\. 5,256 published rows\.
+LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/llm-api-pricing-30a0181a4f3a?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedr
 
 ## The brief
 
-> I need this data: LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\. 5,256 published rows\.
+> I need this data: LLM API token prices from 10 platforms, including OpenAI, Anthropic, Azure, Bedrock, Vertex AI and OpenRouter: input, output, cached and batch prices per 1 million tokens\.
 
 Summary from the public dataset description.
 

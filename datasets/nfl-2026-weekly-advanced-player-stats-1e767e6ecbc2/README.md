@@ -1,35 +1,35 @@
-# NFL player stats data: 2026 advanced stats dataset \(EPA, CPOE, target share\), refreshed weekly
+# NFL player stats: 2026 advanced stats dataset \(EPA, CPOE, target share\)
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-NFL 2026 regular\-season player stats as a weekly dataset: one row per player with passing, rushing and receiving totals, EPA, CPOE, air yards, target share and WOPR\. 559 players, from nflverse \(CC BY 4\.0\)\. Export to CSV, Excel or Google Sheets\.
+NFL 2026 regular\-season player stats, including passing, rushing and receiving totals, EPA, CPOE, air yards, target share and WOPR\. Source: nflverse \(CC BY 4\.0\)\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/nfl-2026-weekly-advanced-player-stats-1e767e6ecbc2?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-11-23T10:23:09.202121Z
+- Last published: 2026-11-24T10:00:34.106723Z
 
 ## The brief
 
-> I need this data: NFL 2026 regular\-season player stats as a weekly dataset: one row per player with passing, rushing and receiving totals, EPA, CPOE, air yards, target share and WOPR\. 559 players, from nflverse \(CC BY 4\.0\)\. Export to CSV, Excel or Google Sheets\.
+> I need this data: NFL 2026 regular\-season player stats, including passing, rushing and receiving totals, EPA, CPOE, air yards, target share and WOPR\. Source: nflverse \(CC BY 4\.0\)\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## NFL 2026 Advanced Player Stats History / player\_stats
 
-559 total rows · 50 sampled · Output revision 1
-Published: 2026-11-23T10:23:09.202121Z · Producing pipeline version: 1
+1,118 total rows · 50 sampled · Output revision 2
+Published: 2026-11-24T10:00:34.106723Z · Producing pipeline version: 1
 
 [CSV sample](outputs/d6fc2b3224fd/player-stats-daac3ba5b816/sample.csv) · [JSON sample](outputs/d6fc2b3224fd/player-stats-daac3ba5b816/sample.json) · [Schema](outputs/d6fc2b3224fd/player-stats-daac3ba5b816/schema.json)
 
 | snapshot\_key | capture\_date | capture\_at | season | season\_type | player\_id | player | team |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026\-11\-24T10:00:26\.731522\+00:00:00\-0040583 | 2026\-11\-24 | 2026\-11\-24T10:00:26\.731522\+00:00 | 2026 | REG | 00\-0040583 | Woody Marks | HOU |
+| 2026\-11\-24T10:00:26\.731522\+00:00:00\-0034351 | 2026\-11\-24 | 2026\-11\-24T10:00:26\.731522\+00:00 | 2026 | REG | 00\-0034351 | Dallas Goedert | PHI |
 | 2026\-11\-23T10:23:04\.344758\+00:00:00\-0028986 | 2026\-11\-23 | 2026\-11\-23T10:23:04\.344758\+00:00 | 2026 | REG | 00\-0028986 | Case Keenum | CHI |
-| 2026\-11\-23T10:23:04\.344758\+00:00:00\-0037304 | 2026\-11\-23 | 2026\-11\-23T10:23:04\.344758\+00:00 | 2026 | REG | 00\-0037304 | Connor Heyward | LV |
-| 2026\-11\-23T10:23:04\.344758\+00:00:00\-0033439 | 2026\-11\-23 | 2026\-11\-23T10:23:04\.344758\+00:00 | 2026 | REG | 00\-0033439 | Pharaoh Brown | IND |
-| 2026\-11\-23T10:23:04\.344758\+00:00:00\-0036265 | 2026\-11\-23 | 2026\-11\-23T10:23:04\.344758\+00:00 | 2026 | REG | 00\-0036265 | AJ Dillon | CAR |
-| 2026\-11\-23T10:23:04\.344758\+00:00:00\-0039917 | 2026\-11\-23 | 2026\-11\-23T10:23:04\.344758\+00:00 | 2026 | REG | 00\-0039917 | Michael Penix Jr\. | ATL |
+| 2026\-11\-24T10:00:26\.731522\+00:00:00\-0038621 | 2026\-11\-24 | 2026\-11\-24T10:00:26\.731522\+00:00 | 2026 | REG | 00\-0038621 | DeMario Douglas | NE |
+| 2026\-11\-24T10:00:26\.731522\+00:00:00\-0041040 | 2026\-11\-24 | 2026\-11\-24T10:00:26\.731522\+00:00 | 2026 | REG | 00\-0041040 | Antonio Williams | WAS |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

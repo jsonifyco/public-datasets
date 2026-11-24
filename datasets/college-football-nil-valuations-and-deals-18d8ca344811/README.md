@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Explore On3 college football NIL valuations and reported player deals, with player, school, position, class, follower and deal details where available\. The published dataset contains 395 rows across valuation and deal tables\. Export to CSV, JSON, Excel or Google Sheets\.
+Explore On3 college football NIL valuations and reported player deals, with player, school, position, class, follower and deal details where available\. Export to CSV, JSON, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/college-football-nil-valuations-and-deals-18d8ca344811?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Explore On3 college football NIL valuations and reported player deals, with play
 
 ## The brief
 
-> I need this data: Explore On3 college football NIL valuations and reported player deals, with player, school, position, class, follower and deal details where available\. The published dataset contains 395 rows across valuation and deal tables\. Export to CSV, JSON, Excel or Google Sheets\.
+> I need this data: Explore On3 college football NIL valuations and reported player deals, with player, school, position, class, follower and deal details where available\. Export to CSV, JSON, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 

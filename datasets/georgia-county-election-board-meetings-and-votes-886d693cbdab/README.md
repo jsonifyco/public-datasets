@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Georgia county election board motions and votes: 1,269 rows in the published table\. The dataset covers county board meeting actions; see the coverage and limitations for details\.
+Georgia county election board motions and votes\. The dataset covers county board meeting actions; see the coverage and limitations for details\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/georgia-county-election-board-meetings-and-votes-886d693cbdab?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Georgia county election board motions and votes: 1,269 rows in the published tab
 
 ## The brief
 
-> I need this data: Georgia county election board motions and votes: 1,269 rows in the published table\. The dataset covers county board meeting actions; see the coverage and limitations for details\.
+> I need this data: Georgia county election board motions and votes\. The dataset covers county board meeting actions; see the coverage and limitations for details\.
 
 Summary from the public dataset description.
 

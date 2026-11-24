@@ -1,33 +1,36 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-11-23T08:00:24.093118+00:00,2026-11-20T08:36:44Z,2,452442280,n8n@2.48.7,"## [2.48.7](https://github.com/n8n-io/n8n/compare/n8n@2.48.6...n8n@2.48.7) (2026-11-20)
+2026-11-24T08:00:21.742839+00:00,2026-11-23T08:34:00Z,0,455157861,n8n@2.48.8,"## [2.48.8](https://github.com/n8n-io/n8n/compare/n8n@2.48.7...n8n@2.48.8) (2026-11-23)
 
 
 ### Bug Fixes
 
-* **core:** End memory guard hold when hold-limit stop frees no memory ([#44463](https://github.com/n8n-io/n8n/issues/44463)) ([22643e1](https://github.com/n8n-io/n8n/commit/22643e170e5ae7ddc86bb61b7d1d5d9e1aab1486))
-* **core:** Store plain input data in the error output of scripting nodes ([#44530](https://github.com/n8n-io/n8n/issues/44530)) ([c26c923](https://github.com/n8n-io/n8n/commit/c26c923b248d33e80aad51a7abc80aa07eb6c595))
+* Broken e2e test in source-control-helper ([#44756](https://github.com/n8n-io/n8n/issues/44756)) ([0a1c9f0](https://github.com/n8n-io/n8n/commit/0a1c9f05346a1f3c8ce8a474b3acbe98fccc808c))
+* **core:** Give custom instance roles access to the Migration Report ([#44667](https://github.com/n8n-io/n8n/issues/44667)) ([b7378d4](https://github.com/n8n-io/n8n/commit/b7378d43a412509f891fb4cab9ba263d75b3064f))
+* **core:** Throw when an expression reaches the memory limit on the quickjs engine ([#44687](https://github.com/n8n-io/n8n/issues/44687)) ([ef0df0c](https://github.com/n8n-io/n8n/commit/ef0df0c8a2baa7600ad4859472865ebbba5871a1))
+* **editor:** Keep Migration Report controls inside narrow screens ([#44658](https://github.com/n8n-io/n8n/issues/44658)) ([311c382](https://github.com/n8n-io/n8n/commit/311c3821f7d95ee6ee6df9eff5fcebe97bfb8f82))
+* Report MCP workflow trigger activation failures ([#44589](https://github.com/n8n-io/n8n/issues/44589)) ([08cc487](https://github.com/n8n-io/n8n/commit/08cc4876696b6261919b7f90207ad24f720dca6a))
+
+
+### Features
+
+* **editor:** Explain the last run state of workflows in the migration report ([#44282](https://github.com/n8n-io/n8n/issues/44282)) ([261ad69](https://github.com/n8n-io/n8n/commit/261ad69303f823f197d9bc3d9ffbf1844d1dd26e))
 
 <!-- This is an auto-generated description by cubic. -->
-<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/44594?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/44594?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F44594&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
+<a href=""https://cubic.dev/pr/n8n-io/n8n/pull/44798?utm_source=github"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""><img alt=""View guided diff"" src=""https://www.cubic.dev/buttons/review-in-cubic-light.svg""></picture></a> <a href=""https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/44798?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F44798&source=description"" target=""_blank"" rel=""noopener noreferrer"" data-no-image-dialog=""true""><picture><source media=""(prefers-color-scheme: dark)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg""><source media=""(prefers-color-scheme: light)"" srcset=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""><img alt=""Turn on auto-fix"" src=""https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg""></picture></a>
 <!-- End of auto-generated description by cubic. -->
 
-",https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.48.7
-2026-11-23T08:00:24.186328+00:00,2026-11-16T09:34:13Z,6,446832385,v4.0.1,"## What's Changed
-* Add a CI check to ensure asdf and node-env and pyenv are on sync by @adrinr in https://github.com/Budibase/budibase/pull/20076
-* Bump dd-trace from 5.109.0 to 5.131.1 in /packages/backend-core by @dependabot[bot] in https://github.com/Budibase/budibase/pull/19926
-* fix: pin Svelte version to 5.40.2 in plugin templates by @mgr-punith in https://github.com/Budibase/budibase/pull/19921
-* Maintain CouchDB Helm chart locally by @calexiou in https://github.com/Budibase/budibase/pull/20078
-* [#19945] Fix automation project assignment across browser tabs by @melohagan in https://github.com/Budibase/budibase/pull/20092
-* Export data action doesnt respect column name changes in query tables by @ConorWebb96 in https://github.com/Budibase/budibase/pull/20093
-* Refactor of column rename function and warning icon by @deanhannigan in https://github.com/Budibase/budibase/pull/20066
-* Fix column deletion errors for deleted related tables by @jvcalderon in https://github.com/Budibase/budibase/pull/20094
-* Fix deployment fetch errors after leaving the builder by @jvcalderon in https://github.com/Budibase/budibase/pull/20085
-* [#20107] Fix attachment paths when importing workspace exports by @melohagan in https://github.com/Budibase/budibase/pull/20109
-
-## New Contributors
-* @mgr-punith made their first contribution in https://github.com/Budibase/budibase/pull/19921
-
-**Full Changelog**: https://github.com/Budibase/budibase/compare/v4.0.0...v4.0.1",https://github.com/Budibase/budibase/releases/tag/v4.0.1,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.0.1
-2026-11-23T08:00:24.122793+00:00,2026-11-19T16:23:11Z,3,451605836,Release v2.7.2 🌈,"## 🔐 Security
+",https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.8,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.48.8
+2026-11-24T08:00:21.609353+00:00,2026-11-19T16:23:11Z,4,451605836,Release v2.7.2 🌈,"## 🔐 Security
 
 - The bundled Java runtime is now Eclipse Temurin 25.0.5.1. This fixes [CVE-2026-114938](https://nvd.nist.gov/vuln/detail/CVE-2026-114938) (""Java4Shell"") in the Java runtime. All earlier Appsmith images include an affected Java version. Self-hosted instances should upgrade.",https://github.com/appsmithorg/appsmith/releases/tag/v2.7.2,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.7.2
+2026-11-24T08:00:21.660297+00:00,2026-11-23T08:20:29Z,0,455146189,v4.1.0,"## What's Changed
+* [#19942] Remove resources from projects without deleting them by @melohagan in https://github.com/Budibase/budibase/pull/20097
+* Preserve last visited workspace on the builder by @adrinr in https://github.com/Budibase/budibase/pull/20073
+* [#19946] Include custom OpenAPI specs in project exports by @melohagan in https://github.com/Budibase/budibase/pull/20086
+* [20084] hide project assignment when no projects exist by @andz-bb in https://github.com/Budibase/budibase/pull/20100
+* Clear operation knowledge when duplicating an agent by @deanhannigan in https://github.com/Budibase/budibase/pull/20110
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20111
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20114
+
+
+**Full Changelog**: https://github.com/Budibase/budibase/compare/v4.0.1...v4.1.0",https://github.com/Budibase/budibase/releases/tag/v4.1.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.1.0

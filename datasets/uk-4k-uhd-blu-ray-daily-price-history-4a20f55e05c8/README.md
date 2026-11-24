@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. The published dataset contains 417 rows across all tables; the price\_history table contains 417 observations\. Export to CSV, Excel or Google Sheets\.
+UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. The published dataset contains 535 rows across all tables; the price\_history table contains 535 observations\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/uk-4k-uhd-blu-ray-daily-price-history-4a20f55e05c8?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-23T09:03:01.344287Z
+- Last published: 2026-11-24T09:03:03.642764Z
 
 ## The brief
 
-> I need this data: UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. The published dataset contains 417 rows across all tables; the price\_history table contains 417 observations\. Export to CSV, Excel or Google Sheets\.
+> I need this data: UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. The published dataset contains 535 rows across all tables; the price\_history table contains 535 observations\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## UK 4K UHD Blu\-ray Price History / price\_history
 
-417 total rows · 50 sampled · Output revision 5
-Published: 2026-11-23T09:03:01.344287Z · Producing pipeline version: 1
+535 total rows · 50 sampled · Output revision 6
+Published: 2026-11-24T09:03:03.642764Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.csv) · [JSON sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.json) · [Schema](outputs/1468933064cd/price-history-3b9b0d17ff6d/schema.json)
 

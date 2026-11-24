@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A dataset of published GPU rental prices, including H100, H200, B200, A100, L40S and MI300X\. Rows include purchase terms, price details, provider and source information, and observation dates\. The published tables contain 6,936 rows\. Export to CSV or Google Sheets\.
+A dataset of published GPU rental prices, including H100, H200, B200, A100, L40S and MI300X\. Rows include purchase terms, price details, provider and source information, and observation dates\. Export to CSV or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/gpu-hourly-rental-prices-312a156bf80f?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 9
-- Last published: 2026-11-23T06:02:41.318342Z
+- Last published: 2026-11-24T06:02:45.984709Z
 
 ## The brief
 
-> I need this data: A dataset of published GPU rental prices, including H100, H200, B200, A100, L40S and MI300X\. Rows include purchase terms, price details, provider and source information, and observation dates\. The published tables contain 6,936 rows\. Export to CSV or Google Sheets\.
+> I need this data: A dataset of published GPU rental prices, including H100, H200, B200, A100, L40S and MI300X\. Rows include purchase terms, price details, provider and source information, and observation dates\. Export to CSV or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-6,936 total rows · 50 sampled · Output revision 33
-Published: 2026-11-23T06:02:41.318342Z · Producing pipeline version: 9
+7,260 total rows · 50 sampled · Output revision 34
+Published: 2026-11-24T06:02:45.984709Z · Producing pipeline version: 9
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| B200 | B200 | No exact model listed | uksouth | UK | not\_listed | Not applicable | None |
-| L40S | L40S | Marketplace offer 38575017 | Taiwan, TW | TW | on\_demand | No fixed term | 6\.188148148148148 |
-| B200 | B200 | No exact model listed | eastus | US | not\_listed | Not applicable | None |
-| H100 | H100 PCIE | Marketplace offer 50491375 | Czechia, CZ | CZ | on\_demand | No fixed term | 2\.8473481481481477 |
-| H100 | Nvidia H100 | a3\-megagpu\-8g | Provider list \(region unspecified\) | Global | calendar\_mode | DWS Calendar Mode reservation | 44 |
+| A100 | Nvidia A100 | a2\-highgpu\-1g | Provider list \(region unspecified\) | Global | commitment | 3 years | 1\.285708338 |
+| H200 | NVIDIA HGX H200 | GPU Droplet, On\-Demand Plan | Global | Global | on\_demand | No fixed term | 4\.47 |
+| B200 | B200 | p6\-b200\.48xlarge | US West \(Oregon\) | US | capacity\_block | Not stated | 113\.666 |
+| B200 | B200 | Marketplace offer 51592611 | Oregon, US | US | on\_demand | No fixed term | 7\.502083333333334 |
+| H200 | H200 NVL | Marketplace offer 48217154 | Japan, JP | JP | on\_demand | No fixed term | 8\.26888888888889 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Short drama app data for ReelShort, DramaBox and FreeReels\. The published dataset contains 355,195 rows across all tables\.
+Short drama app data for ReelShort, DramaBox and FreeReels\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/short-drama-charts-and-catalogue-c3bee033d5c1?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Short drama app data for ReelShort, DramaBox and FreeReels\. The published datas
 
 ## The brief
 
-> I need this data: Short drama app data for ReelShort, DramaBox and FreeReels\. The published dataset contains 355,195 rows across all tables\.
+> I need this data: Short drama app data for ReelShort, DramaBox and FreeReels\.
 
 Summary from the public dataset description.
 

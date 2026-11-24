@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-690 console price observations with condition, sale status, model\-matching details, source links and euro\-converted prices\.
+Console price observations with condition, sale status, model\-matching details, source links and euro\-converted prices\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/european-console-resale-prices-8a0b033ae1da?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@
 
 ## The brief
 
-> I need this data: 690 console price observations with condition, sale status, model\-matching details, source links and euro\-converted prices\.
+> I need this data: Console price observations with condition, sale status, model\-matching details, source links and euro\-converted prices\.
 
 Summary from the public dataset description.
 

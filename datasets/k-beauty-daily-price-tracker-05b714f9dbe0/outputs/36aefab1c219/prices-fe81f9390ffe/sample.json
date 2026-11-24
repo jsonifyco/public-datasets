@@ -112,6 +112,22 @@
     "size": "100ml"
   },
   {
+    "advertised_discount_pct": 15,
+    "brand": "Anua",
+    "capture_date": "2026-11-24",
+    "capture_time": "2026-11-24T09:01:37+00:00",
+    "currency": "USD",
+    "current_price": 18.7,
+    "in_stock": null,
+    "list_price": 22,
+    "observation_key": "2026-11-24|YesStyle|anua_peach_70_niacinamide_serum_30ml",
+    "product": "Peach 70 Niacinamide Serum",
+    "product_key": "anua_peach_70_niacinamide_serum_30ml",
+    "product_url": "https://www.yesstyle.com/en/anua-peach-70-niacin-serum-30ml/info.html/pid.1132099566",
+    "retailer": "YesStyle",
+    "size": "30ml"
+  },
+  {
     "advertised_discount_pct": null,
     "brand": "Round Lab",
     "capture_date": "2026-11-22",
@@ -128,35 +144,19 @@
     "size": "50ml"
   },
   {
-    "advertised_discount_pct": 37,
-    "brand": "Anua",
-    "capture_date": "2026-11-22",
-    "capture_time": "2026-11-22T09:03:29+00:00",
+    "advertised_discount_pct": 30,
+    "brand": "Round Lab",
+    "capture_date": "2026-11-24",
+    "capture_time": "2026-11-24T09:01:03+00:00",
     "currency": "USD",
-    "current_price": 12.6,
+    "current_price": 19.6,
     "in_stock": true,
-    "list_price": null,
-    "observation_key": "2026-11-22|Amazon US|anua_peach_70_niacinamide_serum_30ml",
-    "product": "Peach 70 Niacinamide Serum",
-    "product_key": "anua_peach_70_niacinamide_serum_30ml",
-    "product_url": "https://www.amazon.com/dp/B0BT7KY271",
-    "retailer": "Amazon US",
-    "size": "30ml"
-  },
-  {
-    "advertised_discount_pct": null,
-    "brand": "Anua",
-    "capture_date": "2026-11-22",
-    "capture_time": "2026-11-22T09:01:34+00:00",
-    "currency": "USD",
-    "current_price": 18.7,
-    "in_stock": true,
-    "list_price": 22,
-    "observation_key": "2026-11-22|Stylevana|anua_peach_70_niacinamide_serum_30ml",
-    "product": "Peach 70 Niacinamide Serum",
-    "product_key": "anua_peach_70_niacinamide_serum_30ml",
-    "product_url": "https://www.stylevana.com/en_US/anua-peach-70-niacin-serum-30ml23897.html",
-    "retailer": "Stylevana",
-    "size": "30ml"
+    "list_price": 28,
+    "observation_key": "2026-11-24|YesStyle|round_lab_birch_juice_moisturizing_sunscreen_50ml",
+    "product": "Birch Juice Moisturizing Sunscreen",
+    "product_key": "round_lab_birch_juice_moisturizing_sunscreen_50ml",
+    "product_url": "https://www.yesstyle.com/en/round-lab-birch-juice-moisturizing-sunscreen-50ml/info.html/pid.1122974582",
+    "retailer": "YesStyle",
+    "size": "50ml"
   }
 ]

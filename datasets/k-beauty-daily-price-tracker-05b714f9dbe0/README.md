@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-K\-beauty product prices from public product pages on Olive Young Global, YesStyle, Stylevana and Amazon US\. Fields include current price, list price, advertised discount and stock status\. The published tables contain 77 rows\. Export to CSV, JSON or Google Sheets\.
+K\-beauty product price observations from public product pages on Olive Young Global, YesStyle, Stylevana and Amazon US\. Fields include current price, list price, advertised discount and stock status\. Export to CSV, JSON or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/k-beauty-daily-price-tracker-05b714f9dbe0?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-23T09:06:31.052102Z
+- Last published: 2026-11-24T09:03:52.944806Z
 
 ## The brief
 
-> I need this data: K\-beauty product prices from public product pages on Olive Young Global, YesStyle, Stylevana and Amazon US\. Fields include current price, list price, advertised discount and stock status\. The published tables contain 77 rows\. Export to CSV, JSON or Google Sheets\.
+> I need this data: K\-beauty product price observations from public product pages on Olive Young Global, YesStyle, Stylevana and Amazon US\. Fields include current price, list price, advertised discount and stock status\. Export to CSV, JSON or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## K\-beauty Daily Price History / prices
 
-77 total rows · 10 sampled · Output revision 5
-Published: 2026-11-23T09:06:31.052102Z · Producing pipeline version: 3
+93 total rows · 10 sampled · Output revision 6
+Published: 2026-11-24T09:03:52.944806Z · Producing pipeline version: 3
 
 [CSV sample](outputs/36aefab1c219/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/36aefab1c219/prices-fe81f9390ffe/sample.json) · [Schema](outputs/36aefab1c219/prices-fe81f9390ffe/schema.json)
 

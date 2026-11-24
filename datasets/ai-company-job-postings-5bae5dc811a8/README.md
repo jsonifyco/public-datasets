@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\. The published tables contain 5,832 rows\.
+AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/ai-company-job-postings-5bae5dc811a8?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ AI company job postings from public job boards, including title, team, location,
 
 ## The brief
 
-> I need this data: AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\. The published tables contain 5,832 rows\.
+> I need this data: AI company job postings from public job boards, including title, team, location, workplace type and published salary ranges where available\.
 
 Summary from the public dataset description.
 

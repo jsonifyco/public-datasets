@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Drilling permits approved by Texas RRC, Oklahoma OCC and Colorado ECMC in one table: operator, county, depth, well type and approval date, refreshed weekly\.
+A combined table of drilling permits published by the Texas RRC, Oklahoma OCC and Colorado ECMC, with operator, county, depth, well type and approval date\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-approved-drilling-permits-bbab01ba75f7?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 3
-- Last published: 2026-11-22T10:08:21.221724Z
+- Last published: 2026-11-24T07:05:19.193159Z
 
 ## The brief
 
-> I need this data: Drilling permits approved by Texas RRC, Oklahoma OCC and Colorado ECMC in one table: operator, county, depth, well type and approval date, refreshed weekly\.
+> I need this data: A combined table of drilling permits published by the Texas RRC, Oklahoma OCC and Colorado ECMC, with operator, county, depth, well type and approval date\.
 
 Summary from the public dataset description.
 
 ## US Approved Drilling Permits / permits
 
-1,618 total rows · 50 sampled · Output revision 3
-Published: 2026-11-22T10:08:21.221724Z · Producing pipeline version: 2
+1,621 total rows · 50 sampled · Output revision 4
+Published: 2026-11-24T07:05:19.193159Z · Producing pipeline version: 3
 
 [CSV sample](outputs/810b7daf8bdd/permits-f9b6938a67e1/sample.csv) · [JSON sample](outputs/810b7daf8bdd/permits-f9b6938a67e1/sample.json) · [Schema](outputs/810b7daf8bdd/permits-f9b6938a67e1/schema.json)
 

@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Weekly US retail regular gasoline and diesel prices from the EIA for the US, 9 PADD regions, 9 states and 10 cities\. 2,200 rows from 3 Nov 2025, refreshed weekly\. Export to CSV, Excel or Google Sheets\.
+Weekly US retail regular gasoline and diesel prices from the EIA for the US, 9 PADD regions, 9 states and 10 cities\. Data from 3 Nov 2025, refreshed weekly\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Weekly US retail regular gasoline and diesel prices from the EIA for the US, 9 P
 
 ## The brief
 
-> I need this data: Weekly US retail regular gasoline and diesel prices from the EIA for the US, 9 PADD regions, 9 states and 10 cities\. 2,200 rows from 3 Nov 2025, refreshed weekly\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Weekly US retail regular gasoline and diesel prices from the EIA for the US, 9 PADD regions, 9 states and 10 cities\. Data from 3 Nov 2025, refreshed weekly\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 

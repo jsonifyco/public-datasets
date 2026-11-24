@@ -2,7 +2,7 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A combined table of building permits from Chicago, New York City, Los Angeles, San Francisco, Austin, Seattle, Boston and Denver\. Includes permit type, work description, address and project value where published\. The published permits table contains 30,450 rows\.
+A combined table of building permits from Chicago, New York City, Los Angeles, San Francisco, Austin, Seattle, Boston and Denver\. Includes permit type, work description, address and project value where published\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-building-permits-e1c447fbcc9c?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A combined table of building permits from Chicago, New York City, Los Angeles, S
 
 ## The brief
 
-> I need this data: A combined table of building permits from Chicago, New York City, Los Angeles, San Francisco, Austin, Seattle, Boston and Denver\. Includes permit type, work description, address and project value where published\. The published permits table contains 30,450 rows\.
+> I need this data: A combined table of building permits from Chicago, New York City, Los Angeles, San Francisco, Austin, Seattle, Boston and Denver\. Includes permit type, work description, address and project value where published\.
 
 Summary from the public dataset description.
 

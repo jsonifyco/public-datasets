@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Public Citius insolvency notices with debtor, court, publication date and published deadline details\. The current published tables contain 248 notices each \(496 rows across all published tables\)\.
+Public Citius insolvency notices for Lisboa and Porto, with debtor, court, publication date and published deadline details\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/insolvency-notices-pt-5cf39e22f64e?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
-- Active pipeline version: 8
-- Last published: 2026-11-23T06:18:43.662907Z
+- Active pipeline version: 10
+- Last published: 2026-11-24T06:38:16.694512Z
 
 ## The brief
 
-> I need this data: Public Citius insolvency notices with debtor, court, publication date and published deadline details\. The current published tables contain 248 notices each \(496 rows across all published tables\)\.
+> I need this data: Public Citius insolvency notices for Lisboa and Porto, with debtor, court, publication date and published deadline details\.
 
 Summary from the public dataset description.
 
 ## Avisos de insolvência / avisos
 
-248 total rows · 50 sampled · Output revision 23
-Published: 2026-11-23T06:18:43.662907Z · Producing pipeline version: 8
+288 total rows · 50 sampled · Output revision 24
+Published: 2026-11-24T06:38:16.694512Z · Producing pipeline version: 10
 
 [CSV sample](outputs/43cb4b753508/avisos-354cde498655/sample.csv) · [JSON sample](outputs/43cb4b753508/avisos-354cde498655/sample.json) · [Schema](outputs/43cb4b753508/avisos-354cde498655/schema.json)
 
 | Distrito | Estado do prazo | NIF ou NIPC | Natureza do devedor | Prazo publicado | Processo | Publicado em | Tipo de anúncio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Porto | Prazo não identificado no documento | 150466323 | Pessoa singular | None | 7062/26\.9T8VNG | 2026\-11\-19 | Outro |
-| Porto | Prazo não identificado no documento | 516185594 | Empresa | None | 6130/26\.1T8VNG | 2026\-11\-18 | Outro |
-| Lisboa | Prazo não identificado no documento | 285942263 | Pessoa singular | None | 2709/25\.7T8VFX | 2026\-11\-20 | Outro |
-| Porto | Prazo não identificado no documento | 194273091 | Pessoa singular | None | 6473/26\.4T8VNG | 2026\-11\-17 | Outro |
-| Porto | Prazo identificado no documento | 185251960 | Pessoa singular | 30 dias, contados a partir do termo da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais | 8972/26\.9T8VNG | 2026\-11\-18 | declaração de insolvência |
+| Porto | Prazo não identificado no documento | 180990730 | Pessoa singular | None | 2200/23\.6T8STS | 2026\-11\-19 | Outro |
+| Porto | Prazo identificado no documento | 245467920 | Pessoa singular | 30 dias para a reclamação de créditos, a contar do términus da dilação; os prazos para reclamação de créditos começam a correr finda a dilação, contada da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | 8912/26\.5T8VNG | 2026\-11\-18 | declaração de insolvência |
+| Lisboa | Prazo identificado no documento | 217835511 | Pessoa singular | 30 dias para a reclamação de créditos, contados após terminar a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | 27342/26\.2T8LSB | 2026\-11\-18 | declaração de insolvência |
+| Porto | Prazo identificado no documento | 513675264 | Empresa | Prazo para a reclamação de créditos fixado em 30 dias, a contar do términus da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | 2896/26\.7T8STS | 2026\-11\-18 | declaração de insolvência |
+| Lisboa | Prazo não identificado no documento | 507231732 | Empresa | None | 2765/21\.7T8VFX | 2026\-11\-23 | Outro |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Avisos de insolvência / insolvency\_notices\_pt
 
-248 total rows · 50 sampled · Output revision 23
-Published: 2026-11-23T06:18:43.662907Z · Producing pipeline version: 8
+288 total rows · 50 sampled · Output revision 24
+Published: 2026-11-24T06:38:16.694512Z · Producing pipeline version: 10
 
 [CSV sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.csv) · [JSON sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.json) · [Schema](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/schema.json)
 
 | claims\_deadline | court | debtor\_name | debtor\_nif | debtor\_type | district | insolvency\_administrator | notice\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 1 | Sandra Paula Ferreira Gomes | 208088784 | individual | Porto | Amadeu José Maia Monteiro de Magalhães | other |
-| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 1 | Carlos Alberto da Cruz Maucabelo; Margarida Maria Laranjeiro Relego | 140150668; 104134828 | individual | Lisboa | Luís Manuel Ribeiro de Carvalho | encerramento |
-| 30 dias, contados da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais, após terminada a dilação\. | Vila Franca de Xira \- Tribunal Judicial da Comarca de Lisboa Norte / Juízo de Comércio de Vila Franca de Xira \- Juiz 1 | Cátia dos Santos Gonçalves | 231393610 | individual | Lisboa | Luís Manuel Iglésias Fortes Rodrigues | declaração de insolvência |
-| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 1 | MARIA MANUELA FERNANDES GUIMARAES | 263523799 | individual | Porto | Emanuel Freire Torres Gamelas | encerramento |
-| None | Amarante \- Tribunal Judicial da Comarca do Porto Este / Juízo de Comércio de Amarante \- Juiz 3 | Fernanda Cristina Vieira de Sousa | 215445104 | individual | Porto | Armando Rocha Gonçalves | other |
+| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 3 | Simão Pedro Brito Teixeira | 212563580 | individual | Porto | Bruno Gonçalo Torres de Sousa Brandão | other |
+| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 1 | Manuela Paula da Silva Ferro | 187131791 | individual | Lisboa | Tito Teixeira Germano | encerramento |
+| None | Santo Tirso \- Tribunal Judicial da Comarca do Porto / Juízo de Comércio de Santo Tirso \- Juiz 2 | Cristiana Lucilia Carvalho Oliveira | 247879363 | individual | Porto | António Pedro Ferreira Semblano Galhardo | encerramento |
+| O prazo para a reclamação de créditos foi fixado em 30 dias, contados após o términus da dilação de 5 dias para citação por éditos, a qual se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 6 | Jorge Miguel da Rocha Bastos | 214804712 | individual | Porto | Luís Manuel Iglésias Fortes Rodrigues | declaração de insolvência |
+| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 3 | Carlos da Piedade Miguel | 117889229 | individual | Lisboa | João Francisco Ferreira da Fonseca | other |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -128,6 +128,8 @@ flowchart LR
 - 2026-11-13T06:10:20.221989Z: v6: Fixed updates stopping when Citius lists the same reference twice on one page\. Debtor lookups still stop if an entire results page repeats\.
 - 2026-11-14T06:18:51.091945Z: v7: Fixed updates stopping on different name spellings in related court records\. Conflicting names are left unused while the exact notice document supplies missing details\.
 - 2026-11-21T06:10:45.424652Z: v8: Recognize limited companies from their published legal names and validated corporate tax numbers when the court category omits debtor type\.
+- 2026-11-24T06:06:38.483135Z: v9: Fixed updates stopping when a court search lists the same notice reference more than once\. Searches still check for repeated pages and reconcile every listing entry with the source total\.
+- 2026-11-24T06:22:41.568152Z: v10: Confirm the debtor from the main case when a court notice separately lists the insolvent person and the estate\. Keep the deadline marked unverified when the notice has no document\.
 
 ## Recorded repairs
 
@@ -144,6 +146,13 @@ flowchart LR
 - 2026-11-21T06:04:41.300276Z: no change
 - 2026-11-21T06:14:02.803192Z: repaired
 - 2026-11-21T06:27:52.258514Z: repaired
+- 2026-11-24T06:01:36.845323Z: no change
+- 2026-11-24T06:03:10.497833Z: no change
+- 2026-11-24T06:13:23.531665Z: repaired
+- 2026-11-24T06:16:56.333888Z: no change
+- 2026-11-24T06:21:38.037688Z: no change
+- 2026-11-24T06:22:50.200811Z: repaired
+- 2026-11-24T06:39:00.893787Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/insolvency-notices-pt-5cf39e22f64e?action=get) — CSV or JSON · Email required
 

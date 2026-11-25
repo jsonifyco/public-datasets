@@ -7,8 +7,8 @@ Netflix, Disney\+, Max, Apple TV\+ and more: streaming plan prices by country fr
 [Get the full dataset for free](https://www.jsonify.com/datasets/streaming-subscription-prices-by-country-5b733a529030?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 38
-- Last published: 2026-11-24T08:29:06.732561Z
+- Active pipeline version: 39
+- Last published: 2026-11-25T08:37:16.343605Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## Streaming subscription prices / prices
 
-7,080 total rows · 47 sampled · Output revision 39
-Published: 2026-11-24T08:29:06.732561Z · Producing pipeline version: 38
+7,088 total rows · 47 sampled · Output revision 40
+Published: 2026-11-25T08:37:16.343605Z · Producing pipeline version: 39
 
 [CSV sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/eb6e054729e9/prices-fe81f9390ffe/sample.json) · [Schema](outputs/eb6e054729e9/prices-fe81f9390ffe/schema.json)
 
@@ -135,6 +135,7 @@ flowchart LR
 - 2026-11-21T16:00:15.237442Z: v36: Removed the explicit large\-model choice from the discovery fallback so it inherits the platform default\. Existing prompts, validation, outputs and schedule are unchanged\.
 - 2026-11-23T10:24:54.301012Z: v37: Uses Small for price reading and official\-site fallback, reuses unchanged market\-specific evidence, and applies announced prices when their effective dates arrive\.
 - 2026-11-23T11:14:28.908433Z: v38: Fixed updates stopping when official website search results include a page title\. Price and country checks remain unchanged\.
+- 2026-11-25T08:21:02.265398Z: v39: Corrected local monthly prices and advertising labels for the reported HBO Max, Disney\+ and Apple TV markets\. Apple TV in India is marked as included with iCloud\+\.
 
 ## Recorded repairs
 

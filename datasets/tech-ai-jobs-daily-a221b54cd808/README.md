@@ -8,7 +8,7 @@ Explore job postings from public Greenhouse and Ashby careers boards\. Export to
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-24T09:01:33.482014Z
+- Last published: 2026-11-25T09:01:30.505995Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## Tech &amp; AI Job History / postings
 
-39,851 total rows · 50 sampled · Output revision 6
-Published: 2026-11-24T09:01:33.482014Z · Producing pipeline version: 1
+46,526 total rows · 50 sampled · Output revision 7
+Published: 2026-11-25T09:01:30.505995Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.csv) · [JSON sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.json) · [Schema](outputs/1ee398128fc6/postings-4d6282602ee9/schema.json)
 
@@ -27,9 +27,9 @@ Published: 2026-11-24T09:01:33.482014Z · Producing pipeline version: 1
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026\-11\-24T09:00:37\.017012\+00:00 | Databricks | \["Engineering \- Pipeline"\] | None | None | 2026\-11\-19 | 7642799002 | Staff Software Engineer \- Backend   |
 | 2026\-11\-22T09:00:33\.033946\+00:00 | Reddit | \["Data Science"\] | \["Full\-time", "Regular"\] | Full time; Regular | 2026\-11\-19 | 8072076 | Staff Data Scientist \- Ads Measurement, Signals, Privacy |
+| 2026\-11\-25T09:00:33\.410506\+00:00 | Databricks | \["Field Engineering \- Other"\] | None | None | 2026\-11\-19 | 8870159002 | Specialist Solutions Architect \- Data Engineering |
 | 2026\-11\-22T09:00:33\.033946\+00:00 | Brex | \["Risk &amp; Credit"\] | None | None | 2026\-11\-19 | 8750674002 | Fraud Operations Associate |
 | 2026\-11\-24T09:00:37\.017012\+00:00 | Cursor | \["Sales"\] | \["Full\-time"\] | FullTime | 2026\-11\-19 | 13ceadb8\-638f\-40c7\-a59d\-70dab2f4de0b | Account Executive, Commercial |
-| 2026\-11\-23T09:10:07\.650156\+00:00 | Mistral | \["Business"\] | \["Full\-time"\] | FullTime | 2026\-11\-19 | 383657db\-14fa\-4b06\-bd75\-ab277478f893 | Account Executive, Enterprise  |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -56,8 +56,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Tech &amp; AI Job History / captures
 
-150 total rows · 50 sampled · Output revision 6
-Published: 2026-11-24T09:01:33.482014Z · Producing pipeline version: 1
+175 total rows · 50 sampled · Output revision 7
+Published: 2026-11-25T09:01:30.505995Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.csv) · [JSON sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.json) · [Schema](outputs/1ee398128fc6/captures-2d9457560f11/schema.json)
 
@@ -66,8 +66,8 @@ Published: 2026-11-24T09:01:33.482014Z · Producing pipeline version: 1
 | [https://job\-boards\.greenhouse\.io/figma](<https://job-boards.greenhouse.io/figma>) | 2026\-11\-19T16:31:15\.157852\+00:00 | Figma | True | Greenhouse | 143 |
 | [https://job\-boards\.greenhouse\.io/discord](<https://job-boards.greenhouse.io/discord>) | 2026\-11\-23T09:10:07\.650156\+00:00 | Discord | True | Greenhouse | 29 |
 | [https://job\-boards\.greenhouse\.io/vercel](<https://job-boards.greenhouse.io/vercel>) | 2026\-11\-19T16:31:15\.157852\+00:00 | Vercel | True | Greenhouse | 86 |
-| [https://job\-boards\.greenhouse\.io/duolingo](<https://job-boards.greenhouse.io/duolingo>) | 2026\-11\-19T16:31:15\.157852\+00:00 | Duolingo | True | Greenhouse | 55 |
-| [https://jobs\.ashbyhq\.com/cohere](<https://jobs.ashbyhq.com/cohere>) | 2026\-11\-22T09:00:33\.033946\+00:00 | Cohere | True | Ashby | 124 |
+| [https://job\-boards\.greenhouse\.io/scaleai](<https://job-boards.greenhouse.io/scaleai>) | 2026\-11\-25T09:00:33\.410506\+00:00 | Scale AI | True | Greenhouse | 157 |
+| [https://job\-boards\.greenhouse\.io/discord](<https://job-boards.greenhouse.io/discord>) | 2026\-11\-25T09:00:33\.410506\+00:00 | Discord | True | Greenhouse | 29 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

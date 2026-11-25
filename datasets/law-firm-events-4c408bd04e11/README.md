@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
+Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/law-firm-events-4c408bd04e11?action=get) — CSV or JSON · Email required
 
 - Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-24T09:11:09.375853Z
+- Last published: 2026-11-25T09:09:44.959925Z
 
 ## The brief
 
-> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\. The published dataset contains 18 event records\.
+> I need this data: Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatrecasas, Garrigues and Uría Menéndez, with event details and source links\.
 
 Summary from the public dataset description.
 
 ## Law firm events / events
 
-18 total rows · 10 sampled · Output revision 16
-Published: 2026-11-24T09:11:09.375853Z · Producing pipeline version: 5
+21 total rows · 10 sampled · Output revision 17
+Published: 2026-11-25T09:09:44.959925Z · Producing pipeline version: 5
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| A listagem oficial indica 25 de fevereiro de 2026 e o anúncio descreve o congresso como uma conversa de um dia\. | Congresso de um dia que reúne juristas de bancos, da academia e da advocacia para discutir os desafios jurídicos e os riscos operacionais da transformação do setor bancário e financeiro\. | 2026\-02\-25 | 2026\-02\-25 | I Congresso de Direito Bancário e Financeiro | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/I\-Congresso\-de\-Direito\-Bancario\-e\-Financeiro/34295/](<https://www.plmj.com/pt/conhecimento/eventos/I-Congresso-de-Direito-Bancario-e-Financeiro/34295/>) | PLMJ |
-| As datas correspondem às duas sessões coorganizadas pela Morais Leitão, não à duração total da Semana\. O ano resulta da data de publicação\. | A Morais Leitão coorganiza duas sessões sobre as alterações ao licenciamento urbanístico e a sua aplicação prática nos setores imobiliário e da habitação\. | 2026\-11\-03 | 2026\-11\-02 | 14\.ª edição da Semana da Reabilitação Urbana do Porto | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-na\-14\-edicao\-da\-Semana\-da\-Reabilitacao\-Urbana\-do\-Porto/27161/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-na-14-edicao-da-Semana-da-Reabilitacao-Urbana-do-Porto/27161/>) | Morais Leitão |
-| None | Conferência que assinala os 60 anos do Código Civil Português e debate a evolução do direito civil, a reforma do Código Civil e questões de contratos, responsabilidade civil e prova\. | 2026\-11\-25 | 2026\-11\-25 | Conferência “Ler os Sinais do Tempo: do Mundo para o Direito” | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Conferencia\-Ler\-os\-Sinais\-do\-Tempo\-do\-Mundo\-para\-o\-Direito/27186/](<https://www.mlgts.pt/pt/conhecimento/noticias/Conferencia-Ler-os-Sinais-do-Tempo-do-Mundo-para-o-Direito/27186/>) | Morais Leitão |
-| A notícia foi publicada em 5 de junho de 2025 e indica que a cerimónia se realizou «ontem», em 4 de junho de 2025\. | Cerimónia comemorativa com uma conversa sobre a integração europeia de Espanha e Portugal e um colóquio sobre o impacto do Direito da União nos sistemas jurídicos nacionais\. | 2025\-06\-04 | 2025\-06\-04 | A Uría Menéndez assinala o 40\.º aniversário da assinatura do Tratado de Adesão de Espanha e Portugal à União Europeia | None | [https://www\.uria\.com/pt/prensa/1403\-uria\-menendez\-conmemora\-el\-40\-aniversario\-de\-la\-firma\-del\-tratado\-de\-adhesion\-de\-espana\-y\-portugal\-a\-la\-union\-europea](<https://www.uria.com/pt/prensa/1403-uria-menendez-conmemora-el-40-aniversario-de-la-firma-del-tratado-de-adhesion-de-espana-y-portugal-a-la-union-europea>) | Uría Menéndez |
-| O anúncio indica 29 de outubro; o ano de 2026 é determinado pela data de publicação\. | Apresentação do livro de Isabel Valente Dias sobre a retribuição no direito do trabalho português, seguida de uma mesa\-redonda sobre os temas centrais da obra e de um Porto de Honra\. | None | 2026\-10\-29 | Apresentação da obra "A Retribuição no Ordenamento Juslaboral Português" | 17:30 | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Apresentacao\-da\-obra\-A\-Retribuicao\-no\-Ordenamento\-Juslaboral\-Portugues/27178/](<https://www.mlgts.pt/pt/conhecimento/noticias/Apresentacao-da-obra-A-Retribuicao-no-Ordenamento-Juslaboral-Portugues/27178/>) | Morais Leitão |
+| O ano de 2026 consta da listagem oficial\. O horário de 14h30 a 16h30 é indicado na ficha e no convite, apesar da referência a «Ao longo da manhã» no texto\. | Conferência sobre as prioridades do programa Portugal Transformação, Recuperação e Resiliência \(PTRR\), os instrumentos de financiamento e os desafios jurídicos na execução de projetos\. | 2026\-05\-18 | 2026\-05\-18 | PTRR: Um novo ciclo de investimento | 14h30 – 16h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/ptrr\-um\-novo\-ciclo\-de\-investimento/](<https://abreuadvogados.com/conhecimento/eventos/abreu/ptrr-um-novo-ciclo-de-investimento/>) | Abreu Advogados |
+| None | Conferência sobre a economia da defesa, com sessões sobre regulação da inteligência artificial, financiamento, inovação tecnológica e contratação pública de defesa e segurança\. | 2026\-05\-26 | 2026\-05\-26 | A nova economia da defesa | 09:00–17:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/A\-nova\-economia\-da\-defesa/34485/](<https://www.plmj.com/pt/conhecimento/eventos/A-nova-economia-da-defesa/34485/>) | PLMJ |
+| None | Terceira sessão do ciclo sobre privacidade no trabalho, dedicada aos limites do acesso do empregador ao conteúdo dos dispositivos empresariais em investigações internas e à proteção da privacidade dos trabalhadores\. | 2026\-11\-26 | 2026\-11\-26 | Entre a Investigação e a Privacidade: o acesso ao conteúdo dos dispositivos empresariais | 9:00 – 10:30 | [https://www\.cuatrecasas\.com/pt/global/events/investigacao\-privacidade\-acesso\-ao\-conteudo\-dispositivos\-empresariais](<https://www.cuatrecasas.com/pt/global/events/investigacao-privacidade-acesso-ao-conteudo-dispositivos-empresariais>) | Cuatrecasas |
+| None | Conferência sobre os desafios da transparência salarial e da diversidade para as equipas de recursos humanos, no contexto das alterações ao Código do Trabalho\. | None | 2025\-10\-02 | Transparência salarial e diversidade: novos desafios RH | 09:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/Transparencia\-salarial\-e\-diversidade\-novos\-desafios\-RH/34022/](<https://www.plmj.com/pt/conhecimento/eventos/Transparencia-salarial-e-diversidade-novos-desafios-RH/34022/>) | PLMJ |
+| None | Formação presencial de 3h30, certificada pela DGERT e lecionada por Duarte Santana Lopes e Patrícia Garcia, sobre o enquadramento legal e os deveres de prevenção do branqueamento de capitais e do financiamento do terrorismo no setor imobiliário\. | 2026\-10\-27 | 2026\-10\-27 | Morais Leitão participa em formação da APPII Academy sobre prevenção de BC/FT no setor imobiliário | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-em\-formacao\-da\-APPII\-Academy\-sobre\-prevencao\-de\-BCFT\-no\-setor\-imobiliario/27179/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-em-formacao-da-APPII-Academy-sobre-prevencao-de-BCFT-no-setor-imobiliario/27179/>) | Morais Leitão |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Weekly US retail regular gasoline and diesel prices from the EIA for the US, 9 PADD regions, 9 states and 10 cities\. Data from 3 Nov 2025, refreshed weekly\. Export to CSV, Excel or Google Sheets\.
+Weekly US retail regular gasoline and diesel prices from the EIA\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/weekly-us-retail-diesel-and-regular-gasoline-prices-ecf766d923b4?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 1
-- Last published: 2026-11-18T06:01:13.095644Z
+- Last published: 2026-11-25T06:00:58.014315Z
 
 ## The brief
 
-> I need this data: Weekly US retail regular gasoline and diesel prices from the EIA for the US, 9 PADD regions, 9 states and 10 cities\. Data from 3 Nov 2025, refreshed weekly\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Weekly US retail regular gasoline and diesel prices from the EIA\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## EIA weekly retail fuel prices / prices
 
-2,200 total rows · 50 sampled · Output revision 6
-Published: 2026-11-18T06:01:13.095644Z · Producing pipeline version: 1
+2,240 total rows · 50 sampled · Output revision 7
+Published: 2026-11-25T06:00:58.014315Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a71484658f80/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/a71484658f80/prices-fe81f9390ffe/sample.json) · [Schema](outputs/a71484658f80/prices-fe81f9390ffe/schema.json)
 
 | area | area\_type | eia\_series\_id | price\_usd\_per\_gallon | product | source\_url | week\_date |
 | --- | --- | --- | --- | --- | --- | --- |
-| Denver | city | EMM\_EPMR\_PTE\_YDEN\_DPG | 2\.328 | regular gasoline | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_YDEN\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YDEN_W.xls>) | 2025\-12\-01 |
-| Midwest \(PADD 2\) | PADD region | EMM\_EPMR\_PTE\_R20\_DPG | 4\.109 | regular gasoline | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_R20\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls>) | 2026\-10\-05 |
-| Midwest \(PADD 2\) | PADD region | EMD\_EPD2D\_PTE\_R20\_DPG | 5\.262 | diesel | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_R20\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls>) | 2026\-08\-03 |
-| New England \(PADD 1A\) | PADD region | EMM\_EPMR\_PTE\_R1X\_DPG | 4\.026 | regular gasoline | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_R1X\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R1X_W.xls>) | 2026\-08\-24 |
-| Rocky Mountain \(PADD 4\) | PADD region | EMD\_EPD2D\_PTE\_R40\_DPG | 3\.246 | diesel | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_R40\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R40_W.xls>) | 2026\-01\-19 |
+| Florida | state | EMM\_EPMR\_PTE\_SFL\_DPG | 4\.282 | regular gasoline | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_SFL\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SFL_W.xls>) | 2026\-09\-28 |
+| Miami | city | EMM\_EPMR\_PTE\_YMIA\_DPG | 2\.882 | regular gasoline | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_YMIA\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YMIA_W.xls>) | 2026\-03\-02 |
+| Massachusetts | state | EMM\_EPMR\_PTE\_SMA\_DPG | 3\.806 | regular gasoline | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_SMA\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_SMA_W.xls>) | 2026\-07\-13 |
+| Chicago | city | EMM\_EPMR\_PTE\_YORD\_DPG | 2\.909 | regular gasoline | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_YORD\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_YORD_W.xls>) | 2026\-02\-23 |
+| San Francisco | city | EMM\_EPMR\_PTE\_Y05SF\_DPG | 6\.267 | regular gasoline | [https://www\.eia\.gov/dnav/pet/xls/PET\_PRI\_GND\_DCUS\_Y05SF\_W\.xls](<https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_Y05SF_W.xls>) | 2026\-09\-28 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

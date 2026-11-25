@@ -8,7 +8,7 @@ A dataset of published GPU rental prices, including H100, H200, B200, A100, L40S
 
 - Refresh: daily
 - Active pipeline version: 9
-- Last published: 2026-11-24T06:02:45.984709Z
+- Last published: 2026-11-25T06:02:51.678638Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-7,260 total rows · 50 sampled · Output revision 34
-Published: 2026-11-24T06:02:45.984709Z · Producing pipeline version: 9
+7,568 total rows · 50 sampled · Output revision 35
+Published: 2026-11-25T06:02:51.678638Z · Producing pipeline version: 9
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| A100 | Nvidia A100 | a2\-highgpu\-1g | Provider list \(region unspecified\) | Global | commitment | 3 years | 1\.285708338 |
-| H200 | NVIDIA HGX H200 | GPU Droplet, On\-Demand Plan | Global | Global | on\_demand | No fixed term | 4\.47 |
-| B200 | B200 | p6\-b200\.48xlarge | US West \(Oregon\) | US | capacity\_block | Not stated | 113\.666 |
-| B200 | B200 | Marketplace offer 51592611 | Oregon, US | US | on\_demand | No fixed term | 7\.502083333333334 |
-| H200 | H200 NVL | Marketplace offer 48217154 | Japan, JP | JP | on\_demand | No fixed term | 8\.26888888888889 |
+| H100 | H100 NVL | Standard\_NC40ads\_H100\_v5 | uksouth | UK | on\_demand | No fixed term | 8\.725 |
+| H200 | Nvidia H200 | a3\-ultragpu\-8g | Provider list \(region unspecified\) | Global | commitment | 3 years | 37\.208420822 |
+| A100 | Nvidia A100 | a2\-highgpu\-4g | Provider list \(region unspecified\) | Global | flex\_start | DWS Flex\-start scheduling | 8 |
+| B200 | B200 | Marketplace offer 58229330 | , US | US | on\_demand | No fixed term | 42\.510416666666664 |
+| H100 | H100 NVL | Standard\_NC80adis\_H100\_v5 | uksouth | UK | spot | Interruptible, no fixed term | 3\.22476 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

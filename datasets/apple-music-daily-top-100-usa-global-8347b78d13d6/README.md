@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Apple Music Top 100 USA and Global chart dataset including chart position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
+Apple Music Top 100 USA and Global chart dataset with chart position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/apple-music-daily-top-100-usa-global-8347b78d13d6?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-24T10:00:40.808627Z
+- Last published: 2026-11-25T10:00:49.114101Z
 
 ## The brief
 
-> I need this data: Apple Music Top 100 USA and Global chart dataset including chart position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Apple Music Top 100 USA and Global chart dataset with chart position, song, artist and Apple Music song ID\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## Apple Music Daily Top 100 / daily\_charts
 
-1,600 total rows · 50 sampled · Output revision 9
-Published: 2026-11-24T10:00:40.808627Z · Producing pipeline version: 1
+1,800 total rows · 50 sampled · Output revision 10
+Published: 2026-11-25T10:00:49.114101Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.csv) · [JSON sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.json) · [Schema](outputs/a7335034808b/daily-charts-f8952c615818/schema.json)
 

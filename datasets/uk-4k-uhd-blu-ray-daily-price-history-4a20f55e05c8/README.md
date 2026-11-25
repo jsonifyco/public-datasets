@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. The published dataset contains 535 rows across all tables; the price\_history table contains 535 observations\. Export to CSV, Excel or Google Sheets\.
+UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/uk-4k-uhd-blu-ray-daily-price-history-4a20f55e05c8?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-24T09:03:03.642764Z
+- Last published: 2026-11-25T09:02:38.928015Z
 
 ## The brief
 
-> I need this data: UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. The published dataset contains 535 rows across all tables; the price\_history table contains 535 observations\. Export to CSV, Excel or Google Sheets\.
+> I need this data: UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## UK 4K UHD Blu\-ray Price History / price\_history
 
-535 total rows · 50 sampled · Output revision 6
-Published: 2026-11-24T09:03:03.642764Z · Producing pipeline version: 1
+653 total rows · 50 sampled · Output revision 7
+Published: 2026-11-25T09:02:38.928015Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.csv) · [JSON sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.json) · [Schema](outputs/1468933064cd/price-history-3b9b0d17ff6d/schema.json)
 
 | advertised\_discount\_pct | advertised\_offer | capture\_date | captured\_at | edition\_note | format | in\_stock | observation\_key |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 | 20% Off \- Use Code HIDEF20 | 2026\-11\-25 | 2026\-11\-25T09:00:28\.192798\+00:00 | Gremlins | 4K Ultra HD Blu\-ray | False | 2026\-11\-25T09:00:28\.192798\+00:00\|HMV\|591297 |
 | None | Limited Edition SteelBook | 2026\-11\-21 | 2026\-11\-21T09:00:23\.730736\+00:00 | Clayface \(hmv Exclusive\) Limited Edition 4K Ultra HD SteelBook | 4K Ultra HD Blu\-ray | False | 2026\-11\-21T09:00:23\.730736\+00:00\|HMV\|849047 |
 | None | 3 For £50 4K Ultra HD | 2026\-11\-20 | 2026\-11\-20T09:00:18\.517247\+00:00 | Oppenheimer | 4K Ultra HD Blu\-ray | True | 2026\-11\-20T09:00:18\.517247\+00:00\|HMV\|109233 |
 | None | 3 For £50 4K Ultra HD | 2026\-11\-21 | 2026\-11\-21T09:00:23\.730736\+00:00 | Black Hawk Down | 4K Ultra HD Blu\-ray | False | 2026\-11\-21T09:00:23\.730736\+00:00\|HMV\|554427 |
 | None | 3 For £50 4K Ultra HD | 2026\-11\-20 | 2026\-11\-20T09:00:18\.517247\+00:00 | Dune | 4K Ultra HD Blu\-ray | True | 2026\-11\-20T09:00:18\.517247\+00:00\|HMV\|764287 |
-| 6 | Save 6% | 2026\-11\-21 | 2026\-11\-21T09:00:23\.730736\+00:00 | Limited Edition | 4K Ultra HD | True | 2026\-11\-21T09:00:23\.730736\+00:00\|Rarewaves\|5027035029863 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

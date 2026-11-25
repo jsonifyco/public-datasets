@@ -8,7 +8,7 @@ FDA 510\(k\) database of clearance decisions, with device, applicant, product co
 
 - Refresh: weekly
 - Active pipeline version: 2
-- Last published: 2026-11-18T06:01:43.063399Z
+- Last published: 2026-11-25T06:01:25.269338Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## FDA 510\(k\) clearance decisions / decisions
 
-3,369 total rows · 50 sampled · Output revision 5
-Published: 2026-11-18T06:01:43.063399Z · Producing pipeline version: 2
+3,431 total rows · 50 sampled · Output revision 6
+Published: 2026-11-25T06:01:25.269338Z · Producing pipeline version: 2
 
 [CSV sample](outputs/31779f403f5f/decisions-3183d37be506/sample.csv) · [JSON sample](outputs/31779f403f5f/decisions-3183d37be506/sample.json) · [Schema](outputs/31779f403f5f/decisions-3183d37be506/schema.json)
 

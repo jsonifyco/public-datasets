@@ -288,6 +288,22 @@
     "product_code": "SIH"
   },
   {
+    "applicant": "Wuxi Jiajian Medical Instrument Co., Ltd.",
+    "applicant_city": "Wuxi",
+    "applicant_country": "CN",
+    "applicant_state": "",
+    "clearance_type": "Traditional",
+    "date_received": "2026-05-29",
+    "decision": "Substantially Equivalent",
+    "decision_date": "2026-11-12",
+    "device_class": "2",
+    "device_name": "Self-adhesive Electrode",
+    "fda_record_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261785",
+    "k_number": "K261785",
+    "medical_specialty": "Neurology",
+    "product_code": "GXY"
+  },
+  {
     "applicant": "Philips Consumer Lifestyle B.V.",
     "applicant_city": "Drachten",
     "applicant_country": "NL",
@@ -782,21 +798,5 @@
     "k_number": "K260521",
     "medical_specialty": "Gastroenterology, Urology",
     "product_code": "FED"
-  },
-  {
-    "applicant": "Zhejiang Wei Ling New Energy Technology Co., Ltd.",
-    "applicant_city": "Taizhou",
-    "applicant_country": "CN",
-    "applicant_state": "",
-    "clearance_type": "Traditional",
-    "date_received": "2025-11-19",
-    "decision": "Substantially Equivalent",
-    "decision_date": "2026-02-23",
-    "device_class": "2",
-    "device_name": "Mobility Scooter (CL-Q3, CL-Q4)",
-    "fda_record_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K253631",
-    "k_number": "K253631",
-    "medical_specialty": "Physical Medicine",
-    "product_code": "INI"
   }
 ]

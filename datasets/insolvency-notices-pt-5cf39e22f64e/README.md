@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Public Citius insolvency notices for Lisboa and Porto, with debtor, court, publication date and published deadline details\.
+Public Citius insolvency notices with debtor, court, publication date and published deadline details\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/insolvency-notices-pt-5cf39e22f64e?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 10
-- Last published: 2026-11-24T06:38:16.694512Z
+- Last published: 2026-11-25T06:22:10.568823Z
 
 ## The brief
 
-> I need this data: Public Citius insolvency notices for Lisboa and Porto, with debtor, court, publication date and published deadline details\.
+> I need this data: Public Citius insolvency notices with debtor, court, publication date and published deadline details\.
 
 Summary from the public dataset description.
 
 ## Avisos de insolvência / avisos
 
-288 total rows · 50 sampled · Output revision 24
-Published: 2026-11-24T06:38:16.694512Z · Producing pipeline version: 10
+305 total rows · 50 sampled · Output revision 25
+Published: 2026-11-25T06:22:10.568823Z · Producing pipeline version: 10
 
 [CSV sample](outputs/43cb4b753508/avisos-354cde498655/sample.csv) · [JSON sample](outputs/43cb4b753508/avisos-354cde498655/sample.json) · [Schema](outputs/43cb4b753508/avisos-354cde498655/schema.json)
 
 | Distrito | Estado do prazo | NIF ou NIPC | Natureza do devedor | Prazo publicado | Processo | Publicado em | Tipo de anúncio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Porto | Prazo não identificado no documento | 180990730 | Pessoa singular | None | 2200/23\.6T8STS | 2026\-11\-19 | Outro |
-| Porto | Prazo identificado no documento | 245467920 | Pessoa singular | 30 dias para a reclamação de créditos, a contar do términus da dilação; os prazos para reclamação de créditos começam a correr finda a dilação, contada da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | 8912/26\.5T8VNG | 2026\-11\-18 | declaração de insolvência |
-| Lisboa | Prazo identificado no documento | 217835511 | Pessoa singular | 30 dias para a reclamação de créditos, contados após terminar a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | 27342/26\.2T8LSB | 2026\-11\-18 | declaração de insolvência |
-| Porto | Prazo identificado no documento | 513675264 | Empresa | Prazo para a reclamação de créditos fixado em 30 dias, a contar do términus da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | 2896/26\.7T8STS | 2026\-11\-18 | declaração de insolvência |
-| Lisboa | Prazo não identificado no documento | 507231732 | Empresa | None | 2765/21\.7T8VFX | 2026\-11\-23 | Outro |
+| Lisboa | Não verificado: documento indisponível | 517523299 | Empresa | None | 3346/26\.4T8VFX | 2026\-11\-23 | declaração de insolvência |
+| Porto | Prazo não identificado no documento | 268543704 | Pessoa singular | None | 1199/26\.1T8AMT | 2026\-11\-19 | encerramento |
+| Lisboa | Prazo identificado no documento | 513674144 | Empresa | 30 dias\. O prazo para a reclamação de créditos foi fixado em 30 dias e começa a correr finda a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. Os prazos são contínuos e não se suspendem durante as férias judiciais\. | 28141/26\.7T8LSB | 2026\-11\-24 | declaração de insolvência |
+| Porto | Prazo identificado no documento | 224119117; 236179209 | Pessoa singular | 30 dias, contados após o termo da dilação; a dilação conta\-se da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | 1628/26\.4T8AMT | 2026\-11\-23 | declaração de insolvência |
+| Porto | Prazo não identificado no documento | 127686991 | Pessoa singular | None | 6502/26\.1T8VNG | 2026\-11\-19 | Outro |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Avisos de insolvência / insolvency\_notices\_pt
 
-288 total rows · 50 sampled · Output revision 24
-Published: 2026-11-24T06:38:16.694512Z · Producing pipeline version: 10
+305 total rows · 50 sampled · Output revision 25
+Published: 2026-11-25T06:22:10.568823Z · Producing pipeline version: 10
 
 [CSV sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.csv) · [JSON sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.json) · [Schema](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/schema.json)
 
 | claims\_deadline | court | debtor\_name | debtor\_nif | debtor\_type | district | insolvency\_administrator | notice\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 3 | Simão Pedro Brito Teixeira | 212563580 | individual | Porto | Bruno Gonçalo Torres de Sousa Brandão | other |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 1 | Manuela Paula da Silva Ferro | 187131791 | individual | Lisboa | Tito Teixeira Germano | encerramento |
-| None | Santo Tirso \- Tribunal Judicial da Comarca do Porto / Juízo de Comércio de Santo Tirso \- Juiz 2 | Cristiana Lucilia Carvalho Oliveira | 247879363 | individual | Porto | António Pedro Ferreira Semblano Galhardo | encerramento |
-| O prazo para a reclamação de créditos foi fixado em 30 dias, contados após o términus da dilação de 5 dias para citação por éditos, a qual se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais\. | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 6 | Jorge Miguel da Rocha Bastos | 214804712 | individual | Porto | Luís Manuel Iglésias Fortes Rodrigues | declaração de insolvência |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 3 | Carlos da Piedade Miguel | 117889229 | individual | Lisboa | João Francisco Ferreira da Fonseca | other |
+| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 3 | Maria Guilhermina Ferreira Teixeira | 180990730 | individual | Porto | Agostinho da Silva Pedro | other |
+| None | Lisboa \- Tribunal Judicial da Comarca de Lisboa / Juízo de Comércio de Lisboa \- Juiz 6 | Carla Orlanda Cabrita Santos | 222276592 | individual | Lisboa | António Dias Seabra | other |
+| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 1 | Cristina Maria Rodrigues Lopes Pinto; José Luis Pinto | 113823908; 113823916 | individual | Lisboa | Sílvia Isabel Gonçalves Rodrigues Esteves das Neves | other |
+| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 1 | AGOSTINHO PINHO, GÁS LDA | 509445446 | company | Lisboa | João Fernandes de Sousa | other |
+| Trinta dias, findos os éditos de cinco dias contados da publicação deste edital, para os credores da massa insolvente contestarem, querendo, a verificação de créditos \(arts\. 146\.º e 148\.º do CIRE\)\. | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 6 | Tamára Garcias Nascimento | 274457296 | individual | Porto | Pedro Miguel Santos Mendes | other |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

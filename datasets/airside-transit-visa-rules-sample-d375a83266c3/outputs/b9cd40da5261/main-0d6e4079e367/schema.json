@@ -4,6 +4,10 @@
     "type": "text"
   },
   {
+    "name": "changed_at",
+    "type": "text"
+  },
+  {
     "name": "checked_at",
     "type": "text"
   },
@@ -16,6 +20,34 @@
     "type": "text"
   },
   {
+    "name": "exempt_with_residence_permit",
+    "type": "text"
+  },
+  {
+    "name": "exempt_with_valid_canada_visa",
+    "type": "text"
+  },
+  {
+    "name": "exempt_with_valid_japan_visa",
+    "type": "text"
+  },
+  {
+    "name": "exempt_with_valid_schengen_visa",
+    "type": "text"
+  },
+  {
+    "name": "exempt_with_valid_uk_visa",
+    "type": "text"
+  },
+  {
+    "name": "exempt_with_valid_us_visa",
+    "type": "text"
+  },
+  {
+    "name": "exemption_notes",
+    "type": "text"
+  },
+  {
     "name": "hub_airports",
     "type": "text"
   },
@@ -24,7 +56,23 @@
     "type": "text"
   },
   {
+    "name": "new_value",
+    "type": "jsonb"
+  },
+  {
+    "name": "old_value",
+    "type": "jsonb"
+  },
+  {
     "name": "passport_nationality",
+    "type": "text"
+  },
+  {
+    "name": "residence_permit_issuing_countries",
+    "type": "jsonb"
+  },
+  {
+    "name": "source",
     "type": "text"
   },
   {

@@ -1,8 +1,8 @@
-# Short Drama Apps: Catalogue, Charts and Coin Prices
+# Drama Charts: Top Short Dramas on ReelShort and DramaBox
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Short drama app data for ReelShort, DramaBox and FreeReels\.
+Chart drama rankings from ReelShort, DramaBox and FreeReels: 17,921 chart positions \(Trending, Daily Top, Weekly\) in 5 markets, plus coins to finish each show\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/short-drama-charts-and-catalogue-c3bee033d5c1?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ Short drama app data for ReelShort, DramaBox and FreeReels\.
 
 ## The brief
 
-> I need this data: Short drama app data for ReelShort, DramaBox and FreeReels\.
+> I need this data: Chart drama rankings from ReelShort, DramaBox and FreeReels: 17,921 chart positions \(Trending, Daily Top, Weekly\) in 5 markets, plus coins to finish each show\.
 
 Summary from the public dataset description.
 

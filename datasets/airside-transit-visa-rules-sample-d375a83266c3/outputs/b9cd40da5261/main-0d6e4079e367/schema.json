@@ -16,6 +16,18 @@
     "type": "text"
   },
   {
+    "name": "current_conditions_exemptions",
+    "type": "text"
+  },
+  {
+    "name": "electronic_authorisation_notes",
+    "type": "text"
+  },
+  {
+    "name": "esta_or_eta_required",
+    "type": "text"
+  },
+  {
     "name": "evidence_excerpt",
     "type": "text"
   },
@@ -52,6 +64,10 @@
     "type": "text"
   },
   {
+    "name": "live_evidence",
+    "type": "jsonb"
+  },
+  {
     "name": "max_transit_hours",
     "type": "text"
   },
@@ -76,6 +92,18 @@
     "type": "text"
   },
   {
+    "name": "source_check_complete",
+    "type": "boolean"
+  },
+  {
+    "name": "source_checks",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_content_hashes",
+    "type": "jsonb"
+  },
+  {
     "name": "source_last_updated",
     "type": "text"
   },
@@ -89,6 +117,10 @@
   },
   {
     "name": "transit_country",
+    "type": "text"
+  },
+  {
+    "name": "unresolved_reason",
     "type": "text"
   },
   {

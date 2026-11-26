@@ -1,0 +1,94 @@
+[
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "capture_date",
+    "type": "text"
+  },
+  {
+    "name": "capture_time",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "current_price",
+    "type": "double precision"
+  },
+  {
+    "name": "deal_flag",
+    "type": "text"
+  },
+  {
+    "name": "fixed_zip",
+    "type": "text"
+  },
+  {
+    "name": "fulfillment_context",
+    "type": "jsonb"
+  },
+  {
+    "name": "in_stock",
+    "type": "boolean"
+  },
+  {
+    "name": "observation_id",
+    "type": "text"
+  },
+  {
+    "name": "observed_zip",
+    "type": "text"
+  },
+  {
+    "name": "price_context",
+    "type": "text"
+  },
+  {
+    "name": "price_display",
+    "type": "text"
+  },
+  {
+    "name": "price_qualifier",
+    "type": "text"
+  },
+  {
+    "name": "product_name",
+    "type": "text"
+  },
+  {
+    "name": "sales_unit",
+    "type": "text"
+  },
+  {
+    "name": "seller",
+    "type": "text"
+  },
+  {
+    "name": "size",
+    "type": "text"
+  },
+  {
+    "name": "sold_by_walmart",
+    "type": "boolean"
+  },
+  {
+    "name": "unit_price",
+    "type": "text"
+  },
+  {
+    "name": "url",
+    "type": "text"
+  },
+  {
+    "name": "walmart_item_id",
+    "type": "text"
+  },
+  {
+    "name": "was_price",
+    "type": "double precision"
+  }
+]

@@ -8,7 +8,7 @@ Event records associated with Abreu Advogados, PLMJ, VdA, Morais Leitão, Cuatre
 
 - Refresh: On demand
 - Active pipeline version: 5
-- Last published: 2026-11-25T09:09:44.959925Z
+- Last published: 2026-11-26T09:11:31.346723Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Law firm events / events
 
-21 total rows · 10 sampled · Output revision 17
-Published: 2026-11-25T09:09:44.959925Z · Producing pipeline version: 5
+22 total rows · 10 sampled · Output revision 18
+Published: 2026-11-26T09:11:31.346723Z · Producing pipeline version: 5
 
 [CSV sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.csv) · [JSON sample](outputs/b08d9aab8e59/events-862417b9e7c3/sample.json) · [Schema](outputs/b08d9aab8e59/events-862417b9e7c3/schema.json)
 
 | date\_note | description | end\_date | event\_date | event\_name | event\_time | event\_url | firm |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| O ano de 2026 consta da listagem oficial\. O horário de 14h30 a 16h30 é indicado na ficha e no convite, apesar da referência a «Ao longo da manhã» no texto\. | Conferência sobre as prioridades do programa Portugal Transformação, Recuperação e Resiliência \(PTRR\), os instrumentos de financiamento e os desafios jurídicos na execução de projetos\. | 2026\-05\-18 | 2026\-05\-18 | PTRR: Um novo ciclo de investimento | 14h30 – 16h30 | [https://abreuadvogados\.com/conhecimento/eventos/abreu/ptrr\-um\-novo\-ciclo\-de\-investimento/](<https://abreuadvogados.com/conhecimento/eventos/abreu/ptrr-um-novo-ciclo-de-investimento/>) | Abreu Advogados |
-| None | Conferência sobre a economia da defesa, com sessões sobre regulação da inteligência artificial, financiamento, inovação tecnológica e contratação pública de defesa e segurança\. | 2026\-05\-26 | 2026\-05\-26 | A nova economia da defesa | 09:00–17:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/A\-nova\-economia\-da\-defesa/34485/](<https://www.plmj.com/pt/conhecimento/eventos/A-nova-economia-da-defesa/34485/>) | PLMJ |
+| O programa indica 21 de abril; a data de 21\.04\.2026 na ficha oficial do evento confirma o ano\. | Conferência sobre cibersegurança no setor industrial português, com enfoque nas obrigações da Diretiva NIS2 relativas à gestão de risco, ao reporte de incidentes e à responsabilidade dos órgãos de gestão\. | 2026\-04\-21 | 2026\-04\-21 | O Futuro da Cibersegurança no Setor Industrial | 9h30 – 13h | [https://abreuadvogados\.com/conhecimento/eventos/abreu/o\-futuro\-da\-ciberseguranca\-no\-setor\-industrial/](<https://abreuadvogados.com/conhecimento/eventos/abreu/o-futuro-da-ciberseguranca-no-setor-industrial/>) | Abreu Advogados |
 | None | Terceira sessão do ciclo sobre privacidade no trabalho, dedicada aos limites do acesso do empregador ao conteúdo dos dispositivos empresariais em investigações internas e à proteção da privacidade dos trabalhadores\. | 2026\-11\-26 | 2026\-11\-26 | Entre a Investigação e a Privacidade: o acesso ao conteúdo dos dispositivos empresariais | 9:00 – 10:30 | [https://www\.cuatrecasas\.com/pt/global/events/investigacao\-privacidade\-acesso\-ao\-conteudo\-dispositivos\-empresariais](<https://www.cuatrecasas.com/pt/global/events/investigacao-privacidade-acesso-ao-conteudo-dispositivos-empresariais>) | Cuatrecasas |
-| None | Conferência sobre os desafios da transparência salarial e da diversidade para as equipas de recursos humanos, no contexto das alterações ao Código do Trabalho\. | None | 2025\-10\-02 | Transparência salarial e diversidade: novos desafios RH | 09:30 | [https://www\.plmj\.com/pt/conhecimento/eventos/Transparencia\-salarial\-e\-diversidade\-novos\-desafios\-RH/34022/](<https://www.plmj.com/pt/conhecimento/eventos/Transparencia-salarial-e-diversidade-novos-desafios-RH/34022/>) | PLMJ |
-| None | Formação presencial de 3h30, certificada pela DGERT e lecionada por Duarte Santana Lopes e Patrícia Garcia, sobre o enquadramento legal e os deveres de prevenção do branqueamento de capitais e do financiamento do terrorismo no setor imobiliário\. | 2026\-10\-27 | 2026\-10\-27 | Morais Leitão participa em formação da APPII Academy sobre prevenção de BC/FT no setor imobiliário | None | [https://www\.mlgts\.pt/pt/conhecimento/noticias/Morais\-Leitao\-participa\-em\-formacao\-da\-APPII\-Academy\-sobre\-prevencao\-de\-BCFT\-no\-setor\-imobiliario/27179/](<https://www.mlgts.pt/pt/conhecimento/noticias/Morais-Leitao-participa-em-formacao-da-APPII-Academy-sobre-prevencao-de-BCFT-no-setor-imobiliario/27179/>) | Morais Leitão |
+| The session is scheduled for 26 November; the publication date establishes the year as 2026\. | An online session in the Fundações 360º Programme examining recent changes to the tax framework for patronage and practical tax issues for foundations and their supporters\. | 2026\-11\-26 | 2026\-11\-26 | Tax Framework for the Foundation Sector | 3:00 pm to 4:00 pm | [https://www\.vda\.pt/en/media/events/vda\-participates\-in\-the\-foundation\-capacity\-building\-sessions/28967/](<https://www.vda.pt/en/media/events/vda-participates-in-the-foundation-capacity-building-sessions/28967/>) | VdA |
+| The announcement is dated November 26, 2026, but does not state when the session took place\. | VdA hosted a panel and roundtable in Porto on amendments to the Legal Framework for Urban Development and Construction \(RJUE\) and their impact on urban development and real estate\. | None | None | VdA hosts session in Porto on amendments to the RJUE | None | [https://www\.vda\.pt/en/media/events/vda\-hosts\-session\-in\-porto\-on\-amendments\-to\-the\-rjue/28966/](<https://www.vda.pt/en/media/events/vda-hosts-session-in-porto-on-amendments-to-the-rjue/28966/>) | VdA |
+| None | Sessão com mesa\-redonda sobre o impacto da revisão da Diretiva\-Quadro dos Resíduos e do Regulamento de Ecodesign para Produtos Sustentáveis no setor têxtil português\. | None | 2026\-11\-20 | Business Breakfast \| Sustentabilidade e Regulação no Setor Têxtil | 09:00 | [https://www\.plmj\.com/pt/conhecimento/eventos/Business\-Breakfast\-Sustentabilidade\-e\-Regulacao\-no\-Setor\-Textil/34719/](<https://www.plmj.com/pt/conhecimento/eventos/Business-Breakfast-Sustentabilidade-e-Regulacao-no-Setor-Textil/34719/>) | PLMJ |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

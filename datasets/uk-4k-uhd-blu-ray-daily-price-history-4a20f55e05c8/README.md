@@ -8,7 +8,7 @@ UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices i
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-25T09:02:38.928015Z
+- Last published: 2026-11-26T09:02:42.785576Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## UK 4K UHD Blu\-ray Price History / price\_history
 
-653 total rows · 50 sampled · Output revision 7
-Published: 2026-11-25T09:02:38.928015Z · Producing pipeline version: 1
+772 total rows · 50 sampled · Output revision 8
+Published: 2026-11-26T09:02:42.785576Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.csv) · [JSON sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.json) · [Schema](outputs/1468933064cd/price-history-3b9b0d17ff6d/schema.json)
 
 | advertised\_discount\_pct | advertised\_offer | capture\_date | captured\_at | edition\_note | format | in\_stock | observation\_key |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 20 | 20% Off \- Use Code HIDEF20 | 2026\-11\-25 | 2026\-11\-25T09:00:28\.192798\+00:00 | Gremlins | 4K Ultra HD Blu\-ray | False | 2026\-11\-25T09:00:28\.192798\+00:00\|HMV\|591297 |
+| 20 | 20% Off \- Use Code HIDEF20 | 2026\-11\-26 | 2026\-11\-26T09:01:06\.939648\+00:00 | House of the Dragon: Season 2 \(hmv Exclusive\) | 4K Ultra HD Blu\-ray | False | 2026\-11\-26T09:01:06\.939648\+00:00\|HMV\|453130 |
+| None | 3 For £50 4K Ultra HD | 2026\-11\-26 | 2026\-11\-26T09:01:06\.939648\+00:00 | Blade Runner 2049 | 4K Ultra HD Blu\-ray | True | 2026\-11\-26T09:01:06\.939648\+00:00\|HMV\|693691 |
 | None | Limited Edition SteelBook | 2026\-11\-21 | 2026\-11\-21T09:00:23\.730736\+00:00 | Clayface \(hmv Exclusive\) Limited Edition 4K Ultra HD SteelBook | 4K Ultra HD Blu\-ray | False | 2026\-11\-21T09:00:23\.730736\+00:00\|HMV\|849047 |
 | None | 3 For £50 4K Ultra HD | 2026\-11\-20 | 2026\-11\-20T09:00:18\.517247\+00:00 | Oppenheimer | 4K Ultra HD Blu\-ray | True | 2026\-11\-20T09:00:18\.517247\+00:00\|HMV\|109233 |
-| None | 3 For £50 4K Ultra HD | 2026\-11\-21 | 2026\-11\-21T09:00:23\.730736\+00:00 | Black Hawk Down | 4K Ultra HD Blu\-ray | False | 2026\-11\-21T09:00:23\.730736\+00:00\|HMV\|554427 |
-| None | 3 For £50 4K Ultra HD | 2026\-11\-20 | 2026\-11\-20T09:00:18\.517247\+00:00 | Dune | 4K Ultra HD Blu\-ray | True | 2026\-11\-20T09:00:18\.517247\+00:00\|HMV\|764287 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

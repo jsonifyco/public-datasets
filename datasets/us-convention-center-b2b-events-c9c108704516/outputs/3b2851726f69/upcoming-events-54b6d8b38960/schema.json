@@ -1,0 +1,66 @@
+[
+  {
+    "name": "city",
+    "type": "text"
+  },
+  {
+    "name": "end_date",
+    "type": "text"
+  },
+  {
+    "name": "event_name",
+    "type": "text"
+  },
+  {
+    "name": "event_type",
+    "type": "text"
+  },
+  {
+    "name": "event_website",
+    "type": "text"
+  },
+  {
+    "name": "expected_attendance",
+    "type": "integer"
+  },
+  {
+    "name": "first_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "industry",
+    "type": "text"
+  },
+  {
+    "name": "last_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "open_to",
+    "type": "text"
+  },
+  {
+    "name": "organizer",
+    "type": "text"
+  },
+  {
+    "name": "source_name",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "start_date",
+    "type": "text"
+  },
+  {
+    "name": "state",
+    "type": "text"
+  },
+  {
+    "name": "venue_name",
+    "type": "text"
+  }
+]

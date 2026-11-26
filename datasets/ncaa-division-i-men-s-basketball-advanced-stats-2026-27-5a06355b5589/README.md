@@ -8,7 +8,7 @@ NCAA Division I men's basketball advanced stats with team records, adjusted effi
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-25T10:00:47.986006Z
+- Last published: 2026-11-26T10:01:09.753427Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## NCAA Division I Men's Basketball Advanced Stats 2026–27 / team\_captures
 
-4,015 total rows · 50 sampled · Output revision 11
-Published: 2026-11-25T10:00:47.986006Z · Producing pipeline version: 1
+4,380 total rows · 50 sampled · Output revision 12
+Published: 2026-11-26T10:01:09.753427Z · Producing pipeline version: 1
 
 [CSV sample](outputs/3c02706620bf/team-captures-b62e049933b3/sample.csv) · [JSON sample](outputs/3c02706620bf/team-captures-b62e049933b3/sample.json) · [Schema](outputs/3c02706620bf/team-captures-b62e049933b3/schema.json)
 
@@ -27,9 +27,9 @@ Published: 2026-11-25T10:00:47.986006Z · Producing pipeline version: 1
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 107\.98036752839172 | 106\.2474821220303 | 69\.83531293476553 | 0\.45362104028085765 | 2026\-11\-21 | 2026\-11\-21T10:00:11\.249744\+00:00 | UAC | 55\.6 |
 | 105\.19256583056404 | 109\.22031061595314 | 68\.01283959545437 | 0\.6063763811151638 | 2026\-11\-24 | 2026\-11\-24T10:00:26\.869200\+00:00 | MVC | 46\.3 |
+| 111\.26740497010407 | 102\.64016261779446 | 70\.00356752742115 | 0\.28330402489380985 | 2026\-11\-26 | 2026\-11\-26T10:01:02\.939566\+00:00 | Metro | 52\.3 |
 | 100\.12661450977834 | 114\.21083208066557 | 69\.40981690027397 | 0\.8195825902807369 | 2026\-11\-23 | 2026\-11\-23T10:00:19\.478972\+00:00 | BSth | 44\.8 |
 | 108\.51376678124461 | 101\.64310165399772 | 69\.47543072557005 | 0\.3203404233539234 | 2026\-11\-25 | 2026\-11\-25T10:00:32\.859171\+00:00 | AE | 47\.9 |
-| 109\.27402540277279 | 95\.51073065665929 | 64\.88465812208749 | 0\.17535632234862175 | 2026\-11\-22 | 2026\-11\-22T10:00:11\.099154\+00:00 | NEC | 53\.8 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

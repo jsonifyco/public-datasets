@@ -7,8 +7,8 @@ A combined table of building permits from Chicago, New York City, Los Angeles, S
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-building-permits-e1c447fbcc9c?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
-- Active pipeline version: 5
-- Last published: 2026-11-19T06:13:08.460686Z
+- Active pipeline version: 6
+- Last published: 2026-11-26T06:26:10.662937Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## US building permits / permits
 
-30,450 total rows · 50 sampled · Output revision 20
-Published: 2026-11-19T06:13:08.460686Z · Producing pipeline version: 5
+37,100 total rows · 50 sampled · Output revision 21
+Published: 2026-11-26T06:26:10.662937Z · Producing pipeline version: 6
 
 [CSV sample](outputs/c9ef3e98e123/permits-f9b6938a67e1/sample.csv) · [JSON sample](outputs/c9ef3e98e123/permits-f9b6938a67e1/sample.json) · [Schema](outputs/c9ef3e98e123/permits-f9b6938a67e1/schema.json)
 
@@ -91,10 +91,13 @@ flowchart LR
 - 2026-11-06T07:39:15.477569Z: v3: Expanded to eight city permit sources with one unified table, company\-only contractors, weekly fourteen\-day checks and a 35,000 monthly cap\. Initial coverage remains open until source exhaustion and successful publication are verified\.
 - 2026-11-06T07:56:38.278521Z: v4: Corrected San Francisco permit labels, Los Angeles work subtypes, Seattle units\-added mapping and combined New York work types\.
 - 2026-11-10T13:04:40.523715Z: v5: Raised the monthly new\-permit limit from 35,000 to 50,000\. Existing sources, fields, Thursday schedule and fourteen\-day look\-back are unchanged\.
+- 2026-11-26T06:25:33.754841Z: v6: Fixed updates stopping as permit tracking grows, while keeping the monthly limit and duplicate checks unchanged\.
 
 ## Recorded repairs
 
-No published records.
+- 2026-11-26T06:21:14.679357Z: no change
+- 2026-11-26T06:25:45.013215Z: repaired
+- 2026-11-26T06:28:16.469471Z: repaired
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-building-permits-e1c447fbcc9c?action=get) — CSV or JSON · Email required
 

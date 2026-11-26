@@ -10,6 +10,16 @@
     "song_title": "Passionfruit"
   },
   {
+    "apple_music_song_id": "1871258330",
+    "apple_music_song_url": "https://music.apple.com/us/song/e85/1871258330",
+    "artist": "Don Toliver",
+    "chart": "Global",
+    "chart_date": "2026-11-26",
+    "position": 74,
+    "snapshot_key": "Global:2026-11-26:74",
+    "song_title": "E85"
+  },
+  {
     "apple_music_song_id": "1418213269",
     "apple_music_song_url": "https://music.apple.com/us/song/gods-plan/1418213269",
     "artist": "Drake",
@@ -110,6 +120,16 @@
     "song_title": "I'm The Problem"
   },
   {
+    "apple_music_song_id": "1440642743",
+    "apple_music_song_url": "https://music.apple.com/us/song/marvins-room/1440642743",
+    "artist": "Drake",
+    "chart": "Global",
+    "chart_date": "2026-11-26",
+    "position": 59,
+    "snapshot_key": "Global:2026-11-26:59",
+    "song_title": "Marvins Room"
+  },
+  {
     "apple_music_song_id": "269573364",
     "apple_music_song_url": "https://music.apple.com/us/song/billie-jean/269573364",
     "artist": "Michael Jackson",
@@ -200,6 +220,16 @@
     "song_title": "Sum 2 Prove"
   },
   {
+    "apple_music_song_id": "6792884088",
+    "apple_music_song_url": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+    "artist": "ADÉLA",
+    "chart": "USA",
+    "chart_date": "2026-11-26",
+    "position": 21,
+    "snapshot_key": "USA:2026-11-26:21",
+    "song_title": "Nicole Kidman"
+  },
+  {
     "apple_music_song_id": "1648587330",
     "apple_music_song_url": "https://music.apple.com/us/song/in-a-minute/1648587330",
     "artist": "Lil Baby",
@@ -240,6 +270,16 @@
     "song_title": "Boston"
   },
   {
+    "apple_music_song_id": "6817260751",
+    "apple_music_song_url": "https://music.apple.com/us/song/musubi/6817260751",
+    "artist": "Ayumu Imazu",
+    "chart": "Global",
+    "chart_date": "2026-11-26",
+    "position": 18,
+    "snapshot_key": "Global:2026-11-26:18",
+    "song_title": "musubi"
+  },
+  {
     "apple_music_song_id": "1529510489",
     "apple_music_song_url": "https://music.apple.com/us/song/power-trip-feat-miguel/1529510489",
     "artist": "J. Cole",
@@ -278,6 +318,16 @@
     "position": 90,
     "snapshot_key": "Global:2026-11-17:90",
     "song_title": "Brand New"
+  },
+  {
+    "apple_music_song_id": "6763091996",
+    "apple_music_song_url": "https://music.apple.com/us/song/i-cant-love-you-anymore/6763091996",
+    "artist": "Ella Langley , Morgan Wallen",
+    "chart": "USA",
+    "chart_date": "2026-11-26",
+    "position": 25,
+    "snapshot_key": "USA:2026-11-26:25",
+    "song_title": "I Can't Love You Anymore"
   },
   {
     "apple_music_song_id": "1239976610",
@@ -370,6 +420,16 @@
     "song_title": "Power Trip (feat. Miguel)"
   },
   {
+    "apple_music_song_id": "1817609507",
+    "apple_music_song_url": "https://music.apple.com/us/song/so-easy-to-fall-in-love/1817609507",
+    "artist": "Olivia Dean",
+    "chart": "Global",
+    "chart_date": "2026-11-26",
+    "position": 27,
+    "snapshot_key": "Global:2026-11-26:27",
+    "song_title": "So Easy (To Fall In Love)"
+  },
+  {
     "apple_music_song_id": "1440830243",
     "apple_music_song_url": "https://music.apple.com/us/song/let-it-snow-let-it-snow-let-it-snow/1440830243",
     "artist": "Dean Martin",
@@ -378,6 +438,16 @@
     "position": 53,
     "snapshot_key": "Global:2026-11-23:53",
     "song_title": "Let It Snow! Let It Snow! Let It Snow!"
+  },
+  {
+    "apple_music_song_id": "669854831",
+    "apple_music_song_url": "https://music.apple.com/us/song/its-beginning-to-look-a-lot-like-christmas/669854831",
+    "artist": "Michael Bublé",
+    "chart": "Global",
+    "chart_date": "2026-11-26",
+    "position": 45,
+    "snapshot_key": "Global:2026-11-26:45",
+    "song_title": "It's Beginning To Look a Lot Like Christmas"
   },
   {
     "apple_music_song_id": "1887194026",
@@ -410,6 +480,16 @@
     "song_title": "Quebec"
   },
   {
+    "apple_music_song_id": "1818425528",
+    "apple_music_song_url": "https://music.apple.com/us/song/thinkin-bout-me/1818425528",
+    "artist": "Morgan Wallen",
+    "chart": "USA",
+    "chart_date": "2026-11-26",
+    "position": 61,
+    "snapshot_key": "USA:2026-11-26:61",
+    "song_title": "Thinkin’ Bout Me"
+  },
+  {
     "apple_music_song_id": "6831506154",
     "apple_music_song_url": "https://music.apple.com/us/song/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506154",
     "artist": "Future",
@@ -418,85 +498,5 @@
     "position": 58,
     "snapshot_key": "USA:2026-11-21:58",
     "song_title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)"
-  },
-  {
-    "apple_music_song_id": "1560735548",
-    "apple_music_song_url": "https://music.apple.com/us/song/deja-vu/1560735548",
-    "artist": "Olivia Rodrigo",
-    "chart": "USA",
-    "chart_date": "2026-11-25",
-    "position": 52,
-    "snapshot_key": "USA:2026-11-25:52",
-    "song_title": "deja vu"
-  },
-  {
-    "apple_music_song_id": "1802103977",
-    "apple_music_song_url": "https://music.apple.com/us/song/just-in-case/1802103977",
-    "artist": "Morgan Wallen",
-    "chart": "USA",
-    "chart_date": "2026-11-20",
-    "position": 49,
-    "snapshot_key": "USA:2026-11-20:49",
-    "song_title": "Just In Case"
-  },
-  {
-    "apple_music_song_id": "1440661545",
-    "apple_music_song_url": "https://music.apple.com/us/song/baby-feat-ludacris/1440661545",
-    "artist": "Justin Bieber",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 58,
-    "snapshot_key": "Global:2026-11-18:58",
-    "song_title": "Baby (feat. Ludacris)"
-  },
-  {
-    "apple_music_song_id": "1444319982",
-    "apple_music_song_url": "https://music.apple.com/us/song/santa-tell-me/1444319982",
-    "artist": "Ariana Grande",
-    "chart": "USA",
-    "chart_date": "2026-11-25",
-    "position": 82,
-    "snapshot_key": "USA:2026-11-25:82",
-    "song_title": "Santa Tell Me"
-  },
-  {
-    "apple_music_song_id": "6820428730",
-    "apple_music_song_url": "https://music.apple.com/us/song/neon/6820428730",
-    "artist": "A2O , A2O LITE",
-    "chart": "Global",
-    "chart_date": "2026-11-23",
-    "position": 21,
-    "snapshot_key": "Global:2026-11-23:21",
-    "song_title": "NEON"
-  },
-  {
-    "apple_music_song_id": "6796864754",
-    "apple_music_song_url": "https://music.apple.com/us/song/bby-wow/6796864754",
-    "artist": "KAROL G , Judeline , rusowsky",
-    "chart": "USA",
-    "chart_date": "2026-11-20",
-    "position": 4,
-    "snapshot_key": "USA:2026-11-20:4",
-    "song_title": "BbY WOW"
-  },
-  {
-    "apple_music_song_id": "1889992113",
-    "apple_music_song_url": "https://music.apple.com/us/song/drop-dead/1889992113",
-    "artist": "Olivia Rodrigo",
-    "chart": "Global",
-    "chart_date": "2026-11-17",
-    "position": 27,
-    "snapshot_key": "Global:2026-11-17:27",
-    "song_title": "drop dead"
-  },
-  {
-    "apple_music_song_id": "1488408568",
-    "apple_music_song_url": "https://music.apple.com/us/song/blinding-lights/1488408568",
-    "artist": "The Weeknd",
-    "chart": "Global",
-    "chart_date": "2026-11-18",
-    "position": 95,
-    "snapshot_key": "Global:2026-11-18:95",
-    "song_title": "Blinding Lights"
   }
 ]

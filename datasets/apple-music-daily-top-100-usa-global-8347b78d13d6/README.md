@@ -8,7 +8,7 @@ Apple Music Top 100 USA and Global chart dataset with chart position, song, arti
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-25T10:00:49.114101Z
+- Last published: 2026-11-26T10:01:15.688191Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Apple Music Daily Top 100 / daily\_charts
 
-1,800 total rows · 50 sampled · Output revision 10
-Published: 2026-11-25T10:00:49.114101Z · Producing pipeline version: 1
+2,000 total rows · 50 sampled · Output revision 11
+Published: 2026-11-26T10:01:15.688191Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.csv) · [JSON sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.json) · [Schema](outputs/a7335034808b/daily-charts-f8952c615818/schema.json)
 
 | chart | chart\_date | position | song\_title | artist | apple\_music\_song\_id | apple\_music\_song\_url | snapshot\_key |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | USA | 2026\-11\-17 | 75 | Passionfruit | Drake | 1440891494 | [https://music\.apple\.com/us/song/passionfruit/1440891494](<https://music.apple.com/us/song/passionfruit/1440891494>) | USA:2026\-11\-17:75 |
+| Global | 2026\-11\-26 | 74 | E85 | Don Toliver | 1871258330 | [https://music\.apple\.com/us/song/e85/1871258330](<https://music.apple.com/us/song/e85/1871258330>) | Global:2026\-11\-26:74 |
 | USA | 2026\-11\-21 | 69 | God's Plan | Drake | 1418213269 | [https://music\.apple\.com/us/song/gods\-plan/1418213269](<https://music.apple.com/us/song/gods-plan/1418213269>) | USA:2026\-11\-21:69 |
 | Global | 2026\-11\-24 | 34 | WAIT FOR U \(feat\. Drake &amp; Tems\) | Future | 1621119447 | [https://music\.apple\.com/us/song/wait\-for\-u\-feat\-drake\-tems/1621119447](<https://music.apple.com/us/song/wait-for-u-feat-drake-tems/1621119447>) | Global:2026\-11\-24:34 |
 | USA | 2026\-11\-17 | 12 | Stop The Wedding\! | Ashe | 6795697687 | [https://music\.apple\.com/us/song/stop\-the\-wedding/6795697687](<https://music.apple.com/us/song/stop-the-wedding/6795697687>) | USA:2026\-11\-17:12 |
-| Global | 2026\-11\-23 | 95 | E85 | Don Toliver | 1871258330 | [https://music\.apple\.com/us/song/e85/1871258330](<https://music.apple.com/us/song/e85/1871258330>) | Global:2026\-11\-23:95 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

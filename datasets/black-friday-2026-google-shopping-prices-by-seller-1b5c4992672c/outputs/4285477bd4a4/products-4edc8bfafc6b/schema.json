@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Product name",
+    "type": "text"
+  },
+  {
+    "name": "SKU",
+    "type": "text"
+  },
+  {
+    "name": "MPN",
+    "type": "text"
+  },
+  {
+    "name": "GTIN",
+    "type": "text"
+  },
+  {
+    "name": "Category",
+    "type": "text"
+  },
+  {
+    "name": "Market",
+    "type": "text"
+  },
+  {
+    "name": "Currency",
+    "type": "text"
+  },
+  {
+    "name": "Snapshot",
+    "type": "text"
+  },
+  {
+    "name": "Observed at",
+    "type": "text"
+  },
+  {
+    "name": "Min price",
+    "type": "numeric"
+  },
+  {
+    "name": "Median price",
+    "type": "numeric"
+  },
+  {
+    "name": "Max price",
+    "type": "numeric"
+  },
+  {
+    "name": "Seller count",
+    "type": "bigint"
+  },
+  {
+    "name": "Offer count",
+    "type": "bigint"
+  },
+  {
+    "name": "Cheapest seller",
+    "type": "text"
+  },
+  {
+    "name": "Coverage status",
+    "type": "text"
+  },
+  {
+    "name": "Price basis",
+    "type": "text"
+  },
+  {
+    "name": "Retail offer count",
+    "type": "bigint"
+  },
+  {
+    "name": "Retail seller count",
+    "type": "bigint"
+  },
+  {
+    "name": "Used offer count",
+    "type": "bigint"
+  },
+  {
+    "name": "Used min price",
+    "type": "numeric"
+  },
+  {
+    "name": "Unknown condition offer count",
+    "type": "bigint"
+  },
+  {
+    "name": "Previous min price",
+    "type": "numeric"
+  },
+  {
+    "name": "Previous coverage status",
+    "type": "text"
+  },
+  {
+    "name": "Lowest price change",
+    "type": "numeric"
+  },
+  {
+    "name": "Lowest price change %",
+    "type": "numeric"
+  }
+]

@@ -8,7 +8,7 @@ eBay US sold listings for Pokémon cards, with displayed sold price, shipping, s
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-25T09:06:22.301724Z
+- Last published: 2026-11-26T09:06:22.630106Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## eBay Pokémon sold sales and summaries / listings
 
-9,585 total rows · 50 sampled · Output revision 13
-Published: 2026-11-25T09:06:22.301724Z · Producing pipeline version: 3
+10,452 total rows · 50 sampled · Output revision 14
+Published: 2026-11-26T09:06:22.630106Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.csv) · [JSON sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.json) · [Schema](outputs/77b8757ad9a2/listings-8a836f245cd6/schema.json)
 
@@ -27,9 +27,9 @@ Published: 2026-11-25T09:06:22.301724Z · Producing pipeline version: 3
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | None | 2026\-11\-19T09:00:14\.653814\+00:00 | Glaceon VMAX Evolving Skies Alt Art 209/203 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/9SMAAeSwuRRq6LnG/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/9SMAAeSwuRRq6LnG/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/9SMAAeSwuRRq6LnG/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/9SMAAeSwuRRq6LnG/s-l1600.jpg>)"\] |
 | None | 2026\-11\-25T09:01:00\.785634\+00:00 | Venusaur ex 151 SIR 198/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/Y7cAAeSwQBZq\~hze/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/Y7cAAeSwQBZq~hze/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/Y7cAAeSwQBZq\~hze/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/Y7cAAeSwQBZq~hze/s-l1600.jpg>)"\] |
+| None | 2026\-11\-26T09:01:31\.762013\+00:00 | Charizard ex 151 SIR 199/165 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/kj8AAeSwTklq\~gXC/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/kj8AAeSwTklq~gXC/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/kj8AAeSwTklq\~gXC/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/kj8AAeSwTklq~gXC/s-l1600.jpg>)"\] |
 | None | 2026\-11\-23T09:00:30\.057543\+00:00 | Espeon VMAX Fusion Strike Alt Art 270/264 \| PSA 10 | New \(Other\) | USD | PSA 10 | [https://i\.ebayimg\.com/images/g/oUkAAeSwWYhq15UZ/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/oUkAAeSwWYhq15UZ/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/oUkAAeSwWYhq15UZ/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/oUkAAeSwWYhq15UZ/s-l1600.jpg>)"\] |
 | None | 2026\-11\-22T09:00:16\.283481\+00:00 | Lugia V Silver Tempest Alt Art 186/195 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/dgIAAeSwpzNq7\-52/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/dgIAAeSwpzNq7-52/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/dgIAAeSwpzNq7\-52/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/dgIAAeSwpzNq7-52/s-l1600.jpg>)"\] |
-| True | 2026\-11\-20T09:00:13\.614396\+00:00 | Magikarp Paldea Evolved Illustration Rare 203/193 \| raw | Pre\-Owned | USD | raw \(no grading stated\) | [https://i\.ebayimg\.com/images/g/bHQAAeSwzZlq\-rsR/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/bHQAAeSwzZlq-rsR/s-l1600.jpg>) | \["[https://i\.ebayimg\.com/images/g/bHQAAeSwzZlq\-rsR/s\-l1600\.jpg](<https://i.ebayimg.com/images/g/bHQAAeSwzZlq-rsR/s-l1600.jpg>)"\] |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -58,8 +58,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## eBay Pokémon sold sales and summaries / summaries
 
-220 total rows · 50 sampled · Output revision 13
-Published: 2026-11-25T09:06:22.301724Z · Producing pipeline version: 3
+240 total rows · 50 sampled · Output revision 14
+Published: 2026-11-26T09:06:22.630106Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.csv) · [JSON sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.json) · [Schema](outputs/77b8757ad9a2/summaries-c626a992e31b/schema.json)
 

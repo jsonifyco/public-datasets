@@ -8,7 +8,7 @@ Public Citius insolvency notices with debtor, court, publication date and publis
 
 - Refresh: daily
 - Active pipeline version: 10
-- Last published: 2026-11-25T06:22:10.568823Z
+- Last published: 2026-11-26T06:26:01.851012Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Avisos de insolvência / avisos
 
-305 total rows · 50 sampled · Output revision 25
-Published: 2026-11-25T06:22:10.568823Z · Producing pipeline version: 10
+357 total rows · 50 sampled · Output revision 26
+Published: 2026-11-26T06:26:01.851012Z · Producing pipeline version: 10
 
 [CSV sample](outputs/43cb4b753508/avisos-354cde498655/sample.csv) · [JSON sample](outputs/43cb4b753508/avisos-354cde498655/sample.json) · [Schema](outputs/43cb4b753508/avisos-354cde498655/schema.json)
 
 | Distrito | Estado do prazo | NIF ou NIPC | Natureza do devedor | Prazo publicado | Processo | Publicado em | Tipo de anúncio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lisboa | Não verificado: documento indisponível | 517523299 | Empresa | None | 3346/26\.4T8VFX | 2026\-11\-23 | declaração de insolvência |
-| Porto | Prazo não identificado no documento | 268543704 | Pessoa singular | None | 1199/26\.1T8AMT | 2026\-11\-19 | encerramento |
-| Lisboa | Prazo identificado no documento | 513674144 | Empresa | 30 dias\. O prazo para a reclamação de créditos foi fixado em 30 dias e começa a correr finda a dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. Os prazos são contínuos e não se suspendem durante as férias judiciais\. | 28141/26\.7T8LSB | 2026\-11\-24 | declaração de insolvência |
-| Porto | Prazo identificado no documento | 224119117; 236179209 | Pessoa singular | 30 dias, contados após o termo da dilação; a dilação conta\-se da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | 1628/26\.4T8AMT | 2026\-11\-23 | declaração de insolvência |
-| Porto | Prazo não identificado no documento | 127686991 | Pessoa singular | None | 6502/26\.1T8VNG | 2026\-11\-19 | Outro |
+| Lisboa | Prazo não identificado no documento | 509142338 | Empresa | None | 1289/12\.8TBTVD\-G | 2026\-11\-23 | Outro |
+| Lisboa | Prazo não identificado no documento | 253098360 | Pessoa singular | None | 12096/23\.2T8SNT | 2026\-11\-24 | Outro |
+| Lisboa | Prazo não identificado no documento | 240010965; 213905680 | Pessoa singular | None | 5642/26\.1T8SNT | 2026\-11\-23 | encerramento |
+| Lisboa | Prazo não identificado no documento | 503909823 | Empresa | None | 27406/25\.0T8LSB\-A | 2026\-11\-25 | Outro |
+| Porto | Prazo identificado no documento | 167736930 | Pessoa singular | No prazo de trinta dias, findos os dos éditos \(cinco dias contados da publicação deste edital\), para os credores da massa insolvente contestarem, querendo, a presente ação \(verificação ulterior de créditos\)\. | 2477/26\.5T8STS\-A | 2026\-11\-20 | Outro |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Avisos de insolvência / insolvency\_notices\_pt
 
-305 total rows · 50 sampled · Output revision 25
-Published: 2026-11-25T06:22:10.568823Z · Producing pipeline version: 10
+357 total rows · 50 sampled · Output revision 26
+Published: 2026-11-26T06:26:01.851012Z · Producing pipeline version: 10
 
 [CSV sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.csv) · [JSON sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.json) · [Schema](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/schema.json)
 
 | claims\_deadline | court | debtor\_name | debtor\_nif | debtor\_type | district | insolvency\_administrator | notice\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 3 | Maria Guilhermina Ferreira Teixeira | 180990730 | individual | Porto | Agostinho da Silva Pedro | other |
-| None | Lisboa \- Tribunal Judicial da Comarca de Lisboa / Juízo de Comércio de Lisboa \- Juiz 6 | Carla Orlanda Cabrita Santos | 222276592 | individual | Lisboa | António Dias Seabra | other |
-| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 1 | Cristina Maria Rodrigues Lopes Pinto; José Luis Pinto | 113823908; 113823916 | individual | Lisboa | Sílvia Isabel Gonçalves Rodrigues Esteves das Neves | other |
-| None | Comarca de Lisboa Norte \- Vila Franca de Xira / Juízo de Comércio de Vila Franca de Xira \- Juiz 1 | AGOSTINHO PINHO, GÁS LDA | 509445446 | company | Lisboa | João Fernandes de Sousa | other |
-| Trinta dias, findos os éditos de cinco dias contados da publicação deste edital, para os credores da massa insolvente contestarem, querendo, a verificação de créditos \(arts\. 146\.º e 148\.º do CIRE\)\. | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 6 | Tamára Garcias Nascimento | 274457296 | individual | Porto | Pedro Miguel Santos Mendes | other |
+| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 1 | Aida Rute dos Santos Horta | 166254509 | individual | Lisboa | António José Leal Carneiro | other |
+| None | Comarca de Lisboa \- Lisboa / Juízo de Comércio de Lisboa \- Juiz 2 | Manuel de Jesus Afonso da Fonseca | 121708160 | individual | Lisboa | Olga Maria Trancho de Matos Castelão | other |
+| None | Comarca do Porto Este \- Amarante / Juízo de Comércio de Amarante \- Juiz 3 | Edificariz \- Empreendimentos Imobiliários Lda | 504053728 | company | Porto | António Dias Seabra | encerramento |
+| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 5 | Paulo André de Sousa Ferreira | 237993562 | individual | Porto | Maria Paula Ribeiro Mattamouros Resende | encerramento |
+| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 5 | Simone Maria Alves Rosario | 261070819 | individual | Lisboa | Natália Maria Madeira Relvas | other |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

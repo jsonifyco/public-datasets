@@ -1,8 +1,8 @@
 [
   {
-    "checked_at": "2026-11-25T08:00:19.929419+00:00",
+    "checked_at": "2026-11-26T08:01:01.209340+00:00",
     "published_at": "2026-11-23T08:20:29Z",
-    "release_age_days": 1,
+    "release_age_days": 2,
     "release_id": "455146189",
     "release_name": "v4.1.0",
     "release_notes": "## What's Changed\n* [#19942] Remove resources from projects without deleting them by @melohagan in https://github.com/Budibase/budibase/pull/20097\n* Preserve last visited workspace on the builder by @adrinr in https://github.com/Budibase/budibase/pull/20073\n* [#19946] Include custom OpenAPI specs in project exports by @melohagan in https://github.com/Budibase/budibase/pull/20086\n* [20084] hide project assignment when no projects exist by @andz-bb in https://github.com/Budibase/budibase/pull/20100\n* Clear operation knowledge when duplicating an agent by @deanhannigan in https://github.com/Budibase/budibase/pull/20110\n* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20111\n* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20114\n\n\n**Full Changelog**: https://github.com/Budibase/budibase/compare/v4.0.1...v4.1.0",
@@ -15,9 +15,24 @@
     "version": "v4.1.0"
   },
   {
-    "checked_at": "2026-11-25T08:00:19.891931+00:00",
+    "checked_at": "2026-11-26T08:01:01.283745+00:00",
+    "published_at": "2026-11-26T07:23:34Z",
+    "release_age_days": 0,
+    "release_id": "459077598",
+    "release_name": "n8n@2.49.7",
+    "release_notes": "## [2.49.7](https://github.com/n8n-io/n8n/compare/n8n@2.49.6...n8n@2.49.7) (2026-11-26)\n\n\n### Bug Fixes\n\n* Apply execution data size limit in MCP get_workflow_execution ([#45142](https://github.com/n8n-io/n8n/issues/45142)) ([1e42a0a](https://github.com/n8n-io/n8n/commit/1e42a0a5b5cf8a4d9406911885708e2334feaf72))\n* **core:** Align extractUrlPath results of isolate expression engines with legacy ([#45150](https://github.com/n8n-io/n8n/issues/45150)) ([c1e144e](https://github.com/n8n-io/n8n/commit/c1e144e5cb1089ad8af3ebfeea7e7a15e2cf8065))\n* **core:** Reduce memory use of concat on workflow data arrays in isolate expression engines ([#45156](https://github.com/n8n-io/n8n/issues/45156)) ([0e11672](https://github.com/n8n-io/n8n/commit/0e11672cafe5b8165caff422d76181bfed6d3a15))\n* Preserve boxed primitives across expression engines ([#45206](https://github.com/n8n-io/n8n/issues/45206)) ([eba225f](https://github.com/n8n-io/n8n/commit/eba225f015eaba3c4d18db501940b7c95c992455))\n\n<!-- This is an auto-generated description by cubic. -->\n<a href=\"https://cubic.dev/pr/n8n-io/n8n/pull/45262?utm_source=github\" target=\"_blank\" rel=\"noopener noreferrer\" data-no-image-dialog=\"true\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://www.cubic.dev/buttons/review-in-cubic-dark.svg\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://www.cubic.dev/buttons/review-in-cubic-light.svg\"><img alt=\"View guided diff\" src=\"https://www.cubic.dev/buttons/review-in-cubic-light.svg\"></picture></a> <a href=\"https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/45262?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F45262&source=description\" target=\"_blank\" rel=\"noopener noreferrer\" data-no-image-dialog=\"true\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg\"><img alt=\"Turn on auto-fix\" src=\"https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg\"></picture></a>\n<!-- End of auto-generated description by cubic. -->\n\n",
+    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.7",
+    "repository": "n8n-io/n8n",
+    "repository_url": "https://github.com/n8n-io/n8n",
+    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
+    "tool": "n8n",
+    "use_case": "Workflow automation and integrations",
+    "version": "n8n@2.49.7"
+  },
+  {
+    "checked_at": "2026-11-26T08:01:01.157678+00:00",
     "published_at": "2026-11-19T16:23:11Z",
-    "release_age_days": 5,
+    "release_age_days": 6,
     "release_id": "451605836",
     "release_name": "Release v2.7.2 🌈",
     "release_notes": "## 🔐 Security\r\n\r\n- The bundled Java runtime is now Eclipse Temurin 25.0.5.1. This fixes [CVE-2026-114938](https://nvd.nist.gov/vuln/detail/CVE-2026-114938) (\"Java4Shell\") in the Java runtime. All earlier Appsmith images include an affected Java version. Self-hosted instances should upgrade.",
@@ -28,20 +43,5 @@
     "tool": "Appsmith",
     "use_case": "Internal tools, admin panels and database frontends",
     "version": "v2.7.2"
-  },
-  {
-    "checked_at": "2026-11-25T08:00:19.981440+00:00",
-    "published_at": "2026-11-23T15:25:29Z",
-    "release_age_days": 1,
-    "release_id": "455608909",
-    "release_name": "n8n@2.49.5",
-    "release_notes": "## [2.49.5](https://github.com/n8n-io/n8n/compare/n8n@2.49.4...n8n@2.49.5) (2026-11-23)\n\n\n### Bug Fixes\n\n* **core:** Refresh the cached token of an expirable credential during its test ([#44832](https://github.com/n8n-io/n8n/issues/44832)) ([5041b0d](https://github.com/n8n-io/n8n/commit/5041b0deb0aefe88b339b36c33372038cb50ff8f))\n* **core:** Return an item that holds a value the vm expression engine cannot copy ([#44879](https://github.com/n8n-io/n8n/issues/44879)) ([36ef1a5](https://github.com/n8n-io/n8n/commit/36ef1a51854c6a55e24561b2bda40f2009fa9247))\n\n<!-- This is an auto-generated description by cubic. -->\n<a href=\"https://cubic.dev/pr/n8n-io/n8n/pull/44901?utm_source=github\" target=\"_blank\" rel=\"noopener noreferrer\" data-no-image-dialog=\"true\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://www.cubic.dev/buttons/review-in-cubic-dark.svg\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://www.cubic.dev/buttons/review-in-cubic-light.svg\"><img alt=\"View guided diff\" src=\"https://www.cubic.dev/buttons/review-in-cubic-light.svg\"></picture></a> <a href=\"https://www.cubic.dev/action/auto-fix/pr/n8n-io/n8n/44901?returnTo=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n%2Fpull%2F44901&source=description\" target=\"_blank\" rel=\"noopener noreferrer\" data-no-image-dialog=\"true\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://www.cubic.dev/buttons/turn-on-auto-fix-dark.svg\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg\"><img alt=\"Turn on auto-fix\" src=\"https://www.cubic.dev/buttons/turn-on-auto-fix-light.svg\"></picture></a>\n<!-- End of auto-generated description by cubic. -->\n\n",
-    "release_url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.5",
-    "repository": "n8n-io/n8n",
-    "repository_url": "https://github.com/n8n-io/n8n",
-    "source_url": "https://api.github.com/repos/n8n-io/n8n/releases/latest",
-    "tool": "n8n",
-    "use_case": "Workflow automation and integrations",
-    "version": "n8n@2.49.5"
   }
 ]

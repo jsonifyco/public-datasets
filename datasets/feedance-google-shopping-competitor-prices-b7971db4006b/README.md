@@ -320,6 +320,8 @@ flowchart LR
 - 2026-11-24T06:37:31.748584Z: temporary blocker
 - 2026-11-25T06:38:39.673690Z: no change
 - 2026-11-25T06:39:29.975957Z: temporary blocker
+- 2026-11-26T06:41:38.485049Z: no change
+- 2026-11-26T06:42:02.492651Z: temporary blocker
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/feedance-google-shopping-competitor-prices-b7971db4006b?action=get) — CSV or JSON · Email required
 

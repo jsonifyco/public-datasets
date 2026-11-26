@@ -8,7 +8,7 @@ Explore job postings from public Greenhouse and Ashby careers boards\. Export to
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-25T09:01:30.505995Z
+- Last published: 2026-11-26T09:02:11.734110Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## Tech &amp; AI Job History / postings
 
-46,526 total rows · 50 sampled · Output revision 7
-Published: 2026-11-25T09:01:30.505995Z · Producing pipeline version: 1
+53,218 total rows · 50 sampled · Output revision 8
+Published: 2026-11-26T09:02:11.734110Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.csv) · [JSON sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.json) · [Schema](outputs/1ee398128fc6/postings-4d6282602ee9/schema.json)
 
@@ -56,8 +56,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Tech &amp; AI Job History / captures
 
-175 total rows · 50 sampled · Output revision 7
-Published: 2026-11-25T09:01:30.505995Z · Producing pipeline version: 1
+200 total rows · 50 sampled · Output revision 8
+Published: 2026-11-26T09:02:11.734110Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.csv) · [JSON sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.json) · [Schema](outputs/1ee398128fc6/captures-2d9457560f11/schema.json)
 

@@ -153,6 +153,34 @@
     "workplace_type": "OnSite"
   },
   {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Notion",
+    "department": [
+      "Early Career"
+    ],
+    "employment_type": [
+      "Internship"
+    ],
+    "employment_type_source": "Intern",
+    "first_seen_date": "2026-11-19",
+    "job_id": "43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "job_title": "Software Engineering Intern, Frontend (Summer 2027)",
+    "job_url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "last_updated_date": null,
+    "locations": [
+      "New York, New York",
+      "San Francisco, California"
+    ],
+    "locations_source": [
+      "New York, New York",
+      "San Francisco, California"
+    ],
+    "posted_date": "2026-11-06T18:42:11.019+00:00",
+    "remote_flag": true,
+    "team": "Early Career",
+    "workplace_type": "Hybrid"
+  },
+  {
     "capture_date": "2026-11-19T16:31:15.157852+00:00",
     "company": "Notion",
     "department": [
@@ -177,6 +205,30 @@
     "remote_flag": true,
     "team": "Engineering",
     "workplace_type": "Hybrid"
+  },
+  {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Coinbase",
+    "department": [
+      "Engineering - Infrastructure"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8155366",
+    "job_title": "Senior Staff Software Engineer, Platform - IAM",
+    "job_url": "https://www.coinbase.com/careers/positions/8155366?gh_jid=8155366",
+    "last_updated_date": "2026-10-30T10:40:36-04:00",
+    "locations": [
+      "Remote - USA"
+    ],
+    "locations_source": [
+      "Remote - USA"
+    ],
+    "posted_date": "2026-09-09T20:23:49-04:00",
+    "remote_flag": true,
+    "team": "Platform",
+    "workplace_type": "Remote"
   },
   {
     "capture_date": "2026-11-21T09:00:30.919470+00:00",
@@ -357,6 +409,30 @@
     "workplace_type": "Hybrid"
   },
   {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Brex",
+    "department": [
+      "Engineering"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8618076002",
+    "job_title": "Staff Software Engineer, Banking",
+    "job_url": "https://www.brex.com/careers/8618076002?gh_jid=8618076002",
+    "last_updated_date": "2026-07-22T13:26:02-04:00",
+    "locations": [
+      "Seattle, Washington, United States"
+    ],
+    "locations_source": [
+      "Seattle, Washington, United States"
+    ],
+    "posted_date": "2026-07-02T12:35:20-04:00",
+    "remote_flag": null,
+    "team": null,
+    "workplace_type": null
+  },
+  {
     "capture_date": "2026-11-25T09:00:33.410506+00:00",
     "company": "Datadog",
     "department": [
@@ -435,6 +511,30 @@
     "remote_flag": true,
     "team": null,
     "workplace_type": "Remote"
+  },
+  {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Databricks",
+    "department": [
+      "Field Engineering - FE Direct Regulated"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8933544002",
+    "job_title": "Applied AI Architect",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933544002",
+    "last_updated_date": "2026-11-19T16:47:39-05:00",
+    "locations": [
+      "United States"
+    ],
+    "locations_source": [
+      "United States"
+    ],
+    "posted_date": "2026-11-06T12:57:55-05:00",
+    "remote_flag": null,
+    "team": null,
+    "workplace_type": null
   },
   {
     "capture_date": "2026-11-25T09:00:33.410506+00:00",
@@ -746,6 +846,60 @@
     "workplace_type": null
   },
   {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Datadog",
+    "department": [
+      "Business Recruiting"
+    ],
+    "employment_type": [
+      "Full-time"
+    ],
+    "employment_type_source": "Full time",
+    "first_seen_date": "2026-11-19",
+    "job_id": "8237641",
+    "job_title": "Recruiter II, Technical Solutions",
+    "job_url": "https://careers.datadoghq.com/detail/8237641/?gh_jid=8237641",
+    "last_updated_date": "2026-11-05T12:12:56-05:00",
+    "locations": [
+      "Boston, Massachusetts, USA",
+      "Denver, Colorado, USA",
+      "New York, New York, USA"
+    ],
+    "locations_source": [
+      "Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA"
+    ],
+    "posted_date": "2026-09-29T14:26:47-04:00",
+    "remote_flag": null,
+    "team": null,
+    "workplace_type": null
+  },
+  {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "OpenAI",
+    "department": [
+      "Applied AI"
+    ],
+    "employment_type": [
+      "Full-time"
+    ],
+    "employment_type_source": "FullTime",
+    "first_seen_date": "2026-11-19",
+    "job_id": "eefeb527-4e36-432e-a787-88e4672e29e1",
+    "job_title": "Software Engineer, Codex Cyber",
+    "job_url": "https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1",
+    "last_updated_date": null,
+    "locations": [
+      "San Francisco"
+    ],
+    "locations_source": [
+      "San Francisco"
+    ],
+    "posted_date": "2026-07-07T05:36:29.100+00:00",
+    "remote_flag": null,
+    "team": "Codex - Engineering",
+    "workplace_type": null
+  },
+  {
     "capture_date": "2026-11-21T09:00:30.919470+00:00",
     "company": "Databricks",
     "department": [
@@ -821,6 +975,32 @@
     "workplace_type": null
   },
   {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Cloudflare",
+    "department": [
+      "Solution Engineering"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8170534",
+    "job_title": "Senior Customer Engineer, Turkey",
+    "job_url": "https://boards.greenhouse.io/cloudflare/jobs/8170534?gh_jid=8170534",
+    "last_updated_date": "2026-11-09T19:03:42-05:00",
+    "locations": [
+      "Hybrid",
+      "Dubai, UAE"
+    ],
+    "locations_source": [
+      "Hybrid",
+      "Dubai, UAE"
+    ],
+    "posted_date": "2026-09-09T17:08:39-04:00",
+    "remote_flag": null,
+    "team": null,
+    "workplace_type": "Hybrid"
+  },
+  {
     "capture_date": "2026-11-25T09:00:33.410506+00:00",
     "company": "Notion",
     "department": [
@@ -870,6 +1050,57 @@
     "posted_date": "2025-04-14T21:41:35.324+00:00",
     "remote_flag": null,
     "team": "Applied AI Engineering",
+    "workplace_type": null
+  },
+  {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Reddit",
+    "department": [
+      "Community"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8275964",
+    "job_title": "Community Manager – French Speaking (12-Month Contract)",
+    "job_url": "https://job-boards.greenhouse.io/reddit/jobs/8275964",
+    "last_updated_date": "2026-11-23T11:30:54-05:00",
+    "locations": [
+      "Remote - Ireland"
+    ],
+    "locations_source": [
+      "Remote - Ireland"
+    ],
+    "posted_date": "2026-10-13T04:09:25-04:00",
+    "remote_flag": true,
+    "team": null,
+    "workplace_type": "Remote"
+  },
+  {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Anthropic",
+    "department": [
+      "Applied AI"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "5017903008",
+    "job_title": "Technical Deployment Lead",
+    "job_url": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
+    "last_updated_date": "2026-10-13T19:38:22-04:00",
+    "locations": [
+      "Boston, MA",
+      "New York City, NY",
+      "San Francisco, CA",
+      "Seattle, WA"
+    ],
+    "locations_source": [
+      "Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA"
+    ],
+    "posted_date": "2025-12-04T10:12:44-05:00",
+    "remote_flag": null,
+    "team": null,
     "workplace_type": null
   },
   {
@@ -946,6 +1177,56 @@
     "workplace_type": null
   },
   {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "OpenAI",
+    "department": [
+      "Global Affairs"
+    ],
+    "employment_type": [
+      "Full-time"
+    ],
+    "employment_type_source": "FullTime",
+    "first_seen_date": "2026-11-19",
+    "job_id": "58b8ac53-8be9-4120-a9f6-a8811cb7f5a9",
+    "job_title": "US Congressional Lead",
+    "job_url": "https://jobs.ashbyhq.com/openai/58b8ac53-8be9-4120-a9f6-a8811cb7f5a9",
+    "last_updated_date": null,
+    "locations": [
+      "Washington, DC"
+    ],
+    "locations_source": [
+      "Washington, DC"
+    ],
+    "posted_date": "2026-10-01T19:22:29.243+00:00",
+    "remote_flag": true,
+    "team": "Global Affairs",
+    "workplace_type": "Hybrid"
+  },
+  {
+    "capture_date": "2026-11-26T09:01:12.984166+00:00",
+    "company": "Stripe",
+    "department": [
+      "1154 Specialized Solutions Architecture"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8223712",
+    "job_title": "Specialist Solutions Architect, Money Management",
+    "job_url": "https://stripe.com/jobs/search?gh_jid=8223712",
+    "last_updated_date": "2026-11-19T12:10:07-05:00",
+    "locations": [
+      "AMER"
+    ],
+    "locations_source": [
+      "AMER"
+    ],
+    "posted_date": "2026-09-29T10:08:23-04:00",
+    "remote_flag": null,
+    "team": null,
+    "workplace_type": null
+  },
+  {
     "capture_date": "2026-11-20T09:00:21.043966+00:00",
     "company": "Datadog",
     "department": [
@@ -997,289 +1278,5 @@
     "remote_flag": true,
     "team": "Finance",
     "workplace_type": "Hybrid"
-  },
-  {
-    "capture_date": "2026-11-23T09:10:07.650156+00:00",
-    "company": "Airbnb",
-    "department": [
-      "Communications"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "8364499",
-    "job_title": "Senior Communications Manager, Korea",
-    "job_url": "https://careers.airbnb.com/positions/8364499?gh_jid=8364499",
-    "last_updated_date": "2026-11-10T17:52:22-05:00",
-    "locations": [
-      "Seoul, South Korea"
-    ],
-    "locations_source": [
-      "Seoul, South Korea"
-    ],
-    "posted_date": "2026-11-08T23:10:31-05:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": "Hybrid"
-  },
-  {
-    "capture_date": "2026-11-25T09:00:33.410506+00:00",
-    "company": "OpenAI",
-    "department": [
-      "User Operations"
-    ],
-    "employment_type": [
-      "Full-time"
-    ],
-    "employment_type_source": "FullTime",
-    "first_seen_date": "2026-11-19",
-    "job_id": "73728d6c-8d8d-4aed-86c6-c2e73d9efec9",
-    "job_title": "Dedicated Support Engineer - Tokyo",
-    "job_url": "https://jobs.ashbyhq.com/openai/73728d6c-8d8d-4aed-86c6-c2e73d9efec9",
-    "last_updated_date": null,
-    "locations": [
-      "Tokyo, Japan"
-    ],
-    "locations_source": [
-      "Tokyo, Japan"
-    ],
-    "posted_date": "2026-09-25T16:42:11.612+00:00",
-    "remote_flag": null,
-    "team": "Support Delivery",
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-23T09:10:07.650156+00:00",
-    "company": "Cloudflare",
-    "department": [
-      "Emerging Technology and Incubation"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "7093840",
-    "job_title": "Senior Systems Engineer, Basin Pipelines",
-    "job_url": "https://boards.greenhouse.io/cloudflare/jobs/7093840?gh_jid=7093840",
-    "last_updated_date": "2026-11-09T19:03:42-05:00",
-    "locations": [
-      "In-Office",
-      "Austin, US",
-      "London, UK",
-      "New York, NY",
-      "San Francisco, CA",
-      "Seattle, US"
-    ],
-    "locations_source": [
-      "In-Office",
-      "Austin, US",
-      "London, UK",
-      "New York, NY",
-      "San Francisco, CA",
-      "Seattle, US"
-    ],
-    "posted_date": "2025-07-28T08:25:01-04:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-22T09:00:33.033946+00:00",
-    "company": "Anthropic",
-    "department": [
-      "Compute"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "5468392008",
-    "job_title": "Data Center Electrical Engineer – Design",
-    "job_url": "https://job-boards.greenhouse.io/anthropic/jobs/5468392008",
-    "last_updated_date": "2026-10-30T12:37:34-04:00",
-    "locations": [
-      "Remote-Friendly, United States"
-    ],
-    "locations_source": [
-      "Remote-Friendly, United States"
-    ],
-    "posted_date": "2026-10-30T12:37:34-04:00",
-    "remote_flag": false,
-    "team": null,
-    "workplace_type": "On-Site"
-  },
-  {
-    "capture_date": "2026-11-23T09:10:07.650156+00:00",
-    "company": "Databricks",
-    "department": [
-      "Product"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "8584704002",
-    "job_title": "Staff Product Designer, AI Products ",
-    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8584704002",
-    "last_updated_date": "2026-11-19T16:47:39-05:00",
-    "locations": [
-      "New York City, New York"
-    ],
-    "locations_source": [
-      "New York City, New York"
-    ],
-    "posted_date": "2026-06-11T14:23:18-04:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-22T09:00:33.033946+00:00",
-    "company": "Stripe",
-    "department": [
-      "4141 SDC - Central Operations Enablement"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "8131339",
-    "job_title": "Operations Associate, Apprenticeship",
-    "job_url": "https://stripe.com/jobs/search?gh_jid=8131339",
-    "last_updated_date": "2026-11-19T12:09:59-05:00",
-    "locations": [
-      "Bengaluru"
-    ],
-    "locations_source": [
-      "Bengaluru"
-    ],
-    "posted_date": "2026-09-01T00:50:45-04:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-24T09:00:37.017012+00:00",
-    "company": "Reddit",
-    "department": [
-      "Dev Platform"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "7950520",
-    "job_title": "Senior Software Engineer - DevX",
-    "job_url": "https://job-boards.greenhouse.io/reddit/jobs/7950520",
-    "last_updated_date": "2026-11-23T11:30:54-05:00",
-    "locations": [
-      "Remote - United States"
-    ],
-    "locations_source": [
-      "Remote - United States"
-    ],
-    "posted_date": "2026-05-21T12:03:27-04:00",
-    "remote_flag": true,
-    "team": null,
-    "workplace_type": "Remote"
-  },
-  {
-    "capture_date": "2026-11-24T09:00:37.017012+00:00",
-    "company": "Databricks",
-    "department": [
-      "Field Engineering - Other"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "8637781002",
-    "job_title": "Solutions Architect - Core FSI",
-    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637781002",
-    "last_updated_date": "2026-11-20T17:07:31-05:00",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "locations_source": [
-      "Mumbai, India"
-    ],
-    "posted_date": "2026-08-05T04:13:47-04:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-23T09:10:07.650156+00:00",
-    "company": "OpenAI",
-    "department": [
-      "Finance"
-    ],
-    "employment_type": [
-      "Full-time"
-    ],
-    "employment_type_source": "FullTime",
-    "first_seen_date": "2026-11-19",
-    "job_id": "5e5e7ff9-f733-418d-9188-75c988142a17",
-    "job_title": "Payroll Initiatives Lead",
-    "job_url": "https://jobs.ashbyhq.com/openai/5e5e7ff9-f733-418d-9188-75c988142a17",
-    "last_updated_date": null,
-    "locations": [
-      "San Francisco"
-    ],
-    "locations_source": [
-      "San Francisco"
-    ],
-    "posted_date": "2026-10-05T23:43:49.253+00:00",
-    "remote_flag": true,
-    "team": "Finance",
-    "workplace_type": "Hybrid"
-  },
-  {
-    "capture_date": "2026-11-24T09:00:37.017012+00:00",
-    "company": "Ramp",
-    "department": [
-      "People & Talent"
-    ],
-    "employment_type": [
-      "Full-time"
-    ],
-    "employment_type_source": "FullTime",
-    "first_seen_date": "2026-11-19",
-    "job_id": "72ba7873-254f-45dc-9e7b-595c9d1f8acf",
-    "job_title": "Senior/Lead Recruiter | GTM",
-    "job_url": "https://jobs.ashbyhq.com/ramp/72ba7873-254f-45dc-9e7b-595c9d1f8acf",
-    "last_updated_date": null,
-    "locations": [
-      "New York, NY (HQ)",
-      "San Francisco, CA"
-    ],
-    "locations_source": [
-      "New York, NY (HQ)",
-      "San Francisco, CA"
-    ],
-    "posted_date": "2026-05-21T22:15:05.301+00:00",
-    "remote_flag": true,
-    "team": "People & Talent",
-    "workplace_type": "Hybrid"
-  },
-  {
-    "capture_date": "2026-11-22T09:00:33.033946+00:00",
-    "company": "Datadog",
-    "department": [
-      "Commercial & Mid-Market Sales Engineering"
-    ],
-    "employment_type": [
-      "Full-time"
-    ],
-    "employment_type_source": "Full time",
-    "first_seen_date": "2026-11-19",
-    "job_id": "8080601",
-    "job_title": "Commercial Sales Engineer 2 (Sao Paulo)",
-    "job_url": "https://careers.datadoghq.com/detail/8080601/?gh_jid=8080601",
-    "last_updated_date": "2026-11-05T12:12:56-05:00",
-    "locations": [
-      "Sao Paulo, Brazil"
-    ],
-    "locations_source": [
-      "Sao Paulo, Brazil"
-    ],
-    "posted_date": "2026-07-24T10:53:40-04:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
   }
 ]

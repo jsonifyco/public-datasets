@@ -25,7 +25,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Iberian Endurance Events](datasets/aurea77-iberian-endurance-events-15c76f799e90/) | 394 | On demand | 2026-11-11T20:40:20.829684Z |
 | [Marktplaats Car Dealers](datasets/marktplaats-car-dealers-16546ec450b2/) | 50 | weekly | 2026-11-23T07:02:30.734293Z |
 | [On3 college football NIL valuations and deals dataset](datasets/college-football-nil-valuations-and-deals-18d8ca344811/) | 395 | weekly | 2026-11-23T08:03:14.460107Z |
-| [Black Friday 2026: Google Shopping Prices by Seller](datasets/black-friday-2026-google-shopping-prices-by-seller-1b5c4992672c/) | 6,801 | weekly | 2026-11-26T08:56:39.427010Z |
+| [Black Friday 2026: Google Shopping Prices by Seller](datasets/black-friday-2026-google-shopping-prices-by-seller-1b5c4992672c/) | 13,063 | weekly | 2026-11-26T20:00:59.852748Z |
 | [Companies Hiring at Scale in Poland \(50\+ Open Roles\)](datasets/companies-hiring-at-scale-in-poland-50-open-roles-1be11bee1c95/) | 96 | On demand | 2026-11-16T09:36:41.296141Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [NFL player stats: 2026 advanced stats dataset \(EPA, CPOE, target share\)](datasets/nfl-2026-weekly-advanced-player-stats-1e767e6ecbc2/) | 1,118 | weekly | 2026-11-24T10:00:34.106723Z |
@@ -119,7 +119,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Drama Charts: Top Short Dramas on ReelShort and DramaBox](datasets/short-drama-charts-and-catalogue-c3bee033d5c1/) | 115,809 | On demand | 2026-11-09T18:29:52.456020Z |
 | [RoomReview London Rental Sample](datasets/roomreview-london-postcode-sample-c52c262c0d84/) | 775 | On demand | 2026-11-09T12:55:06.788862Z |
 | [Lisbon &amp; Cascais €1M\+ Property Listings](datasets/bonte-filipidis-lisbon-cascais-1m-snapshot-c5f15a05fc46/) | 311 | On demand | 2026-11-08T07:57:29.642535Z |
-| [Trade Show List: US Conference Database, Updated Weekly](datasets/us-convention-center-b2b-events-c9c108704516/) | 345 | On demand | 2026-11-26T13:14:42.958453Z |
+| [Trade Show List: US Conference Database, Updated Weekly](datasets/us-convention-center-b2b-events-c9c108704516/) | 345 | weekly | 2026-11-26T20:16:46.702259Z |
 | [TMview Class 36 Trademarks and Publicly Evidenced Company Websites](datasets/tmview-class-36-brands-and-websites-cabdb479e298/) | 10 | On demand | 2026-10-26T17:23:00.087271Z |
 | [Podcast Data: US Podcast Database \(Apple, Spotify, YouTube\)](datasets/us-podcast-chart-rankings-cb21e3d37859/) | 400 | weekly | 2026-11-26T12:08:23.960052Z |
 | [Netherlands Fashion Competitor Prices](datasets/netherlands-fashion-competitor-prices-cbaaa49bc3b1/) | 3,657 | On demand | 2026-11-11T02:25:33.742247Z |

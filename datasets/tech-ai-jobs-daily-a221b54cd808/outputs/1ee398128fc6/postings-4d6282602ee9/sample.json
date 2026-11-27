@@ -1,5 +1,29 @@
 [
   {
+    "capture_date": "2026-11-27T09:01:11.903526+00:00",
+    "company": "Databricks",
+    "department": [
+      "Professional Services Operations"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-27",
+    "job_id": "8960958002",
+    "job_title": "Deployment Strategist",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960958002",
+    "last_updated_date": "2026-11-26T06:57:02-05:00",
+    "locations": [
+      "London, United Kingdom"
+    ],
+    "locations_source": [
+      "London, United Kingdom"
+    ],
+    "posted_date": "2026-11-26T06:57:02-05:00",
+    "remote_flag": null,
+    "team": null,
+    "workplace_type": null
+  },
+  {
     "capture_date": "2026-11-24T09:00:37.017012+00:00",
     "company": "Databricks",
     "department": [
@@ -179,6 +203,36 @@
     "remote_flag": true,
     "team": "Early Career",
     "workplace_type": "Hybrid"
+  },
+  {
+    "capture_date": "2026-11-27T09:01:11.903526+00:00",
+    "company": "Mistral",
+    "department": [
+      "Legal"
+    ],
+    "employment_type": [
+      "Full-time"
+    ],
+    "employment_type_source": "FullTime",
+    "first_seen_date": "2026-11-19",
+    "job_id": "60c65b4d-b8c8-4d98-829f-8fad9256dc50",
+    "job_title": "IP Rights Manager",
+    "job_url": "https://jobs.ashbyhq.com/mistral.ai/60c65b4d-b8c8-4d98-829f-8fad9256dc50",
+    "last_updated_date": null,
+    "locations": [
+      "Paris",
+      "Munich",
+      "London"
+    ],
+    "locations_source": [
+      "Paris",
+      "Munich",
+      "London"
+    ],
+    "posted_date": "2026-10-27T18:39:13.173+00:00",
+    "remote_flag": null,
+    "team": "IP & Licensing",
+    "workplace_type": null
   },
   {
     "capture_date": "2026-11-19T16:31:15.157852+00:00",
@@ -617,6 +671,32 @@
     "workplace_type": null
   },
   {
+    "capture_date": "2026-11-27T09:01:11.903526+00:00",
+    "company": "Cursor",
+    "department": [
+      "Customer Success"
+    ],
+    "employment_type": [
+      "Full-time"
+    ],
+    "employment_type_source": "FullTime",
+    "first_seen_date": "2026-11-19",
+    "job_id": "45abdab8-6d12-4e46-8108-e23aba34cec1",
+    "job_title": "AI Deployment Manager - Australia",
+    "job_url": "https://jobs.ashbyhq.com/cursor/45abdab8-6d12-4e46-8108-e23aba34cec1",
+    "last_updated_date": null,
+    "locations": [
+      "Australia"
+    ],
+    "locations_source": [
+      "Australia"
+    ],
+    "posted_date": "2026-11-09T20:23:22.869+00:00",
+    "remote_flag": true,
+    "team": "Ai Deployment",
+    "workplace_type": "Remote"
+  },
+  {
     "capture_date": "2026-11-23T09:10:07.650156+00:00",
     "company": "Stripe",
     "department": [
@@ -717,6 +797,33 @@
     "remote_flag": null,
     "team": null,
     "workplace_type": null
+  },
+  {
+    "capture_date": "2026-11-27T09:01:11.903526+00:00",
+    "company": "Databricks",
+    "department": [
+      "Field Engineering - FE Direct Enterprise"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8918565002",
+    "job_title": "Sr. Solutions Engineer",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8918565002",
+    "last_updated_date": "2026-11-19T16:47:39-05:00",
+    "locations": [
+      "Chicago, Illinois",
+      "Remote - California",
+      "Remote - New York",
+      "United States"
+    ],
+    "locations_source": [
+      "Chicago, Illinois; Remote - California; Remote - New York; United States"
+    ],
+    "posted_date": "2026-11-10T09:57:23-05:00",
+    "remote_flag": true,
+    "team": null,
+    "workplace_type": "Remote"
   },
   {
     "capture_date": "2026-11-25T09:00:33.410506+00:00",
@@ -1175,108 +1282,5 @@
     "remote_flag": null,
     "team": null,
     "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-26T09:01:12.984166+00:00",
-    "company": "OpenAI",
-    "department": [
-      "Global Affairs"
-    ],
-    "employment_type": [
-      "Full-time"
-    ],
-    "employment_type_source": "FullTime",
-    "first_seen_date": "2026-11-19",
-    "job_id": "58b8ac53-8be9-4120-a9f6-a8811cb7f5a9",
-    "job_title": "US Congressional Lead",
-    "job_url": "https://jobs.ashbyhq.com/openai/58b8ac53-8be9-4120-a9f6-a8811cb7f5a9",
-    "last_updated_date": null,
-    "locations": [
-      "Washington, DC"
-    ],
-    "locations_source": [
-      "Washington, DC"
-    ],
-    "posted_date": "2026-10-01T19:22:29.243+00:00",
-    "remote_flag": true,
-    "team": "Global Affairs",
-    "workplace_type": "Hybrid"
-  },
-  {
-    "capture_date": "2026-11-26T09:01:12.984166+00:00",
-    "company": "Stripe",
-    "department": [
-      "1154 Specialized Solutions Architecture"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "8223712",
-    "job_title": "Specialist Solutions Architect, Money Management",
-    "job_url": "https://stripe.com/jobs/search?gh_jid=8223712",
-    "last_updated_date": "2026-11-19T12:10:07-05:00",
-    "locations": [
-      "AMER"
-    ],
-    "locations_source": [
-      "AMER"
-    ],
-    "posted_date": "2026-09-29T10:08:23-04:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-20T09:00:21.043966+00:00",
-    "company": "Datadog",
-    "department": [
-      "Dev Eng"
-    ],
-    "employment_type": [
-      "Full-time"
-    ],
-    "employment_type_source": "Full time",
-    "first_seen_date": "2026-11-19",
-    "job_id": "3851935",
-    "job_title": "Senior Software Engineer ",
-    "job_url": "https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935",
-    "last_updated_date": "2026-11-05T12:12:56-05:00",
-    "locations": [
-      "Boston, Massachusetts, USA",
-      "New York, New York, USA"
-    ],
-    "locations_source": [
-      "Boston, Massachusetts, USA; New York, New York, USA"
-    ],
-    "posted_date": "2022-08-03T14:42:00-04:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-22T09:00:33.033946+00:00",
-    "company": "Perplexity",
-    "department": [
-      "Finance"
-    ],
-    "employment_type": [
-      "Full-time"
-    ],
-    "employment_type_source": "FullTime",
-    "first_seen_date": "2026-11-19",
-    "job_id": "da212c9c-3c11-4e8e-8f97-e176b4876bea",
-    "job_title": "Global Treasury Manager, Investments & Risk",
-    "job_url": "https://jobs.ashbyhq.com/Perplexity/da212c9c-3c11-4e8e-8f97-e176b4876bea",
-    "last_updated_date": null,
-    "locations": [
-      "San Francisco"
-    ],
-    "locations_source": [
-      "San Francisco"
-    ],
-    "posted_date": "2026-10-19T18:27:06.294+00:00",
-    "remote_flag": true,
-    "team": "Finance",
-    "workplace_type": "Hybrid"
   }
 ]

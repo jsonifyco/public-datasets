@@ -7,11 +7,16 @@ https://job-boards.greenhouse.io/discord,2026-11-25T09:00:33.410506+00:00,Discor
 https://job-boards.greenhouse.io/duolingo,2026-11-19T16:31:15.157852+00:00,Duolingo,true,Greenhouse,55
 https://jobs.ashbyhq.com/cohere,2026-11-22T09:00:33.033946+00:00,Cohere,true,Ashby,124
 https://jobs.ashbyhq.com/notion,2026-11-26T09:01:12.984166+00:00,Notion,true,Ashby,174
+https://jobs.ashbyhq.com/linear,2026-11-27T09:01:11.903526+00:00,Linear,true,Ashby,30
+https://jobs.ashbyhq.com/Perplexity,2026-11-27T09:01:11.903526+00:00,Perplexity,true,Ashby,150
+https://jobs.ashbyhq.com/plaid,2026-11-27T09:01:11.903526+00:00,Plaid,true,Ashby,144
 https://jobs.ashbyhq.com/cohere,2026-11-19T16:31:15.157852+00:00,Cohere,true,Ashby,124
 https://job-boards.greenhouse.io/reddit,2026-11-21T09:00:30.919470+00:00,Reddit,true,Greenhouse,148
 https://jobs.ashbyhq.com/cursor,2026-11-19T16:31:15.157852+00:00,Cursor,true,Ashby,90
+https://jobs.ashbyhq.com/replit,2026-11-27T09:01:11.903526+00:00,Replit,true,Ashby,38
 https://job-boards.greenhouse.io/databricks,2026-11-23T09:10:07.650156+00:00,Databricks,true,Greenhouse,893
 https://jobs.ashbyhq.com/notion,2026-11-23T09:10:07.650156+00:00,Notion,true,Ashby,170
+https://job-boards.greenhouse.io/anthropic,2026-11-27T09:01:11.903526+00:00,Anthropic,true,Greenhouse,634
 https://jobs.ashbyhq.com/supabase,2026-11-20T09:00:21.043966+00:00,Supabase,true,Ashby,79
 https://job-boards.greenhouse.io/scaleai,2026-11-24T09:00:37.017012+00:00,Scale AI,true,Greenhouse,159
 https://jobs.ashbyhq.com/openai,2026-11-25T09:00:33.410506+00:00,OpenAI,true,Ashby,877
@@ -20,8 +25,10 @@ https://job-boards.greenhouse.io/figma,2026-11-21T09:00:30.919470+00:00,Figma,tr
 https://job-boards.greenhouse.io/scaleai,2026-11-23T09:10:07.650156+00:00,Scale AI,true,Greenhouse,162
 https://jobs.ashbyhq.com/plaid,2026-11-22T09:00:33.033946+00:00,Plaid,true,Ashby,147
 https://job-boards.greenhouse.io/airbnb,2026-11-25T09:00:33.410506+00:00,Airbnb,true,Greenhouse,200
+https://job-boards.greenhouse.io/airbnb,2026-11-27T09:01:11.903526+00:00,Airbnb,true,Greenhouse,201
 https://job-boards.greenhouse.io/brex,2026-11-19T16:31:15.157852+00:00,Brex,true,Greenhouse,261
 https://job-boards.greenhouse.io/reddit,2026-11-23T09:10:07.650156+00:00,Reddit,true,Greenhouse,148
+https://jobs.ashbyhq.com/openai,2026-11-27T09:01:11.903526+00:00,OpenAI,true,Ashby,876
 https://job-boards.greenhouse.io/reddit,2026-11-24T09:00:37.017012+00:00,Reddit,true,Greenhouse,147
 https://job-boards.greenhouse.io/cloudflare,2026-11-21T09:00:30.919470+00:00,Cloudflare,true,Greenhouse,503
 https://job-boards.greenhouse.io/anthropic,2026-11-19T16:31:15.157852+00:00,Anthropic,true,Greenhouse,638
@@ -41,11 +48,4 @@ https://jobs.ashbyhq.com/supabase,2026-11-24T09:00:37.017012+00:00,Supabase,true
 https://job-boards.greenhouse.io/databricks,2026-11-26T09:01:12.984166+00:00,Databricks,true,Greenhouse,878
 https://job-boards.greenhouse.io/brex,2026-11-26T09:01:12.984166+00:00,Brex,true,Greenhouse,266
 https://job-boards.greenhouse.io/coinbase,2026-11-24T09:00:37.017012+00:00,Coinbase,true,Greenhouse,249
-https://job-boards.greenhouse.io/databricks,2026-11-22T09:00:33.033946+00:00,Databricks,true,Greenhouse,895
-https://job-boards.greenhouse.io/stripe,2026-11-23T09:10:07.650156+00:00,Stripe,true,Greenhouse,776
-https://jobs.ashbyhq.com/replit,2026-11-20T09:00:21.043966+00:00,Replit,true,Ashby,37
-https://jobs.ashbyhq.com/ramp,2026-11-21T09:00:30.919470+00:00,Ramp,true,Ashby,187
-https://jobs.ashbyhq.com/mistral.ai,2026-11-23T09:10:07.650156+00:00,Mistral,true,Ashby,259
-https://jobs.ashbyhq.com/cursor,2026-11-20T09:00:21.043966+00:00,Cursor,true,Ashby,88
-https://job-boards.greenhouse.io/coinbase,2026-11-21T09:00:30.919470+00:00,Coinbase,true,Greenhouse,252
-https://jobs.ashbyhq.com/cohere,2026-11-21T09:00:30.919470+00:00,Cohere,true,Ashby,124
+https://jobs.ashbyhq.com/cursor,2026-11-27T09:01:11.903526+00:00,Cursor,true,Ashby,87

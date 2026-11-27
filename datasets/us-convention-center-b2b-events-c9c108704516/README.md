@@ -1,8 +1,8 @@
-# Trade Show List: US Conference Database, Updated Weekly
+# Trade Show Calendar: US Conference Database, Weekly
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-A list of upcoming US trade shows and conferences from 17 convention centers: event, venue, city, dates and type\. B2B events only, refreshed weekly\.
+Upcoming US trade shows and conferences from 17 convention center calendars in one table, refreshed weekly\. Add the venues or show sites you follow\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-convention-center-b2b-events-c9c108704516?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ A list of upcoming US trade shows and conferences from 17 convention centers: ev
 
 ## The brief
 
-> I need this data: A list of upcoming US trade shows and conferences from 17 convention centers: event, venue, city, dates and type\. B2B events only, refreshed weekly\.
+> I need this data: Upcoming US trade shows and conferences from 17 convention center calendars in one table, refreshed weekly\. Add the venues or show sites you follow\.
 
 Summary from the public dataset description.
 

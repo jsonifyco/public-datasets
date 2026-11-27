@@ -21,7 +21,7 @@
   },
   {
     "name": "expected_attendance",
-    "type": "integer"
+    "type": "bigint"
   },
   {
     "name": "first_seen_date",
@@ -61,6 +61,10 @@
   },
   {
     "name": "venue_name",
+    "type": "text"
+  },
+  {
+    "name": "event_key",
     "type": "text"
   }
 ]

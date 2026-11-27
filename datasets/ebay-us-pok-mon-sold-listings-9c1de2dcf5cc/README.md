@@ -8,7 +8,7 @@ eBay US sold listings for Pokémon cards, with displayed sold price, shipping, s
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-26T09:06:22.630106Z
+- Last published: 2026-11-27T09:06:18.637440Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## eBay Pokémon sold sales and summaries / listings
 
-10,452 total rows · 50 sampled · Output revision 14
-Published: 2026-11-26T09:06:22.630106Z · Producing pipeline version: 3
+11,314 total rows · 50 sampled · Output revision 15
+Published: 2026-11-27T09:06:18.637440Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.csv) · [JSON sample](outputs/77b8757ad9a2/listings-8a836f245cd6/sample.json) · [Schema](outputs/77b8757ad9a2/listings-8a836f245cd6/schema.json)
 
@@ -58,8 +58,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## eBay Pokémon sold sales and summaries / summaries
 
-240 total rows · 50 sampled · Output revision 14
-Published: 2026-11-26T09:06:22.630106Z · Producing pipeline version: 3
+260 total rows · 50 sampled · Output revision 15
+Published: 2026-11-27T09:06:18.637440Z · Producing pipeline version: 3
 
 [CSV sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.csv) · [JSON sample](outputs/77b8757ad9a2/summaries-c626a992e31b/sample.json) · [Schema](outputs/77b8757ad9a2/summaries-c626a992e31b/schema.json)
 

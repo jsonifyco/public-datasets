@@ -8,7 +8,7 @@ UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices i
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-26T09:02:42.785576Z
+- Last published: 2026-11-27T09:03:44.634090Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## UK 4K UHD Blu\-ray Price History / price\_history
 
-772 total rows · 50 sampled · Output revision 8
-Published: 2026-11-26T09:02:42.785576Z · Producing pipeline version: 1
+895 total rows · 50 sampled · Output revision 9
+Published: 2026-11-27T09:03:44.634090Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.csv) · [JSON sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.json) · [Schema](outputs/1468933064cd/price-history-3b9b0d17ff6d/schema.json)
 

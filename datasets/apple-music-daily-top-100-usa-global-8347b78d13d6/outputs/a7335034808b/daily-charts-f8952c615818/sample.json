@@ -1,5 +1,15 @@
 [
   {
+    "apple_music_song_id": "6792884088",
+    "apple_music_song_url": "https://music.apple.com/us/song/nicole-kidman/6792884088",
+    "artist": "ADÉLA",
+    "chart": "Global",
+    "chart_date": "2026-11-27",
+    "position": 9,
+    "snapshot_key": "Global:2026-11-27:9",
+    "song_title": "Nicole Kidman"
+  },
+  {
     "apple_music_song_id": "1440891494",
     "apple_music_song_url": "https://music.apple.com/us/song/passionfruit/1440891494",
     "artist": "Drake",
@@ -470,6 +480,16 @@
     "song_title": "Solar Eclipse"
   },
   {
+    "apple_music_song_id": "585972803",
+    "apple_music_song_url": "https://music.apple.com/us/song/all-i-want-for-christmas-is-you/585972803",
+    "artist": "Mariah Carey",
+    "chart": "USA",
+    "chart_date": "2026-11-27",
+    "position": 1,
+    "snapshot_key": "USA:2026-11-27:1",
+    "song_title": "All I Want for Christmas Is You"
+  },
+  {
     "apple_music_song_id": "6818209990",
     "apple_music_song_url": "https://music.apple.com/us/song/quebec/6818209990",
     "artist": "Drake",
@@ -478,25 +498,5 @@
     "position": 35,
     "snapshot_key": "USA:2026-11-19:35",
     "song_title": "Quebec"
-  },
-  {
-    "apple_music_song_id": "1818425528",
-    "apple_music_song_url": "https://music.apple.com/us/song/thinkin-bout-me/1818425528",
-    "artist": "Morgan Wallen",
-    "chart": "USA",
-    "chart_date": "2026-11-26",
-    "position": 61,
-    "snapshot_key": "USA:2026-11-26:61",
-    "song_title": "Thinkin’ Bout Me"
-  },
-  {
-    "apple_music_song_id": "6831506154",
-    "apple_music_song_url": "https://music.apple.com/us/song/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506154",
-    "artist": "Future",
-    "chart": "USA",
-    "chart_date": "2026-11-21",
-    "position": 58,
-    "snapshot_key": "USA:2026-11-21:58",
-    "song_title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)"
   }
 ]

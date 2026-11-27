@@ -1,0 +1,82 @@
+[
+  {
+    "name": "avg_price",
+    "type": "double precision"
+  },
+  {
+    "name": "avg_weight_lbs",
+    "type": "double precision"
+  },
+  {
+    "name": "cattle_class",
+    "type": "text"
+  },
+  {
+    "name": "description",
+    "type": "text"
+  },
+  {
+    "name": "first_seen_date",
+    "type": "text"
+  },
+  {
+    "name": "head_count",
+    "type": "double precision"
+  },
+  {
+    "name": "market_city",
+    "type": "text"
+  },
+  {
+    "name": "market_name",
+    "type": "text"
+  },
+  {
+    "name": "market_state",
+    "type": "text"
+  },
+  {
+    "name": "price_high",
+    "type": "double precision"
+  },
+  {
+    "name": "price_low",
+    "type": "double precision"
+  },
+  {
+    "name": "price_unit",
+    "type": "text"
+  },
+  {
+    "name": "row_key",
+    "type": "text"
+  },
+  {
+    "name": "sale_date",
+    "type": "text"
+  },
+  {
+    "name": "sale_receipts",
+    "type": "double precision"
+  },
+  {
+    "name": "sale_type",
+    "type": "text"
+  },
+  {
+    "name": "source_format",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "weight_high_lbs",
+    "type": "double precision"
+  },
+  {
+    "name": "weight_low_lbs",
+    "type": "double precision"
+  }
+]

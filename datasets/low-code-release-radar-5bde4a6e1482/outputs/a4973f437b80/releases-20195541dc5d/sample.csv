@@ -1,16 +1,5 @@
 checked_at,published_at,release_age_days,release_id,release_name,release_notes,release_url,repository,repository_url,source_url,tool,use_case,version
-2026-11-26T08:01:01.209340+00:00,2026-11-23T08:20:29Z,2,455146189,v4.1.0,"## What's Changed
-* [#19942] Remove resources from projects without deleting them by @melohagan in https://github.com/Budibase/budibase/pull/20097
-* Preserve last visited workspace on the builder by @adrinr in https://github.com/Budibase/budibase/pull/20073
-* [#19946] Include custom OpenAPI specs in project exports by @melohagan in https://github.com/Budibase/budibase/pull/20086
-* [20084] hide project assignment when no projects exist by @andz-bb in https://github.com/Budibase/budibase/pull/20100
-* Clear operation knowledge when duplicating an agent by @deanhannigan in https://github.com/Budibase/budibase/pull/20110
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20111
-* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20114
-
-
-**Full Changelog**: https://github.com/Budibase/budibase/compare/v4.0.1...v4.1.0",https://github.com/Budibase/budibase/releases/tag/v4.1.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.1.0
-2026-11-26T08:01:01.283745+00:00,2026-11-26T07:23:34Z,0,459077598,n8n@2.49.7,"## [2.49.7](https://github.com/n8n-io/n8n/compare/n8n@2.49.6...n8n@2.49.7) (2026-11-26)
+2026-11-27T08:01:00.993435+00:00,2026-11-26T07:23:34Z,1,459077598,n8n@2.49.7,"## [2.49.7](https://github.com/n8n-io/n8n/compare/n8n@2.49.6...n8n@2.49.7) (2026-11-26)
 
 
 ### Bug Fixes
@@ -25,6 +14,17 @@ checked_at,published_at,release_age_days,release_id,release_name,release_notes,r
 <!-- End of auto-generated description by cubic. -->
 
 ",https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.7,n8n-io/n8n,https://github.com/n8n-io/n8n,https://api.github.com/repos/n8n-io/n8n/releases/latest,n8n,Workflow automation and integrations,n8n@2.49.7
-2026-11-26T08:01:01.157678+00:00,2026-11-19T16:23:11Z,6,451605836,Release v2.7.2 🌈,"## 🔐 Security
+2026-11-27T08:01:01.105546+00:00,2026-11-23T08:20:29Z,3,455146189,v4.1.0,"## What's Changed
+* [#19942] Remove resources from projects without deleting them by @melohagan in https://github.com/Budibase/budibase/pull/20097
+* Preserve last visited workspace on the builder by @adrinr in https://github.com/Budibase/budibase/pull/20073
+* [#19946] Include custom OpenAPI specs in project exports by @melohagan in https://github.com/Budibase/budibase/pull/20086
+* [20084] hide project assignment when no projects exist by @andz-bb in https://github.com/Budibase/budibase/pull/20100
+* Clear operation knowledge when duplicating an agent by @deanhannigan in https://github.com/Budibase/budibase/pull/20110
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20111
+* Merge Cloud changes back to master by @budibase-release-automation[bot] in https://github.com/Budibase/budibase/pull/20114
+
+
+**Full Changelog**: https://github.com/Budibase/budibase/compare/v4.0.1...v4.1.0",https://github.com/Budibase/budibase/releases/tag/v4.1.0,Budibase/budibase,https://github.com/Budibase/budibase,https://api.github.com/repos/Budibase/budibase/releases/latest,Budibase,Low-code business apps and operational workflows,v4.1.0
+2026-11-27T08:01:01.033573+00:00,2026-11-19T16:23:11Z,7,451605836,Release v2.7.2 🌈,"## 🔐 Security
 
 - The bundled Java runtime is now Eclipse Temurin 25.0.5.1. This fixes [CVE-2026-114938](https://nvd.nist.gov/vuln/detail/CVE-2026-114938) (""Java4Shell"") in the Java runtime. All earlier Appsmith images include an affected Java version. Self-hosted instances should upgrade.",https://github.com/appsmithorg/appsmith/releases/tag/v2.7.2,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,https://api.github.com/repos/appsmithorg/appsmith/releases/latest,Appsmith,"Internal tools, admin panels and database frontends",v2.7.2

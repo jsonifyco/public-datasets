@@ -2,24 +2,24 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Mining permits from North Carolina, Virginia and Pennsylvania in one table: permittee, commodity, county, acres, status and dates, refreshed weekly\.
+Mining permits from North Carolina, Virginia and Pennsylvania in one table, with permittee, commodity, county, acres, status and dates\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/us-state-mining-permits-12c2d09e84a4?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 4
-- Last published: 2026-11-22T09:07:57.808197Z
+- Last published: 2026-11-27T07:01:39.963142Z
 
 ## The brief
 
-> I need this data: Mining permits from North Carolina, Virginia and Pennsylvania in one table: permittee, commodity, county, acres, status and dates, refreshed weekly\.
+> I need this data: Mining permits from North Carolina, Virginia and Pennsylvania in one table, with permittee, commodity, county, acres, status and dates\.
 
 Summary from the public dataset description.
 
 ## US State Mining Permits / permits
 
-1,001 total rows · 50 sampled · Output revision 4
-Published: 2026-11-22T09:07:57.808197Z · Producing pipeline version: 3
+1,001 total rows · 50 sampled · Output revision 5
+Published: 2026-11-27T07:01:39.963142Z · Producing pipeline version: 4
 
 [CSV sample](outputs/29825fb7d6a5/permits-f9b6938a67e1/sample.csv) · [JSON sample](outputs/29825fb7d6a5/permits-f9b6938a67e1/sample.json) · [Schema](outputs/29825fb7d6a5/permits-f9b6938a67e1/schema.json)
 

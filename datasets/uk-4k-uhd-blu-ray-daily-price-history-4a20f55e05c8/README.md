@@ -1,8 +1,8 @@
-# HMV and Rarewaves data: UK 4K UHD Blu\-ray price history
+# HMV and Rarewaves data: UK 4K Blu\-ray price dataset, refreshed daily
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. Export to CSV, Excel or Google Sheets\.
+Daily UK 4K UHD Blu\-ray prices from HMV and Rarewaves: price in GBP, was/RRP, advertised offers and stock, saved every morning\. A 4K Blu\-ray price tracker you can export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/uk-4k-uhd-blu-ray-daily-price-history-4a20f55e05c8?action=get) — CSV or JSON · Email required
 
@@ -12,7 +12,7 @@ UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices i
 
 ## The brief
 
-> I need this data: UK 4K UHD Blu\-ray price observations from HMV and Rarewaves, including prices in GBP, advertised discounts, offers and stock status\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Daily UK 4K UHD Blu\-ray prices from HMV and Rarewaves: price in GBP, was/RRP, advertised offers and stock, saved every morning\. A 4K Blu\-ray price tracker you can export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 

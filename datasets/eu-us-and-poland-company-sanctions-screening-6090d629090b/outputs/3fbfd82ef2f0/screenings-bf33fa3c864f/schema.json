@@ -1,0 +1,42 @@
+[
+  {
+    "name": "checked_at",
+    "type": "text"
+  },
+  {
+    "name": "company_name",
+    "type": "text"
+  },
+  {
+    "name": "coverage",
+    "type": "text"
+  },
+  {
+    "name": "jurisdiction",
+    "type": "text"
+  },
+  {
+    "name": "match_count",
+    "type": "integer"
+  },
+  {
+    "name": "matches",
+    "type": "jsonb"
+  },
+  {
+    "name": "review_note",
+    "type": "text"
+  },
+  {
+    "name": "screening_result",
+    "type": "text"
+  },
+  {
+    "name": "source_updated",
+    "type": "jsonb"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  }
+]

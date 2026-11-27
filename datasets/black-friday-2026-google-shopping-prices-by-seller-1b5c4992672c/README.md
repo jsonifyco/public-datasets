@@ -2,24 +2,66 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Compare observed Google Shopping seller prices for 100 branded products across the UK, Germany and the US, with snapshot history and search coverage\.
+Compare observed Google Shopping seller prices for branded products across the UK, Germany and the US, with product and offer details\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/black-friday-2026-google-shopping-prices-by-seller-1b5c4992672c?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 4
-- Last published: 2026-11-26T08:56:39.427010Z
+- Last published: 2026-11-26T20:00:59.852748Z
 
 ## The brief
 
-> I need this data: Compare observed Google Shopping seller prices for 100 branded products across the UK, Germany and the US, with snapshot history and search coverage\.
+> I need this data: Compare observed Google Shopping seller prices for branded products across the UK, Germany and the US, with product and offer details\.
 
 Summary from the public dataset description.
 
+## Black Friday 2026 prices / Offers
+
+11,863 total rows · 50 sampled · Output revision 7
+Published: 2026-11-26T20:00:59.852748Z · Producing pipeline version: Unknown
+
+[CSV sample](outputs/4285477bd4a4/offers-e98bf0e26046/sample.csv) · [JSON sample](outputs/4285477bd4a4/offers-e98bf0e26046/sample.json) · [Schema](outputs/4285477bd4a4/offers-e98bf0e26046/schema.json)
+
+| Product name | Seller | Price | Was price | Discount % | Discount badge | Shipping | Availability |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Sony WH\-1000XM6 black | Cash Converters | 249\.99 | None | None | None | None | in stock |
+| Sony WH\-1000XM6 black | eBay \- japan\-peekaboo | 394\.35 | None | None | None | 2\.7 | in stock |
+| Sony WH\-1000XM6 black | Wonderprice UK | 256\.99 | None | None | None | 0 | in stock |
+| Sony WH\-1000XM6 black | Sony Store Online UK | 298 | 349 | 14\.61 | 14% off | 0 | in stock |
+| Sony WH\-1000XM6 black | Sony Centre | 299 | None | None | None | 0 | in stock |
+
+Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
+
+### Schema
+
+| Column | Type |
+| --- | --- |
+| Product name | text |
+| Seller | text |
+| Price | double precision |
+| Was price | double precision |
+| Discount % | double precision |
+| Discount badge | text |
+| Shipping | double precision |
+| Availability | text |
+| Condition | text |
+| Offer URL | text |
+| Seller product title | text |
+| SKU | text |
+| MPN | text |
+| GTIN | text |
+| Category | text |
+| Market | text |
+| Currency | text |
+| Snapshot | text |
+| Observed at | text |
+| seller\_type | text |
+
 ## Black Friday 2026 prices / Products
 
-300 total rows · 50 sampled · Output revision 5
-Published: 2026-11-26T08:56:39.427010Z · Producing pipeline version: Unknown
+600 total rows · 50 sampled · Output revision 7
+Published: 2026-11-26T20:00:59.852748Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/4285477bd4a4/products-4edc8bfafc6b/sample.csv) · [JSON sample](outputs/4285477bd4a4/products-4edc8bfafc6b/sample.json) · [Schema](outputs/4285477bd4a4/products-4edc8bfafc6b/schema.json)
 
@@ -28,8 +70,8 @@ Published: 2026-11-26T08:56:39.427010Z · Producing pipeline version: Unknown
 | LEGO Bouquet of Roses 10328 | bf\-062 | 10328 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
 | LEGO Wildflower Bouquet 10313 | bf\-064 | 10313 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
 | LEGO Orchid 10311 | bf\-061 | 10311 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
+| LEGO Wildflower Bouquet 10313 | bf\-064 | 10313 | None | Toys | Germany | EUR | 2026\-11\-26T06:01:03\.583277\+00:00 |
 | LEGO Tiny Plants 10329 | bf\-063 | 10329 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
-| LEGO Plum Blossom 10369 | bf\-066 | 10369 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -64,62 +106,20 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 | Lowest price change | numeric |
 | Lowest price change % | numeric |
 
-## Black Friday 2026 prices / Offers
-
-6,201 total rows · 50 sampled · Output revision 5
-Published: 2026-11-26T08:56:39.427010Z · Producing pipeline version: Unknown
-
-[CSV sample](outputs/4285477bd4a4/offers-e98bf0e26046/sample.csv) · [JSON sample](outputs/4285477bd4a4/offers-e98bf0e26046/sample.json) · [Schema](outputs/4285477bd4a4/offers-e98bf0e26046/schema.json)
-
-| Product name | Seller | Price | Was price | Discount % | Discount badge | Shipping | Availability |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Sony WH\-1000XM6 black | Sony Store Online UK | 298 | 349 | 14\.61 | 14% off | 0 | in stock |
-| Sony WH\-1000XM6 black | Sony Centre | 299 | None | None | None | 0 | in stock |
-| Sony WH\-1000XM6 black | Sony Centres Direct | 299 | None | None | None | 0 | in stock |
-| Sony WH\-1000XM6 black | Trippodo Shop | 352\.52 | None | None | None | 20\.45 | in stock |
-| Sony WH\-1000XM6 black | Wonderprice UK | 256\.99 | None | None | None | 0 | in stock |
-
-Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
-
-### Schema
-
-| Column | Type |
-| --- | --- |
-| Product name | text |
-| Seller | text |
-| Price | double precision |
-| Was price | double precision |
-| Discount % | double precision |
-| Discount badge | text |
-| Shipping | double precision |
-| Availability | text |
-| Condition | text |
-| Offer URL | text |
-| Seller product title | text |
-| SKU | text |
-| MPN | text |
-| GTIN | text |
-| Category | text |
-| Market | text |
-| Currency | text |
-| Snapshot | text |
-| Observed at | text |
-| seller\_type | text |
-
 ## Black Friday 2026 prices / Coverage
 
-300 total rows · 50 sampled · Output revision 5
-Published: 2026-11-26T08:56:39.427010Z · Producing pipeline version: Unknown
+600 total rows · 50 sampled · Output revision 7
+Published: 2026-11-26T20:00:59.852748Z · Producing pipeline version: Unknown
 
 [CSV sample](outputs/4285477bd4a4/coverage-523487a5de21/sample.csv) · [JSON sample](outputs/4285477bd4a4/coverage-523487a5de21/sample.json) · [Schema](outputs/4285477bd4a4/coverage-523487a5de21/schema.json)
 
-| Category | Complete | Currency | GTIN | MPN | Market | Observed at | Offer count |
+| Product name | SKU | MPN | GTIN | Category | Market | Currency | Snapshot |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Toys | True | USD | None | 75376 | United States | 2026\-11\-26T01:05:37\.876364\+00:00 | 12 |
-| Toys | False | USD | None | 10342 | United States | 2026\-11\-26T00:26:46\.650129\+00:00 | 7 |
-| Headphones | False | USD | None | ATH\-M50xBT2 | United States | 2026\-11\-25T19:28:50\.830611\+00:00 | 0 |
-| Toys | True | USD | None | 75398 | United States | 2026\-11\-26T01:53:20\.381717\+00:00 | 50 |
-| Fragrance | True | GBP | 3348901250146 | None | United Kingdom | 2026\-11\-25T22:52:04\.024928\+00:00 | 73 |
+| Sony WH\-1000XM6 black | bf\-001 | WH\-1000XM6 | None | Headphones | United Kingdom | GBP | 2026\-11\-26T06:01:03\.583277\+00:00 |
+| Sony WH\-1000XM6 black | bf\-001 | WH\-1000XM6 | None | Headphones | Germany | EUR | 2026\-11\-26T06:01:03\.583277\+00:00 |
+| Sony WH\-1000XM6 black | bf\-001 | WH\-1000XM6 | None | Headphones | United States | USD | 2026\-11\-26T06:01:03\.583277\+00:00 |
+| Sony WF\-C710N black | bf\-002 | WF\-C710N | None | Headphones | United Kingdom | GBP | 2026\-11\-26T06:01:03\.583277\+00:00 |
+| Sony WF\-C710N black | bf\-002 | WF\-C710N | None | Headphones | Germany | EUR | 2026\-11\-26T06:01:03\.583277\+00:00 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -127,24 +127,24 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| Category | text |
-| Complete | boolean |
-| Currency | text |
-| GTIN | text |
+| Product name | text |
+| SKU | text |
 | MPN | text |
+| GTIN | text |
+| Category | text |
 | Market | text |
+| Currency | text |
+| Snapshot | text |
 | Observed at | text |
+| Search query | text |
+| Search URL | text |
+| Status | text |
+| Seller count | bigint |
 | Offer count | bigint |
 | Product groups | bigint |
-| Product name | text |
-| Reason | text |
 | Rejected offers | bigint |
-| SKU | text |
-| Search URL | text |
-| Search query | text |
-| Seller count | bigint |
-| Snapshot | text |
-| Status | text |
+| Complete | boolean |
+| Reason | text |
 
 ## How the pipeline works
 

@@ -8,7 +8,7 @@ A dataset of published GPU rental prices, including H100, H200, B200, A100, L40S
 
 - Refresh: daily
 - Active pipeline version: 9
-- Last published: 2026-11-26T06:03:25.586325Z
+- Last published: 2026-11-27T06:01:54.965512Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## GPU hourly rental prices / rentals
 
-7,888 total rows · 50 sampled · Output revision 36
-Published: 2026-11-26T06:03:25.586325Z · Producing pipeline version: 9
+8,205 total rows · 50 sampled · Output revision 37
+Published: 2026-11-27T06:01:54.965512Z · Producing pipeline version: 9
 
 [CSV sample](outputs/48259f4a4570/rentals-14788a425070/sample.csv) · [JSON sample](outputs/48259f4a4570/rentals-14788a425070/sample.json) · [Schema](outputs/48259f4a4570/rentals-14788a425070/schema.json)
 
 | gpu\_model | variant | instance | region | country | purchase\_model | commitment | price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| H100 | NVIDIA H100 SXM | 1x NVIDIA H100 SXM | Global | Global | on\_demand | No fixed term | 4\.89 |
-| H200 | H200 NVL | Marketplace offer 31183520 | Czechia, CZ | CZ | on\_demand | No fixed term | 5\.180592592592592 |
-| A100 | Nvidia A100 | a2\-highgpu\-8g | Provider list \(region unspecified\) | Global | spot | Interruptible, no fixed term | 16\.75052 |
-| A100 | Nvidia A100 | a2\-highgpu\-2g | Provider list \(region unspecified\) | Global | spot | Interruptible, no fixed term | 4\.37603 |
-| H100 | H100 SXM | Standard\_ND96is\_H100\_v5 | uksouth | UK | on\_demand | No fixed term | 110\.61 |
+| H100 | H100 SXM | Standard\_ND96is\_H100\_v5 | eastus | US | spot | Interruptible, no fixed term | 16\.352582 |
+| A100 | NVIDIA A100 80 GB | NVIDIA A100 | Europe | Regional | spot | Interruptible, no fixed term | 9\.51 |
+| A100 | A100 PCIe | Pods Secure Cloud | Global | Global | on\_demand | No fixed term | 2\.09 |
+| H100 | H100 | p5\.4xlarge | US East \(Ohio\) | US | capacity\_block | Not stated | 5\.97 |
+| B200 | NVIDIA HGX B200 | GPU cluster | Global | Global | commitment | 31\-90 days | 7\.79 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

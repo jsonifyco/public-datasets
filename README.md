@@ -34,6 +34,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Brazil Marketplace Brand and SKU Audit Sample](datasets/brazil-brand-sku-audit-sample-2864ef4fa9cb/) | 523 | On demand | 2026-11-16T13:29:06.915165Z |
 | [UK Early\-Stage Venture Capital Firms](datasets/uk-early-stage-venture-capital-firms-28b20bfd56d1/) | 50 | On demand | 2026-11-13T16:00:54.241404Z |
 | [NYC Creator Observations](datasets/nyc-creator-discovery-sample-2ac4e6a50952/) | 5 | On demand | 2026-10-20T17:13:13.139377Z |
+| [German Company Register Sample](datasets/german-company-register-partnerpal-sample-2d916c5a95b6/) | 202 | On demand | 2026-11-25T01:54:26.952360Z |
 | [Finnish Homes and Renovation Events](datasets/finnish-homes-and-renovation-events-2f9eb2b4c803/) | 8,909 | On demand | 2026-11-19T22:19:22.544305Z |
 | [LLM API Pricing: Token Prices by Model and Platform](datasets/llm-api-pricing-30a0181a4f3a/) | 5,256 | weekly | 2026-11-23T06:01:44.424161Z |
 | [GPU cloud pricing data: H100, H200, B200 and A100 hourly rental prices](datasets/gpu-hourly-rental-prices-312a156bf80f/) | 8,205 | daily | 2026-11-27T06:01:54.965512Z |
@@ -52,7 +53,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Dublin D6 and D6W Property and Local Data](datasets/dublin-d6-and-d6w-open-data-462fff970ded/) | 11,894 | On demand | 2026-11-13T15:59:30.411523Z |
 | [Prevailing Wage Rates: California, Washington, Missouri and New York](datasets/prevailing-wage-rates-us-states-47b2aa83a625/) | 51,986 | weekly | 2026-11-24T06:58:18.899784Z |
 | [LEGO vs Compatible Bricks: Marketplace Price and Promotion Data](datasets/lego-vs-compatible-bricks-11-11-promo-snapshot-499dcb3b47ae/) | 8,109 | On demand | 2026-11-11T10:18:52.467955Z |
-| [HMV and Rarewaves data: UK 4K UHD Blu\-ray price history](datasets/uk-4k-uhd-blu-ray-daily-price-history-4a20f55e05c8/) | 895 | daily | 2026-11-27T09:03:44.634090Z |
+| [HMV and Rarewaves data: UK 4K Blu\-ray price dataset, refreshed daily](datasets/uk-4k-uhd-blu-ray-daily-price-history-4a20f55e05c8/) | 895 | daily | 2026-11-27T09:03:44.634090Z |
 | [Travel eSIM Plans and Prices](datasets/aviso-travel-esim-price-tracker-4a8066232783/) | 81,050 | On demand | 2026-11-09T06:46:39.091556Z |
 | [Law Firm Events](datasets/law-firm-events-4c408bd04e11/) | 21 | On demand | 2026-11-27T09:11:14.638325Z |
 | [Lisbon and Porto Home Listings and Prices](datasets/habita-review-lisbon-and-porto-homes-4c9bbbd1ad17/) | 1,473 | On demand | 2026-11-09T08:11:43.911185Z |
@@ -60,7 +61,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [DOT Lettings: Upcoming Highway Construction Bids Across State DOTs](datasets/upcoming-us-dot-construction-lettings-556d79272f4f/) | 229 | weekly | 2026-11-23T07:04:45.492471Z |
 | [Yacht Charter Fleet Listings and Prices](datasets/yacht-charter-fleet-sample-55a14b2e14c3/) | 270 | On demand | 2026-11-10T11:15:01.714669Z |
 | [Portugal2030 Grant Notices](datasets/portugal2030-grants-59ddd491d0c8/) | 1,521 | weekly | 2026-11-23T09:09:38.115256Z |
-| [NCAA Division I Men's Basketball Advanced Stats](datasets/ncaa-division-i-men-s-basketball-advanced-stats-2026-27-5a06355b5589/) | 4,380 | daily | 2026-11-26T10:01:09.753427Z |
+| [NCAA Division I Men's Basketball Advanced Stats](datasets/ncaa-division-i-men-s-basketball-advanced-stats-2026-27-5a06355b5589/) | 4,745 | daily | 2026-11-27T10:01:10.267397Z |
 | [Streaming Subscription Prices by Country: Official Plans](datasets/streaming-subscription-prices-by-country-5b733a529030/) | 7,088 | weekly | 2026-11-25T08:37:16.343605Z |
 | [AI Company Job Postings Data](datasets/ai-company-job-postings-5bae5dc811a8/) | 5,832 | weekly | 2026-11-23T07:01:49.315850Z |
 | [Low\-Code Release Radar: n8n, Appsmith and Budibase Releases](datasets/low-code-release-radar-5bde4a6e1482/) | 3 | daily | 2026-11-27T08:01:05.383835Z |
@@ -85,7 +86,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [FDA, EMA and Infarmed GMP Guidance and Warning Letters](datasets/fda-ema-and-infarmed-gmp-guidance-and-warning-letters-8099814fc1b9/) | 416 | On demand | 2026-11-20T10:19:52.736363Z |
 | [Unicorn Factory Lisboa Startup Portfolio: Websites, Taglines and Pricing](datasets/unicorn-factory-lisboa-startup-portfolio-81b2a4675212/) | 502 | On demand | 2026-10-12T15:41:47.150674Z |
 | [Lisbon Coffee Brands at Street Venues](datasets/coffee-brand-on-the-street-lisbon-poc-823f5bfb06bb/) | 810 | On demand | 2026-11-04T02:32:30.185539Z |
-| [Apple Music data: Top 100 USA and Global chart dataset](datasets/apple-music-daily-top-100-usa-global-8347b78d13d6/) | 2,000 | daily | 2026-11-26T10:01:15.688191Z |
+| [Apple Music data: Top 100 USA and Global chart dataset](datasets/apple-music-daily-top-100-usa-global-8347b78d13d6/) | 2,200 | daily | 2026-11-27T10:01:17.453239Z |
 | [Spanish Residential Electricity and Gas Tariffs](datasets/spanish-residential-tariffs-851b0827e2d1/) | 103 | On demand | 2026-11-11T20:42:25.162441Z |
 | [Spain Public\-Safety Signals](datasets/spain-public-safety-signals-mentelejos-demo-85c1f9170c06/) | 3,939 | On demand | 2026-11-09T11:05:24.629643Z |
 | [Google Shopping Competitor Prices by SKU](datasets/google-shopping-competitor-prices-by-sku-de-uk-tr-881884b155d9/) | 878 | On demand | 2026-11-13T15:56:14.663648Z |
@@ -124,6 +125,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [TMview Class 36 Trademarks and Publicly Evidenced Company Websites](datasets/tmview-class-36-brands-and-websites-cabdb479e298/) | 10 | On demand | 2026-10-26T17:23:00.087271Z |
 | [Podcast Data: US Podcast Database \(Apple, Spotify, YouTube\)](datasets/us-podcast-chart-rankings-cb21e3d37859/) | 400 | weekly | 2026-11-26T12:08:23.960052Z |
 | [Netherlands Fashion Competitor Prices](datasets/netherlands-fashion-competitor-prices-cbaaa49bc3b1/) | 3,657 | On demand | 2026-11-11T02:25:33.742247Z |
+| [Cattle Market Reports: US Auction Prices by Sale Barn](datasets/us-cattle-market-reports-ccce08fab24b/) | 6,173 | weekly | 2026-11-27T18:56:02.031590Z |
 | [Companies Hiring at Volume in Mexico and Colombia](datasets/companies-hiring-at-volume-in-mexico-and-colombia-ce27fa3ecd4d/) | 2,737 | On demand | 2026-11-17T20:04:35.911297Z |
 | [Airside Transit Visa Rules](datasets/airside-transit-visa-rules-sample-d375a83266c3/) | 205 | daily | 2026-11-27T06:08:33.769283Z |
 | [Deliveroo, Uber Eats and Just Eat Menu Prices in London](datasets/london-delivery-app-venues-and-menus-d603c7022886/) | 6,952,887 | On demand | 2026-11-08T17:42:33.650984Z |

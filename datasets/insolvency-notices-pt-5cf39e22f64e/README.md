@@ -8,7 +8,7 @@ Public Citius insolvency notices with debtor, court, publication date and publis
 
 - Refresh: daily
 - Active pipeline version: 10
-- Last published: 2026-11-26T06:26:01.851012Z
+- Last published: 2026-11-27T06:23:21.281217Z
 
 ## The brief
 
@@ -18,18 +18,18 @@ Summary from the public dataset description.
 
 ## Avisos de insolvência / avisos
 
-357 total rows · 50 sampled · Output revision 26
-Published: 2026-11-26T06:26:01.851012Z · Producing pipeline version: 10
+387 total rows · 50 sampled · Output revision 27
+Published: 2026-11-27T06:23:21.281217Z · Producing pipeline version: 10
 
 [CSV sample](outputs/43cb4b753508/avisos-354cde498655/sample.csv) · [JSON sample](outputs/43cb4b753508/avisos-354cde498655/sample.json) · [Schema](outputs/43cb4b753508/avisos-354cde498655/schema.json)
 
 | Distrito | Estado do prazo | NIF ou NIPC | Natureza do devedor | Prazo publicado | Processo | Publicado em | Tipo de anúncio |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lisboa | Prazo não identificado no documento | 509142338 | Empresa | None | 1289/12\.8TBTVD\-G | 2026\-11\-23 | Outro |
-| Lisboa | Prazo não identificado no documento | 253098360 | Pessoa singular | None | 12096/23\.2T8SNT | 2026\-11\-24 | Outro |
-| Lisboa | Prazo não identificado no documento | 240010965; 213905680 | Pessoa singular | None | 5642/26\.1T8SNT | 2026\-11\-23 | encerramento |
-| Lisboa | Prazo não identificado no documento | 503909823 | Empresa | None | 27406/25\.0T8LSB\-A | 2026\-11\-25 | Outro |
-| Porto | Prazo identificado no documento | 167736930 | Pessoa singular | No prazo de trinta dias, findos os dos éditos \(cinco dias contados da publicação deste edital\), para os credores da massa insolvente contestarem, querendo, a presente ação \(verificação ulterior de créditos\)\. | 2477/26\.5T8STS\-A | 2026\-11\-20 | Outro |
+| Porto | Prazo não identificado no documento | 108067483 | Pessoa singular | None | 2908/26\.4T8STS | 2026\-11\-25 | encerramento |
+| Porto | Prazo não identificado no documento | 508164630 | Empresa | None | 1243/25\.0T8AMT\-G | 2026\-11\-24 | Outro |
+| Lisboa | Prazo identificado no documento | 252698614; 273350595 | Pessoa singular | 20 dias, para reclamação de créditos ao administrador judicial provisório nomeado; o prazo só começa a correr da publicação do anúncio no portal CITIUS\. | 1774/26\.4T8VFX | 2026\-11\-23 | Outro |
+| Porto | Prazo não identificado no documento | 213826488 | Pessoa singular | None | 3175/23\.7T8STS | 2026\-11\-23 | Outro |
+| Porto | Prazo não identificado no documento | 142818879; 142819000 | Pessoa singular | None | 2443/26\.0T8STS | 2026\-11\-25 | Outro |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -51,18 +51,18 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Avisos de insolvência / insolvency\_notices\_pt
 
-357 total rows · 50 sampled · Output revision 26
-Published: 2026-11-26T06:26:01.851012Z · Producing pipeline version: 10
+387 total rows · 50 sampled · Output revision 27
+Published: 2026-11-27T06:23:21.281217Z · Producing pipeline version: 10
 
 [CSV sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.csv) · [JSON sample](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/sample.json) · [Schema](outputs/43cb4b753508/insolvency-notices-pt-0eb817203930/schema.json)
 
 | claims\_deadline | court | debtor\_name | debtor\_nif | debtor\_type | district | insolvency\_administrator | notice\_type |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 1 | Aida Rute dos Santos Horta | 166254509 | individual | Lisboa | António José Leal Carneiro | other |
-| None | Comarca de Lisboa \- Lisboa / Juízo de Comércio de Lisboa \- Juiz 2 | Manuel de Jesus Afonso da Fonseca | 121708160 | individual | Lisboa | Olga Maria Trancho de Matos Castelão | other |
-| None | Comarca do Porto Este \- Amarante / Juízo de Comércio de Amarante \- Juiz 3 | Edificariz \- Empreendimentos Imobiliários Lda | 504053728 | company | Porto | António Dias Seabra | encerramento |
-| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 5 | Paulo André de Sousa Ferreira | 237993562 | individual | Porto | Maria Paula Ribeiro Mattamouros Resende | encerramento |
-| None | Comarca de Lisboa Oeste \- Sintra / Juízo de Comércio de Sintra \- Juiz 5 | Simone Maria Alves Rosario | 261070819 | individual | Lisboa | Natália Maria Madeira Relvas | other |
+| None | Sintra \- Tribunal Judicial da Comarca de Lisboa Oeste / Juízo de Comércio de Sintra \- Juiz 3 | Carla Susana Vicente dos Santos Brito Gorjão | 202678601 | individual | Lisboa | Rui Manuel Pereira de Almeida | other |
+| 30 dias, a contar do términus da dilação, que se conta da data da publicação do anúncio eletrónico na Área de Serviços Digitais dos Tribunais \([https://tribunais\.org\.pt](<https://tribunais.org.pt>)\)\. | Comarca do Porto Este \- Amarante / Juízo de Comércio de Amarante \- Juiz 4 | Iadde \- Indústria e Design, Lda\. | 508571839 | company | Porto | Maria de Fátima Alves Miguéis | declaração de insolvência |
+| None | Comarca do Porto \- Santo Tirso / Juízo de Comércio de Santo Tirso \- Juiz 5 | Cristiana Andresa Silva Rosa | 273658824 | individual | Porto | Francisco Alberto Sêco de Oliveira | other |
+| None | Comarca do Porto \- Vila Nova de Gaia / Juízo de Comércio de Vila Nova de Gaia \- Juiz 1 | Fernando Dias Lavoura; Maria Isabel Marques Pais Lavoura | 103992979; 103992960 | individual | Porto | Ademar Margarido de Sampaio Rodrigues Leite | other |
+| None | Comarca do Porto Este \- Amarante / Juízo de Comércio de Amarante \- Juiz 4 | Maria Conceicao da Rocha Dias | 194019829 | individual | Porto | Ana Domingues Ferreira Alves | other |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

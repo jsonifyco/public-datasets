@@ -1,25 +1,25 @@
-# Walmart data: grocery and household staples price dataset, refreshed daily
+# Walmart grocery and household staples price dataset
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Walmart\.com price history for 40 grocery and household staples: price, unit price, was price, rollback flag, stock and seller, captured daily for one Sacramento ZIP\. Export to CSV, Excel or Google Sheets\.
+Walmart\.com product\-page price history for grocery and household staples, including current price, unit price, displayed comparison price, deal flag, stock status and seller\. Export to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/walmart-us-daily-staples-prices-ba6711b7e8e1?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-26T09:02:52.318569Z
+- Last published: 2026-11-27T09:03:06.885726Z
 
 ## The brief
 
-> I need this data: Walmart\.com price history for 40 grocery and household staples: price, unit price, was price, rollback flag, stock and seller, captured daily for one Sacramento ZIP\. Export to CSV, Excel or Google Sheets\.
+> I need this data: Walmart\.com product\-page price history for grocery and household staples, including current price, unit price, displayed comparison price, deal flag, stock status and seller\. Export to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## Walmart US staples price history / price\_history
 
-80 total rows · 10 sampled · Output revision 2
-Published: 2026-11-26T09:02:52.318569Z · Producing pipeline version: 1
+120 total rows · 50 sampled · Output revision 3
+Published: 2026-11-27T09:03:06.885726Z · Producing pipeline version: 1
 
 [CSV sample](outputs/4a94d97a0877/price-history-3b9b0d17ff6d/sample.csv) · [JSON sample](outputs/4a94d97a0877/price-history-3b9b0d17ff6d/sample.json) · [Schema](outputs/4a94d97a0877/price-history-3b9b0d17ff6d/schema.json)
 
@@ -28,8 +28,8 @@ Published: 2026-11-26T09:02:52.318569Z · Producing pipeline version: 1
 | Great Value | 2026\-11\-26 | 2026\-11\-26T08:19:43\.079564Z | USD | 0\.92 | none shown | 95829 | \["Pickup, tomorrow at Sacramento Supercenter", "Delivery from store, tomorrow to Sacramento, 95829"\] |
 | Quaker | 2026\-11\-26 | 2026\-11\-26T09:02:32\.523921Z | USD | 5\.5 | none shown | 95829 | \["Pickup, tomorrow at Sacramento Gerber Rd Supercenter", "Delivery from store, tomorrow to Sacramento, 95829"\] |
 | Great Value | 2026\-11\-26 | 2026\-11\-26T09:01:45\.497857Z | USD | 1\.52 | none shown | 95829 | \["Pickup not available at Sacramento Gerber Rd Supercenter"\] |
+| Cheerios | 2026\-11\-27 | 2026\-11\-27T09:02:05\.057023Z | USD | 4\.97 | none shown | 95829 | \["Pickup, today at Sacramento Supercenter", "Delivery from store, today to Sacramento, 95829", "Shipping, arrives by tomorrow to Sacramento, 95829"\] |
 | Unbranded | 2026\-11\-26 | 2026\-11\-26T08:19:02\.289298Z | USD | 0\.2 | none shown | 95829 | \["Pickup, tomorrow at Sacramento Supercenter", "Delivery from store, tomorrow to Sacramento, 95829"\] |
-| Great Value | 2026\-11\-26 | 2026\-11\-26T08:19:17\.116515Z | USD | 1\.52 | none shown | 95829 | \["Pickup not available at Sacramento Gerber Rd Supercenter"\] |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 

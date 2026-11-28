@@ -1,0 +1,70 @@
+[
+  {
+    "name": "event_id",
+    "type": "text"
+  },
+  {
+    "name": "status",
+    "type": "text"
+  },
+  {
+    "name": "importance",
+    "type": "text"
+  },
+  {
+    "name": "source_url",
+    "type": "text"
+  },
+  {
+    "name": "title",
+    "type": "text"
+  },
+  {
+    "name": "summary",
+    "type": "text"
+  },
+  {
+    "name": "category",
+    "type": "text"
+  },
+  {
+    "name": "published",
+    "type": "text"
+  },
+  {
+    "name": "related_event",
+    "type": "text"
+  },
+  {
+    "name": "earnings_issuer",
+    "type": "text"
+  },
+  {
+    "name": "earnings_identity",
+    "type": "text"
+  },
+  {
+    "name": "bulletin_order",
+    "type": "integer"
+  },
+  {
+    "name": "evidence",
+    "type": "jsonb"
+  },
+  {
+    "name": "original_text",
+    "type": "text"
+  },
+  {
+    "name": "importance_reason",
+    "type": "text"
+  },
+  {
+    "name": "source_type",
+    "type": "text"
+  },
+  {
+    "name": "publisher",
+    "type": "text"
+  }
+]

@@ -1,0 +1,1382 @@
+[
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "7f0f8d8dbe0514aba9017f80",
+    "evidence": [
+      {
+        "published": "2026-10-26",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-10-26",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Extending the cancellation of KLM's Amsterdam-Dubai flights through March 27, 2027 and of Riyadh and Dammam flights through November 27, 2026 is a material but narrower network change, with no quantified financial or strategic impact in the evidence.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-10-26\nKLM is adjusting its flight schedule for several destinations in the Middle East. KLM will not operate flights between Amsterdam and Dubai during the 2026/2027 winter season, up to and including 27 March 2027. Flights to Riyadh and Dammam are cancelled up to and including 27 November 2026. Passengers whose flights have been cancelled will be notified.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-10-26\nKLM past het vluchtschema voor een aantal bestemmingen in het Midden-Oosten aan. Gedurende het winterseizoen 2026/2027, tot en met 27 maart 2027, voert KLM geen vluchten uit tussen Amsterdam en Dubai. De vluchten naar Riyadh en Dammam zijn geannuleerd tot en met 27 november 2026. Passagiers van wie de vlucht is geannuleerd, ontvangen hierover bericht.",
+    "published": "2026-10-26",
+    "publisher": null,
+    "related_event": "1dc972116d8ae1b08bc814cd",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM will not operate flights between Amsterdam and Dubai through March 27, 2027, covering the entire winter season. Flights to Riyadh and Dammam are cancelled through November 27, 2026. KLM will notify affected passengers.",
+    "title": "KLM extends Dubai flight cancellations through March 27 and Riyadh and Dammam cancellations through November 27"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "00e4c7d18200b4acbd555c78",
+    "evidence": [
+      {
+        "published": "2026-03-12",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-03-12",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Extending flight cancellations to Riyadh and Dammam through March 14 is a material but narrow schedule disruption, affecting two specific routes for three days rather than the wider network.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-03-12\nKLM will not operate flights to Riyadh and Dammam up to and including Saturday 14 March. We are closely monitoring developments.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-03-12\nKLM vliegt tot en met zaterdag 14 maart niet naar Riyadh en Dammam. We volgen de ontwikkelingen op de voet.",
+    "published": "2026-03-12",
+    "publisher": null,
+    "related_event": "d63ba7725ac7c3c9dd3d0637",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM extended cancellations of flights to Riyadh and Dammam from March 12 through March 14, inclusive.",
+    "title": "KLM extends flight cancellations to Riyadh and Dammam through March 14"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Customer experience",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "0f1f546f8e0deb19353ac3ab",
+    "evidence": [
+      {
+        "published": "2026-08-10",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-welcomes-passengers-to-grand-cafe-klm/"
+      },
+      {
+        "published": "2026-08-10",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-heet-passagiers-welkom-in-grand-cafe-klm/"
+      },
+      {
+        "published": "2026-09-22",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-offers-more-capacity-greater-comfort-and-a-renewed-fleet-this-winter/"
+      },
+      {
+        "published": "2026-09-22",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-biedt-deze-winter-meer-capaciteit-meer-comfort-en-een-vernieuwde-vloot/"
+      },
+      {
+        "published": "2026-11-26",
+        "source": "Instagram",
+        "url": "https://www.instagram.com/p/DgNZ5ipOWLm/"
+      },
+      {
+        "published": "2026-11-26",
+        "source": "Facebook",
+        "url": "https://www.facebook.com/KLM/posts/pfbid0ikCAjHkKyifpSQuftezWMVjDw4BFvGuz7BdLuDX7fZgTFdUnPJB6ZzH4TUH8w45Tl"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "KLM's introduction of the Grand Café KLM onboard service concept on European flights adds a new paid, pre-order and in-flight meal option for Economy Class, a material but narrower product change than a strategic, financial, safety or regulatory shift.",
+    "original_text": "KLM welcomes passengers to 'Grand Café KLM'\n10 August 2026 | 12:00 Europe/Amsterdam KLM welcomes passengers to 'Grand Café KLM' Summary Starting in October, KLM will introduce a new onboard service concept on European flights: Grand Café KLM. Under this new concept, passengers will enjoy greater choice in food and beverages, with the option to pre-order a meal before departure or select items from an onboard menu during the flight. With this enhancement, KLM is responding to a broader trend among European full-service airlines and to travelers' growing desire for more choice and flexibility. Passengers will be able to pre-order meals such as a poke bowl or Caesar salad before their flight. In addition, they can purchase a variety of items from the onboard menu, including a salmon egg wrap or yogurt with fruit and seeds. KLM's complimentary offering will remain available and includes coffee, tea, water, orange juice, and a stroopwafel. \"We are delighted to welcome our passengers to Grand Café KLM,\" said Bas Gerressen, EVP Inflight Services. \"With this new concept, we are taking the next step in enhancing the European travel experience. Passengers will benefit from greater choice, more flexibility, and an offering that better reflects a wide range of preferences and needs. Whether they choose to pre-order a meal or spontaneously select a snack or beverage onboard, Grand Café KLM allows passengers to tailor the service to their personal preferences. In doing so, this new concept further strengthens the warm and hospitable experience we strive to provide.\" Earlier, KLM announced that it was exploring a new catering model for Economy Class. Since then, the airline has conducted multiple testing phases across various destinations, evaluating both the product assortment and the supporting operational processes. KLM has been investing in improving the passenger experience across its European network for some time. The airline has already added 16 Airbus A321neo aircraft and 25 Embraer 195-E2 aircraft to its fleet, featuring modern seats with USB charging ports and larger overhead bins. A few months ago, KLM also introduced complimentary Wi-Fi on European flights. Grand Cafe KLM Download Media Kit Preparing your download... Download An error occurred while preparing your download\nEquivalent newsroom edition:\nKLM heet passagiers welkom in 'Grand Café KLM'\n10 augustus 2026 | 12:00 Europe/Amsterdam KLM heet passagiers welkom in 'Grand Café KLM' Samenvatting Vanaf oktober introduceert KLM op Europese vluchten een nieuw serviceconcept: Grand Café KLM. Passagiers krijgen daarbij meer keuze in eten en drinken, met de mogelijkheid om vooraf een maaltijd te bestellen of aan boord iets van de menukaart te kiezen. Met deze vernieuwing sluit KLM aan bij een bredere ontwikkeling onder Europese full-service luchtvaartmaatschappijen en bij de groeiende behoefte van reizigers aan meer keuze en flexibiliteit. Passagiers kunnen voorafgaand aan de vlucht een maaltijd bestellen, zoals een pokébowl of een caesarsalade. Ook kunnen zij aan boord allerlei lekkers bestellen van de menukaart, zoals een egg wrap met zalm of yoghurt met fruit en zaden. Het gratis aanbod blijft bestaan en bestaat uit koffie, thee, water, jus d’orange en een stroopwafel. “Wij heten onze passagiers van harte welkom bij Grand Café KLM,” aldus Bas Gerressen, EVP Inflight Services. “Met dit nieuwe concept zetten we een volgende stap in het verbeteren van de reiservaring binnen Europa. Passagiers krijgen meer keuze, meer flexibiliteit en een aanbod dat beter aansluit bij uiteenlopende behoeften. Of het nu gaat om vooraf een maaltijd bestellen of spontaan aan boord kiezen voor een snack of drankje, Grand Café KLM maakt het mogelijk om de service meer af te stemmen op persoonlijke voorkeuren. Daarmee draagt dit nieuwe concept nadrukkelijk bij aan de gastvrije beleving die we onze passagiers willen bieden.’’ Eerder maakte KLM bekend een andere cateringservice in de Economy Class te verkennen. KLM heeft inmiddels meerdere testrondes uitgevoerd op verschillende bestemmingen, waarbij zowel het assortiment als de achterliggende processen zijn getest. KLM is al enige tijd bezig om het comfort binnen Europa voor haar passagiers te vergroten. Zo heeft KLM inmiddels 16 A321neo en 25 Embraer 195-E2 aan de vloot toegevoegd, die voorzien zijn van de moderne stoelen met USB-aansluiting en grotere bagagebakken. Daarnaast voerde KLM een paar maanden geleden ook gratis WiFi in aan boord op haar Europese bestemmingen. Grand Cafe KLM Mediakit downloaden Download voorbereiden... Download Er is een fout opgetreden tijdens het voorbereiden van uw download",
+    "published": "2026-08-10",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-welcomes-passengers-to-grand-cafe-klm/",
+    "status": "New",
+    "summary": "Starting in October, KLM will introduce Grand Café KLM, a new onboard service concept on European flights. Passengers can pre-order meals before departure, such as a poke bowl or Caesar salad, or select items from an onboard menu during the flight, such as a salmon egg wrap or yogurt with fruit and seeds. KLM's complimentary offering remains available and includes coffee, tea, water, orange juice, and a stroopwafel. KLM says the concept responds to a broader trend among European full-service airlines and to travelers' growing desire for more choice and flexibility. Earlier, KLM had said it was exploring a new catering model for Economy Class, and it has since run multiple testing phases at various destinations, evaluating both the product assortment and the supporting operational processes. Bas Gerressen, EVP Inflight Services, said the concept gives passengers greater choice, more flexibility, and an offering that better reflects a wide range of preferences and needs. The new food and drink options are for Economy Class passengers.",
+    "title": "KLM introduces Grand Café KLM onboard service concept on European flights"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "5878ad96d9c8758ecceb6d68",
+    "evidence": [
+      {
+        "published": "2026-08-07",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-08-07",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Resuming Amsterdam–Tel Aviv flights on August 25 restores scheduled service on one route with bookings open, a material but narrower network change.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-08-07\nKLM will resume flights between Amsterdam and Tel Aviv as of August 25. KLM continuously adjusts its network based on operational considerations. The flight will operate with a technical stop in Larnaca, where the crew will stay overnight. Flights are available for booking as of August 6.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-08-07\nKLM hervat per 25 augustus de vluchten tussen Amsterdam en Tel Aviv. KLM past het netwerk voortdurend aan op basis van operationele overwegingen. De vlucht wordt uitgevoerd met een technische stop in Larnaca, waar de crew zal overnachten. De vluchten zijn vanaf 6 augustus te boeken.",
+    "published": "2026-08-07",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "New",
+    "summary": "KLM will resume flights between Amsterdam and Tel Aviv on August 25, with a technical stop in Larnaca where the crew will stay overnight. Bookings opened August 6.",
+    "title": "KLM to resume Amsterdam–Tel Aviv flights on August 25"
+  },
+  {
+    "bulletin_order": 3,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "72d61355dbeaca823689762e",
+    "evidence": [
+      {
+        "published": "2026-03-04",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-03-04",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "The Ministry of Foreign Affairs opening registration and assigning seats for KLM's next repatriation flight is a one-off, conditional government-coordinated flight with no announced details, so it carries no scheduled-service, financial, or network impact for KLM as a business.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-03-04\nThe Ministry of Foreign Affairs and KLM are currently preparing to operate another repatriation flight from the Middle East to the Netherlands. Details of the flight will be announced as soon as possible. The flight is intended for stranded travelers residing in the Netherlands who are staying in the region. Travelers who wish to participate can register with the Ministry of Foreign Affairs via the Crisis Contact Form on the website . The Ministry of Foreign Affairs will then determine who is eligible for the available seats and contact them. The ministry advises travelers to only come to the airport after receiving confirmation. This is due to the security situation. Flights will, of course, only be operated if circumstances permit. The safety of passengers and crew is always paramount.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-03-04\nHet Ministerie van Buitenlandse Zaken en KLM bereiden zich op dit moment voor op het uitvoeren van een volgende repatriëringsvlucht vanuit het Midden-Oosten naar Nederland. Details van de vlucht worden zo snel mogelijk bekend gemaakt. De vlucht is bedoeld voor in Nederland woonachtige gestrande reizigers die in de regio verblijven. Reizigers die hieraan willen deelnemen, kunnen zich melden bij het ministerie van Buitenlandse Zaken via het Crisis Contactformulier op de website . Het ministerie van Buitenlandse Zaken bepaalt vervolgens wie in aanmerking komt voor de beschikbare stoelen en neemt dan contact op. Het ministerie adviseert alleen naar de luchthaven te komen na ontvangst van een bevestiging. Dit in verband met de veiligheidssituatie. Vluchten worden uiteraard alleen uitgevoerd als de omstandigheden dat toelaten. De veiligheid van passagiers en crew staat altijd voorop.",
+    "published": "2026-03-04",
+    "publisher": null,
+    "related_event": "617f5309d8f2790711dc0906",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM and the Ministry of Foreign Affairs are preparing another repatriation flight to the Netherlands. Stranded travelers who live in the Netherlands can register through the ministry’s Crisis Contact Form. The ministry will determine eligibility and contact selected travelers, who should go to the airport only after receiving confirmation. Flight details have not yet been announced, and the flight will operate only if conditions permit.",
+    "title": "Ministry of Foreign Affairs opens registration and will assign seats for KLM’s next repatriation flight"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "a01fac84779e811ec80c2229",
+    "evidence": [
+      {
+        "published": "2026-02-04",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-02-04",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM extends its adjusted Dubai flight schedule by two days, through February 8, which is a minor operational update with no new route, service, or broader network impact shown.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-02-04\nAt all times, KLM prioritizes the safety of passengers and crew in the execution of its operations. Selecting safe and optimal routes is a standard part of our daily practice. Based on the current security situation and operational feasibility, we have decided to resume our flights to Tel Aviv on February 3 and from February 5 to February 15 with an adjusted schedule. From February 1 through 8, we will operate flights to Dubai, also with an adjusted schedule. We have resumed flights to other destinations in the region, such as Riyadh and Dammam. We continue to monitor the situation closely and will determine our flight schedules accordingly.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-02-04\nBij de uitvoering van onze operatie stelt KLM altijd de veiligheid van passagiers en medewerkers voorop. Het kiezen van veilige en optimale routes is een vast onderdeel van onze dagelijkse praktijk. Op basis van de actuele veiligheidssituatie en de operationele haalbaarheid hebben we besloten onze vluchten naar Tel Aviv op 3 februari en van 5 t/m 15 februari met een aangepast schema te hervatten. Van 1 t/m 8 februari vliegen we naar Dubai, met een aangepast schema. Al eerder hebben we onze vluchten naar Riyadh en Dammam hervat.",
+    "published": "2026-02-04",
+    "publisher": null,
+    "related_event": "f295ecef30bda11c09d0d033",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM will operate flights to Dubai on an adjusted schedule through February 8, extending the previously announced end date from February 6 by two days.",
+    "title": "KLM extends adjusted Dubai flight schedule through February 8"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Fleet",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "ff82bd9adbdd3f78a26b6c57",
+    "evidence": [
+      {
+        "published": "2026-10-30",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klms-first-airbus-a350-flight-to-toronto/"
+      },
+      {
+        "published": "2026-10-30",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/eerste-klm-vlucht-met-airbus-a350-naar-toronto/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "KLM's first commercial A350-900 departure from Schiphol to Toronto as KL0691 is a material fleet-entry milestone, but the evidence shows one flight and no broader network, financial, or regulatory impact.",
+    "original_text": "KLM’s first Airbus A350 flight to Toronto\nAmstelveen, 30 October 2026 | 16:00 Europe/Amsterdam KLM’s first Airbus A350 flight to Toronto KLM’s first Airbus A350-900 departed Schiphol for Toronto today. Flight KL0691 marks the aircraft’s first flight with passengers and eight metric tons of cargo on board. The aircraft is named De Nachtwacht (“The Night Watch”). Among the passengers were enthusiastic aviation fans who had booked tickets especially for the inaugural flight. Rien and Bob were among them. For the occasion, they had T-shirts printed with the text “1st commercial flight A350-900 AMS-YYZ.” This was the fifth time Rien had attended a first or last flight. He had previously been there for the final flights of the MD-11 and Fokker aircraft, and the first flights of the Dreamliner and the A321neo. Bob joined him for those occasions. “I was also at the first A321neo flight. It still smelled brand-new then, and I expect it will again this time. As a Platinum for Life member, I really wanted to experience this. It’s a special moment, and KLM can be proud of this important milestone. I hope I’ll get to experience just how much quieter this aircraft really is.” Father and son Ethan and Derrick also traveled all the way from New York to Amsterdam for the occasion. They landed at Schiphol this morning and, after Toronto, will continue on to New York. The arrival of the A350 marks an important step in KLM’s major fleet renewal program, which aims to make flying cleaner, quieter and more fuel-efficient. After Toronto, the aircraft will serve Montreal, Kilimanjaro, Dar es Salaam, Nairobi and Zanzibar. Photos: Arnoud Raeven Show previous image Show next image Download Media Kit Preparing your download... Download An error occurred while preparing your download\nEquivalent newsroom edition:\nEerste KLM-vlucht met Airbus A350 naar Toronto\nAmstelveen, 30 oktober 2026 | 16:00 Europe/Amsterdam Eerste KLM-vlucht met Airbus A350 naar Toronto De eerste Airbus A350-900 van KLM is vandaag vertrokken van Schiphol naar Toronto. Met vlucht KL0691 vliegt de A350 voor het eerst met passagiers en acht ton vracht aan boord. Het toestel draagt de naam ‘De Nachtwacht’. Aan boord zaten ook enthousiaste vliegtuigliefhebbers die speciaal voor deze eerste vlucht een ticket hadden geboekt. Onder hen Rien en Bob, die voor deze gelegenheid shirts hadden laten drukken met de tekst ‘1st commercial flight A350-900 AMS-YYZ’. Voor Rien was dit de vijfde keer dat hij bij een eerste of laatste vlucht aanwezig was. Hij was eerder bij de laatste vluchten van de MD-11 en de Fokker en de eerste vluchten van de Dreamliner en de A321neo. Dit deed hij samen met Bob. “Ik was ook aanwezig bij de eerste vlucht van de A321-neo, die rook toen nog helemaal nieuw, dat verwacht ik nu ook weer. Als Platinum for Life wil ik dit graag meemaken. Het is een bijzonder moment, KLM mag trots zijn op deze bijzondere mijlpaal. Ik hoop tijdens deze vlucht te mogen ervaren dat dit toestel echt stiller is.” Ook een vader en zoon, Ethan en Derrick, kwamen speciaal vanuit New York naar Amsterdam. Zij landden vanochtend op Schiphol en vliegen na Toronto weer door naar New York. De komst van de A350 is een belangrijke stap in de grootschalige vlootvernieuwing waarmee KLM inzet op schoner, stiller en zuiniger vliegen. Na Toronto volgen de bestemmingen Montreal, Kilimanjaro, Dar es Salaam, Nairobi en Zanzibar. Foto's: Arnoud Raeven Vorige afbeelding tonen Volgende afbeelding tonen Mediakit downloaden Download voorbereiden... Download Er is een fout opgetreden tijdens het voorbereiden van uw download",
+    "published": "2026-10-30",
+    "publisher": null,
+    "related_event": "f0548e790692620c26f01cfe",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klms-first-airbus-a350-flight-to-toronto/",
+    "status": "Material update",
+    "summary": "KLM’s first commercial A350 passenger flight departed Schiphol for Toronto on 30 October 2026 as flight KL0691.",
+    "title": "KLM's first Airbus A350-900 departs Schiphol for Toronto on flight KL0691"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Strategy",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "High",
+    "importance_reason": "The binding offers by Air France-KLM and Lufthansa Group for a TAP minority stake, including Air France-KLM's bid for 44.9% to 49.9% submitted to Parpública, are a major strategic step in Portugal's privatization of its flag carrier.",
+    "original_text": "",
+    "published": "2026-07-29",
+    "publisher": "Aviation Week",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://aviationweek.com/air-transport/airports-networks/air-france-klm-lufthansa-group-submit-binding-offers-tap-minority",
+    "status": null,
+    "summary": "Air France-KLM and Lufthansa made binding bids for a minority interest in TAP. Air France-KLM’s bid targeted a stake of 44.9% to 49.9%.",
+    "title": "Air France-KLM, Lufthansa Group Submit Binding Offers For TAP Minority Stake"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Strategy",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Medium",
+    "importance_reason": "The CEO signals interest in an EasyJet investment, which is material strategic news, but it is conditional on a possible Castlelake approach and no concrete deal terms are supplied.",
+    "original_text": "",
+    "published": "2026-06-09",
+    "publisher": "Aviation Week",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://aviationweek.com/air-transport/airlines-lessors/air-france-klm-opens-door-easyjet-investment",
+    "status": null,
+    "summary": "Air France-KLM’s chief executive said the group would consider participating if Castlelake approached it about a potential easyJet bid.",
+    "title": "Air France-KLM Opens Door To EasyJet Investment"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "94490083fe14d4a488a5d4e6",
+    "evidence": [
+      {
+        "published": "2026-02-28",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-02-28",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "KLM's cancellation of February 28 flights to Tel Aviv, Dubai, Riyadh and Dammam and its announced temporary suspension of Amsterdam–Tel Aviv service from March 1 are a material but narrower network change across four destinations.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-02-28\nDue to the geopolitical situation and the closure of various airspaces in the Gulf region, KLM is currently not flying through the airspace of Iran, Iraq, and Israel, nor over several countries in the Gulf region. As a result, we will not be operating flights to Tel Aviv, Dubai, Riyadh, and Dammam today. Because of the uncertainty of the situation, it is not yet clear what this will mean for flights scheduled for tomorrow. Passengers whose flights have been canceled have been informed. As soon as possible, passengers will be rebooked. Passengers who choose not to travel anymore can request a voucher or a full refund. We continue to closely monitor the situation. Earlier this week, KLM decided, for operational and commercial reasons, to temporarily suspend flights between Amsterdam and Tel Aviv as of March 1. -------------------------------------------------------------------------\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-02-28\nVanwege de geopolitieke situatie en het sluiten van verschillende luchtruimen in de Golfregio vliegt KLM op dit moment niet door het luchtruim van Iran, Irak en Israël en niet over diverse landen in de Golfregio. Dat betekent dat we vandaag geen vluchten uitvoeren naar Tel Aviv, Dubai, Riyadh en Dammam. Door de onzekere situatie is het niet duidelijk wat het betekent voor de vluchten voor morgen. Passagiers van wie de vlucht is geannuleerd, zijn geïnformeerd. Zodra het kan, worden passagiers omgeboekt. Passagiers die ervoor kiezen om niet meer te reizen, kunnen een voucher of volledige terugbetaling aanvragen. We blijven de situatie nauwlettend monitoren. Eerder deze week besloot KLM vanwege operationele en commerciële redenen om per 1 maart de vluchten tussen Amsterdam en Tel Aviv tijdelijk op te schorten. ---------------------------------------------------------------------------------------",
+    "published": "2026-02-28",
+    "publisher": null,
+    "related_event": "2f529a24f6df10a3a622c2f0",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM canceled February 28 flights to all four destinations and said the impact on March 1 flights was not yet clear. Separately, it disclosed an earlier decision to temporarily suspend Amsterdam–Tel Aviv flights from March 1 for operational and commercial reasons. Affected passengers will be rebooked as soon as possible or can request a voucher or full refund if they choose not to travel.",
+    "title": "KLM cancels February 28 flights to Tel Aviv, Dubai, Riyadh and Dammam; announces March 1 Tel Aviv suspension"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Network",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Medium",
+    "importance_reason": "The announced increase in long-haul capacity for winter 2026–27 is material but narrower than a network-wide change, adding frequencies such as twice-daily Fort-de-France service and nine weekly São Paulo flights without new routes.",
+    "original_text": "",
+    "published": "2026-07-31",
+    "publisher": "Aviation Week",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://aviationweek.com/air-transport/airports-networks/routes-networks-latest-rolling-daily-updates-wc-july-27-2026",
+    "status": null,
+    "summary": "KLM plans to run more flights to several long-haul destinations during winter 2026–27, including nine weekly services to São Paulo. Air France also plans a short-term increase on its Paris to Fort-de-France route.",
+    "title": "Routes & Networks Latest: Rolling Daily Updates (W/C July 27, 2026)"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Customer experience",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "889dbe9fd63cb3f7a8cfda2d",
+    "evidence": [
+      {
+        "published": "2026-06-29",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-brings-its-partnership-with-worldpride-amsterdam-2026-to-life/"
+      },
+      {
+        "published": "2026-06-29",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-geeft-invulling-aan-partnership-met-worldpride-amsterdam-2026/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM operating two special Pride flights in 2026 is a one-off, non-scheduled community initiative with no new route, network, financial, or regulatory impact.",
+    "original_text": "KLM to operate two special Pride flights in 2026\nThe Toronto flight took place on June 28 with LGBTIQ+ crew members and allies. KLM Cityhopper will fly to Berlin on July 24 ahead of Berlin Pride.\nSource passage: This year, KLM will operate two special Pride flights.",
+    "published": "2026-06-29",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-brings-its-partnership-with-worldpride-amsterdam-2026-to-life/",
+    "status": "New",
+    "summary": "The Toronto flight took place on June 28 with LGBTIQ+ crew members and allies. KLM Cityhopper will fly to Berlin on July 24 ahead of Berlin Pride.",
+    "title": "KLM to operate two special Pride flights in 2026"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Other",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "7e6999e7961aac4b4ef1aa05",
+    "evidence": [
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/"
+      },
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-grijpt-in-om-positie-te-versterken-en-om-nederland-met-de-wereld-te-blijven-verbinden/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Consolidating Schiphol cargo handling into one KLM Cargo warehouse for both belly and freighter freight is a material operational change at a major hub, but the evidence gives no figures showing network-wide financial or strategic impact.",
+    "original_text": "Consolidate Schiphol cargo handling in KLM Cargo's own warehouse\nKLM Cargo will handle freight from both passenger aircraft and freighters in a single KLM Cargo warehouse at Schiphol.\nSource passage: KLM Cargo will consolidate all cargo handling in its own warehouse at Schiphol, covering freight carried on both passenger and cargo aircraft.",
+    "published": "2026-11-05",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/",
+    "status": "New",
+    "summary": "KLM Cargo will handle freight from both passenger aircraft and freighters in a single KLM Cargo warehouse at Schiphol.",
+    "title": "Consolidate Schiphol cargo handling in KLM Cargo's own warehouse"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "20a919954cb0795f80dce824",
+    "evidence": [
+      {
+        "published": "2026-03-10",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-03-10",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Extending the Dubai flight cancellations through March 11 is a material but narrower operational change, affecting KLM's scheduled service to Dubai for two more days with no flights to Riyadh or Dammam on March 11.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-03-10\nDue to ongoing unrest in the Middle East, KLM will also not be flying to Dubai up to and including Wednesday, March 11 . There are no scheduled flights to Riyadh and Dammam on March 11. We are closely monitoring the situation.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-03-10\nDoordat de onrust in het Midden-Oosten aanhoudt, vliegt KLM tot en met woensdag 11 maart niet naar Dubai. Op 11 maart zijn er geen geplande vluchten naar Riyadh en Dammam. We volgen de ontwikkelingen op de voet.",
+    "published": "2026-03-10",
+    "publisher": null,
+    "related_event": "40b3ca2a91b2c8c953f51b49",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM extended cancellations of flights to Dubai from March 10 through March 11. No flights to Riyadh or Dammam were scheduled for March 11.",
+    "title": "KLM extends Dubai flight cancellations through March 11"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "873b74b85eef2c8755d71b8b",
+    "evidence": [
+      {
+        "published": "2026-02-03",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-02-03",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM adds February 5–15 to its adjusted Tel Aviv schedule, a short-term schedule change on an existing route that adds no new route, destinations, or onboard service.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-02-03\nAt all times, KLM prioritizes the safety of passengers and crew in the execution of its operations. Selecting safe and optimal routes is a standard part of our daily practice. Based on the current security situation and operational feasibility, we have decided to resume our flights to Tel Aviv on February 3 and from February 5 to February 15 with an adjusted schedule. From February 1 through 6, we will operate flights to Dubai, also with an adjusted schedule. We have resumed flights to other destinations in the region, such as Riyadh and Dammam. We continue to monitor the situation closely and will determine our flight schedules accordingly.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-02-03\nBij de uitvoering van onze operatie stelt KLM altijd de veiligheid van passagiers en medewerkers voorop. Het kiezen van veilige en optimale routes is een vast onderdeel van onze dagelijkse praktijk. Op basis van de actuele veiligheidssituatie en de operationele haalbaarheid hebben we besloten onze vluchten naar Tel Aviv op 3 februari en van 5 t/m 15 februari met een aangepast schema te hervatten.  Vanaf 1 t/m 6 februari vliegen we naar Dubai, met een aangepast schema. Al eerder hebben we onze vluchten naar Riyadh en Dammam hervat.",
+    "published": "2026-02-03",
+    "publisher": null,
+    "related_event": "f295ecef30bda11c09d0d033",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM lists adjusted Tel Aviv service on February 3 and February 5–15, adding the February 5–15 period to the previously announced schedule.",
+    "title": "KLM adds February 5–15 to adjusted Tel Aviv schedule"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Finance",
+    "earnings_identity": "air-france-klm:2026:q2",
+    "earnings_issuer": "air-france-klm",
+    "event_id": "14d46a59ebc774f2b065e82a",
+    "evidence": [
+      {
+        "published": "2026-07-30",
+        "source": "Group newsroom",
+        "supporting_document": "https://www.airfranceklm.com/sites/default/files/2026-07/20260729-2026-q2-afklm-press-release-1.pdf",
+        "url": "https://www.airfranceklm.com/en/newsroom/second-quarter-2026-results"
+      }
+    ],
+    "importance": "High",
+    "importance_reason": "The Q2 2026 results report shows group-wide financial impact: adjusted operating profit fell €251m year-on-year to €484m, and the FY 2026 capacity outlook was cut to +2% to +3%.",
+    "original_text": "Press releases published on 30/07/2026 Second Quarter 2026 Results Finance Results\nSecond Quarter 2026 Results\n30 July 2026\nWe recommend these articles to continue reading:\nOfficial quarterly release, full text:\n**Air France-KLM Group**\n\n**Second quarter 2026**\n\n# Second quarter 2026\n\n30 July, 2026\n\n## Strong unit revenue partly offset fuel headwind, with a fuel recapture rate of circa 85%.\n\n## Adjusted operating profit at €484m.\n\n- **Group revenues up 9.9%** year-on-year to **€9.3bn**, driven by all businesses.\n- **Unit revenue at constant currency up 8.7% thanks to Passenger network** supported by ongoing premiumization and **Cargo**, which benefitted from strong demand.\n- **Geopolitical situation pushed fuel prices up,** with fuel price impact of €804m compared to last year.\n- **Fuel price recapture via revenues at circa 85%,** above the estimated 60%.\n- **Unit cost¹ growth was limited to +1.0%,** of which +0.4% was driven by premiumization.\n- **Adjusted operating profit at €484m,** a reduction of €251m compared to last year, with an **operating margin of 5.2%**.\n- **H1 recurring adjusted operating free cash flow at €928m, up €148m** year-on-year.\n- **Leverage (Net debt/Adjusted EBITDA ratio) at 1.6x**.\n- **Solid cash at hand of €10.3bn²** at end of June 2026.\n- **Fleet renewal** up 8 points year-on-year, **with 38% share of new generation aircraft**.\n## FY 2026 capacity outlook revised, unit cost guidance unchanged\n\nFor 2026, the Group retains an agile approach and expects:\n\n- **** Capacity up by +2% to +3% compared to 2025 *(previously +2% to +4%)*.\n- Unit cost¹ up between 0% and +2%, including +0.5% from premiumization *(unchanged)*.\n- Net capital expenditures below €3bn *(unchanged)*.\n- Leverage ratio between 1.5x - 2.0x *(unchanged)*.\n- **Fuel bill is expected at USD 8.9bn³ in FY 2026,** compared to previous quarter indication of USD 9.3bn³. The current expected fuel bill reflects an increase of USD 2.0bn compared to FY 2025.\n## Accounting notification\n\n- The Group has early adopted IFRS 18. Accordingly, the figures for the prior year have been restated to align with the current year’s reporting under IFRS 18.\n*1Against a constant fuel price, constant currency and excluding Emission Trading Scheme cost (ETS)* *2 Cash at hand is calculated as net cash €6.8bn + undrawn credit lines €3.5bn* *3Based on the current hedges and forward curve of 27 July and subject to change given geopolitical uncertainty* *.*\n\nCommenting on the results, **Mr. Benjamin Smith, Group CEO**, said:\n\n*“As expected, the sharp increase in fuel prices significantly impacted our results during the* *second quarter. Thanks to agile pricing and cost discipline, we were largely able to mitigate* *this strong headwind, proving once again the resilience of our business model. We delivered* *strong commercial performance on the back of a steady demand for premium travel, notably* *on the Asian and North American markets. Going forward, we still expect to navigate in a* *highly volatile environment. Our adaptability, especially when it comes to our network, will* *remain one of our strongest assets, together with the unwavering commitment of our teams.*\n\n*As we execute on operational priorities, we are also moving forward with our long-term* *strategic ambitions, with consolidation and sustainability at the core of our action. These* *efforts will allow us to build a stronger Air France-KLM, a true European global champion that* *is ready for the future.”*\n\n## Strong second quarter revenue offset circa 85% of the fuel headwind\n\n|||Second Quarter|||First Half-Year||\n|---|---|---|---|---|---|---|\n||2026|change|change constant currency|2026|change|change constant currency|\n|Group Passengers (thousands)|28,317|+3.9%||50,618|+3.2%||\n|Group Capacity (ASK m)|86,993|+2.6%||165,558|+3.3%||\n|Group Traffic (RPK m)|76,263|+2.5%||144,064|+3.4%||\n|Group Passenger load factor|87.7%|-0.1pt||87.0%|+0.1pt||\n\n|||Second Quarter|||First Half-Year||\n|---|---|---|---|---|---|---|\n||2026|change|change constant currency|2026|change|change constant currency|\n|Revenues (€m)|9,277|+9.9%|12.3%|16,756|+7.4%|+10.5%|\n|Adjusted Operating Profit (€m)|484|-251|-195|478|+47|+64|\n|Operating margin (%)|5.2%|-3.5pt|-3.0pt|2.9%|+0.1pt|+0.1pt|\n|Net income (€m)|190|-459||-61|-462||\n|Group unit revenue per ASK (€cts)|9.61|+6.6%|+8.7%|9.03|+3.8%|+6.3%|\n|Group unit cost per ASK (€cts)¹|8.93||+1.0%|8.62||+0.8%|\n\n*1) At constant fuel, constant currency and excluding ETS.*\n\n||H1 2026|H1 2025|\n|---|---|---|\n|Operating Free cash flow (€m)|1,173|1,353|\n|Recurring adjusted operating free cash flow* (€m)|928|780|\n **IFRS Operating free cash flow adjusted to exclude the repayment of deferred social charges, pensions contributions and wage taxes* *granted during the Covid period, payment of lease debt and interests paid and received as well as the payment of the Cargo fine*\n\n||30 June 2026|31 December 2025|\n|---|---|---|\n|Net Debt (€m)|8,376|8,392|\n|Adjusted EBITDA trailing 12 months (€m)|5,204|5,058|\n|Net Debt/Adjusted EBITDA ratio|1.6x|1.7x|\n\n## Adjusted operating profit declined impacted by the geopolitical situation in the Middle\n\n## East and limited unit cost increase\n\nIn the second quarter of 2026, Air France-KLM welcomed 28.3 million passengers, up 3.9% year- on-year. As capacity increased by 2.6% and traffic by 2.5%, the load factor remained broadly stable at 87.7%.\n\nThe Group unit revenue per ASK was up 8.7% year-on-year at constant currency, due to premiumization, reduced industry capacity as a result of the Middle East conflict and increased ticket prices. Passenger network unit revenue increased by 8.7% as well, driven by strong yields throughout the quarter. In particular Asia, North America and Caribbean & Indian Ocean performed very well.\n\nCargo unit revenues increased significantly (26.7% at constant currency) thanks to strong demand resulting in an increase in load factor and yield and, especially in Asia, high unit revenues. Transavia unit revenues increased by 1.6% despite increased capacity.\n\nQ2 unit cost¹ was up 1.0% year-on-year, mainly due to supply chain related maintenance cost (+1.1%), premiumization (+0.4%), and higher staff costs (+0.6%), partly compensated by fuel efficiency (-0.4%) and reduced wet leases (-0.6%).\n\nThe adjusted operating profit amounted to €484 million, with a margin of 5.2%. This development was supported by an increase in unit revenue of €672 million which was fully offset by a fuel price increase of €804 million (including ETS €26 million) and an €80 million increase in unit cost.\n\n## Cash\n\nIn the second quarter Air France-KLM has signed a new multi-purpose credit facility (undrawn) for an amount of €1 billion with a syndicate of 12 international banks, further enhancing the Group’s financial flexibility and diversified funding structure, and a €500 million² 5-year senior bond was issued with a 4.25% fixed annual coupon. During the quarter the following instruments were redeemed:\n\n- €500 million Sustainability Linked Bond (coupon 7.25%)\n- Circa €300 million KLM perpetual (CHF 270m, coupon 5.75%)\n- The remaining €282 million of an initial bond of €500 million (coupon 3.875%)\nIn July, the Group redeemed €500 million perpetual bonds (coupon: 6.9%) issued by an ad hoc operating affiliate of Air France owning Maintenance assets to Apollo. The transaction three years ago supported Air France-KLM in its trajectory to come back to a positive equity position under IFRS and the Group thanks Apollo for the smooth partnership during this trajectory.\n\nFor the first half year, the Group reported a positive recurring adjusted operating free cash flow³ of €928 million, up €148 million year on year. This increase was mainly driven by net capex, which improved by almost €300 million mainly thanks to an agreement between KLM and Schiphol⁴. Cash flow before change in working capital was impacted due to the payment of the Cargo claim of €368 million. The working capital movement was impacted by the payment of deferrals inherited from the pandemic amounting to €251 million.\n\nNet debt remained broadly stable at €8.4 billion. The leverage ratio stood at 1.6x, in line with the Group’s ambition of 1.5x to 2.0x. 5 At the end of June 2026, cash at hand stood at €10.3 billion, above the targeted range of €6–8 billion.\n\n*1 At constant fuel, constant currency and excluding ETS.* *2Cash received at July 1st, and therefore not included in the cash at hand of €10.3bn and the debt redemption profile as per J une 30th.* *3 Check for the definition, the recurring adjusted free cash flow table in the appendix of this press release.* *4 On 29 May 2026, KLM and Schiphol signed an agreement for the future relocation of several KLM locations at Schiphol Centre,* *including KLM’s cargo buildings, KLM’s catering building and KLM’s Topside office building to other locations at Schiphol. This* *agreement is part of the renewal of the airport as stipulated in the Schiphol Centre Master Plan. For KLM this creates an opportunity* *to develop more modern working environments for the future. The compensation from Schiphol to KLM is approximately EUR 0.5* *billion, of which EUR 0.3 billion has been received up to date under agreed conditions. The remaining EUR 0.2 billion will be received* *by KLM when certain project milestones and conditions have been reached.* *5 Cash at hand is calculated as net cash €6.8bn + undrawn credit lines €3.5bn.*\n\n## Sustainability\n\n||30 June 2026|30 June 2025|Change|\n|---|---|---|---|\n|Share of new-generation aircraft¹ GHG intensity (SBTi|38%|30%|+8.0pt|\n|standard) in gCO₂eq/RTK|905|916|-1.2%|\n\n2 (Revenue Ton Kilometer)\n\n## Fleet renewal\n\nFleet renewal is a cornerstone of the Group’s Transition Plan for climate change mitigation. Air France-KLM continues to take delivery of new generation aircraft consuming up to 25% less fuel per passenger km and reduce the noise footprint by up to 63% compared to the previous generation aircraft they replace.\n\nAt the end of June 2026, 38% of the Group’s fleet consisted of new-generation aircraft, up 8 points compared to end of June 2025. The Group plans to have up to 80% of its fleet composed of new-generation aircraft by 2030.\n\n## GHG intensity (SBTi standard)\n\nAt the end of June 2026, the indicator was 905 gCO₂eq/RTK, which represents a 1.2% reduction compared to end of June 2025.\n\n## Competitiveness and decarbonization\n\nOn June 12, 2026, Air France-KLM took part in the Paris Air Forum. The Group's presence reflected both the breadth of challenges currently facing the aviation industry and Air France- KLM's determination to engage constructively in the debates shaping its future: geopolitical resilience and fair competition; decarbonization and regulatory reform to address the competitive distortions created by regulations such as the EU Emissions Trading System (ETS) and Sustainable Aviation Fuel (SAF) mandates, which place European carriers at a structural disadvantage compared to their international competitors. The Group's leaders made clear that while the current environment is demanding, Air France-KLM remains committed to its strategic direction.\n\n*1 New-generation aircraft / Aircraft in operation* *2 Data has been restated, consistent with the recommendations of the SBTi standard*\n\n## Post quarter event\n\n## TAP Air Portugal\n\nOn July 29, Air France-KLM announced it has submitted a binding offer to Parpública for the acquisition of a 44.9% to 49.9% stake in TAP Air Portugal, marking a decisive step in the airline’s privatization process. The bid is welcomed by Air France-KLM joint venture partner and shareholder Delta Air Lines. Delta Air Lines’ support and alignment reflects a shared ambition to further strengthen Portugal’s global connectivity, particularly on the North Atlantic.\n\nIf selected, Air France-KLM would position Lisbon as its unique Southern European hub, reinforcing the Group’s global network and expanding connectivity to key markets, particularly in the Americas and Africa. TAP’s leading position on strategic routes to Brazil would be a strong complement to Air France-KLM’s existing route portfolio, which is already connected to a dense domestic network in Brazil as part of a long-standing partnership with Brazilian carrier GOL.\n\nAs part of the binding offer submitted today, Air France-KLM laid out its plan to develop new Maintenance, Repair and Overhaul (MRO) activities in Portugal, complementary to the continued development of the Group’s own activities in France and Netherlands.\n\nLink to original press release: <u>Air France-KLM submits a binding offer TAP Air Portugal</u>\n\n## Sale KLM Catering Services\n\nOn 1st of July, KLM and gategroup completed the acquisition of KLM Catering Services (KCS). Gategroup now holds a 75% stake in KCS, while KLM retains a 25% interest and will remain closely involved in the onboard services for its passengers. KCS will in any case continue to serve as KLM’s caterer for the next twenty years.\n\nThe partnership is part of KLM’s “Back on Track” improvement program. By joining forces with gategroup, a global leader in airline catering and hospitality with operations in more than 60 countries, KLM is taking an important step toward preparing KCS for the future. In the period ahead, gategroup and KLM will continue to work together on the further development of KCS, with a focus on quality, reliability, innovation, and sustainability. At the same time, work is underway on a new facility at Schiphol.\n\nLink to original press release: <u>KLM and gategroup complete acquisition KLM Catering Services</u>\n\n## Update on fuel price\n\nGiven the current hedges and forward curves, the full year 2026 hedging result amounts to USD\n\n1.6bn¹ and the hedging result in Q2 amounted to USD 0.6bn. Despite hedging, a total fuel bill of USD 8.9bn¹ is estimated for 2026, representing an increase of USD 2.0bn¹, compared to FY 2025. The percentage of fuel consumption already hedged for 2026 is 67% and 40% for 2027. Given the volatile market, strict adherence to the Group’s hedging policy was suspended from April 1st, 2026 and partly resumed in May, with a focus on 2027 and beyond. In response to the Middle East conflict and the reduction of industry capacity, the Group swiftly reallocated capacity by upgauging its fleet to Asia and East Africa and added additional flights. Air France-KLM introduced measures to mitigate the fuel price impact by including a higher carrier-imposed surcharge per ticket, following similar strategies by competitors. On the cost side, measures were also taken, discretionary costs are being minimized and the hiring of non- operational staff has been put on hold.\n## FY 2026 capacity outlook: actively managed to optimize returns in a volatile context\n\n## The Group expects:\n\n## Air France-KLM Network:\n\n- Long haul: Circa +2% *(previously +2% to +4%)*\n- Short & Medium haul: Circa -1% *(previously stable)*\n## Transavia:\n\n- Circa +8% *(previously +8% to +10%)*\n## Air France-KLM Group:\n\n- Total: +2% to +3% *(previously +2% to +4%)*\n## FY 2026 capacity outlook revised, unit cost guidance unchanged\n\nThe Group retains an agile approach and expects:\n\n- **** Capacity up by +2% to +3% compared to 2025 *(previously +2% to +4%).*\n- Unit cost² up between 0% and +2%, including +0.5% from cabin premiumization *(unchanged).*\n- Net capital expenditures below €3bn *(unchanged).*\n- Leverage ratio between 1.5x - 2.0x *(unchanged)*.\n*1 Based on the current hedges and forward curve of 27 July and subject to change given geopolitical uncertainty* *2 Against a constant fuel price, constant currency and excluding Emission Trading Scheme cost (ETS)*\n\n## Business review\n\n## Network result\n\n|Network|Second Quarter|First Half-Year|||||\n|---|---|---|---|---|---|---|\n||2026|change|change constant currency|2026|change|change constant currency|\n|Traffic revenues (€m)|7,297|+9.3%||13,301|+7.0%||\n|Pax traffic revenue|6,692|+7.9%||12,192|+6.6%||\n|Cargo traffic revenue|604|+27.6%||1,109|+11.5%||\n|Total revenues (€m)|7,606|+9.7%||13,907|+7.1%||\n|Salaries and related costs (€m)|-1,797|+4.0%||-3,517|+3.1%||\n|Aircraft fuel, excl. ETS (€m)|-2,028|+45.4%||-3,241|+14.4%||\n|Other operating expenses (€m)|-2,763|+4.9%||-5,418|+4.2%||\n|Depreciation & Amortization (€m)|-552|+8.3%||-1,102|+5.8%||\n|Adjusted Operating Profit (€m)|466|-204|-134|629|+134|+159|\n|Operating margin (%)|6.1%|-3.5 pt||4.5%|+0.7 pt||\n\nCompared to the second quarter of 2025, total revenues increased by 9.7% to €7.6 billion. The adjusted operating profit reached €466 million, down €134 million year-on-year at constant currency. The decrease is fully driven by the increase in unit cost and increase in ETS cost. Due to the geopolitical issues in the Middle East the fuel price spiked in March, but given the delay in pricing, this increase was visible in the second quarter. Thanks to active passenger yield management and benefits from increased demand, mainly on non-stop Asia, India and East Africa routes due to Gulf hub avoidance, and thanks to strong Cargo unit revenues, the fuel price impact was fully offset for the Network business.\n\nCargo showed a positive unit revenue development compared to last year due to strong industry demand and increased pricing following the rising fuel price. The operating margin of the Network business amounted to 6.1%, a decrease of 3.5 points compared to the second quarter of 2025.\n\n## Premium and long-haul demand continued to support strong yields\n\n|Passenger network|Second Quarter|First Half-Year|||||\n|---|---|---|---|---|---|---|\n||2026|change|change constant currency|2026|change|change constant currency|\n|Passengers (thousands)|19,811|+0.3%||37,036|+0.1%||\n|Capacity (ASK m)|71,681|+1.7%||139,364|+2.2%||\n|Traffic (RPK m)|62,298|+1.1%||120,738|+2.1%||\n|Load factor|86.9%|-0.5pt||86.6%|-0.1pt||\n|Total passenger revenues (€m)|6,895|+8.2%|+10.7%|12,593|+6.8%|+9.4%|\n|Traffic passenger revenues (€m)|6,692|+7.9%|+10.5%|12,192|+6.6%|+9.3%|\n|Unit revenue per ASK (€ cts)|9.34|+6.2%|+8.7%|8.75|+4.3%|+7.0%|\n\nDuring the second quarter of 2026, capacity in Available Seat Kilometers (ASK) was 1.7% higher than last year. Traffic growth (1.1%) has led to a slightly lower load factor of 86.9%. Yield at constant currency showed an increase of 9.2%, leading to a unit revenue increase of 8.7% year- on-year at constant currency. The yield increase was mainly driven by the front cabins (La Premiere, Business) with a double-digit growth and Premium yield growth of 9.1%. Yield in the economy class was up 6.1%.\n\nDuring the second quarter we observed the following trends in:\n\n## North Atlantic\n\nUnit revenue was up, driven by a strong 8.9% yield increase. The performance was particularly strong in front cabins, despite significant capacity growth.\n\n## Latin America\n\nCapacity grew by 4.5% while unit revenue grew on the back of a healthy yield development (+5.5%), and broadly stable load factor.\n\n## Asia & Middle East\n\nThe Group’s capacity to Middle East was reduced by 80% while Asia showed a modest growth of almost 4%, resulting in a total capacity reduction of 4%. Asia benefits from Gulf hub avoidance, in particular in India. This effect is however decreasing with Gulf carriers’ capacity close to pre- war levels. Yield growth year-on-year amounted to 20.3%.\n\n## Caribbean & Indian Ocean\n\nYield in this region grew by 11%, supported by some attractive destinations. Load factor benefited as well with an increase of 1 point compared to the same period last year.\n\n## Africa\n\nStrong performance driven by a yield increase of 8.6%, however the load factor went down by\n\n2.2 points. East & South Africa benefit from Gulf Hub avoidance.\n## Short and Medium-haul\n\nGeopolitical dynamics continued to drive high-yielding long-haul connecting traffic. This was complemented by strong local close-in demand for European and domestic routes for Air France. Strategic initiatives also contributed significantly, including the successful transfer of part of the ORY short-haul seat to CDG, supported by long-haul connecting traffic as well as strong corporate demand.\n\n## Cargo: Very strong unit revenue development\n\n|Cargo business|Second Quarter|First Half-Year|||||\n|---|---|---|---|---|---|---|\n||2026|change|change constant currency|2026|change|change constant currency|\n|Tons (thousands)|237|+8.9%||472|+6.4%||\n|Capacity (ATK m)|3,718|+2.9%||7,281|+2.9%||\n|Traffic (RTK m)|1,828|+11.3%||3,588|+7.5%||\n|Load factor|49.2%|+3.7pt||49.3%|+2.1pt||\n|Total Cargo revenues (€m)|711|+25.7%|+28.3%|1,313|+10.5%|+14.8%|\n|Traffic Cargo revenues (€m)|604|+27.6%|+30.9%|1,109|+11.5%|+11.5%|\n|Unit revenue per ATK (€cts)|16.26|+24.0%|+26.7%|15.23|+8.4%|+12.6%|\n\nGlobal air cargo capacity started to normalize towards the end of Q2, as Middle East disruption eased, Gulf hub capacity was restored and operational pressure reduced. However, demand continued to outpace capacity growth on several key lanes, keeping the market relatively tight. In 2026’s second quarter, the Group’s Cargo business achieved an impressive increase of revenue per ATK against a constant currency of 26.7%. Since the Middle East conflict started, reduced industry capacity and strong industry demand, fueled by demand for semiconductors and AI-related hardware, increased the Group’s yield by 17.2% and load factor by 3.7pt to 49.2%. Cargo carried 237 million kilograms, representing an 8.9% increase year-on-year. The capacity grew 2.9%, despite limitations in full freighter capacity due to scheduled and unscheduled maintenance and traffic increased by 11.3% year-on-year.\n\n## Transavia: positive unit revenue development insufficient to mitigate fuel price increase\n\n|Transavia|Second Quarter|First Half-Year|||\n|---|---|---|---|---|\n||2026|change|2026|change|\n|Passengers (thousands)|8,506|+13.3%|13,583|+12.5%|\n|Capacity (ASK m)|15,312|+7.3%|26,194|+9.7%|\n|Traffic (RPK m)|13,965|+9.3%|23,326|+10.6%|\n|Load factor|91.2%|+1.7pt|89.1%|+0.7pt|\n|Unit revenue per ASK (€cts)|6.97|+1.6%|6.27|-0.7%|\n|1 Unit cost per ASK (€cts) 1 Against a constant fuel price, constant currency and excluding Emission Trading Scheme cost (ETS)|6.93|-2.5%|7.28|-15.5%|\n|Total Passenger revenues (€m)|1,057|+11.7%|1,628|+10.6%|\n|Salaries and related costs (€m)|-231|+9.4%|-436|+8.6%|\n|Aircraft fuel, excl. ETS (€m)|-306|+50.1%|-448|+25.1%|\n|Other operating expenses (€m)|-430|+7.2%|-772|+11.0%|\n|Depreciation & Amortization (in €m)|-125|+10.7%|-237|+19.5%|\n|Adjusted Operating Profit (€m)|-35|-52|-265|-84|\n|Operating margin (%)|-3.3%|-5.2pt|-16.3%|-4.0pt|\n\nIn the second quarter, Transavia’s capacity in Available Seat Kilometers grew 7.3%, while traffic increased by 9.3%, resulting in an increase in load factor of 1.7 points. Yield remained broadly stable, resulting in a unit revenue increase of 1.6%.\n\nThe capacity growth is accompanied by focused actions on unit cost reduction and network profitability, in a highly competitive environment. Transavia France and Transavia Netherlands are both currently in the middle of a fleet transition from B737 to the A320-NEO family. Due to the geopolitical situation, Transavia cancelled flights to and from Israel, Lebanon and Saudi Arabia and experienced negative booking trends to nearby destinations like Egypt, Cyprus and Turkey.\n\nTransavia France results are temporarily impacted by taking over Air France operations at Orly which was completed by the end of the first quarter.\n\n## Maintenance business: Continued growth in third party revenues\n\n|Maintenance|Second Quarter|First Half-Year|||\n|---|---|---|---|---|\n||2026|change|2026|Change|\n|Total Revenues (€m)|1,418|+2.9%|2,807|+0.7%|\n|o/w Third party revenues (€m)|615|+9.5%|1,224|+6.2%|\n|External expenses (€m)|-905|+0.9%|-1,823|-0.3%|\n|Salaries and related costs (€m)|-336|+9.5%|-663|+4.6%|\n|Depreciation & Amortization (€m)|-116|+12.5%|-202|-0.7%|\n|Adjusted Operating Profit (€m)|61|+1|120|-3|\n|Operating margin (%)|4.3%|0.0pt|4.3%|-0.1pt|\n\nIn the second quarter, the third-party revenues went up 9.5% and total revenues increased by\n\n2.9%. The supply chain remains highly disrupted, particularly as a result of GE90-related challenges and the geopolitical situation, slowing margin improvement. The adjusted operating profit and the operating margin remained at the same level as last year.\n## Joint venture Air France-KLM and Aercap\n\nAir France Industries KLM Engineering & Maintenance and AerCap Holdings N.V. have announced the signing of an agreement to establish a 50/50 LEAP engine leasing joint venture to support the growing demand for LEAP spare engines. The joint venture follows the memorandum of understanding announced at the Paris Air Show in 2025, and is subject to the necessary approvals by the relevant authorities.\n\nThe joint venture will provide spare engine support to AFI KLM E&M customers operating LEAP- powered aircraft worldwide and is expected to initially acquire approximately 40 new CFM LEAP-1A and LEAP-1B spare engines. Deliveries are scheduled through 2032, with the first four LEAP engines expected to be available to AFI KLM E&M customers by early 2027.\n\n## Air France: Adjusted operating profit pressurized by fuel price and unit cost increase\n\n## Air France Group\n\n||Second Quarter||First Half-Year||\n|---|---|---|---|---|\n||2026|change|2025|change|\n|Revenues (in €m)|5,516|+6.5%|10,084|+5.8%|\n|Salaries and related costs (in €m)|-1,489|+4.3%|-2,892|+3.8%|\n|Aircraft fuel, excl. ETS (in €m)|-1,372|+44.4%|-2,177|+14.4%|\n|Other operating expenses (in €m)|-1,910|+4.4%|-3,756|+5.2%|\n|Depreciation & Amortization (in €m)|-519|+13.4%|-1,009|+10.4%|\n|Adjusted Operating Profit (in €m)|225|-290|251|-103|\n|Operating margin (%)|4.1%|-5.9pt|2.5%|-1.2pt|\n\nThe adjusted operating profit reached €225 million in the second quarter, down €290 million year-on-year. The operating margin decreased by 5.9 points compared to Q2 last year, impacted by a higher fuel price and higher unit costs. This evolution was primarily driven by higher salary, maintenance and flight-related costs, partly offset by favorable passenger unit revenue and strong cargo unit revenue.\n\n## KLM: Stable adjusted operating profit despite higher fuel cost\n\n## KLM Group\n\n|||Second Quarter|First Half-Year||\n|---|---|---|---|---|\n||2026|change|2026|change|\n|Revenues (in €m)|3,867|+13.8%|6,854|+8.0%|\n|Salaries and related costs (in €m)|-1,075|+4.5%|-2,105|+2.9%|\n|Aircraft fuel, excl. ETS (in €m)|-964|+48.8%|-1,515|+17.6%|\n|Other operating expenses (in €m)|-1,371|+7.5%|-2,621|+5.1%|\n|Depreciation & Amortization (in €m)|-281|+2.4%|-546|+0.6%|\n|Adjusted Operating Profit (in €m)|176|+3|68|+92|\n|Operating margin (%)|4.5%|-0.5pt|1.0%|+1.4pt|\n\nIn the second quarter, KLM reported an adjusted operating profit of €176 million, an improvement of €3 million year-on-year, driven by strong Passenger network and Cargo revenues, compensating higher fuel cost. The unit cost was largely unchanged as the Back on Track program improved productivity which compensated the increase in salary cost. The reduction in wet leases compensated for the increased maintenance cost due to supply chain issues.\n\n## Flying Blue: Revenue and operating margin accelerating\n\n## Flying Blue Miles\n\n||Second Quarter|First Half-Year|||\n|---|---|---|---|---|\n||2026|change|2026|change|\n|Revenues (in €m)|325|+97|583|+156|\n|o/w Third party revenues (in €m)|243|+86|429|+142|\n|Adjusted Operating Profit (in €m)|91|+34|169|+66|\n|Operating margin (%)|28.0%|+3.0pt|29.0%|+4.9pt|\n\nIn the second quarter, Flying Blue Miles generated €325 million in revenue, of which €243 million (up €+86 million), came from third-party airline and non-airline partners. Operating margin rose 3 points to 28.0%, absorbing a weaker USD. This growth is broad-based, durable, and it compounds for Air France–KLM: driving incremental revenues to the airlines and contributing to yield-optimization efforts across the Group.\n\nNb: Sum of individual airline and Flying Blue results does not add up to AF-KLM total due to intercompany eliminations at Group level.\n\n## Early adoption of IFRS 18\n\nOn April 9, 2024, the International Accounting Standards Board (IASB) issued its new standard IFRS 18, “Presentation and Disclosures in Financial Statements”, aimed at improving the usefulness of information presented in the primary financial statements and the notes.\n\n## The main changes relate to:\n\n- improving the comparability of the income statement by introducing three distinct categories of income and expenses (operating, investing and financing), and by requiring new subtotals, including operating profit;\n- improving the transparency of management-defined performance measures;\n- introducing rules and guidance on how to aggregate and disaggregate financial information both in the primary financial statements and in the notes.\nIFRS 18 is effective for annual reporting periods beginning on or after January 1, 2027, with early application permitted from January 1, 2026. It was adopted by the European Union on February 13, 2026. The Group decided to early adopt IFRS 18 in 2026.\n\n2025 financial statements were restated retrospectively, allowing comparability of the financial statements for the comparative periods in accordance with IFRS principles.\n\nWith regard to the performance measures used and communicated by the Group, “Adjusted EBITDA” and “Adjusted operating result” replace “Recurring EBITDA” and “Recurring operating result,” respectively. They remain comparable in terms of content. The bridge for 2025 is available in the appendices below.\n\n|In M€|YTD|YTD (Y-1)|Quarter|Quarter (Y-1)|Full year 2025|\n|---|---|---|---|---|---|\n|Current Operating income before IFRS 18|448|409|476|736|2,004|\n|Dividends Received|0|0|0|0|-1|\n|Pension-Interest cost|28|26|13|13|50|\n|Realized foreign exchange gain (losses) - Operating|2|-4|-5|-14|16|\n|ADJUSTED OPERATING PROFIT (AFTER IFRS 18)|478|431|484|735|2,069|\n\n- Dividends received: Previously presented in “revenues,” are now classified within the line “Foreign exchange gains (losses), on derivatives and other (investing)”.\n- Finance cost related to defined benefit pension obligations: Corresponds to the reclassification of the undiscounting pension provisions and retirements benefits within the financing section of the income statement. Previously recognized in the “staff costs” line, is now presented in the line “undiscounting of provisions”, within profit before tax.\n- Foreign exchange results and impacts on derivatives: Previously recognized in the line “other financial income and expenses,” are now allocated to the subtotal to which they relate, within the three distinct categories of the income statement: “Foreign exchange gains (losses) (operating) after hedging,” “Foreign exchange gains (losses), on derivatives and other (investing),” and “Foreign exchange gains (losses), on derivatives and other (financing)”.\n\n********\n\n*The external auditors carried out limited review procedures. The issuance of the limited review* *report is in progress.*\n\nThe results presentation is available at **www.airfranceklm.com** on July 30, 2026 from 8:00 am CET.\n\n**Air France-KLM Press Office** +33 1 41 56 56 00 mail.mediarelations@airfranceklm.com\n\n## Consolidated income statement\n\n||First Quarter|Second Quarter|First Half-Year|||||||\n|---|---|---|---|---|---|---|---|---|---|\n|In M€|2026|2025|Change|2026|2025|Change|2026|2025|Change|\n|Traffic Sales|6,580|6,294|5 %|8,363|7,649|9 %|14,943|13,942|7 %|\n|Sales-Other business|899|871|3 %|914|794|15 %|1,813|1,666|9 %|\n|Revenues|7,479|7,165|4 %|9,277|8,443|10 %|16,756|15,608|7 %|\n|Fuel and CO₂ quotas|-1,443|-1,663|-13 %|-2,444|-1,680|45 %|-3,887|-3,343|16 %|\n|External expenses|-3,110|-3,124|— %|-3,260|-3,141|4 %|-6,370|-6,265|2 %|\n|Salaries and related costs|-2,441|-2,379|3 %|-2,571|-2,462|4 %|-5,012|-4,841|4 %|\n|Taxes other than income taxes|-64|-63|2 %|-43|-39|10 %|-107|-102|5 %|\n|Capitalized production and other operating income|346|461|-25 %|358|394|-9 %|704|855|-18 %|\n|Other operating expenses|-19|–|nm|-26|-25|4 %|-45|-25|80 %|\n|Amortization|-786|-759|4 %|-855|-805|6 %|-1,641|-1,564|5 %|\n|Reversals (additions) to provisions (leased aircraft return obligations and other provisions)|31|35|-11 %|54|72|-25 %|85|107|-21 %|\n|Foreign exchange (operating) gains (losses) after hedges|-107|193|nm|-39|333|nm|-146|526|nm|\n|Sales of aircrafts equipment|2|-1|nm|11|-1|nm|13|-2|nm|\n|Non-recurring income and expenses|–|–|nm|-7|-10|-30 %|-7|-10|-30 %|\n|Operating profit or loss|-112|-135|-17 %|455|1,079|-58 %|343|944|-64 %|\n|Share of profits (losses) of associates|-17|-18|-6 %|2|7|-71 %|-15|-11|36 %|\n|Income from cash and cash equivalents|55|57|-4 %|47|45|4 %|102|102|— %|\n|Foreign exchange gains (losses) derivatives and other|59|-51|nm|22|-109|nm|81|-160|nm|\n|Profit or loss before financing and income taxes|-15|-147|-90 %|526|1,022|-49 %|511|875|-42 %|\n|Interests expenses on financial liabilities|-92|-87|6 %|-83|-74|12 %|-175|-161|9 %|\n|Interests expenses of lease debt|-88|-80|10 %|-81|-79|3 %|-169|-159|6 %|\n|Undiscounting of provisions|-88|-89|-1 %|-86|-84|2 %|-174|-173|1 %|\n|Foreign Exchange gains (losses), derivatives and other|-40|52|nm|-11|143|nm|-51|195|nm|\n|Profit or loss before income tax|-323|-351|-8 %|265|928|-71 %|-58|577|nm|\n|Income taxes|72|103|-30 %|-75|-279|-73 %|-3|-176|-98 %|\n|Profit or loss|-251|-248|1 %|190|649|-71 %|-61|401|nm|\n|Net income – Non-controlling interests|35|43|-19 %|37|44|-16 %|72|87|-17 %|\n|Net income – Group part|-286|-291|-2 %|153|605|-75 %|-133|314|nm|\n\n*Note: the sum of “Salaries and related costs” in the business review section is not equal to the above mentioned figure due to corporate*\n\n*overhead, IT and other businesses not directly related to Network, Maintenance or Transavia*\n\n## Management income statement\n\n||First Quarter|Second Quarter|First Half-year|||||||\n|---|---|---|---|---|---|---|---|---|---|\n|(in € millions)|2026|2025|Change|2026|2025|Change|2026|2025|Change|\n|Traffic Sales|6,580|6,294|5 %|8,363|7,649|9 %|14,943|13,942|7 %|\n|Sales-Other business|899|871|3 %|914|794|15 %|1,813|1,666|9 %|\n|Revenues|7,479|7,165|4 %|9,277|8,443|10 %|16,756|15,608|7 %|\n|Aircraft fuel|-1,355|-1,593|-15 %|-2,335|-1,599|46 %|-3,690|-3,192|16 %|\n|Carbon emission|-88|-70|26 %|-109|-81|35 %|-197|-151|30 %|\n|Chartering costs|-92|-106|-13 %|-90|-126|-29 %|-182|-232|-22 %|\n|Landing fees and air routes charges|-535|-512|4 %|-608|-604|1 %|-1,143|-1,116|2 %|\n|Catering|-230|-225|2 %|-249|-246|1 %|-479|-471|2 %|\n|Handling charges and other operating costs|-570|-498|14 %|-587|-543|8 %|-1,157|-1,041|11 %|\n|Aircraft maintenance costs|-862|-976|-12 %|-880|-848|4 %|-1,742|-1,824|-4 %|\n|Commercial and distribution costs|-291|-284|2 %|-315|-284|11 %|-606|-568|7 %|\n|Other external expenses|-530|-523|1 %|-531|-490|8 %|-1,061|-1,013|5 %|\n|Salaries and related costs|-2,441|-2,379|3 %|-2,571|-2,462|4 %|-5,012|-4,841|4 %|\n|Taxes other than income taxes|-64|-63|2 %|-43|-39|10 %|-107|-102|5 %|\n|Capitalized production|287|419|-32 %|313|336|-7 %|600|755|-21 %|\n|Other operating income|59|42|40 %|45|58|-22 %|104|100|4 %|\n|Other operating expenses|-19|–|nm|-26|-25|4 %|-45|-25|80 %|\n|Realized currency differences after hedges|1|23|-96 %|-6|-22|-73 %|-5|1|nm|\n|Amortization|-786|-759|4 %|-855|-805|6 %|-1,641|-1,564|5 %|\n|Reversals (additions) to provisions (leased aircraft return obligations and other provisions)|31|35|-11 %|54|72|-25 %|85|107|-21 %|\n|Operating expenses|-7,485|-7,469|— %|-8,793|-7,708|14 %|-16,278|-15,177|7 %|\n|Adjusted operating profit|-6|-304|-98 %|484|735|-34 %|478|431|11 %|\n|Unrealized exchange difference and derivatives|-108|170|nm|-33|355|nm|-141|525|nm|\n|Sales of aircrafts equipment|2|-1|nm|11|-1|nm|13|-2|nm|\n|Non-recurring income and expenses|–|–|nm|-7|-10|-30 %|-7|-10|-30 %|\n|Operating profit or loss|-112|-135|-17 %|455|1,079|-58 %|343|944|-64 %|\n|Share of profits (losses) of associates|-17|-18|-6 %|2|7|-71 %|-15|-11|36 %|\n|Income from cash and cash equivalents|55|57|-4 %|47|45|4 %|102|102|— %|\n|Foreign exchange gains (losses) derivatives and other|59|-51|nm|22|-109|nm|81|-160|nm|\n|Profit or loss before financing and income taxes|-15|-147|-90 %|526|1,022|-49 %|511|875|-42 %|\n|Interests expenses on financial liabilities|-92|-87|6 %|-83|-74|12 %|-175|-161|9 %|\n|Interests expenses of lease debt|-88|-80|10 %|-81|-79|3 %|-169|-159|6 %|\n|Undiscounting of provisions|-88|-89|-1 %|-86|-84|2 %|-174|-173|1 %|\n|Foreign Exchange gains (losses), derivatives and other|-40|52|nm|-11|143|nm|-51|195|nm|\n|Profit or loss before income tax|-323|-351|-8 %|265|928|-71 %|-58|577|nm|\n|Income taxes|72|103|-30 %|-75|-279|-73 %|-3|-176|-98 %|\n|Profit or loss|-251|-248|1 %|190|649|-71 %|-61|401|nm|\n|Net income – Non-controlling interests|35|43|-19 %|37|44|-16 %|72|87|-17 %|\n|Net income – Group part|-286|-291|-2 %|153|605|-75 %|-133|314|nm|\n\n## Consolidated balance sheet\n\n|ASSETS||December 31, 2025|\n|---|---|---|\n|(in € millions)|June 30, 2026||\n|Goodwill|224|223|\n|Intangible assets|1,220|1,199|\n|Flight equipment|14,398|13,651|\n|Other property, plant and equipment|1,792|1,679|\n|Right-of-use assets|9,205|9,452|\n|Investments in equity associates|235|246|\n|Pension assets|68|57|\n|Other non-current financial assets|1,312|1,267|\n|Non-current derivative financial assets|221|118|\n|Deferred tax assets|604|713|\n|Other non-current assets|396|278|\n|Total non-current assets|29,675|28,883|\n|Other current financial assets|872|1,360|\n|Current derivative financial assets|684|33|\n|Inventories|1,064|992|\n|Trade receivables|2,783|2,216|\n|Other current assets|1,407|1,224|\n|Cash and cash equivalents|5,091|4,714|\n|Assets held for sale|31|23|\n|Total current assets|11,932|10,562|\n|TOTAL ASSETS|41,607|39,445|\n\n|Consolidated balance sheet LIABILITIES AND EQUITY|||\n|---|---|---|\n|(in € millions)|June 30, 2026|December 31, 2025|\n|Issued capital|263|263|\n|Additional paid-in capital|7,560|7,560|\n|Treasury shares|-27|-27|\n|Perpetual|1,268|1,281|\n|Reserves and retained earnings|-8,413|-8,779|\n|Equity attributable to equity holders of Air France-KLM|651|298|\n|Perpetual|2,094|2,026|\n|Reserves and retained earnings|42|40|\n|Equity attributable to non-controlling interests|2,136|2,066|\n|EQUITY|2,787|2,364|\n|Pension provisions|1,679|1,654|\n|Non-current return obligation liability|4,837|4,554|\n|Other non-current provision|352|264|\n|Non-current financial liabilities|7,911|7,265|\n|Non-current lease debt|5,548|5,487|\n|Non-current derivative financial liabilities|89|199|\n|Deferred tax liabilities|1|—|\n|Other non-current liabilities|709|545|\n|Total non-current liabilities|21,126|19,968|\n|Current return obligation liability|258|334|\n|Other current provision|506|808|\n|Current financial liabilities|937|1,803|\n|Current lease debt|977|958|\n|Current derivative financial liabilities|92|255|\n|Trade payables|3,022|2,723|\n|Deferred revenue on ticket sales|5,838|4,264|\n|Frequent flyer programs|927|921|\n|Other current liabilities|5,136|5,047|\n|Bank overdrafts|1|—|\n|Total current liabilities|17,694|17,113|\n|TOTAL EQUITY AND LIABILITIES|41,607|39,445|\n\n## Statement of Consolidated Cash Flows from January 1 until June 30, 2026\n\n||First Half-Year||\n|---|---|---|\n|(in € millions)|2026|2025|\n|Operating profit and loss|343|944|\n|Amortization, depreciation and provisions|1,556|1,457|\n|Result on disposals on tangible and intangible assets|-13|2|\n|Valuation of operating derivatives (non cash)|3|-7|\n|Unrealized operating currency differences|138|-518|\n|Other non-monetary items|-327|-7|\n|Current income tax|-51|-73|\n|Cash flow from operating activities before change in working capital|1,649|1,798|\n|Increase (decrease) in working capital|969|1,297|\n|Cash flow from operating activities [A]|2618|3,095|\n|Acquisition of subsidiaries, of shares in non-controlled entities|-16|-11|\n|Purchase of property plant and equipment and intangible assets|-1,910|-2,315|\n|Proceeds on disposal of property plant and equipment and intangible assets|465|573|\n|Interest received|84|88|\n|Dividends received|1|9|\n|Decrease (increase) in net investments, more than 3 months|255|13|\n|New loans|-105|-146|\n|Repayment on loans|356|87|\n|Realized Investing currency differences|24|-68|\n|Net cash flow used in investing activities|-846|-1,770|\n|Payments to acquire treasury shares|-1|-1|\n|Issuance of perpetual|–|494|\n|Coupon on perpetual|-55|-65|\n|Issuance of debt|1,130|314|\n|Repayment on debt|-1,440|-1,152|\n|Payments on lease debts|-479|-487|\n|Interest paid|-469|-418|\n|Dividends paid|-1|-1|\n|Realized Financing currency differences|-111|12|\n|Net cash flow from financing activities|-1,426|-1,304|\n|Effect of exchange rate on cash and cash equivalents and bank overdrafts (net of cash acquired or sold)|30|-30|\n|Change in cash and cash equivalents and bank overdrafts|376|-9|\n|Cash and cash equivalents and bank overdrafts at beginning of period|4,714|4,829|\n|Cash and cash equivalents and bank overdrafts at end of period|5,090|4,820|\n\n## Recurring adjusted operating free cash flow\n\n|||Second Quarter|First Half-Year||\n|---|---|---|---|---|\n|(in € million)|2026|2025|2026|2025|\n|Net cash flow from operating activities|976|1,170|2,618|3,095|\n|Purchase of property plant and equipment and intangible assets|-970|-1,102|-1,910|-2,315|\n|Proceeds on disposal of property plant and equipment and intangible assets|415|256|465|573|\n|Operating free cash flow|421|324|1,173|1,353|\n|Interest paid and received|-239|-229|-385|-330|\n|Payments on lease debts|-238|-234|-479|-487|\n|Operating free cash flow adjusted|-56|-139|309|536|\n|Exceptional payments made/(received) (1)|125|122|619|244|\n|Recurring adjusted operating free cash flow|69|-17|928|780|\n\n*(1) IFRS Operating free cash flow corrected from the repayment of deferred social charges, pensions contributions and wage taxes* *granted during the Covid period, payment of lease debt and interests paid and received as well as the payment of the Cargo fine*\n## Return on capital employed (ROCE)\n\n|In € million|Jun 30, 2026|Mar 31, 2026|Dec 31, 2025|Sep 30, 2025|Jun 30, 2025|Mar 31, 2025|Dec 31, 2024|Sept 30, 2024|\n|---|---|---|---|---|---|---|---|---|\n|Goodwill and intangible assets|1,444|1,434|1,422|1,390|1,390|1,377|1,375|1,356|\n|Flight equipment|14,398|13,951|13,651|13,772|13,392|12,835|12,347|12,607|\n|Other property, plant and equipment|1,792|1,745|1,679|1,617|1,587|1,554|1,533|1,500|\n|Right of use assets|9,205|9,237|9,452|8,619|8,479|8,030|7,592|6,652|\n|Investments in equity associates|235|247|246|257|205|212|216|240|\n|Financial assets (loans and receivables)|234|228|228|212|214|217|217|232|\n|Provisions for maintenance on leased aircraft and provisions for CO2 quotas|-5,604|-5,414|-5,214|-4,689|-4,934|-5,007|-4,990|-4,358|\n|WCR¹|-9,496|-9,513|-8,051|-8,124|-8,749|-8,983|-7,469|-7,422|\n|Capital employed|12,208|11,915|13,413|13,054|11,584|10,235|10,821|10,807|\n|Average capital employed (A)|12,648|10,862|||||||\n|Adjusted operating profit|2,117|2,022|||||||\n|- Dividends received|-1|-1|||||||\n|- Share of profits (losses) of associates|10|-33|||||||\n|- Normative income tax|-549|-513|||||||\n|Adjusted result from current operations after tax (B)|1,577|1,475|||||||\n|ROCE, trailing 12 months (B/A)|12.5%|13.6%|||||||\n\n(1) Excluding the report of social & fiscal charges granted consequently to Covid. *The “Normative income tax” no longer takes into account the exceptional contribution on the profits of large companies for the French* *tax group. Prior periods have therefore been restated accordingly to ensure comparability of the figures.*\n\n## Unit cost: net cost per ASK\n\n||Second Quarter|First Half-Year|||\n|---|---|---|---|---|\n||2026|2025|2026|2025|\n|Total operating expenses (in €m)|8,793|7,708|16,278|15,177|\n|Carbon emission (ETS)|-109|-81|-197|-151|\n|Total other revenues (in €m)|-913|-794|-1,812|-1,665|\n|Net cost excl ETS (in €m)|7,771|6,833|14,268|13,360|\n|Capacity produced, reported in ASK|86.99|84.78|165.55|160.30|\n|Net cost, per ASK (in € cents)|8.93|8.06|8.62|8.33|\n|Gross change||10.8%||3.4 %|\n|Currency effect on net costs (in €m)||-96||-308|\n|Change at constant currencies||12.4%||5.8 %|\n|Fuel price effect (in €m)||758||656|\n|Net cost per ASK on a constant currency and fuel price basis excluding ETS (in € cents per ASK)|8.93|8.84|8.62|8.55|\n|Change on a constant currency and fuel price basis excluding ETS||1.0%||0.8 %|\n\n## Net debt\n\n|(in € million)|June 30, 2026|December 31, 2025|\n|---|---|---|\n|Current and non-current financial liabilities|8,848|9,068|\n|Current and non-current lease debt|6,525|6,445|\n|Accrued interest|-82|-142|\n|Deposits related to financial liabilities|-79|-85|\n|Deposits related to lease debt|-81|-80|\n|Derivatives impact on debt|12|44|\n|Gross financial liabilities (I)|15,143|15,250|\n|Cash and cash equivalent|5,091|4,714|\n|Marketable securities > 3 months|733|988|\n|Bonds|944|1,156|\n|Bank overdrafts|-1|–|\n|Net cash (II)|6,767|6,858|\n|Net debt (I-II)|8,376|8,392|\n\n## Group fleet at 30 June 2026\n\n|Aircraft type|AF (incl. 1 HOP)|KL (incl. KLC 1 & MP)|Transavia|Owned|Finance lease|Operating lease|Total In operation||Change in Operation vs 31/12/25|\n|---|---|---|---|---|---|---|---|---|---|\n|B777-300|43|16||34|8|17|59|59||\n|B777-200|18|15||29|1|3|33|33||\n|B787-9|10|13||5|6|12|23|23||\n|B787-10||15||1|12|2|15|15|1|\n|A350-900|42|||3|14|25|42|42|1|\n|A330-300||5||||5|5|5||\n|A330-200|6|5||10||1|11|11|-3|\n|Total Long-Haul|119|69|0|82|41|65|188|188|-1|\n|B737-900||5||5|||5|5||\n|B737-800||28|101|34|7|88|129|128|-3|\n|B737-700||6||6|||6|6||\n|A321NEO||16|18|7|9|18|34|34|8|\n|A321|8|||4||4|8|7|-5|\n|A320|36|||4|3|29|36|35|-1|\n|A320NEO|||30|4|1|25|30|30|7|\n|A319|1|||1|||1|1|-2|\n|A318|4|||4|||4|4||\n|A220-300|57|||22|14|21|57|57|5|\n|Total Medium-Haul|106|55|149|91|34|185|310|307|9|\n|Embraer 195 E2||25||||25|25|23|2|\n|Embraer 190|26|17||17|2|24|43|42|-3|\n|Embraer 175||17||3|14||17|17||\n|Embraer 170|10|||10|||10|10||\n|Total Regional|36|59|0|30|16|49|95|92|-1|\n|B747-400ERF||3||3|||3|3||\n|B747-400BCF||1||1|||1|1||\n|B777-F|2|||||2|2|2||\n|Total Cargo|2|4|0|4|0|2|6|6|0|\n|Total|263|187|149|207|91|301|599|593|7|\n\n(1) Excluding Transavia\n\n## 2026 TRAFFIC\n\n## Passenger network activity\n\n||Second Quarter|First Half-Year|||||\n|---|---|---|---|---|---|---|\n|Total network airlines|2026|2025|change|2026|2025|change|\n|Passengers carried (‘000s)|19,811|19,752|+0.3%|37,036|36,990|+0.1%|\n|Revenue pax-kilometers (m RPK)|62,298|61,620|+1.1%|120,738|118,266|+2.1%|\n|Available seat-kilometers (m ASK)|71,681|70,512|+1.7%|139,364|136,422|+2.2%|\n|Load factor (%) Long-haul|86.9%|87.4%|-0.5pt|86.6%|86.7%|-0.1pt|\n|Passengers carried (‘000s)|6,659|6,686|-0.4%|13,151|12,989|+1.3%|\n|Revenue pax-kilometers (m RPK)|50,619|50,125|+1.0%|99,972|97,480|+2.6%|\n|Available seat-kilometers (m ASK)|58,109|56,980|+2.0%|114,661|111,498|+2.8%|\n|Load factor (%) North America|87.1%|88.0%|-0.9pt|87.2%|87.4%|-0.2pt|\n|Passengers carried (‘000s)|2,782|2,653|+4.9%|4,774|4,598|+3.8%|\n|Revenue pax-kilometers (m RPK)|19,966|18,954|+5.3%|34,343|32,841|+4.6%|\n|Available seat-kilometers (m ASK)|23,345|21,741|+7.4%|40,189|37,916|+6.0%|\n|Load factor (%) Latin America|85.5%|87.2%|-1.7pt|85.5%|86.6%|-1.2pt|\n|Passengers carried (‘000s)|907|875|+3.7%|1,883|1,789|+5.3%|\n|Revenue pax-kilometers (m RPK)|8,650|8,312|+4.1%|17,805|16,859|+5.6%|\n|Available seat-kilometers (m ASK)|9,571|9,162|+4.5%|19,539|18,642|+4.8%|\n|Load factor (%) Asia / Middle East|90.4%|90.7%|-0.3pt|91.1%|90.4%|+0.7pt|\n|Passengers carried (‘000s)|1,333|1,461|-8.8%|2,945|2,995|-1.7%|\n|Revenue pax-kilometers (m RPK)|11,150|11,588|-3.8%|23,999|23,596|+1.7%|\n|Available seat-kilometers (m ASK)|12,502|13,022|-4.0%|27,039|26,872|+0.6%|\n|Load factor (%) Africa|89.2%|89.0%|+0.2pt|88.8%|87.8%|+0.9pt|\n|Passengers carried (‘000s)|930|923|+0.8%|1,895|1,895|—%|\n|Revenue pax-kilometers (m RPK)|5,743|5,674|+1.2%|11,879|11,812|+0.6%|\n|Available seat-kilometers (m ASK)|6,941|6,678|+3.9%|14,376|14,057|+2.3%|\n|Load factor (%) Caribbean / Indian Ocean|82.7%|85.0%|-2.2pt|82.6%|84.0%|-1.4pt|\n|Passengers carried (‘000s)|707|774|-8.7%|1,654|1,711|-3.4%|\n|Revenue pax-kilometers (m RPK)|5,110|5,597|-8.7%|11,946|12,372|-3.4%|\n|Available seat-kilometers (m ASK)|5,750|6,377|-9.8%|13,518|14,011|-3.5%|\n|Load factor (%) Short and Medium-haul|88.9%|87.8%|+1.1pt|88.4%|88.3%|+0.1pt|\n|Passengers carried (‘000s)|13,151|13,066|+0.7%|23,884|24,001|-0.5%|\n|Revenue pax-kilometers (m RPK)|11,679|11,495|+1.6%|20,766|20,786|-0.1%|\n|Available seat-kilometers (m ASK)|13,572|13,532|+0.3%|24,703|24,924|-0.9%|\n|Load factor (%)|86.1%|84.9%|+1.1pt|84.1%|83.4%|+0.7pt|\n\n## Transavia activity\n\n|||Second Quarter|||First Half-Year||\n|---|---|---|---|---|---|---|\n|Transavia|2026|2025|change|2026|2025|change|\n|Passengers carried (‘000s)|8,506|7,506|+13.3%|13,583|12,078|+12.5%|\n|Revenue seat-kilometers (m RSK)|13,965|12,776|+9.3%|23,326|21,082|+10.6%|\n|Available seat-kilometers (m ASK)|15,312|14,266|+7.3%|26,194|23,873|+9.7%|\n|Load factor (%)|91.2%|89.6%|+1.7pt|89.1%|88.3%|+0.7pt|\n\n## Total Group passenger activity\n\n|||Second Quarter|||First Half-Year||\n|---|---|---|---|---|---|---|\n|Total Group|2026|2025|change|2026|2025|change|\n|Passengers carried (‘000s)|28,317|27,258|+3.9%|50,618|49,068|+3.2%|\n|Revenue pax-kilometers (m RPK)|76,263|74,396|+2.5%|144,064|139,348|+3.4%|\n|Available seat-kilometers (m ASK)|86,993|84,778|+2.6%|165,558|160,295|+3.3%|\n|Load factor (%)|87.7%|87.8%|-0.1pt|87.0%|86.9%|+0.1pt|\n\n## Cargo activity\n\n|||Second Quarter|||First Half-Year||\n|---|---|---|---|---|---|---|\n|Cargo|2026|2025|change|2026|2025|change|\n|Revenue tonne-km (m RTK)|1,828|1,643|+11.3%|3,588|3,339|+7.5%|\n|Available tonne-km (m ATK)|3,718|3,613|+2.9%|7,281|7,076|+2.9 %|\n|Load factor (%)|49.2%|45.5%|+3.7pt|49.3%|47.2%|+2.1pt|\n\n## Air France activity\n\n|||Second Quarter|||First Half-Year||\n|---|---|---|---|---|---|---|\n|Total Passenger network activity|2026|2025|change|2026|2025|change|\n|Passengers carried (‘000s)|10,312|10,883|-5.2%|19,945|20,435|-2.4%|\n|Revenue pax-kilometers (m RPK)|35,941|36,823|-2.4%|70,887|70,827|+0.1%|\n|Available seat-kilometers (m ASK)|41,881|42,397|-1.2%|82,308|82,026|+0.3%|\n|Load factor (%) Long-haul|85.8%|86.9%|-1.0pt|86.1%|86.3%|-0.2pt|\n|Passengers carried (‘000s)|4,094|4,225|-3.1%|8,164|8,203|-0.5%|\n|Revenue pax-kilometers (m RPK)|30,401|30,942|-1.7%|60,673|60,202|+0.8%|\n|Available seat-kilometers (m ASK)|35,379|35,403|-0.1%|70,079|69,139|+1.4%|\n|Load factor (%)|85.9%|87.4%|-1.5pt|86.6%|87.1%|-0.5pt|\n\n|Short and Medium-haul|||||||\n|---|---|---|---|---|---|---|\n|Passengers carried (‘000s)|6,218|6,658|-6.6%|11,781|12,232|-3.7%|\n|Revenue pax-kilometers (m RPK)|5,540|5,881|-5.8%|10,214|10,625|-3.9%|\n|Available seat-kilometers (m ASK)|6,502|6,994|-7.0%|12,229|12,887|-5.1%|\n|Load factor (%)|85.2%|84.1%|+1.1pt|83.5%|82.4%|+1.1pt|\n|Cargo activity|||||||\n|Revenue tonne-km (m RTK)|934|923|+1.1%|1,866|1,845|+1.1%|\n|Available tonne-km (m ATK)|2,073|2,112|-1.8%|4,108|4,138|-0.7%|\n|Load factor (%)|45.0%|43.7%|+1.3pt|45.4%|44.6%|+0.8pt|\n\n## KLM activity\n\n|||Second Quarter|||First Half-Year||\n|---|---|---|---|---|---|---|\n|Total Passenger network activity|2026|2025|change|2026|2025|change|\n|Passengers carried (‘000s)|9,499|8,869|+7.1%|17,090|16,555|+3.2%|\n|Revenue pax-kilometers (m RPK)|26,357|24,797|+6.3%|49,851|47,439|+5.1%|\n|Available seat-kilometers (m ASK)|29,800|28,114|+6.0%|57,056|54,396|+4.9%|\n|Load factor (%) Long-haul|88.4%|88.2%|+0.2pt|87.4%|87.2%|+0.2pt|\n|Passengers carried (‘000s)|2,565|2,461|+4.3%|4,987|4,786|+4.2%|\n|Revenue pax-kilometers (m RPK)|20,218|19,183|+5.4%|39,299|37,278|+5.4%|\n|Available seat-kilometers (m ASK)|22,730|21,576|+5.3%|44,582|42,359|+5.2%|\n|Load factor (%) Medium-haul|88.9%|88.9%|+0.0pt|88.2%|88.0%|+0.1pt|\n|Passengers carried (‘000s)|6,933|6,408|+8.2%|12,103|11,769|+2.8%|\n|Revenue pax-kilometers (m RPK)|6,139|5,614|+9.4%|10,552|10,161|+3.8%|\n|Available seat-kilometers (m ASK)|7,070|6,538|+8.1%|12,474|12,037|+3.6%|\n|Load factor (%)|86.8%|85.9%|+1.0pt|84.6%|84.4%|+0.2pt|\n\n|Cargo activity|||||||\n|---|---|---|---|---|---|---|\n|Revenue tonne-km (m RTK)|895|722|+23.8%|1,723|1,506|+14.4%|\n|Available tonne-km (m ATK)|1,644|1,502|+9.5%|3,174|2,960|+7.2%|\n|Load factor (%)|54.4%|48.1%|+6.3pt|54.3%|50.9%|+3.4pt|\n",
+    "published": "2026-07-30",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "group release",
+    "source_url": "https://www.airfranceklm.com/en/newsroom/second-quarter-2026-results",
+    "status": "New",
+    "summary": "Group revenues rose 9.9% year-on-year to €9.3bn in Q2 2026. Unit revenue at constant currency rose 8.7%. Fuel price impact was €804m versus last year, and fuel price recapture via revenues was circa 85%, above the estimated 60%. Unit cost growth was limited to +1.0%. Adjusted operating profit was €484m, down €251m year-on-year, with an operating margin of 5.2%. H1 recurring adjusted operating free cash flow was €928m, up €148m. Leverage (net debt/adjusted EBITDA) was 1.6x. Cash at hand was €10.3bn at end of June 2026. Fleet renewal rose 8 points to 38% new-generation aircraft. FY 2026 capacity outlook was revised to +2% to +3% (previously +2% to +4%), with unit cost guidance unchanged at 0% to +2%. Expected FY 2026 fuel bill was USD 8.9bn, down from USD 9.3bn previously indicated. Net capex is expected below €3bn and leverage between 1.5x and 2.0x. The Group early adopted IFRS 18, with prior-year figures restated.",
+    "title": "Air France-KLM reports Second Quarter 2026 results"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Fleet",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "144da4f8d7c90101a99b77a1",
+    "evidence": [
+      {
+        "published": "2026-10-23",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/more-premium-seating-on-klm-flights-to-aruba-and-bonaire-this-winter/"
+      },
+      {
+        "published": "2026-10-23",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/meer-premium-capaciteit-op-klm-vluchten-naar-aruba-en-bonaire-deze-winter/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Deploying Boeing 777 and 787-10 aircraft on the Aruba and Bonaire routes is a material but narrow change, adding about 5 World Business seats and about 24 Premium Comfort seats on two existing routes.",
+    "original_text": "More Premium Seating on KLM Flights to Aruba and Bonaire This Winter\n23 October 2026 | 10:12 Europe/Amsterdam More Premium Seating on KLM Flights to Aruba and Bonaire This Winter KLM is offering passengers to Aruba and Bonaire more options for extra comfort this winter. Starting October 25, the airline will deploy its Boeing 777 and Boeing 787-10 aircraft on the route to Aruba and Bonaire. These aircraft offer more capacity in both World Business Class and Premium Comfort Class, allowing passengers to enjoy an even more comfortable travel experience to both Caribbean islands. By deploying its Boeing fleet, KLM is responding to the growing demand for premium travel. Previously, KLM operated the Airbus 330 to Aruba and Bonaire, with a capacity of approximately 30 seats in World Business Class. The Boeing 777 and 787-10 offer approximately 35 seats in World Business Class and approximately 24 seats in Premium Comfort Class, representing significantly more capacity in the premium segment. The number of seats in the other travel classes remains comparable. Connected for over 90 years The capacity expansion coincides with a special anniversary year. Ninety years ago, on May 31, 1936, KLM operated its first official passenger flight to Bonaire. KLM was the first European airline to introduce a scheduled service between Amsterdam and Bonaire. KLM has been flying to Aruba and Bonaire since 1934. “For many years, we have been connecting Aruba and Bonaire with the Netherlands and the rest of the world. We continue to develop this route, responding to the needs of our passengers,” says Frédérique Pelger, Vice President of KLM Benelux, Dutch Caribbean & Suriname. “We’re seeing that our passengers are increasingly opting for extra comfort and personalized service. With increased capacity in our World Business Class and Premium Comfort Class, we’re offering that option.” More Flights to Curaçao This winter, KLM will be flying more frequently to Curaçao. KLM clients can choose from nine flights per week. In January and February, that number will increase to ten flights per week; during the Christmas break, it will rise to twelve; and during spring break, it will be eleven flights per week. “ We’re seeing that our passengers are increasingly opting for extra comfort and personalized service „ WBC 787 WBC 777 Download Media Kit Preparing your download... Download An error occurred while preparing your download\nEquivalent newsroom edition:\nMeer premiumcapaciteit op KLM-vluchten naar Aruba en Bonaire deze winter\n23 oktober 2026 | 10:12 Europe/Amsterdam Meer premiumcapaciteit op KLM-vluchten naar Aruba en Bonaire deze winter KLM biedt reizigers naar Aruba en Bonaire deze winter meer mogelijkheden voor extra comfort. Vanaf 25 oktober zet de luchtvaartmaatschappij op de route naar Aruba en Bonaire haar Boeing 777 en Boeing 787-10 in. Deze toestellen beschikken over meer capaciteit in zowel World Business Class als Premium Comfort Class, waardoor reizigers kunnen profiteren van een nog comfortabelere reiservaring naar beide Caribische eilanden. Met de inzet van de Boeing-vloot speelt KLM in op de groeiende vraag naar premium reizen. Voorheen zette KLM de Airbus 330 in naar Aruba en Bonaire, met een capaciteit van circa 30 stoelen in de World Business Class. De Boeing 777 en 787-10 bieden circa 35 stoelen in World Business Class én circa 24 stoelen in de Premium Comfort Class, dus aanzienlijk meer capaciteit in het hogere segment. In de overige reisklassen blijft het aantal stoelen vergelijkbaar. Meer dan 90 jaar verbonden De uitbreiding van de capaciteit valt samen met een bijzonder jubileumjaar. Negentig jaar geleden, op 31 mei 1936, voerde KLM de eerste officiële passagiersvlucht naar Bonaire uit. KLM was de eerste Europese luchtvaartmaatschappij die een lijndienst tussen Amsterdam en Bonaire introduceerde. Naar Aruba vliegt KLM al sinds 1934. “Al vele jaren verbinden we Aruba en Bonaire met Nederland en de rest van de wereld. We blijven deze route ontwikkelen, waarbij we inspelen op de wensen van onze reizigers,” zegt Frédérique Pelger, Vice President KLM Benelux, Dutch Caribbean & Suriname. “We zien dat reizigers steeds vaker kiezen voor extra comfort en persoonlijke service. Met meer capaciteit in onze World Business Class en Premium Comfort Class bieden we onze passagiers die mogelijkheid.” Meer vluchten naar Curaçao Deze winter vliegt KLM vaker naar Curaçao. Vakantiegangers kunnen kiezen uit negen vluchten per week. In januari en februari stijgt dat naar tien vluchten per week, tijdens de kerstvakantie naar twaalf en gedurende de voorjaarsvakantie naar elf vluchten per week. “ We zien dat reizigers steeds vaker kiezen voor extra comfort en persoonlijke service „ WBC 787 WBC 777 Mediakit downloaden Download voorbereiden... Download Er is een fout opgetreden tijdens het voorbereiden van uw download",
+    "published": "2026-10-23",
+    "publisher": null,
+    "related_event": "df6bbda94bb08b8730841ee9",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/more-premium-seating-on-klm-flights-to-aruba-and-bonaire-this-winter/",
+    "status": "Needs review",
+    "summary": "Starting October 25, KLM deploys its Boeing 777 and Boeing 787-10 aircraft on the route to Aruba and Bonaire. These aircraft offer more capacity in World Business Class and Premium Comfort Class. Previously KLM operated the Airbus A330 on this route, with approximately 30 seats in World Business Class. The Boeing 777 and 787-10 offer approximately 35 seats in World Business Class and approximately 24 seats in Premium Comfort Class. The number of seats in the other travel classes remains comparable.",
+    "title": "KLM Deploys Boeing 777 and 787-10 on Aruba and Bonaire Routes to Add Premium Seats"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Customer experience",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "2e4d662bb77a3a13dab60d77",
+    "evidence": [
+      {
+        "published": "2026-09-22",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-offers-more-capacity-greater-comfort-and-a-renewed-fleet-this-winter/"
+      },
+      {
+        "published": "2026-09-22",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-biedt-deze-winter-meer-capaciteit-meer-comfort-en-een-vernieuwde-vloot/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "The increase in winter flight capacity to Curaçao, from nine to up to twelve weekly flights, is a material but route-specific change with no network-wide impact.",
+    "original_text": "Increase winter flight capacity to Curaçao\nKLM will normally operate nine weekly flights, rising to ten in January and February, twelve during the Christmas holidays and eleven during the spring holidays.\nSource passage: Capacity to Curaçao will also be increased. The popular holiday island will normally be served nine times a week. This will rise to ten weekly flights in January and February, twelve during the Christmas holidays and eleven during the spring holidays.",
+    "published": "2026-09-22",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-offers-more-capacity-greater-comfort-and-a-renewed-fleet-this-winter/",
+    "status": "New",
+    "summary": "KLM will normally operate nine weekly flights, rising to ten in January and February, twelve during the Christmas holidays and eleven during the spring holidays.",
+    "title": "Increase winter flight capacity to Curaçao"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Strategy",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Medium",
+    "importance_reason": "Air France-KLM's submission of a non-binding offer for a minority stake in TAP is a material strategic step, but it is not yet a binding or completed transaction and covers only a minority interest.",
+    "original_text": "",
+    "published": "2026-04-02",
+    "publisher": "FlightGlobal",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://www.flightglobal.com/archive/2026/04/air-france-klm-confirms-non-binding-offer-for-tap-shareholding/",
+    "status": null,
+    "summary": "Air France-KLM made an indicative offer for a minority stake in TAP as part of Portugal’s privatization process. The offer was not binding.",
+    "title": "Air France-KLM confirms non-binding offer for TAP shareholding"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Culture and recognition",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "7d84f5b57b74def037c06f23",
+    "evidence": [
+      {
+        "published": "2026-07-07",
+        "source": "Group newsroom",
+        "url": "https://www.airfranceklm.com/en/newsroom/flying-blue-honored-2026-freddie-awards-four-major-distinctions"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "Flying Blue winning four awards at the 2026 Freddie Awards is recognition with no direct change to KLM's routes, finances, safety, or regulatory position.",
+    "original_text": "Press releases published on 07/07/2026 Flying Blue honored at the 2026 Freddie Awards with four major distinctions After being named the World's Best Loyalty Program for the second consecutive year by Point.me, Flying Blue, the Air France-KLM Group’s loyalty... Flying Blue\nFlying Blue honored at the 2026 Freddie Awards with four major distinctions\nAfter being named the World's Best Loyalty Program for the second consecutive year by Point.me, Flying Blue, the Air France-KLM Group’s loyalty program, once again stood out at the 2026 Freddie Awards , the global benchmark for the travel loyalty industry. Flying Blue won four major awards, including Program of the Year for the Europe/Africa region.\nEach year, the Freddie Awards recognize the best airline and hotel loyalty programs worldwide.\nFor the Europe/Africa region, Flying Blue secured first and second place in the following categories:\nProgram of the Year\nBest Elite Program\nBest Redemption Ability\nBest Customer Service\nBest Promotion - Silver medal for the “Turning Miles into Memories for 20 years” campaign\nThis recognition is particularly meaningful, as it is based on votes cast directly by travelers. In 2026, more than 4.2 million frequent travelers participated in the Freddie Awards voting process, a record-breaking figure that highlights both the credibility and the international reach of these awards.\nIn an intensely competitive market, this achievement reinforces Flying Blue's position as a leading European airline loyalty program and reflects the Air France-KLM Group's commitment to placing innovation and customer experience at the heart of its loyalty strategy.\nThis momentum is reflected in a number of recently launched initiatives designed to make Flying Blue an even more integral part of its members' everyday lives. Among them, a new offer developed through the partnership with Apple now allows Flying Blue members to earn Miles when purchasing selected Apple devices and redeem them for future purchases or experiences. In total, more than 100 commercial partnerships are now active with leading brands such as Uber, Booking, and the SNCF (French national rail operator), demonstrating the program's strong momentum.\nAbout Flying Blue\nFlying Blue, the loyalty program of the Air France-KLM Group, supports more than 35 million members in both their travels and everyday lives. Through a network of more than 40 airline and 100 commercial partners, it provides access to over 1,000 destinations worldwide. Members can earn and redeem Miles both while traveling and through everyday activities, thanks to features designed around their needs, including Family Miles pooling, monthly Promo Rewards, opportunities to earn Miles or contribute to the purchase of sustainable aviation fuel, and a status system based on Experience Points rather than spending alone. Named the World's Best Loyalty Program by Point.me for two consecutive years, Flying Blue stands out by focusing on what members truly value: greater flexibility, broader reach, and genuinely rewarding benefits.",
+    "published": "2026-07-07",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "group release",
+    "source_url": "https://www.airfranceklm.com/en/newsroom/flying-blue-honored-2026-freddie-awards-four-major-distinctions",
+    "status": "New",
+    "summary": "Flying Blue, the Air France-KLM Group's loyalty program, won four major awards at the 2026 Freddie Awards, including Program of the Year for the Europe/Africa region. For Europe/Africa, Flying Blue secured first and second place in the categories Program of the Year, Best Elite Program, Best Redemption Ability, Best Customer Service, and Best Promotion, where it won a silver medal for the 'Turning Miles into Memories for 20 years' campaign. The awards are based on votes cast by travelers, and more than 4.2 million frequent travelers took part in the 2026 voting process. Flying Blue was also named the World's Best Loyalty Program for the second consecutive year by Point.me.",
+    "title": "Flying Blue wins four major awards at the 2026 Freddie Awards"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "31d2225d30f9eb865bd3d7e0",
+    "evidence": [
+      {
+        "published": "2026-10-10",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-10-10",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Extending cancellations of KLM flights to Dubai, Riyadh and Dammam through October 31 removes scheduled service on three routes for another week with no resumption date, a material but narrower network change.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-10-10\nKLM will not operate flights to Dubai, Riyadh and Dammam until and including October 31.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-10-10\nKLM vliegt niet naar Dubai, Riyadh en Dammam tot en met 31 oktober.",
+    "published": "2026-10-10",
+    "publisher": null,
+    "related_event": "bb77273b0a4e9669bfc9fbf6",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM extended cancellations for flights to Dubai, Riyadh and Dammam from October 24 through October 31, inclusive. The bulletin does not state a resumption date.",
+    "title": "KLM extends Dubai, Riyadh and Dammam flight cancellations through October 31"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Other",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "07c3f83a2f7ed4ed033fc744",
+    "evidence": [
+      {
+        "published": "2026-09-30",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-and-klm-cityhopper-raise-awareness-of-saf-during-the-aviation-challenge/"
+      },
+      {
+        "published": "2026-09-30",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-en-klm-cityhopper-zetten-zich-onder-andere-in-voor-meer-bekendheid-over-saf/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "The KLM passenger campaign on sustainable aviation fuel in October is a communications initiative with an onboard video, magazine content and crew engagement, with no new route, service, financial, safety or regulatory impact.",
+    "original_text": "KLM to run a passenger campaign on sustainable aviation fuel in October\nKLM will show an onboard SAF information video, publish SAF content in Holland Herald, and explore how crew and Sustainability Ambassadors can engage passengers on the topic.\nSource passage: Throughout October, KLM will focus on increasing awareness and understanding of SAF and its importance in reducing aviation emissions.",
+    "published": "2026-09-30",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-and-klm-cityhopper-raise-awareness-of-saf-during-the-aviation-challenge/",
+    "status": "New",
+    "summary": "KLM will show an onboard SAF information video, publish SAF content in Holland Herald, and explore how crew and Sustainability Ambassadors can engage passengers on the topic.",
+    "title": "KLM to run a passenger campaign on sustainable aviation fuel in October"
+  },
+  {
+    "bulletin_order": 2,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "bb72481d5fdc0f0253fd3f3e",
+    "evidence": [
+      {
+        "published": "2026-03-04",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-03-04",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Extending cancellations of KLM flights to Dubai, Riyadh and Dammam through March 8 is a material but narrower network disruption affecting three destinations, with the reverse-direction status unconfirmed.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-03-04\nDue to ongoing unrest in the Middle East, KLM will also not be flying to Dubai, Riyadh, and Dammam up to and including Sunday, March 8. We are closely monitoring the situation.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-03-04\nDoordat de onrust in het Midden-Oosten aanhoudt, vliegt KLM tot en met zondag 8 maart niet naar Dubai, Riyadh en Dammam. We volgen de ontwikkelingen op de voet.",
+    "published": "2026-03-04",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM extended cancellations of flights to Dubai, Riyadh and Dammam from March 5 through Sunday, March 8. The bulletin does not say whether cancellations in the reverse direction were extended.",
+    "title": "KLM extends cancellations of flights to Dubai, Riyadh and Dammam through March 8"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Customer experience",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "c5ec959a4a0caccf1cf1eb02",
+    "evidence": [
+      {
+        "published": "2026-09-22",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-offers-more-capacity-greater-comfort-and-a-renewed-fleet-this-winter/"
+      },
+      {
+        "published": "2026-09-22",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-biedt-deze-winter-meer-capaciteit-meer-comfort-en-een-vernieuwde-vloot/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Restoring Minneapolis to the winter schedule, with service returning for winter 2026–27 after a gap since winter 2023, is a confirmed single-route change that adds scheduled capacity but is narrower than network-wide impact.",
+    "original_text": "Restore Minneapolis to the winter schedule\nKLM will serve Minneapolis in winter 2026–27 for the first time since winter 2023.\nSource passage: Minneapolis will return to the winter schedule for the first time since winter 2023",
+    "published": "2026-09-22",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-offers-more-capacity-greater-comfort-and-a-renewed-fleet-this-winter/",
+    "status": "New",
+    "summary": "KLM will serve Minneapolis in winter 2026–27 for the first time since winter 2023.",
+    "title": "Restore Minneapolis to the winter schedule"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Other",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "c917dcaf8a0997ce024bc35f",
+    "evidence": [
+      {
+        "published": "2026-11-19",
+        "source": "Group newsroom",
+        "url": "https://www.airfranceklm.com/en/newsroom/flying-blue-introduces-flying-blue-new-online-payment-option"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Flying Blue's launch of the Flying Blue+ online payment option in France adds a new loyalty earn-and-spend mechanism, but it is limited to one market and a few initial merchants.",
+    "original_text": "Image Press releases published on 19/11/2026 Flying Blue introduces Flying Blue+, a new online payment option Flying Blue, the loyalty programme of the Air France-KLM Group, is introducing a new way for its members in France to earn and spend Miles when... Flying Blue\nFlying Blue introduces Flying Blue+, a new online payment option\nFlying Blue, the loyalty programme of the Air France-KLM Group, is introducing a new way for its members in France to earn and spend Miles when shopping online. This launch reflects Flying Blue’s ongoing commitment to delivering value to its members—a commitment recognised by Point.me and at the 2026 Freddie Awards, where the programme received four major distinctions.\nWith Flying Blue+, members can earn or spend Miles in real time at a growing number of participating online shops. At checkout, they select Flying Blue+ as their payment method and choose how many Miles they want to earn and/or spend. They can also combine Miles with a card payment using a simple slider.\nFlying Blue+ gives members greater flexibility to use their Miles as a loyalty currency, enhancing their purchasing power. It also enables them to earn and/or spend Miles on everyday online purchases, bringing rewards such as upgrades and flights to their preferred destinations closer within reach.\nBrands offering the Flying Blue+ payment option at launch include Yellow Korner, Panasonic, Dermalogica, Philipp Plein, amongst others, with more brands lined up to join over the coming months.\nTiffany Funk, Head of Flying Blue | Vice President Loyalty, Air France-KLM Group, said: “We’re delighted to launch Flying Blue+ in France, giving our members the opportunity to earn and spend Miles on their online shopping. Members can use Flying Blue+ wherever it is available at checkout, while shopping directly with participating merchants. The payment experience is simple and secure, and we believe Flying Blue+ will give our members even more ways to make the most of their Miles and get closer to the rewards they aspire to.”\nAbout Flying Blue\nFlying Blue is the loyalty program of the Air France-KLM group. With a network of over 40 airline and 100 commercial partners, it supports more than 35 million members during their travels to over 1,000 destinations, and in their everyday lives. Members earn and redeem Miles with program features designed for how people actually travel: family points pooling, monthly Promo Rewards, the option to earn or contribute Miles toward Sustainable Aviation Fuel, and a status system built on Experience Points rather than spend alone. Recognized three years running as the World's Best by Point.me, Flying Blue is built around what members actually value - flexibility, reach, and rewards worth earning.",
+    "published": "2026-11-19",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "group release",
+    "source_url": "https://www.airfranceklm.com/en/newsroom/flying-blue-introduces-flying-blue-new-online-payment-option",
+    "status": "New",
+    "summary": "Flying Blue is launching Flying Blue+, a new online payment option in France that lets members earn or spend Miles in real time at participating online shops. At checkout, members select Flying Blue+ as their payment method, choose how many Miles to earn and/or spend, and can combine Miles with a card payment using a slider. Brands offering the option at launch include Yellow Korner, Panasonic, Dermalogica and Philipp Plein, with more brands to join over the coming months.",
+    "title": "Flying Blue launches Flying Blue+ online payment option in France"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "a93de394da0d87d58d81259c",
+    "evidence": [
+      {
+        "published": "2026-03-05",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-03-05",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM scheduling its next repatriation flight from Muscat via Cairo for March 6 is a one-off, government-coordinated special flight with no scheduled network, financial, or strategic impact.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-03-05\nOn Friday, 6 March, KLM, in cooperation with the Ministry of Foreign Affairs, will operate a flight from Muscat (Oman) via Cairo to Schiphol. The flight is expected to arrive at Schiphol on Saturday morning. Stranded Dutch travellers residing in the Kingdom of the Netherlands who have registered with the Ministry of Foreign Affairs via the Crisis Contact Form and meet the eligibility criteria may be invited by the Ministry to travel on one of these flights.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-03-05\nOp vrijdag 6 maart voert KLM, in samenwerking met het ministerie van Buitenlandse Zaken, een vlucht uit vanuit Muscat (Oman) via Cairo naar Schiphol. De vlucht wordt zaterdagochtend op Schiphol verwacht. Gestrande Nederlandse reizigers, woonachtig in het Koninkrijk der Nederlanden die zich via het Crisis Contactformulier hebben aangemeld bij BZ en volgens de voorwaarden in aanmerking komen, kunnen door BZ voor een van deze vluchten worden uitgenodigd.",
+    "published": "2026-03-05",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM and the Ministry of Foreign Affairs confirmed that the next repatriation flight will leave Muscat on Friday, March 6, via Cairo and is expected to reach Schiphol on Saturday morning. The ministry may invite eligible stranded Dutch travelers who reside in the Kingdom of the Netherlands and have registered through the Crisis Contact Form.",
+    "title": "KLM schedules next repatriation flight from Muscat via Cairo for March 6"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Other",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "1dff359bce4709e494f53724",
+    "evidence": [
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/"
+      },
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-grijpt-in-om-positie-te-versterken-en-om-nederland-met-de-wereld-te-blijven-verbinden/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Transferring East Hall baggage handling to external ground-handling providers is a material operational change at KLM's Schiphol hub, but it covers one hall rather than network-wide operations, and the evidence gives no financial or safety figures.",
+    "original_text": "Transfer East Hall baggage handling to external providers\nExternal ground-handling partners will take over baggage handling in Schiphol's East Hall.\nSource passage: These partners will take over below-the-wing activities at KLM Cityhopper and baggage handling in the East Hall.",
+    "published": "2026-11-05",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/",
+    "status": "New",
+    "summary": "External ground-handling partners will take over baggage handling in Schiphol's East Hall.",
+    "title": "Transfer East Hall baggage handling to external providers"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "a3f3caa639e17e1502311019",
+    "evidence": [
+      {
+        "published": "2026-06-09",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-06-09",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Extending the Riyadh and Dammam flight cancellations through July 26 removes scheduled service to two destinations for an additional two weeks, a material but narrower network change.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-06-09\nKLM will not operate flights to Riyadh and Dammam until and including July 26. The situation for flights to Dubai remains unchanged: KLM will not operate flights to Dubai until and including August 2.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-06-09\nKLM vliegt niet naar Riyadh en Dammam tot en met 26 juli. De situatie voor vluchten naar Dubai blijft ongewijzigd: KLM vliegt niet naar Dubai tot en met 2 augustus.",
+    "published": "2026-06-09",
+    "publisher": null,
+    "related_event": "9057f5023f0c52a318f0d7e2",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM extended cancellations of flights to Riyadh and Dammam from July 12 through July 26, inclusive.",
+    "title": "KLM extends Riyadh and Dammam flight cancellations through July 26"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Other",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "cec31842503a874ba88c7c26",
+    "evidence": [
+      {
+        "published": "2026-06-29",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-brings-its-partnership-with-worldpride-amsterdam-2026-to-life/"
+      },
+      {
+        "published": "2026-06-29",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-geeft-invulling-aan-partnership-met-worldpride-amsterdam-2026/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM hosting six international LGBTIQ+ representatives at Pride House is a local community initiative with no stated strategic, financial, safety, regulatory, or network impact.",
+    "original_text": "KLM to host six international LGBTIQ+ representatives at Pride House\nKLM will host the six representatives through a special invitation program at Hotel Sofitel Legend The Grand in Amsterdam.\nSource passage: For example, KLM will host six international LGBTIQ+ representatives at the Pride House , a dedicated location in Amsterdam at Hotel Sofitel Legend The Grand, through a special invitation program.",
+    "published": "2026-06-29",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-brings-its-partnership-with-worldpride-amsterdam-2026-to-life/",
+    "status": "New",
+    "summary": "KLM will host the six representatives through a special invitation program at Hotel Sofitel Legend The Grand in Amsterdam.",
+    "title": "KLM to host six international LGBTIQ+ representatives at Pride House"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Customer experience",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "8a377351e73290b43a6553a1",
+    "evidence": [
+      {
+        "published": "2026-09-30",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-and-klm-cityhopper-raise-awareness-of-saf-during-the-aviation-challenge/"
+      },
+      {
+        "published": "2026-09-30",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-en-klm-cityhopper-zetten-zich-onder-andere-in-voor-meer-bekendheid-over-saf/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM Cityhopper's operation of an Amsterdam–Dublin showcase flight on September 30, 2026 is a single one-off flight, not confirmed scheduled service, so it has minimal lasting network or financial impact.",
+    "original_text": "KLM Cityhopper to operate an Amsterdam–Dublin showcase flight\nKLM Cityhopper announced a September 30, 2026, flight from Amsterdam to Dublin using an Embraer E195-E2.\nSource passage: KLM Cityhopper will operate a showcase flight from Amsterdam to Dublin on September 30 using an Embraer E195-E2.",
+    "published": "2026-09-30",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-and-klm-cityhopper-raise-awareness-of-saf-during-the-aviation-challenge/",
+    "status": "New",
+    "summary": "KLM Cityhopper announced a September 30, 2026, flight from Amsterdam to Dublin using an Embraer E195-E2.",
+    "title": "KLM Cityhopper to operate an Amsterdam–Dublin showcase flight"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Fleet",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Low",
+    "importance_reason": "The principal action is a CEO comment that a stretched A220 may come too late, which involves no confirmed order, fleet change, financial effect, or network impact, since Airbus has not decided to develop the aircraft.",
+    "original_text": "",
+    "published": "2026-06-12",
+    "publisher": "Aviation Week",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://aviationweek.com/air-transport/airlines-lessors/stretched-airbus-a220-may-come-too-late-air-france",
+    "status": null,
+    "summary": "Air France-KLM’s chief executive questioned whether a larger A220 would arrive in time to meet the group’s needs. Airbus had yet to commit to building it.",
+    "title": "A Stretched Airbus A220 May Come Too Late For Air France"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Other",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "9a8d049450853a0083864d56",
+    "evidence": [
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/"
+      },
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-grijpt-in-om-positie-te-versterken-en-om-nederland-met-de-wereld-te-blijven-verbinden/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Aligning Engine Services and Component Services management more closely with Air France-KLM is a material but narrower internal reorganization of two KLM maintenance business units, with no concrete financial or network figures provided.",
+    "original_text": "Align Engine and Component Services management more closely with Air France-KLM\nKLM intends to bring the management of both Engine Services and Component Services into closer alignment with the group.\nSource passage: In addition, KLM intends to align the management of Engine Services and Component Services more closely with Air France-KLM.",
+    "published": "2026-11-05",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/",
+    "status": "New",
+    "summary": "KLM intends to bring the management of both Engine Services and Component Services into closer alignment with the group.",
+    "title": "Align Engine and Component Services management more closely with Air France-KLM"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Customer experience",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "607067f158a99cda20e33a6f",
+    "evidence": [
+      {
+        "published": "2026-09-22",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-offers-more-capacity-greater-comfort-and-a-renewed-fleet-this-winter/"
+      },
+      {
+        "published": "2026-09-22",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-biedt-deze-winter-meer-capaciteit-meer-comfort-en-een-vernieuwde-vloot/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Increasing Panama City flight frequency to up to ten flights a week during the winter peak is a material but narrower seasonal capacity change on a single route.",
+    "original_text": "Increase Panama City flight frequency\nKLM will operate up to ten flights a week to Panama City during the winter peak.\nSource passage: KLM will also operate more frequent services to Panama City, with up to ten flights a week during the peak period",
+    "published": "2026-09-22",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-offers-more-capacity-greater-comfort-and-a-renewed-fleet-this-winter/",
+    "status": "New",
+    "summary": "KLM will operate up to ten flights a week to Panama City during the winter peak.",
+    "title": "Increase Panama City flight frequency"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "80d6a5a525f14bb67cf5dde9",
+    "evidence": [
+      {
+        "published": "2026-03-07",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-03-07",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM's confirmation that its Muscat-via-Cairo repatriation flight landed at Schiphol is a one-off operational update with no lasting network, financial, safety, or regulatory impact.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-03-07\nThis morning at 08:09 AM, a KLM aircraft from Muscat, via Cairo, landed safely at Schiphol Airport. Stranded travelers were on board. The flight was operated in cooperation with the Ministry of Foreign Affairs.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-03-07\nVanmorgen om 08.09 uur is een KLM-toestel uit Muscat, via Caïro, veilig geland op Schiphol. Aan boord bevonden zich gestrande reizigers. De vlucht werd uitgevoerd in samenwerking met het Ministerie van Buitenlandse Zaken.",
+    "published": "2026-03-07",
+    "publisher": null,
+    "related_event": "a93de394da0d87d58d81259c",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM confirmed that its repatriation flight from Muscat via Cairo landed safely at Schiphol at 08:09 on March 7 with stranded travelers on board. The previous bulletin had reported only the expected Saturday morning arrival.",
+    "title": "KLM confirms Muscat repatriation flight via Cairo landed at Schiphol"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Sustainability",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "015f9e89de86673ee1bef824",
+    "evidence": [
+      {
+        "published": "2026-11-25",
+        "source": "Facebook",
+        "url": "https://www.facebook.com/reel/1173172841883177/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM testing sustainability ideas on two showcase flights is a one-off trial with no announced wider rollout, so it has no material strategic, financial, or network impact.",
+    "original_text": "Today is World Sustainable Transport Day. A good day to highlight our participation in The Aviation Challenge for the fifth year in a row. 🌍\n\nA SkyTeam initiative where airlines test new ideas for more sustainable aviation and share their learnings across the industry. This year’s theme: Collective Momentum. 🤝 We operated two showcase flights: Amsterdam-Delhi with KLM and Amsterdam-Dublin with KLM Cityhopper. Some changes are visible to passengers. Others happen behind the scenes. Both matter ✈️ \n \nWhat we tested:\n 💡 TaxiBot: towing aircraft from gate to runway without using the main engines\n 💡 OptiDescent, together with SITA: a tool for more efficient descent profiles\n 💡 New onboard waste-sorting solutions, including a new cup holder\n 💡 Message in a Bottle: passengers shared their ideas for the future of KLM Cityhopper, as the airline celebrates its 60th anniversary 🎉\n 💡 SAF awareness: an onboard information video and SAF content in Holland Herald, plus conversations with passengers led by our crew and Sustainability Ambassadors\n \nBut sustainability is more than technology. Together with Wings of Support, our preferred NGO, we put the spotlight on Kirby Place, a small school in a slum area of Delhi, where children receive education and support to develop further. \n \nProgress takes both innovation and collaboration. By testing new solutions in real operations and involving passengers, colleagues, and partners, we learn from each other and take meaningful steps forward, together. 🌍\n\nTogether with our SkyTeam partners, we’ll share the results and insights so that successful initiatives can be considered for wider use in our daily operations. 🎥\n \n#KLM #KLMCityhopper #TheAviationChallenge #SAF #SkyTeam\nVisible evidence from the post images:\nan independent initiative by\nKLM employees | A smiling woman in a bright blue uniform holds a stack of colorful patterned fabric items with dangling straps. Metal cabinets and bottles are visible behind her. | KLM employees",
+    "published": "2026-11-25",
+    "publisher": null,
+    "related_event": "4cc6270f82a335317b5c72bf",
+    "source_type": "official social",
+    "source_url": "https://www.facebook.com/reel/1173172841883177/",
+    "status": "Needs review",
+    "summary": "The caption reports that KLM operated an Amsterdam–Delhi showcase flight and KLM Cityhopper operated an Amsterdam–Dublin showcase flight for The Aviation Challenge. The trials included TaxiBot towing, OptiDescent, and onboard waste sorting. Passengers shared ideas and received information about sustainable aviation fuel. The post also highlights Kirby Place with Wings of Support. An image shows a woman in a blue uniform holding patterned fabric items alongside text identifying an independent initiative by KLM employees. No wider rollout is announced.",
+    "title": "KLM tests sustainability ideas on two showcase flights"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Other",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "a5e9a2c5fec0e717664981e2",
+    "evidence": [
+      {
+        "published": "2026-09-30",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-and-klm-cityhopper-raise-awareness-of-saf-during-the-aviation-challenge/"
+      },
+      {
+        "published": "2026-09-30",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-en-klm-cityhopper-zetten-zich-onder-andere-in-voor-meer-bekendheid-over-saf/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM Cityhopper's plan to solicit passenger ideas through Message in a Bottle is a short anniversary promotion on one showcase flight, with no stated effect on routes, finances, safety, or regulation.",
+    "original_text": "KLM Cityhopper to solicit passenger ideas through Message in a Bottle\nPassengers on the Dublin showcase flight will be invited to share ideas for KLM Cityhopper's future as the airline marks its 60th anniversary.\nSource passage: During the flight, passengers will be invited to share their ideas for the future of KLM Cityhopper through the Message in a Bottle initiative, as the airline celebrates its 60th anniversary this year.",
+    "published": "2026-09-30",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-and-klm-cityhopper-raise-awareness-of-saf-during-the-aviation-challenge/",
+    "status": "New",
+    "summary": "Passengers on the Dublin showcase flight will be invited to share ideas for KLM Cityhopper's future as the airline marks its 60th anniversary.",
+    "title": "KLM Cityhopper to solicit passenger ideas through Message in a Bottle"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Strategy",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Medium",
+    "importance_reason": "The report that Air France-KLM is competing with Lufthansa for a stake in TAP Air Portugal could make the airline group bigger, but the bidding is unconfirmed and no completed deal is shown.",
+    "original_text": "",
+    "published": "2026-05-08",
+    "publisher": "Aviation Week",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://aviationweek.com/air-transport/airlines-lessors/europes-major-airline-groups-may-get-bigger-despite-challenges",
+    "status": null,
+    "summary": "Air France-KLM and Lufthansa Group are competing to buy a stake in TAP Air Portugal.",
+    "title": "Europe’s Major Airline Groups May Get Bigger Despite Challenges"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Medium",
+    "importance_reason": "KLM cancelling about 400 flights at Schiphol amid severe winter weather is a material but temporary one-day operational disruption, with no evidence of lasting strategic, financial, or regulatory change.",
+    "original_text": "",
+    "published": "2026-01-07",
+    "publisher": "FlightGlobal",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://www.flightglobal.com/europe/2026/01/schiphol-operations-besieged-by-severe-winter-weather/",
+    "status": null,
+    "summary": "Severe winter weather at Schiphol led KLM to cancel about 400 flights on January 6, with delays affecting 28% of its departures.",
+    "title": "Schiphol operations besieged by severe winter weather"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Fleet",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Medium",
+    "importance_reason": "Air France-KLM converting eight of its 11 A350-1000 orders to A350-900s is a material but narrower fleet-order change that alters the mix of its 50-aircraft A350 commitment without changing overall network scale.",
+    "original_text": "",
+    "published": "2025-08-08",
+    "publisher": "FlightGlobal",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://www.flightglobal.com/fleets/2025/08/air-france-klm-group-switches-most-a350-1000s-to-900s/",
+    "status": null,
+    "summary": "Air France-KLM changed eight of its 11 Airbus A350-1000 orders to the smaller A350-900 variant.",
+    "title": "Air France-KLM Group switches most A350-1000s to -900s"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Finance",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "High",
+    "importance_reason": "Air France-KLM's trim to its 2026 capacity outlook, driven by fuel price hikes that produced a $67 million net loss, is a group-wide strategic and financial change.",
+    "original_text": "",
+    "published": "2026-07-30",
+    "publisher": "Aviation Week",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://aviationweek.com/air-transport/airlines-lessors/air-france-klm-cuts-capacity-outlook-fuel-price-hits-profit",
+    "status": null,
+    "summary": "Air France-KLM scaled back its 2026 capacity plans. Higher fuel costs tied to the Middle East conflict contributed to a $67 million net loss.",
+    "title": "Air France-KLM Cuts Capacity Outlook As Fuel Price Hits Profit"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Strategy",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Medium",
+    "importance_reason": "The expected expansion of SAS long-haul through transatlantic joint venture integration is a material strategic signal, but it remains an unconfirmed executive expectation that depends on pending merger control and US DOT approval, with no concrete routes or service changes announced.",
+    "original_text": "",
+    "published": "2025-07-04",
+    "publisher": "FlightGlobal",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://www.flightglobal.com/air-france-klm-group/2025/07/sas-long-haul-expected-to-flourish-with-transatlantic-venture-integration/",
+    "status": null,
+    "summary": "Air France-KLM expects SAS to benefit from joining its transatlantic partnership with Delta and Virgin Atlantic. The extension would require regulatory clearance.",
+    "title": "SAS long-haul expected to flourish with transatlantic venture integration"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "People",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "46c050a5d48f1177fc7710b2",
+    "evidence": [
+      {
+        "published": "2026-07-15",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-and-ministry-of-defence-further-strengthen-cooperation/"
+      },
+      {
+        "published": "2026-07-15",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/samenwerking-klm-en-ministerie-van-defensie-verder-versterkt/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "Six KLM pilots serving as Defence reservists is a small staffing arrangement with no stated effect on KLM's routes, operations, finances, or regulation.",
+    "original_text": "Six KLM pilots to serve as Defence reservists\nSix KLM pilots will serve as F-35 pilots in the Royal Netherlands Air Force while continuing their commercial aviation careers.\nSource passage: A key milestone in the partnership is the deployment of six KLM pilots as reservists with the Ministry of Defence, where they will serve as F-35 pilots in the Royal Netherlands Air Force.",
+    "published": "2026-07-15",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-and-ministry-of-defence-further-strengthen-cooperation/",
+    "status": "New",
+    "summary": "Six KLM pilots will serve as F-35 pilots in the Royal Netherlands Air Force while continuing their commercial aviation careers.",
+    "title": "Six KLM pilots to serve as Defence reservists"
+  },
+  {
+    "bulletin_order": null,
+    "category": "Fleet",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": null,
+    "evidence": null,
+    "importance": "Medium",
+    "importance_reason": "Cityhopper's recommissioning of four stored E195-E2 jets adds regional fleet capacity as engine availability normalizes, a material but narrow change without new routes or network-wide impact.",
+    "original_text": "",
+    "published": "2026-04-17",
+    "publisher": "FlightGlobal",
+    "related_event": null,
+    "source_type": "third-party press (linked)",
+    "source_url": "https://www.flightglobal.com/archive/2026/04/klm-cityhopper-begins-recommissioning-stored-e195-e2/",
+    "status": null,
+    "summary": "KLM Cityhopper plans to restore four stored Embraer E195-E2s to service as engine availability improves. Work was underway on the first two aircraft.",
+    "title": "KLM Cityhopper begins recommissioning stored E195-E2s"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Customer experience",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "1d6058948813c139d600acae",
+    "evidence": [
+      {
+        "published": "2026-11-24",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-expands-european-network-with-additional-capacity-and-two-new-klm-cityhopper-destinations/"
+      },
+      {
+        "published": "2026-11-24",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-breidt-europees-netwerk-uit-met-extra-capaciteit-en-twee-nieuwe-klm-cityhopper-bestemmingen/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "KLM Cityhopper's launch of daily Amsterdam–Shannon flights adds a confirmed new scheduled route starting March 28, 2027, operated with Embraer 175 and 190 aircraft.",
+    "original_text": "KLM Cityhopper to launch daily Amsterdam–Shannon flights\nDaily service starts March 28, 2027, using Embraer 175 and Embraer 190 aircraft.\nSource passage: New route starts: March 28, 2027 Frequency: Daily Aircraft types: Embraer 175 and Embraer 190 (KLM Cityhopper)",
+    "published": "2026-11-24",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-expands-european-network-with-additional-capacity-and-two-new-klm-cityhopper-destinations/",
+    "status": "New",
+    "summary": "Daily service starts March 28, 2027, using Embraer 175 and Embraer 190 aircraft.",
+    "title": "KLM Cityhopper to launch daily Amsterdam–Shannon flights"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "People",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "98ccbc4611c63be4edb60dd0",
+    "evidence": [
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/"
+      },
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-grijpt-in-om-positie-te-versterken-en-om-nederland-met-de-wereld-te-blijven-verbinden/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM Cargo's plan to handle higher cargo volumes without adding staff is a minor operational update with no quantified financial, network, or regulatory impact in the evidence.",
+    "original_text": "Handle higher cargo volumes without adding staff\nKLM Cargo plans to absorb the increase in cargo volumes without hiring additional employees.\nSource passage: The increased cargo volumes will ultimately be handled without hiring additional employees.",
+    "published": "2026-11-05",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/",
+    "status": "New",
+    "summary": "KLM Cargo plans to absorb the increase in cargo volumes without hiring additional employees.",
+    "title": "Handle higher cargo volumes without adding staff"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Strategy",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "54fe3d2647aa576e964125c7",
+    "evidence": [
+      {
+        "published": "2026-07-15",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-and-ministry-of-defence-further-strengthen-cooperation/"
+      },
+      {
+        "published": "2026-07-15",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/samenwerking-klm-en-ministerie-van-defensie-verder-versterkt/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "KLM and Defence developing an aircraft maintenance collaboration model under HYPERION is a material but narrower change, with a joint digitalisation and data-driven maintenance approach still in development and no quantified financial or network impact.",
+    "original_text": "KLM and Defence develop an aircraft maintenance collaboration model\nUnder HYPERION, KLM Engineering & Maintenance and the Ministry of Defence are developing a joint approach to aircraft maintenance that includes digitalisation and data-driven maintenance.\nSource passage: Through the HYPERION project, the Ministry of Defence and KLM Engineering & Maintenance are working together on solutions to make aircraft maintenance more efficient and sustainable.",
+    "published": "2026-07-15",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-and-ministry-of-defence-further-strengthen-cooperation/",
+    "status": "New",
+    "summary": "Under HYPERION, KLM Engineering & Maintenance and the Ministry of Defence are developing a joint approach to aircraft maintenance that includes digitalisation and data-driven maintenance.",
+    "title": "KLM and Defence develop an aircraft maintenance collaboration model"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "fb754c74fbc3c3cdee1ca0be",
+    "evidence": [
+      {
+        "published": "2026-03-04",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-03-04",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "The Muscat repatriation flight landing safely at Schiphol is a one-off humanitarian operation with no lasting effect on KLM's routes, finances, fleet, or regulatory position.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-03-04\nThis morning, a KLM aircraft from Muscat landed safely at Schiphol. On board were stranded travelers and KLM colleagues. The flight was operated in cooperation with the Ministry of Foreign Affairs, under exceptional circumstances for both passengers and crew. For the travelers on board, this marks the end of an intense journey. KLM understands how impactful and uncertain the situation is for everyone in the conflict area. In cooperation with the Ministry of Foreign Affairs and other airlines, KLM remains committed to bringing other stranded travelers in the Middle East safely back to the Netherlands.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-03-04\nVanmorgen is een KLM toestel uit Muscat veilig geland op Schiphol. Aan boord bevonden zich gestrande reizigers en KLM collega’s. De vlucht werd uitgevoerd in samenwerking met het Ministerie van Buitenlandse Zaken, onder uitzonderlijke omstandigheden voor zowel passagiers als crew. Voor de reizigers aan boord komt hiermee een intensieve reis ten einde. KLM begrijpt hoe ingrijpend en onzeker de situatie is voor iedereen die zich in een conflictgebied bevindt. In samenwerking met Buitenlandse Zaken en andere luchtvaartmaatschappijen blijft KLM zich inzetten om overige gestrande reizigers in het Midden-Oosten veilig naar Nederland te brengen.",
+    "published": "2026-03-04",
+    "publisher": null,
+    "related_event": "a4a555436530e938622a990b",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM confirmed that its repatriation flight from Muscat landed safely at Schiphol on March 4, bringing stranded travelers and KLM employees back to the Netherlands.",
+    "title": "KLM’s Muscat repatriation flight lands safely at Schiphol"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Strategy",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "9e5f6b3bc1ad36484d9f7281",
+    "evidence": [
+      {
+        "published": "2026-07-24",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-and-delta-mark-the-start-of-worldpride-amsterdam-2026-with-euronext-opening-bell/"
+      },
+      {
+        "published": "2026-07-24",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-en-delta-markeren-start-worldpride-amsterdam-2026-met-openingsgong-euronext/"
+      }
+    ],
+    "importance": "Low",
+    "importance_reason": "KLM and Delta ringing the Euronext Amsterdam opening bell to mark the WorldPride Amsterdam 2026 start is a promotional ceremony and local event sponsorship with no stated change to routes, financials, safety, or regulation.",
+    "original_text": "KLM and Delta mark the start of WorldPride Amsterdam 2026 with Euronext opening bell\n24 July 2026 | 10:32 Europe/Amsterdam KLM and Delta mark the start of WorldPride Amsterdam 2026 with Euronext opening bell Summary KLM and Delta Air Lines today rang the opening bell at Euronext Amsterdam to mark the start of WorldPride Amsterdam 2026. With this ceremony, both airlines highlight their role as official partners of WorldPride Amsterdam, which will take place from July 25 through August 8. Representing KLM was Frédérique Pelger, Vice President Benelux, Dutch Caribbean & Suriname. Delta Air Lines was represented by Matt Long, Managing Director Europe & Africa, and Johan van Leeuwen, Commercial Manager Benelux. Over The Rainbow, KLM’s LGBTIQ+ employee network, was also present at the ceremony. Frédérique Pelger, Vice President Benelux, Dutch Caribbean & Suriname at KLM, said: “Ringing the Euronext opening bell is a meaningful and visible way to kick off WorldPride 2026. As an airline that has connected people and cultures for more than a century, we are proud to support an event that stands for connection, acceptance, and the freedom to be yourself unconditionally. We look forward to connecting people from all 160 KLM destinations with Amsterdam during this event.” During WorldPride, Amsterdam is expected to welcome approximately two million visitors from around the world. As official partners, KLM and Delta Air Lines are contributing by bringing thousands of visitors to Amsterdam through their global networks, helping support the international accessibility of WorldPride. Start World Pride Download Media Kit Preparing your download... Download An error occurred while preparing your download\nEquivalent newsroom edition:\nKLM en Delta markeren start WorldPride Amsterdam 2026 met openingsgong Euronext\n24 juli 2026 | 10:32 Europe/Amsterdam KLM en Delta markeren start WorldPride Amsterdam 2026 met openingsgong Euronext Samenvatting KLM en Delta Air Lines hebben vandaag de openingsgong bij Euronext Amsterdam geluid ter gelegenheid van de start van WorldPride Amsterdam 2026. Met deze ceremonie onderstrepen beide luchtvaartmaatschappijen hun rol als officiële partner van WorldPride Amsterdam, dat van 25 juli tot en met 8 augustus plaatsvindt. Namens KLM was Frédérique Pelger, Vice President Benelux, Dutch Caribbean & Suriname, aanwezig. Delta Air Lines werd vertegenwoordigd door Matt Long, Managing Director Europe & Africa, en Johan van Leeuwen, Commercial Manager Benelux. Ook Over The Rainbow, het LGBTIQ+-medewerkersnetwerk van KLM, was bij de ceremonie aanwezig. Frédérique Pelger, Vice President Benelux, Dutch Caribbean & Suriname bij KLM: \"Het luiden van de Euronext gong is een mooie en zichtbare start van WorldPride 2026. Als luchtvaartmaatschappij die mensen en culturen al meer dan een eeuw verbindt, zijn we er trots op om dit evenement te ondersteunen dat staat voor verbinding, acceptatie en het onvoorwaardelijk jezelf kunnen zijn. We kijken ernaar uit om mensen vanuit alle 160 KLM-bestemmingen met Amsterdam te verbinden tijdens dit evenement.\" Tijdens WorldPride worden naar verwachting ongeveer twee miljoen bezoekers uit de hele wereld verwacht in Amsterdam. Als officiële partners dragen KLM en Delta Air Lines hieraan bij door duizenden bezoekers vanuit het wereldwijde netwerk naar Amsterdam te brengen en zo bij te dragen aan de internationale bereikbaarheid van WorldPride. Start World Pride Mediakit downloaden Download voorbereiden... Download Er is een fout opgetreden tijdens het voorbereiden van uw download",
+    "published": "2026-07-24",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-and-delta-mark-the-start-of-worldpride-amsterdam-2026-with-euronext-opening-bell/",
+    "status": "New",
+    "summary": "On 24 July 2026, KLM and Delta Air Lines rang the opening bell at Euronext Amsterdam to mark the start of WorldPride Amsterdam 2026, which runs from July 25 through August 8. Both airlines are official WorldPride Amsterdam partners. KLM was represented by Frédérique Pelger, Vice President Benelux, Dutch Caribbean & Suriname. Delta was represented by Matt Long, Managing Director Europe & Africa, and Johan van Leeuwen, Commercial Manager Benelux. Over The Rainbow, KLM's LGBTIQ+ employee network, attended the ceremony. About two million visitors are expected in Amsterdam during WorldPride, and KLM and Delta say they will bring thousands of visitors through their global networks.",
+    "title": "KLM and Delta ring Euronext Amsterdam opening bell to mark WorldPride Amsterdam 2026 start"
+  },
+  {
+    "bulletin_order": 0,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "15f1f4e90716f886d3269cff",
+    "evidence": [
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/"
+      },
+      {
+        "published": "2026-11-05",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/klm-grijpt-in-om-positie-te-versterken-en-om-nederland-met-de-wereld-te-blijven-verbinden/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "Reorganizing how Schiphol's Hub Control Center operates adds new working methods, technology, and closer partner coordination for passenger and baggage flows, a material operational change but one lacking quantified financial, safety, or network-wide impact.",
+    "original_text": "Reorganize how Schiphol's Hub Control Center operates\nKLM will introduce new working methods and technology and work more closely with external partners to coordinate passenger and baggage flows.\nSource passage: The Hub Control Center at Schiphol will be improved through new ways of working, technology, and closer collaboration with external partners.",
+    "published": "2026-11-05",
+    "publisher": null,
+    "related_event": null,
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/klm-takes-action-to-strengthen-its-position-and-keep-the-netherlands-connected-to-the-world/",
+    "status": "New",
+    "summary": "KLM will introduce new working methods and technology and work more closely with external partners to coordinate passenger and baggage flows.",
+    "title": "Reorganize how Schiphol's Hub Control Center operates"
+  },
+  {
+    "bulletin_order": 1,
+    "category": "Operations",
+    "earnings_identity": null,
+    "earnings_issuer": null,
+    "event_id": "90128fcafead08357dd904a4",
+    "evidence": [
+      {
+        "published": "2026-01-28",
+        "source": "KLM Newsroom EN",
+        "url": "https://news.klm.com/statement-situation-middle-east/"
+      },
+      {
+        "published": "2026-01-28",
+        "source": "KLM Newsroom NL",
+        "url": "https://nieuws.klm.com/statement-situatie-midden-oosten/"
+      }
+    ],
+    "importance": "Medium",
+    "importance_reason": "KLM expects to resume scheduled Dubai flights on January 30, a material but narrower network change restoring one route.",
+    "original_text": "Statement situation Middle East\nDated bulletin 2026-01-28\nAt all times, KLM prioritizes the safety of passengers and crew in the execution of its operations. Selecting safe and optimal routes is a standard part of our daily practice. Based on the current security situation and operational feasibility, we have decided not to resume our flights to Tel Aviv for the time being. We are already operating flights again to other destinations in the region, such as Riyadh and Dammam. For Dubai, we expect to restart operations from Friday, January 30. We continue to monitor the situation closely.\nEquivalent newsroom edition:\nStatement situatie Midden-Oosten\nDated bulletin 2026-01-28\nBij de uitvoering van onze operatie stelt KLM altijd de veiligheid van passagiers en medewerkers voorop. Het kiezen van veilige en optimale routes is een vast onderdeel van onze dagelijkse praktijk. Op basis van de actuele veiligheidssituatie en de operationele haalbaarheid hebben we besloten onze vluchten naar Tel Aviv vooralsnog niet te hervatten. Naar andere bestemmingen in de regio, zoals Riyadh en Dammam, voeren we inmiddels weer vluchten uit. Voor Dubai verwachten we vanaf vrijdag 30 januari de operatie te herstarten. Wij blijven de situatie nauwlettend volgen.",
+    "published": "2026-01-28",
+    "publisher": null,
+    "related_event": "a595285fbe069a844ebbe0cd",
+    "source_type": "official newsroom",
+    "source_url": "https://news.klm.com/statement-situation-middle-east/",
+    "status": "Material update",
+    "summary": "KLM says it expects to restart Dubai service on January 30. It has decided not to resume Tel Aviv flights for the time being.",
+    "title": "KLM expects to resume Dubai flights January 30; Tel Aviv remains suspended"
+  }
+]

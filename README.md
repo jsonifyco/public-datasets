@@ -25,7 +25,7 @@ Explore the samples below, or [browse the full directory](https://www.jsonify.co
 | [Iberian Endurance Events](datasets/aurea77-iberian-endurance-events-15c76f799e90/) | 394 | On demand | 2026-11-11T20:40:20.829684Z |
 | [Marktplaats Car Dealers](datasets/marktplaats-car-dealers-16546ec450b2/) | 50 | weekly | 2026-11-23T07:02:30.734293Z |
 | [On3 college football NIL valuations and deals dataset](datasets/college-football-nil-valuations-and-deals-18d8ca344811/) | 395 | weekly | 2026-11-23T08:03:14.460107Z |
-| [Black Friday 2026: Google Shopping Prices by Seller](datasets/black-friday-2026-google-shopping-prices-by-seller-1b5c4992672c/) | 13,063 | weekly | 2026-11-26T20:00:59.852748Z |
+| [Black Friday 2026: Google Shopping Prices by Seller](datasets/black-friday-2026-google-shopping-prices-by-seller-1b5c4992672c/) | 19,732 | weekly | 2026-11-27T20:24:18.588053Z |
 | [Companies Hiring at Scale in Poland \(50\+ Open Roles\)](datasets/companies-hiring-at-scale-in-poland-50-open-roles-1be11bee1c95/) | 96 | On demand | 2026-11-16T09:36:41.296141Z |
 | [Short\-Drama Shows Dataset](datasets/shows-1e20d1ec8107/) | 25,079 | On demand | 2026-11-02T11:11:52.020991Z |
 | [NFL player stats: 2026 advanced stats dataset \(EPA, CPOE, target share\)](datasets/nfl-2026-weekly-advanced-player-stats-1e767e6ecbc2/) | 1,118 | weekly | 2026-11-24T10:00:34.106723Z |

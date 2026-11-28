@@ -1,14 +1,14 @@
 [
   {
-    "name": "Product name",
+    "name": "Category",
     "type": "text"
   },
   {
-    "name": "SKU",
-    "type": "text"
+    "name": "Complete",
+    "type": "boolean"
   },
   {
-    "name": "MPN",
+    "name": "Currency",
     "type": "text"
   },
   {
@@ -16,7 +16,7 @@
     "type": "text"
   },
   {
-    "name": "Category",
+    "name": "MPN",
     "type": "text"
   },
   {
@@ -24,32 +24,8 @@
     "type": "text"
   },
   {
-    "name": "Currency",
-    "type": "text"
-  },
-  {
-    "name": "Snapshot",
-    "type": "text"
-  },
-  {
     "name": "Observed at",
     "type": "text"
-  },
-  {
-    "name": "Search query",
-    "type": "text"
-  },
-  {
-    "name": "Search URL",
-    "type": "text"
-  },
-  {
-    "name": "Status",
-    "type": "text"
-  },
-  {
-    "name": "Seller count",
-    "type": "bigint"
   },
   {
     "name": "Offer count",
@@ -60,15 +36,39 @@
     "type": "bigint"
   },
   {
+    "name": "Product name",
+    "type": "text"
+  },
+  {
+    "name": "Reason",
+    "type": "text"
+  },
+  {
     "name": "Rejected offers",
     "type": "bigint"
   },
   {
-    "name": "Complete",
-    "type": "boolean"
+    "name": "SKU",
+    "type": "text"
   },
   {
-    "name": "Reason",
+    "name": "Search URL",
+    "type": "text"
+  },
+  {
+    "name": "Search query",
+    "type": "text"
+  },
+  {
+    "name": "Seller count",
+    "type": "bigint"
+  },
+  {
+    "name": "Snapshot",
+    "type": "text"
+  },
+  {
+    "name": "Status",
     "type": "text"
   }
 ]

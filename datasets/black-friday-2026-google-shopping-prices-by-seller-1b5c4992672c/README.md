@@ -2,34 +2,34 @@
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Compare observed Google Shopping seller prices for branded products across the UK, Germany and the US, with product and offer details\.
+Compare Google Shopping seller prices for branded products, with product and offer details\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/black-friday-2026-google-shopping-prices-by-seller-1b5c4992672c?action=get) — CSV or JSON · Email required
 
 - Refresh: weekly
 - Active pipeline version: 4
-- Last published: 2026-11-26T20:00:59.852748Z
+- Last published: 2026-11-27T20:24:18.588053Z
 
 ## The brief
 
-> I need this data: Compare observed Google Shopping seller prices for branded products across the UK, Germany and the US, with product and offer details\.
+> I need this data: Compare Google Shopping seller prices for branded products, with product and offer details\.
 
 Summary from the public dataset description.
 
 ## Black Friday 2026 prices / Offers
 
-11,863 total rows · 50 sampled · Output revision 7
-Published: 2026-11-26T20:00:59.852748Z · Producing pipeline version: Unknown
+17,932 total rows · 50 sampled · Output revision 8
+Published: 2026-11-27T20:24:18.588053Z · Producing pipeline version: 4
 
 [CSV sample](outputs/4285477bd4a4/offers-e98bf0e26046/sample.csv) · [JSON sample](outputs/4285477bd4a4/offers-e98bf0e26046/sample.json) · [Schema](outputs/4285477bd4a4/offers-e98bf0e26046/schema.json)
 
-| Product name | Seller | Price | Was price | Discount % | Discount badge | Shipping | Availability |
+| Availability | Category | Condition | Currency | Discount % | Discount badge | GTIN | MPN |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sony WH\-1000XM6 black | Cash Converters | 249\.99 | None | None | None | None | in stock |
-| Sony WH\-1000XM6 black | eBay \- japan\-peekaboo | 394\.35 | None | None | None | 2\.7 | in stock |
-| Sony WH\-1000XM6 black | Wonderprice UK | 256\.99 | None | None | None | 0 | in stock |
-| Sony WH\-1000XM6 black | Sony Store Online UK | 298 | 349 | 14\.61 | 14% off | 0 | in stock |
-| Sony WH\-1000XM6 black | Sony Centre | 299 | None | None | None | 0 | in stock |
+| in stock | Fragrance | None | USD | 30\.56 | 30% off | 3614272648425 | None |
+| in stock | Toys | new | EUR | None | None | None | 42165 |
+| out of stock | Toys | None | USD | None | None | None | 75380 |
+| in stock | Toys | None | EUR | None | None | None | 42165 |
+| in stock | Headphones | None | GBP | None | None | None | WH\-1000XM6 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -37,41 +37,41 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| Product name | text |
-| Seller | text |
-| Price | double precision |
-| Was price | double precision |
+| Availability | text |
+| Category | text |
+| Condition | text |
+| Currency | text |
 | Discount % | double precision |
 | Discount badge | text |
-| Shipping | double precision |
-| Availability | text |
-| Condition | text |
-| Offer URL | text |
-| Seller product title | text |
-| SKU | text |
-| MPN | text |
 | GTIN | text |
-| Category | text |
+| MPN | text |
 | Market | text |
-| Currency | text |
-| Snapshot | text |
 | Observed at | text |
+| Offer URL | text |
+| Price | double precision |
+| Product name | text |
+| SKU | text |
+| Seller | text |
+| Seller product title | text |
+| Shipping | double precision |
+| Snapshot | text |
+| Was price | double precision |
 | seller\_type | text |
 
 ## Black Friday 2026 prices / Products
 
-600 total rows · 50 sampled · Output revision 7
-Published: 2026-11-26T20:00:59.852748Z · Producing pipeline version: Unknown
+900 total rows · 50 sampled · Output revision 8
+Published: 2026-11-27T20:24:18.588053Z · Producing pipeline version: 4
 
 [CSV sample](outputs/4285477bd4a4/products-4edc8bfafc6b/sample.csv) · [JSON sample](outputs/4285477bd4a4/products-4edc8bfafc6b/sample.json) · [Schema](outputs/4285477bd4a4/products-4edc8bfafc6b/schema.json)
 
-| Product name | SKU | MPN | GTIN | Category | Market | Currency | Snapshot |
+| Category | Cheapest seller | Coverage status | Currency | GTIN | Lowest price change | Lowest price change % | MPN |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| LEGO Bouquet of Roses 10328 | bf\-062 | 10328 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
-| LEGO Wildflower Bouquet 10313 | bf\-064 | 10313 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
-| LEGO Orchid 10311 | bf\-061 | 10311 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
-| LEGO Wildflower Bouquet 10313 | bf\-064 | 10313 | None | Toys | Germany | EUR | 2026\-11\-26T06:01:03\.583277\+00:00 |
-| LEGO Tiny Plants 10329 | bf\-063 | 10329 | None | Toys | Germany | EUR | 2026\-11\-25T18:54:25\.931659\+00:00 |
+| Smartwatches | buybackworld store | partial | USD | None | 0 | 0 | 010\-02862\-10 |
+| Toys | Galeria | partial | EUR | None | \-12\.81 | \-22\.96 | 76427 |
+| Headphones | Beachcamera; BuyDig\.com | partial | USD | None | 3\.51 | 4\.71 | WF\-C710N |
+| Toys | None | partial | USD | None | None | None | 42173 |
+| Televisions | None | blocked | EUR | None | None | None | OLED65C4 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -79,47 +79,47 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| Product name | text |
-| SKU | text |
-| MPN | text |
-| GTIN | text |
 | Category | text |
-| Market | text |
-| Currency | text |
-| Snapshot | text |
-| Observed at | text |
-| Min price | numeric |
-| Median price | numeric |
-| Max price | numeric |
-| Seller count | bigint |
-| Offer count | bigint |
 | Cheapest seller | text |
 | Coverage status | text |
-| Price basis | text |
-| Retail offer count | bigint |
-| Retail seller count | bigint |
-| Used offer count | bigint |
-| Used min price | numeric |
-| Unknown condition offer count | bigint |
-| Previous min price | numeric |
-| Previous coverage status | text |
+| Currency | text |
+| GTIN | text |
 | Lowest price change | numeric |
 | Lowest price change % | numeric |
+| MPN | text |
+| Market | text |
+| Max price | numeric |
+| Median price | numeric |
+| Min price | numeric |
+| Observed at | text |
+| Offer count | bigint |
+| Previous coverage status | text |
+| Previous min price | numeric |
+| Price basis | text |
+| Product name | text |
+| Retail offer count | bigint |
+| Retail seller count | bigint |
+| SKU | text |
+| Seller count | bigint |
+| Snapshot | text |
+| Unknown condition offer count | bigint |
+| Used min price | numeric |
+| Used offer count | bigint |
 
 ## Black Friday 2026 prices / Coverage
 
-600 total rows · 50 sampled · Output revision 7
-Published: 2026-11-26T20:00:59.852748Z · Producing pipeline version: Unknown
+900 total rows · 50 sampled · Output revision 8
+Published: 2026-11-27T20:24:18.588053Z · Producing pipeline version: 4
 
 [CSV sample](outputs/4285477bd4a4/coverage-523487a5de21/sample.csv) · [JSON sample](outputs/4285477bd4a4/coverage-523487a5de21/sample.json) · [Schema](outputs/4285477bd4a4/coverage-523487a5de21/schema.json)
 
-| Product name | SKU | MPN | GTIN | Category | Market | Currency | Snapshot |
+| Category | Complete | Currency | GTIN | MPN | Market | Observed at | Offer count |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sony WH\-1000XM6 black | bf\-001 | WH\-1000XM6 | None | Headphones | United Kingdom | GBP | 2026\-11\-26T06:01:03\.583277\+00:00 |
-| Sony WH\-1000XM6 black | bf\-001 | WH\-1000XM6 | None | Headphones | Germany | EUR | 2026\-11\-26T06:01:03\.583277\+00:00 |
-| Sony WH\-1000XM6 black | bf\-001 | WH\-1000XM6 | None | Headphones | United States | USD | 2026\-11\-26T06:01:03\.583277\+00:00 |
-| Sony WF\-C710N black | bf\-002 | WF\-C710N | None | Headphones | United Kingdom | GBP | 2026\-11\-26T06:01:03\.583277\+00:00 |
-| Sony WF\-C710N black | bf\-002 | WF\-C710N | None | Headphones | Germany | EUR | 2026\-11\-26T06:01:03\.583277\+00:00 |
+| Beauty | True | USD | None | S9987/59 | United States | 2026\-11\-27T12:08:37\.625434\+00:00 | 0 |
+| Coffee machines | True | USD | None | SES875BSS | United States | 2026\-11\-27T10:52:00\.914997\+00:00 | 3 |
+| Air fryers | False | EUR | None | AF300 | Germany | 2026\-11\-27T09:29:17\.848221\+00:00 | 6 |
+| Toys | False | GBP | None | 75381 | United Kingdom | 2026\-11\-27T15:34:54\.868788\+00:00 | 22 |
+| Blenders | False | USD | None | MQ5235 | United States | 2026\-11\-27T11:11:00\.242100\+00:00 | 0 |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -127,24 +127,24 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 | Column | Type |
 | --- | --- |
-| Product name | text |
-| SKU | text |
-| MPN | text |
-| GTIN | text |
 | Category | text |
-| Market | text |
+| Complete | boolean |
 | Currency | text |
-| Snapshot | text |
+| GTIN | text |
+| MPN | text |
+| Market | text |
 | Observed at | text |
-| Search query | text |
-| Search URL | text |
-| Status | text |
-| Seller count | bigint |
 | Offer count | bigint |
 | Product groups | bigint |
-| Rejected offers | bigint |
-| Complete | boolean |
+| Product name | text |
 | Reason | text |
+| Rejected offers | bigint |
+| SKU | text |
+| Search URL | text |
+| Search query | text |
+| Seller count | bigint |
+| Snapshot | text |
+| Status | text |
 
 ## How the pipeline works
 

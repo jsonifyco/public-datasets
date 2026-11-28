@@ -8,7 +8,7 @@ Explore job postings from public Greenhouse and Ashby careers boards\. Export to
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-27T09:02:06.731380Z
+- Last published: 2026-11-28T09:02:13.372441Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## Tech &amp; AI Job History / postings
 
-59,912 total rows · 50 sampled · Output revision 9
-Published: 2026-11-27T09:02:06.731380Z · Producing pipeline version: 1
+66,621 total rows · 50 sampled · Output revision 10
+Published: 2026-11-28T09:02:13.372441Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.csv) · [JSON sample](outputs/1ee398128fc6/postings-4d6282602ee9/sample.json) · [Schema](outputs/1ee398128fc6/postings-4d6282602ee9/schema.json)
 
@@ -27,9 +27,9 @@ Published: 2026-11-27T09:02:06.731380Z · Producing pipeline version: 1
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026\-11\-27T09:01:11\.903526\+00:00 | Databricks | \["Professional Services Operations"\] | None | None | 2026\-11\-27 | 8960958002 | Deployment Strategist |
 | 2026\-11\-24T09:00:37\.017012\+00:00 | Databricks | \["Engineering \- Pipeline"\] | None | None | 2026\-11\-19 | 7642799002 | Staff Software Engineer \- Backend   |
+| 2026\-11\-28T09:01:19\.408487\+00:00 | Databricks | \["Field Engineering \- Enablement"\] | None | None | 2026\-11\-19 | 8548502002 | Lead Technical Enablement Specialist, Field Capability &amp; Readiness |
 | 2026\-11\-22T09:00:33\.033946\+00:00 | Reddit | \["Data Science"\] | \["Full\-time", "Regular"\] | Full time; Regular | 2026\-11\-19 | 8072076 | Staff Data Scientist \- Ads Measurement, Signals, Privacy |
 | 2026\-11\-25T09:00:33\.410506\+00:00 | Databricks | \["Field Engineering \- Other"\] | None | None | 2026\-11\-19 | 8870159002 | Specialist Solutions Architect \- Data Engineering |
-| 2026\-11\-22T09:00:33\.033946\+00:00 | Brex | \["Risk &amp; Credit"\] | None | None | 2026\-11\-19 | 8750674002 | Fraud Operations Associate |
 
 Preview shows up to 5 rows and 8 columns. Sample files contain all public columns for included rows.
 
@@ -56,8 +56,8 @@ Preview shows up to 5 rows and 8 columns. Sample files contain all public column
 
 ## Tech &amp; AI Job History / captures
 
-225 total rows · 50 sampled · Output revision 9
-Published: 2026-11-27T09:02:06.731380Z · Producing pipeline version: 1
+250 total rows · 50 sampled · Output revision 10
+Published: 2026-11-28T09:02:13.372441Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.csv) · [JSON sample](outputs/1ee398128fc6/captures-2d9457560f11/sample.json) · [Schema](outputs/1ee398128fc6/captures-2d9457560f11/schema.json)
 

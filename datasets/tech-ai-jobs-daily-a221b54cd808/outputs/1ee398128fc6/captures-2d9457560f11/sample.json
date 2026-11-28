@@ -224,6 +224,14 @@
     "posting_count": 261
   },
   {
+    "board_url": "https://job-boards.greenhouse.io/coinbase",
+    "capture_date": "2026-11-28T09:01:19.408487+00:00",
+    "company": "Coinbase",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 256
+  },
+  {
     "board_url": "https://job-boards.greenhouse.io/reddit",
     "capture_date": "2026-11-23T09:10:07.650156+00:00",
     "company": "Reddit",
@@ -270,6 +278,14 @@
     "complete": true,
     "platform": "Greenhouse",
     "posting_count": 166
+  },
+  {
+    "board_url": "https://job-boards.greenhouse.io/datadog",
+    "capture_date": "2026-11-28T09:01:19.408487+00:00",
+    "company": "Datadog",
+    "complete": true,
+    "platform": "Greenhouse",
+    "posting_count": 392
   },
   {
     "board_url": "https://jobs.ashbyhq.com/Perplexity",
@@ -382,21 +398,5 @@
     "complete": true,
     "platform": "Greenhouse",
     "posting_count": 266
-  },
-  {
-    "board_url": "https://job-boards.greenhouse.io/coinbase",
-    "capture_date": "2026-11-24T09:00:37.017012+00:00",
-    "company": "Coinbase",
-    "complete": true,
-    "platform": "Greenhouse",
-    "posting_count": 249
-  },
-  {
-    "board_url": "https://jobs.ashbyhq.com/cursor",
-    "capture_date": "2026-11-27T09:01:11.903526+00:00",
-    "company": "Cursor",
-    "complete": true,
-    "platform": "Ashby",
-    "posting_count": 87
   }
 ]

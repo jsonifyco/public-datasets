@@ -48,6 +48,30 @@
     "workplace_type": null
   },
   {
+    "capture_date": "2026-11-28T09:01:19.408487+00:00",
+    "company": "Databricks",
+    "department": [
+      "Field Engineering - Enablement"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8548502002",
+    "job_title": "Lead Technical Enablement Specialist, Field Capability & Readiness",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548502002",
+    "last_updated_date": "2026-11-19T16:47:39-05:00",
+    "locations": [
+      "United States"
+    ],
+    "locations_source": [
+      "United States"
+    ],
+    "posted_date": "2026-05-26T18:03:25-04:00",
+    "remote_flag": null,
+    "team": null,
+    "workplace_type": null
+  },
+  {
     "capture_date": "2026-11-22T09:00:33.033946+00:00",
     "company": "Reddit",
     "department": [
@@ -283,6 +307,32 @@
     "remote_flag": true,
     "team": "Platform",
     "workplace_type": "Remote"
+  },
+  {
+    "capture_date": "2026-11-28T09:01:19.408487+00:00",
+    "company": "OpenAI",
+    "department": [
+      "User Operations"
+    ],
+    "employment_type": [
+      "Full-time"
+    ],
+    "employment_type_source": "FullTime",
+    "first_seen_date": "2026-11-19",
+    "job_id": "48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+    "job_title": "AI Support Engineer, Government - San Francisco, CA",
+    "job_url": "https://jobs.ashbyhq.com/openai/48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+    "last_updated_date": null,
+    "locations": [
+      "San Francisco"
+    ],
+    "locations_source": [
+      "San Francisco"
+    ],
+    "posted_date": "2026-08-31T21:38:54.505+00:00",
+    "remote_flag": true,
+    "team": "Support Delivery",
+    "workplace_type": "Hybrid"
   },
   {
     "capture_date": "2026-11-21T09:00:30.919470+00:00",
@@ -668,6 +718,30 @@
     "posted_date": "2026-09-10T13:36:42-04:00",
     "remote_flag": null,
     "team": null,
+    "workplace_type": null
+  },
+  {
+    "capture_date": "2026-11-28T09:01:19.408487+00:00",
+    "company": "Coinbase",
+    "department": [
+      "Customer Experience"
+    ],
+    "employment_type": null,
+    "employment_type_source": null,
+    "first_seen_date": "2026-11-19",
+    "job_id": "8334387",
+    "job_title": "Customer Support Specialist ll",
+    "job_url": "https://www.coinbase.com/careers/positions/8334387?gh_jid=8334387",
+    "last_updated_date": "2026-11-02T09:12:41-05:00",
+    "locations": [
+      "Manila, Philippines"
+    ],
+    "locations_source": [
+      "Manila, Philippines"
+    ],
+    "posted_date": "2026-11-02T09:12:41-05:00",
+    "remote_flag": null,
+    "team": "Customer Experience",
     "workplace_type": null
   },
   {
@@ -1206,79 +1280,6 @@
       "Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA"
     ],
     "posted_date": "2025-12-04T10:12:44-05:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-19T16:31:15.157852+00:00",
-    "company": "Duolingo",
-    "department": [
-      "Product Management"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "8675670002",
-    "job_title": "Senior Product Manager",
-    "job_url": "https://careers.duolingo.com/jobs/8675670002?gh_jid=8675670002",
-    "last_updated_date": "2026-11-02T11:38:30-05:00",
-    "locations": [
-      "Beijing, China"
-    ],
-    "locations_source": [
-      "Beijing, China"
-    ],
-    "posted_date": "2026-08-04T09:18:27-04:00",
-    "remote_flag": null,
-    "team": null,
-    "workplace_type": null
-  },
-  {
-    "capture_date": "2026-11-19T16:31:15.157852+00:00",
-    "company": "Anthropic",
-    "department": [
-      "Technical Program Management"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "5455454008",
-    "job_title": "Technical Program Manager, Science Strategy & Communications",
-    "job_url": "https://job-boards.greenhouse.io/anthropic/jobs/5455454008",
-    "last_updated_date": "2026-10-16T18:10:03-04:00",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "locations_source": [
-      "San Francisco, CA | New York City, NY"
-    ],
-    "posted_date": "2026-10-16T18:10:03-04:00",
-    "remote_flag": false,
-    "team": null,
-    "workplace_type": "On-Site"
-  },
-  {
-    "capture_date": "2026-11-24T09:00:37.017012+00:00",
-    "company": "Stripe",
-    "department": [
-      "1170 GEO Sales HQ (NA)"
-    ],
-    "employment_type": null,
-    "employment_type_source": null,
-    "first_seen_date": "2026-11-19",
-    "job_id": "8191706",
-    "job_title": "Sales Manager, Startups - Hunter ",
-    "job_url": "https://stripe.com/jobs/search?gh_jid=8191706",
-    "last_updated_date": "2026-11-19T12:12:25-05:00",
-    "locations": [
-      "Chicago"
-    ],
-    "locations_source": [
-      "Chicago"
-    ],
-    "posted_date": "2026-09-17T14:04:16-04:00",
     "remote_flag": null,
     "team": null,
     "workplace_type": null

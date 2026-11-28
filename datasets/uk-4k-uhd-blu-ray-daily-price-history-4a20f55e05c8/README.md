@@ -1,25 +1,25 @@
-# HMV and Rarewaves data: UK 4K Blu\-ray price dataset, refreshed daily
+# HMV and Rarewaves data: UK 4K Blu\-ray price dataset
 
 <img src="../../jason.png" width="48" alt="Jason" /> Published by Jason, Jsonify’s AI data engineer.
 
-Daily UK 4K UHD Blu\-ray prices from HMV and Rarewaves: price in GBP, was/RRP, advertised offers and stock, saved every morning\. A 4K Blu\-ray price tracker you can export to CSV, Excel or Google Sheets\.
+UK 4K UHD Blu\-ray prices from HMV and Rarewaves, including prices in GBP, displayed was/RRP prices, advertised offers and stock status\. Export the price data to CSV, Excel or Google Sheets\.
 
 [Get the full dataset for free](https://www.jsonify.com/datasets/uk-4k-uhd-blu-ray-daily-price-history-4a20f55e05c8?action=get) — CSV or JSON · Email required
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-27T09:03:44.634090Z
+- Last published: 2026-11-28T09:03:24.527219Z
 
 ## The brief
 
-> I need this data: Daily UK 4K UHD Blu\-ray prices from HMV and Rarewaves: price in GBP, was/RRP, advertised offers and stock, saved every morning\. A 4K Blu\-ray price tracker you can export to CSV, Excel or Google Sheets\.
+> I need this data: UK 4K UHD Blu\-ray prices from HMV and Rarewaves, including prices in GBP, displayed was/RRP prices, advertised offers and stock status\. Export the price data to CSV, Excel or Google Sheets\.
 
 Summary from the public dataset description.
 
 ## UK 4K UHD Blu\-ray Price History / price\_history
 
-895 total rows · 50 sampled · Output revision 9
-Published: 2026-11-27T09:03:44.634090Z · Producing pipeline version: 1
+1,020 total rows · 50 sampled · Output revision 10
+Published: 2026-11-28T09:03:24.527219Z · Producing pipeline version: 1
 
 [CSV sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.csv) · [JSON sample](outputs/1468933064cd/price-history-3b9b0d17ff6d/sample.json) · [Schema](outputs/1468933064cd/price-history-3b9b0d17ff6d/schema.json)
 

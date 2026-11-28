@@ -8,7 +8,7 @@ Apple Music Top 100 USA and Global chart dataset with chart position, song, arti
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-27T10:01:17.453239Z
+- Last published: 2026-11-28T10:01:15.309325Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## Apple Music Daily Top 100 / daily\_charts
 
-2,200 total rows · 50 sampled · Output revision 12
-Published: 2026-11-27T10:01:17.453239Z · Producing pipeline version: 1
+2,400 total rows · 50 sampled · Output revision 13
+Published: 2026-11-28T10:01:15.309325Z · Producing pipeline version: 1
 
 [CSV sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.csv) · [JSON sample](outputs/a7335034808b/daily-charts-f8952c615818/sample.json) · [Schema](outputs/a7335034808b/daily-charts-f8952c615818/schema.json)
 

@@ -60,6 +60,16 @@
     "song_title": "Stop The Wedding!"
   },
   {
+    "apple_music_song_id": "1889992113",
+    "apple_music_song_url": "https://music.apple.com/us/song/drop-dead/1889992113",
+    "artist": "Olivia Rodrigo",
+    "chart": "Global",
+    "chart_date": "2026-11-28",
+    "position": 83,
+    "snapshot_key": "Global:2026-11-28:83",
+    "song_title": "drop dead"
+  },
+  {
     "apple_music_song_id": "1871258330",
     "apple_music_song_url": "https://music.apple.com/us/song/e85/1871258330",
     "artist": "Don Toliver",
@@ -180,6 +190,16 @@
     "song_title": "Flower In A Hurricane [From GTAVI: Original Score]"
   },
   {
+    "apple_music_song_id": "1444319982",
+    "apple_music_song_url": "https://music.apple.com/us/song/santa-tell-me/1444319982",
+    "artist": "Ariana Grande",
+    "chart": "Global",
+    "chart_date": "2026-11-28",
+    "position": 14,
+    "snapshot_key": "Global:2026-11-28:14",
+    "song_title": "Santa Tell Me"
+  },
+  {
     "apple_music_song_id": "1802103970",
     "apple_music_song_url": "https://music.apple.com/us/song/im-the-problem/1802103970",
     "artist": "Morgan Wallen",
@@ -190,6 +210,16 @@
     "song_title": "I'm The Problem"
   },
   {
+    "apple_music_song_id": "1545270163",
+    "apple_music_song_url": "https://music.apple.com/us/song/into-you/1545270163",
+    "artist": "Ariana Grande",
+    "chart": "Global",
+    "chart_date": "2026-11-28",
+    "position": 84,
+    "snapshot_key": "Global:2026-11-28:84",
+    "song_title": "Into You"
+  },
+  {
     "apple_music_song_id": "1440841382",
     "apple_music_song_url": "https://music.apple.com/us/song/controlla/1440841382",
     "artist": "Drake",
@@ -198,6 +228,16 @@
     "position": 96,
     "snapshot_key": "USA:2026-11-19:96",
     "song_title": "Controlla"
+  },
+  {
+    "apple_music_song_id": "6818209989",
+    "apple_music_song_url": "https://music.apple.com/us/song/solar-eclipse/6818209989",
+    "artist": "Drake , Don Toliver",
+    "chart": "Global",
+    "chart_date": "2026-11-28",
+    "position": 37,
+    "snapshot_key": "Global:2026-11-28:37",
+    "song_title": "Solar Eclipse"
   },
   {
     "apple_music_song_id": "1817609509",
@@ -278,6 +318,16 @@
     "position": 41,
     "snapshot_key": "Global:2026-11-23:41",
     "song_title": "Boston"
+  },
+  {
+    "apple_music_song_id": "6793862983",
+    "apple_music_song_url": "https://music.apple.com/us/song/yes-tokyo-feat-super-dragon-sakurashimeji-one-n-only/6793862983",
+    "artist": "EBiDAN Ebisu Gakuen Boys Club , chotokkyu , M!LK , GNJB",
+    "chart": "Global",
+    "chart_date": "2026-11-28",
+    "position": 21,
+    "snapshot_key": "Global:2026-11-28:21",
+    "song_title": "Yes! Tokyo (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)"
   },
   {
     "apple_music_song_id": "6817260751",
@@ -400,6 +450,16 @@
     "song_title": "Baby (feat. Ludacris)"
   },
   {
+    "apple_music_song_id": "255615879",
+    "apple_music_song_url": "https://music.apple.com/us/song/feliz-navidad/255615879",
+    "artist": "José Feliciano",
+    "chart": "Global",
+    "chart_date": "2026-11-28",
+    "position": 53,
+    "snapshot_key": "Global:2026-11-28:53",
+    "song_title": "Feliz Navidad"
+  },
+  {
     "apple_music_song_id": "669854831",
     "apple_music_song_url": "https://music.apple.com/us/song/its-beginning-to-look-a-lot-like-christmas/669854831",
     "artist": "Michael Bublé",
@@ -438,65 +498,5 @@
     "position": 27,
     "snapshot_key": "Global:2026-11-26:27",
     "song_title": "So Easy (To Fall In Love)"
-  },
-  {
-    "apple_music_song_id": "1440830243",
-    "apple_music_song_url": "https://music.apple.com/us/song/let-it-snow-let-it-snow-let-it-snow/1440830243",
-    "artist": "Dean Martin",
-    "chart": "Global",
-    "chart_date": "2026-11-23",
-    "position": 53,
-    "snapshot_key": "Global:2026-11-23:53",
-    "song_title": "Let It Snow! Let It Snow! Let It Snow!"
-  },
-  {
-    "apple_music_song_id": "669854831",
-    "apple_music_song_url": "https://music.apple.com/us/song/its-beginning-to-look-a-lot-like-christmas/669854831",
-    "artist": "Michael Bublé",
-    "chart": "Global",
-    "chart_date": "2026-11-26",
-    "position": 45,
-    "snapshot_key": "Global:2026-11-26:45",
-    "song_title": "It's Beginning To Look a Lot Like Christmas"
-  },
-  {
-    "apple_music_song_id": "1887194026",
-    "apple_music_song_url": "https://music.apple.com/us/song/its-me/1887194026",
-    "artist": "ILLIT",
-    "chart": "Global",
-    "chart_date": "2026-11-25",
-    "position": 22,
-    "snapshot_key": "Global:2026-11-25:22",
-    "song_title": "It's Me"
-  },
-  {
-    "apple_music_song_id": "6818209989",
-    "apple_music_song_url": "https://music.apple.com/us/song/solar-eclipse/6818209989",
-    "artist": "Drake , Don Toliver",
-    "chart": "Global",
-    "chart_date": "2026-11-23",
-    "position": 27,
-    "snapshot_key": "Global:2026-11-23:27",
-    "song_title": "Solar Eclipse"
-  },
-  {
-    "apple_music_song_id": "585972803",
-    "apple_music_song_url": "https://music.apple.com/us/song/all-i-want-for-christmas-is-you/585972803",
-    "artist": "Mariah Carey",
-    "chart": "USA",
-    "chart_date": "2026-11-27",
-    "position": 1,
-    "snapshot_key": "USA:2026-11-27:1",
-    "song_title": "All I Want for Christmas Is You"
-  },
-  {
-    "apple_music_song_id": "6818209990",
-    "apple_music_song_url": "https://music.apple.com/us/song/quebec/6818209990",
-    "artist": "Drake",
-    "chart": "USA",
-    "chart_date": "2026-11-19",
-    "position": 35,
-    "snapshot_key": "USA:2026-11-19:35",
-    "song_title": "Quebec"
   }
 ]

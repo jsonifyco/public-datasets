@@ -1,0 +1,66 @@
+[
+  {
+    "name": "capture_time",
+    "type": "text"
+  },
+  {
+    "name": "retailer",
+    "type": "text"
+  },
+  {
+    "name": "country",
+    "type": "text"
+  },
+  {
+    "name": "currency",
+    "type": "text"
+  },
+  {
+    "name": "brand",
+    "type": "text"
+  },
+  {
+    "name": "model",
+    "type": "text"
+  },
+  {
+    "name": "product_line",
+    "type": "text"
+  },
+  {
+    "name": "capacity_tb",
+    "type": "integer"
+  },
+  {
+    "name": "drive_type",
+    "type": "text"
+  },
+  {
+    "name": "condition",
+    "type": "text"
+  },
+  {
+    "name": "sold_by",
+    "type": "text"
+  },
+  {
+    "name": "price",
+    "type": "double precision"
+  },
+  {
+    "name": "was_price",
+    "type": "double precision"
+  },
+  {
+    "name": "price_per_tb",
+    "type": "double precision"
+  },
+  {
+    "name": "in_stock",
+    "type": "boolean"
+  },
+  {
+    "name": "product_url",
+    "type": "text"
+  }
+]

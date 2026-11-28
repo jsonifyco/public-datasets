@@ -1,0 +1,51 @@
+capture_time,retailer,country,currency,brand,model,product_line,capacity_tb,drive_type,condition,sold_by,price,was_price,price_per_tb,in_stock,product_url
+2026-11-28T08:37:43.586660+00:00,Newegg.ca,CA,CAD,Toshiba,4XB7A69714,MG,18,internal,refurbished,mfptechnologyservices,374,,20.7778,false,https://www.newegg.ca/p/9SIAG4PMA29987
+2026-11-28T09:01:34.414850+00:00,Newegg.ca,CA,CAD,Toshiba,4XB7A69714,MG,18,internal,refurbished,mfptechnologyservices,374,,20.7778,false,https://www.newegg.ca/p/9SIAG4PMA29987
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST16000NM010G-HP-NOTRAY,Exos,16,internal,refurbished,Server Part Deals,349,,21.8125,true,https://www.newegg.com/p/9SIA994M5U9716
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST16000NM010G-HP-NOTRAY,Exos,16,internal,refurbished,Server Part Deals,349,,21.8125,true,https://www.newegg.com/p/9SIA994M5U9716
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST16000NM002G,Exos,16,internal,refurbished,Server Part Deals,369,,23.0625,true,https://www.newegg.com/p/9SIA994JPD8482
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST16000NM002G,Exos,16,internal,refurbished,Server Part Deals,369,,23.0625,true,https://www.newegg.com/p/9SIA994JPD8482
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST20000NM007D,Exos,20,internal,,Newegg.com,547.49,,27.3745,true,https://www.newegg.com/p/9UD22-185-011
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST20000NM007D,Exos,20,internal,,Newegg.com,547.49,,27.3745,true,https://www.newegg.com/p/9UD22-185-011
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST20000NM007D,Exos,20,internal,refurbished,Server Part Deals,565,599,28.25,true,https://www.newegg.com/p/9SIA994J1H1054
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST20000NM007D,Exos,20,internal,refurbished,Server Part Deals,565,599,28.25,true,https://www.newegg.com/p/9SIA994J1H1054
+2026-11-28T08:37:43.586660+00:00,Memory Express,CA,CAD,Seagate,BDL_MM00006004,BarraCuda,24,internal,,Memory Express,699.99,1100,29.1663,true,https://www.memoryexpress.com/Products/BDL_MM00006004
+2026-11-28T09:01:34.414850+00:00,Memory Express,CA,CAD,Seagate,BDL_MM00006004,BarraCuda,24,internal,,Memory Express,699.99,1100,29.1663,true,https://www.memoryexpress.com/Products/BDL_MM00006004
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST16000NM000J,Exos,16,internal,,Newegg.com,477.45,,29.8406,true,https://www.newegg.com/p/9UD1Z4-002P-022S9
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST16000NM000J,Exos,16,internal,,Newegg.com,477.45,,29.8406,true,https://www.newegg.com/p/9UD1Z4-002P-022S9
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST16000NM010G-HP-NOTRAY,Exos,16,internal,,Server Part Deals,489,,30.5625,true,https://www.newegg.com/p/9SIA994M409569
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST16000NM010G-HP-NOTRAY,Exos,16,internal,,Server Part Deals,489,,30.5625,true,https://www.newegg.com/p/9SIA994M409569
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST16000NM000G,Exos,16,internal,refurbished,goHardDrive,499.99,,31.2494,true,https://www.newegg.com/p/9SIA5ADJMG7774
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST16000NM000G,Exos,16,internal,refurbished,goHardDrive,499.99,,31.2494,true,https://www.newegg.com/p/9SIA5ADJMG7774
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,WD,0F38459,Ultrastar,18,internal,,roboshine,568.54,,31.5856,true,https://www.newegg.com/p/9SIBTK0KB58074
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,WD,0F38459,Ultrastar,18,internal,,roboshine,568.54,,31.5856,true,https://www.newegg.com/p/9SIBTK0KB58074
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,WD,WUH722020BLE601-0F38781,Ultrastar,20,internal,refurbished,Server Part Deals,649,,32.45,true,https://www.newegg.com/p/9SIA994M5Z5303
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,WD,WUH722020BLE601-0F38781,Ultrastar,20,internal,refurbished,Server Part Deals,649,,32.45,true,https://www.newegg.com/p/9SIA994M5Z5303
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST20000NM002D,Exos,20,internal,refurbished,Server Part Deals,659,,32.95,true,https://www.newegg.com/p/9SIA994J1H1069
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST20000NM002D,Exos,20,internal,refurbished,Server Part Deals,659,,32.95,true,https://www.newegg.com/p/9SIA994J1H1069
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,WD,WUH722624ALE601-0F65682,Ultrastar,24,internal,refurbished,Server Part Deals,799,,33.2917,true,https://www.newegg.com/p/9SIA994M6K9338
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,WD,WUH722624ALE601-0F65682,Ultrastar,24,internal,refurbished,Server Part Deals,799,,33.2917,true,https://www.newegg.com/p/9SIA994M6K9338
+2026-11-28T09:01:34.414850+00:00,B&H Photo,US,USD,WD,WDBBGB0180HBK-NESN,My Book,18,external,,B&H Photo,599.99,799.99,33.3328,true,https://www.bhphotovideo.com/c/product/1604992-REG/wd_wdbbgb0180hbk_nesn_my_book_18tb_black.html
+2026-11-28T08:37:43.586660+00:00,B&H Photo,US,USD,WD,WDBBGB0180HBK-NESN,My Book,18,external,,B&H Photo,599.99,799.99,33.3328,true,https://www.bhphotovideo.com/c/product/1604992-REG/wd_wdbbgb0180hbk_nesn_my_book_18tb_black.html
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST16000NM002G,Exos,16,internal,,"E.O.L. Tech Inc,.",550,,34.375,true,https://www.newegg.com/p/9SIAAEEK9D9806
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST16000NM002G,Exos,16,internal,,"E.O.L. Tech Inc,.",550,,34.375,true,https://www.newegg.com/p/9SIAAEEK9D9806
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,BEST16000NM001G,Exos,16,internal,,"E.O.L. Tech Inc,.",550,,34.375,true,https://www.newegg.com/p/9SIAAEEM157752
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,BEST16000NM001G,Exos,16,internal,,"E.O.L. Tech Inc,.",550,,34.375,true,https://www.newegg.com/p/9SIAAEEM157752
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Toshiba,MG08ACA16TE,MG,16,internal,,Bolt Electronics,572.36,,35.7725,true,https://www.newegg.com/p/9SIC5BHM8R8291
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Toshiba,MG08ACA16TE,MG,16,internal,,Bolt Electronics,572.36,,35.7725,true,https://www.newegg.com/p/9SIC5BHM8R8291
+2026-11-28T08:37:43.586660+00:00,B&H Photo,US,USD,Toshiba,HDWG81GXZSTA,N300,16,internal,,B&H Photo,599,799,37.4375,true,https://www.bhphotovideo.com/c/product/1952537-REG/toshiba_hdwg81gxzsta_n300_nas_hard_drive.html
+2026-11-28T09:01:34.414850+00:00,B&H Photo,US,USD,Toshiba,HDWG81GXZSTA,N300,16,internal,,B&H Photo,599,799,37.4375,true,https://www.bhphotovideo.com/c/product/1952537-REG/toshiba_hdwg81gxzsta_n300_nas_hard_drive.html
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST20000NM008D-NOTRAY,Exos,20,internal,,Server Part Deals,759,,37.95,true,https://www.newegg.com/p/9SIA994M743422
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST20000NM008D-NOTRAY,Exos,20,internal,,Server Part Deals,759,,37.95,true,https://www.newegg.com/p/9SIA994M743422
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST16000NM000J,Exos,16,internal,,"E.O.L. Tech Inc,.",625,,39.0625,true,https://www.newegg.com/p/9SIAAEEKG90660
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST16000NM000J,Exos,16,internal,,"E.O.L. Tech Inc,.",625,,39.0625,true,https://www.newegg.com/p/9SIAAEEKR74823
+2026-11-28T08:37:43.586660+00:00,Newegg.ca,CA,CAD,Seagate,ST24000DM001,BarraCuda,24,internal,,Newegg.ca,979.99,1049.99,40.8329,true,https://www.newegg.ca/p/N82E16822185109
+2026-11-28T09:01:34.414850+00:00,Newegg.ca,CA,CAD,Seagate,ST24000DM001,BarraCuda,24,internal,,Newegg.ca,979.99,1049.99,40.8329,true,https://www.newegg.ca/p/N82E16822185109
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST16000NM004J,Exos,16,internal,,"E.O.L. Tech Inc,.",665.95,,41.6219,true,https://www.newegg.com/p/9SIAAEEKJS4499
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST16000NM004J,Exos,16,internal,,"E.O.L. Tech Inc,.",665.95,,41.6219,true,https://www.newegg.com/p/9SIAAEEKJS4499
+2026-11-28T08:37:43.586660+00:00,B&H Photo,US,USD,WD,WDBWLG0240HBK-NESN,Elements,24,external,,B&H Photo,999.99,1179.99,41.6662,true,https://www.bhphotovideo.com/c/product/1838680-REG/wd_wdbwlg0240hbk_nesn_24tb_elements_desktop.html
+2026-11-28T09:01:34.414850+00:00,B&H Photo,US,USD,WD,WDBWLG0240HBK-NESN,Elements,24,external,,B&H Photo,999.99,1179.99,41.6662,true,https://www.bhphotovideo.com/c/product/1838680-REG/wd_wdbwlg0240hbk_nesn_24tb_elements_desktop.html
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST24000DM001,BarraCuda,24,internal,,"E.O.L. Tech Inc,.",1005,,41.875,true,https://www.newegg.com/p/9SIAAEEM5T5924
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST24000DM001,BarraCuda,24,internal,,"E.O.L. Tech Inc,.",1005,,41.875,true,https://www.newegg.com/p/9SIAAEEM5T5924
+2026-11-28T08:37:43.586660+00:00,Newegg.com,US,USD,Seagate,ST20000NM007D,Exos,20,internal,,NothingButSavings,844.55,,42.2275,true,https://www.newegg.com/p/9SIA6ZPM550439
+2026-11-28T09:01:34.414850+00:00,Newegg.com,US,USD,Seagate,ST20000NM007D,Exos,20,internal,,NothingButSavings,844.55,,42.2275,true,https://www.newegg.com/p/9SIA6ZPM550439

@@ -8,7 +8,7 @@ K\-beauty product price observations from public product pages on Olive Young Gl
 
 - Refresh: daily
 - Active pipeline version: 3
-- Last published: 2026-11-27T09:09:02.598371Z
+- Last published: 2026-11-28T09:07:32.587696Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## K\-beauty Daily Price History / prices
 
-141 total rows · 50 sampled · Output revision 9
-Published: 2026-11-27T09:09:02.598371Z · Producing pipeline version: 3
+155 total rows · 50 sampled · Output revision 10
+Published: 2026-11-28T09:07:32.587696Z · Producing pipeline version: 3
 
 [CSV sample](outputs/36aefab1c219/prices-fe81f9390ffe/sample.csv) · [JSON sample](outputs/36aefab1c219/prices-fe81f9390ffe/sample.json) · [Schema](outputs/36aefab1c219/prices-fe81f9390ffe/schema.json)
 

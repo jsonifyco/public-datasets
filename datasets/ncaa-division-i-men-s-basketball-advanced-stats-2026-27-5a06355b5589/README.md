@@ -8,7 +8,7 @@ NCAA Division I men's basketball advanced stats with team records, adjusted effi
 
 - Refresh: daily
 - Active pipeline version: 1
-- Last published: 2026-11-27T10:01:10.267397Z
+- Last published: 2026-11-28T10:01:11.292862Z
 
 ## The brief
 
@@ -18,8 +18,8 @@ Summary from the public dataset description.
 
 ## NCAA Division I Men's Basketball Advanced Stats 2026–27 / team\_captures
 
-4,745 total rows · 50 sampled · Output revision 13
-Published: 2026-11-27T10:01:10.267397Z · Producing pipeline version: 1
+5,110 total rows · 50 sampled · Output revision 14
+Published: 2026-11-28T10:01:11.292862Z · Producing pipeline version: 1
 
 [CSV sample](outputs/3c02706620bf/team-captures-b62e049933b3/sample.csv) · [JSON sample](outputs/3c02706620bf/team-captures-b62e049933b3/sample.json) · [Schema](outputs/3c02706620bf/team-captures-b62e049933b3/schema.json)
 
